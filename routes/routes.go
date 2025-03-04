@@ -20,6 +20,10 @@ func SetRoutes(app *fiber.App) {
 		return render(c, views.About())
 	})
 
+	app.Get("/sources", func(c *fiber.Ctx) error {
+		return render(c, views.Sources())
+	})
+
 	app.Get("/search", func(c *fiber.Ctx) error {
 		queryParam := c.Query("q")
 

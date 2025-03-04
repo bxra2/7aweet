@@ -8,7 +8,7 @@ package views
 import "github.com/a-h/templ"
 import templruntime "github.com/a-h/templ/runtime"
 
-func About() templ.Component {
+func Sources() templ.Component {
 	return templruntime.GeneratedTemplate(func(templ_7745c5c3_Input templruntime.GeneratedComponentInput) (templ_7745c5c3_Err error) {
 		templ_7745c5c3_W, ctx := templ_7745c5c3_Input.Writer, templ_7745c5c3_Input.Context
 		if templ_7745c5c3_CtxErr := ctx.Err(); templ_7745c5c3_CtxErr != nil {
@@ -41,7 +41,7 @@ func About() templ.Component {
 				}()
 			}
 			ctx = templ.InitializeContext(ctx)
-			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<div class=\"about-background flex justify-center h-screen items-center\"><div class=\"about-section h-[90]\" dir=\"rtl\"><h1 class=\"text-center text-5xl mb-8\">عن المعجم الحويط</h1><p>معجم المصطلحات الحويط هو محاولة لتجميع</p><h3 class=\"text-3xl mb-8\">اللغات المدعومة</h3></div></div>")
+			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<div class=\"about-background flex justify-center h-screen items-center\"><div class=\"about-section h-[90]\" dir=\"rtl\"><h1 class=\"text-center text-5xl mb-8\">مصادر المعجم الحويط</h1></div></div>")
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
