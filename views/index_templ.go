@@ -29,7 +29,7 @@ func template() templ.Component {
 			templ_7745c5c3_Var1 = templ.NopComponent
 		}
 		ctx = templ.ClearChildren(ctx)
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<!doctype html><html><head><meta chatset=\"UTF-8\"><meta name=\"viewport\"><script src=\"https://cdn.tailwindcss.com\"></script></head><body><div class=\"flex items-center\"><!-- Sidebar --><div class=\" text-black w-64 min-h-screen p-4\"><ul class=\"space-y-4\"><li><a href=\"javascript:void(0)\" class=\"flex items-center space-x-2 text-lg\"><i class=\"fa fa-home SDIcon\" aria-hidden=\"true\"></i> <span>asdf</span></a></li><li><a href=\"javascript:void(0)\" class=\"flex items-center space-x-2 text-lg\"><i class=\"fa fa-square-o SDIcon\" aria-hidden=\"true\"></i> <span>aosidjf</span></a></li><li><a href=\"javascript:void(0)\" class=\"flex items-center space-x-2 text-lg\"><i class=\"fa fa-cloud SDIcon\" aria-hidden=\"true\"></i> <span>kajsdh</span></a></li><li><a href=\"javascript:void(0)\" class=\"flex items-center space-x-2 text-lg\"><i class=\"fa fa-circle-o SDIcon\" aria-hidden=\"true\"></i> <span>asfd</span></a></li><li><a href=\"javascript:void(0)\" class=\"flex items-center space-x-2 text-lg\"><i class=\"fa fa-heart-o SDIcon\" aria-hidden=\"true\"></i> <span>piha</span></a></li></ul></div><!-- Main content --><div class=\"flex-1 p-8\"><!-- Content goes here -->")
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<!doctype html><html><head><style>\n  *{\n    box-sizing: border-box;\n  }\n  html {\n    display: grid;\n    height: 100vh;\n  }\n  body {\n    --gap: 1em;\n    font-family: ui-sans-serif, system-ui;\n    margin: 0;\n  }\n  </style><meta charset=\"UTF-8\"><meta name=\"viewport\"><script src=\"https://cdn.tailwindcss.com\"></script></head><body>")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
@@ -37,7 +37,25 @@ func template() templ.Component {
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 2, "</div></div></body></html>")
+		templ_7745c5c3_Var2 := templruntime.GeneratedTemplate(func(templ_7745c5c3_Input templruntime.GeneratedComponentInput) (templ_7745c5c3_Err error) {
+			templ_7745c5c3_W, ctx := templ_7745c5c3_Input.Writer, templ_7745c5c3_Input.Context
+			templ_7745c5c3_Buffer, templ_7745c5c3_IsBuffer := templruntime.GetBuffer(templ_7745c5c3_W)
+			if !templ_7745c5c3_IsBuffer {
+				defer func() {
+					templ_7745c5c3_BufErr := templruntime.ReleaseBuffer(templ_7745c5c3_Buffer)
+					if templ_7745c5c3_Err == nil {
+						templ_7745c5c3_Err = templ_7745c5c3_BufErr
+					}
+				}()
+			}
+			ctx = templ.InitializeContext(ctx)
+			return nil
+		})
+		templ_7745c5c3_Err = Dock().Render(templ.WithChildren(ctx, templ_7745c5c3_Var2), templ_7745c5c3_Buffer)
+		if templ_7745c5c3_Err != nil {
+			return templ_7745c5c3_Err
+		}
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 2, "</body></html>")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
@@ -61,12 +79,12 @@ func Home() templ.Component {
 			}()
 		}
 		ctx = templ.InitializeContext(ctx)
-		templ_7745c5c3_Var2 := templ.GetChildren(ctx)
-		if templ_7745c5c3_Var2 == nil {
-			templ_7745c5c3_Var2 = templ.NopComponent
+		templ_7745c5c3_Var3 := templ.GetChildren(ctx)
+		if templ_7745c5c3_Var3 == nil {
+			templ_7745c5c3_Var3 = templ.NopComponent
 		}
 		ctx = templ.ClearChildren(ctx)
-		templ_7745c5c3_Var3 := templruntime.GeneratedTemplate(func(templ_7745c5c3_Input templruntime.GeneratedComponentInput) (templ_7745c5c3_Err error) {
+		templ_7745c5c3_Var4 := templruntime.GeneratedTemplate(func(templ_7745c5c3_Input templruntime.GeneratedComponentInput) (templ_7745c5c3_Err error) {
 			templ_7745c5c3_W, ctx := templ_7745c5c3_Input.Writer, templ_7745c5c3_Input.Context
 			templ_7745c5c3_Buffer, templ_7745c5c3_IsBuffer := templruntime.GetBuffer(templ_7745c5c3_W)
 			if !templ_7745c5c3_IsBuffer {
@@ -78,13 +96,13 @@ func Home() templ.Component {
 				}()
 			}
 			ctx = templ.InitializeContext(ctx)
-			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 3, "<div class=\"h-screen flex items-center justify-center\"><form action=\"/search\" method=\"get\" class=\"flex flex-col items-center\"><label for=\"search-input\" class=\"mb-2\">Search</label> <input id=\"search-input\" placeholder=\"Search something\" name=\"q\" type=\"text\" class=\"mb-4 p-2 border border-gray-300 rounded w-64 text-right\" oninput=\"changeDirection(this)\"> <button type=\"submit\" class=\"p-2 bg-blue-500 text-white rounded\">Search</button></form></div><script>\n    function changeDirection(input) {\n        // Regular expression to check if the input contains Arabic characters\n        const arabicRegex = /[\\u0600-\\u06FF]/;\n\n        // Check the value of the input field\n        if (arabicRegex.test(input.value)) {\n            // If the text contains Arabic characters, set dir to RTL\n            input.classList.add(\"text-right\");  // Right-aligned text in Arabic\n            input.classList.remove(\"text-left\");  // Remove left-alignment\n        } else {\n            // If the text is English or other LTR language, set dir to LTR\n            input.classList.add(\"text-left\");  // Left-aligned text in LTR\n            input.classList.remove(\"text-right\");  // Remove right-alignment\n        }\n    }\n</script>")
+			templ_7745c5c3_Err = Search().Render(ctx, templ_7745c5c3_Buffer)
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
 			return nil
 		})
-		templ_7745c5c3_Err = template().Render(templ.WithChildren(ctx, templ_7745c5c3_Var3), templ_7745c5c3_Buffer)
+		templ_7745c5c3_Err = template().Render(templ.WithChildren(ctx, templ_7745c5c3_Var4), templ_7745c5c3_Buffer)
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}

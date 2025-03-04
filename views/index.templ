@@ -4,89 +4,34 @@ templ template() {
 	<!DOCTYPE html>
 	<html>
 		<head>
-			<meta chatset="UTF-8"/>
+			<style>
+  *{
+    box-sizing: border-box;
+  }
+  html {
+    display: grid;
+    height: 100vh;
+  }
+  body {
+    --gap: 1em;
+    font-family: ui-sans-serif, system-ui;
+    margin: 0;
+  }
+  </style>
+			<meta charset="UTF-8">
 			<meta name="viewport"/>
 			<script src="https://cdn.tailwindcss.com"></script>
 		</head>
 		<body>
-			<div class="flex items-center">
-				<!-- Sidebar -->
-				<div class=" text-black w-64 min-h-screen p-4">
-					<ul class="space-y-4">
-						<li>
-							<a href="javascript:void(0)" class="flex items-center space-x-2 text-lg">
-								<i class="fa fa-home SDIcon" aria-hidden="true"></i>
-								<span>asdf</span>
-							</a>
-						</li>
-						<li>
-							<a href="javascript:void(0)" class="flex items-center space-x-2 text-lg">
-								<i class="fa fa-square-o SDIcon" aria-hidden="true"></i>
-								<span>aosidjf</span>
-							</a>
-						</li>
-						<li>
-							<a href="javascript:void(0)" class="flex items-center space-x-2 text-lg">
-								<i class="fa fa-cloud SDIcon" aria-hidden="true"></i>
-								<span>kajsdh</span>
-							</a>
-						</li>
-						<li>
-							<a href="javascript:void(0)" class="flex items-center space-x-2 text-lg">
-								<i class="fa fa-circle-o SDIcon" aria-hidden="true"></i>
-								<span>asfd</span>
-							</a>
-						</li>
-						<li>
-							<a href="javascript:void(0)" class="flex items-center space-x-2 text-lg">
-								<i class="fa fa-heart-o SDIcon" aria-hidden="true"></i>
-								<span>piha</span>
-							</a>
-						</li>
-					</ul>
-				</div>
-				<!-- Main content -->
-				<div class="flex-1 p-8">
-					<!-- Content goes here -->
-					{ children... }
-				</div>
-			</div>
+			{ children... }
+			@Dock() {
+			}
 		</body>
 	</html>
 }
 
 templ Home() {
 	@template() {
-		<div class="h-screen flex items-center justify-center">
-			<form action="/search" method="get" class="flex flex-col items-center">
-				<label for="search-input" class="mb-2">Search</label>
-				<input
-					id="search-input"
-					placeholder="Search something"
-					name="q"
-					type="text"
-					class="mb-4 p-2 border border-gray-300 rounded w-64 text-right"
-					oninput="changeDirection(this)"
-				/>
-				<button type="submit" class="p-2 bg-blue-500 text-white rounded">Search</button>
-			</form>
-		</div>
-		<script>
-    function changeDirection(input) {
-        // Regular expression to check if the input contains Arabic characters
-        const arabicRegex = /[\u0600-\u06FF]/;
-
-        // Check the value of the input field
-        if (arabicRegex.test(input.value)) {
-            // If the text contains Arabic characters, set dir to RTL
-            input.classList.add("text-right");  // Right-aligned text in Arabic
-            input.classList.remove("text-left");  // Remove left-alignment
-        } else {
-            // If the text is English or other LTR language, set dir to LTR
-            input.classList.add("text-left");  // Left-aligned text in LTR
-            input.classList.remove("text-right");  // Remove right-alignment
-        }
-    }
-</script>
+		@Search()
 	}
 }
