@@ -23,6 +23,9 @@ func SetRoutes(app *fiber.App) {
 	app.Get("/sources", func(c *fiber.Ctx) error {
 		return render(c, views.Sources())
 	})
+	app.Get("/suggestions", func(c *fiber.Ctx) error {
+		return render(c, views.Suggestions())
+	})
 
 	app.Get("/search", func(c *fiber.Ctx) error {
 		queryParam := c.Query("q")
@@ -30,7 +33,8 @@ func SetRoutes(app *fiber.App) {
 		if queryParam == "" {
 			return c.SendString("No query parameter found")
 		}
-		return c.SendString("Query parameter 'q' value: " + queryParam)
+		return render(c, views.SearchPage())
+		// return c.SendString("Query parameter 'q' value: " + queryParam)
 	})
 
 }
