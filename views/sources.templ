@@ -1,29 +1,37 @@
 package views
 
-templ Sources(){
-    @template() {
+import "github.com/bxra2/7aweet/models"
+
+templ Sources(sources []models.Source) {
+	@template() {
 		<div class="about-background flex justify-center h-screen items-center">
-			<div class="about-section h-[90]" dir="rtl">
-                <h1 class="text-center text-5xl mb-8">مصادر المعجم الحويط</h1>
-                
-            </div>
+			<div class="about-section h-[90] mb-2" dir="rtl">
+				<h1 class="text-center text-5xl mb-8">مصادر المعجم الحويط</h1>
+				for _,source:= range sources {
+					<div class=" mb-6" dir="rtl">
+						<a href={ templ.URL(source.URL) }><h3 class="text-3xl mb-2">{ source.NameAr }</h3></a>
+						<h3 class="text-xl mb-2">{ source.Name }</h3>
+						<p>{ source.Description }</p>
+					</div>
+				}
+			</div>
 		</div>
 	}
 	<style>
-    .about-background{
-    background-color: #989898;
-    opacity: 0.9;
-    background-image:  radial-gradient(#989898 0.75px, transparent 0.75px), radial-gradient(#989898 0.75px, #ffffff 0.75px);
-    background-size: 30px 30px;
-    background-position: 0 0,15px 15px;
-    }
-    .about-section{
-        backdrop-filter: blur(10px);
-        background-color: rgba(255, 255, 255, 0.45);
-        border-radius: 1.75em;
-        box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.3), 0 0 12px -7px rgba(0, 0, 0, 0.2);
-        width:50%;
-        padding: 30px;
-    }
+        .about-background{
+            background-color: #989898;
+            opacity: 0.9;
+            background-image:  radial-gradient(#989898 0.75px, transparent 0.75px), radial-gradient(#989898 0.75px, #ffffff 0.75px);
+            background-size: 30px 30px;
+            background-position: 0 0,15px 15px;
+        }
+        .about-section{
+            backdrop-filter: blur(10px);
+            background-color: rgba(255, 255, 255, 0.45);
+            border-radius: 1.75em;
+            box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.3), 0 0 12px -7px rgba(0, 0, 0, 0.2);
+            width:70%;
+            padding: 30px;
+        }
     </style>
 }

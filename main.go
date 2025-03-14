@@ -4,6 +4,9 @@ import (
 	"log"
 	"os"
 
+	"github.com/bxra2/7aweet/controllers"
+	"github.com/bxra2/7aweet/db"
+	"github.com/bxra2/7aweet/models"
 	"github.com/bxra2/7aweet/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/joho/godotenv"
@@ -20,9 +23,16 @@ func main() {
 	} else {
 		port = ":" + port
 	}
-	app := fiber.New()
 
-	routes.SetRoutes(app)
+	db, err := db.OpenDatabase()
+	err = db.AutoMigrate(&models.Source{})
+	if err != nil {
+		log.Fatalf("failed to migrate database: %v", err)
+	}
+
+	app := fiber.New()
+	controller := &controllers.App{DB: db}
+	routes.SetRoutes(app, controller)
 
 	app.Use(routes.NotFoundMiddleware)
 

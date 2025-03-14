@@ -1,30 +1,25 @@
 package routes
 
 import (
-	"github.com/a-h/templ"
+	"github.com/bxra2/7aweet/controllers"
+	"github.com/bxra2/7aweet/utils"
 	"github.com/bxra2/7aweet/views"
 	"github.com/gofiber/fiber/v2"
 )
 
-func render(c *fiber.Ctx, component templ.Component) error {
-	c.Set("Content-Type", "text/html")
-	return component.Render(c.Context(), c.Response().BodyWriter())
-}
-
-func SetRoutes(app *fiber.App) {
+func SetRoutes(app *fiber.App, controller *controllers.App) {
 	app.Get("/", func(c *fiber.Ctx) error {
-		return render(c, views.Home())
+		return utils.Render(c, views.Home())
 	})
 
 	app.Get("/about", func(c *fiber.Ctx) error {
-		return render(c, views.About())
+		return utils.Render(c, views.About())
 	})
 
-	app.Get("/sources", func(c *fiber.Ctx) error {
-		return render(c, views.Sources())
-	})
+	app.Get("/sources", controller.GetAllSources)
+
 	app.Get("/suggestions", func(c *fiber.Ctx) error {
-		return render(c, views.Suggestions())
+		return utils.Render(c, views.Suggestions())
 	})
 
 	app.Get("/search", func(c *fiber.Ctx) error {
@@ -33,7 +28,7 @@ func SetRoutes(app *fiber.App) {
 		if queryParam == "" {
 			return c.SendString("No query parameter found")
 		}
-		return render(c, views.SearchPage())
+		return utils.Render(c, views.SearchPage(queryParam))
 		// return c.SendString("Query parameter 'q' value: " + queryParam)
 	})
 
@@ -41,5 +36,5 @@ func SetRoutes(app *fiber.App) {
 
 func NotFoundMiddleware(c *fiber.Ctx) error {
 	c.Status(fiber.StatusNotFound)
-	return render(c, views.NotFound())
+	return utils.Render(c, views.NotFound())
 }
