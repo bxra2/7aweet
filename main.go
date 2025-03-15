@@ -25,7 +25,10 @@ func main() {
 	}
 
 	db, err := db.OpenDatabase()
-	err = db.AutoMigrate(&models.Source{})
+	if err != nil {
+		log.Fatalf("failed to Open database: %v", err)
+	}
+	err = db.AutoMigrate(&models.Source{}, &models.Term{}, &models.Domain{})
 	if err != nil {
 		log.Fatalf("failed to migrate database: %v", err)
 	}

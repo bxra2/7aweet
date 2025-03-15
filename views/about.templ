@@ -1,36 +1,58 @@
 package views
 
-templ About() {
+import "github.com/bxra2/7aweet/models"
+
+templ About(domains []models.Domain) {
 	@template() {
 		<div class="about-background opacity-90 flex justify-center h-screen items-center bg-[#989898]">
-			<div class="about-section space-y-8 backdrop-blur-[10px] rounded-[1.75em] p-[30px] bg-[rgba(255,255,255,0.45)] h-[90] w-1/2" dir="rtl">
+			<div class="about-section backdrop-blur-[10px] rounded-[1.75em] space-y-6 p-[30px] bg-[rgba(255,255,255,0.45)] w-2/3" dir="rtl">
 				<h1 class="text-center text-5xl ">عن المعجم الحويط</h1>
 				<h3 class="text-3xl">ما هو؟</h3>
 				<p>معجم المصطلحات الحويط هو محاولة لتجميع المصطلحات المختلفة التي تندرج تحت مجموعة معينة من المواضيع أو المجالات، وذلك لتوفير مصدر شامل يتيح للمستخدمين الوصول بسهولة إلى معاني المصطلحات وتفسيرها بشكل دقيق. هو أقرب إلى مصدر يجمع المحاولات السابقة ويُلمّ الشتات الموجود في اللغة العربية في المجال العلمي، ليكون مرجعًا موثوقًا يعكس تنظيم وتوحيد المصطلحات في المجالات المتخصصة. كما يضم أيضًا استخدامات المصطلحات كما تظهر في بعض الشركات الكبيرة مثل آبل وموزيلا، التي ساهمت في تشكيل وتحديد شكل هذه المصطلحات. يهدف المعجم إلى تسهيل البحث والفهم للمختصين والباحثين في تلك المجالات، مما يسهم في تعزيز تبادل المعرفة والفهم المشترك بين المتحدثين باللغة العربية.</p>
 				<h3 class="text-3xl">اللغات المدعومة</h3>
-				<div class="flex items-center justify-evenly gap-2 space-x-6 p-4">
+				<div class="flex items-center w-90 justify-evenly gap-2 space-x-6 p-4">
 					<span class="text-lg bg-[#0e2a47] text-white py-2 px-4 rounded-full">إنجليزي</span>
-
 					<span class="text-lg bg-[#0e2a47] text-white py-2 px-4 rounded-full">فرنسي</span>
 					<span class="text-lg bg-[#0e2a47] text-white py-2 px-4 rounded-full">ألماني</span>
 					<span class="text-lg bg-[#0e2a47] text-white py-2 px-4 rounded-full">العربية</span>
 				</div>
 				<p>
 					يحاول المعجم الحويط العثور على مصادر تحوي الأربع لغات التي اعتبرها مربوطة أو مؤثرة على اللغة العربية في السياق العلمي، ولكن في الأساس يشترط وجود الإنجليزية نظرًا لتأثيرها الحالي على المجالات العلمية، خصوصًا البرمجية والنفسية. يعمل المعجم على توثيق هذه اللغات من خلال قواميس متعددة اللغات والمراجع العلمية التي تدمج بينها
-
 				</p>
 				<h3 class="text-3xl">المجالات</h3>
+				<table>
+					<tr>
+						<th>عدد المفردات</th>
+						<th>Arabic</th>
+						<th dir="ltr">German</th>
+						<th dir="ltr">French</th>
+						<th dir="ltr">English</th>
+					</tr>
+					for _,domain := range domains {
+						<tr>
+							<td>المفردات</td>
+							<td>{ domain.NameAr }</td>
+							<td>{ domain.NameDE }</td>
+							<td>{ domain.NameFr }</td>
+							<td>{ domain.Name }</td>
+						</tr>
+					}
+				</table>
 			</div>
 		</div>
 	}
 	<style>
     .about-background{
-        background-image:  radial-gradient(#989898 0.75px, transparent 0.75px), radial-gradient(#989898 0.75px, #ffffff 0.75px);
-        background-size: 30px 30px;
-        background-position: 0 0,15px 15px;
+		background-color: #989898;
+		opacity: 0.9;
+		background-image:  radial-gradient(#989898 0.75px, transparent 0.75px), radial-gradient(#989898 0.75px, #ffffff 0.75px);
+		background-size: 30px 30px;
+		background-position: 0 0,15px 15px;
     }
-    .about-section{
-        box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.3), 0 0 12px -7px rgba(0, 0, 0, 0.2);
-    }
+    .about-section {
+		box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.3), 0 0 12px -7px rgba(0, 0, 0, 0.2);
+		max-height: 95vh;
+		overflow-y: auto;
+	}
     </style>
 }

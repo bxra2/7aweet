@@ -14,14 +14,10 @@ type Source struct {
 	URL         string `gorm:"unique;column:url"`
 }
 
-func (Source) TableName() string {
-	return "sources" // Ensure table name matches exactly
-}
-
 // GetAllSources retrieves all sources from the database
 func GetAllSources(db *gorm.DB) ([]Source, error) {
 	var sources []Source
-	if err := db.Raw("SELECT * FROM sources").Scan(&sources).Error; err != nil {
+	if err := db.Find(&sources).Error; err != nil {
 		return nil, err
 	}
 	log.Printf("Found %d sources in the database", len(sources))

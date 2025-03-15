@@ -12,9 +12,7 @@ func SetRoutes(app *fiber.App, controller *controllers.App) {
 		return utils.Render(c, views.Home())
 	})
 
-	app.Get("/about", func(c *fiber.Ctx) error {
-		return utils.Render(c, views.About())
-	})
+	app.Get("/about", controller.LoadAboutPage)
 
 	app.Get("/sources", controller.GetAllSources)
 
