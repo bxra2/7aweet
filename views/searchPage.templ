@@ -1,9 +1,11 @@
 package views
 
-templ SearchPage(query string) {
+import "github.com/bxra2/7aweet/models"
+
+templ SearchPage(foundItems []models.Term, query string) {
 	@template() {
 		<div class="flex flex-row">
-			@SearchInfo(query)
+			@SearchInfo(foundItems, query)
 			@SearchDesc(query)
 		</div>
 	}

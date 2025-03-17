@@ -43,58 +43,58 @@ func About(domains []models.Domain) templ.Component {
 				}()
 			}
 			ctx = templ.InitializeContext(ctx)
-			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<div class=\"about-background opacity-90 flex justify-center h-screen items-center bg-[#989898]\"><div class=\"about-section backdrop-blur-[10px] rounded-[1.75em] space-y-6 p-[30px] bg-[rgba(255,255,255,0.45)] w-2/3\" dir=\"rtl\"><h1 class=\"text-center text-5xl \">عن المعجم الحويط</h1><h3 class=\"text-3xl\">ما هو؟</h3><p>معجم المصطلحات الحويط هو محاولة لتجميع المصطلحات المختلفة التي تندرج تحت مجموعة معينة من المواضيع أو المجالات، وذلك لتوفير مصدر شامل يتيح للمستخدمين الوصول بسهولة إلى معاني المصطلحات وتفسيرها بشكل دقيق. هو أقرب إلى مصدر يجمع المحاولات السابقة ويُلمّ الشتات الموجود في اللغة العربية في المجال العلمي، ليكون مرجعًا موثوقًا يعكس تنظيم وتوحيد المصطلحات في المجالات المتخصصة. كما يضم أيضًا استخدامات المصطلحات كما تظهر في بعض الشركات الكبيرة مثل آبل وموزيلا، التي ساهمت في تشكيل وتحديد شكل هذه المصطلحات. يهدف المعجم إلى تسهيل البحث والفهم للمختصين والباحثين في تلك المجالات، مما يسهم في تعزيز تبادل المعرفة والفهم المشترك بين المتحدثين باللغة العربية.</p><h3 class=\"text-3xl\">اللغات المدعومة</h3><div class=\"flex items-center w-90 justify-evenly gap-2 space-x-6 p-4\"><span class=\"text-lg bg-[#0e2a47] text-white py-2 px-4 rounded-full\">إنجليزي</span> <span class=\"text-lg bg-[#0e2a47] text-white py-2 px-4 rounded-full\">فرنسي</span> <span class=\"text-lg bg-[#0e2a47] text-white py-2 px-4 rounded-full\">ألماني</span> <span class=\"text-lg bg-[#0e2a47] text-white py-2 px-4 rounded-full\">العربية</span></div><p>يحاول المعجم الحويط العثور على مصادر تحوي الأربع لغات التي اعتبرها مربوطة أو مؤثرة على اللغة العربية في السياق العلمي، ولكن في الأساس يشترط وجود الإنجليزية نظرًا لتأثيرها الحالي على المجالات العلمية، خصوصًا البرمجية والنفسية. يعمل المعجم على توثيق هذه اللغات من خلال قواميس متعددة اللغات والمراجع العلمية التي تدمج بينها</p><h3 class=\"text-3xl\">المجالات</h3><table><tr><th>عدد المفردات</th><th>Arabic</th><th dir=\"ltr\">German</th><th dir=\"ltr\">French</th><th dir=\"ltr\">English</th></tr>")
+			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 1, "<div class=\"about-background opacity-90 flex justify-center h-screen items-center bg-[#989898]\"><div class=\"about-section backdrop-blur-[10px] rounded-[1.75em] space-y-6 p-[30px] bg-[rgba(255,255,255,0.45)] w-2/3\" dir=\"rtl\"><h1 class=\"text-center text-5xl \">عن المعجم الحويط</h1><h3 class=\"text-3xl\">ما هو المعجم الحويط؟</h3><p>معجم المصطلحات الحويط هو محاولة لتجميع المصطلحات المختلفة التي تندرج تحت مجموعة معينة من المواضيع أو المجالات، وذلك لتوفير مصدر شامل يتيح للمستخدمين الوصول بسهولة إلى معاني المصطلحات وتفسيرها بشكل دقيق. هو أقرب إلى مصدر يجمع المحاولات السابقة ويُلمّ الشتات الموجود في اللغة العربية في المجال العلمي، ليكون مرجعًا موثوقًا يعكس تنظيم وتوحيد المصطلحات في المجالات المتخصصة. كما يضم أيضًا استخدامات المصطلحات كما تظهر في بعض الشركات الكبيرة مثل آبل وموزيلا، التي ساهمت في تشكيل وتحديد شكل هذه المصطلحات. يهدف المعجم إلى تسهيل البحث والفهم للمختصين والباحثين في تلك المجالات، مما يسهم في تعزيز تبادل المعرفة والفهم المشترك بين المتحدثين باللغة العربية.</p><h3 class=\"text-3xl\">اللغات المدعومة</h3><div class=\"flex items-center w-90 justify-evenly gap-2 space-x-6 p-4\"><span class=\"text-lg border-4 border-[#0e2a47] py-2 px-4 rounded-full\">العربية</span> <span class=\"text-lg border-4 border-[#0e2a47] py-2 px-4 rounded-full\">الالمانية</span> <span class=\"text-lg border-4 border-[#0e2a47] py-2 px-4 rounded-full\">الفرنسية</span> <span class=\"text-lg border-4 border-[#0e2a47] py-2 px-4 rounded-full\">الانجليزية</span></div><p>يحاول المعجم الحويط العثور على مصادر تحوي الأربع لغات التي اعتبرها مربوطة أو مؤثرة على اللغة العربية في السياق العلمي، ولكن في الأساس يشترط وجود الإنجليزية نظرًا لتأثيرها الحالي على المجالات العلمية، خصوصًا البرمجية والنفسية. يعمل المعجم على توثيق هذه اللغات من خلال قواميس متعددة اللغات والمراجع العلمية التي تدمج بينها</p><h3 class=\"text-3xl\">المجالات</h3><div class=\"relative overflow-x-auto shadow-md sm:rounded-lg\"><table class=\"w-full text-sm text-left rtl:text-right text-blue-100 dark:text-blue-100\"><thead class=\"text-xs text-white uppercase bg-blue-600 border-b border-blue-400 dark:text-white\"><tr><th scope=\"col\" align=\"center\" class=\"px-6 py-3\">عدد المفردات</th><th scope=\"col\" align=\"center\" class=\"px-6 py-3\">العربية</th><th scope=\"col\" align=\"center\" class=\"px-6 py-3\">الالمانية</th><th scope=\"col\" align=\"center\" class=\"px-6 py-3\">الفرنسية</th><th scope=\"col\" align=\"center\" class=\"px-6 py-3\">الانجليزية</th></tr></thead> <tbody>")
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
 			for _, domain := range domains {
-				templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 2, "<tr><td>المفردات</td><td>")
+				templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 2, "<tr class=\"bg-blue-600 border-b border-blue-400 hover:bg-blue-500\"><td data-th=\"عدد المفردات\" align=\"center\" scope=\"row\" class=\"px-6 py-4 font-medium text-blue-50 whitespace-nowrap dark:text-blue-100\">المفردات</td><td class=\"px-6 py-4\" align=\"center\" data-th=\"Arabic\">")
 				if templ_7745c5c3_Err != nil {
 					return templ_7745c5c3_Err
 				}
 				var templ_7745c5c3_Var3 string
 				templ_7745c5c3_Var3, templ_7745c5c3_Err = templ.JoinStringErrs(domain.NameAr)
 				if templ_7745c5c3_Err != nil {
-					return templ.Error{Err: templ_7745c5c3_Err, FileName: `views/about.templ`, Line: 34, Col: 26}
+					return templ.Error{Err: templ_7745c5c3_Err, FileName: `views/about.templ`, Line: 42, Col: 78}
 				}
 				_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var3))
 				if templ_7745c5c3_Err != nil {
 					return templ_7745c5c3_Err
 				}
-				templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 3, "</td><td>")
+				templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 3, "</td><td class=\"px-6 py-4\" align=\"center\" data-th=\"German\">")
 				if templ_7745c5c3_Err != nil {
 					return templ_7745c5c3_Err
 				}
 				var templ_7745c5c3_Var4 string
 				templ_7745c5c3_Var4, templ_7745c5c3_Err = templ.JoinStringErrs(domain.NameDE)
 				if templ_7745c5c3_Err != nil {
-					return templ.Error{Err: templ_7745c5c3_Err, FileName: `views/about.templ`, Line: 35, Col: 26}
+					return templ.Error{Err: templ_7745c5c3_Err, FileName: `views/about.templ`, Line: 43, Col: 78}
 				}
 				_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var4))
 				if templ_7745c5c3_Err != nil {
 					return templ_7745c5c3_Err
 				}
-				templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 4, "</td><td>")
+				templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 4, "</td><td class=\"px-6 py-4\" align=\"center\" data-th=\"French\">")
 				if templ_7745c5c3_Err != nil {
 					return templ_7745c5c3_Err
 				}
 				var templ_7745c5c3_Var5 string
 				templ_7745c5c3_Var5, templ_7745c5c3_Err = templ.JoinStringErrs(domain.NameFr)
 				if templ_7745c5c3_Err != nil {
-					return templ.Error{Err: templ_7745c5c3_Err, FileName: `views/about.templ`, Line: 36, Col: 26}
+					return templ.Error{Err: templ_7745c5c3_Err, FileName: `views/about.templ`, Line: 44, Col: 78}
 				}
 				_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var5))
 				if templ_7745c5c3_Err != nil {
 					return templ_7745c5c3_Err
 				}
-				templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 5, "</td><td>")
+				templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 5, "</td><td class=\"px-6 py-4\" align=\"center\" data-th=\"English\">")
 				if templ_7745c5c3_Err != nil {
 					return templ_7745c5c3_Err
 				}
 				var templ_7745c5c3_Var6 string
 				templ_7745c5c3_Var6, templ_7745c5c3_Err = templ.JoinStringErrs(domain.Name)
 				if templ_7745c5c3_Err != nil {
-					return templ.Error{Err: templ_7745c5c3_Err, FileName: `views/about.templ`, Line: 37, Col: 24}
+					return templ.Error{Err: templ_7745c5c3_Err, FileName: `views/about.templ`, Line: 45, Col: 77}
 				}
 				_, templ_7745c5c3_Err = templ_7745c5c3_Buffer.WriteString(templ.EscapeString(templ_7745c5c3_Var6))
 				if templ_7745c5c3_Err != nil {
@@ -105,7 +105,7 @@ func About(domains []models.Domain) templ.Component {
 					return templ_7745c5c3_Err
 				}
 			}
-			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 7, "</table></div></div>")
+			templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 7, "</tbody></table></div><table class=\"rwd-table\"><tr></tr></table></div></div>")
 			if templ_7745c5c3_Err != nil {
 				return templ_7745c5c3_Err
 			}
@@ -115,7 +115,7 @@ func About(domains []models.Domain) templ.Component {
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
-		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 8, "<style>\n    .about-background{\n\t\tbackground-color: #989898;\n\t\topacity: 0.9;\n\t\tbackground-image:  radial-gradient(#989898 0.75px, transparent 0.75px), radial-gradient(#989898 0.75px, #ffffff 0.75px);\n\t\tbackground-size: 30px 30px;\n\t\tbackground-position: 0 0,15px 15px;\n    }\n    .about-section {\n\t\tbox-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.3), 0 0 12px -7px rgba(0, 0, 0, 0.2);\n\t\tmax-height: 95vh;\n\t\toverflow-y: auto;\n\t}\n    </style>")
+		templ_7745c5c3_Err = templruntime.WriteString(templ_7745c5c3_Buffer, 8, "<style>\n    .about-background{\n\t\tbackground-color: #989898;\n\t\topacity: 0.9;\n\t\tbackground-image:  radial-gradient(#989898 0.75px, transparent 0.75px), radial-gradient(#989898 0.75px, #ffffff 0.75px);\n\t\tbackground-size: 30px 30px;\n\t\tbackground-position: 0 0,15px 15px;\n    }\n    .about-section {\n\t\tbox-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.3), 0 0 12px -7px rgba(0, 0, 0, 0.2);\n\t\tmax-height: 90vh;\n\t\toverflow-y: auto;\n\t}\n\n\t@import \"compass/css3\";\n\t$breakpoint-alpha: 480px;\n.rwd-table {\n  margin: 1em 0;\n  min-width: 300px;\n  tr {\n    border-top: 1px solid #ddd;\n    border-bottom: 1px solid #ddd;\n  }\n  \n  th {\n    display: none; \n  }\n  \n  td {\n    display: block; \n    \n    &:first-child {\n      padding-top: .5em;\n    }\n    &:last-child {\n      padding-bottom: .5em;\n    }\n\n    &:before {\n      content: attr(data-th)\": \";\n      font-weight: bold;\n\n      width: 6.5em;\n      display: inline-block;\n      \n      @media (min-width: $breakpoint-alpha) {\n        display: none;\n      }\n    }\n  }\n  \n  th, td {\n    text-align: left;\n    \n    @media (min-width: $breakpoint-alpha) {\n      display: table-cell;\n      padding: .25em .5em;\n      \n      &:first-child {\n        padding-left: 0;\n      }\n      \n      &:last-child {\n        padding-right: 0;\n      }\n    }\n\n  }\n  \n\nbody {\n  padding: 0 2em;\n  font-family: Montserrat, sans-serif;\n  -webkit-font-smoothing: antialiased;\n  text-rendering: optimizeLegibility;\n  color: #444;\n  background: #eee;\n}\n\nh1 {\n  font-weight: normal;\n  letter-spacing: -1px;\n  color: #34495E;\n}\n\n.rwd-table {\n  background: #34495E;\n  color: #fff;\n  border-radius: .4em;\n  overflow: hidden;\n  tr {\n    border-color: lighten(#34495E, 10%);\n  }\n  th, td {\n    margin: .5em 1em;\n    @media (min-width: $breakpoint-alpha) { \n      padding: 1em !important; \n    }\n  }\n  th, td:before {\n    color: #dd5;\n  }\n}\n    </style>")
 		if templ_7745c5c3_Err != nil {
 			return templ_7745c5c3_Err
 		}
