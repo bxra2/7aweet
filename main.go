@@ -49,26 +49,15 @@ func main() {
 
 	// for _, record := range records[1:] {
 	// 	term := models.Term{
-	// 		English:     record[0],
-	// 		French:      record[1],
-	// 		German:      record[2],
-	// 		Arabic:      record[3],
-	// 		Description: record[4],
+	// 		English:     record[1],
+	// 		Arabic:      record[2],
+	// 		French:      record[3],
+	// 		German:      record[4],
 	// 		URL:         record[5],
+	// 		Description: record[6],
 	// 	}
-	// 	domainID, err := strconv.ParseUint(record[6], 10, 64)
-	// 	if err != nil {
-	// 		fmt.Println("Error parsing DomainID:", err)
-	// 		continue
-	// 	}
-	// 	term.DomainID = uint(domainID)
-
-	// 	sourceID, err := strconv.ParseUint(record[7], 10, 64)
-	// 	if err != nil {
-	// 		fmt.Println("Error parsing DomainID:", err)
-	// 		continue
-	// 	}
-	// 	term.SourceID = uint(sourceID)
+	// 	term.DomainID = 6
+	// 	term.SourceID = 1
 
 	// 	db.Create(&term)
 	// }

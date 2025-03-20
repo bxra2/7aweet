@@ -28,7 +28,7 @@ func FindTermsByWord(db *gorm.DB, word string) ([]Term, error) {
 	var terms []Term
 	// Use LIKE with wildcards to search for the word in the Arabic or English fields
 	err := db.Where("arabic LIKE ? OR english LIKE ?",
-		"% "+word+"%", "% "+word+"%").
+		"%"+word+"%", "%"+word+"%").
 		Find(&terms).Error
 	if err != nil {
 		return nil, err
