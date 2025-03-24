@@ -6,7 +6,7 @@ templ SearchPage(foundItems []models.Term, query string) {
 	@template() {
 		<div class="flex flex-row">
 			@SearchInfo(foundItems, query)
-			@SearchDesc(query)
+			@SearchDesc(foundItems, query)
 		</div>
 	}
 }

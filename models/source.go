@@ -8,10 +8,10 @@ import (
 
 type Source struct {
 	ID          uint   `gorm:"primaryKey"`
-	Name        string `gorm:"unique;column:name"`
+	Name        string `gorm:"column:name"`
 	Description string `gorm:"column:description"`
-	NameAr      string `gorm:"unique;column:name_ar"`
-	URL         string `gorm:"unique;column:url"`
+	NameAr      string `gorm:"column:name_ar"`
+	URL         string `gorm:"column:url"`
 }
 
 // GetAllSources retrieves all sources from the database
