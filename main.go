@@ -33,7 +33,7 @@ func main() {
 		log.Fatalf("failed to migrate database: %v", err)
 	}
 
-	// file, err := os.Open("arabeyes.csv")
+	// file, err := os.Open("scs/scs-7.csv")
 	// if err != nil {
 	// 	fmt.Println("Error opening CSV file:", err)
 	// 	return
@@ -47,17 +47,17 @@ func main() {
 	// 	return
 	// }
 
-	// for _, record := range records[1:] {
+	// for _, record := range records {
 	// 	term := models.Term{
 	// 		English:     record[0],
 	// 		Arabic:      record[1],
 	// 		French:      "",
 	// 		German:      "",
-	// 		URL:         "https://www.arabeyes.org/~djihed/techdict/arabdict.pdf",
+	// 		URL:         record[3],
 	// 		Description: record[2],
 	// 	}
 	// 	term.DomainID = 12
-	// 	term.SourceID = 2
+	// 	term.SourceID = 4
 
 	// 	db.Create(&term)
 	// }
