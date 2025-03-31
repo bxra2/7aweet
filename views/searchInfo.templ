@@ -70,6 +70,11 @@ templ SearchInfo(foundItems []models.Term, query string) {
 				justify-items: center;
     			align-items: center;
 			}
+			@media (max-width: 1200px) {
+				.search-component {
+					grid-template-columns: 1fr;
+   				 }
+			}
 			.card {
 				width: 80%;
 				height: auto;
