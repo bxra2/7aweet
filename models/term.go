@@ -24,19 +24,29 @@ type Term struct {
 	Domain Domain `gorm:"foreignKey:DomainID;column:domain_id"`
 }
 
-func FindTermsByWord(db *gorm.DB, word string) ([]Term, error) {
+func FindTermsByWord(db *gorm.DB, word string, includeDesc bool, includeFr bool, includeDe bool) ([]Term, error) {
 	var terms []Term
 	// Preload the Domain association to load Domain details with the Term
-	err := db.Preload("Domain").
-    Preload("Source").
-    Where("english LIKE ? OR english LIKE ? OR arabic LIKE ? OR arabic LIKE ?", 
-        "% "+word+"%", word+"%", "% "+word+"%", word+"%").
-    Order("LENGTH(english)").  // Sorting by the length of the 'english' column
-    Find(&terms).Error
+	query := db.Preload("Domain").
+		Preload("Source").
+		Where("english LIKE ? OR english LIKE ? OR arabic LIKE ? OR arabic LIKE ?",
+			"% "+word+"%", word+"%", "% "+word+"%", word+"%").
+		Order("LENGTH(english)")
+
+	if includeFr {
+		query = query.Where("french IS NOT NULL AND french != ''")
+	}
+	if includeDe {
+		query = query.Where("german IS NOT NULL AND german != ''")
+	}
+	if includeDesc {
+		query = query.Where("description IS NOT NULL AND description != ''")
+	}
+	err := query.Find(&terms).Error
 	if err != nil {
 		return nil, err
 	}
-	log.Printf("Found %d terms in the database", len(terms))
 
+	log.Printf("Found %d terms in the database", len(terms))
 	return terms, nil
 }
