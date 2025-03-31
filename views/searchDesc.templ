@@ -12,7 +12,8 @@ templ SearchDesc(foundItems []models.Term, query string) {
 			<div>
 				@SearchForm(){}
 			</div>
-			<h1 class="text-5xl mb-4">البحث عن كلمة</h1>
+			<hr/>
+			<h1 class="text-5xl mb-4 mt-2">البحث عن كلمة</h1>
 			{ query }
 			<h3 class="text-2xl font-semibold mt-4 mb-2">عدد المصطلحات المترابطة</h3>
 			<p class="text-xl mb-4">{termsLen}</p>

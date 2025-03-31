@@ -21,7 +21,7 @@ func (app *App) SearchTerm(c *fiber.Ctx) error {
 	includeDeBool := includeDe == "1"
 
 	if queryParam == "" {
-		return c.SendString("No query parameter found")
+		queryParam = "undefined"
 	}
 
 	foundTerms, err := models.FindTermsByWord(app.DB, queryParam, includeDescBool, includeFrBool, includeDeBool)
