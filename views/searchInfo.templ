@@ -14,22 +14,41 @@ templ SearchInfo(foundItems []models.Term, query string) {
 								<h1 class="text-right text-2xl">{ foundItem.Arabic }</h1>
 							</div>
 								<ul dir="rtl">
-									<li><span>فرنسي :</span> { foundItem.French }</li>
-									<li><span>الماني :</span> { foundItem.German }</li>
+									if foundItem.French != "" {
+										<li><span>فرنسي :</span> { foundItem.French }</li>
+									}
+									if foundItem.German != "" {
+										<li><span>الماني :</span> { foundItem.German }</li>
+									}
 								</ul>
 						</section>
-						<p class="text-right term-desc">{ foundItem.Description }</p>
-						<section dir="rtl" class="extra-info">
-							<hr />
-							<div class="info-details">
-								<span>المصدر</span>
-								<span>{ foundItem.Source.NameAr }</span>
-							</div>
-							<div class="info-details">
-								<span>المجال</span>
-								<span>{ foundItem.Domain.NameAr }</span>
-							</div>
-						</section>
+						if foundItem.Description != "" {
+							<p dir="rtl" class="text-right term-desc">{ foundItem.Description }</p>
+						}
+						<div class="details-section">
+							<section dir="ltr" class="extra-info">
+								<hr />
+								<div class="info-details">
+									<span>Source:</span>
+									<span>{ foundItem.Source.Name }</span>
+								</div>
+								<div class="info-details">
+									<span>Domain:</span>
+									<span>{ foundItem.Domain.Name }</span>
+								</div>
+							</section>
+							<section dir="rtl" class="extra-info">
+								<hr />
+								<div class="info-details">
+									<span>المصدر:</span>
+									<span>{ foundItem.Source.NameAr }</span>
+								</div>
+								<div class="info-details">
+									<span>المجال:</span>
+									<span>{ foundItem.Domain.NameAr }</span>
+								</div>
+							</section>
+						</div>
 					</main>
 				}
 			</div>
@@ -87,6 +106,12 @@ templ SearchInfo(foundItems []models.Term, query string) {
 				content: '\201C';
 				display: inline;
 				color: #999;
+			}
+
+			.details-section{
+				display: flex;
+				justify-content: space-between;
+				align-items: center;
 			}
 
 			.extra-info {
