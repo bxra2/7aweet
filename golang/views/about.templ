@@ -1,0 +1,161 @@
+package views
+
+import "github.com/bxra2/7aweet/models"
+
+templ About(domains []models.Domain) {
+	@template() {
+		<div class="about-background opacity-90 flex justify-center h-screen items-center bg-[#989898]">
+			<div class="about-section backdrop-blur-[10px] rounded-[1.75em] space-y-6 p-[30px] bg-[rgba(255,255,255,0.45)] w-2/3" dir="rtl">
+				<h1 class="text-center text-5xl ">عن المعجم الحويط</h1>
+				<h3 class="text-3xl">ما هو المعجم الحويط؟</h3>
+				<p>معجم المصطلحات الحويط هو محاولة لتجميع المصطلحات المختلفة التي تندرج تحت مجموعة معينة من المواضيع أو المجالات، وذلك لتوفير مصدر شامل يتيح للمستخدمين الوصول بسهولة إلى معاني المصطلحات وتفسيرها بشكل دقيق. هو أقرب إلى مصدر يجمع المحاولات السابقة ويُلمّ الشتات الموجود في اللغة العربية في المجال العلمي، ليكون مرجعًا موثوقًا يعكس تنظيم وتوحيد المصطلحات في المجالات المتخصصة. كما يضم أيضًا استخدامات المصطلحات كما تظهر في بعض الشركات الكبيرة مثل آبل وموزيلا، التي ساهمت في تشكيل وتحديد شكل هذه المصطلحات. يهدف المعجم إلى تسهيل البحث والفهم للمختصين والباحثين في تلك المجالات، مما يسهم في تعزيز تبادل المعرفة والفهم المشترك بين المتحدثين باللغة العربية.</p>
+				<h3 class="text-3xl">اللغات المدعومة</h3>
+				<div class="flex items-center w-90 justify-evenly gap-2 space-x-6 p-4">
+					<span class="text-lg border-4 border-[#0e2a47] py-2 px-4 rounded-full">العربية</span>
+					<span class="text-lg border-4 border-[#0e2a47] py-2 px-4 rounded-full">الالمانية</span>
+					<span class="text-lg border-4 border-[#0e2a47] py-2 px-4 rounded-full">الفرنسية</span>
+					<span class="text-lg border-4 border-[#0e2a47] py-2 px-4 rounded-full">الانجليزية</span>
+				</div>
+				<p>
+					يحاول المعجم الحويط العثور على مصادر تحوي الأربع لغات التي اعتبرها مربوطة أو مؤثرة على اللغة العربية في السياق العلمي، ولكن في الأساس يشترط وجود الإنجليزية نظرًا لتأثيرها الحالي على المجالات العلمية، خصوصًا البرمجية والنفسية. يعمل المعجم على توثيق هذه اللغات من خلال قواميس متعددة اللغات والمراجع العلمية التي تدمج بينها
+				</p>
+				<h3 class="text-3xl">المجالات</h3>
+				<div class="relative overflow-x-auto shadow-md sm:rounded-lg">
+					<table class="w-full text-sm text-left rtl:text-right text-blue-100 dark:text-blue-100">
+						<thead class="text-xs text-white uppercase bg-blue-600 border-b border-blue-400 dark:text-white">
+							<tr>
+								<th scope="col" align="center" class="px-6 py-3">
+									عدد المفردات
+								</th>
+								<th scope="col" align="center" class="px-6 py-3">
+									العربية
+								</th>
+								<th scope="col" align="center" class="px-6 py-3">الالمانية</th>
+								<th scope="col" align="center" class="px-6 py-3">الفرنسية</th>
+								<th scope="col" align="center" class="px-6 py-3">الانجليزية</th>
+							</tr>
+						</thead>
+						<tbody>
+							for _,domain := range domains {
+							<tr class="bg-blue-600 border-b border-blue-400 hover:bg-blue-500">
+									<td data-th="عدد المفردات" align="center" scope="row" class="px-6 py-4 font-medium text-blue-50 whitespace-nowrap dark:text-blue-100">المفردات</td>
+									<td class="px-6 py-4" align="center" data-th="Arabic">{ domain.NameAr }</td>
+									<td class="px-6 py-4" align="center" data-th="German">{ domain.NameDE }</td>
+									<td class="px-6 py-4" align="center" data-th="French">{ domain.NameFr }</td>
+									<td class="px-6 py-4" align="center" data-th="English">{ domain.Name }</td>
+								</tr>
+							}
+						</tbody>
+					</table>
+				</div>
+				<table class="rwd-table">
+					<tr></tr>
+				</table>
+			</div>
+		</div>
+	}
+	<style>
+    .about-background{
+		background-color: #989898;
+		opacity: 0.9;
+		background-image:  radial-gradient(#989898 0.75px, transparent 0.75px), radial-gradient(#989898 0.75px, #ffffff 0.75px);
+		background-size: 30px 30px;
+		background-position: 0 0,15px 15px;
+    }
+    .about-section {
+		box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.3), 0 0 12px -7px rgba(0, 0, 0, 0.2);
+		max-height: 90vh;
+		overflow-y: auto;
+	}
+
+	@import "compass/css3";
+	$breakpoint-alpha: 480px;
+.rwd-table {
+  margin: 1em 0;
+  min-width: 300px;
+  tr {
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  th {
+    display: none; 
+  }
+  
+  td {
+    display: block; 
+    
+    &:first-child {
+      padding-top: .5em;
+    }
+    &:last-child {
+      padding-bottom: .5em;
+    }
+
+    &:before {
+      content: attr(data-th)": ";
+      font-weight: bold;
+
+      width: 6.5em;
+      display: inline-block;
+      
+      @media (min-width: $breakpoint-alpha) {
+        display: none;
+      }
+    }
+  }
+  
+  th, td {
+    text-align: left;
+    
+    @media (min-width: $breakpoint-alpha) {
+      display: table-cell;
+      padding: .25em .5em;
+      
+      &:first-child {
+        padding-left: 0;
+      }
+      
+      &:last-child {
+        padding-right: 0;
+      }
+    }
+
+  }
+  
+
+body {
+  padding: 0 2em;
+  font-family: Montserrat, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  color: #444;
+  background: #eee;
+}
+
+h1 {
+  font-weight: normal;
+  letter-spacing: -1px;
+  color: #34495E;
+}
+
+.rwd-table {
+  background: #34495E;
+  color: #fff;
+  border-radius: .4em;
+  overflow: hidden;
+  tr {
+    border-color: lighten(#34495E, 10%);
+  }
+  th, td {
+    margin: .5em 1em;
+    @media (min-width: $breakpoint-alpha) { 
+      padding: 1em !important; 
+    }
+  }
+  th, td:before {
+    color: #dd5;
+  }
+}
+    </style>
+}

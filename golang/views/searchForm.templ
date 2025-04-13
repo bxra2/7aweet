@@ -1,0 +1,222 @@
+package views 
+templ SearchForm(){
+<form class="search-form bg-[#fefefe] p-4" action="/search" method="get">
+    <div class="search">
+        <button class="search-button flex items-center" type="submit">
+            <span class="icon">
+                <svg
+                    width="30px"
+                    height="30px"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    xmlns="http://www.w3.org/2000/svg"
+                >
+                    <path
+                        fill-rule="evenodd"
+                        clip-rule="evenodd"
+                        d="M1 5C1 3.34315 2.34315 2 4 2H8.43845C9.81505 2 11.015 2.93689 11.3489 4.27239L11.7808 6H13.5H20C21.6569 6 23 7.34315 23 9V11C23 11.5523 22.5523 12 22 12C21.4477 12 21 11.5523 21 11V9C21 8.44772 20.5523 8 20 8H13.5H11.7808H4C3.44772 8 3 8.44772 3 9V10V19C3 19.5523 3.44772 20 4 20H9C9.55228 20 10 20.4477 10 21C10 21.5523 9.55228 22 9 22H4C2.34315 22 1 20.6569 1 19V10V9V5ZM3 6.17071C3.31278 6.06015 3.64936 6 4 6H9.71922L9.40859 4.75746C9.2973 4.3123 8.89732 4 8.43845 4H4C3.44772 4 3 4.44772 3 5V6.17071ZM20.1716 18.7574C20.6951 17.967 21 17.0191 21 16C21 13.2386 18.7614 11 16 11C13.2386 11 11 13.2386 11 16C11 18.7614 13.2386 21 16 21C17.0191 21 17.967 20.6951 18.7574 20.1716L21.2929 22.7071C21.6834 23.0976 22.3166 23.0976 22.7071 22.7071C23.0976 22.3166 23.0976 21.6834 22.7071 21.2929L20.1716 18.7574ZM13 16C13 14.3431 14.3431 13 16 13C17.6569 13 19 14.3431 19 16C19 17.6569 17.6569 19 16 19C14.3431 19 13 17.6569 13 16Z"
+                        fill="#00000080"
+                    ></path>
+                </svg>
+            </span>
+        </button>
+        <input
+            id="search-input"
+            class="search-input text-right"
+            type="search"
+            oninput="changeDirection(this)"
+            name="q"
+        />
+    </div>
+    <div dir="rtl" class="mt-4">
+        <h3 class="text-xl font-bold">يشمل :</h3>
+        <div class="checkboxes flex justify-around mt-2 align-items">
+            <div class="checkbox-wrapper-65">
+                <label for="german">
+                    <input
+                        type="checkbox"
+                        id="german"
+                        name="german"
+                        value="1"
+                    />
+                    <span class="cbx">
+                        <svg width="12px" height="11px" viewBox="0 0 12 11">
+                            <polyline
+                                points="1 6.29411765 4.5 10 11 1"
+                            ></polyline>
+                        </svg>
+                    </span>
+                    <span>الماني</span>
+                </label>
+            </div>
+
+            <div class="checkbox-wrapper-65">
+                <label for="french">
+                    <input
+                        type="checkbox"
+                        id="french"
+                        name="french"
+                        value="1"
+                    />
+                    <span class="cbx">
+                        <svg width="12px" height="11px" viewBox="0 0 12 11">
+                            <polyline
+                                points="1 6.29411765 4.5 10 11 1"
+                            ></polyline>
+                        </svg>
+                    </span>
+                    <span>فرنسي</span>
+                </label>
+            </div>
+
+            <div class="checkbox-wrapper-65">
+                <label for="description">
+                    <input
+                        type="checkbox"
+                        id="description"
+                        name="description"
+                        value="1"
+                    />
+                    <span class="cbx">
+                        <svg width="12px" height="11px" viewBox="0 0 12 11">
+                            <polyline
+                                points="1 6.29411765 4.5 10 11 1"
+                            ></polyline>
+                        </svg>
+                    </span>
+                    <span>وصف</span>
+                </label>
+            </div>
+        </div>
+    </div>
+</form>
+
+<script>
+    function changeDirection(input) {
+        // Regular expression to check if the input contains Arabic characters
+        const arabicRegex = /[\u0600-\u06FF]/
+
+        // Check the value of the input field
+        if (arabicRegex.test(input.value)) {
+            input.classList.add('text-right')
+            input.classList.remove('text-left')
+        } else {
+            input.classList.add('text-left')
+            input.classList.remove('text-right')
+        }
+    }
+    document.addEventListener('DOMContentLoaded', function () {
+        document.getElementById('search-input').placeholder = 'ابحث هنا'
+    })
+</script>
+
+<style>
+    .search-form {
+        width: 100%;
+    }
+    .search {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        padding: 14px;
+        border-radius: 28px;
+        background: #f6f6f6;
+        transition: box-shadow 0.6s ease;
+    }
+    .search:focus-within {
+        /* background: #e6e6e6; */
+        box-shadow: 0 0 20px -5px rgba(0, 0, 0, 0.3),
+            0 0 12px -7px rgba(0, 0, 0, 0.2);
+    }
+
+    .search-input {
+        font-size: 16px;
+        color: #333;
+        margin-left: 14px;
+        outline: none;
+        width: 100%;
+        border: none;
+        background: transparent;
+        content: 'laksjdf';
+    }
+
+    .search-input::placeholder,
+    .icon {
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    .icon {
+        padding-left: 10px;
+    }
+    .search-button {
+        background: transparent;
+        border: none;
+    }
+
+    .search-button:hover {
+        cursor: pointer;
+    }
+    .text-right {
+        direction: rtl;
+    }
+
+    .text-left {
+        direction: ltr;
+    }
+
+    .checkbox-wrapper-65 *,
+    .checkbox-wrapper-65 ::after,
+    .checkbox-wrapper-65 ::before {
+        box-sizing: border-box;
+    }
+    .checkbox-wrapper-65 .cbx {
+        position: relative;
+        display: block;
+        float: left;
+        width: 18px;
+        height: 18px;
+        border-radius: 4px;
+        background-color: #9f9fa1;
+        background-image: linear-gradient(#474749, #606062);
+        box-shadow: inset 0 1px 1px rgba(255, 255, 255, 0.15),
+            inset 0 -1px 1px rgba(0, 0, 0, 0.15);
+        transition: all 0.15s ease;
+    }
+    .checkbox-wrapper-65 .cbx svg {
+        position: absolute;
+        top: 3px;
+        left: 3px;
+        fill: none;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke: #fff;
+        stroke-width: 2;
+        stroke-dasharray: 17;
+        stroke-dashoffset: 17;
+        transform: translate3d(0, 0, 0);
+    }
+    .checkbox-wrapper-65 .cbx + span {
+        float: left;
+        margin-left: 6px;
+    }
+    .checkbox-wrapper-65 {
+        user-select: none;
+    }
+    .checkbox-wrapper-65 label {
+        display: inline-block;
+        cursor: pointer;
+    }
+    .checkbox-wrapper-65 input[type='checkbox'] {
+        display: none;
+        visibility: hidden;
+    }
+    .checkbox-wrapper-65 input[type='checkbox']:checked + .cbx {
+        background-color: #606062;
+        background-image: linear-gradient(#255cd2, #1d52c1);
+    }
+    .checkbox-wrapper-65 input[type='checkbox']:checked + .cbx svg {
+        stroke-dashoffset: 0;
+        transition: all 0.15s ease;
+    }
+</style>
+}
