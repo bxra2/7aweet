@@ -4,8 +4,6 @@ import (
 	"log"
 
 	"github.com/bxra2/7aweet/models"
-	"github.com/bxra2/7aweet/utils"
-	"github.com/bxra2/7aweet/views"
 	"github.com/gofiber/fiber/v2"
 )
 
@@ -30,5 +28,4 @@ func (app *App) SearchTerm(c *fiber.Ctx) error {
 		return c.Status(fiber.StatusInternalServerError).SendString("Error retrieving terms")
 	}
 	return c.JSON(foundTerms)
-	return utils.Render(c, views.SearchPage(foundTerms, queryParam))
 }

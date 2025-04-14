@@ -2,11 +2,8 @@ package controllers
 
 import (
 	"log"
-	"strconv"
 
 	"github.com/bxra2/7aweet/models"
-	"github.com/bxra2/7aweet/utils"
-	"github.com/bxra2/7aweet/views"
 	"github.com/gofiber/fiber/v2"
 	"gorm.io/gorm"
 )
@@ -27,6 +24,4 @@ func (app *App) GetAllSources(c *fiber.Ctx) error {
 	}
 
 	return c.JSON(sources)
-	// Respond with JSON (can be HTML later if needed)
-	return utils.Render(c, views.Sources(sources, strconv.Itoa(len(sources))))
 }

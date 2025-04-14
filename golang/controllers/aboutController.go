@@ -14,10 +14,5 @@ func (app *App) LoadAboutPage(c *fiber.Ctx) error {
 		return c.Status(fiber.StatusInternalServerError).
 			SendString("Error retrieving domains")
 	}
-
-	// Return as JSON for now
 	return c.JSON(domains)
-
-	// Or render a view later:
-	// return utils.Render(c, views.About(domains))
 }
