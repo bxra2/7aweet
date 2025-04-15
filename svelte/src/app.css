@@ -70,7 +70,7 @@ header {
 
 p {
     margin-top: 0;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .newspaper-form {
     font-family: 'Times New Roman', Times, serif;
@@ -139,6 +139,12 @@ table {
     border: none;
     border-collapse: collapse;
 }
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
 th {
     background-color: #4a4a4a;
     color: #eee;
