@@ -15,7 +15,7 @@
             SourceCountMap[key] = {
                 en: term.Source.Name,
                 ar: term.Source.NameAr,
-                cnt: 1,
+                cnt: 1
             }
         } else {
             SourceCountMap[key].cnt += 1
@@ -27,7 +27,7 @@
             DomainCountMap[key] = {
                 en: term.Domain.Name,
                 ar: term.Domain.NameAr,
-                cnt: 1,
+                cnt: 1
             }
         } else {
             DomainCountMap[key].cnt += 1
@@ -94,6 +94,7 @@
                     desc={term.Description}
                     sourceName={term.Source.NameAr}
                     DomainName={term.Domain.NameAr}
+                    sourceURL={term.URL}
                 />
             {/each}
         {:else}

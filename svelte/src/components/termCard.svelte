@@ -1,6 +1,13 @@
 <!-- partial -->
 <script>
-    export let french, arabic, german, english, desc, sourceName, DomainName
+    export let french,
+        arabic,
+        german,
+        english,
+        desc,
+        sourceName,
+        sourceURL,
+        DomainName
 </script>
 
 <div class="main-content">
@@ -19,7 +26,7 @@
         </div>
         <div class="info platform">
             <span>المصدر:</span>
-            <span>{sourceName}</span>
+            <span><a class="term-link" target="_blank" href={sourceURL}>{sourceName}</a> </span>
             <hr />
             <span>المجال:</span>
             <span>{DomainName}</span>
@@ -103,6 +110,13 @@
     .departure,
     .arrival {
         grid-column-start: span 3;
+    }
+    .term-link{
+        color: inherit;
+        text-decoration: none;
+    }
+    .term-link:hover{
+        text-decoration: underline dashed;
     }
 
     .passenger,

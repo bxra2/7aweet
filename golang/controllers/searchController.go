@@ -29,3 +29,12 @@ func (app *App) SearchTerm(c *fiber.Ctx) error {
 	}
 	return c.JSON(foundTerms)
 }
+
+func (app *App) Find10RandomWords(c *fiber.Ctx) error {
+	foundTerms, err := models.GetRandomTerms(app.DB)
+	if err != nil {
+		log.Println("Error retrieving terms:", err)
+		return c.Status(fiber.StatusInternalServerError).SendString("Error retrieving terms")
+	}
+	return c.JSON(foundTerms)
+}

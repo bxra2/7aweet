@@ -23,7 +23,7 @@
                     <a href="/suggestions">المقترحات</a>
                 </li>
                 <li>
-                    <a href="/about">من نحن</a>
+                    <a href="/about">نبذه عنه</a>
                 </li>
             </ul>
         </nav>

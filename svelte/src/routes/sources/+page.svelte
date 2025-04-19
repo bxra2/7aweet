@@ -11,12 +11,12 @@
             <div class="collumn collumn-2">
                 <div class="head">
                     <span class="headline hl3">
-                        <a href={source.URL}>
+                        <a class="term-link" href={source.URL}>
                             {source.NameAr}
                         </a>
                     </span>
                     <span class="headline hl4">
-                        <a href={source.URL}>
+                        <a class="term-link" href={source.URL}>
                             {source.Name}
                         </a>
                     </span>

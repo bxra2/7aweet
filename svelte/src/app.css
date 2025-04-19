@@ -56,6 +56,7 @@ body {
     background-color: var(--background-color) !important;
     height: 100%;
     background: none !important;
+    line-height: 2rem;
 }
 
 header {
@@ -142,7 +143,7 @@ table {
 input:focus,
 textarea:focus,
 select:focus {
-  outline: none;
+    outline: none;
 }
 
 th {
@@ -154,10 +155,11 @@ th {
 td {
     background-color: #6e6e6e;
     color: #eee;
-    font-size: .9rem;
+    font-size: 0.9rem;
     padding: 10px;
 }
-th, td {
+th,
+td {
     border: none;
     border: 1px solid rgba(0, 0, 0, 0.05);
 }
@@ -259,10 +261,18 @@ nav a {
     word-spacing: 2px;
     transition: all 0.7s;
     box-sizing: border-box;
-
 }
 .col-center {
+}
 
+.suggestion-link {
+    margin-right: 0.5rem;
+    text-decoration: underline none;
+    color: inherit;
+    font-size: larger;
+}
+.suggestion-link:hover {
+    text-decoration: underline dashed;
 }
 
 /* Slot-based widths (17.5% steps) */
@@ -441,6 +451,15 @@ nav a {
     font-style: italic;
     font-size: 12px;
 }
+
+.term-link {
+    color: inherit;
+    text-decoration: none;
+}
+.term-link:hover {
+    text-decoration: underline dashed;
+}
+
 .media {
     -webkit-filter: sepia(80%) contrast(1) opacity(0.8);
     filter: sepia(80%) grayscale(1) contrast(1) opacity(0.8);

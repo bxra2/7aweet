@@ -50,3 +50,31 @@ func FindTermsByWord(db *gorm.DB, word string, includeDesc bool, includeFr bool,
 	log.Printf("Found %d terms in the database", len(terms))
 	return terms, nil
 }
+
+func GetRandomTerms(db *gorm.DB) ([]Term, error) {
+	var terms []Term
+
+	for i := 0; i < 15; i++ {
+		var term Term
+
+		err := db.
+			Raw(`
+				SELECT * FROM terms
+				WHERE id = (
+					SELECT ABS(RANDOM()) % (SELECT MAX(id) FROM terms) + 1
+				)
+				LIMIT 1;
+			`).Scan(&term).Error
+
+		if err != nil {
+			return nil, err
+		}
+
+		// Only append if something was actually found (some IDs might be missing)
+		if term.ID != 0 {
+			terms = append(terms, term)
+		}
+	}
+
+	return terms, nil
+}
