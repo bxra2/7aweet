@@ -14,6 +14,13 @@ type Source struct {
 	URL         string `gorm:"column:url"`
 }
 
+type SourceCount struct {
+	SourceID uint
+	Cnt      int
+	Name     string
+	NameAr   string
+}
+
 // GetAllSources retrieves all sources from the database
 func GetAllSources(db *gorm.DB) ([]Source, error) {
 	var sources []Source

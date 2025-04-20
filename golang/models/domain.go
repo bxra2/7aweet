@@ -13,6 +13,12 @@ type Domain struct {
 	NameDE string `gorm:"unique;column:name_de"`
 	NameFr string `gorm:"unique;column:name_fr"`
 }
+type DomainCount struct {
+	DomainID uint
+	Cnt      int
+	Name     string
+	NameAr   string
+}
 
 type DomainWTermCount struct {
 	Domain
