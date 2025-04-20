@@ -21,6 +21,8 @@
         event.preventDefault()
         const queryParams = new URLSearchParams({
             q: searchQuery,
+            limit: '10',
+            page: '1'
         })
         if (includeFrench) {
             queryParams.set('french', '1')
@@ -83,6 +85,4 @@
 </form>
 
 <style>
-
-   
 </style>

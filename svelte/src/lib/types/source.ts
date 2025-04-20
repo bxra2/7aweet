@@ -4,3 +4,10 @@ export type Source = {
     Description: string
     URL: string
 }
+
+export type SourceCount = {
+    SourceID: Number
+    Cnt: Number
+    Name: string
+    NameAr: string
+}

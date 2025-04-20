@@ -2,39 +2,40 @@
     import type { Term } from '$lib/types/term.js'
     import TermCard from '../../components/termCard.svelte'
     import SearchForm from '../../components/searchForm.svelte'
+    import { page } from '$app/stores'
+    import { toArabicIndic } from '$lib/utils/numerals'
+    import Paginator from '../../components/paginator.svelte'
+    export let data: {
+        Count: number
+        terms: Term[]
+        domains: Array<any>
+        sources: Array<any>
+        query: string
+        pageSize: string
+    }
+    // Destructure the data prop and make it reactive
+    let Count: number
+    let terms: Term[]
+    let domains: Array<any>
+    let sources: Array<any>
+    let query: string
+    let pageSize: string
 
-    export let data
-    // let terms: Term[] = [...data.terms]
-    let { terms, query } = data
+    function handlePageChange(page: number) {
+        currentPage = page
+        console.log('Current page changed to:', currentPage)
+    }
 
-    const SourceCountMap = {}
-    const DomainCountMap = {}
-    terms.forEach((term: Term) => {
-        const key = `${term.Source.Name}|${term.Source.NameAr}`
-        if (!SourceCountMap[key]) {
-            SourceCountMap[key] = {
-                en: term.Source.Name,
-                ar: term.Source.NameAr,
-                cnt: 1
-            }
-        } else {
-            SourceCountMap[key].cnt += 1
-        }
-    })
-    terms.forEach((term: Term) => {
-        const key = `${term.Domain.Name}|${term.Domain.NameAr}`
-        if (!DomainCountMap[key]) {
-            DomainCountMap[key] = {
-                en: term.Domain.Name,
-                ar: term.Domain.NameAr,
-                cnt: 1
-            }
-        } else {
-            DomainCountMap[key].cnt += 1
-        }
-    })
-    const FoundSources = Object.values(SourceCountMap)
-    const FoundDomains = Object.values(DomainCountMap)
+    $: {
+        Count = data.Count
+        terms = data.terms
+        domains = data.domains
+        sources = data.sources
+        query = data.query
+        pageSize = data.pageSize
+    }
+    $: totalPages = Math.ceil(Count / +pageSize)
+    $: currentPage = Number($page.url.searchParams.get('page')) || 1
 </script>
 
 <div class="collumns">
@@ -42,22 +43,22 @@
         <p class="headline hl1">البحث عن</p>
         <p class="citation">{query}</p>
         <SearchForm />
-        <h2 class="">عدد النتائج : {terms.length}</h2>
+        <h2 class="">عدد النتائج : {toArabicIndic(Count)}</h2>
         <h3 class="">من مصادر</h3>
         <table>
             <thead>
                 <tr>
+                    <th>العدد</th>
                     <th>المصدر (عربي)</th>
                     <th>المصدر (انجليزي)</th>
-                    <th>العدد</th>
                 </tr>
             </thead>
-            {#each FoundSources as source}
+            {#each sources as source}
                 <tbody>
                     <tr>
-                        <td>{source.ar}</td>
-                        <td align="left">{source.en}</td>
-                        <td align="center"> {source.cnt}</td>
+                        <td align="center"> {toArabicIndic(source.Cnt)}</td>
+                        <td>{source.NameAr}</td>
+                        <td align="left">{source.Name}</td>
                     </tr>
                 </tbody>
             {/each}
@@ -66,17 +67,17 @@
         <table>
             <thead>
                 <tr>
+                    <th>العدد</th>
                     <th>المصدر (عربي)</th>
                     <th>المصدر (انجليزي)</th>
-                    <th>العدد</th>
                 </tr>
             </thead>
-            {#each FoundDomains as domain}
+            {#each domains as domain}
                 <tbody>
                     <tr>
-                        <td>{domain.ar}</td>
-                        <td align="left">{domain.en}</td>
-                        <td align="center"> {domain.cnt}</td>
+                        <td align="center"> {toArabicIndic(domain.Cnt)}</td>
+                        <td>{domain.NameAr}</td>
+                        <td align="left">{domain.Name}</td>
                     </tr>
                 </tbody>
             {/each}
@@ -84,6 +85,12 @@
     </div>
 
     <div class="collumn collumn-3">
+        <Paginator
+            {query}
+            {currentPage}
+            {totalPages}
+            onPageChange={handlePageChange}
+        />
         {#if terms && terms.length > 0}
             {#each terms as term}
                 <TermCard
@@ -100,5 +107,11 @@
         {:else}
             <p>No posts found.</p>
         {/if}
+        <Paginator
+            {query}
+            {currentPage}
+            {totalPages}
+            onPageChange={handlePageChange}
+        />
     </div>
 </div>

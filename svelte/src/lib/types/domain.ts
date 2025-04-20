@@ -5,3 +5,10 @@ export type Domain = {
     NameFr: string
     TermCount: Number
 }
+
+export type DomainCount = {
+    DomainID: Number
+    Cnt: Number
+    Name: string
+    NameAr: string
+}
