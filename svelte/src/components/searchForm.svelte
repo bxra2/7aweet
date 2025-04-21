@@ -20,7 +20,7 @@
     function handleSubmit(event: SubmitEvent) {
         event.preventDefault()
         const queryParams = new URLSearchParams({
-            q: searchQuery,
+            q: searchQuery.trim(),
             limit: '10',
             page: '1'
         })
