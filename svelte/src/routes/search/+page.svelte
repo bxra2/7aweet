@@ -84,13 +84,7 @@
     </div>
 
     <div class="collumn collumn-3">
-        <Paginator
-            {query}
-            {currentPage}
-            {count}
-            {limit}
-            onPageChange={handlePageChange}
-        />
+        <Paginator {query} {currentPage} {count} {limit} />
         {#if terms && terms.length > 0}
             {#each terms as term}
                 <TermCard
@@ -107,12 +101,8 @@
         {:else}
             <p>No posts found.</p>
         {/if}
-        <Paginator
-            {query}
-            {currentPage}
-            {count}
-            {limit}
-            onPageChange={handlePageChange}
-        />
+        {#if count > 3}
+            <Paginator {query} {currentPage} {count} {limit} />
+        {/if}
     </div>
 </div>

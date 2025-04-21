@@ -5,7 +5,6 @@
     export let count: number
     export let totalPages: number = 10 // Can be passed from parent or calculated
     export let query: string = '' // Your search query
-    export let onPageChange: (page: number) => void // Callback function to handle page change
 
     const pagesToShow = 2 // Show 3 pages before and after the current page
 

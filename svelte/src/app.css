@@ -265,8 +265,8 @@ nav a {
     transition: all 0.7s;
     box-sizing: border-box;
 }
-.col-center {
-}
+/* .col-center {
+} */
 
 .suggestion-link {
     margin-right: 0.5rem;
