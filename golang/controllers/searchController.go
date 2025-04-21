@@ -41,7 +41,7 @@ func (app *App) SearchTerm(c *fiber.Ctx) error {
 		log.Println("Error retrieving terms:", err)
 		return c.Status(fiber.StatusInternalServerError).SendString("Error retrieving terms")
 	}
-	return c.JSON(fiber.Map{"Count": termCount, "sources": sources, "domains": domains, "terms": foundTerms})
+	return c.JSON(fiber.Map{"count": termCount, "sources": sources, "domains": domains, "terms": foundTerms})
 }
 
 func (app *App) Find10RandomWords(c *fiber.Ctx) error {
