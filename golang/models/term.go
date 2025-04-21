@@ -91,6 +91,7 @@ func FindTermsByWord(
 		Where("terms.english LIKE ? OR terms.english LIKE ? OR terms.arabic LIKE ? OR terms.arabic LIKE ?",
 			"% "+word+"%", word+"%", "% "+word+"%", word+"%").
 		Group("terms.source_id, sources.name, sources.name_ar").
+		Order("cnt DESC").
 		Scan(&sources).Error
 	if err != nil {
 		return 0, nil, nil, nil, err
@@ -103,6 +104,7 @@ func FindTermsByWord(
 		Where("terms.english LIKE ? OR terms.english LIKE ? OR terms.arabic LIKE ? OR terms.arabic LIKE ?",
 			"% "+word+"%", word+"%", "% "+word+"%", word+"%").
 		Group("terms.domain_id, domains.name, domains.name_ar").
+		Order("cnt DESC").
 		Scan(&domains).Error
 	if err != nil {
 		return 0, nil, nil, nil, err
