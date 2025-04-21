@@ -2,6 +2,7 @@ package models
 
 import (
 	"log"
+	"strings"
 
 	"gorm.io/gorm"
 )
@@ -46,13 +47,17 @@ func FindTermsByWord(
 		limit = 10
 	}
 	offset := (page - 1) * limit
-
+	word = strings.Trim(word, " ")
 	// Base query for terms
 	query := db.Preload("Domain").
 		Preload("Source").
 		Where("english LIKE ? OR english LIKE ? OR arabic LIKE ? OR arabic LIKE ?",
 			"% "+word+"%", word+"%", "% "+word+"%", word+"%").
 		Order("LENGTH(english)").
+		Order(`
+		CASE WHEN description IS NULL THEN 1 ELSE 0 END + 
+		CASE WHEN french IS NULL THEN 1 ELSE 0 END
+	`).
 		Offset(offset).
 		Limit(limit)
 
