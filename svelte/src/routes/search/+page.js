@@ -26,7 +26,6 @@ export async function load({ fetch, url }) {
             error: new Error('Could Not Fetch info...')
         }
     }
-    console.log(pageSize)
     try {
         // const terms = JSON.parse(text)
         return { ...info, query, pageSize }

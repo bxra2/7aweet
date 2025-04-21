@@ -145,6 +145,9 @@ textarea:focus,
 select:focus {
     outline: none;
 }
+.info-table {
+    box-shadow: 4px 4px 0 var(--color);
+}
 
 th {
     background-color: #4a4a4a;

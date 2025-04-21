@@ -58,6 +58,7 @@
         border: 2px solid #222;
         cursor: default;
         padding: 10px;
+        box-shadow: 5px 5px 0 var(--color);
     }
     .header {
         grid-area: title;

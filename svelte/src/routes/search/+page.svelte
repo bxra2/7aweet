@@ -6,20 +6,20 @@
     import { toArabicIndic } from '$lib/utils/numerals'
     import Paginator from '../../components/paginator.svelte'
     export let data: {
-        Count: number
+        count: number
         terms: Term[]
         domains: Array<any>
         sources: Array<any>
         query: string
-        pageSize: string
+        pageSize: number
     }
     // Destructure the data prop and make it reactive
-    let Count: number
+    let count: number
     let terms: Term[]
     let domains: Array<any>
     let sources: Array<any>
     let query: string
-    let pageSize: string
+    let limit: number
 
     function handlePageChange(page: number) {
         currentPage = page
@@ -27,14 +27,13 @@
     }
 
     $: {
-        Count = data.Count
+        count = data.count
         terms = data.terms
         domains = data.domains
         sources = data.sources
         query = data.query
-        pageSize = data.pageSize
+        limit = +data.pageSize
     }
-    $: totalPages = Math.ceil(Count / +pageSize)
     $: currentPage = Number($page.url.searchParams.get('page')) || 1
 </script>
 
@@ -43,9 +42,9 @@
         <p class="headline hl1">البحث عن</p>
         <p class="citation">{query}</p>
         <SearchForm />
-        <h2 class="">عدد النتائج : {toArabicIndic(Count)}</h2>
+        <h2 class="">عدد النتائج : {toArabicIndic(count)}</h2>
         <h3 class="">من مصادر</h3>
-        <table>
+        <table class="info-table">
             <thead>
                 <tr>
                     <th>العدد</th>
@@ -64,7 +63,7 @@
             {/each}
         </table>
         <h3 class="">في مجالات</h3>
-        <table>
+        <table class="info-table">
             <thead>
                 <tr>
                     <th>العدد</th>
@@ -88,7 +87,8 @@
         <Paginator
             {query}
             {currentPage}
-            {totalPages}
+            {count}
+            {limit}
             onPageChange={handlePageChange}
         />
         {#if terms && terms.length > 0}
@@ -110,7 +110,8 @@
         <Paginator
             {query}
             {currentPage}
-            {totalPages}
+            {count}
+            {limit}
             onPageChange={handlePageChange}
         />
     </div>
