@@ -1,2 +1,4 @@
-tmp/
+golang/tmp/*
 bin/
+ds1.csv
+main
