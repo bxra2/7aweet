@@ -34,7 +34,7 @@ func main() {
 		log.Fatalf("failed to migrate database: %v", err)
 	}
 
-	// file, err := os.Open("scs/scs-7.csv")
+	// file, err := os.Open("ds1.csv")
 	// if err != nil {
 	// 	fmt.Println("Error opening CSV file:", err)
 	// 	return
@@ -51,17 +51,26 @@ func main() {
 	// for _, record := range records {
 	// 	term := models.Term{
 	// 		English:     record[0],
-	// 		Arabic:      record[1],
-	// 		French:      "",
+	// 		Arabic:      record[2],
+	// 		French:      record[1],
 	// 		German:      "",
-	// 		URL:         record[3],
-	// 		Description: record[2],
+	// 		URL:         "https://arabacademy-sy.org//uploads/academy_publication/books/civilization-1.pdf",
+	// 		Description: record[3],
 	// 	}
-	// 	term.DomainID = 12
-	// 	term.SourceID = 4
+	// 	term.DomainID = 16
+	// 	term.SourceID = 5
 
 	// 	db.Create(&term)
 	// }
+
+	// domain := models.Source{
+	// 	ID:          5,
+	// 	Name:        "Arab Academy of Damascus",
+	// 	NameAr:      "مجمع اللغة العربية بدمشق",
+	// 	Description: "مَجْمَعُ اللُّغةِ العَرَبيَّةِ بدِمَشق، عُرف سابقاً باسم المجمع العلمي العربي حتى سنة 1960م، هو أقدم مَجمَع للُّغة العربيَّة في الوطن العربي؛ تأسَّس في عهد حكومة الملك فيصل سنة 1919م في الثامن من حَزِيران في سوريا للنهوض باللُّغة العربيَّة. وكان له أثرٌ كبير في تعريب مؤسسات الدَّولة وهيئاتها، وتعريب التَّعليم، وإنشاء المدارس الأولى في سوريا والدُّول العربيَّة. وهو مَجمَع أكاديمي يتألف من عشرين عضوًا من علماء اللُّغة العربيَّة في سوريا والمتخصِّصين بها والمَعنيِّين بها من ذوي التخصُّصات العلمية، يشكلون عدَّة لجان؛ كلجنة المخطوطات وإحياء التراث، ولجنة المصطلحات، ولجنة اللَّهَجات العربيَّة المُعاصِرة. وهو عضو في اتحاد المجامع اللُّغوية العِلمية العربيَّة.",
+	// 	URL:         "https://arabacademy-sy.org/",
+	// }
+	// db.Create(&domain)
 
 	app := fiber.New()
 	app.Static("/", "./public")
