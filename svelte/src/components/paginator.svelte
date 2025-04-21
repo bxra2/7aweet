@@ -104,12 +104,14 @@
         </a>
     </div>
     <div class="limit">
-        <span>عدد النتائج</span>
+        {#if limitsList[0] < count}
+            <span>عدد النتائج</span>
+        {/if}
 
         {#each limitsList as limitItem}
-            {#if limitItem < totalPages}
+            {#if limitItem < count}
                 <a
-                    href="/search?q={query}&page={currentPage}&limit={limitItem}"
+                    href="/search?q={query}&page={1}&limit={limitItem}"
                     class={limit === limitItem ? 'active' : ''}
                     class:current-disabled={limit === limitItem}
                     on:click={(e) => {
