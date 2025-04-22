@@ -21,11 +21,6 @@
     let query: string
     let limit: number
 
-    function handlePageChange(page: number) {
-        currentPage = page
-        console.log('Current page changed to:', currentPage)
-    }
-
     $: {
         count = data.count
         terms = data.terms

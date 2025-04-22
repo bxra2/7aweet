@@ -10,19 +10,33 @@
 
     // Calculate the page range to display
     $: pageRange = calculatePageRange(currentPage, totalPages, pagesToShow)
-
-    // Function to calculate which pages to display
     function calculatePageRange(current: number, total: number, range: number) {
-        let start = Math.max(1, current - range) // Ensure we don't go below 1
-        let end = Math.min(total, current + range) // Ensure we don't go above total pages
+        let start = current - range
+        let end = current + range
 
-        let pages = []
+        // Shift the range if start goes below 1
+        if (start < 1) {
+            end += 1 - start
+            start = 1
+        }
+
+        // Shift the range if end goes beyond total
+        if (end > total) {
+            start -= end - total
+            end = total
+        }
+
+        // Ensure start isn't less than 1 after shifting
+        start = Math.max(1, start)
+
+        const pages = []
         for (let i = start; i <= end; i++) {
             pages.push(i)
         }
 
         return pages
     }
+
     $: totalPages = Math.ceil(count / +limit)
     const limitsList = [5, 10, 20, 50]
 </script>
@@ -45,9 +59,9 @@
         {#if currentPage > 4}
             <a
                 href="/search?q={query}&page={1}&limit={limit}"
-                class:disabled={currentPage === totalPages}
+                class:disabled={currentPage === 1}
                 on:click={(e) => {
-                    if (currentPage === totalPages) {
+                    if (currentPage === 1) {
                         e.preventDefault()
                     }
                 }}
