@@ -88,8 +88,10 @@
                     arabic={term.Arabic}
                     english={term.English}
                     desc={term.Description}
-                    sourceName={term.Source.NameAr}
-                    DomainName={term.Domain.NameAr}
+                    sourceName={term.Source.Name}
+                    sourceNameAr={term.Source.NameAr}
+                    DomainName={term.Domain.Name}
+                    DomainNameAr={term.Domain.NameAr}
                     sourceURL={term.URL}
                 />
             {/each}
