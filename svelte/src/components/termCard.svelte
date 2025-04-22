@@ -1,11 +1,15 @@
 <!-- partial -->
 <script>
+    import { convertMarkdownLinksToButtons } from '$lib/utils/linkConversion'
+
     export let french,
         arabic,
         german,
         english,
         desc,
         sourceName,
+        sourceNameAr,
+        DomainNameAr,
         sourceURL,
         DomainName
 </script>
@@ -26,10 +30,20 @@
         </div>
         <div class="info platform">
             <span>المصدر:</span>
-            <span><a class="term-link" target="_blank" href={sourceURL}>{sourceName}</a> </span>
+            <span>
+                <a class="term-link" target="_blank" href={sourceURL}>
+                    {sourceNameAr}
+                </a>
+            </span>
+            <span>
+                <a class="term-link" target="_blank" href={sourceURL}>
+                    {sourceName}
+                </a>
+            </span>
             <hr />
             <span>المجال:</span>
-            <span>{DomainName}</span>
+            <span>{DomainNameAr}</span>
+            <span dir="ltr" class="al">{DomainName}</span>
         </div>
         <div dir="ltr" class="info departure">
             <div class="info__item">German</div>
@@ -47,6 +61,9 @@
         margin: 4em auto 0;
         width: 740px;
         text-transform: uppercase;
+    }
+    span {
+        width: 100%;
     }
 
     .ticket {
@@ -112,11 +129,11 @@
     .arrival {
         grid-column-start: span 3;
     }
-    .term-link{
+    .term-link {
         color: inherit;
         text-decoration: none;
     }
-    .term-link:hover{
+    .term-link:hover {
         text-decoration: underline dashed;
     }
 
