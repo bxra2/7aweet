@@ -1,0 +1,354 @@
+
+%Y-%m-%d,%d/%m/%Y,%Y-%m-%d,%Y-%m-%d
+%d of %d,%d sur %d,%d von %d,%d من %d
+%s %s %s failed for an unknown reason,%s %s %s a échoué pour une raison inconnue,%s %s %s ist aus unbekanntem Grund fehlgeschlagen,فشل %s %s %s لسبب غير معروف
+%s %s %s returned with signal %d,%s %s %s a retourné le signal %d,%s %s %s gab das Signal %d zurück,تم إرجاع %s %s %s مع الإشارة %d
+%s of %s - %u minutes left (%s/sec),%s de %s - %u minutes restantes (%s/sec),%s von %s - %u Minuten übrig (%s/s),%s من %s - %u دقائق متبقية (%s/ثانية)
+%s of %s - %u seconds left (%s/sec),%s de %s - %u secondes restantes (%s/sec),%s von %s – %u Sekunden übrig (%s/s),%s من %s - %u تواني متبقية (%s/ثانية)
+%s of %s - 1 minute left (%s/sec),%s de %s - 1 minute restante (%s/sec),%s von %s - 1 Minute übrig (%s/s),%s من %s - دقيقة واحدة متبقية (%s/ثانية)
+%s of %s - 1 second left (%s/sec),%s de %s - 1 seconde restante (%s/sec),%s von %s – 1 Sekunde übrig (%s/s),%s من %s - ثانية واحدة متبقية (%s/ثانية)
+'net usershare' returned error %d,« net usershare » a retourné l'erreur %d,»net usershare« gab den Fehler %d zurück,تم إرجاع 'net usershare' الخطأ %d
+'net usershare' returned error %d: %s,« net usershare » a retourné l'erreur %d : %s,»net usershare« gab den Fehler %d zurück: %s,تم إرجاع 'net usershare' الخطأ %d: %s
+- execute permission by others,- exécution par des tiers,– Ausführungsrechte durch andere,- تنفيذ الإذن بواسطة الآخرين
+- read permission by others,- lecture par des tiers,– Leserechte durch andere,- قراءة الإذن بواسطة الآخرين
+- write permission by others,- écriture par des tiers,– Schreibrechte durch andere,- كتابة الإذن بواسطة الآخرين
+.resized,.redimensionne,.geaendert,.محجمة
+.rotated,.pivotee,.gedreht,.مستدر
+1024x768,1024x768,1024x768,1024x768
+1280x960,1280x960,1280x960,1280x960
+128x128,128x128,128x128,128x128
+16x16,16x16,16x16,16x16
+32x32,32x32,32x32,32x32
+48x48,48x48,48x48,48x48
+640x480,640x480,640x480,640x480
+7-Zip (.7z),7-Zip (.7z),7-Zip (.7z),7-Zip (.7z)
+800x600,800x600,800x600,800x600
+96x96,96x96,96x96,96x96
+%s%s,%s%s,%s%s,%s%s
+"A file already exists with this name.
+
+Do you want to replace it with a new file?","Un fichier porte déjà ce nom.
+
+Voulez-vous le remplacer par un nouveau fichier ?","Eine Datei mit diesem Namen ist bereits vorhanden.
+
+Möchten Sie diese durch eine neue Datei ersetzen?","يوجد ملف موجود بالفعل بهذا الاسم.
+
+هل تريد استبداله بملف جديد؟"
+Filename,Nom de fichier,Dateiname,اسم الملف
+Image Rotation,Rotation d'image,Bilddrehung,دوران الصورة
+Image Size,Taille de l'image,Bildgröße,حجم الصورة
+You have selected multiple files or folders,Vous avez sélectionné plusieurs fichiers ou dossiers,Sie haben mehrere Dateien oder Ordner ausgewählt.,لقد قمت بتحديد عدة ملفات أو مجلدات
+"Resizing ""%s""","Redimensionnement de ""%s""",Bildgröße wird geändert »%s«,"تغيير حجم ""%s"""
+"Rotating ""%s""","Rotation de ""%s""",»%s« wird gedreht,"تدوير ""%s"""
+"A file named ""%s"" already exists.","Un fichier nommé ""%s"" existe déjà.","Eine Datei mit dem Namen »%s« ist bereits vorhanden.","يوجد بالفعل ملف اسمه ""%s""."
+"There was an error renaming ""%s"" to ""%s""","Une erreur est survenue lors du renommage de ""%s"" en ""%s""","Beim Umbenennen von »%s« zu »%s« ist ein Fehler aufgetreten.","حدث خطأ أثناء إعادة تسمية ""%s"" إلى ""%s"""
+"There was an error renaming the file to ""%s""","Une erreur est survenue lors du renommage de ""%s""","Beim Umbenennen der Datei zu »%s« ist ein Fehler aufgetreten","حدث خطأ أثناء إعادة تسمية الملف إلى ""%s"""
+"The selected ""%s"" is invalid encoding.
+Please choose another one.","Le ""%s"" sélectionné est un encodage invalide.
+Veuillez en sélectionner un autre.","Das ausgewählte »%s« ist eine ungültige Kodierung.
+Bitte eine andere auswählen.","تم تحديد ""%s"" وهو ترميز غير صالح.
+يرجى اختيار واحد آخر."
+A GTK+ utility for computing message digests or checksums.,Un outil GTK pour calculer les résumés de messages ou les sommes de contrôles.,Ein GTK+Programm zum Berechnen von Nachrichtenzusammenfassungen oder Prüfsummen.,أداه A GTK + مفيدة لحساب رسائل الملخصات أو المجاميع الاختبارية.
+Ace (.ace),Ace (.ace),Ace (.ace),Ace (.ace)
+Add the permissions automatically,Ajouter les permissions automatiquement,Die Zugriffsrechte automatisch hinzufügen,إضافة الأذونات تلقائياً
+Album,Album,Album,الألبوم
+Album Artist:,Artiste de l'album :,Albumkünstler:,فنان الألبوم:
+Album:,Album :,Album:,الألبوم:
+All files,Tous les fichiers,Alle Dateien,كل الملفات
+All key files,Tous les fichiers de clé,Alle Schlüsseldateien,كل الملفات الرئيسية
+Another share has the same name,Un autre partage porte le même nom,Eine andere Freigabe hat den selben Namen,مشاركة أخرى لها نفس الاسم
+Append,Ajouter,Dateiendung,إلحاق
+Ar (.ar),Ar (.ar),Ar (.ar),Ar (.ar)
+Arabic - CP1256,Arabe - CP1256,Arabisch - CP1256,العربية - CP1256
+Archive files,Fichiers d'archive,Archivdateien,ملفات الأرشيف
+Arj (.arj),Arj (.arj),Arj (.arj),Arj (.arj)
+Artist,Artiste,Künstler,الفنان
+Artist:,Artiste :,Künstler:,الفنان:
+As is,Tel quel,Wie es ist,كما هو
+Audio,Audio,Ton,الصوت
+Author,Auteur,Autor,المؤلف
+Bad Signature,La signature est invalide,Fehlerhafte Unterschrift,توقيع سيئ
+Bad or forged signature. The signed data was modified.,La signature est invalide ou contrefaite. Les données signées ont été modifiées.,Fehlerhafte oder gefälschte Unterschrift. Die unterschriebenen Daten wurden verändert.,توقيع سيئ أو مزور. تم تعديل البيانات الموقعة.
+Baltic - CP1257,Balte - CP1257,Baltisch - CP1257,البلطيق - CP1257
+Basic,De base,Basis,أساسي
+"Because the files are located remotely, each file will be encrypted separately.","Comme les fichiers sont distants, chaque fichier sera chiffré séparément.","Da die Dateien nicht lokal gespeichert sind, werden sie einzeln verschlüsselt.",لأن الملفات موجودة عن بعد، سيتم تشفير كل ملف على حدة.
+Bitrate,Débit,Bitrate,معدل البت
+Bitrate:,Débit :,Bitrate:,معدل البت:
+Bottom,En bas,Unten,أسفل
+Camera,Caméra,Kamera,الكاميرا
+Cancel,Annuler,Abbrechen,إلغاء
+Cannot change the path of an existing share; please remove the old share first and add a new one,Impossible de modifier le chemin d'un partage existant ; veuillez supprimer l'ancien partage puis créez en un nouveau,Der Pfad einer bestehenden Freigabe kann nicht geändert werden. Bitte entfernen Sie zuerst die alte Freigabe und fügen Sie dann eine neue hinzu.,الرجاء إزالة المشاركة القديمة أولاً وإضافة واحدة جديدة
+Cannot remove the share for path %s: that path is not shared,Impossible d'enlever le partage pour le chemin %s : ce chemin n'est pas partagé,Freigabe für den Pfad %s kann nicht entfernt werden: der Pfad ist nicht freigegeben,لا يمكن أزاله المشاركة للمسار %s: هذا المسار غير مشترك
+Central European latin - CP1250,Latin central européen - CP1250,Mitteleuropäisch - CP1250,اللاتينية أوروبا الوسطى - CP1250
+Check against the specified digest or checksum,Comparer au condensé ou à la somme de contrôle indiqué,Gegenüber der angegebenen Zusammenfassung oder Prüfsumme überprüfen,تحقق من الملخص أو المجموع الاختباري المحدد
+Chinese simplified - CP936,Chinois simplifié - CP936,Chinesisch vereinfacht - CP936,الصينية المبسطة - CP936
+Chinese traditional - CP950,Chinois traditionnel - CP950,Chinesisch traditionell - CP950,الصينية التقليدية - CP950
+Choose Decrypted File Name for '%s',Choisissez un nom de fichier déchiffré pour « %s »,Entschlüsselten Dateinamen für »%s« auswählen,اختيار اسم ملف تم فك تشفيره لـ'%s'
+Choose Encrypted File Name for '%s',Choisissez le nom du fichier chiffré pour « %s »,Verschlüsselten Dateinamen für »%s« auswählen,اختيار اسم ملف مشفر لـ'%s'
+Choose Original File for '%s',Choisissez un fichier original pour « %s »,Originaldatei für »%s« auswählen,اختيار الملف الأصلي لـ'%s'
+Choose Signature File Name for '%s',Choisissez un nom de fichier de signature pour « %s »,Unterschriftdateiname für »%s« auswählen,اختيار اسم ملف التوقيع لـ'%s'
+Choose Signer,Choisissez le signataire,Unterzeichner auswählen,اختيار التوقيع
+Comment:,Commentaire :,Kommentar:,التعليق:
+Compare,Comparer,Vergleichen,المقارنة
+Compare Later,Comparer plus tard,Später vergleichen,المقارنة لاحقاً
+Compare selected files,Comparer les fichiers sélectionnés,Ausgewählte Dateien vergleichen,مقارنة الملفات المحددة
+Compare to:,Comparer à :,Vergleichen mit:,المقارنة إلى:
+Compress...,Compresser...,Komprimieren …,الضغط...
+Copyright:,Droits d'auteur :,Urheberrecht:,حقوق النشر:
+"Could not change the permissions of folder ""%s""",Impossible de modifier les permissions du dossier « %s »,Zugriffsrechte des Ordners »%s« konnten nicht geändert werden,"لا يمكن تغيير أذونات المجلد ""%s"""
+Couldn't decrypt file: %s,Impossible de déchiffrer le fichier : %s,Datei »%s« konnte nicht entschlüsselt werden,لا يمكن فك تشفير الملف: %s
+Couldn't encrypt file: %s,Impossible de chiffrer le fichier : %s,Datei »%s« konnte nicht verschlüsselt werden,لا يمكن تشفير الملف: %s
+Couldn't import keys from file: %s,Impossible d’importer les clés à partir du fichier : %s,Schlüssel von Datei »%s« konnten nicht importiert werden,لا يمكن استيراد مفاتيح من الملف: %s
+Couldn't list files,Impossible de lister les fichiers,Dateien konnten nicht aufgelistet werden,لا يمكن إدراج الملفات
+Couldn't load keys,Impossible de charger les clés,Schlüssel konnten nicht geladen werden,لا يمكن تحميل المفاتيح
+Couldn't package files,Impossible d’empaqueter les fichiers,Dateien konnten nicht gepackt werden,لا يمكن تجميع الملفات
+Couldn't run file-roller,Impossible de lancer file-roller,Archivverwaltung konnte nicht gestartet werden,لا يمكن تشغيل تدوير الملف
+Couldn't sign file: %s,Impossible de signer le fichier : %s,Datei »%s« konnte nicht unterschrieben werden,لا يمكن توقيع الملف: %s
+Couldn't verify file: %s,Impossible de vérifier le fichier : %s,Datei »%s« konnte nicht überprüft werden,لا يمكن التحقق من الملف: %s
+Couldn't verify signature.,Impossible de vérifier la signature.,Unterschrift konnte nicht überprüft werden.,لا يمكن التحقق من التوقيع.
+Create Share,Créer un partage,Freigabe erstellen,إنشاء المشاركة
+Create a compressed archive with the selected objects,Créer une archive compressée avec les éléments sélectionnés,Ein komprimiertes Archiv mit den ausgewählten Objekten erstellen,إنشاء أرشيف مضغوط باستخدام الكائنات المحددة
+Custom angle:,Angle personnalisé :,Eigener Winkel:,زاوية مخصصة:
+Custom size:,Taille personnalisée,Eigene Größe:,حجم مخصص:
+Cyrillic - CP1251,Cyrillique - CP1251,Kyrillisch - CP1251,السيريلية - CP1251
+DIGEST,CONDENSÉ,ZUSAMMENFASSUNG,الملخص
+DIRECTORY,RÉPERTOIRE,VERZEICHNIS,الدليل
+Danger,Danger,Gefahr,خطر
+Date,Date,Datum,التاريخ
+Decrypt encrypted file,Déchiffrer le fichier chiffré,Datei entschlüsseln,فك تشفير الملف المشفر
+Decrypting,Déchiffrement,wird entschlüsselt,فك التشفير
+Decryption failed. You probably do not have the decryption key.,Le déchiffrement a échoué. Vous ne disposez probablement pas de la clé de déchiffrement.,Die Entschlüsselung ist fehlgeschlagen. Vermutlich fehlt Ihnen der dazugehörige Schlüssel.,ربما لم يكن لديك مفتاح فك التشفير.
+Default,Défaut,Vorgabe,الافتراضي
+Development,Développement,Entwicklung,التطوير
+Digests,Condensés,Zusammenfassungen,الملخصات
+Documents,Documents,Dokumente,المستندات
+Downloads,Téléchargements,Downloads,التنزيلات
+EXIF Date,Date EXIF,EXIF-Datum,تاريخ EXIF
+EXIF Flash,Flash EXIF,EXIF-Blitz,فلاش EXIF
+EXIF Image Size,Taille d’image EXIF,EXIF-Bildgröße,حجم صورة EXIF
+EXIF Rating,Score EXIF,EXIF-Bewertung,تقييم EXIF
+EXIF Software,Logiciel EXIF,EXIF-Programm,برنامج EXIF
+Ear (.ear),Ear (.ear),Ear (.ear),Ear (.ear)
+Emblems,Emblèmes,Embleme,الشعارات
+Empty Folder,Dossier vide,Leerer Ordner,مجلد فارغ
+Encoded by:,Encodé par :,Kodiert von:,الترميز بواسطة:
+Encrypt Multiple Files,Chiffrer plusieurs fichiers,Mehrere Dateien verschlüsseln,تشفير ملفات متعددة
+Encrypt and sign file with default key,Chiffrer et signer le fichier avec la clé par défaut,Datei mit Vorgabeschlüssel verschlüsseln und unterschreiben,تشفير وتوقيع الملف مع المفتاح الافتراضي
+Encrypt each file separately,Chiffrer chaque fichier séparément,Jede Datei einzeln verschlüsseln,تشفير كل ملف على حدة
+Encrypt file,Chiffrer le fichier,Datei verschlüsseln,تشفير الملف
+Encrypt packed together in a package,Chiffrer le tout en un paquet,Verschlüsselt in einem Paket verpackt,تشفير مجمع معا في حزمة
+Encrypt...,Chiffrer...,Verschlüsseln …,التشفير...
+Encrypting,Chiffrement,Verschlüsselung,التشفير
+Encryption settings,Paramètres de chiffrement,Entschlüsselungseinstellungen,إعدادات التشفير
+Enter new passphrase,Saisissez la nouvelle phrase de passe,Bitte neue Passphrase eingeben,أدخل عبارة المرور الجديدة
+Enter new passphrase for '%s',Saisissez la nouvelle phrase de passe pour « %s »,Bitte eine neue Passphrase für »%s« eingeben,أدخل عبارة المرور الجديدة لـ'%s'
+Enter passphrase,Saisissez la phrase de passe,Passphrase eingeben,أدخل عبارة المرور
+Enter passphrase for '%s',Saisissez la phrase de passe pour « %s »,Bitte Passphrase für »%s« eingeben,أدخل عبارة المرور لـ'%s'
+Error while getting share information: %s,Une erreur est survenue lors de la récupération des informations du partage : « %s »,Fehler beim Erhalt der Freigabeinformationen: %s,حدث خطأ أثناء الحصول على معلومات المشاركة: %s
+Expired Signature,La signature est expirée,Abgelaufene Unterschrift,التوقيع منتهي الصلاحية
+Extract Here,Extraire ici,Hier entpacken,استخراج هنا
+Extract To...,Extraire vers...,Entpacken nach …,استخراج إلى...
+Extract the selected archive,Extraire l'archive sélectionnée,Das ausgewählte Archiv entpacken,استخراج الأرشيف المحدد
+Extract the selected archive to the current position,Extraire l'archive sélectionnée dans l'emplacement actuel,Das ausgewählte Archiv im aktuellen Ort entpacken,استخراج الأرشيف المحدد إلى الموضع الحالي
+Failed,Échec,Fehlgeschlagen,فشل
+"Failed to add ""%s"":
+%s","Echec de l'ajout de ""%s"" :
+%s","»%s« konnte nicht hinzugefügt werden:
+%s","فشل في إضافة ""%s"":
+%s"
+Failed to enable any supported hash functions.,Échec d’activation des fonctions de hachage prises en charge,Aktivieren aller unterstützten Hash-Funktionen ist fehlgeschlagen.,فشل تمكين أي هاش لوظائف مدعومة.
+"Failed to read ""%s""","Echec de lecture de ""%s""",»%s« konnte nicht gelesen werden,"فشل في قراءة ""%s"""
+"Failed to read ""%s"":
+%s","Echec de lecture de ""%s"" :
+%s","»%s« konnte nicht gelesen werden:
+%s","فشل في قراءة ""%s"":
+%s"
+Favorite,Favori,Favorit,المفضّلات
+File Encryption Tool,Outil de chiffrement de fichiers,Programm zur Dateiverschlüsselung,أداة تشفير الملفات
+Folder Sharing,Partage de dossier,Ordner freigeben,مشاركة المجلد
+Games,Jeux,Spiele,الألعاب
+Generic,Générique,Allgemein,عام
+Genre,Genre,Musikrichtung,النوع
+Genre:,Genre :,Genre:,النوع:
+Good Signature,La signature est valide,Gültige Unterschrift,التوقيع جيد
+Greek - CP1253,Grec - CP1253,Griechisch - CP1253,اليونانية - CP1253
+Hash the specified text,Hacher le texte spécifié,Den angegebenen Text zerhacken,تجزئة النص المحدد
+Hebrew - CP1255,Hébreu - CP1255,Hebräisch - CP1255,العبرية - CP1255
+Height:,Hauteur :,Höhe:,الارتفاع:
+IBM PC (MS-DOS) - CP437,IBM PC (MS-DOS) - CP437,IBM-PC (MS-DOS) - CP437,IBM PC (MS-DOS) - CP437
+"If you want to rename the selected file, please move or rename ""%s"" first.","Si vous souhaitez renommer le fichier sélectionné, veuillez d'abord déplacer ou renommer ""%s"".",Wenn Sie die ausgewählte Datei umbenennen wollen bitte zuerst »%s« umbenennen oder verschieben.,"إذا كنت تريد إعادة تسمية الملف المحدد، فيرجى نقل ""%s"" أو إعادة تسميته أولاً."
+Image Size,Taille de l’image,Bildgröße,حجم الصورة
+Import Failed,L'importation a échoué,Import fehlgeschlagen,فشل الاستيراد
+Import is complete,L'importation est terminée,Import ist vollständig,اكتمل الاستيراد
+Import keys from the file,Importer des clés du fichier,Schlüssel aus der Datei importieren,استيراد مفاتيح من الملف
+Important,Important,Wichtig,مهم
+Imported key,Clé importée,Importierter Schlüssel,المفتاح المستورد
+Importing,Importation,Import läuft …,استيراد
+Importing keys ...,Importation des clés...,Schlüssel werden importiert …,استيراد المفاتيح ...
+Include subdirectories,Inclure les sous-répertoires,Unterverzeichnisse einbeziehen,تضمينالدلائل الفرعية
+Independent,Indépendant,Unabhängig,مستقل
+Install,Installer,Installieren,تثبيت
+Installed,Installé,Installiert,مثبت
+Invalid Signature,Signature non valide,Ungültige Unterschrift,التوقيع غير صالح
+Japanese - CP932,Japonais - CP932,Japanisch - CP932,اليابانية - CP932
+Jar (.jar),Jar (.jar),Jar (.jar),Jar (.jar)
+Keys were found but not imported.,"Des clés ont été trouvées, mais pas importées.","Schlüssel wurden gefunden, aber nicht importiert.",تم العثور على المفاتيح ولكن لم يتم استيرادها.
+Korean - CP949,Coréen - CP949,Koreanisch - CP949,الكورية - CP949
+Length,Durée,Länge,الطول
+Length:,Durée :,Länge:,الطول:
+Lha (.lzh),Lha (.lzh),Lha (.lzh),Lha (.lzh)
+Loading...,Chargement...,Ladevorgang …,جاري التحميل...
+Mail,Courriel,E-Mail,البريد
+Marketing,Marketing,Vermarktung,التسويق
+Modified,Modifié,Geändert,التعديل
+Modify Share,Modifier le partage,Freigabe bearbeiten,تعديل المشاركة
+Money,Finances,Geld,المال
+Multimedia,Multimédia,Multimedia,الوسائط المتعددة
+N-Way Diff,Comparaison multiple,N-Weg-Diff,فرق N-Way
+Nemo Compare,Comparaison Nemo,Nemo-Vergleich,مقارنة Nemo
+Nemo Filename Repairer,Réparateur de nom de fichier de Nemo,Nemo-Dateinamenreparierer,نيمو اسم الملف المصلح
+Nemo Filename Repairer: Select Files To Rename,Réparateur de nom de fichier de Nemo : sélectionner les fichiers à renommer,Nemo-Dateinamenreparierer: Dateien zum Reparieren auswählen,مصلح اسم الملف Nemo: حدد الملفات لإعادة تسميتها
+Nemo Pastebin,Pastebin Nemo,Nemo-Pastebin,Nemo Pastebin
+"Nemo needs to add some permissions to your folder ""%s"" in order to share it",Nemo doit ajouter des permissions au dossier « %s » afin de le partager,"Nemo muss Zugriffsrechte zu Ihrem Ordner »%s« hinzuzufügen, um diesen freizugeben","يحتاج Nemo لإضافة بعض الأذونات إلى المجلد ""%s"" لمشاركته"
+New,Nouveau,Neu,جديد
+No Info,Pas d'information,Keine Info,لا توجد معلومات
+No valid signatures found,Aucune signature valide n’a été trouvée,Keine gültigen Unterschriften gefunden,لم يتم العثور على توقيعات صالحة
+Normal Diff,Comparaison normale,Normales Diff,الفرق الطبيعي
+Not a regular file,Ce n'est pas un fichier standard,Keine gültige Datei,ليس ملف عادي
+Note,Remarque,Notiz,ملاحظة
+Notification Messages,Messages de notification,Benachrichtigungen,رسائل الإخطار
+Ok,Valider,Ok,موافق
+Open the browser,Ouvrir le navigateur,Browser öffnen,فتح المتصفح
+Other ...,Autre...,Weitere …,أخرى ...
+Package,Paquet,Paket,الحزمة
+Package Name:,Nom du paquet :,Paketname:,اسم الحزمة:
+Packaging:,Paquet :,Verpackung:,التحزيم:
+Passphrase,Phrase de passe,Passphrase,عبارة المرور
+Password,Mot de passe,Passwort,كلمة المرور
+Pastebin,Pastebin,Pastebin,Pastebin
+People,Personnes,Personen,الأشخاص
+Personal,Personnel,Persönlich,شخصي
+Photos,Photos,Fotos,الصور
+Please enter a valid filename suffix!,Veuillez sasisir un suffixe de nom de fichier valide,Bitte eine gültige Dateiendung eingeben!,الرجاء إدخال لاحقة اسم ملف صالحة!
+Please reboot to finalize changes,Veuillez redémarrer pour appliquer les changements,"Bitte neustarten, um die Änderungen abzuschließen",الرجاء إعادة التشغيل لإنهاء التغييرات
+Preparing...,Préparation...,Vorbereitung läuft …,جاري التجهيز...
+Presentation,Présentation,Präsentation,العروض التقديمة
+Progress Title,Titre de la progression,Fortschrittstitel,عنوان التقدّم
+Rar (.rar),Rar (.rar),Rar (.rar),Rar (.rar)
+"Rename as ""%s""","Renommer en ""%s""",Umbenennen zu »%s«,"إعادة تسمية باسم ""%s"""
+Read list of URIs on standard in,Lire la liste d'URI sur l’entrée standard,Adressliste von Vorgabeeingabe lesen,قراءه قائمة URIs القياسية في
+Read program data from the specified directory,Lire les données du programme dans le répertoire indiqué,Programmdaten aus dem gewählten Verzeichnis lesen,قراءة بيانات البرنامج من الدليل المحدد
+Remember file for later comparison,Sélectionner le fichier pour comparaison ultérieure,Datei für einen späteren Vergleich merken,تذكر الملف للمقارنة في وقت لاحق
+"Rename as ""%s"".","Renommer en ""%s""",Umbenennen zu »%s«.,"إعادة تسمية باسم ""%s"""
+Repair filename,Réparer un nom de fichier,Dateiname reparieren,إصلاح اسم الملف
+Repair filename ...,Réparer un nom de fichier...,Dateiname reparieren …,إصلاح اسم الملف...
+Resize Images,Redimensionner les images,Bildgröße ändern,تغيير حجم الصور
+Resize each selected image,Redimensionner toutes les images selectionnées,Jedes ausgewählte Bild die Größe ändern,تغيير حجم كل صورة محددة
+Resize in place,Redimensionner à la place,Bilder überschreiben,تغيير الحجم في المكان
+Resizing image: %d of %d,Redimensionnement de l’image : %d de %d,Bildgröße wird geändert: %d von %d,تغيير حجم الصورة: %d من %d
+Restore defaults,Restaurer les valeurs par défaut,Vorgaben wiederherstellen,إستعادة القيم الإفتراضية
+Revoked Signature,La signature est révoquée,Widerrufene Unterschrift,التوقيع باطل
+Rotate Images...,Pivoter les images...,Bilder drehen …,تدوير الصور...
+Rotate Images,Pivoter les images,Bilder drehen,تدوير الصور
+Rotate each selected image,Pivoter les images selectionnées,Jedes ausgewähltes Bild drehen,تدوير كل صورة محددة
+Rotate in place,Pivoter sur place,Auf der Stelle drehen,تدوير في المكان
+Rotating image: %d of %d,Rotation de l’image : %d de %d,Bild wird gedreht: %d von %d,تدوير الصورة: %d من %d
+Sales,Ventes,Verkäufe,المبيعات
+Samba's testparm failed for an unknown reason,testparm de Samba a échoué pour une raison inconnue,Sambas Testparm ist aus unbekanntem Grund fehlgeschlagen,فشل اختبار Samba لسبب غير معروف
+Samba's testparm returned error %d,testparm de Samba a retourné l'erreur %d,Sambas Testparm gab den Fehler %d zurück,تم إرجاع اختبار Samba الخطأ %d
+Samba's testparm returned error %d: %s,testparm de Samba a retourné l'erreur %d : %s,Sambas Testparm gab den Fehler %d zurück: %s,تم إرجاع اختبار Samba الخطأ %d: %s
+Samba's testparm returned with signal %d,testparm de Samba a retourné le signal %d,Sambas Testparm gab das Signal %d zurück,تم إرجاع اختبار Samba مع الاشارة %d
+Sample Rate,Taux d’échantillonnage,Abtastrate,معدل العينة
+Sample Rate:,Taux d'échantillonnage :,Abtastrate:,معدل العينة:
+Save Digests,Enregistrer les condensés,Zusammenfassungen speichern,حفظ الملخصات
+Scale:,Échelle :,Skalieren:,التحجيم:
+Select Files,Sélectionner des fichiers,Dateien auswählen,تحديد الملفات
+Select encoding:,Choisissez l'encodage :,Kodierung auswählen:,حددالترميز:
+Select a filename,Sélectionnez un nom de fichier,Dateiname auswählen,تحديد اسم الملف
+Select a filename from sub menu items.,Sélectionnez un nom de fichier à partir des sous-éléments du menu.,Bitte Dateinamen aus dem Untermenü auswählen.,حدد اسم ملف من عناصر القائمة الفرعية.
+Select a size:,Choisissez une taille :,Bitte Größe auswählen,تحديد الحجم:
+Select an angle:,Choisissez un angle :,Winkel auswählen:,اختر زاوية:
+Select an encoding name to use,Choisissez un nom d'encodage à utiliser,Einen zu verwendenden Kodierungsnamen auswählen,تحديد ترميز اسم لاستخدامه
+Self-extracting zip (.exe),Zip auto-extractible (.exe),Selbstentpackendes Zip (.exe),استخراج ذاتي zip (.exe)
+Share,Partager,Freigeben,المشاركة
+Share name:,Nom du partage :,Freigabename:,اسم المشاركة:
+Share this Folder,Partager ce dossier,Diesen Ordner freigeben,مشاركة هذا المجلد
+Share this folder,Partager ce dossier,Diesen Ordner freigeben,مشاركة هذا المجلد
+Sharing Options,Options de partage,Freigabeoptionen,خيارات المشاركة
+Show a notification,Afficher une notification,Benachrichtigung anzeigen,عرض الإخطار
+Show version information,Afficher les informations de version,Versionsinformation anzeigen,عرض معلومات الإصدار
+Sign,Signer,Unterschrieben,التوقيع
+Sign file with default key,Signer le fichier avec la clé par défaut,Datei mit Vorgabeschlüssel unterschreiben,توقيع الملف بالمفتاح الافتراضي
+Signed by  Revoked on %s.,Signé par  Révoquée le %s.,Unterschrieben von . Widerrufen am %s.,موقع بواسطة  باطل في %s.
+Signed by  expired on %s.,Signé par  ayant expiré le %s.,Unterschrieben von  abgelaufen am %s.,موقع بواسطة   انتهت صلاحيته في %s.
+Signed by  on %s Expired.,Signé par  le %s Expirée.,Unterschrieben von  am %s. Abgelaufen.,موقع بواسطة  في %s انتهت صلاحيته.
+Signed by  on %s.,Signé par  le %s.,Unterschrieben von  am %s.,موقع بواسطة  في %s.
+Signing,Signature,wird unterschrieben,التوقيع
+Signing key not in keyring.,La clé de signature n’est pas dans le trousseau.,Der unerschreibende Schlüssel ist nicht im Schlüsselbund.,توقيع المفتاح ليس في keyring.
+Size,Taille,Größe,الحجم
+Something went wrong.  You may need to install samba and add your user to the 'sambashare' group manually.,Un problème est survenu. Vous devrez peut-être installer Samba et ajouter votre compte utilisateur au group « sambashare ».,Etwas lief schief. Sie müssen »Samba« installieren und Ihren Benutzer zu der Gruppe »sambashare« manuell hinzufügen.,هناك خطأ ما.  قد تحتاج إلى تثبيت samba وإضافة المستخدم الخاص بك إلى مجموعة 'sambashare' يدوياً.
+Sound,Son,Klang,الصوت
+System,Système,System,النظام
+TEXT,TEXTE,TEXT,النص
+Tar compressed with bzip (.tar.bz),Tar compressé avec bzip (.tar.bz),Tar komprimiert mit bzip (.tar.bz),Tar مضغوط مع bzip (.tar.bz)
+Tar compressed with bzip2 (.tar.bz2),Tar compressé avec bzip2 (.tar.bz2),Tar komprimiert mit bzip2 (.tar.bz2),Tar مضغوط مع bzip2 (.tar.bz2)
+Tar compressed with compress (.tar.Z),Tar compressé avec compress (.tar.Z),Tar komprimiert mit compress (.tar.Z),Tar مضغوط بضغط (.tar.Z)
+Tar compressed with gzip (.tar.gz),Tar compressé avec gzip (.tar.gz),Tar komprimiert mit gzip (.tar.gz),Tar مضغوط مع gzip (.tar.gz)
+Tar compressed with lzop (.tar.lzo),Tar compressé avec lzop (.tar.lzo),Tar komprimiert mit lzop (.tar.lzo),Tar مضغوط مع lzop (.tar.lzo)
+Tar uncompressed (.tar),Tar non compressé (.tar),Unkomprimiertes Tar (.tar),Tar غير مضغوط (.tar)
+Thai - CP874,Thaï - CP874,Thai - CP874,التايلاندية - CP874
+The file-roller process did not complete successfully,Le processus file-roller ne s'est pas achevé avec succès.,Der Archivverwaltungsprozess konnte nicht vollständig abgeschlossen werden.,لم تكتمل عملية تدوير الملف بنجاح
+"The folder ""%s"" needs the following extra permissions for sharing to work:
+%s%s%sDo you want Nemo to add these permissions to the folder automatically?","Le dossier « %s » a besoin des permissions suivantes pour que le partage fonctionne :
+%s%s%sVoulez-vous que Nemo ajoute ces permissions ?","Der Ordner »%s« benötigt die folgenden zusätzlichen Zugriffsrechte, damit die Freigabe funktioniert:
+%s%s%sMöchten Sie, dass Nemo diese Zugriffsrechte automatisch zum Ordner hinzufügt?","يحتاج المجلد ""%s"" إلى الأذونات الإضافية التالية للمشاركة في العمل:
+%s%s%sهل تريد أن يقوم Nemo بإضافة هذه الأذونات إلى المجلد تلقائياً؟"
+The share name cannot be empty,Le nom du partage ne peut pas être vide,Der Freigabename kann nicht leer sein,لا يمكن أن يكون اسم المشاركة فارغاً
+There was an error while getting the sharing information,Une erreur est survenue lors de la récupération des informations du partage,Beim Erhalt der Freigabeinformationen ist ein Fehler aufgetreten,حدث خطأ أثناء الحصول على معلومات المشاركة
+Three-Way Diff,Triple comparaison,Dreiwege-Diff,الفرق ثلاثي الاتجاه
+Title,Titre,Titel,العنوان
+Title:,Titre :,Titel:,العنوان:
+To be,Après renommage,Wie es sein soll,ليكون
+Top,En haut,Oben,أعلى
+Track,Plage,Titel,المسار
+Track #:,Plage no :,Titelnummer:,المسار #:
+Turkish - CP1254,Turc - CP1254,Türkisch - CP1254,التركية - CP1254
+Type,Type,Typ,النوع
+Unknown Signature,La signature est inconnue,Unbekannte Unterschrift,توقيع غير معروف
+Unknown error,Erreur inconnue,Unbekannter Fehler,خطأ غير معروف
+Untrusted Valid Signature,La signature valide n’est pas fiable,Nicht vertrauenswürdige gültige Unterschrift,توقيع صالح غير موثوق به
+Urgent,Urgent,Dringend,طارئ
+Username,Nom d’utilisateur,Benutzername,اسم المستخدم
+Valid but untrusted signature by  on %s.,Signature valide mais non fiable par  sur %s.,Gültige aber nicht vertrauenswürdige Unterschrift von  auf %s.,صالح ولكن غير موثوق به التوقيع بواسطة  في %s.
+Verify signature file,Vérifier le fichier de signature,Unterschriftdatei überprüfen,التحقق من ملف التوقيع
+Verifying,Vérification,wird überprüft,التحقق
+Videos,Vidéos,Videos,الفيديوهات
+Vietnamese - CP1258,Vietnamien - CP1258,Vietnamesisch - CP1258,الفيتنامية - CP1258
+Visible by default,Visible par défaut,In der Voreinstellung sichtbar,مرئي بشكل افتراضي
+War (.war),War (.war),War (.war),War (.war)
+Web,Web,Internet,الوب
+Western European latin - CP1252,Latin européen occidental - CP1252,Westeuropäisch - CP1252,اللاتينية أوروبا الغربية - CP1252
+Width:,Largeur :,Breite:,العرض:
+Wrong passphrase.,La phrase de passe est erronée.,Falsche Passphrase.,عبارة مرور خاطئة.
+Year:,Année :,Jahr:,السنة:
+Zip (.zip),Zip (.zip),Zip (.zip),Zip (.zip)
+Zoo (.zoo),Zoo (.zoo),Zoo (.zoo),Zoo (.zoo)
+[FILE|URI...],[FICHIER|URI...],[DATEI|ADRESSE …],[FILE|URI...]
+Allow others to create and delete files in this folder,Permettre à d'autres de créer et supprimer des fichiers dans ce dossier,"Anderen erlauben, Dateien in diesem Ordner zu erstellen und zu löschen",السماح للآخرين بإنشاء الملفات وحذفها في هذا المجلد
+Encoding name to add:,Nom d'encodage à ajouter :,Kodierungsname zum Hinzufügen:,إضافة ترميز الاسم:
+Guest access (for people without a user account),Accès d'évaluation  (pour les personnes sans compte utilisateur),Gastzugriff (für Personen ohne Benutzerkonto),وصول الضيف (للأشخاص الذين ليس لديهم حساب مستخدم)
+Replace,Remplacer,Ersetzen,استبدال
+Resize,Redimensionner,Größe ändern,تغيير الحجم
+Resize Images...,Redimensionner les images...,Bildgrößen ändern …,تغيير حجم الصور...
+Retry,Réessayer,Wiederholen,إعادة المحاولة
+Rotate,Pivoter,Drehen,تدوير
+Skip,Ignorer,Überspringen,تخطي
+by,par,durch,بواسطة
+degrees clockwise,degrés dans le sens horaire,Grad im Uhrzeigersinn,درجة في اتجاه عقارب الساعة
+encrypted-package,paquet-chiffré,verschlüsseltes Paket,الحزمه-المشفره
+file...,fichier…,Datei …,ملف...
+from,de,von,من
+percent,pourcent,Prozent,النسبه المئويه
+pixels,pixels,Pixel,بكسل
+the output of 'net usershare' is not in valid UTF-8 encoding,la sortie de « net usershare » n'est pas codée en UTF-8 valide,Die Ausgabe von »net usershare« ist kein gültiger UTF-8-Zeichensatz,إخراج 'net usershare' ليس بترميز UTF-8 صالح
+to file title,à la fin du fichier,zum Dateinamen anhängen,إلى عنوان الملف

@@ -1,0 +1,440 @@
+
+%.2lf Hz,%.2lf Hz,%.2lf Hz,%.2lf هرتز
+%d Mb/s,%d Mb/s,%d Mb/s,%d مب/ث
+%d of %d,%d sur %d,%d von %d,%d من %d
+"%s
+Run '%s --help' to see a full list of available command line options.","%s
+Lancer « %s --help » pour afficher la liste complète des options en ligne de commande disponibles.","%s
+Rufen Sie »%s --help« auf, um eine vollständige Liste der verfügbaren
+Befehlszeilenoptionen zu sehen.","%s
+تشغيل '%s --المساعدة' لمشاهدة قائمة كاملة بخيارات سطر الأوامر المتاحة."
+%s VPN,VPN %s,%s VPN,%s VPN
+(Error: unable to load VPN connection editor),(Erreur : impossible de charger l'éditeur de connexions VPN),(Fehler: VPN-Verbindungsbearbeitung kann nicht geladen werden),(خطأ: غير قادر على تحميل محرر إتصال VPN)
+- System Settings,- Paramètres système,- Systemeinstellungen,- إعدادات النظام
+1 (Default),1 (par défaut),1 (Vorgabe),1 (افتراضي)
+1 Gb/s,1 Go/s,1 Gbit/s,1 جب/ث
+10 Gb/s,10 Go/s,10 Gbit/s,10 جب/ث
+10 Mb/s,10 Mo/s,10 Mbit/s,10 مب/ث
+100 Mb/s,100 Mo/s,100 Mbit/s,100 مب/ث
+2,2,2,٢
+3,3,3,٣
+4,4,4,٤
+802.1x Security,Sécurité 802.1x,802.1x-Sicherheit,أمان802.1x
+802.1x supplicant configuration failed,La configuration du client 802.1x a échoué,Einrichten des 802.1x-Supplicant fehlgeschlagen,فشل تكوين الطالب 802.1x
+802.1x supplicant disconnected,Le client 802.1x s'est déconnecté,802.1x-Supplicant getrennt,تم قطع إتصال الطالب 802.1x
+802.1x supplicant failed,Le client 802.1x a échoué,802.1x-Supplicant fehlgeschlagen,فشل طالب 802.1x
+802.1x supplicant took too long to authenticate,Le client 802.1x a mis trop de temps pour s'authentifier,802.1x-Supplicant brauchte zu lange für die Legitimierung,استغرق طالب 802.1x وقتا طويلا للمصادقة
+A file named “%s” already exists.,Un fichier nommé « %s » existe déjà.,Eine Datei mit dem Namen »%s« ist bereits vorhanden.,"يوجد ملف مسبقاً يَحمل اسم ""%s""."
+Ad-hoc,Ad-hoc,Ad-hoc,مخصصة
+Add,Ajouter,Hinzufügen,أضِف
+Add Device,Ajouter un périphérique,Gerät hinzufügen,إضافة جهاز
+Add Layout,Ajouter une disposition de clavier,Tastaturbelegung hinzufügen,إضافة تخطيط
+Add VPN,Ajouter un VPN,VPN hinzufügen,أضف VPN
+Add a virtual device,Ajouter un périphérique virtuel,Virtuelles Gerät hinzufügen,إضافة جهاز ظاهري
+Add device,Ajouter un périphérique,Gerät hinzufügen,إضافة جهاز
+Add new connection,Ajouter une nouvelle connexion,Neue Verbindung hinzufügen,إضافة اتصال جديد
+Add profile,Ajouter un profil,Profil hinzufügen,إضافة ملف تعريف
+Address,Adresse,Adresse,العنوان
+Adjust display resolution,Ajuster la résolution de l'écran,Die Bildschirmauflösung anpassen,ضبط دقة العرض
+Adjust for TV,Ajuster pour une TV,Für TV anpassen,اضبط للتلفاز
+All files,Tous les fichiers,Alle Dateien,كل الملفات
+Allow automatic PAC provisioning,Autoriser l'obtention automatique de PAC,Automatische PAC-Bereitstellung erlauben,السماح بتوفير PAC تلقائياً
+Allow different layouts for individual windows,Permettre des dispositions différentes pour chaque fenêtre,Verschiedene Tastaturbelegungen für einzelne Fenster erlauben,السماح بتخطيطات مختلفة للنوافذ الفردية
+Anonymous identity,Identité masquée,Anonyme Kennung,هوية مجهولة
+Anonymous,Anonyme,Anonym,مجهول
+Apply,Appliquer,Anwenden,طبِّق
+Arabic,Arabe,Arabisch,العربية
+Attachment Unit Interface (AUI),Interface de raccordement (AUI),Attachment Unit Interface (AUI),واجهة وحدة الإرتباط (AUI)
+Authentication,Authentification,Legitimierung,المصادقة
+Authenticated,Authentifié,Legitimiert,المصادقة
+Authentication required,Authentification requise,Legitimierung erforderlich,مطلوب المصادقة
+AutoIP service error,Erreur du service autoIP,Fehler des AutoIP-Diensts,خطأ في خدمه IP التلقائية
+AutoIP service failed,Le service autoIP a échoué,AutoIP-Dienst fehlgeschlagen,فشلت خدمه IP التلقائية
+AutoIP service failed to start,Le service autoIP n'a pas réussi à démarrer,Start des AutoIP-Diensts fehlgeschlagen,فشل بدء تشغيل خدمه IP التلقائية
+Automatic,Automatique,Automatisch,تلقائي
+Automatic (DHCP),Automatique (DHCP),Automatisch (DHCP),(DHCP) تلقائي
+Automatic (DHCP) addresses only,Adresses automatiques (DHCP) seulement,Automatisch (DHCP) nur Adressen,عناوين (DHCP) التلقائية فقط
+Automatic DNS,DNS automatique,Automatisches DNS,خادم إسم النطاق تلقائياً
+Automatic Routes,Routes automatiques,Automatische Routen,التوجيهات التلقائية
+Automatic Connect,Connexion automatique,Automatisch verbinden,إتصالتلقائي
+"Automatic, DHCP only","Automatique, DHCP seulement","Automatisch, nur DHCP",تلقائي، DHCP فقط
+Available Profiles,Profils disponibles,Verfügbare Profile,ملفات التعريف المتاحة
+Available Profiles for Cameras,Profils disponibles pour les appareils photo,Verfügbare Profile für Kameras,ملفات التعريف المتاحة للكاميرات
+Available Profiles for Displays,Profils disponibles pour les écrans,Verfügbare Profile für Bildschirme,ملفات التعريف المتاحة للعرض
+Available Profiles for Printers,Profils disponibles pour les imprimantes,Verfügbare Profile für Drucker,ملفات التعريف المتاحة للطابعات
+Available Profiles for Scanners,Profils disponibles pour les scanners,Verfügbare Profile für Scanner,ملفات التعريف المتاحة للماسحات الضوئية
+Available Profiles for Webcams,Profils disponibles pour les webcams,Verfügbare Profile für Webcams,ملفات التعريف المتاحة لكاميرا الويب
+BNC,Connecteur BNC,BNC,BNC
+Back,Retour arrière,Zurück,رجوع
+Bluetooth Settings,Paramètres Bluetooth,Bluetooth-Einstellungen,إعدادات البلوتوث
+Bluetooth connection failed,La connexion Bluetooth a échoué,Bluetooth-Verbindung schlug fehl,فشل إتصال البلوتوث
+Both,Les deux,Beide,كلاهما
+British English,Anglais britannique,Britisches Englisch,الإنجليزية البريطانية
+Button,Bouton,Knopf,الزر
+Button %d,Bouton %d,Knopf %d,الزر %d
+CA certificate,Certificat CA,CA-Zertifikat,شهادة CA
+Cable unplugged,Câble débranché,Kabel nicht angeschlossen,الكابل غير موصول
+Calibrate…,Calibrer…,Kalibrieren …,معايرة...
+Calibration,Étalonnage,Kalibrierung,المعايرة
+Camera,Appareil photo,Kamera,الكاميرا
+Cancel,Annuler,Abbrechen,إلغاء
+Cancel changes,Annuler les changements,Änderungen verwerfen,ألغِ التغييرات
+Cannot export VPN connection,Impossible d’exporter la connexion VPN,VPN-Verbindung kann nicht exportiert werden,تعذّر تصدير اتصال الVPN
+Cannot import VPN connection,Impossible d'importer la connexion VPN,VPN-Verbindung kann nicht importiert werden,لا يمكن استيراد إتصال الVPN
+Cannot remove automatically added profile,Impossible de supprimer des profils ajoutés automatiquement,Automatisch hinzugefügtes Profil kann nicht entfernt werden,لا يمكن إزالة ملف التعريف الذي تمت إضافته تلقائياً
+Change resolution and position of monitors and projectors,Modifier la résolution et la position des écrans et projecteurs,Auflösung und Anordnung der Bildschirme und Projektoren ändern,تغيير الدقة ووضع الشاشات وأجهزة العرض
+Change your region and language settings,Modifier les paramètres de pays et de langue,Einstellungen für Region und Sprache ändern,تغيير إعدادات اللغة والمنطقة
+China,Chine,China,الصين
+Chinese (simplified),Chinois (simplifié),Vereinfachtes Chinesisch,الصينية (المبسطة)
+Choose a Layout,Choisissez une disposition de clavier,Tastaturbelegung wählen,اختيار تخطيط
+Choose your personal certificate,Choisissez votre certificat personnel,Bitte persönliches Zertifikat auswählen,اختر شهادتك الشخصية
+Choose your private key,Choisissez votre clé privée,Bitte geheimen Schlüssel auswählen,اختر المفتاح السري الخاص بك
+Color,Couleur,Farbe,اللون
+Color management settings,Gestion des couleurs,Einstellungen der Farbverwaltung,إعدادات إدارة اللون
+Colorspace:,Espace colorimétrique :,Farbraum:,مساحة اللون:
+Configuration failed,Échec de la configuration,Konfiguration fehlgeschlagen,فشل التكوين
+Confirm reset to defaults,Confirmer la réinitialisation,Bitte das Zurücksetzen auf die Vorgabewerte bestätigen,أكّد استعادة الإعدادات الإفتراضية
+Connect automatically,Connexion automatique,Automatisch verbinden,الإتصال تلقائياً
+Connected,Connecté,Verbunden,متصل
+Connected Devices,Périphériques connectés,Verbundene Geräte,الأجهزة المتصلة
+Connecting,Connexion en cours,Verbindung wird hergestellt,توصيل
+Connection dependency failed,La dépendance de la connexion a échoué,Eine Abhängigkeit der Verbindung ist gescheitert,فشلت تبعية الإتصال
+Connection disappeared,La connexion a disparu,Unzuverlässige Verbindung,اختفى الإتصال
+Connection failed,Échec de la connexion,Verbindung fehlgeschlagen,فشل الإتصال
+Continue,Continuer,Fortsetzen,متابعة
+Create virtual device,Créer un périphérique virtuel,Ein virtuelles Gerät erstellen,إنشاء جهاز ظاهري
+DHCP client error,Erreur du client DHCP,DHCP-Programmfehler,خطأ في عميل DHCP
+DHCP client failed,Le client DHCP a échoué,DHCP-Programm fehlgeschlagen,فشل عميل DHCP
+DHCP client failed to start,Le client DHCP n'a pas réussi à démarrer,DHCP-Programm konnte nicht gestartet werden,فشل بدء تشغيل عميل DHCP
+DNS,DNS,DNS,خادم اسم النطاق
+DNS4,DNS4,DNS4,DNS4
+DNS6,DNS6,DNS6,DNS6
+Default,Par défaut,Vorgabe,المبدئي
+Default CMYK,CMJN par défaut,Standard-CMYK,الافتراضي CMYK
+Default Gray,Gris par défaut,Standardgrau,الافتراضي Gray
+Default RGB,RGB par défaut,Standard-RGB,افتراضي RGB
+Default Route,Route par défaut,Vorgabestrecke,التوجيه الافتراضي
+Default:,Par défaut :,Vorgabe:,الافتراضي:
+Delete Address,Supprimer l'adresse,Adresse entfernen,إحذف العنوان
+Delete DNS Server,Supprimer le serveur DNS,DNS-Server entfernen,إحذف خادم الDNS
+Delete Route,Supprimer la route,Strecke entfernen,احذف السبيل
+Delete device,Supprimer le périphérique,Gerät löschen,حذف جهاز
+Details,Détails,Details,التفاصيل
+Device,Périphérique,Gerät,الجهاز
+Device type:,Type de périphérique :,Gerätetyp:,نوع الجهاز:
+Dialing attempt failed,La tentative de composition a échoué,Der Einwahlversuch ist fehlgeschlagen,فشلت محاولة الاتصال
+Dialing request timed out,Délai de composition dépassé,Der Einwahlvorgang benötigte zu viel Zeit,انتهت مهلة طلب الإتصال
+Disabled,Désactivé,Deaktiviert,معطل
+Disconnecting,Déconnexion en cours,Verbindung wird getrennt,قطع الإتصال
+Display,Affichage,Bildschirm,العرض
+Display Arrangement,Disposition des écrans,Bildschirmanordnung,ترتيب الشاشات
+Display Configuration,Configuration des écrans,Bildschirmeinrichtung,إعدادات الشاشة
+Display Mapping,Afficher la correspondance,Zuordnung anzeigen,مخططات العرض
+Display options,Options d'affichage,Anzeigeoptionen,خيارات العرض
+Displays,Éc­rans,Bildschirme,الشاشات
+Do you want to replace %s with the VPN connection you are saving?,Voulez-vous remplacer %s par la connexion VPN que vous êtes en train d’enregistrer ?,"Möchten Sie %s durch die VPN-Verbindung ersetzen, die Sie gerade speichern?",هل تريد استبدال %s بدلاً عن اتصال الVPN الذي تحفظُه؟
+Each device needs an up to date color profile to be color managed.,Chaque périphérique a besoin d'un profil de couleur à jour pour la prise en charge des couleurs.,"Jedes Gerät benötigt ein aktuelles Farbprofil, um die Farbverwaltung zu ermöglichen.",يحتاج كل جهاز إلى ملف تعريف ألوان حديث بحيث تتم إدارته باللون.
+Enable verbose mode,Activer le mode verbeux,Ausführliche Meldungen aktivieren,تمكين الوضع المطول
+English,Anglais,Englisch,الإنجليزية
+Enterprise,Entreprise,Enterprise,المؤسسة
+Eraser Pressure Feel,Pression ressentie sur la gomme,Druckschwelle des Radiergummis,الشعور بضغط الممحاة
+Excellent,Excellente,Ausgezeichnet,ممتازة
+Existing connection was assumed,Une connexion existante a été supposée,Es wurde von einer bestehenden Verbindung ausgegangen,تم افتراض الاتصال الحالي
+Export VPN connection,Exporter la connexion VPN,VPN-Verbindung exportieren,صدّر اتصال VPN
+FAST,FAST,FAST,سريع
+FTP proxy port,Port du serveur mandataire FTP,FTP-Proxy-Port,منفذ وكيل FTP
+Failed to register with the requested network,Échec de l'enregistrement au réseau demandé,Anmeldung an dem angeforderten Netzwerk fehlgeschlagen,فشل التسجيل في الشبكة المطلوبة
+Failed to select the specified APN,Échec de la sélection de l'APN spécifié,Angegebener APN konnte nicht ausgewählt werden,فشل في تحديد APN المحدد
+Firewall Zone,Zone du pare-feu,Firewall-Zone,منطقة جدار الحماية
+Firm,Ferme,Fest,صلب
+Firmware for the device may be missing,Il se peut que le micrologiciel du périphérique manque,Notwendige Firmware des Geräts fehlt möglicherweise,البرامج الثابتة للجهاز قد تكون مفقودة
+Firmware missing,Micrologiciel absent,Firmware fehlt,البرامج الثابتة مفقودة
+Forward,Suivant,Vorwärts,للأمام
+France,France,Frankreich,فرنسا
+French,Français,Französisch,الفرنسية
+Gateway,Passerelle,Gateway,البوابة
+German,Allemand,Deutsch,الألمانية
+Germany,Allemagne,Deutschland,ألمانيا
+Good,Bonne,Gut,جيدة
+Graphics Tablet,Tablette graphique,Grafiktablett,جهاز الرسومات اللوحي
+Group Name,Nom du groupe,Gruppenname,غسم المجموعة
+Group Password,Mot de passe du groupe,Gruppenpasswort,كلمة مرور المجموعة
+HTTP proxy port,Port du serveur mandataire HTTP,HTTP-Proxy-Port,منفذ وكيل HTTP
+HTTPS proxy port,Port du serveur mandataire HTTPS,HTTPS-Proxy-Port,منفذ وكيل HTTPS
+HTTPS Proxy,Serveur mandataire HTTPS,HTTPS-Proxy,وكيل HTTPS
+Hardware,Matériel,Geräte,الأجهزة
+Hardware Address,Adresse matérielle,Geräteadresse,عنوان الجهاز
+Help,Aide,Hilfe,المساعدة
+History,Historique,Verlauf,المحفوظات
+Hotspot,Point d'accès,Zugangspunkt,النقطة الساخنة
+IMEI,IMEI,IMEI,IMEI
+IP Address,Adresse IP,IP-Adresse,عنوان IP
+IP configuration expired,Configuration IP expirée,IP-Konfiguration abgelaufen,انتهت صلاحية تكوين IP
+IP configuration failed,Échec de la configuration IP,IP-Konfiguration fehlgeschlagen,فشل تكوين IP
+IPv4,IPv4,IPv4,IPv4
+IPv4 Address,Adresse IPv4,IPv4-Adresse,عنوان IPv4
+IPv6,IPv6,IPv6,IPv6
+IPv6 Address,Adresse IPv6,IPv6-Adresse,عنوان IPv6
+IPv4,IPv4,IPv4,IPv4
+IPv6,IPv6,IPv6,IPv6
+Identity,Identité,Kennung,الهوية
+Identity,Identité,Kennung,الهوية
+"If you have a connection to the Internet other than wireless, you can set up a wireless hotspot to share the connection with others.","Si vous disposez d'une connexion filaire vers Internet, vous pouvez créer un point d'accès sans fil pour partager votre connexion avec les autres.","Wenn Sie mit dem Internet verbunden sind, die nicht drahtlos ist, können Sie einen drahtlosen Zugangspunkt erstellen, um die Verbindung für andere Freizugeben.",إذا كان لديك اتصال بالإنترنت غير لاسلكي، فيمكنك إعداد نقطة اتصال لاسلكية لمشاركة الاتصال مع الآخرين.
+Image files can be dragged on this window to auto-complete the above fields.,Des fichiers images peuvent être déposés sur cette fenêtre pour compléter automatiquement les champs ci-dessus.,"Bilddateien können in dieses Fenster gezogen werden, um die obigen Felder automatisch zu vervollständigen.",يمكن سحب ملفات الصور على هذه النافذة لإكمال الحقول أعلاه تلقائياً.
+Import from file…,Importer d’un fichier…,Aus einer Datei importieren …,إستورد من ملف…
+Include less-common layouts in the selection list,Inclure des dispositions moins courantes dans la liste de sélection,Weniger häufige Tastaturbelegungen zur Auswahlliste hinzufügen,تتضمن نماذج أقل شيوعًا في قائمة الأختيار
+Infrastructure,Infrastructure,Infrastruktur,البنية الاساسية
+Inner authentication,Authentification interne,Innere Legitimierung,المصادقة الداخلية
+It is not possible to access the Internet through your wireless while the hotspot is active.,Vous ne pouvez pas accéder à Internet par votre connexion sans fil tant que le point d'accès est actif.,"Es ist nicht möglich auf das Internet über Ihr Funknetz zuzugreifen, während der drahtlose Zugangspunkt aktiv ist.",لا يمكن الوصول إلى الإنترنت من خلال الاتصال اللاسلكي الخاص بك أثناء تنشيط النقطة الساخنة.
+Join Displays,Joindre les écrans,Bildschirme verbinden,ضم الشاشات
+Keep aspect ratio (letterbox):,Conserver le rapport d'affichage (format letterbox) :,Seitenverhältnis beibehalten (schwarze Balken hinzufügen):,الحفاظ على نسبة الأبعاد (صندوق البريد):
+Keyboard Layout Options,Options de disposition du clavier,Einstellungen zur Tastaturbelegung,خيارات تخطيط لوحة المفاتيح
+LEAP,LEAP,LEAP,LEAP
+Landscape,Paysage,Querformat,منظر طبيعي
+Landscape (flipped),Paysage (retourné),Querformat kopfstehend,منظر طبيعي (مقلوب)
+Last Used,Dernière utilisation,Zuletzt verwendet,آخر أستخدام
+Last used,Dernière utilisation,Zuletzt verwendet,آخر أستخدام
+Layout,Disposition,Tastaturbelegung,التخطيط
+Left-Handed Orientation,Orientation pour gauchers,Linkshändige Ausrichtung,اتجاه اليد اليسرى
+Less than 1 week,Moins d'une semaine,Weniger als 1 Woche,اقل من اسبوع
+Line busy,Ligne occupée,Die Leitung ist belegt,الخط مشغول
+Link speed,Vitesse de la connexion,Verbindungsgeschwindigkeit,سرعة الارتباط
+Link-local only,Connexion locale uniquement,Nur lokale Verknüpfung,رابط محلي فقط
+Lower Button,Bouton inférieur,Unterer Knopf,الزر السفلي
+Lowest Button,Bouton le plus bas,Unterster Knopf,الزر الأسفل
+MTU,MTU,MTU,وحدة الإرسال الكبرى
+Make available to other users,Rendre accessible aux autres utilisateurs,Anderen Benutzern zur Verfügung stellen,متاحة للمستخدمين الآخرين
+Make available to other users,Mettre à disposition des autres utilisateurs,Anderen Benutzern zur Verfügung stellen,متاحة للمستخدمين الآخرين
+Make available to other users,Mettre à disposition des autres utilisateurs,Anderen Benutzern zur Verfügung stellen,متاحة للمستخدمين الآخرين
+Manual,Manuelle,Manuell,يدوي
+Manufacturer:,Fabricant :,Hersteller:,الصانع:
+Map Buttons,Associer les boutons,Knöpfe zuweisen,خريطة الأزرار
+Map Buttons…,Associer les boutons…,Knöpfe zuweisen …,خريطة الأزرار...
+Map buttons to functions,Associer les boutons aux fonctions,Knöpfen Funktionen zuweisen,خريطة الأزرار للوظائف
+Map to Monitor…,Associer à l’écran…,Zum Monitor zuweisen …,خريطة جهاز العرض...
+Map to single monitor,Associer à un seul écran,Einem einzelnen Bildschirm zuordnen,خريطة شاشة عرض واحدة
+Media Independent Interface (MII),Interface de connexion MII,Media Independent Interface (MII),واجهة الوسائط المستقلة (MII)
+Metric,Métrique,Metrik,متري
+Middle Mouse Button Click,Clic du bouton central de la souris,Klick der mittleren Maustaste,نقر زر الماوس الأوسط
+Mirror,Miroir,Spiegel,مرآة
+Mirrored Displays,Écrans clonés,Gespiegelte Bildschirme,العروض المتطابقة
+Model:,Modèle :,Modell:,الموديل:
+Modem initialization failed,L'initialisation du modem a échoué,Modeminitialisierung fehlgeschlagen,فشل تهيئة المودم
+Modem not found,Modem non trouvé,Modem nicht gefunden,المودم غير موجود
+Move Down,Descendre,Nach unten,تحريك لأسفل
+Move Up,Monter,Nach oben,تحريك لأعلى
+My Home Network,Mon réseau domestique,Mein persönliches Netzwerk,شبكتي المنزلية
+Netmask,Masque de réseau,Netzmaske,قناع الشّبكة
+Network,Réseau,Netzwerk,الشبكة
+Network Name,Nom du réseau,Netzwerkname,إسم الشبكة
+"Network details for the selected networks, including passwords and any custom configuration will be lost.","Les informations des réseaux sélectionnés, y compris les mots de passe et toute configuration personnalisée seront perdus.","Netzwerkdetails für die gewählten Netzwerke, einschließlich Passwort und jegliche benutzerdefinierte Konfiguration werden verloren gehen.",سيتم فقد تفاصيل الشبكة الخاصة بالشبكات المحددة، بما في ذلك كلمات المرور وأي تكوين مخصص.
+Network proxy,Serveur mandataire,Netzwerk-Proxy,وكيل الشبكة
+Network registration denied,Enregistrement au réseau refusé,Netzwerkanmeldung abgelehnt,تم رفض تسجيل الشبكة
+Network registration timed out,Délai dépassé pour l'enregistrement au réseau,Netzwerkanmeldung benötigte zu viel Zeit,انتهت مهلة تسجيل الشبكة
+Network settings,Paramètres réseau,Netzwerkeinstellungen,إعدادات الشبكة
+NetworkManager needs to be running.,NetworkManager doit être en fonctionnement.,Der NetworkManager muss laufen.,مدير الشبكة يجب أن يكون قيد التشغيل.
+Never,Jamais,Niemals,أبداً
+New Profile,Nouveau profil,Neues Profil,ملف شخصي جديد
+New shortcut…,Nouveau raccourci…,Neue Tastenkombination …,اختصار جديد…
+New windows use the default layout,Les nouvelles fenêtres utilisent la disposition par défaut,Neue Fenster verwenden die vorgegebene Tastaturbelegung,النوافذ الجديدة تستخدم التخطيط الافتراضي
+New windows use the previous window's layout,Les nouvelles fenêtres utilisent la disposition de la fenêtre précédente,Neue Fenster verwenden die Tastaturbelegung des vorherigen Fensters,النوافذ الجديدة تستخدم تخطيط النوافذ السابق
+No CA certificate is required,Aucun certificat CA requis,CA-Zertifikat ist nicht erforderlich,لا توجد شهادة CA المطلوبة
+No carrier could be established,Aucune porteuse n'a pu être établie,Es konnte kein Trägersignal aufgebaut werden,لا يمكن تأسيس أي ناقل
+No devices supporting color management detected,Aucun périphérique acceptant la gestion de couleur n'a été détecté,"Es wurden keine Geräte gefunden, welche die Farbverwaltung unterstützen",لم يتم اكتشاف أي أجهزة تدعم إدارة الألوان
+No dial tone,Pas de tonalité,Kein Freizeichen,لا يوجد طنين إتصال
+No profile,Aucun profil,Kein Profil,لا يوجد ملف تعريف
+No tablet detected,Aucune tablette détectée,Kein Tablett erkannt,لم يتم اكتشاف أي جهاز لوحي
+None,Aucun,Keine,لا شيء
+Not connected,Non connecté,Nicht verbunden,غير متصل
+Not searching for networks,Aucune recherche de réseau en cours,Es wird nicht nach Netzwerken gesucht,لم يتم البحث عن الشبكات
+Not specified,Non spécifié,Nicht angegeben,غير محدد
+Ok,OK,In Ordnung,حسنا
+"Oops, something has gone wrong. Please contact your software vendor.","Oups, quelque chose s’est mal passé. Veuillez contacter le distributeur de votre logiciel.","Hoppla, etwas ist schief gelaufen. Bitte kontaktieren Sie Ihren Programmhersteller.","عفواً, حدث خطأ ما. يرجى الاتصال ببائع البرنامج الخاص بك."
+Open System,Système ouvert,Offenes System,فتح النظام
+Options…,Options…,Optionen …,خيارات…
+Other profile…,Autre profil…,Anderes Profil …,ملف تعريف آخر...
+Output:,Sortie :,Ausgang:,الإخراج:
+PAC file,Fichier PAC,PAC-Datei,ملف PAC
+PEAP version,Version PEAP,PEAP-Version,إصدار PEAP
+PIN check failed,La vérification du code PIN a échoué,PIN-Überprüfung fehlgeschlagen,فشل التحقق من رقم التعريف الشخصي
+PPP failed,PPP a échoué,PPP fehlgeschlagen,فشل PPP
+PPP service disconnected,Service PPP déconnecté,PPP-Dienst getrennt,تم قطع اتصال خدمه PPP
+PPP service failed to start,Le service PPP n'a pas réussi à démarrer,PPP-Dienst konnte nicht gestartet werden,فشلت خدمه PPP في بدء التشغيل
+Panel to display,Volet à afficher,Bildschirm für Anzeige,عرض للشريط
+Password,Mot de passe,Passwort,كلمة المرور
+Prefer upper-case when using text to represent a layout,"En mode de représentation texte, préférer les majuscules","Wenn Text verwendet wird Großbuchstaben bevorzugen, um eine Tastaturbelegung darzustellen",فضل الأحرف الكبيرة عند استخدام النص لتمثيل تخطيط
+Preview,Aperçu,Vorschau,معاينة
+Preview Layout,Aperçu de la disposition,Vorschau der Tastaturbelegung,معاينة التخطيط
+Printer,Imprimante,Drucker,الطابعة
+Private key,Clé privée,Privater Schlüssel,المفتاح الخاص
+Profile %d,Profil %d,Profil %d,الملف الشخصي %d
+Provider,Fournisseur,Anbieter,المزود
+Proxy,Mandataire,Proxy-Konfiguration,الوكيل
+Quit,Quitter,Verlassen,إنهاء
+Refresh Rate,Fréquence de rafraîchissement,Bildwiederholrate,تردد التحديث
+Region & Language,Pays et langue,Region und Sprache,اللغة & المنطقة
+Region and Language,Pays et langue,Region und Sprache,المنطقة واللغة
+Remove Device,Retirer le périphérique,Gerät entfernen,إزالة جهاز
+Remove Layout,Supprimer la disposition,Tastaturbelegung entfernen,إزالة تخطيط
+Remove a device,Retirer un périphérique,Gerät entfernen,إزالة جهاز
+Remove all details relating to this network and do not try to automatically connect,Supprimer tous les détails relatifs à ce réseau et ne pas se connecter automatiquement,Alle Details dieses Netzwerks löschen und nicht automatisch mit ihm verbinden,إزالة جميع تفاصيل هذة الشبكة ولا تحاول الإتصال بها تلقائيا
+Remove all details relating to this network and do not try to automatically connect to it.,Supprimer toutes les informations relatives à ce réseau et ne pas essayer de s'y connecter automatiquement.,Alle Details bezüglich dieses Netzwerks löschen und nicht automatisch mit ihm verbinden.,إزالة جميع التفاصيل المتعلقة بهذه الشبكة ولا تحاول الاتصال بها تلقائياً.
+Remove profile,Supprimer le profil,Profil löschen,إزالة ملف التعريف
+"Replace the current keyboard layout settings with the
+default settings","Remplacer les paramètres actuels de disposition du
+clavier par les paramètres par défaut","Die aktuellen Einstellungen zur Tastaturbelegung
+durch die Vorgabeeinstellungen ersetzen","استبدل إعدادات تخطيط لوحة المفاتيح الحالية بـ
+الإعدادات الافتراضية"
+Reset,Réinitialiser,Zurücksetzen,إعادة تعيين
+"Reset the settings for this connection to their defaults, but remember as a preferred connection.","Réinitialiser les paramètres de cette connexion à leurs valeurs par défaut, mais se souvenir qu'elle est une connexion préférée.","Die Einstellungen für diese Verbindung auf die Voreinstellung zurückstellen, aber als bevorzugte Verbindung beibehalten.",إعادة تعيين إعدادات هذا الإتصال إلى الإعدادات الافتراضية الخاصة به، ولكن تذكره كاتصال مفضل.
+"Reset the settings for this network, including passwords, but remember it as a preferred network","Réinitialiser les paramètres de ce réseau, y compris le mot de passe, mais se souvenir qu'il est un réseau préféré","Die Einstellungen dieses Netzwerks einschließlich Passwörter zurückstellen, aber als bevorzugtes Netzwerk behalten",إعادة تعيين إعدادات هذه الشبكة، بما في ذلك كلمات المرور، ولكن تذكرها على أنها شبكة مفضلة
+Reset to Defaults,Réinitialiser aux valeurs par défaut,Auf Vorgabewerte zurückstellen,إعادة تعيين إلى الافتراضي
+Reset to Defaults,Réinitialiser aux valeurs par défaut,Auf Vorgabewerte zurücksetzen,إستعادة الإعدادات المبدئية
+Resolution,Résolution,Auflösung,الدقة
+Right Mouse Button Click,Clic du bouton droit de la souris,Klick der rechten Maustaste,نقر زر الماوس الأيمن
+Rotation,Rotation,Drehung,دوران
+Routes,Routes,Routen,التوجيهات
+Russian,Russe,Russisch,الروسية
+SIM Card not inserted,La carte SIM n'est pas insérée,SIM-Karte ist nicht eingesetzt,بطاقة SIM غير مدرجة
+SIM Pin required,Le code PIN de la SIM est nécessaire,SIM-Pin ist erforderlich,مطلوب Pin بطاقة SIM
+SIM Puk required,Le code PUK de la SIM est requis,SIM-Puk ist erforderlich,مطلوب Puk بطاقة SIM
+SIM wrong,Mauvaise SIM,Falsche SIM,بطاقة SIM خاطئة
+Security,Sécurité,Sicherheit,الأمان
+Scanner,Scanner,Scanner,الماسح الضوئي
+"Secrets were required, but not provided","Des éléments secrets, non fournis, étaient nécessaires","Geheimdaten waren erforderlich, wurden aber nicht angegeben",كانت السرية مطلوبة، لكن لم يتم توفيرها
+Security,Sécurité,Sicherheit,الأمان
+Security type,Type de sécurité,Verschlüsselungsart,نوع الأمان
+Select ICC Profile File,Sélectionnez un fichier de profil ICC,ICC-Farbprofildatei wählen,تحديد ملف تعريف ICC
+Select a language,Sélectionnez une langue,Sprache auswählen,تحديد اللغة
+Select a region,Sélectionner une région,Region auswählen,تحديد المنطقة
+Select an input source to add,Sélectionner une source d'entrée à ajouter,Eingabequelle zum Hinzufügen wählen,تحديد مصدر إدخال لإضافته
+Select file to import,Sélectionnez le fichier à importer,Datei zum Import auswählen,إختر ملفاً لاستيرادِه
+Server,Serveur,Server,الخادم
+Set as Primary,Rendre principal,Als Hauptbildschirm einstellen,تعيين كأساسي
+Set button mappings and adjust stylus sensitivity for graphics tablets,Associer les boutons et ajuster la sensibilité du stylet des tablettes graphiques,Knopfzuordnung einstellen und die Empfindlichkeit des Stiftes für Grafiktabletts einstellen,تعيين مخططات الأزرار وضبط حساسية القلم لأجهزة الرسومات اللوحية
+Set for all users,Définir pour tous les utilisateurs,Für alle Benutzer festlegen,تعيين لكل المستخدمين
+Set this profile for all users on this computer,Définir ce profil pour tous les utilisateurs de cet ordinateur,Dieses Profil für alle Benutzer dieses Rechners einrichten,تعيين ملف التعريف هذا لكافة المستخدمين على هذا الكمبيوتر
+Shared Key,Clé partagée,Gemeinsamer Schlüssel,المفتاح المشترك
+Shared connection service failed,Le service de connexion partagée a échoué,Dienst für gemeinsam verwendete Verbindung fehlgeschlagen,فشلت خدمة الاتصال المشتركة
+Shared connection service failed to start,Le service de connexion partagée n'a pas réussi à démarrer,Dienst für gemeinsam verwendete Verbindung konnte nicht gestartet werden,فشل بدء تشغيل خدمة الاتصال المشتركة
+Shared with other computers,Partagée avec les autres ordinateurs,Für anderen Rechner freigegeben,مشتركة مع أجهزة الكمبيوتر الأخرى
+Show key,Afficher la clé,Schlüssel anzeigen,عرض المفتاح
+Show password,Afficher le mot de passe,Passwort anzeigen,عرض كلمة المرور
+Show Password,Afficher le mot de passe,Passwort anzeigen,عرض كلمةالمرور
+Show help options,Afficher les options de l’aide,Hilfeoptionen anzeigen,عرض خيارات المساعدة
+Show the layout name instead of the group name when using text to represent a layout,"En mode de représentation texte, afficher le nom de la disposition plutôt que le nom du groupe","Wenn Text verwendet wird den Belegungsnamen anstatt des Gruppennamens anzeigen, um eine Tastaturbelegung darzustellen",عرض اسم التخطيط بدلاً من اسم المجموعة عند استخدام النص لتمثيل تخطيط
+Show the overview,Afficher l'aperçu,Übersicht anzeigen,عرض النظرة العامة
+Signal Strength,Force du signal,Signalstärke,قوة الإشارة
+Socks proxy port,Port du serveur mandataire Socks,SOCKS-Proxy-Port,منفذ وكيل Socks
+Soft,Doux,Weich,ناعم
+Spain,Espagne,Spanien,إسبانيا
+Spanish,Espagnol,Spanisch,الأسبانية
+Status unknown,État inconnu,Status unbekannt,الحالة غير معروفة
+Status unknown (missing),État inconnu (absent),Status unbekannt (fehlt),الحالة غير معروفة (مفقودة)
+Stop hotspot and disconnect any users?,Interrompre le point d'accès et déconnecter tous les utilisateurs ?,Den drahtlosen Zugangspunkt anhalten und Verbundene trennen?,إيقاف النقطة الساخنة وفصل أي مستخدم؟
+Stylus,Stylet,Stylus,القلم
+Supported ICC profiles,Profils ICC pris en charge,Unterstützte ICC-Profile,ملفات تعريف ICC المدعومة
+Switch off to connect to a Wi-Fi network,Éteindre pour se connecter à un réseau Wi-Fi,"Ausschalten, um mit einem WLAN-Netzwerk zu verbinden",التبديل إلى الإتصال بشبكه Wi-Fi
+Switching on the wireless hotspot will disconnect you from %s.,Passer au point d’accès sans fil vous déconnectera de %s.,Einschalten des drahtlosen Zugangspunktes führt zur Trennung von %s.,يؤدي التبديل على نقطة الاتصال اللاسلكي الساخنة إلى قطع اتصالك عن %s.
+System policy prohibits use as a Hotspot,Les règles du système interdisent son utilisation comme point d'accès,Die Systemrichtlinie verbietet die Verwendung als drahtlosen Zugangspunkt,نهج النظام يحظر الاستخدام كنقطه ساخنه
+Tablet (absolute),Tablette (absolu),Tablett (absolut),جهاز لوحي (مطلق)
+Test profile:,Profil test :,Testprofil:,اختبار ملف التعريف:
+This device does not have a profile suitable for whole-screen color correction.,Ce périphérique ne possède pas de profil approprié pour la correction des couleurs de l'écran complet.,Das Profil des Gerätes ist für eine auf den gesamten Bildschirm bezogene Farbkorrektur ungeeignet.,لا يحتوي هذا الجهاز على ملف تعريف مناسب لتصحيح الألوان على كامل الشاشة.
+This device has an old profile that may no longer be accurate.,Ce périphérique possède un ancien profil qui n'est peut-être plus adapté.,Das Gerät verwendet ein altes Profil und ist möglicherweise nicht mehr ausreichend genau.,يحتوي هذا الجهاز على ملف تعريف قديم قد لا يكون دقيقاً بعد الآن.
+This device is not color managed.,Ce périphérique n'est pas pris en charge au niveau des couleurs.,Das Gerät steht nicht unter Farbverwaltung.,هذا الجهاز لم يتم إدارته بالألوان.
+This device is using manufacturing calibrated data.,Ce périphérique utilise des données calibrées en usine.,Das Gerät verwendet herstellerseitig kalibrierte Daten.,هذا الجهاز يستخدم بيانات التصنيع المعايرة.
+This is not recommended for untrusted public networks.,Cela n'est pas recommandé pour des réseaux publics non sûrs.,Das wird für unsichere öffentliche Netzwerke nicht empfohlen.,لا يوصى بذلك للشبكات العامة غير الموثوق بها.
+This will remove all existing display configurations and reset the current layout.,Toutes les configurations d'écran existantes seront effacées et la disposition actuelle sera réinitialisée.,Dadurch werden alle bestehenden Bildschirmkonfigurationen entfernt und die aktuelle Anordnung zurückgesetzt.,هذا الخيار سيُزيل جميع إعدادات العرض الموجودة وسيُعيد تعيين المخطط الحالي.
+Tip Pressure Feel,Pression ressentie sur la pointe,Druckempfindlichkeit der Stiftspitze,تلميح الشعور بالضغط
+Today,Aujourd'hui,Heute,اليوم
+Top Button,Bouton supérieur,Oberer Knopf,الزر الأعلى
+Touchpad (relative),Pavé tactile (relatif),Touchpad (relativ),لوحة اللمس (نسبي)
+Tracking Mode,Mode de suivi,Mausverfolgungsmodus,وضع التتبع
+Turn VPN connection off,Fermer la connexion VPN,VPN-Verbindung abschalten,إيقاف تشغيل إتصال VPN
+Turn Wi-Fi off,Éteindre le Wi-Fi,WLAN abschalten,إيقاف تشغيل Wi-Fi
+Turn device off,Éteindre le périphérique,Gerät abschalten,إيقاف تشغيل الجهاز
+Twisted Pair (TP),Paire torsadée (PT),Twisted Pair (TP),الاقتران الملتوي (TP)
+Unable to open connection editor,Impossible d'ouvrir l'éditeur de connexions,Verbindungsbearbeitung kann nicht geöffnet werden,تعذّر فتح محرر الاتصالات
+Unavailable,Non disponible,Nicht verfügbar,غير متوفره
+Uncalibrated,Non calibré,Nicht kalibriert,لم تتم المعايرة
+United States,États Unis d'Amérique,Vereinigte Staaten von Amerika,الولايات المتحدة
+Unknown,Inconnu,Unbekannt,غير معروف
+Unmanaged,Non géré,Nicht verwaltet,لم تتم إدارتها
+Unspecified,Indéterminé,Nicht angegeben,غير محدد
+"Use a country flag, if available,  to represent keyboard layouts","Utiliser un drapeau de pays, si disponible, pour représenter les dispositions de clavier","Bei Verfügbarkeit eine Landesfahne verwenden, um Tastaturbelegungen darzustellen",استخدم علامة البلد، إذا كانت متوفرة، لتمثيل تخطيطات لوحة المفاتيح
+Use the same layout for all windows,Utiliser la même disposition pour toutes les fenêtres,Die gleiche Tastaturbelegung für alle Fenster verwenden,استخدم نفس التخطيط لجميع النوافذ
+Use this connection only for resources on its network,N'utiliser cette connexion que pour les ressources sur ce réseau,Diese Verbindung nur für Quellen im eigenen Netzwerk verwenden,استخدم هذا الإتصال فقط للموارد الموجودة على شبكته
+Username,Nom d'utilisateur,Benutzername,إسم المستخدم
+VPN,VPN,VPN,‏VPN
+VPN Type,Type de VPN,VPN-Verbindungstyp,نوع Type
+Version 0,Version 0,Version 0,الإصدار 0
+Version 1,Version 1,Version 1,الإصدار 1
+View and edit keyboard layout options,Visualiser et modifier les options de disposition du clavier,Einstellungen zur Tastaturbelegung anzeigen und bearbeiten,عرض وتعديل خيارات تخطيط لوحة المفاتيح
+View details,Afficher les détails,Details anzeigen,عرض التفاصيل
+WEP,WEP,WEP,WEP
+WEP index,Index WEP,WEP-Index,مؤشر WEP
+WPA,WPA,WPA,WPA
+WPA & WPA2 Personal,WPA & WPA2 personnel,WPA- & WPA2-Personal,‏WPA و WPA2 شخصي
+WPA2,WPA2,WPA2,WPA2
+Weak,Faible,Schwach,ضعيفة
+Web Proxy Autodiscovery is used when a Configuration URL is not provided.,« Web Proxy Autodiscovery » est utilisé lorsqu'aucun URL de configuration n'est fourni.,"Automatische Erkennung des Vermittlungsservers (Proxy) wird verwendet, wenn keine Konfigurationsadresse angegeben wird.",يتم استخدام الاكتشاف التلقائي لوكيل ويب عندما لا يتم توفير عنوان الموقع الخاص بالتهيئة.
+Webcam,Webcam,Netzkamera,كاميرا الويب
+Wi-Fi,Wi-Fi,WLAN,Wi-Fi
+Wi-Fi Hotspot,Point d'accès Wi-Fi,WLAN-Zugangspunkt,نقطة Wi-Fi الساخنة
+Wired,Filaire,Kabelgebunden,سلكي
+Wireless device does not support Hotspot mode,Le périphérique sans fil ne prend pas en charge le mode « point d'accès »,Das drahtlose Gerät unterstützt keinen drahtlosen Zugangspunktmodus,لا يدعم الجهاز اللاسلكي وضع النقطة الساخنة
+Yesterday,Hier,Gestern,الأمس
+Add,Ajouter,Hinzufügen,أضف
+Add Profile…,Ajouter un profil…,Profil hinzufügen …,إضافة ملف تعريف...
+Addresses,Adresses,Adressen,العناوين
+All Settings,Tous les paramètres,Alle Einstellungen,جميع الإعدادات
+Apply,Appliquer,Anwenden,تطبيق
+BSSID,BSSID,BSSID,BSSID
+Cancel,Annuler,Abbrechen,إلغاء
+Cloned Address,Adresse clonée,Geklonte Adresse,العنوان المستنسخ
+Cloned MAC Address,Adresse MAC clonée,Geklonte MAC-Adresse, عنوان MAC المستنسخ
+Close,Fermer,Schließen,إغلاق
+Configuration URL,URL de configuration,Konfigurationsadresse,تكوين URL
+Connect to Hidden Network…,Connexion à un réseau masqué…,Mit verborgenem Funknetzwerk verbinden …,الإتصال بالشبكة المخفية...
+FTP Proxy,Serveur mandataire FTP,FTP-Proxy,وكيل FTP
+Forget,Oublier,Vergessen,نسيان
+HTTP Proxy,Serveur mandataire HTTP,HTTP-Proxy,وكيل HTTP
+History,Historique,Verlauf,المحفوظات
+Ignore Hosts,Ignorer les hôtes,Rechner ignorieren,تجاهل المضيفين
+Ignore automatically obtained routes,Ignorer les routes obtenues automatiquement,Automatisch erhaltene Routen ignorieren,تجاهل التوجيهات التي تم الحصول عليها تلقائيا
+Import,Importer,Importieren,استيراد
+Inner authentication,Authentification interne,Innere Legitimierung,المصادقة الداخلية
+Key,Clé,Schlüssel,المفتاح
+MAC Address,Adresse MAC,MAC-Adresse,عنوان MAC
+Method,Méthode,Methode,الأسلوب
+Name,Nom,Name,الإسم
+Open,Ouvrir,Öffnen,إفتح
+Options...,Options…,Optionen …,خيارات...
+Password,Mot de passe,Passwort,كلمة المرور
+Private key password,Mot de passe de la clé privée,Passwort für privaten Schlüssel,كلمة مرور المفتاح الخاص
+Replace,Remplacer,Ersetzen,إستبدِل
+Reset,Réinitialiser,Zurückstellen,إعادة تعيين
+SSID,SSID,SSID,SSID
+Save,Enregistrer,Speichern,إحفظ
+Select,Sélectionner,Auswählen,تحديد
+Socks Host,Hôte Socks,SOCKS-Rechner,مضيف Socks
+Stop Hotspot,Interrompre le point d'accès,Zugangspunkt beenden,إيقاف النقطة الساخنة
+Turn On,Allumer,Einschalten,تشغيل
+Type,Type,Typ,النوع
+Use as Hotspot…,Utiliser comme point d'accès…,Als drahtlosen Zugangspunkt verwenden …,استخدم كنقطة ساخنة...
+User certificate,Certificat utilisateur,Benutzerzertifikat,شهادة المستخدم
+Username,Nom d'utilisateur,Benutzername,إسم المستخدم
+automatic,automatique,automatisch,تلقائي
+bytes,octets,Bytes,بايت
+details,détails,Details,التفاصيل
+hardware,matériel,Geräte,الأجهزة
+identity,identité,Kennung,الهوية
+ipv4,ipv4,ipv4,ipv4
+ipv6,ipv6,ipv6,ipv6
+never,jamais,nie,كلا
+no file selected,aucun fichier sélectionné,keine Datei ausgewählt,لم يتم تحديد أي ملف
+page 1,page 1,Seite 1,صفحة 1
+page 2,page 2,Seite 2,صفحة 2
+reset,réinitialiser,Zurückstellen,إعادة تعيين
+today,aujourd'hui,heute,اليوم
+yesterday,hier,gestern,أمس

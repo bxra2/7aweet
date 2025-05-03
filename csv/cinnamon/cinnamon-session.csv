@@ -1,0 +1,36 @@
+
+- the Cinnamon session manager,– le gestionnaire de sessions de Cinnamon,– die Cinnamon-Sitzungsverwaltung,- مدير جلسة Cinnamon
+AUTOSTARTDIR,DOSSDÉMAUTO,AUTOSTARTORDNER,AUTOSTARTDIR
+Could not create ICE listening socket: %s,Impossible de créer le connecteur d’écoute ICE : %s,ICE-Listening-Socket konnte nicht erzeugt werden: %s,تعذر إنشاء مأخذ توصيل ICE: %s
+Do not load user-specified applications,Ne pas charger les applications indiquées par l’utilisateur,Keine benutzerspezifischen Anwendungen laden,عدم تحميل التطبيقات المحددة من قبل المستخدم
+Don't prompt for user confirmation,Ne pas demander de confirmation à l’utilisateur,Keine Bestätigung abfragen,عدم المطالبة بتأكيد المستخدم
+Enable debugging code,Activer le code de débogage,Code zur Fehlersuche aktivieren,تمكين رمز التصحيح
+Exited with code %d,S’est fermé avec le code %d,Abbruch mit Code %d,تم الخروج بالكود %d
+Ignoring any existing inhibitors,Ignorer les désactivateurs existants,Bestehende Unterdrückungen ignorieren,تجاهل أي مثبطات موجودة
+Killed by signal %d,A été tué par le signal %d,Durch Signal %d abgewürgt,قتل بواسطة الإشاره %d
+Log out,Me déconnecter,Abmelden,تسجيل خروج
+Log out of this system now?,Vous déconnecter de cet ordinateur maintenant ?,Jetzt vom System abmelden?,تسجيل الخروج من هذا النظام الآن؟
+Not responding,Ne répond pas,Keine Antwort,لا يستجيب
+Override standard autostart directories,Remplacer les dossiers de démarrage automatique habituels,Vorgegebene Autostartverzeichnisse überschreiben,تجاوز دلائل البدء التلقائي القياسية
+Power off,Éteindre,Ausschalten,إيقاف الطاقة
+Refusing new client connection because the session is currently being shut down,"Refus de connexion d’un nouveau client, car la session est en cours de fermeture","Neue Programmverbindung wurde abgelehnt, weil die aktuelle Sitzung gegenwärtig herunterfahren wird",رفض اتصال العميل الجديد لأنه يتم حاليًا إيقاف الجلسة
+Remembered Application,Applications mémorisées,Gemerkte Anwendung,تذكر التطبيق
+Restart this system now?,Redémarrer cet ordinateur maintenant ?,Möchten Sie das System jetzt neustarten?,إعادة تشغيل هذا النظام الآن؟
+SESSIONNAME,NOMDESESSION,SITZUNGSNAME,SESSIONNAME
+Suspend,Mettre en veille,Bereitschaft,تعليق
+Session,Session,Sitzung,الجلسة
+Session to use,Session à utiliser,Zu verwendende Sitzung,الجلسة للاستخدام
+Show the fail whale dialog for testing,Afficher la fenêtre de la baleine d’échec à fins de test,Den Dialog zum Fehlschlag für Prüfungszwecke anzeigen,عرض مربع حوار فشل حوت الاختبار
+Shut down this system now?,Éteindre cet ordinateur maintenant ?,Möchten Sie das System jetzt herunterfahren?,إيقاف تشغيل هذا النظام الآن؟
+Some programs are still running:,Certains programmes sont en cours d'exécution :,Einige Programme laufen noch:,لا تزال بعض البرامج قيد التشغيل:
+Stopped by signal %d,A été arrêté par le signal %d,Durch Signal %d angehalten,متوقف بواسطة الإشارة %d
+This program is blocking logout.,Ce programme bloque la déconnexion.,Dieses Programm blockiert die Abmeldung.,هذا البرنامج يمنع تسجيل الخروج.
+Unknown,Inconnu,Unbekannt,غير معروف
+Version of this application,Version de cette application,Version dieser Anwendung,إصدار هذا التطبيق
+Waiting for programs to finish.  Interrupting these programs may cause you to lose work.,Attente de la fin des programmes. L’interruption de ces programmes pourrait vous faire perdre des données.,Auf das Beenden der Programme wird gewartet. Durch Abbruch der Programme könnten Änderungen verlorengehen.,في انتظار انتهاء البرامج. قد تؤدي مقاطعة هذه البرامج إلى فقدان العمل.
+Cancel,Annuler,Abbrechen,إلغاء
+Hibernate,Mettre en veille prolongée,Ruhezustand,إسبات
+Log Out,Me déconnecter,Benutzer abmelden,تسجيل الخروج
+Restart,Redémarrer,Neustarten,إعادة تشغيل
+Shut Down,Éteindre,Herunterfahren,إيقاف تشغيل
+Switch User,Changer d’utilisateur,Benutzer wechseln,تبديل المستخدم

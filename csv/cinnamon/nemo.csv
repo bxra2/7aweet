@@ -1,0 +1,1239 @@
+(Empty),(Vide),(Leer),(فارغة)
+(another copy),(autre copie),(weitere Kopie),(نسخ أخر)
+(copy),(copie),(Kopie),(نسخ)
+(invalid Unicode),(Unicode non valide),(ungültiger Unicode),(Unicode غير صالح)
+(some contents unreadable),(certains contenus sont impossibles à lire),(Einige Inhalte sind nicht lesbar),(بعض المحتويات غير قابلة للقراءة)
+--check cannot be used with other options.,--check ne peut pas être utilisée avec d'autres options.,--check kann nicht zusammen mit anderen Optionen verwendet werden.,--لا يمكن استخدام الاختيار مع خيارات أخرى.
+--geometry cannot be used with more than one URI.,--geometry ne peut pas être utilisée avec plus d'un URI.,--geometry kann nicht mit mehr als einer Adresse benutzt werden.,--لا يمكن استخدام الهندسة مع أكثر من URI واحد.
+--quit cannot be used with URIs.,--quit ne peut pas être utilisée avec des URI.,--quit kann nicht mit Adressen benutzt werden.,--لا يمكن الاستخدام مع URIs.
+1 GB,1 Gio,1 GB,1 جب
+1 MB,1 Mio,1 MB,1 مب
+10 MB,10 Mio,10 MB,10 مب
+100 KB,100 Ko,100 KB,100 كب
+100 MB,100 Mio,100 MB,100 مب
+100%,100 %,100%,100%
+150%,150 %,150%,150%
+16 GB,16 Go,16 GB,16 غيغابايت
+2 GB,2 Gio,2 GB,2 جب
+200%,200 %,200%,200%
+3 MB,3 Mio,3 MB,3 مب
+32 GB,32 Go,32 GB,32 غيغابايت
+33%,33 %,33%,33%
+4 GB,4 Gio,4 GB,4 جب
+400%,400 %,400%,400%
+5 MB,5 Mio,5 MB,5 مب
+50%,50 %,50%,50%
+500 KB,500 Kio,500 KB,500 كب
+64 GB,64 Go,64 GB,64 غيغابايت
+66%,66 %,66%,66%
+8 GB,8 Go,8 GB,8 جب
+Behavior,Comportement,Verhalten,السلوك
+Bulk Rename,Renommer plusieurs fichiers,Umbenennen mehrerer Elemente,إعادة تسمية مجمعة
+Compact View Defaults,Réglages par défaut de la vue compacte,Vorgaben für Kompaktansicht,افتراضيات العرض المحكم
+Date,Date,Datum,التاريخ
+Default View,Vue par défaut,Vorgabeansicht,العرض الافتراضي
+Executable Text Files,Fichiers textes exécutables,Ausführbare Textdateien,الملفات النصية القابلة للتنفيذ
+File Properties,Propriétés du fichier,Dateieigenschaften,خصائص الملف
+File Size,Taille du fichier,Dateigröße,حجم الملف
+Folders,Dossiers,Ordner,المجلدات
+Icon Captions,Libellés des icônes,Symbolbeschriftungen,عنوان الأيقونة
+Icon View Defaults,Réglages par défaut de la vue en icônes,Vorgaben für Symbolansicht,افتراضيات عرض الأيقونة
+List Columns,Liste des colonnes,Listenspalten,أعمدة القائمة
+List View Defaults,Réglages par défaut de la vue en liste,Vorgaben für Listenansicht,افتراضيات عرض القائمة
+Media Handling,Gestion des supports,Handhabung von Datenträgern,معالجة الوسائط
+Move/Copy To Menu,Menu Copier/Déplacer,Menüpunkt »Verschieben/Kopieren nach«,نقل/نسخ إلى القائمة
+Previewable Files,Fichiers pré-visualisables,Vorschaubare Dateien,الملفات القابلة للمعاينة
+Tooltips,Info-bulles,Kurzinfos,تلميحات الأدوات
+Trash,Corbeille,Papierkorb,سلة المهملات
+Tree View Defaults,Réglages par défaut de la vue arborescente,Vorgaben für Baumansicht,افتراضيات عرض الشجرة
+Window and Tab Titles,Titres des fenêtres et onglets,Fenster- und Reitertitel,عناوين النوافذ وعلامات التبويب
+Bookmarks,Marque-pages,Lesezeichen,الإشارات المرجعية
+Location,Emplacement,Ort,الموقع
+Name,Nom,Name,الاسم
+<big>Error autorunning software</big>,<big>Erreur durant le lancement automatique du logiciel</big>,<big>Fehler beim automatischen Starten</big>,<big>خطأ في تشغيل البرامج تلقائياً</big>
+<big>This medium contains software intended to be automatically started. Would you like to run it?</big>,<big>Ce support contient un logiciel conçu pour être lancé automatiquement. Souhaitez-vous le lancer ?</big>,"<big>Dieser Datenträger enthält Programme, die automatisch gestartet werden sollen. Sollen sie gestartet werden?</big>",<big> يحتوي هذا الوسيط على برنامج يهدف إلى البدء تلقائياً. هل ترغب في تشغيله؟</big>
+"By default, a folder tooltip shows the item count, and files display their size.
+    Select additional information to display in the tooltip:","Par défault l'infobulle d'un dossier montre le nombre d'éléments et celle d'un fichier montre sa taille.
+    Sélectionnez les informations complémentaires à afficher dans l'infobulle :","Als Vorgabe, wird eine Ordnerkurzinfo die Elementeanzahl anzeigen und Dateien deren Größe.
+    Bitte zusätzliche Informationen auswählen, um die Kurzinfo anzuzeigen:","بشكل افتراضي، يعرض تلميح أدوات المجلد عدد العناصر، وتعرض الملفات حجمها.
+ حدد معلومات إضافية لعرضها في تلميح الأدوات:"
+? bytes,? octets,? Byte,؟ البايتات
+? items,? éléments,? Objekte,؟ العناصر
+"A folder with the same name already exists in ""%s"".",Un dossier portant le même nom existe déjà dans « %s ».,Ein Ordner gleichen Namens existiert bereits in »%s«.,"يوجد بالفعل مجلد يحمل نفس الاسم في ""%s""."
+"A newer file with the same name already exists in ""%s"".",Un fichier plus récent portant le même nom existe déjà dans « %s ».,Eine neuere Datei mit dem selben Namen existiert bereits in »%s«.,"يوجد بالفعل ملف أحدث يحمل نفس الاسم في ""%s""."
+"A newer folder with the same name already exists in ""%s"".",Un dossier plus récent portant le même nom existe déjà dans « %s ».,Ein neuerer Ordner gleichen Namens existiert bereits in »%s«.,"يوجد بالفعل مجلد أحدث يحمل نفس الاسم في ""%s""."
+A problem has been detected with your thumbnail cache.  Fixing it will require administrative privileges.,Un problème a été détecté dans votre cache de vignettes. Sa résolution requiert des privilèges administrateur.,Ein Problem wurde mit Ihrem Vorschaubildpuffer festgestellt. Das zu reparieren benötigt Systemverwaltungsrechte.,تم اكتشاف مشكلة في ذاكرة التخزين المؤقت المصغرة. إصلاحه سيتطلب امتيازات إدارية.
+All columns have the same width,Toutes les colonnes ont la même largeur,Alle Spalten haben die selbe Breite,جميع الأعمدة لها نفس العرض
+Access and organize files,Accéder aux fichiers et les organiser,Dateien aufrufen und organisieren,الوصول إلى الملفات وتنظيمها
+Access files,Accès aux fichiers,Auf Dateien zugreifen,الوصول إلى الملفات
+Access was denied.,L'accès a été refusé.,Zugriff wurde verweigert.,تم رفض الوصول.
+Access:,Accès :,Zugriff:,الوصول:
+Accessed date,Date d'accès,Zugriffsdatum,تاريخ الوصول
+Accessed:,Dernier accès :,Zugegriffen:,الوصول:
+Accessed: %s,Accédé : %s,Zugegriffen: %s,الوصول: %s
+Actions,Actions,Aktionen,الإجراءات
+Actions: Action files can be added to this folder and will appear in the menu.,Actions : des actions peuvent être ajoutées à ce dossier. Elles apparaîtront alors dans le menu.,Aktionen: Aktionsdateien können zu diesem Ordner hinzugefügt werden und erscheinen im Menü.,الإجراءات: يمكن إضافة ملفات الإجراءات إلى هذا المجلد وستظهر في القائمة.
+Activate next tab,Active l'onglet suivant,Nächsten Reiter aktivieren,تنشيط علامة التبويب التالية
+Activate previous tab,Active l'onglet précédent,Vorherigen Reiter aktivieren,تنشيط علامة التبويب السابقة
+Add Desklets,Ajouter des desklets,Desklets hinzufügen,إضافة تطبيق مكتبي
+Add a bookmark for the current location to this menu,Ajouter à ce menu un marque-page pour l’emplacement actuel,Ein Lesezeichen für den aktuellen Ort zu diesem Menü hinzufügen,إضافة إشارة مرجعية للموقع الحالي إلى هذه القائمة
+Add connect to server mount,Ajouter la connexion au montage du serveur,Mit Server verbinden,إضافة الاتصال إلى تحميل الخادم
+Add the selected file to your favorites,Ajouter le fichier sélectionné à vos favoris,Die ausgewählte Datei zu Ihren Favoriten hinzufügen,أضف الملفات المحددة إلى المفضّلة الخاصة بك
+Add to favorites,Ajouter aux favoris,Zu Favoriten hinzufügen,أضف إلى المفضّلة
+Add to list,Ajouter à la liste,Zur Liste hinzufügen,إضافة إلى القائمة
+Adjust the desktop layout for this monitor,Ajuster l'agencement du bureau pour ce moniteur,Schreibtischanordnung für diesen Bildschirm anpassen,عدّل مخطط سطح المكتب لهذه الشاشة.
+Adjust zoom level,Ajuster le niveau du zoom,Vergrößerungsstufe einstellen,ضبط مستوى التكبير
+All file operations have been successfully completed,Toutes les opérations sur les fichiers ont été exécutées avec succès,Alle Dateivorgänge erfolgreich abgeschlossen,اكتملت جميع عمليات الملف بنجاح
+All items in the Trash will be permanently deleted.,Tous les éléments de la corbeille seront définitivement supprimés.,Alle Objekte im Papierkorb werden dauerhaft gelöscht.,سيتم حذف جميع العناصر في سلة المهملات بشكل دائم.
+Allow executing file as program,Autoriser l'exécution du fichier comme un programme,Der Datei erlauben sie als Programm auszuführen,السماح بتنفيذ الملف كبرنامج
+Always,Toujours,immer,دائماً
+Always start in dual-pane view,Toujours démarrer avec le panneau supplémentaire,Immer in Zweispaltenansicht starten,بدء العرض دائماً في الجزء المزدوج
+An invalid drag type was used.,Un type de glisser non valide a été utilisé.,Es wurde eine ungültige Art des Ziehens verwendet.,تم استخدام نوع سحب غير صالح.
+"An older file with the same name already exists in ""%s"".",Un fichier plus ancien portant le même nom existe déjà dans « %s ».,Eine ältere Datei mit dem selben Namen existiert bereits in »%s«.,"يوجد بالفعل ملف قديم يحمل نفس الاسم في ""%s""."
+"An older folder with the same name already exists in ""%s"".",Un dossier plus ancien portant le même nom existe déjà dans « %s ».,Ein älterer Ordner gleichen Namens existiert bereits in »%s«.,"يوجد بالفعل مجلد قديم يحمل نفس الاسم في ""%s""."
+"Another file with the same name already exists in ""%s"".",Un autre fichier portant le même nom existe déjà dans « %s ».,Eine weitere Datei mit dem gleichen Namen existiert bereits in »%s«.,"يوجد بالفعل ملف آخر يحمل نفس الاسم في ""%s""."
+"Another folder with the same name already exists in ""%s"".",Un autre dossier portant le même nom existe déjà dans « %s ».,Ein Ordner gleichen Namens existiert bereits in »%s«.,"يوجد بالفعل مجلد آخر يحمل نفس الاسم في ""%s""."
+Another link to %s,Un autre lien vers %s,Eine weitere Verknüpfung mit %s,رابط آخر إلى %s
+Aperture Value,Ouverture,Blendenwert,قيمة الفتحة
+Apply Permissions to Enclosed Files,Appliquer les permissions aux fichiers contenus dans le dossier,Zugriffsrechte auf enthaltene Dateien übertragen,تطبيق الأذونات على الملفات المغلقة
+Apply this action to all files,Appliquer cette action pour tous les fichiers,Diese Aktion auf alle Dateien anwenden,تطبيق هذا الإجراء على جميع الملفات
+Archive,Archive,Archiv,الأرشيف
+"Are you sure you want to move ""%B"" to the trash?","Voulez-vous vraiment déplacer ""%B"" vers la corbeille ?",Möchten Sie %B« wirklich in den Papierkorb verschieben?,"هل أنت متأكد من أنك تريد نقل ""%B"" إلى المهملات؟"
+Are you sure you want to open all files?,Souhaitez-vous vraiment ouvrir tous les fichiers ?,"Sind Sie sicher, dass Sie alle Dateien öffnen wollen?",هل تريد بالتأكيد فتح جميع الملفات؟
+"Are you sure you want to permanently delete ""%B"" from the trash?",Êtes-vous sûr de vouloir supprimer définitivement « %B » de la corbeille ?,"Sind Sie sicher, dass Sie »%B« dauerhaft aus dem Papierkorb löschen möchten?","هل تريد بالتأكيد حذف ""%B"" من سلة المهملات بشكل دائم؟"
+"Are you sure you want to permanently delete ""%B""?",Êtes-vous sûr de vouloir supprimer définitivement « %B » ?,"Sind Sie sicher, dass Sie »%B« unwiderruflich löschen wollen?","هل تريد بالتأكيد حذف ""%B"" بشكل دائم؟"
+Arrange Items,Ranger les éléments,Objekte anordnen,محاذاة العناصر
+Ask before emptying the Trash or deleting files,Demander avant de vider la corbeille ou de supprimer des fichiers,Vor dem Leeren des Papierkorbs oder dem Löschen von Dateien nachfragen,اسأل قبل إفراغ سلة المهملات أو حذف الملفات
+Ask before moving files to the Trash,Demander avant de mettre les fichiers dans la corbeille,Vor dem Verschieben von Dateien in den Papierkorb nachfragen,إسأل قبل نقل الملفات إلى المهملات
+Audio,Son,Ton,الصوت
+Author,Auteur,Verfasser,المؤلف
+Auto-arrange,Ajustement automatique,Automatisch anordnen,ترتيب-تلقائي
+"Automatically close the device's tab, pane, or window when a device is unmounted or ejected","Fermer automatiquement l'onglet, le volet ou la fenêtre d'un périphérique lorsque celui-ci est démonté ou retiré","Automatisch den Reiter, die Leiste oder Fenster des Mediums schließen, wenn es ausgehängt oder ausgeworfen wurde",إغلاق علامة التبويب أو الجزء أو نافذة الجهاز تلقائيا عند إلغاء تحميل الجهاز أو إخراجه
+Automatically open a folder for automounted media,Ouvrir un dossier pour les disques montés automatiquement,"Für automatisch eingehängte Geräte, automatisch einen neuen Ordner öffnen",الفتح التلقائي لمجلد الوسائط المحملة تلقائياً
+Back history,Précédent dans l'historique,Im Verlauf zurück bewegen,التاريخ الخلفي
+Background,Arrière-plan,Hintergrund,الخلفية
+Basic,Général,Standard,الأساسي
+"Before running Nemo, please create the following folder, or set permissions such that Nemo can create it.","Avant de lancer Nemo, veuillez créer ce dossier ou définir les permissions de telle sorte que Nemo puisse le créer.","Bevor Sie Nemo benutzen, erstellen Sie bitte folgenden Ordner oder erteilen Sie Nemo die Zugriffsrechte, diesen anzulegen.",قبل تشغيل Nemo، يرجى إنشاء المجلد التالي، أو تعيين أذونات بحيث يمكن لـNemo إنشائها.
+Behavior,Comportement,Verhalten,السلوك
+Binary,Binaire,Binär,الثنائي
+Binary (long format),Binaire (format long),Binär (langes Format),ثنائي (تنسيق طويل)
+Bookmark current location,Marquer l’emplacement en cours,Lesezeichen für den aktuellen Ort anlegen,علّم المكان الحاليّ
+Bookmark for Nonexistent Location,Marque-page pour un emplacement inexistant,Lesezeichen für nicht existierenden Ort,إشارة مرجعية لموقع غير موجود
+Bookmarks,Marque-pages,Lesezeichen,الإشارات المرجعية
+Browse all local and remote disks and folders accessible from this computer,Parcourt tous les disques locaux et distants ainsi que les dossiers accessibles depuis cet ordinateur,"Alle lokalen und entfernten Laufwerke und Ordner durchsuchen, die von diesem Rechner aus erreichbar sind",تصفح جميع الأقراص والمجلدات المحلية والبعيدة الوصول إليها من هذا الكمبيوتر
+Browse bookmarked and local network locations,Parcourir les emplacements en marque-page et du réseau local,Lokale und als Lesezeichen gespeicherte Orte durchsuchen,تصفح الإشارات المرجعية ومواقع الشبكة المحلية
+Browse for a folder to copy the selection to,Rechercher un dossier pour copier la selection,Nach einem Zielordner zum Kopieren der Auswahl suchen,استعرض بحثاً عن مجلد لنسخ التحديد إليه
+Browse for a folder to move the selection to,Rechercher un dossier pour déplacer la selection,Nach einem Zielordner zum Verschieben der Auswahl suchen,استعرض بحثاً عن مجلد لنقل التحديد إليه
+Browse the contents of the network,Parcourt le contenu du réseau,Inhalt des Netzwerks durchsuchen,تصفح محتويات الشبكة
+Browse the file system with the file manager,Parcourir le système de fichiers avec le gestionnaire de fichiers,Das Dateisystem mit Hilfe der Dateiverwaltung durchsuchen,تصفح نظام الملفات مع مدير الملفات
+Browse...,Parcourir…,Durchsuchen …,تصفَّح...
+By Access Date,Par date d'accès,nach Zugriffsdatum,حسب تاريخ الوصول
+By Detailed Type,Par catégories détaillées,nach datailliertem Dateityp,حسب النوع التفصيلي
+By Modification Date,Par date de modification,nach Änderungsdatum,حسب تاريخ التعديل
+By Modification Date,Par date de modification,Nach Änderungsdatum,حسب تاريخ التعديل
+By Name,Par nom,nach Namen,حسب الاسم
+By Size,Par taille,nach Größe,حسب الحجم
+By Trash Time,Par date de mise à la corbeille,Nach Löschdatum,حسب وقت سلة المهملات
+By Trashed Date,Par date de mise à la corbeille,nach Löschdatum,حسب تاريخ التمزيق
+By Type,Par type,nach Typ,حسب النوع
+By Detailed Type,Par catégories détaillées,Nach detailliertem Dateityp,حسب النوع المفصل
+By Name,Par nom,Nach Name,حسب الاسم
+By Size,Par taille,Nach Größe,حسب الحجم
+By Type,Par type,Nach Typ,حسب النوع
+Bypass the Trash when the Delete key is pressed,Ignorer la corbeille quand la touche Supprimer est pressée,"Den Papierkorb umgehen, wenn die Entfernentaste gedrückt wird",تجاوز سلة المهملات عند الضغط على مفتاح Delete
+Connect,Se connecter,Verbinden,إتصال
+Calendar,Calendrier,Kalender,التقويم
+Camera Brand,Marque de l'appareil photo,Marke der Kamera,ماركة الكاميرا
+Camera Model,Modèle de l'appareil photo,Modell der Kamera,طراز الكاميرا
+"Can't load the supported server method list.
+Please check your gvfs installation.","Impossible de charger la liste des méthodes prises en charge par le serveur.
+Veuillez vérifier votre installation de gvfs.","Die Liste der unterstützten Servermethoden kann nicht geladen werden.
+Bitte überprüfen Sie Ihre gvfs-Installation.","لا يمكن تحميل قائمة طريقة الخادم المعتمدة.
+يرجى التحقق من تثبيت gvfs."
+Cancel,Annuler,Abbrechen,إلغاء
+Cancel Group Change?,Annuler le changement de groupe ?,Gruppenwechsel abbrechen?,إلغاء تغيير المجموعة؟
+Cancel Owner Change?,Annuler le changement de propriétaire ?,Besitzerwechsel abbrechen?,إلغاء تغيير المالك؟
+Cannot find the autorun program,Impossible de trouver le programme de lancement automatique,Das automatisch zu startende Programm konnte nicht gefunden werden,لا يمكن العثور على برنامج التشغيل التلقائي
+"Cannot move file to trash, do you want to delete immediately?","Impossible de mettre le fichier dans la corbeille, voulez-vous le supprimer immédiatement ?",Die Datei konnte nicht in den Papierkorb verschoben werden. Soll sie unwiderruflich gelöscht werden?,لا يمكن نقل الملف إلى سلة المهملات، هل تريد حذفه على الفور؟
+Case sensitive,Respecter la casse,Groß-/Kleinschreibung,حسّاس لحالة الأحرف
+Change Desktop Background,Modifier l'arrière-plan du bureau,Hintergrund des Schreibtisches ändern,تغيير خلفية سطح المكتب
+Change the Cinnamon desktop background,Changer le fond d'écran de Cinnamon,Cinnamons Schreibtischhintergrund ändern,تغيير خلفية سطح مكتب Cinnamon
+Change the default visibility of the menubar,Changer la visibilité par défaut de la barre des menus,Die Standardsichtbarkeit der Menüleiste ändern,تغيير الرؤية الافتراضية لشريط القوائم
+Change the visibility of this window's main toolbar,Modifie la visibilité de la barre d'outils principale de la fenêtre,Die Sichtbarkeit der Hauptwerkzeugleiste dieses Fensters ändern,تغيير الرؤية لشريط الأدوات الرئيسي لهذه النافذة
+Change the visibility of this window's side pane,Modifie la visibilité du panneau latéral de la fenêtre,Die Sichtbarkeit der Seitenleiste dieses Fensters ändern,تغيير رؤية الجزء الجانبي لهذه النافذة
+Change the visibility of this window's statusbar,Modifie la visibilité de la barre d'état de la fenêtre,Die Sichtbarkeit der Statusleiste dieses Fensters ändern,تغيير رؤية شريط الحالة لهذه النافذة
+Check that the spelling is correct and that your proxy settings are correct.,Vérifiez que l'orthographe ainsi que vos paramètres de proxy sont corrects.,Rechtschreibung und Proxy-Einstellungen prüfen.,تحقق من صحة التدقيق الإملائي وأن إعدادات الخادم الوكيل لديك صحيحة.
+Choose a program,Choisissez un programme,Ein Programm wählen,اختيار البرنامج
+Choose a program with which to open the selected item,Choisir une application pour ouvrir l'élément sélectionné,"Ein Programm auswählen, mit dem das gewählte Objekt geöffnet werden soll.",اختيار برنامج لفتح العنصر المحدد
+Choose another application with which to open the selected item,Choisit une autre application pour ouvrir l'élément sélectionné,"Eine andere Anwendung auswählen, mit der das gewählte Objekt geöffnet werden soll",اختيار تطبيق آخر لفتح العنصر المحدد
+Choose the order of information to appear beneath icon names. More information will appear when zooming in closer.,"Choisissez l'ordre des informations à afficher sous le nom des icônes. Plus vous zoomez en avant, plus les informations sont nombreuses.","Legen Sie die Reihenfolge fest, in der Informationen unterhalb der Symbolnamen angezeigt werden sollen. Je mehr Sie die Ansicht vergrößern, desto mehr Informationen werden angezeigt.",اختيار ترتيب المعلومات لتظهر أسفل أسماء الأيقونات. سوف تظهر المزيد من المعلومات عند التقريب.
+Choose the order of information to appear in the list view.,Choisissez l'ordre des informations apparaissant dans la vue en liste.,"Die Reihenfolge festlegen, in welcher, in der Listenansicht, Informationen angezeigt werden sollen.",اختيار ترتيب المعلومات لتظهر في عرض القائمة.
+Click on a file's name twice to rename it,Cliquer sur le nom d'un fichier deux fois pour le renommer,"Auf einen Dateinamen zweimal klicken, um Datei umzubenennen",انقر على اسم الملف مرتين لإعادة تسميته
+Close,Fermer,Schließen,أغلق
+Close All Windows,Fermer toutes les fenêtres,Alle Fenster schließen,إغلاق كل النوافذ
+Close all Navigation windows,Ferme toutes les fenêtres de navigation,Alle Navigationsfenster schließen,إغلاق كل نوافذ التنقل
+Close all windows,Fermer toutes les fenêtres,Alle Fenster schließen,أغلق كل النوافذ
+Close tab,Fermer l'onglet,Reiter schließen,إغلاق علامة التبويب
+Close this folder,Ferme ce dossier,Diesen Ordner schließen,إغلاق هذا المجلد
+Close window or tab,Fermer la fenêtre ou l’onglet,Reiter oder Fenster schließen,أغلق النافذة أو اللسان
+Command,Commande,Befehl,الأمر
+Command to invoke when renaming multiple items:,Commande à invoquer pour renommer plusieurs fichiers :,"Befehl, der beim Umbenennen mehrerer Elemente ausgeführt wird:",أمر للاستدعاء عند إعادة تسمية عناصر متعددة:
+Comment,Commentaire,Bemerkung,التعليق
+Compact,Compact,Kompakt,المحكم
+Compact View,Vue compacte,Kompaktansicht,العرض المدمج
+Computer,Poste de travail,Rechner,الكمبيوتر
+Configure,Configurer,Konfigurieren,التكوين
+Connect To This Server,Se connecter à ce serveur,Mit diesem Server verbinden,الإتصال بهذا الخادم
+Connect to Server,Se connecter au serveur,Mit Server verbinden,الإتصال بالخادم
+Connect to Server %s,Connexion au serveur %s,Mit Server %s verbinden,الإتصال بالخادم %s
+Connect to Server...,Se connecter au serveur…,Mit Server verbinden …,الإتصل بالخادم...
+Connect to a remote computer or shared disk,Se connecter à un ordinateur distant ou à un disque partagé,Verbinden mit einem entfernten Rechner oder freigegebenen Datenträger,الإتصال بجهاز كمبيوتر بعيد أو قرص مشترك
+Connect to the drive associated with the open folder,Se connecte au volume associé au dossier ouvert,Verbinden mit dem zum geöffneten Ordner gehörenden Laufwerk,الإتصال بمحرك الأقراص المقترن بالمجلد المفتوح
+Connect to the selected drive,Se connecte au volume sélectionné,Mit gewähltem Laufwerk verbinden,الإتصال بمحرك الأقراص المحدد
+Connecting...,Connexion…,Verbindungsaufbau …,جاري التوصيل...
+Contacts,Contacts,Kontakte,جهات الاتصال
+Contains: %s,Contient : %s,Enthält: %s,يتضمن: %s
+Content View,Vue du contenu,Inhaltsansicht,عرض المحتوى
+Contents:,Contenus :,Inhalte:,المحتويات:
+Continue,Continuer,Fortsetzen,متابعة
+Copy to,Copier vers,Kopieren nach,نسخ إلى
+Copy,Copier,Kopieren,نسخ
+Copy '%s' to '%s',Copier « %s » vers « %s »,»%s« nach »%s« kopieren,نسخ '%s' إلى '%s'
+Copy Anyway,Copier quand même,Trotzdem kopieren,نسخ على أي حال
+Copy the current selection to the desktop,Copie la sélection actuelle vers le bureau,Die aktuelle Auswahl auf den Schreibtisch kopieren,نسخ التحديد الحالي إلى سطح المكتب
+Copy the current selection to the home folder,Copie la sélection actuelle vers le dossier personnel,Die aktuelle Auswahl in den persönlichen Ordner kopieren,نسخ التحديد الحالي إلى المجلد الرئيسي
+Copy the current selection to the other pane in the window,Copie la sélection actuelle vers l'autre panneau de cette fenêtre,Die aktuelle Auswahl in die andere Leiste dieses Fensters kopieren,نسخ التحديد الحالي إلى جزء آخر في النافذة
+Copy the selected text to the clipboard,Copie le texte sélectionné dans le presse-papiers,Den markierten Text in die Zwischenablage kopieren,نسخ النص المحدد إلى الحافظة
+"Copying ""%B"" to ""%B""",Copie de « %B » vers « %B »,»%B« wird nach »%B« kopiert,"نسخ ""%B"" إلى ""%B"""
+Copying Files,Copie des fichiers,Dateien werden kopiert,نسخ الملفات
+"Copying file %'d of %'d (in ""%B"") to ""%B""",Copie du fichier %'d sur %'d (de « %B ») vers « %B »,Datei %'d von %'d (in »%B«) wird nach »%B« kopiert,"نسخ %'d ملف من %'d (في ""%B"") إلى ""%B"""
+"Copying file %'d of %'d to ""%B""",Copie du fichier %'d sur %'d vers « %B »,Datei %'d von %'d wird nach »%B« kopiert,"نسخ %'d ملف من %'d إلى ""%B"""
+Copyright,Copyright,Urheberrecht,حقوق النشر
+"Could not determine original location of ""%s""",Impossible de déterminer l'emplacement d'origine de « %s »,Ursprünglicher Ort von »%s« konnte nicht ermittelt werden,"لا يمكن تحديد الموقع الأصلي لـ""%s"""
+"Could not display ""%s"", because the host could not be found.","Impossible d'afficher « %s », car l'hôte n'a pas été trouvé.","»%s« konnte nicht angezeigt werden, da der Rechner nicht gefunden werden konnte.","لا يمكن عرض ""%s""، لأنه تعذر العثور على المضيف."
+"Could not display ""%s"".",Impossible d'afficher « %s ».,»%s« konnte nicht angezeigt werden.,"لا يمكن عرض ""%s""."
+"Could not find ""%s"".",Impossible de trouver « %s ».,»%s« konnte nicht gefunden werden.,"تعذر العثور على ""%s""."
+Could not forget association,Impossible de défaire l'association,Verknüpfung konnte nicht aufgehoben werden,لا يمكن نسيان الأقتران
+Could not remove files from the already existing folder %F.,Impossible de supprimer les fichiers du dossier préexistant « %F ».,Die Dateien aus dem bereits bestehenden Ordner %F konnten nicht entfernt werden.,لا يمكن إزالة الملفات من المجلد الموجود بالفعل %F.
+Could not remove the already existing file %F.,Impossible de supprimer le fichier préexistant « %F ».,Die bereits bestehende Datei %F konnte nicht entfernt werden.,لا يمكن إزالة الملف الموجود بالفعل %F.
+Could not remove the already existing file with the same name in %F.,Impossible de supprimer le fichier préexistant portant le même nom dans « %F ».,Die bereits in %F bestehende Datei mit dem selben Namen konnte nicht entfernt werden.,لا يمكن إزالة ملف موجود بالفعل بنفس الاسم في %F.
+Could not remove the folder %B.,Impossible de supprimer le dossier %B.,Ordner »%B« konnte nicht entfernt werden.,لا يمكن إزالة المجلد %B.
+Could not remove the source folder.,Impossible de supprimer le dossier source.,Der Quellordner konnte nicht entfernt werden.,لا يمكن إزالة المجلد المصدر.
+Count number of items:,Afficher le nombre d'éléments :,Anzahl der Objekte anzeigen:,عدد العناصر:
+Create New Document,Créer un nouveau document,Neues Dokument anlegen,إنشاء مستند جديد
+Create New Folder,Créer un nouveau dossier,Neuen Ordner anlegen,إنشاء مجلد جديد
+"Create a new document from template ""%s""",Créer un nouveau document à partir du modèle « %s »,Ein neues Dokument aus Vorlage »%s« anlegen,"إنشاء مستند جديد من القالب ""%s"""
+Create a new empty document inside this folder,Créer un nouveau document vide dans ce dossier,Ein neues leeres Dokument in diesem Ordner anlegen,إنشاء مستند فارغ جديد داخل هذا المجلد
+Create a new empty folder inside this folder,Créer un nouveau dossier vide dans ce dossier,Einen neuen leeren Ordner in diesem Ordner anlegen,إنشاء مجلد فارغ جديد داخل هذا المجلد
+Create a new folder,Créer un nouveau dossier,Neuen Ordner erstellen,إنشاء مجلد جديد
+Create a new folder '%s',Créer un nouveau dossier « %s »,Neuen Ordner »%s« erstellen,إنشاء مجلد جديد '%s'
+Create a new launcher here...,Créer un nouveau lanceur ici…,Neuen Starter hier erstellen …,إنشاء منصة إطلاق جديدة هنا ...
+Create a new launcher in this folder,Créer un nouveau lanceur dans ce dossier,Einen neuen Starter in diesem Ordner erstellen,إنشاء منصة إطلاق جديدة في هذا المجلد
+Create a new workspace and activate it,Créer et activer un nouvel espace de travail,Eine neue Arbeitsfläche erstellen und diese aktivieren,إنشاء مساحة عمل جديدة وتنشيطها
+Create a symbolic link for each selected item,Créer un lien symbolique pour chaque élément sélectionné,Eine symbolische Verknüpfung für jedes gewählte Objekt anlegen,إنشاء رابط رمزي لكل عنصر محدد
+Create an empty file '%s',Créer un fichier vide « %s »,Leere Datei »%s« erstellen,إنشاء ملف فارغ '%s'
+Create and delete files,Création et suppression de fichiers,Dateien erstellen und löschen,إنشاء وحذف الملفات
+Create folder,Créer un répertoire,Ordner erstellen,إنشاء مجلد
+Create link to '%s',Créer le lien vers « %s »,Verknüpfung zu »%s« erstellen,إنشاء الرابط إلى '%s'
+Create new file '%s' from template,Créer un nouveau fichier « %s » à partir d'un modèle,Neue Datei »%s« aus Vorlage erstellen,إنشاء ملف جديد '%s' من القالب
+Created - Time,Créé - heure,Erstellt – Zeit,تاريخ - الإنشاء
+Created By,Créé par,Erstellt Von,إنشاؤها بواسطة
+Created On,Créé le,Erstellt am,إنشاؤها في
+Created date,Date de création,Erstelldatum,تاريخ الإنشاء
+Created:,Créé :,Erstellt:,تمّ إنشائه:
+Created: %s,Créé : %s,Erstellt: %s,أُنشئ: %s
+Creating Properties window.,Création de la fenêtre Propriétés.,Eigenschaftsfenster wird erzeugt.,إنشاء نافذة الخصائص.
+"Creating links in ""%B""",Création des liens dans « %B »,Verknüpfungen werden in »%B« angelegt,"إنشاء روابط في ""%B"""
+Creator,Créateur,Ersteller,المنشئ
+Cut,Couper,Ausschneiden,قصّ
+Current Monitor Layout,Disposition actuelle de l’écran,Aktuelle Bildschirmanordnung,مخطط شاشة العرض الحالي
+Current Monitor Preferences,Préférences de ce moniteur,Aktuelle Bildschirmeinstellungen,تفضيلات الشاشة الحالية
+Cursor Position,Position du curseur,Zeigerposition,موضع المؤشر
+Custom application,Application personnalisée,Benutzerdefinierte Anwendung,تطبيق مخصص
+Cut,Couper,Ausschneiden,قصّ
+Cut the selected text to the clipboard,Coupe le texte sélectionné et le place dans le presse-papiers,Ausschneiden des markierten Textes in die Zwischenablage,قص النص المحدد إلى الحافظة
+Default zoom level:,Niveau de zoom par défaut :,Voreingestellte Vergrößerungsstufe:,مستوى التكبير الافتراضي:
+Duplicate,Dupliquer,Verdoppeln,التكرار
+Date,Date,Datum,التّاريخ
+Date Accessed,Date d'accès,Zugriffsdatum,تاريخ الوصول
+Date Created,Date de création,Erstelldatum,تاريخ الإنشاء
+Date Digitized,Date de numérisation,Digitalisierungsdatum,تاريخ الترقيم
+Date Modified,Date de modification,Änderungsdatum,تاريخ التعديل
+Date Taken,Date de la prise,Aufnahmedatum,تاريخ الالتقاط
+Date when file was moved to the Trash,Date à laquelle le fichier a été mis à la corbeille,"Datum, an dem die Datei gelöscht wurde",تاريخ نقل الملف إلى سلة المهملات
+Decimal,Décimal,Dezimal,عشري
+Decimal (long format),Décimal (format long),Dezimal (langes Format),عشري (تنسيق طويل)
+Decrease the view size,Diminue l'affichage,Ansicht verkleinern,تقليل حجم العرض
+Default zoom level:,Niveau de zoom par défaut :,Voreingestellte Vergrößerungsstufe:,مستوى التكبير الافتراضي:
+Delete '%s',Supprimer « %s »,»%s« löschen,حذف '%s'
+Delete All,Tout supprimer,Alles Löschen,حذف الكل
+Delete all items in the Trash,Supprime tous les éléments de la corbeille,Alle Objekte im Papierkorb löschen,حذف جميع العناصر الموجودة في المهملات
+Delete all selected items permanently,Supprime définitivement tous les éléments sélectionnés,Alle gewählten Objekte dauerhaft löschen,حذف جميع العناصر المحددة بشكل دائم
+"Delete each selected item, without moving to the Trash","Supprime tous les éléments sélectionnés, sans les mettre à la corbeille","Jedes gewählte Objekt löschen, ohne es in den Papierkorb zu verschieben",حذف كل عنصر محدد، بدون نقله إلى سلة المهملات
+Delete link to '%s',Supprimer le lien vers « %s »,Verknüpfung zu »%s« löschen,حذف الرابط إلى '%s'
+Delete permanently,Supprimer définitivement,Dauerhaft löschen,احذف نهائيا
+Delete the open folder permanently,Supprime définitivement le dossier ouvert,Den geöffneten Ordner dauerhaft löschen,حذف المجلد المفتوح نهائياً
+"Delete this folder, without moving to the Trash","Supprime ce dossier, sans le mettre à la corbeille","Diesen Ordner löschen, ohne ihn in den Papierkorb zu verschieben",حذف هذا المجلد، بدون نقله إلى سلة المهملات
+Deleting Files,Suppression des fichiers,Dateien werden gelöscht,حذف الملفات
+Deleting files,Suppression des fichiers,Dateien werden gelöscht,حذف الملفات
+Description,Description,Beschreibung,الوصف
+Desktop,Bureau,Schreibtisch,سطح المكتب
+Desktop Icons,Icônes du bureau,Schreibtischsymbole,أيقونات سطح المكتب
+Desktop Layout,Agencement du bureau,Schreibtischanordnung,مخطط سطح المكتب
+Desktop Settings,Paramètres du bureau,Schreibtischeinstellungen,إعدادات سطح المكتب
+Detailed Type,Type détaillé,De­tail­lierter Dateityp,النوع التفصيلي
+Detailed file type,Type de fichier détaillé,De­tail­lierter Dateityp,نوع الملف التفصيلي
+Details:,Détails :,Details:,التفاصيل:
+Detect media in the selected drive,Détecte le média dans le lecteur sélectionné,Medium im gewählten Datenträger erkennen,كشف الوسائط في محرك الأقراص المحدد
+Devices,Périphériques,Geräte,الأجهزة
+Direction,Orientation,Richtung,الاتجاه
+Disable all,Tout désactiver,Alle deaktivieren,تعطيل الكل
+Disable file operation queueing,Désactiver la file d'attente des opérations sur les fichiers,Dateivorgänge nicht in Warteschlange einreihen,تعطيل عملية قائمة انتظار الملف
+Disclaimer,Clause de non-responsabilité,Haftungsausschluss,إخلاء المسؤولية
+Disconnect the drive associated with the open folder,Déconnecte le volume associé au dossier ouvert,Das zum geöffneten Ordner gehörende Laufwerk trennen,قطع الإتصال بمحرك الأقراص المقترن بالمجلد المفتوح
+Disconnect the selected drive,Déconnecte le volume sélectionné,Gewähltes Laufwerk trennen,قطع الإتصال بمحرك الأقراص المحدد
+Dismiss,Ignorer,Verwerfen,رفض
+Display,Affichage,Anzeigen,العرض
+Display Nemo help,Affiche l'aide pour Nemo,Nemo-Hilfethemen anzeigen,عرض مساعدة Nemo
+Display a window that allows editing the bookmarks in this menu,Afficher une fenêtre qui permet de modifier les marque-pages de ce menu,"Ein Fenster anzeigen, dass das Bearbeiten der Lesezeichen in diesem Menü erlaubt",عرض نافذة تسمح بتحرير الإشارات المرجعية في هذه القائمة
+Display credits for the creators of Nemo,Affiche la liste des créateurs de Nemo,Danksagungen für die Urheber von Nemo anzeigen,عرض الاعتمادات لمبدعي Nemo
+Display icons in the opposite order,Affiche les icônes dans l'ordre inverse,Symbole in umgekehrter Reihenfolge anzeigen,عرض الأيقونات بترتيب معكوس
+Display keyboard shortcuts,Afficher les raccourcis clavier,Tastenkombinationen anzeigen,إعرض إختصارات لوحة المفاتيح
+Display this location with the compact view.,Affiche cet emplacement avec la vue compacte.,Diesen Ort mit der Kompaktansicht anzeigen,عرض هذا الموقع مع العرض المدمج.
+Display this location with the icon view.,Affiche cet emplacement avec la vue en icônes.,Diesen Ort mit der Symbolansicht anzeigen,عرض هذا الموقع مع عرض الأيقونة.
+Display this location with the list view.,Affiche cet emplacement avec la vue en liste.,Diesen Ort mit der Listenansicht anzeigen,عرض هذا الموقع مع عرض القائمة.
+Do not Empty Trash,Ne pas vider la corbeille,Papierkorb nicht leeren,عدم إفراغ سلة المهملات
+Do you want to empty the trash before you unmount?,Souhaitez-vous vider la corbeille avant le démontage ?,Soll der Papierkorb vor dem Aushängen geleert werden?,هل تريد إفراغ سلة المهملات قبل إلغاء تحميلها؟
+Do you want to remove any bookmarks with the non-existing location from your list?,Voulez-vous supprimer de votre liste tout marque-page vers l’emplacement inexistant ?,Sollen die Lesezeichen mit dem nicht vorhandenen Ort aus Ihrer Liste entfernt werden?,هل تريد إزالة أي إشارات مرجعية لموقع غير موجود من قائمتك؟
+"Do you want to run ""%s"", or display its contents?",Voulez-vous lancer « %s » ou afficher son contenu ?,Wollen Sie »%s« starten oder den Inhalt anzeigen lassen?,"هل تريد تشغيل ""%s""، أو عرض محتوياته؟"
+Document,Document,Dokument,المستند
+Don't show this message again.,Ne plus afficher ce message,Diesen Hinweis nicht wieder anzeigen.,عدم عرض هذه الرسالة مرة أخرى.
+Double-click on a blank area to go to the parent folder,Double-cliquer sur une zone vide pour aller au dossier parent,"Auf einen leeren Bereich doppelklicken, um zum übergeordneten Ordner zu gehen",انقر نقراً مزدوجاً فوق منطقة فارغة للانتقال إلى المجلد الأصلي
+Drag and drop is not supported.,Le glisser-déposer n’est pas pris en charge.,Ziehen und Ablegen wird nicht unterstützt.,السحب والإفلات غير مدعوم.
+Drag and drop is only supported on local file systems.,Le glisser-déposer n’est pris en charge que sur les systèmes de fichiers locaux.,Ziehen und Ablegen wird ausschließlich auf lokalen Dateisystemen unterstützt.,يتم دعم السحب والإفلات في أنظمة الملفات المحلية فقط.
+Duplicate '%s' in '%s',Dupliquer « %s » dans « %s »,»%s« in »%s« verdoppeln,تكرار '%s' في '%s'
+Duplicate each selected item,Duplique chaque élément sélectionné,Alle gewählten Objekte verdoppeln,تكرار كل عنصر محدد
+"Duplicating ""%B""",Duplication de « %B »,»%B« wird verdoppelt,"تكرار ""%B"""
+Duplicating file %'d of %'d,Duplication du fichier %'d sur %'d,Datei %'d von %'d wird verdoppelt,تكرار %'d ملف من %'d
+"Duplicating file %'d of %'d (in ""%B"")",Duplication du fichier %'d sur %'d (dans « %B »),Datei %'d von %'d (in »%B«) wird verdoppelt,"تكرار %'d ملف من %'d (في ""%B"")"
+Empty Trash,Vider la corbeille,Papierkorb leeren,إفراغ سلة المهملات
+Execute,Exécution,Ausführen,التنفيذ
+Extra Pane,Panneau supplémentaire,Zusätzliche Leiste,الجزء الإضافي
+Edit,Édition,Bearbeiten,تحرير
+Edit Bookmarks,Modifier les marque-pages,Lesezeichen bearbeiten,تحرير الإشارات المرجعية
+Edit Nemo preferences,Modifie les préférences de Nemo,Nemo-Einstellungen bearbeiten,تحرير تفضيلات Nemo
+Edit bookmarks,Éditer les marques-pages,Lesezeichen bearbeiten,عدّل العلامات
+Editing,Édition,Bearbeitung,تحرير
+Eject the selected volume,Éjecte le volume sélectionné,Den ausgewählten Datenträger auswerfen,إخراج وحدة التخزين المحددة
+Eject the volume associated with the open folder,Éjecte le volume associé au dossier ouvert,Den zum geöffneten Ordner gehörenden Datenträger auswerfen,إخراج وحده التخزين المرتبطة بالمجلد المفتوح
+Eject the volume associated with this folder,Éjecte le volume associé à ce dossier,Den zu diesem Ordner gehörenden Datenträger auswerfen,إخراج وحدة التخزين المرتبطة بهذا المجلد
+Elevated Privileges,Privilèges élevés,Erhöhte Berechtigungen,امتيازات مرتفعة
+Empty Trash,Vider la corbeille,Papierkorb leeren,إفراغ سلة المهملات
+Empty Trash,Vider la corbeille,Papierkorb leeren,إفراغ سلة المهملات
+Empty all items from Trash?,Supprimer tous les éléments de la corbeille ?,Sollen alle Objekte aus dem Papierkorb entfernt werden?,إفراغ كل العناصر من سلة المهملات؟
+Emptying Trash,Vidage de la corbeille en cours,Papierkorb wird geleert,إفراغ سلة المهملات
+Enable all,Tout activer,Alle aktivieren,تمكين الكل
+Enter a custom command...,Saisir une commande personnalisée…,Benutzerdefinierten Befehl eingeben …,أدخل أمراً مخصصاً...
+Error removing file: %s,Erreur lors de la suppression du fichier : %s,Fehler beim Entfernen der Datei: %s,خطأ في إزالة الملف: %s
+Error starting autorun program: %s,Erreur lors du lancement automatique du programme : %s,Fehler beim Starten eines Autostartprogramms: %s,خطأ في بدء تشغيل برنامج التشغيل التلقائي: %s
+"Error while copying ""%B"".",Erreur lors de la copie de « %B ».,Fehler beim Kopieren von »%B«.,"حدث خطأ أثناء نسخ ""%B""."
+"Error while copying to ""%B"".",Erreur lors de la copie vers « %B ».,Fehler beim Kopieren nach »%B«.,"حدث خطأ أثناء النسخ إلى ""%B""."
+Error while copying.,Erreur lors de la copie.,Fehler beim Kopieren.,حدث خطأ أثناء النسخ.
+Error while creating directory %B.,Erreur lors de la création du dossier « %B ».,Fehler beim Erstellen des Ordners »%B«.,حدث خطأ أثناء إنشاء الدليل %B.
+Error while creating file %B.,Erreur lors de la création du fichier %B.,Fehler beim Erstellen der Datei »%B«.,حدث خطأ أثناء إنشاء الملف %B.
+Error while creating link to %B.,Erreur lors de la création du lien vers %B.,Fehler beim Anlegen einer Verknüpfung mit »%B«.,حدث خطأ أثناء إنشاء رابط إلى %B.
+Error while deleting.,Erreur lors de la suppression.,Fehler beim Löschen.,حدث خطأ أثناء الحذف.
+"Error while moving ""%B"".",Erreur lors du déplacement de « %B ».,Fehler beim Verschieben von »%B«.,"حدث خطأ أثناء نقل ""%B""."
+Error while moving files to trash.,Erreur lors de la mise à la corbeille des fichiers.,Fehler beim Verschieben von Objekten in den Papierkorb.,حدث خطأ أثناء نقل الملفات إلى سلة المهملات.
+Error while moving.,Erreur lors du déplacement.,Fehler beim Verschieben.,حدث خطأ أثناء النقل.
+"Error: %s
+Please select another viewer and try again.","Erreur : %s
+Sélectionnez un autre visionneur et essayez à nouveau.","Fehler: %s
+Bitte wählen Sie einen anderen Betrachter und versuchen Sie es erneut.","خطأ: %s
+يرجى تحديد عارض آخر والمحاولة مرة أخرى."
+Examples:,Exemples :,Beispiele:,أمثلة:
+Executables,Exécutables,Ausführbare Dateien,الملفات التنفيذية
+Execute:,Exécution :,Ausführen:,التنفيذ:
+Exposure Program,Mode d'exposition,Belichtungsprogramm,برنامج التعرض
+Exposure Time,Temps d'exposition,Belichtungsdauer,وقت التعرض
+Extensions,Extensions,Erweiterungen,الملحقات
+Extensions changed.  Restart required.,Extensions modifiées. Redémarrage nécessaire.,Erweiterungen geändert. Neustart wird benötigt!,تم تغيير الملحقات. مطلوب إعادة التشغيل.
+FTP (with login),FTP (avec identifiant),FTP (mit Anmeldung),FTP (مع تسجيل الدخول)
+Failed to load image information,Impossible de charger les informations de l'image,Bildinformationen konnten nicht geladen werden,فشل تحميل معلومات الصورة
+Favorite,Favori,Favorit,المفضّل
+Favorite files,Fichiers favoris,Favorisierte Dateien,الملفات المفضّلة
+Favorites,Favoris,Favoriten,التفضيلات
+File Management Preferences,Préférences du gestionnaire de fichiers,Einstellungen zur Verwaltung von Dateien,تفضيلات إدارة الملفات
+File Operations,Opérations sur les fichiers,Dateivorgänge,عمليات الملف
+File Permissions:,Permissions du fichier :,Zugriffsrechte für Dateien:,أذونات الملف:
+File System,Système de fichiers,Dateisystem,نظام الملفات
+File access:,Accès au fichier :,Dateizugriff:,الوصول إلى الملف:
+File conflict,Conflit de fichier,Dateikonflikt,تعارض الملف
+File not found,Fichier introuvable,Datei nicht gefunden,الملف غير موجود
+File or folder location,Chemin du fichier ou dossier,Speicherort der Datei oder des Ordners,موقع الملف أو المجلد
+Files,Fichiers,Dateien,الملفات
+"Files in the folder ""%B"" cannot be copied because you do not have permissions to see them.",Les fichiers du dossier « %B » ne peuvent pas être copiés car vous n'avez pas la permission de les voir.,"Dateien im Ordner »%B« können nicht kopiert werden, da Sie nicht die nötigen Lesezugriffsrechte besitzen.","لا يمكن نسخ الملفات الموجودة في المجلد ""%B"" لأنه ليس لديك أذونات لرؤيتها."
+"Files in the folder ""%B"" cannot be deleted because you do not have permissions to see them.",Les fichiers du dossier « %B » ne peuvent pas être supprimés car vous n'avez pas les permissions pour le faire.,"Dateien im Ordner »%B« können nicht gelöscht werden, da Sie nicht die nötigen Lesezugriffsrechte besitzen.","لا يمكن حذف الملفات الموجودة في المجلد ""%B"" لأنه ليس لديك أذونات لرؤيتها."
+"Files in the folder ""%B"" cannot be handled because you do not have permissions to see them.",Les fichiers du dossier « %B » ne peuvent pas être traités car vous n'avez pas les permissions pour les voir.,"Auf Dateien im Ordner »%B« kann nicht zugegriffen werden, da Sie nicht die nötigen Lesezugriffsrechte besitzen.","لا يمكن معالجة الملفات الموجودة في المجلد ""%B"" نظرًا لعدم امتلاكك أذونات لرؤيتها."
+Filesystem type:,Type de système de fichiers :,Dateisystemtyp:,نوع نظام الملفات:
+Fix now,Corriger maintenant,Jetzt reparieren,إصلاح الآن
+Flash Fired,Flash,Blitz ausgelöst,الفلاش المطلق
+Focal Length,Longueur de focale,Brennweite,البعد البؤري
+Folder,Dossier,Ordner,المجلد
+Folder Permissions:,Permissions du dossier :,Zugriffsrechte für Ordner:,أذونات المجلد:
+Folder access:,Accès au dossier :,Ordnerzugriff:,الوصول إلى المجلد:
+Follow link to original file,Aller à l'emplacement du fichier d'origine,Der Verknüpfung zur Originaldatei folgen,تابع الرابط إلى الملف الأصلي
+Font,Police de caractères,Schriftart,الخط
+Forget association,Défaire l'association,Verknüpfung aufheben,نسيان الأقتران
+Forward history,Suivant dans l'historique,Im Verlauf vorwärts bewegen,التاريخ الأمامي
+Free space:,Espace libre :,Freier Speicherplatz:,المساحة الحرة:
+Free space: %s,Espace disponible : %s,Freier Speicherplatz: %s,المساحة الحرة: %s
+GEOMETRY,GÉOMÉTRIE,GEOMETRIE,الهندسة
+General,Général,Allgemein,عام
+Go back,En arrière,Zurückgehen,ارجع للخلف
+Go to Computer,Aller au Poste de travail,Zum Rechner gehen,اذهب إلى الكمبيوتر
+Go to home directory,Aller dans votre dossier personnel,Zum persönlichen Ordner gehen,اذهب إلى الدليل الرئيسي
+Go to next tab,Aller à l’onglet suivant,Zum nächsten Reiter wechseln,الذهاب إلى التبويب التالي
+Go to parent folder,Aller au dossier parent,Zum übergeordneten Ordner gehen,اذهب إلى المجلد الأصل
+Go to previous tab,Aller à l’onglet précédent,Zum vorherigen Reiter wechseln,الذهاب إلى التبويب السابق
+Go to the location specified by this bookmark,Accéder à l’emplacement indiqué par ce marque-page,Zum durch dieses Lesezeichen angegebenen Ort gehen,انتقل إلى الموقع المحدد بواسطة هذه الإشارة المرجعية
+Go to the next visited location,Va à l'emplacement visité suivant,Zum als nächstes besuchten Ort gehen,اذهب إلى الموقع التالي الذي تمت زيارته
+Go to the previous visited location,Va à l'emplacement visité précédent,Zum vorher besuchten Ort gehen,اذهب إلى الموقع السابق الذي تمت زيارته
+Go to the same location as in the extra pane,Se place au même endroit que dans le panneau supplémentaire,Zum selben Ort wie in der zusätzlichen Leiste gehen,اذهب إلى نفس الموقع كما في الجزء الإضافي
+Group,Groupe,Gruppe,المجموعة
+Group:,Groupe :,Gruppe:,المجموعة:
+Height,Hauteur,Höhe,الارتفاع
+Help,Aide,Hilfe,المساعدة
+Hide the Sidebar (F9),Masquer le Panneau latéral (F9),Seitenleiste verstecken (F9),إخفاء الشريط الجانبي (F9)
+Home,Dossier personnel,Persönlicher Ordner,المجلد الرئيسي
+Horizontal,Horizontale,Horizontal,أفقي
+How many times the search string appeared in the file,Nombre de résultats de recherche dans le fichier,Wie oft der Suchbegriff in der Datei vorkam,كم عدد المرات التي ظهرت فيها جملة البحث في الملف
+ISO Speed Rating,Sensibilité ISO,ISO-Empfindlichkeit,تقييم سرعة ISO
+Include a Delete command that bypasses Trash,Inclure une commande Supprimer qui ignore la corbeille,"Einen Löschbefehl bereitstellen, der den Papierkorb umgeht",تضمين أمر حذف لكي يتجاوز سلة المهملات
+Icon Size,Taille des icônes,Symbolgröße,حجم اﻷيقونة
+Icon View,Vue en icônes,Symbolansicht,عرض اﻷيقونة
+Icon view,Vue en icônes,Symbolansicht,طريقة عرض الأيقونة
+Icons,Icônes,Symbole,الأيقونات
+"If set, wrap lines if the text becomes too wide.","Si activé, retourne à la ligne si le texte devient trop long.","Wenn eingestellt, werden Zeilen bei zu langem Text umgebrochen.",في حالة التعيين، قم بلف الأسطر إذا أصبح النص عريضاً جداً.
+"If you delete an item, it will be permanently lost.","Si vous supprimez un élément, il sera définitivement perdu.","Sobald Sie ein Objekt löschen, ist es dauerhaft verloren.",إذا قمت بحذف عنصر، فسيتم فقده بشكل دائم.
+"If you want to eject the volume, please use ""Eject"" in the popup menu of the volume.","Si vous voulez éjecter le volume, veuillez utiliser « Éjecter » dans le menu contextuel du volume.","Wenn Sie den Datenträger auswerfen möchten, verwenden Sie bitte »Auswerfen« im Kontextmenü des Datenträgers.","إذا كنت ترغب في إخراج وحدة التخزين، فيرجى استخدام ""إخراج"" في القائمة المنبثقة لوحدة التخزين."
+"If you want to unmount the volume, please use ""Unmount Volume"" in the popup menu of the volume.","Si vous voulez démonter le volume, veuillez utiliser « Démonter le volume » dans le menu contextuel du volume.",Zum Aushängen des Datenträgers bitte »Aushängen« im Kontextmenü des Datenträgers verwenden.,"إذا كنت تريد إلغاء تحميل وحدة التخزين، فيرجى استخدام ""إلغاء تحميل وحدة التخزين"" في القائمة المنبثقة لوحدة التخزين."
+Ignore per-folder view preferences,Ignorer les préférences de vues des dossiers,Ordnerspezifische Ansichtseinstellungen ignorieren,تجاهل تفضيلات العرض لكل مجلد
+Ignored argument - left for compatibility only.,Argument ignoré - laissé par soucis de rétrocompatibilité,Ignorierter Ausdruck – wird nur zur Kompatibilität zugelassen.,تم تجاهل الوسيطة - ترك للتوافق فقط.
+Image,Image,Bild,الصورة
+Image Type,Type d'image,Bildtyp,نوع الصورة
+In order to regain the free space on this volume the trash must be emptied. All trashed items on the volume will be permanently lost.,"Afin de récupérer de l'espace libre sur ce périphérique, la corbeille doit être vidée. Tous les éléments dans la corbeille du volume seront définitivement perdus.","Um den freien Speicherplatz auf diesem Datenträger verfügbar zu machen, muss der Papierkorb geleert werden. Alle im Papierkorb dieses Datenträgers enthaltenen Objekte werden dauerhaft gelöscht.",لاستعادة المساحة الحرة على وحدة التخزين هذة، يجب إفراغ سلة المهملات. سيتم فقد جميع عناصر سلة المهملات الموجودة على وحدة التخزين بشكل دائم.
+Increase the view size,Agrandit l'affichage,Ansicht vergrößern,زيادة حجم العرض
+Input Methods,Méthodes de saisie,Eingabemethoden,طرق الإدخال
+Invert selection,Inverser la sélection,Auswahl umkehren,أعكس التحديد
+Jump to new workspace,Aller vers un nouvel espace de travail,Zu neuer Arbeitsfläche wechseln,اذهب إلى مساحة العمل الجديدة
+Justification,Justification,Ausrichtung,التسوية
+Keep icons lined up on a grid,Garde les icônes alignées sur une grille,Symbole an einem Raster ausrichten,إبقاء الأيقونات مصطفة على الشبكة
+Keep icons sorted by detailed type in rows,Garde les icônes classées par catégories détaillées dans les rangées,Symbole nach detailliertem Dateityp in Reihen sortieren,إبقاء الأيقونات مرتبة حسب النوع المفصل في صفوف
+Keep icons sorted by modification date in rows,Garde les icônes triées par date de modification,Symbole nach Änderungsdatum in Zeilen sortieren,إبقاء الأيقونات مرتبة حسب تاريخ التعديل في صفوف
+Keep icons sorted by name in rows,Garde les icônes triées par nom,Symbole nach Name in Zeilen sortieren,إبقاء الأيقونات مرتبة حسب الاسم في صفوف
+Keep icons sorted by size in rows,Garde les icônes triées par taille,Symbole nach Größe in Zeilen sortieren,إبقاء الأيقونات مرتبة حسب الحجم في صفوف
+Keep icons sorted by trash time in rows,Garde les icônes triées par date de mise à la corbeille,Symbole nach Löschdatum in Zeilen sortieren,إبقاء الأيقونات مرتبة حسب وقت سلة المهملات في صفوف
+Keep icons sorted by type in rows,Garde les icônes triées par type,Symbole nach Typ in Zeilen sortieren,إبقاء الأيقونات مرتبة حسب النوع في صفوف
+Keywords,Mots-clés,Stichworte,الكلمات الدالة
+Large,Grande,Groß,كبير
+Larger,Plus grande,Größer,أكبر
+Last changed:,Dernière modification :,Letzte Änderung:,آخر تعديل:
+Last modified:,Dernière modification :,Zuletzt geändert:,آخر تعديل:
+Layout,Disposition,Ansicht,المخطط
+Leave icons wherever they are dropped,Les icônes restent là où elles sont déposées,"Symbole dort lassen, wo sie abgelegt werden",ترك الأيقونات أينما يتم إفلاتها
+Line wrap,Retour à la ligne,Zeilenumbruch,التفاف السطر
+Link name:,Nom du lien :,Verknüpfungsname:,اسم الرابط:
+Link target:,Cible du lien :,Verknüpfungsziel:,الرابط الهدف:
+Link to %s,Lien vers %s,Verknüpfung mit %s,رابط إلى %s
+List,Liste,Liste,القائمة
+List Columns,Colonnes de liste,Listenspalten,أعمدة القائمة
+List View,Vue en liste,Listenansicht,عرض القائمة
+List bookmarks in the menu,Lister les marque-pages dans le menu,Lesezeichen im Menü auflisten,قائمة الإشارات المرجعية في القائمة
+List devices and network locations in the menu,Montrer les périphériques et chemins réseau dans le menu,Geräte und Netzlaufwerke im Menü auflisten,قائمة الأجهزة ومواقع الشبكات في القائمة
+List files only,Lister seulement les fichiers,Dateien nur auflisten,قائمة الملفات فقط
+List view,Vue en liste,Listenansicht,عرض القائمة
+Loading...,Chargement…,Ladevorgang …,جاري التحميل...
+Local Files Only,Uniquement les fichiers locaux,nur lokale Dateien,الملفات المحلية فقط
+Location,Emplacement,Speicherort,الموقع
+Location:,Emplacement :,Ort:,الموقع:
+Location: %s,Localisation : %s,Ort: %s,الموقع: %s
+Lock the drive associated with the open folder,Verrouille le volume associé au dossier ouvert,Das zum geöffneten Ordner gehörende Laufwerk sperren,تأمين محرك الأقراص المقترن بالمجلد المفتوح
+Lock the selected drive,Verrouille le volume sélectionné,Gewähltes Laufwerk sperren,تأمين محرك الأقراص المحدد
+MIME Type,Type MIME,MIME-Typ,نوع MIME
+Menubar,Barre des menus,Menüleiste,شريط القوائم
+Move to,Déplacer vers,Verschieben nach,نقل إلى
+Make a permanent connection to this server,Établit une connexion permanente à ce serveur,Eine dauerhafte Verbindung mit diesem Server herstellen,إنشاء اتصال دائم بهذا الخادم
+Make executable and run,Rendre exécutable et lancer,Ausführbar machen und starten,جعله قابل للتنفيذ وتشغيل
+Make link,Créer un lien,Verknüpfung erstellen,أنشى رابط
+Make the selected icon resizable,Permet de redimensionner l'icône sélectionnée,Das gewählte Symbol Größenveränderbar machen,جعل الأيقونة المحددة قابلة لتغيير الحجم
+Manage the desktop with the file manager,Gérer le bureau avec le gestionnaire de fichiers,Den Schreibtisch mit der Dateiverwaltung handhaben,إدارة سطح المكتب مع مدير الملفات
+Manage workspaces (Expo),Gérer les espaces de travail (Expo),Arbeitsflächenübersicht,إدارة مساحات العمل (Expo)
+Mark as Trusted,Marquer comme validé,Als vertrauenswürdig markieren,تعليمه كموثوق
+Markup,Balise,Auszeichnung,الترميز
+Merge,Fusionner,Zusammenführen,دمج
+Merge All,Tout fusionner,Alle zusammenführen,دمج الكل
+"Merge folder ""%s""?",Fusionner le dossier « %s » ?,Ordner »%s« zusammenführen?,"دمج المجلد ""%s""؟"
+Merging will ask for confirmation before replacing any files in the folder that conflict with the files being copied.,La fusion demandera une confirmation avant remplacement de tout fichier du dossier entrant en conflit avec les fichiers en cours de copie.,"Es wird beim Zusammenführen von Dateien gefragt, bevor Dateien überschrieben werden, welche im Konflikt mit den zu kopierenden Dateien stehen.",الدمج سيطلب التأكيد قبل استبدال أي ملفات في المجلد تتعارض مع الملفات التي يتم نسخها.
+Metering Mode,Mode de mesure,Messmethode,وضع القياس
+Move to Trash,Mettre à la corbeille,In den Papierkorb verschieben,نقل إلى سلة المهملات
+Modified - Time,Date de modification,Geändert – Zeit,وقت - التعديل
+Modified date,Date de modification,Änderungsdatum,تاريخ التعديل
+Modified:,Dernière modification :,Geändert:,التعديل:
+Modified: %s,Modifié : %s,Geändert: %s,التعديل: %s
+More info,Plus d’informations,Weitere Informationen,معلومات أكثر
+Mount %f to browse its contents,Monter %f pour parcourir son contenu,"%f einhängen, um den Inhalt zu durchsuchen",تحميل %f لتصفح محتوياته
+Mount and open %s,Monter et ouvrir %s,%s einhängen und öffnen,تحميل وفتح %s
+Mount and open %s (%s),Monter et ouvrir %s (%s),%s (%s) einhängen und öffnen,تحميل وفتح %s (%s)
+Mount archive,Monter l'archive,Archive einhängen,تحميل الأرشيف
+Mount the selected volume,Monte le volume sélectionné,Den gewählten Datenträger einbinden,تحميل وحدة التخزين المحددة
+Mount the volume associated with the open folder,Monte le volume associé au dossier ouvert,Den zum geöffneten Ordner gehörenden Datenträger einhängen,تحميل وحدة التخزين المرتبطة بالمجلد المفتوح
+Mount the volume associated with this folder,Monte le volume associé à ce dossier,Den zu diesem Ordner gehörenden Datenträger einhängen,تحميل وحدة التخزين المرتبطة بهذا المجلد
+Mounted Drives,Lecteurs montés,Eingehängte Geräte,الأقراص المركبة
+Move '%s' back to '%s',Restaurer « %s » vers « %s »,»%s« zurück nach »%s« verschieben,نقل '%s' مرة أخرى إلى '%s'
+Move '%s' back to trash,Remettre « %s » dans la corbeille,»%s« zurück in den Papierkorb verschieben,نقل '%s' مرة آخرى إلى سلة المهملات
+Move '%s' to '%s',Déplacer « %s » vers « %s »,»%s« nach »%s« verschieben,نقل '%s' إلى '%s'
+Move '%s' to trash,Mettre « %s » à la corbeille,»%s« in den Papierkorb verschieben,نقل '%s' إلى سلة المهملات
+Move Down,Déplacer vers le bas,Runter Bewegen,نقل ﻷسفل
+Move Tab Left,Déplacer l'onglet vers la gauche,Reiter nach links verschieben,نقل علامة التبويب يسار
+Move Tab Right,Déplacer l'onglet vers la droite,Reiter nach rechts verschieben,نقل علامة التبويب يمين
+Move Up,Déplacer vers le haut,Hoch bewegen,نقل ﻷعلى
+Move current tab to left,Déplace l'onglet actuel vers la gauche,Aktuellen Reiter nach links verschieben,نقل علامة التبويب الحالية إلى اليسار
+Move current tab to right,Déplace l'onglet actuel vers la droite,Aktuellen Reiter nach rechts verschieben,نقل علامة التبويب الحالية إلى اليمين
+Move each selected item to the Trash,Met chaque élément sélectionné à la corbeille,Jedes gewählte Objekt in den Papierkorb verschieben,نقل كل عنصر محدد إلى سلة المهملات
+Move focus to the other pane in a split view window,Active l'autre panneau d'une fenêtre divisée,"Den Fokus, in einem Fenster mit geteilter Ansicht, an die andere Leiste übergeben",نقل التركيز إلى الجزء الآخر في نافذة العرض المقسمة
+Move or copy files previously selected by a Cut or Copy command,Déplace ou copie les fichiers précédemment sélectionnés avec la commande « Couper » ou « Copier »,Zuvor durch »Ausschneiden« oder »Kopieren« ausgewählte Dateien verschieben oder kopieren,نقل أو نسخ الملفات المحددة مسبقاً بواسطة الأمر قص أو نسخ
+Move or copy files previously selected by a Cut or Copy command into the selected folder,Déplace ou copie les fichiers précédemment sélectionnés avec la commande « Couper » ou « Copier » dans le dossier sélectionné,Zuvor durch »Ausschneiden« oder »Kopieren« ausgewählte Dateien in den gewählten Ordner verschieben oder kopieren,نقل أو نسخ الملفات المحددة مسبقاً بواسطة الأمر قص أو نسخ إلى المجلد المحدد
+Move or copy files previously selected by a Cut or Copy command into this folder,Déplace ou copie les fichiers précédemment sélectionnés avec la commande « Couper » ou « Copier » dans ce dossier,Zuvor durch »Ausschneiden« oder »Kopieren« gewählte Dateien in diesen Ordner verschieben oder kopieren,نقل أو نسخ الملفات المحددة مسبقاً بواسطة الأمر قص أو نسخ إلى هذا المجلد
+Move tab left,Déplacer l’onglet vers la gauche,Reiter nach links verschieben,انقل التبويب إلى اليسار
+Move tab right,Déplacer l’onglet vers la droite,Reiter nach rechts verschieben,انقل التبويب إلى اليمين
+Move the current selection to the desktop,Déplace la sélection actuelle vers le bureau,Die aktuelle Auswahl auf den Schreibtisch verschieben,نقل التحديد الحالي إلى سطح المكتب
+Move the current selection to the home folder,Déplace la sélection actuelle vers le dossier personnel,Die aktuelle Auswahl in den persönlichen Ordner verschieben,نقل التحديد الحالي إلى المجلد الرئيسي
+Move the current selection to the other pane in the window,Déplace la sélection actuelle vers l'autre panneau de cette fenêtre,Die aktuelle Auswahl in die andere Leiste dieses Fensters verschieben,نقل التحديد الحالي إلى جزء آخر في النافذة
+"Move the open folder out of the trash to ""%s""",Déplace le dossier ouvert de la corbeille vers « %s »,Den geöffneten Ordner aus dem Papierkorb nach »%s« verschieben,"نقل المجلد المفتوح من سلة المهملات إلى ""%s"""
+Move the open folder to the Trash,Met le dossier ouvert à la corbeille,Den geöffneten Ordner in den Papierkorb verschieben,نقل المجلد المفتوح إلى سلة المهملات
+Move this folder to the Trash,Met ce dossier à la corbeille,Diesen Ordner in den Papierkorb verschieben,نقل هذا المجلد إلى سلة المهملات
+Move to Trash,Mettre à la corbeille,In den Papierkorb verschieben,أنقل إلى المهملات
+Move to trash,Déplacer vers la corbeille,In den Papierkorb verschieben,نقل إلى سلّة المهملات
+"Moving ""%B"" to ""%B""",Déplacement de « %B » vers « %B »,»%B« wird nach »%B« verschoben,"نقل ""%B"" إلى ""%B"""
+Moving Files,Déplacement des fichiers,Dateien werden verschoben,نقل الملفات
+"Moving file %'d of %'d (in ""%B"") to ""%B""",Déplacement du fichier %'d sur %'d (de « %B ») vers « %B »,Datei %'d von %'d (in »%B«) wird nach »%B« verschoben,"نقل %'d ملف من %'d (في ""%B"") إلى ""%B"""
+"Moving file %'d of %'d to ""%B""",Déplacement du fichier %'d sur %'d vers « %B »,Datei %'d von %'d wird nach »%B« verschoben,"نقل %'d ملف من %'d إلى ""%B"""
+Moving files to trash,Mise à la corbeille des fichiers,Dateien werden in den Papierkorb verschoben,نقل الملفات إلى سلة المهملات
+My Computer,Poste de travail,Mein Rechner,الكمبيوتر
+Name,Nom,Name,الاسم
+Name: %s,Nom : %s,Name: %s,الاسم: %s
+Navigate to the folder that the selected item is stored in,Naviguer jusqu'au dossier contenant l'élément sélectionné,"Den Ordner öffnen, der das ausgewählte Element enthält",انتقل إلى المجلد الذي تم تخزين العنصر المحدد فيه
+Navigate to the original file that this symbolic link points to,Naviguer jusqu'au fichier d'origine auquel ce lien symbolique fait référence,"Zur Originaldatei navigieren, zu welcher diese symbolische Verknüpfung zeigt.",انتقل إلى الملف الأصلي الذي يشير إليه هذا الرابط الرمزي
+Navigation,Navigation,Navigation,التنقل
+Nemo,Nemo,Nemo,Nemo
+"Nemo cannot handle ""%s"" locations.",Nemo ne peut pas gérer les emplacements « %s ».,Nemo kann Orte wie »%s« nicht verarbeiten.,"لا يمكن لـNemo التعامل مع المواقع ""%s""."
+Nemo cannot handle this kind of location.,Nemo ne peut pas gérer ce type d'emplacement.,Nemo kann diese Art von Ort nicht verarbeiten.,لا يمكن لـNemo التعامل مع هذا النوع من الموقع.
+"Nemo could not create the required folder ""%s"".","Nemo n'a pas pu créer le dossier nécessaire ""%s"".",Nemo konnte den benötigten Ordner »%s« nicht anlegen.,"تعذر على Nemo إنشاء المجلد المطلوب ""%s""."
+Nemo has no installed viewer capable of displaying the folder.,Nemo n'a aucun visionneur installé capable d'afficher le dossier.,Nemo hat keinen installierten Betrachter der diesen Ordner darstellen kann.,لا يحتوي Nemo على عارض مثبت قادر على عرض المجلد.
+"Nemo is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.","Nemo est distribué dans l'espoir d'être utile, mais SANS AUCUNE GARANTIE ; sans même la garantie implicite de COMMERCIALISABILITÉ ou D'ADÉQUATION À UN USAGE PARTICULIER. Voir la GNU General Public License pour plus de détails.","Nemo wird verteilt in der Hoffnung dass es Brauchbar sein möge, aber OHNE JEGLICHE GEWÄHRLEISTUNG; selbst ohne die ausdrückliche Gewährleistung der MARKTFÄHIGKEIT oder EIGNUNG FÜR EINEN BESTIMMTEN ZWECK. Siehe die GNU General Public License für Einzelheiten.",يتم توزيع Nemo على أمل أنه سيكون مفيداً، ولكن بدون أي ضمانات؛ وبدون حتى الضمان الضمني للرواج أو الملاءمة لغرض معين. انظر رخصة GNU العمومية للحصول على مزيد من التفاصيل.
+"Nemo is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.","Nemo est un logiciel libre ; vous pouvez le redistribuer et/ou le modifier suivant les termes de la GNU General Public License telle que publiée par la Free Software Foundation ; soit en version 2 de la licence, soit (à votre gré) en toute version ultérieure.","Nemo ist freie Software und kann, unter den Bedingungen der GNU General Public License wie durch die Freie Software Stiftung veröffentlicht, als solche nach belieben weiter verteilt und/oder modifiziert werden; entweder unter Version 2 der Lizenz, oder (wie Sie möchten) gemäß irgend einer späteren Version.",إن Nemo هو برمجيات حرة. يمكنك إعادة توزيعها / أو تعديلها بموجب شروط رخصة GNU العمومية كما نشرتها مؤسسة البرمجيات الحرة؛ إما بالإصدار 2 من الترخيص، أو (حسب اختيارك) أي إصدار لاحق.
+"Nemo lets you organize files and folders, both on your computer and online.","Nemo vous permet d'organiser les fichiers et dossiers, aussi bien sur votre ordinateur qu'en ligne.","Mit Nemo können Ordner und Dateien verwaltet werden, sowohl auf Ihrem Rechner als auch im Internet.",يتيح لك Nemo تنظيم الملفات والمجلدات، سواء على الكمبيوتر أو عبر الإنترنت.
+Nemo's main menu is now hidden,Le menu principal de Nemo est maintenant caché,Nemos Hauptmenü ist nun ausgeblendet,يتم إخفاء القائمة الرئيسية Nemo الآن
+Network,Réseau,Netzwerk,الشبكة
+Never,Jamais,nie,كلا
+New Tab,Nouvel onglet,Neuer Reiter,علامة تبويب جديدة
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+New folder,Nouveau dossier,Neuer Ordner,مجلد جديد
+New tab,Nouvel onglet,Neuer Reiter,لسان جديد
+New window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+Next,Suivant,Vorwärts,التّالي
+No,Non,Nein,لا
+No actions found,Aucune action n’a été trouvée,Keine Aktionen gefunden,لم يتم العثور على أي إجراءات
+No bookmarks defined,Aucun marque-page n’a été défini,Keine Lesezeichen vorhanden,لا توجد إشارات مرجعية محددة
+No desktop icons,Pas d'icônes de bureau,Keine Schreibtischsymbole,لا يوجد أيقونات لسطح المكتب
+No extensions found,Aucune extension trouvée,Keine Erweiterungen gefunden,لم يتم العثور على ملحقات
+No files found,Aucun fichier trouvé,Keine Dateien gefunden,لم يتم العثور على ملفات
+No scripts found,Aucun script trouvé,Keine Skripte gefunden,لم يتم العثور على برامج نصية
+No templates installed,Aucun modèle installé,Keine Vorlagen installiert,لا توجد قوالب مثبتة
+None,Aucun,Keine,لا شيء
+Normal,Normale,Normal,عادي
+Normal Size,Taille normale,Normale Größe,الحجم العادي
+Not a valid executable.  Spaces in the file path must be escaped with backslash (\).,Exécutable non valide. Les espaces dans le chemin doivent être précédés d'anti-slash (\).,Die ausführbare Datei ist nicht gültig. Leerstellen im Pfad müssen mit Rückstrich (\) ausgeschlossen werden.,غيرصالح للتنفيذ. يجب أن يتم إخلاء المسافات في مسار الملف مع خط مائل عكسي (\).
+Not allowed to set group,Vous n'êtes pas autorisé à définir le groupe,Einstellen der Gruppe nicht erlaubt,غير مسموح بتعيين المجموعة
+Not allowed to set owner,Vous n'êtes pas autorisé à définir le propriétaire,Einstellen des Besitzers ist nicht erlaubt,غير مسموح بتعيين المالك
+Not allowed to set permissions,Vous n'êtes pas autorisé à définir les permissions,Einstellen der Zugriffsrechte ist nicht erlaubt,غير مسموح بتعيين الأذونات
+Not supported in this location,Emplacement non pris en charge,An diesem Ort nicht unterstützt,غير مدعوم في الموقع الحالي
+Octal Permissions,Permissions en octal,Oktale Zugriffsrechte,أذونات Octal
+Only create windows for explicitly specified URIs.,Ne créer de nouvelles fenêtres que pour les URI explicitement spécifiés.,Nur für ausdrücklich angegebene Adressen die Fenster erstellen.,إنشاء النوافذ لـURIs المحددة بشكل واضح فقط.
+Open,Ouvrir,Öffnen,افتح
+Open %s,Ouvrir %s,%s öffnen,فتح %s
+"Open Expo to add, remove, or organize workspaces",Ouvrir Expo pour gérer les espaces de travail,"Arbeitsflächenübersicht öffnen, um Arbeitsflächen hinzuzufügen, zu entfernen oder zu organisieren",فتح Expo لإضافة أو إزالة أو تنظيم مساحات العمل
+Open File and Close window,Ouvrir le fichier et fermer la fenêtre,Datei öffnen und Fenster schließen,فتح الملف وإغلاق النافذة
+Open URIs in an existing window.,Ouvrir les adresses dans une fenêtre existante.,Adressen in einem bestehenden Fenster öffnen.,إفتح URIs في النوافذ الموجودة.
+Open URIs in tabs.,Ouvrir les URIs dans des onglets,Adressen in Reitern öffnen.,إفتح URIs في ألسنة.
+Open With,Ouvrir avec,Öffnen mit,فتح باستخدام
+Open With,Ouvrir avec,Öffnen Mit,فتح باستخدام
+Open With %s,Ouvrir avec %s,Mit %s öffnen,فتح باستخدام %s
+Open With Other Application...,Ouvrir avec une autre application…,Mit anderer Anwendung öffnen …,فتح باستخدام تطبيق آخر...
+Open Parent,Ouvrir le dossier parent,Übergeordneten Ordner öffnen,فتح الأصل
+Open a terminal in the active folder,Ouvrir un terminal dans le dossier courant,Terminal im aktiven Ordner öffnen,فتح المجلد النشط في محطة الطرفية
+"Open all files of type ""%s"" with",Ouvrir tous les fichiers de type « %s » avec,Alle Dateien des Typs »%s« öffnen mit,"فتح جميع الملفات من نوع ""%s"" باستخدام"
+Open an extra folder view side-by-side,Affiche une autre vue du dossier dans un panneau supplémentaire disposé à côté,Eine weitere Ordneransicht nebeneinander öffnen,فتح عرض المجلد الإضافي جنباً إلى جنب
+Open another Nemo window for the displayed location,Ouvre une nouvelle fenêtre de Nemo pour l'emplacement affiché,Ein neues Nemo-Fenster für den angezeigten Ort öffnen,افتح نافذة Nemo أخرى للموقع المعروض
+Open another tab for the displayed location,Ouvre un nouvel onglet pour l'emplacement affiché,Einen weiteren Reiter für diesen Ort öffnen,فتح علامة تبويب أخرى للموقع المعروض
+Open as Root,Ouvrir en tant que superutilisateur,Als Systemverwalter öffnen,فتح كجذر
+Open containing folder,Ouvrir le dossier contenant le fichier,Übergeordneten Ordner öffnen,فتح المجلد المحتوي
+Open each folder in its own window,Ouvrir chaque dossier dans sa fenêtre propre,Jeden Ordner in seinem eigenen Fenster öffnen,فتح كل مجلد في النافذة الخاصة به
+Open each selected item in a navigation window,Ouvre chaque élément sélectionné dans une fenêtre de navigation,Jedes gewählte Objekt in einem einzelnen Navigationsfenster öffnen,فتح كل عنصر محدد في نافذة التنقل
+Open each selected item in a new tab,Ouvre chaque élément sélectionné dans un nouvel onglet,Jedes gewählte Objekt in einem neuen Reiter öffnen,فتح كل عنصر محدد في علامة تبويب جديدة
+Open in Navigation Window,Ouvrir dans une fenêtre de navigation,In Navigationsfenster öffnen,فتح في نافذة التنقل
+Open in New Tab,Ouvrir dans un nouvel onglet,In neuem Reiter öffnen,فتح في علامة تبويب جديدة
+Open in New Window,Ouvrir dans une nouvelle fenêtre,In neuem Fenster öffnen,فتح في نافذة جديدة
+Open in Terminal,Ouvrir dans un terminal,Im Terminal öffnen,فتح في محطة الطرفية
+Open in new tab,Ouvrir dans un nouvel onglet,In neuem Reiter öffnen,افتح في لسان جديد
+Open in new window,Ouvrir dans une nouvelle fenêtre,In neuem Fenster öffnen,افتح في نافذة جديدة
+Open in terminal,Ouvrir dans un terminal,Im Terminal öffnen,إفتح في الطرفية
+Open item location (recent files and search only),Ouvrir l'emplacement (fichiers récents et recherches),Ort des Elements öffnen (nur letzte Dateien und Suche),افتح موقع الملف (البحث والملفات الأخيرة فقط)
+Open terminal in the selected folder,Ouvre un terminal dans le dossier sélectionné,Terminal im gewähltem Ordner öffnen,فتح المجلد المحدد في محطة الطرفية
+"Open the contents of the File System
+%s","Ouvrir le contenu du Système de fichiers
+%s","Die Inhalte des Dateisystems öffnen
+%s","فتح محتويات نظام الملفات
+%s"
+Open the contents of your desktop in a folder,Ouvre le contenu de votre bureau dans un dossier,Den Inhalt des Schreibtisches in einem Ordner öffnen,فتح محتويات سطح المكتب في المجلد
+Open the folder with administration privileges,Ouvre le dossier avec les privilèges de l'administrateur,Ordner mit Administratorrechten öffnen,فتح المجلد بامتيازات المسؤول
+Open the parent folder,Ouvre le dossier parent,Den übergeordneten Ordner öffnen,فتح المجلد الأصلي
+Open the selected item in this window,Ouvre l'élément sélectionné dans cette fenêtre,Das gewählte Objekt in diesem Fenster öffnen,فتح العنصر المحدد في هذه النافذة
+Open the trash,Ouvrir la corbeille,Papierkorb öffnen,فتح سلة المهملات
+Open this folder in a navigation window,Ouvre ce dossier dans une fenêtre de navigation,Diesen Ordner in einem einzelnen Navigationsfenster öffnen,فتح هذا المجلد في نافذة التنقل
+Open this folder in a new tab,Ouvre ce dossier dans un nouvel onglet,Diesen Ordner in einem neuen Reiter öffnen,فتح هذا المجلد في علامة تبويب جديدة
+Open with,Ouvrir avec,Öffnen mit,فتح باستخدام
+Open your personal folder,Ouvrir votre dossier personnel,Persönlichen Ordner öffnen,فتح مجلدك الشخصي
+"Open your personal folder
+%s","Ouvrir votre dossier personnel
+%s","Persönlichen Ordner öffnen
+%s","فتح مجلدك الشخصي
+%s"
+Open your personal templates folder,Ouvre votre dossier des modèles personnels,Persönlichen Vorlagenordner öffnen,فتح مجلد القوالب الشخصية
+Open your personal trash folder,Ouvre votre corbeille personnelle,Persönlichen Papierkorb öffnen,فتح مجلد المهملات الشخصية
+Opening,Ouverture,Wird geöffnet,الفتح
+"Opening ""%s"".",Ouverture de « %s ».,»%s« wird geöffnet.,"يتم فتح ""%s""."
+Operation cancelled,Opération annulée,Vorgang abgebrochen,تم إلغاء العملية
+Options,Options,Optionen,الخيارات
+Original Location,Emplacement d'origine,Ursprungsort,الموقع الأصلي
+Original file,Fichier original,Originaldatei,الملف الأصلي
+Original location of file before moved to the Trash,Emplacement d'origine du fichier avant sa mise à la corbeille,Speicherort der Datei vor dem Löschen,الموقع الأصلي للملف قبل نقله إلى سلة المهملات
+Other Application...,Autre application…,Andere Anwendung …,تطبيق أخر...
+Others:,Autres :,Andere:,آخرى:
+Owner,Propriétaire,Eigentümer,المالك
+Owner:,Propriétaire :,Eigentümer:,المالك:
+Pin,Épingler,Anheften,ثبّت
+Password:,Mot de passe :,Passwort:,كلمه المرور:
+Paste,Coller,Einfügen,لصق
+Paste the text stored on the clipboard,Colle le texte contenu dans le presse-papiers,Einfügen des in der Zwischenablage gespeicherten Texts,لصق النص المخزن فى الحافظة
+Perform a quick set of self-check tests.,Lancer un jeu de tests rapides d'auto-contrôle.,Eine Reihe schneller Selbsttests durchführen.,إجراء مجموعة سريعة من اختبارات الفحص الذاتي.
+Permissions,Permissions,Zugriffsrechte,الأذونات
+Pin the selected file so it always appears at the top of this location's file list,"Épingler le fichier sélectionné, afin qu’il apparaisse toujours en haut de la liste de fichiers de cet emplacement","Die ausgewählte Datei anheften, so dass sie immer ganz oben in der Dateiliste dieses Ortes erscheint.",ثبت الملف المحدد لكي يصبح في أعلى قائمة ملفات الموقع الحالي بشكل دائم.
+Pin/Unpin selection,Épingler/désépingler la sélection,Auswahl anheften/aufheben,ثبّت/أزل-تثبيت المحدد
+Places,Emplacements,Orte,الأماكن
+Please check the spelling and try again.,Vérifiez l'orthographe et essayez à nouveau.,Bitte überprüfen Sie die Schreibweise und versuchen Sie es erneut.,يرجى التدقيق الإملائي وحاول مرة أخرى.
+Please drag just one image to set a custom icon.,Ne faites glisser qu'une seule image pour définir une icône personnalisée.,"Bitte ziehen Sie immer nur ein Bild, um ein benutzerdefiniertes Symbol festzulegen.",يرجى سحب صورة واحدة فقط لتعيين أيقونة مخصصة.
+Please verify your user details.,Veuillez vérifier vos paramètres utilisateur.,Bitte überprüfen Sie Ihre Angaben.,يرجى التحقق من تفاصيل المستخدم الخاصة بك.
+Plugins,Greffons,Module,المكونات الإضافية
+Preferences,Préférences,Einstellungen,تفضيلات
+Prepare the selected files to be copied with a Paste command,Prépare la copie des fichiers sélectionnés avec la commande « Coller »,"Die gewählten Dateien, auf das Kopieren, mit dem Einfügenbefehl, vorbereiten",تحضير الملفات المحددة ليتم نسخها باستخدام الأمر لصق
+Prepare the selected files to be moved with a Paste command,Prépare le déplacement des fichiers sélectionnés avec la commande « Coller »,"Die gewählten Dateien, auf das Verschieben, mit dem Einfügenbefehl, vorbereiten",تحضير الملفات المحددة ليتم نقلها باستخدام الأمر لصق
+Prepare this folder to be copied with a Paste command,Prépare la copie de ce dossier avec la commande « Coller »,Diesen Ordner auf Kopieren mit »Einfügen« vorbereiten,تحضير هذا المجلد ليتم نسخه باستخدام الأمر لصق
+Prepare this folder to be moved with a Paste command,Prépare le déplacement de ce dossier avec la commande « Coller »,Diesen Ordner auf Verschieben mit »Einfügen« vorbereiten,تحضير هذا المجلد ليتم نقله باستخدام الأمر لصق
+Preparing,En préparation,Vorbereitung,التجهيز
+"Preparing to Move to ""%B""",Préparation du déplacement vers « %B »,Verschieben nach »%B« wird vorbereitet …,"التحضير للنقل إلى ""%B"""
+Presentation,Présentation,Präsentation,عرض تقديمي
+Preview,Prévisualisation,Vorschau,معاينة
+Previous,Précédent,Zurück,السّابق
+Print but do not open the URI,"Imprimer, mais sans ouvrir l'URI","Drucken, aber nicht die Adresse öffnen",الطباعة ولكن لا تفتح URI
+Program,Application,Programm,البرنامج
+Prompt or autorun/autostart programs when media are inserted,Demander ou lancer automatiquement des programmes à l'insertion des médias,"Eingabeaufforderung oder Programme automatisch starten, wenn ein Medium eingesteckt/eingelegt wurde",مطالبة أو تشغيل تلقائي/بدء تلقائي عندما يتم إدراج وسائط
+Properties,Propriétés,Eigenschaften,الخصائص
+Public FTP,FTP public,Öffentlicher FTP,FTP العام
+Quit Nemo Desktop.,Quitter Nemo Desktop.,Nemo-Schreibtisch beenden.,إنهاء سطح مكتب Nemo.
+Quit Nemo.,Quitter Nemo.,Nemo beenden.,إنهاء Nemo.
+Rating,Évaluation,Bewertung,التقييم
+Rename,Renommer,Umbenennen,إعادة تسمية
+Reversed Order,Ordre inversé,Umgekehrte Reihenfolge,ترتيب معكوس
+Read and write,Lecture et écriture,Lesen und schreiben,القراءة والكتابة
+Read-only,Lecture seule,Nur lesen,قراءة-فقط
+Recent,Récent,Kürzlich,الأخيرة
+Recent files,Fichiers récents,Kürzlich verwendete Dateien,الملفات الأخيرة
+Redo Edit,Rétablir la modification,Bearbeiten wiederherstellen,إعادة تحرير
+Redo last undone action,Rétablit la dernière action annulée,Die zuletzt rückgängig gemachte Aktion wiederholen,إعادة إجراء التراجع الأخير
+Redo the edit,Rétablit la modification,Die Bearbeitung wiederherstellen,إعادة التحرير
+Redo the last undone action,Rétablit la dernière action annulée,Die zuletzt rückgängig gemachte Aktion wiederherstellen,إعادة إجراء التراجع الأخير
+Refresh,Actualiser,Auffrischen,حدّث
+Refresh view,Actualiser la vue,﻿Ansicht auffrischen,إعادة تحديث العرض
+Regular expression,Expression régulière,Regulärer Ausdruck,تعبير نمطي
+Reload the current location,Actualise l'emplacement actuel,Den aktuellen Ort aktualisieren,إعادة تحميل الموقع الحالي
+Remove from Recent,Enlever des récents,Aus »Kürzlich« entfernen,إزالة من الأخيرة
+Remove,Supprimer,Entfernen,إزالة
+Remove each selected item from the recently used list,Enlève tous les éléments sélectionnés de la liste des fichiers récents,Jedes gewählte Objekt von der Liste zuletzt verwendeter entfernen,إزالة كل عنصر محدد من القائمة المستخدمة مؤخراً
+Remove from favorites,Retirer des favoris,Aus Favoriten entfernen,أزل من المفضّلة
+Remove the currently active workspace,Supprimer l'espace de travail actif,Die aktuell aktive Arbeitsfläche entfernen,إزالة مساحة العمل النشطة حالياً
+Remove the selected file from your favorites,Retirer le fichier sélectionné de vos favoris,Die ausgewählte Datei aus Ihren Favoriten entfernen,أزل الملف المحدد من المفضّلة الخاصة بك
+Remove workspace,Supprimer l'espace de travail,Arbeitsfläche entfernen,إزالة مساحة العمل
+Rename,Renommer,Umbenennen,إعادة تسمية
+Rename '%s' as '%s',Renommer « %s » en « %s »,»%s« in »%s« umbenennen,إعادة تسمية '%s' كـ'%s'
+Rename selected item,Renomme l'élément sélectionné,Ausgewähltes Objekt umbenennen,إعادة تسمية العنصر المحدد
+"Renaming ""%s"" to ""%s"".",Renommage de « %s » en « %s ».,»%s« wird in »%s« umbenannt.,"إعادة تسمية ""%s"" إلى ""%s""."
+Repair the user thumbnail cache - this can be useful if you're having trouble with file thumbnails.  Must be run as root,Réparer le cache de vignettes de l’utilisateur. Peut être pratique si vous avez des problèmes avec les vignettes. Cette commande doit être utilisée en tant que superutilisateur,"Bitte den Benutzervorschaubildpuffer reparieren - das kann nützlich sein, wenn Sie Probleme mit den Vorschaubildern haben. Muss als Systemverwalter ausgeführt werden.",إصلاح ذاكرة التخزين المؤقت المصغرة للمستخدم - قد يكون هذا مفيداً إذا كنت تواجه مشكلة في الصور المصغرة للملفات. يجب أن يتم تشغيله كجذر
+Replace,Remplacer,Ersetzen,استبدال
+Replace All,Tout remplacer,Alle ersetzen,استبدال الكل
+"Replace file ""%s""?",Remplacer le fichier « %s » ?,Datei »%s« ersetzen?,"استبدال الملف ""%s""؟"
+"Replace folder ""%s""?",Remplacer le dossier « %s » ?,Ordner »%s« ersetzen?,"استبدل المجلد ""%s""؟"
+Replace with,Remplacer par,Ersetzen mit,استبدال مع
+Replacing it will overwrite its content.,Son remplacement écrasera son contenu.,Ersetzen wird den gesamten Inhalt überschreiben.,سيؤدي استبداله إلى الكتابة فوق محتواه.
+Replacing it will remove all files in the folder.,Le remplacement de ce dossier supprimera tous les fichiers qu'il contient.,Ersetzen führt zur Löschung aller vorhandenen Dateien in diesem Ordner.,سيؤدي استبداله إلى إزالة جميع الملفات في المجلد.
+Reposition icons to better fit in the window and avoid overlapping,Replace les icônes pour les disposer au mieux dans la fenêtre et éviter tout chevauchement,"Die Symbole neu anordnen, damit sie besser ins Fenster passen und sich nicht überlagern",تغيير موضع اﻷيقونات لتناسب النافذة بشكل أفضل وتجنب التداخل
+Reset,Réinitialiser,Zurücksetzen,إعادة تعيين
+Reset View to Defaults,Réinitialiser la vue aux valeurs par défaut,Ansicht auf Vorgaben zurücksetzen,إعادة تعيين العرض إلى الافتراضيات
+Reset sorting order and zoom level to match preferences for this view,Applique à cette vue l'ordre de tri et le niveau de zoom indiqués dans les préférences,Sortierreihenfolge und Vergrößerungsstufe auf Vorgaben für diese Ansicht zurücksetzen,إعادة تعيين ترتيب الفرز ومستوى التكبير/التصغير لمطابقة تفضيلات هذا العرض
+Reset to system defaults,Rétablir les valeurs par défaut,Auf Systemvorgabe zurücksetzen,إعادة تعيين إلى افتراضيات النظام
+Reset zoom,Réinitialiser le zoom,Vergrößerung zurücksetzen,إعادة ضبط نسبة التكبير
+Resize Icon...,Redimensionner l’icône…,Symbolgröße ändern …,تغيير حجم الأيقونة...
+Restore '%s' from trash,Restaure « %s » depuis la corbeille,»%s« aus dem Papierkorb wiederherstellen,استعادة '%s' من سلة المهملات
+Restore '%s' to '%s',Restaurer « %s » vers « %s »,»%s« nach »%s« wiederherstellen,استعادة '%s' إلى '%s'
+Restore Icon's Original Size,Restaurer la taille initiale de l'icône,Symbolgröße wiederherstellen,استعادة حجم الأيقونة الأصلي
+Restore Icons' Original Sizes,Restaurer la taille initiale des icônes,Originalgröße der Symbole wiederherstellen,استعادة احجام الأيقونات الأصلية
+Restore Selected Items,Restaurer les éléments sélectionnés,Ausgewählte Objekte wiederherstellen,استعادة العناصر المحددة
+Restore each selected icon to its original size,Redonne à chaque icône sa taille initiale,Alle gewählten Symbole auf Originalgröße zurücksetzen,استعادة كل اﻷيقونات المحددة لحجمها الأصلي
+Restore group of '%s' to '%s',Restaurer le groupe de « %s » à « %s »,Gruppe von »%s« auf »%s« wiederherstellen,استعادة المجموعة من '%s' إلى '%s'
+Restore original permissions of '%s',Restaurer les permissions d'origine de « %s »,Ursprüngliche Zugriffsrechte von »%s« wiederherstellen,استعادة الأذونات الأصلية لـ'%s'
+Restore original permissions of items enclosed in '%s',Rétablir les permissions d'origine des éléments inclus dans « %s »,Ursprüngliche Zugriffsrechte aller Objekte in »%s« wiederherstellen,استعادة الأذونات الأصلية للعناصر الموجودة في '%s'
+Restore owner of '%s' to '%s',Restaure le propriétaire de « %s » à « %s »,Eigentümer von »%s« als »%s« wiederherstellen,استعادة المالك من '%s' إلى '%s'
+Restore selected items to their original position,Restaure les éléments sélectionnés à leur emplacement initial,Ausgewählte Objekte an ihrem ursprünglichen Ort wiederherstellen,استعادة العناصر المحددة إلى موضعها الأصلي
+Reverse sort,Tri inversé,Sortierung umkehren,ترتيب عكسي
+Revert,Rétablir,Rückgängig,تراجع
+"Run ""%s"" on any selected items",Lance « %s » sur tous les éléments sélectionnés,»%s« mit allen gewählten Objekten starten,"تشغيل ""%s"" على أي عناصر محددة"
+Run in Terminal,Lancer dans un terminal,Im Terminal ausführen,تشغيل في محطة الطرفية
+Run scripts,Exécuter des scripts,Skripte ausführen,تشغيل البرامج النصية
+SELinux Context,Contexte SELinux,SELinux-Kontext,سياق SELinux
+SELinux context:,Contexte SELinux :,SELinux-Kontext:,سياق SELinux:
+SSH,SSH,SSH,SSH
+Skip All,Tout ignorer,Alle überspringen,تخطي الكل
+Switch to Other Pane,Basculer vers l'autre panneau,Zur anderen Leiste wechseln,التبديل إلى جزء آخر
+Same Location as Other Pane,Emplacement identique à l'autre panneau,Gleicher Ort wie andere Leiste,نفس الموقع كجزء آخر
+Safely remove the drive associated with the open folder,Retire sans risque le volume associé au dossier ouvert,Das zum geöffneten Ordner gehörende Laufwerk sicher entfernen,إزالة محرك الأقراص المقترن بالمجلد المفتوح بأمان
+Safely remove the selected drive,Retire le volume sélectionné sans risque,Gewähltes Laufwerk sicher entfernen,إزالة محرك الأقراص المحدد بأمان
+Saved search,Recherche enregistrée,Gespeicherte Suche,البحث المحفوظ
+Scripts,Scripts,Skripte,البرامج النصية
+Scripts: All executable files in this folder will appear in the Scripts menu.,Scripts : tous les fichiers exécutables présents dans ce dossier apparaîtront dans le menu des scripts.,"Skripte: Alle ausführbaren Dateien, in diesem Ordner, werden im Skriptmenü erscheinen.",البرامج النصية: ستظهر جميع الملفات القابلة للتنفيذ في هذا المجلد في قائمة البرامج النصية.
+Search,Rechercher,Suchen,إبحث
+Search content:,Chercher du contenu :,Nach Inhalt suchen:,إبحث عن المضمون:
+Search documents and folders,Chercher des documents et des dossiers,Dokumente und Ordner suchen,إبحث في الملفات والمجلدات
+Search folders recursively,Chercher récursivement dans les sous-répertoires,Ordner rekursiv durchsuchen,إبحث في المجلدات بشكل متكرر
+Search for files:,Chercher des fichiers :,Nach Dateien suchen:,إبحث عن ملفات:
+"Search in ""%s""","Chercher dans ""%s""",in »%s« suchen,"إبحث في ""%s"""
+Searching...,Recherche…,Suche läuft …,جاري البحث...
+Secure WebDAV (HTTPS),WebDAV sécurisé (HTTPS),Sicheres WebDAV (HTTPS),تأمين WebDAV (HTTPS)
+Select All,Tout sélectionner,Alles auswählen,تحديد الكل
+Select Items Matching...,Sélectionner les éléments qui correspondent à…,Nach Muster auswählen …,تحديد العناصر المتطابقة...
+Select Items Matching,Sélection selon un motif,Passende Objekte auswählen,تحديد العناصر المتطابقة
+Select Places as the default sidebar,Affiche par défaut les emplacements dans le panneau latéral,»Orte« als Voreinstellung für die Seitenleiste festlegen,تحديد الأماكن كشريط جانبي افتراضي
+Select Target Folder For Copy,Sélectionner le dossier cible pour la copie,Zielordner zum Kopieren auswählen,حدد المجلد الهدف للنسخ
+Select Target Folder For Move,Sélectionner le dossier cible pour le déplacement,Zielordner zum Verschieben auswählen,حدد المجلد الهدف للنقل
+Select Tree as the default sidebar,Affiche par défaut l'arborescence dans le panneau latéral,»Baumansicht« als Voreinstellung für die Seitenleiste festlegen,تحديد الشجرة كشريط جانبي افتراضي
+Select All,Tout sélectionner,Alles auswählen,تحديد الكل
+Select all,Tout sélectionner,Alles auswählen,تحديد الكل
+Select all and only the items that are not currently selected,Sélectionne tous les éléments sauf ceux actuellement sélectionnés,"Alle und nur die Objekte auswählen, die momentan nicht ausgewählt sind",تحديد الكل والعناصر التي لم يتم تحديدها حالياً فقط
+Select all items in this window,Sélectionne tous les éléments de cette fenêtre,Alle Objekte in diesem Fenster auswählen,تحديد جميع العناصر في هذه النافذة
+Select all the text in a text field,Sélectionne tout le texte d'une zone de texte,Den gesamten Text in einem Textfeld markieren,تحديد كل النص في حقل النص
+"Select an application in the list to open %s and other files of type ""%s""","Sélectionnez une application dans la liste pour ouvrir %s et les autres fichiers de type ""%s""","Anwendung aus der Liste wählen, mit dem %s und andere Dateien desselben Dateityps wie »%s«  geöffnet werden sollen.","حدد تطبيقاً في القائمة لفتح %s وملفات أخرى من نوع "" %s """
+Select items in this window matching a given pattern,Sélectionne tous les éléments de cette fenêtre correspondant à un motif donné,"Alle Objekte in diesem Fenster auswählen, die auf ein bestimmtes Muster passen",تحديد العناصر في هذه النافذة المطابقة لنمط محدد
+Selection Bound,Limite de la sélection,Auswahlgebunden,اختيار مقيد
+Server Details,Paramètres du serveur,Serverdetails,تفاصيل الخادم
+Set user ID,Assigner l'ID de l'utilisateur,Benutzerkennung festlegen,تعيين معرف المستخدم
+Set as Wallpaper...,Définir en tant que papier peint…,Als Hintergrund festlegen …,تعيين كخلفية...
+Set as default,Définir par défaut,Als Vorgabe festlegen,تعيين كافتراضي
+Set group ID,Assigner l'ID du groupe,Gruppenkennung festlegen,تعيين معرف المجموعة
+Set group of '%s' to '%s',Définir le groupe de « %s » comme « %s »,Gruppe von »%s« auf »%s« festlegen,تعيين المجموعة من '%s' إلى '%s'
+Set owner of '%s' to '%s',Définir le propriétaire de « %s » comme « %s »,Eigentümer von »%s« auf »%s« setzen,تعيين المالك من '%s' إلى '%s'
+Set permissions of '%s',Définir les permissions de « %s »,Zugriffsrechte für »%s« festlegen,تعيين الأذونات لـ'%s'
+Set permissions of items enclosed in '%s',Définir les permissions des éléments inclus dans « %s »,Die Zugriffsrechte der in »%s« enthaltenen Objekte bearbeiten,تعيين أذونات العناصر الموضحة في '%s'
+Set the selected image as your Cinnamon desktop wallpaper,Utiliser l'image sélectionnée comme fond d'écran de Cinnamon,Ausgewähltes Bild als Cinnamons Schreibtischhintergrund einstellen,تعيين الصورة المحددة كخلفية سطح المكتب لـCinnamon
+Setting permissions,Définition des permissions,Zugriffsrechte werden eingestellt,إعداد الأذونات
+Share:,Partage :,Freigabe:,مشاركة:
+Shortcuts,Raccourcis,Tastenkombinationen,الاختصارات
+Show Places,Montrer les emplacements,Orte anzeigen,عرض الأماكن
+Show Thumbnails,Afficher les vignettes,Vorschaubilder anzeigen,أظهر المعاينة
+Show Treeview,Montrer l'arborescence,Baumansicht anzeigen,عرض العرض الشجري
+Show Hidden Files,Afficher les fichiers cachés,Verborgene Dateien anzeigen,عرض الملفات المخفية
+Show only folders,N’afficher que les dossiers,Nur Ordner anzeigen,عرض المجلدات فقط
+Show thumbnails:,Afficher les vignettes :,Vorschaubilder anzeigen:,عرض الصور المصغرة:
+Show advanced permissions in the file property dialog,Afficher les permissions avancées dans la boîte de dialogue des propriétés du fichier,Erweiterte Zugriffsrechte im Dateieigenschaftsdialog anzeigen,عرض الأذونات المتقدمة في مربع حوار خصائص الملف
+"Show an open-with dialog given a uri, to allow the user to change the default mimetype handler.","Affiche une boîte de dialogue ""Ouvrir avec"" pour l'URI donnée afin de laisser l'utilisateur changer les associations de fichier.","Ein Öffnen-mit-Dialog bei einer Adresse anzeigen, um dem Benutzer zu erlauben, das Standard-MIME-Typ-Programm zu ändern.",عرض مربع حوار فتح باستخدام يحتوي على uri، للسماح للمستخدم بتغيير معالج mimetype الافتراضي.
+Show desktop icons on all monitors,Afficher les icônes de bureau sur tous les moniteurs,Schreibtischsymbole auf allen Bildschirmen anzeigen,أظهر أيقونات سطح المكتب في جميع الشاشات
+Show desktop icons on non-primary monitor(s) only,N’afficher les icônes de bureau que sur les moniteurs secondaires,Schreibtischsymbole nur auf den Nebenbildschirm(en) anzeigen,أظهر أيقونات سطح المكتب في الشاشات الغير رئيسية فقط
+Show desktop icons on primary monitor only,N’afficher les icônes de bureau que sur le moniteur principal,Schreibtischsymbole nur auf dem Hauptbildschirm anzeigen,أظهر أيقونات سطح المكتب في الشاشة الرئيسية فقط
+Show global desktop settings,Afficher les paramètres globaux du bureau,Globale Schreibtischeinstellungen anzeigen,أظهر إعدادات سطح المكتب الشاملة
+Show help,Afficher l’aide,Hilfe anzeigen,أظهر المساعدة
+Show icons from missing monitors,Afficher les icônes des moniteurs manquants,Symbole von fehlenden Bildschirmen anzeigen,أظهر الأيقونات من الشاشات المفقودة
+Show item properties,Afficher les propriétés de l’élément,Elementeigenschaften anzeigen,اظهار خصائص الأداة
+Show more details,Afficher plus de détails,Weitere Details anzeigen,عرض مزيد من التفاصيل
+Show the Sidebar (F9),Montrer le Panneau latéral (F9),Seitenleiste anzeigen (F9),عرض الشريط الجانبي (F9)
+Show the full path in the title bar and tab bars,Afficher le chemin complet dans les barres de titre et onglet,Den kompletten Pfad in der Titel- oder Reiterleiste anzeigen,عرض المسار الكامل في شريط العنوان وأشرطة علامات التبويب
+Show the version of the program.,Affiche la version du programme.,Die Programmversion anzeigen,عرض إصدار البرنامج.
+Show tooltips in icon and compact views,Montrer les info-bulles dans les vues en icônes et dans la vue compacte,Kurzinfos in Symbol- und Kompaktansicht anzeigen,عرض تلميحات الأدوات في الأيقونة وطرق العرض المحكم
+Show tooltips in list views,Montrer les info-bulles dans la vue en liste,Kurzinfos in Listenansicht anzeigen,عرض تلميحات الأدوات في طرق عرض القائمة
+Show tooltips on the desktop,Montrer les info-bulles sur le bureau,Kurzinfos auf dem Schreibtisch anzeigen,عرض تلميحات الأدوات على سطح المكتب
+Show/hide action menu,Afficher/masquer le menu Action,Aktionsmenü anzeigen/verbergen,أظهر/أخف قائمة الإجراءات
+Show/hide hidden files,Afficher/masquer les fichiers cachés,Verborgene Dateien anzeigen/verbergen,أظهر/أخف الملفات المخفية
+Show/hide sidebar,Afficher/masquer le panneau latéral,Seitenleiste anzeigen/verbergen,أظهر/أخف الشريط الجانبي
+Sidebar,Panneau latéral,Seitenleiste,الشريط الجانبي
+Size,Taille,Größe,الحجم
+Size:,Taille :,Größe:,الحجم:
+Size: %s,Taille : %s,Größe: %s,الحجم: %s
+Slashes are not allowed in filenames,Les barres obliques ne sont pas autorisées dans les noms de fichiers,Schrägstriche sind in Dateinamen nicht erlaubt,غير مسموح بالشرطة المائلة في أسماء الملفات
+Small,Petite,Klein,صغير
+Smaller,Plus petite,Kleiner,أصغر
+Software,Logiciel,Anwendungen,البرنامج
+"Sorry, but you cannot execute commands from a remote site.","Désolé, mais vous ne pouvez pas exécuter des commandes à partir d'un site distant.",Leider dürfen Sie keine Befehle von einer entfernten Gegenstelle aus ausführen.,عفواً، لكن لا يمكنك تنفيذ الأوامر من موقع بعيد.
+"Sorry, could not change the group of ""%s"": %s","Désolé, impossible de changer le groupe de « %s » : %s",Leider konnte die Gruppe von »%s« nicht geändert werden: %s,"عفواً، لا يمكن تغيير مجموعة ""%s"": %s"
+"Sorry, could not change the owner of ""%s"": %s","Désolé, impossible de changer le propriétaire de « %s » : %s",Leider konnte der Besitzer von »%s« nicht geändert werden: %s,"عفواً، لا يمكن تغيير مالك ""%s"": %s"
+"Sorry, could not change the permissions of ""%s"": %s","Désolé, impossible de changer les permissions de « %s » : %s","Entschuldigung, die Zugriffsrechte von »%s« konnten nicht geändert werden: %s","عفواً، لا يمكن تغيير أذونات ""%s"": %s"
+"Sorry, could not display all the contents of ""%s"": %s","Désolé, impossible d'afficher tout le contenu de « %s » : %s",Leider konnte der gesamte Inhalt von »%s« nicht angezeigt werden: %s,"عفواً، لا يمكن عرض جميع محتويات ""%s"": %s"
+"Sorry, could not rename ""%s"" to ""%s"": %s","Désolé, impossible de renommer « %s » en « %s » : %s",Leider konnte »%s« nicht in »%s« umbenannt werden: %s,"عفواً، لا يمكن إعادة تسمية ""%s"" إلى ""%s"": %s"
+Sort favorites before other files,Placer les favoris devant les autres fichiers,Favoriten vor anderen Dateien sortieren,رتّب المفضلة قبل الملفات الأخرى
+Sort folders before files,Trier les dossiers avant les fichiers,Ordner vor Dateien anzeigen,فرز المجلدات قبل الملفات
+Sort items by,Trier les éléments par,Einträge sortieren nach,رتِّب العناصر حسب
+Source,Origine,Quelle,المصدر
+Special flags:,Indicateurs spéciaux :,Besondere Attribute:,الأعلام الخاصة:
+Specified group '%s' doesn't exist,Le groupe indiqué « %s » n'existe pas,Die angegebene Gruppe »%s« existiert nicht,المجموعة المحددة '%s' غير موجودة
+Specified owner '%s' doesn't exist,Le propriétaire indiqué « %s » n'existe pas,Der angegebene Besitzer »%s« existiert nicht,المالك المحدد '%s' غير موجود
+Spreadsheet,Feuille de calcul,Tabellendokument,جدول بيانات
+Statusbar,Barre d'état,Statusleiste,شريط الحالة
+Start the drive associated with the open folder,Démarre le volume associé au dossier ouvert,Das zum geöffneten Ordner gehörende Laufwerk starten,بدء تشغيل محرك الأقراص المقترن بالمجلد المفتوح
+Start the multi-disk drive associated with the open folder,Démarre le volume multidisque associé au dossier ouvert,Das zum geöffneten Ordner gehörende Multimedienlaufwerk starten,بدء تشغيل محرك الأقراص المتعددة المقترن بالمجلد المفتوح
+Start the selected drive,Démarre le volume sélectionné,Gewähltes Laufwerk starten,بدء تشغيل محرك الأقراص المحدد
+Start the selected multi-disk drive,Démarre le volume multidisque sélectionné,Das ausgewählte Multimedienlaufwerk starten,بدء تشغيل محرك الأقراص المتعددة المحدد
+Start the selected volume,Démarre le volume sélectionné,Den ausgewählten Datenträger starten,بدء تشغيل وحدة التخزين المحددة
+Start the volume associated with the open folder,Démarre le volume associé au dossier ouvert,Den zum geöffneten Ordner gehörenden Datenträger starten,بدء تشغيل وحدة التخزين المرتبطة بالمجلد المفتوح
+Start the volume associated with this folder,Démarre le volume associé à ce dossier,Den zu diesem Ordner gehörenden Datenträger starten,بدء تشغيل وحدة التخزين المرتبطة بهذا المجلد
+Stop loading the current location,Arrête le chargement de l'emplacement actuel,Das Laden des aktuellen Ortes anhalten,إيقاف تحميل الموقع الحالي
+Stop the multi-disk drive associated with the open folder,Arrête le volume multidisque associé au dossier ouvert,Das zum geöffneten Ordner gehörende Multimedienlaufwerk anhalten,إيقاف محرك الأقراص المتعددة المقترن بالمجلد المفتوح
+Stop the selected drive,Arrête le volume sélectionné,Gewähltes Laufwerk anhalten,إيقاف محرك الأقراص المحدد
+Stop the selected multi-disk drive,Arrête le volume multidisque sélectionné,Das ausgewählte Multimedienlaufwerk anhalten,إيقاف محرك الأقراص المتعددة المحدد
+Stop the selected volume,Arrête le volume sélectionné,Den gewählten Datenträger anhalten,إيقاف وحدة التخزين المحددة
+Stop the volume associated with the open folder,Arrête le volume associé au dossier ouvert,Den zum geöffneten Ordner gehörenden Datenträger anhalten,إيقاف وحده التخزين المرتبطة بالمجلد المفتوح
+Stop the volume associated with this folder,Arrête le volume associé à ce dossier,Den zu diesem Ordner gehörenden Datenträger anhalten,إيقاف وحده التخزين المرتبطة بهذا المجلد
+Switch between location entry and breadcrumbs,Alterner entre la barre d'emplacement et le fil d'Ariane,Zwischen Pfadeingabe und Verlaufsnavigation umschalten,التبديل بين إدخال الموقع ومسارات التنقل
+Switch to tab,Aller à l'onglet,Zu Reiter wechseln,تغيير التبويب
+Symbolic links only supported for local files,Les liens symboliques ne sont pris en charge que pour des fichiers locaux.,Symbolische Verknüpfungen werden ausschließlich auf lokalen Dateisystemen unterstützt.,الروابط الرمزية مدعومة فقط للملفات المحلية
+Templates,Modèles,Vorlagen,القوالب
+Temporarily disable auto-sort,Désactiver temporairement le tri automatique,Automatische Sortierung vorübergehend deaktivieren,تعطيل الفرز التلقائي مؤقتاً
+Text,Texte,Text,النص
+Text view:,Vue texte :,Textansicht:,عرض النص:
+"The Link ""%s"" is Broken.",Le lien « %s » est invalide.,Die Verknüpfung »%s« ist fehlerhaft.,"الرابط ""%s"" معطل."
+"The Link ""%s"" is Broken. Move it to Trash?",Le lien « %s » est invalide. Voulez-vous le déplacer vers la corbeille ?,Die Verknüpfung »%s« ist fehlerhaft. Soll sie in den Papierkorb verschoben werden?,"الرابط ""%s"" معطل. نقله إلى سلة المهملات؟"
+The SELinux security context of the file.,Le contexte de sécurité SELinux du fichier.,Der SELinux-Sicherheitskontext dieser Datei.,سياق أمان SELinux للملف.
+The alignment of the lines in the text of the label relative to each other. This does NOT affect the alignment of the label within its allocation. See GtkMisc::xalign for that.,L'alignement des lignes dans le texte de l'étiquette par rapport aux autres. Cela n'affecte pas l'alignement de l'étiquette à l'intérieur de son allocation. Voir GtkMisc::xalign pour cela.,Die Ausrichtung der Zeilen des Beschriftungstextes relativ zueinander. Dies beeinflusst NICHT die Ausrichtung der Beschriftung innerhalb des ihr zugewiesenen Bereichs. Siehe hierzu auch GtkMisc::xalign.,محاذاة الأسطر في نص التسمية بالنسبة لبعضها البعض. هذا لا يؤثر على محاذاة التسمية ضمن تخصيصها. انظر GtkMisc :: xalign لذلك.
+"The application launcher ""%s"" has not been marked as trusted (executable). If you do not know the source of this file, launching it may be unsafe.","""%s"" n'est pas exécutable. Si vous ne connaissez pas son origine, lancer son exécution est risqué et déconseillé.",Die Anwendung des Starters »%s« wurde nicht als vertrauenswürdig (ausführbar) markiert. Wenn die Herkunft der Datei unbekannt ist kann das Starten gefährlich sein.,"لم يتم وضع علامة على منصة إطلاق التطبيق ""%s"" كموثوق به (قابل للتنفيذ). إذا كنت لا تعرف مصدر هذا الملف، فقد يكون إطلاقه غير آمن."
+The compact view encountered an error while starting up.,La vue compacte a rencontré une erreur lors de son démarrage.,Die Kompaktansicht stieß beim Starten auf einen Fehler.,واجه العرض المدمج خطأ أثناء بدء التشغيل.
+The compact view encountered an error.,La vue compacte a rencontré une erreur.,Die Kompaktansicht stieß auf einen Fehler.,واجه العرض المدمج خطأً.
+The current position of the insertion cursor in chars.,La position actuelle en nombre de caractères du curseur d'insertion.,Die aktuelle Position der Einfügemarke in Zeichen.,الموضع الحالي لمؤشر الإدراج في الأحرف.
+The date the file was accessed.,La date à laquelle le fichier a été accédé.,Das Datum des letzten Dateizugriffs.,تاريخ الوصول إلى الملف.
+The date the file was created.,La date de création du fichier.,"Das Datum, an dem die Datei erstellt wurde.",التاريخ الذي تمّ إنشاء الملف فيه.
+The date the file was modified.,La date à laquelle le fichier a été modifié.,Datum der letzten Dateiänderung.,تاريخ تعديل الملف.
+The desktop view encountered an error while starting up.,L'affichage du Bureau a rencontré une erreur lors du démarrage.,Die Schreibtischansicht stieß beim Starten auf einen Fehler.,واجه عرض سطح المكتب خطأ أثناء بدء التشغيل.
+The desktop view encountered an error.,L'affichage du Bureau a rencontré une erreur.,Die Schreibtischansicht stieß auf einen Fehler.,واجه عرض سطح المكتب خطأ.
+The destination folder is inside the source folder.,Le dossier de destination se trouve à l'intérieur du dossier source.,Der Zielordner befindet sich im Quellordner.,المجلد الوجهة داخل المجلد المصدر.
+The destination is not a folder.,La destination n'est pas un dossier.,Das Ziel ist kein Ordner.,الوجهة ليست مجلد.
+The destination is read-only.,La destination est en lecture seule.,Das Ziel ist schreibgeschützt.,الوجهة للقراءة فقط.
+"The file ""%B"" cannot be handled because you do not have permissions to read it.",Le fichier « %B » ne peut pas être traité car vous n'avez pas la permission de le lire.,"Auf die Datei »%B« kann nicht zugegriffen werden, da Sie nicht die nötigen Lesezugriffsrechte besitzen.","لا يمكن معالجة الملف ""%B"" لأنه ليس لديك أذونات لقراءته."
+"The file ""%B"" cannot be moved to the trash.",Impossible de mettre le fichier « %B » à la corbeille.,Die Datei »%B« konnte nicht in den Papierkorb verschoben werden.,"لا يمكن نقل الملف ""%B"" إلى سلة المهملات."
+"The file ""%s"" has no known programs associated with it.  If you trust the source of this file, and have sufficient permissions, you can mark it executable and launch it.  Or, you can use the Open With dialog to pick a program to associate it with.","Il n'y a pas d'application associée au fichier ""%s"". Si vous connaissez son origine et si vous avez les permissions nécessaires, vous pouvez le rendre exécutable et le lancer. Autrement, vous pouvez faire un clic-droit et sélectionner ""Ouvrir Avec"" pour lui associer une application.","Der Datei »%s« sind keine Programme zum Öffnen zugeordnet. Wenn Sie der Quelle dieser Datei vertrauen und ausreichende Zugriffsrechte haben, können Sie es als ausführbar markieren und starten. Alternativ können Sie über »Ein Programm wählen« ein Programm zum Öffnen auswählen.","الملف ""%s"" لا يحتوي على برامج معروفة مرتبطة به. إذا كنت تثق بمصدر هذا الملف، ولديك أذونات كافية، يمكنك وضع علامة قابل للتنفيذ عليه وإطلاقه. أو يمكنك استخدام مربع الحوار ""فتح باستخدام"" لاختيار برنامج لربطه به."
+"The file ""%s"" has no known programs associated with it.  Use the Open With dialog to pick a program to open it with.","Aucun programme n'est associé au fichier ""%s"". Utilisez la boîte de dialogue Ouvrir avec pour choisir un programme avec lequel l'ouvrir.","Die Datei »%s« wurde keinen bekannten Programmen zugeordnet. Bitte den Dialog »Öffnen mit« benutzen, um ein Programm zum Öffnen auszuwählen.","الملف ""%s"" لا يملك أي برامج مرتبطة به.  إستعمل خيار ""إفتح من خلال"" لاختيار برنامج من أجل فتح الملف."
+The file that you dropped is not an image.,Le fichier que vous avez déposé n'est pas une image.,Die abgelegte Datei ist kein Bild.,الملف الذي قمت بإفلاته ليس صورة.
+The file that you dropped is not local.,Le fichier que vous avez déposé ne se trouve pas sur cet ordinateur.,Die abgelegte Datei ist nicht lokal.,الملف الذي قمت بإفلاته غير محلي.
+"The folder ""%B"" cannot be copied because you do not have permissions to create it in the destination.",Le dossier « %B » ne peut pas être copié car vous n'avez pas la permission de le créer dans la destination.,"Der Ordner »%B« konnte nicht kopiert werden, da Sie nicht die nötigen Zugriffsrechte besitzen, um den Ordner im Ziel zu erstellen.","لا يمكن نسخ المجلد ""%B"" لأنه ليس لديك أذونات لإنشائه في الوجهة."
+"The folder ""%B"" cannot be copied because you do not have permissions to read it.",Le dossier « %B » ne peut pas être copié car vous n'avez pas la permission de le lire.,"Der Ordner »%B« kann nicht kopiert werden, da Sie nicht die nötigen Lesezugriffsrechte besitzen.","لا يمكن نسخ المجلد ""%B"" لأنه ليس لديك أذونات لقراءته."
+"The folder ""%B"" cannot be deleted because you do not have permissions to read it.",Le dossier « %B » ne peut pas être supprimé car vous n'avez pas la permission de le lire.,"Der Ordner »%B« kann nicht gelöscht werden, da Sie nicht die nötigen Lesezugriffsrechte besitzen.","لا يمكن حذف المجلد ""%B"" لأنه ليس لديك أذونات لقراءته."
+"The folder ""%B"" cannot be handled because you do not have permissions to read it.",Le dossier « %B » ne peut pas être traité car vous n'avez pas la permission de le lire.,"Auf den Ordner »%B« kann nicht zugegriffen werden, da Sie nicht die nötigen Lesezugriffsrechte besitzen.","لا يمكن التعامل مع المجلد ""%B"" لأنه ليس لديك أذونات لقراءته."
+"The folder ""%s"" cannot be opened on ""%s"".",Le dossier « %s » ne peut pas être ouvert sur « %s ».,Der Ordner »%s« auf »%s« kann nicht geöffnet werden.,"لا يمكن فتح المجلد ""%s"" على ""%s""."
+The folder contents could not be displayed.,Impossible d'afficher le contenu du dossier.,Der Ordnerinhalt konnte nicht angezeigt werden.,لا يمكن عرض محتويات المجلد.
+The general type of the file.,Le type général du fichier.,Allgemeiner Dateityp,النوع العام للملف.
+The group could not be changed.,Impossible de changer le groupe.,Die Gruppe konnte nicht verändert werden.,لا يمكن تغيير المجموعة.
+The group of the file.,Le groupe du fichier.,Die Dateigruppe.,مجموعة الملف.
+The icon view encountered an error while starting up.,La vue en icônes a rencontré une erreur lors de son démarrage.,Fehler in der Symbolansicht beim Starten.,واجه عرض الأيقونة خطأً أثناء بدء التشغيل.
+The icon view encountered an error.,La vue en icônes a rencontré une erreur.,Fehler in der Symbolansicht.,واجه عرض الأيقونة خطأً.
+The item cannot be restored from trash,Impossible de restaurer l'élément depuis la corbeille,Das Objekt kann aus dem Papierkorb nicht wiederhergestellt werden,لا يمكن استعادة العنصر من سلة المهملات
+The item could not be renamed.,Impossible de renommer l'élément.,Objekt konnte nicht umbenannt werden.,لا يمكن إعادة تسمية العنصر.
+The list view encountered an error while starting up.,La vue en liste a rencontré une erreur lors de son démarrage.,Die Listenansicht stieß beim Starten auf einen Fehler.,واجه عرض القائمة خطأً أثناء بدء التشغيل.
+The list view encountered an error.,La vue en liste a rencontré une erreur.,Fehler in der Listenansicht.,واجه عرض القائمة خطأً.
+"The location ""%s"" does not exist.",L'emplacement « %s » n'existe pas.,Der Ort »%s« existiert nicht.,"الموقع ""%s"" غير موجود."
+The location is not a folder.,L'emplacement n'est pas un dossier.,Der angegebene Ort ist kein Ordner.,الموقع ليس مجلد.
+The location of the file.,L'emplacement du fichier.,Speicherort der Datei,موقع الملف.
+The media contains digital photos.,Le support comprend des photos numériques.,Dieser Datenträger enthält Digitalfotos.,الوسائط تحتوي على صور رقمية.
+The media contains software.,Le support comprend des logiciels.,Dieser Datenträger enthält Programme.,الوسائط تحتوي على برنامج.
+"The media has been detected as ""%s"".",Le support a été détecté en tant que « %s ».,Dieser Datenträger wurde als »%s« erkannt.,"تم الكشف عن وسائط كـ""%s""."
+The mime type of the file.,Le type MIME du fichier.,Der MIME-Typ der Datei.,نوع mime للملف.
+"The name ""%s"" is already used in this folder. Please use a different name.",Le nom « %s » est déjà utilisé dans ce dossier. Veuillez choisir un autre nom.,Der Name »%s« wird in diesem Ordner bereits verwendet. Bitte einen anderen Namen wählen.,"الاسم ""%s"" مستخدم بالفعل في هذا المجلد. يرجى استخدام اسم مختلف."
+"The name ""%s"" is not valid because it contains the character ""/"". Please use a different name.",Le nom « %s » n'est pas valide car il contient le caractère « / ». Veuillez utiliser un nom différent.,"Der Name »%s« ist nicht erlaubt, da er das Zeichen »/« enthält. Bitte einen anderen Namen verwenden.","الاسم ""%s"" غير صالح لأنه يحتوي على حرف ""/"". يرجى استخدام اسم مختلف."
+"The name ""%s"" is not valid. Please use a different name.",Le nom « %s » n'est pas valide. Veuillez utiliser un nom différent.,Der Name »%s« ist nicht gültig. Bitte einen anderen Namen verwenden.,"الاسم ""%s"" غير صالح. يرجى استخدام اسم مختلف."
+"The name ""%s"" is too long. Please use a different name.",Le nom « %s » est trop long. Veuillez utiliser un nom différent.,Der Name »%s« ist zu lang. Bitte einen kürzeren Namen verwenden.,"الاسم ""%s"" طويل جدًا. يرجى استخدام اسم مختلف."
+The name and icon of the file.,Le nom et l'icône du fichier.,Name und Symbol der Datei.,اسم وأيقونة الملف.
+The owner could not be changed.,Impossible de changer le propriétaire.,Der Besitzer konnte nicht geändert werden.,لا يمكن تغيير المالك.
+The owner of the file.,Le propriétaire du fichier.,Besitzer der Datei,مالك الملف.
+The permissions could not be changed.,Impossible de changer les permissions.,Die Zugriffsrechte konnten nicht geändert werden.,لا يمكن تغيير الأذونات.
+"The permissions of ""%s"" could not be determined.",Les permissions de « %s » n'ont pas pu être déterminées.,Die Zugriffsrechte auf »%s« konnten nicht ermittelt werden.,"لا يمكن تحديد أذونات ""%s""."
+"The permissions of the file, in octal notation.","Les permissions du fichier, en notation octale.",Die Zugriffsrechte auf die Datei in Oktalnotation.,الأذونات الخاصة بالملف، بالتدوين الثماني.
+The permissions of the file.,Les permissions du fichier.,Die Dateizugriffsrechte,أذونات الملف.
+The permissions of the selected file could not be determined.,Les permissions du fichier sélectionné n'ont pas pu être déterminées.,Die Zugriffsrechte auf die gewählte Datei konnten nicht ermittelt werden.,لا يمكن تحديد أذونات الملف المحدد.
+The position of the opposite end of the selection from the cursor in chars.,La position en nombre de caractères de l'extrémité opposée de la sélection à partir du curseur.,Die Position des gegenüberliegenden Endes der Markierung relativ zur Eingabemarke in Zeichen.,موضع الطرف الآخر من الاختيار من المؤشر في الأحرف.
+The selection rectangle,Le rectangle de sélection,Das Auswahlrechteck,مستطيل التحديد
+"The server at ""%s"" cannot be found.",Le serveur sur « %s » n'a pas été trouvé.,Der Server unter »%s« kann nicht gefunden werden.,"لا يمكن العثور على الخادم الموجود في ""%s""."
+The size of the file.,La taille du fichier.,Die Dateigröße.,حجم الملف.
+"The software will run directly from the medium ""%s"". You should never run software that you don't trust.
+
+If in doubt, press Cancel.","Ce logiciel se lancera directement à partir du support « %s ». Vous ne devriez jamais exécuter un logiciel en lequel vous n’avez pas confiance.
+
+En cas de doute, cliquez sur Annuler.","Die Programme werden direkt vom Datenträger »%s« starten. Sie sollten niemals Programme starten, denen Sie nicht vertrauen.
+
+Im Zweifelsfall bitte auf »Abbrechen« klicken.","سيتم تشغيل البرنامج مباشرة من الوسيطة ""%s"".
+
+
+يجب عليك عدم تشغيل البرامج التي لا تثق بها. إذا كنت في شك، اضغط على إلغاء."
+The source file would be overwritten by the destination.,Le fichier source serait écrasé par la destination.,Die Quelldatei würde durch das Ziel überschrieben werden.,سيتم استبدال الملف المصدر بالوجهة.
+The specific type of the file.,Le type spécifique du fichier.,Der konkrete Dateityp,النوع المحدد للملف.
+The target doesn't support symbolic links.,La cible ne prend pas en charge les liens symboliques.,Dieses Ziel unterstützt keine symbolischen Verknüpfungen.,الهدف لا يدعم الروابط الرمزية.
+The text of the label.,Le texte de l'étiquette.,Beschriftungstext,نص التسمية.
+"There is no ""%s"" in this folder. Perhaps it was just moved or deleted?",« %s » est introuvable dans ce dossier. Peut-être vient-il juste d'être déplacé ou supprimé ?,Es gibt kein »%s« in diesem Ordner. Vielleicht wurde es gerade verschoben oder gelöscht?,"لا يوجد ""%s"" في هذا المجلد. ربما تم نقله أو حذفه؟"
+There is not enough space on the destination. Try to remove files to make space.,La destination n'a plus assez d'espace libre. Essayez de supprimer des fichiers pour libérer de l'espace.,"Am Ziel ist nicht genügend freier Platz. Löschen Sie einige Dateien, um Platz zu schaffen.",لا توجد مساحة كافية على الوجهة. حاول إزالة الملفات لإنشاء مساحة.
+There is nothing on the clipboard to paste.,Il n'y a rien à coller dans le presse-papiers.,In der Zwischenablage ist nichts zum Einfügen.,لا يوجد شيء في الحافظة للصق.
+There was an error copying the file into %F.,Erreur lors de la copie du fichier dans « %F ».,Beim Kopieren der Datei nach %F ist ein Fehler aufgetreten.,حدث خطأ أثناء نسخ الملف إلى %F.
+There was an error creating the directory in %F.,Erreur lors de la création du dossier dans « %F ».,Fehler beim Erstellen des Ordners in »%F«,حدث خطأ أثناء إنشاء الدليل في %F.
+"There was an error creating the folder ""%B"".",Une erreur s'est produite lors de la création du dossier « %B ».,Fehler beim Erstellen des Ordners »%B«.,"حدث خطأ أثناء إنشاء المجلد ""%B""."
+There was an error creating the symlink in %F.,Erreur lors de la création du lien symbolique dans « %F ».,Beim Erstellen der symbolischen Verknüpfung in »%F« ist ein Fehler aufgetreten.,حدث خطأ أثناء إنشاء الرابط الرمزي في %F.
+There was an error deleting %B.,Une erreur s'est produite lors de la suppression de %B.,Fehler beim Löschen von »%B«.,حدث خطأ أثناء حذف %B.
+There was an error displaying help.,Une erreur est survenue lors de l'affichage de l'aide.,Beim Anzeigen der Hilfe ist ein Fehler aufgetreten.,حدث خطأ في عرض المساعدة.
+"There was an error displaying help: 
+%s","Une erreur est survenue lors de l'affichage de l'aide : 
+%s","Beim Anzeigen der Hilfe ist ein Fehler aufgetreten: 
+%s","حدث خطأ أثناء عرض المساعدة:
+%s"
+"There was an error getting information about ""%B"".",Erreur lors de l'obtention d'informations concernant « %B ».,Fehler beim Einlesen der Informationen über »%B«.,"حدث خطأ في الحصول على معلومات حول ""%B""."
+There was an error getting information about the destination.,Erreur lors de l'obtention d'informations concernant la destination.,Fehler beim Einlesen der Informationen über das Ziel.,حدث خطأ في الحصول على معلومات حول الوجهة.
+"There was an error getting information about the files in the folder ""%B"".",Une erreur est survenue lors de l'obtention des informations concernant les fichiers du dossier « %B ».,Fehler beim Einlesen der Informationen über die Dateien im Ordner »%B«.,"حدث خطأ في الحصول على معلومات حول الملفات الموجودة في المجلد ""%B""."
+There was an error launching the application.,Erreur lors du lancement de l'application.,Beim Starten der Anwendung ist ein Fehler aufgetreten.,حدث خطأ أثناء بدء تشغيل التطبيق.
+There was an error moving the file into %F.,Erreur lors du déplacement du fichier dans « %F ».,Fehler beim Verschieben der Datei nach %F.,حدث خطأ أثناء نقل الملف إلى %F.
+"There was an error reading the folder ""%B"".",Une erreur s'est produite lors de la lecture du dossier « %B ».,Fehler beim Lesen des Ordners »%B«.,"حدث خطأ أثناء قراءة المجلد ""%B."
+These files are on a Photo CD.,Ces fichiers sont sur un Photo CD.,Diese Dateien befinden sich auf einer Foto-CD.,هذه الملفات موجودة على قرص CD صور فوتوغرافية.
+These files are on a Picture CD.,Ces fichiers sont sur un Picture CD.,Diese Dateien befinden sich auf einer Bild-CD.,هذه الملفات موجودة على قرص CD صور.
+These files are on a Super Video CD.,Ces fichiers sont sur un Super Vidéo CD (SVCD).,Diese Dateien befinden sich auf einer Super-Video-CD.,هذه الملفات موجودة على قرص CD سوبر فيديو.
+These files are on a Video CD.,Ces fichiers sont sur un CD vidéo.,Diese Dateien befinden sich auf einer Video-CD.,هذه الملفات موجودة على قرص CD فيديو.
+These files are on a Video DVD.,Ces fichiers sont sur un DVD vidéo.,Diese Dateien befinden sich auf einer Video-DVD.,هذه الملفات موجودة على قرص DVD فيديو.
+These files are on a digital audio player.,Ces fichiers sont sur un baladeur audio numérique.,Diese Dateien befinden sich auf einem digitalen Audio-Player.,هذه الملفات موجودة على مشغل الصوت الرقمي.
+These files are on an Audio CD.,Ces fichiers sont sur un CD audio.,Diese Dateien befinden sich auf einer Audio-CD.,هذه الملفات موجودة على قرص CD صوتي.
+These files are on an Audio DVD.,Ces fichiers sont sur un DVD audio.,Diese Dateien befinden sich auf einer Audio-DVD.,هذه الملفات موجودة على قرص DVD صوتي.
+This drop target only supports local files.,Cette cible du déposer ne prend en charge que les fichiers locaux.,Dieses Ablegeziel unterstützt ausschließlich lokale Dateien.,هدف الإفلات هذا يدعم الملفات المحلية فقط.
+This file cannot be ejected,Impossible d'éjecter ce fichier,Diese Datei kann nicht ausgeworfen werden,لا يمكن إخراج هذا الملف
+This file cannot be mounted,Impossible de monter ce fichier,Diese Datei kann nicht eingehängt werden,لا يمكن تحميل هذا الملف
+This file cannot be started,Impossible de démarrer ce fichier,Diese Datei kann nicht gestartet werden,لا يمكن بدء تشغيل هذا الملف
+This file cannot be stopped,Impossible de stopper ce fichier,Diese Datei kann nicht angehalten werden,لا يمكن إيقاف هذا الملف
+This file cannot be unmounted,Impossible de démonter ce fichier,Diese Datei kann nicht ausgehängt werden,لا يمكن إلغاء تحميل هذا الملف
+This is disabled due to security considerations.,Ceci est désactivé pour des raisons de sécurité.,Deaktiviert aus Sicherheitserwägungen.,تم تعطيل هذا بسبب اعتبارات الأمان.
+"This link cannot be used, because it has no target.",Impossible d’utiliser ce lien sans cible,"Diese Verknüpfung kann nicht verwendet werden, da sie auf kein Ziel verweist.",لا يمكن استخدام هذا الرابط، لأنه لا يوجد لديه هدف.
+"This link cannot be used, because its target ""%s"" doesn't exist.","Impossible d’utiliser ce lien, car sa cible « %s » n’existe pas.","Diese Verknüpfung kann nicht verwendet werden, da ihr Ziel »%s« nicht existiert.","لا يمكن استخدام هذا الرابط، لأن هدفه ""%s"" غير موجود."
+Title,Titre,Titel,العنوان
+To open non-local files copy them to a local folder and then drop them again.,"Pour ouvrir des fichiers distants, copiez-les dans un dossier local puis déposez-les à nouveau.","Um entfernte Dateien zu öffnen, müssen Sie diese in einen lokalen Ordner kopieren und dann noch einmal hier ablegen.",لفتح الملفات غير المحلية ، قم بنسخها إلى مجلد محلي ثم قم بإفلاتها مرة أخرى.
+To open non-local files copy them to a local folder and then drop them again. The local files you dropped have already been opened.,"Pour ouvrir des fichiers distants, copiez-les dans un dossier local puis déposez-les à nouveau. Les fichiers locaux déposés ont déjà été ouverts.","Um entfernte Dateien zu öffnen, müssen Sie diese in einen lokalen Ordner kopieren und dann noch einmal hier ablegen. Die lokalen, abgelegten Dateien wurden bereits geöffnet.",لفتح الملفات غير المحلية، قم بنسخها إلى مجلد محلي ثم قم بإفلاتها مرة أخرى. لقد تم بالفعل فتح الملفات المحلية التي قمت بإسقاطها.
+Toggle Location Entry,Basculer le mode de navigation,Pfadeingabe ein/aus,تبديل إدخال الموقع
+Toggle Location Entry,Basculer le mode de navigation,Pfadeingabe ein/aus,تبديل إدخال الموقع
+Toggle extra pane,Basculer le panneau supplémentaire,Zusätzliche Leiste an/aus,أظهر جزء جانبي إضافي
+Toggle the display of hidden files in the current window,Affiche les fichiers cachés dans la fenêtre actuelle,Verborgene Dateien im momentan geöffneten Fenster anzeigen/verbergen,تبديل عرض الملفات المخفية في النافذة الحالية
+Toolbar,Barre d'outils,Werkzeugleiste,شريط الأدوات
+Toplevel files cannot be renamed,Impossible de renommer les fichiers racines,Dateien im obersten Ordner können nicht umbenannt werden,لا يمكن إعادة تسمية ملفات المستوى العلوي
+Total capacity:,Capacité totale :,Gesamtkapazität:,السعة الاجمالية:
+Trash,Corbeille,Papierkorb,سلة المهملات
+Trashed On,Mise à la corbeille,Löschdatum,في سلة المهملات
+Trashing Files,Mise à la corbeille des fichiers,Dateien werden in den Papierkorb verschoben,تمزيق الملفات
+Tree,Arborescence,Baumansicht,شجرة
+Try Again,Essayer à nouveau,Erneut versuchen,حاول مرة أخري
+Type,Type,Dateityp,النوع
+Type:,Type :,Typ:,النوع:
+Type: %s,Type : %s,Dateityp: %s,النوع: %s
+URL,URL,Adresse,URL
+Unlock Drive,Déverrouiller le volume,Laufwerk entsperren,إلغاء تأمين محرك الأقراص
+Unable to eject %V,Impossible d'éjecter %V,%V kann nicht ausgeworfen werden,غير قادر على إخراج %V
+Unable to eject %s,Impossible d'éjecter %s,Auswerfen von %s nicht möglich,غير قادر على إخراج %s
+Unable to eject location,Impossible d'éjecter l'emplacement,Auswerfen des Ortes nicht möglich,غير قادر على إخراج الموقع
+Unable to mark launcher trusted (executable),Impossible de marquer ce lanceur comme étant validé (exécutable),Den Starter vertrauenswürdig (ausführbar) zu markieren ist nicht möglich,غير قادر على وضع علامة موثوق به على المشغل (قابل للتنفيذ)
+Unable to mount %s,Impossible de monter %s,Einhängen von %s nicht möglich,غير قادر على تحميل %s
+Unable to mount location,Impossible de monter l'emplacement,Einhängen des Ortes nicht möglich,غير قادر على تحميل الموقع
+Unable to mount the location.,Impossible de monter l'emplacement.,Einhängen des Ortes nicht möglich.,غير قادر على تحميل الموقع.
+Unable to poll %s for media changes,Impossible d’inspecter %s pour détecter les changements de média,%s konnte nicht nach Datenträgeränderungen befragt werden,يتعذر إجراء استطلاع %s لتغييرات الوسائط
+Unable to rename desktop file,Impossible de renommer le fichier de bureau,Schreibtischdatei konnte nicht umbenannt werden,غير قادر على إعادة تسمية ملف سطح المكتب
+Unable to rename desktop icon,Impossible de renommer l'icône de bureau,Schreibtischsymbol konnte nicht umbenannt werden,غير قادر على إعادة تسمية أيقونة سطح المكتب
+Unable to start %s,Impossible de démarrer %s,Starten von %s nicht möglich,غير قادر على بدء %s
+Unable to start location,Impossible de démarrer l'emplacement,Starten des Ortes nicht möglich,غير قادر على بدء الموقع
+Unable to stop %s,Impossible d'arrêter %s,Anhalten von %s nicht möglich,غير قادر على إيقاف %s
+Unable to stop drive,Impossible d'arrêter le lecteur,Laufwerk konnte nicht angehalten werden,غير قادر على إيقاف محرك اﻷقراص
+Unable to unmount %V,Impossible de démonter %V,%V kann nicht ausgehängt werden,غير قادر على إلغاء تحميل %V
+Unable to unmount location,Impossible de démonter l'emplacement,Aushängen des Ortes nicht möglich,غير قادر على إلغاء تحميل الموقع
+Undo Edit,Annuler la modification,Bearbeiten rückgängig machen,تراجع عن تحرير
+Undo last action,Annule la dernière action,Letzte Aktion zurücknehmen,التراجع عن آخر إجراء
+Undo the edit,Annuler la modification,Die Bearbeitung rückgängig machen,التراجع عن التحرير
+Undo the last action,Annule la dernière action,Letzte Änderung rückgängig machen,التراجع عن الإجراء الأخير
+Undo the last text change,Annule la dernière modification de texte,Die letzte Änderung am Text rückgängig machen,التراجع عن آخر تغيير للنص
+Unknown,Inconnu,Unbekannt,غير معروف
+Unknown file type,Type de fichier inconnu,Unbekannter Dateityp,نوع الملف غير معروف
+Unlock the drive associated with the open folder,Déverrouille le volume associé au dossier ouvert,Das zum geöffneten Ordner gehörende Laufwerk entsperren,إلغاء تأمين محرك الأقراص المقترن بالمجلد المفتوح
+Unlock the selected drive,Déverrouille le volume sélectionné,Gewähltes Laufwerk entsperren,إلغاء تأمين محرك الأقراص المحدد
+Unmount the selected volume,Démonte le volume sélectionné,Den gewählten Datenträger aushängen,إلغاء تحميل وحدة التخزين المحددة
+Unmount the volume associated with the open folder,Démonte le volume associé au dossier ouvert,Den zum geöffneten Ordner gehörenden Datenträger aushängen,إلغاء تحميل وحدة التخزين المرتبطة بالمجلد المفتوح
+Unmount the volume associated with this folder,Démonte le volume associé à ce dossier,Den zu diesem Ordner gehörenden Datenträger aushängen,إلغاء تحميل وحدة التخزين المرتبطة بهذا المجلد
+Unpin,Désépingler,Lösen,أفلت
+Unpin the selected file from the top of this location's file list,Désépingler le fichier sélectionné du haut de la liste de fichiers de cet emplacement,Die ausgewählte Datei vom Anfang der Dateiliste dieses Ortes lösen.,أزّل تثبيت الملف المحدد من أعلى قائمة ملفات الموقع
+Untitled Document,Nouveau document,Unbenanntes Dokument,مستند بدون عنوان
+Untitled Folder,Nouveau dossier,Unbenannter Ordner,مجلد بدون عنوان
+Untrusted application launcher,Lanceur d'application non validé,Starter für nicht vertrauenswürdige Anwendungen,منصة إطلاق تطبيق غير موثوق بها
+Up,Haut,Hoch,أعلى
+Use Default,Utiliser les valeurs par défaut,Vorgabe verwenden,استخدم الافتراضي
+Use Default,Utiliser les valeurs par défaut,Vorgabe verwenden,استخدام الافتراضي
+Use the normal view size,Affiche les éléments avec la taille normale,Die normale Ansichtsgröße verwenden,استخدم حجم العرض العادي
+User Details,Paramètres de l'utilisateur,Benutzerdetails,بيانات المستخدم
+Valid executable.,Exécutable valide.,Gültige ausführbare Datei.,صالح للتنفيذ.
+Vertical,Verticale,Senkrecht,عمودي
+Video,Vidéo,Video,فيديو
+View,Affichage,Ansicht,العرض
+View new folders using:,Afficher les nouveaux dossiers en utilisant :,Neue Ordner anzeigen mit:,عرض المجلدات الجديدة باستخدام:
+View a sample action file with documentation,Voir un exemple documenté d'action,Eine Beispielaktionsdatei mit Dokumentation ansehen,عرض ملف عينة الإجراء مع الوثائق
+View additional information about creating scripts,Voir plus d'information sur les scripts,Zusätzliche Informationen über das Erstellen von Skripten ansehen,عرض معلومات إضافية حول إنشاء البرامج النصية
+View of the current folder,Affichage du dossier actuel,Ansicht des aktuellen Ordners,عرض المجلد الحالي
+View or modify the properties of each selected item,Affiche ou modifie les propriétés de chaque élément sélectionné,Die Eigenschaften aller gewählten Objekte anzeigen/ändern,عرض أو تعديل خصائص كل عنصر محدد
+View or modify the properties of the open folder,Affiche ou modifie les propriétés du dossier ouvert,Die Eigenschaften des aktuellen Ordners anzeigen/ändern,عرض أو تعديل خصائص المجلد المفتوح
+View or modify the properties of this folder,Affiche ou modifie les propriétés de ce dossier,Die Eigenschaften dieses Ordners anzeigen/ändern,عرض أو تعديل خصائص هذا المجلد
+Views,Vues,Ansichten,طرق العرض
+Visible Buttons,Boutons visibles,Sichtbare Knöpfe,أزرار مرئية
+Visible Entries,Entrées Visibles,Sichtbare Einträge,مدخلات مرئية
+Volume:,Volume :,Datenträger:,وحدة التخزين:
+Waiting to change permissions of files in '%s',Changement de permissions de fichiers dans '%s' en attente,"Es wird gewartet, um die Zugriffsrechte von Dateien in »%s« zu ändern",في انتظار تغيير أذونات الملفات في '%s'
+Waiting to empty the trash,Vidage de la corbeille en attente,"Es wird gewartet, um den Papierkorb zu leeren",في انتظار إفراغ سلة المهملات
+Warning,Avertissement,Warnung!,تحذير
+WebDAV (HTTP),WebDAV (HTTP),WebDAV (HTTP),WebDAV (HTTP)
+Width,Largeur,Breite,العرض
+Windows share,Partage Windows,Windows-Freigabe,مشاركه Windows
+X,X,X,X
+Y,Y,Y,Y
+Yes,Oui,Ja,نعم
+Yesterday,Hier,Gestern,أمس
+Yesterday %H:%M,Hier à %H:%M,Gestern %H:%M,أمس %H:%M
+"You are not the owner, so you cannot change these permissions.","Vous n'êtes pas le propriétaire de cet élément, vous ne pouvez donc pas en changer les permissions.","Sie sind nicht der Besitzer, daher können Sie die Zugriffsrechte nicht ändern.",أنت لست المالك، لذلك لا يمكنك تغيير هذه الأذونات.
+"You can also type or select a custom executable file to use to open this file type.  You can use this command just once, or set it as default for all files of this type.",Vous pouvez aussi taper ou sélectionner un exécutable pour ouvrir ce type de fichiers. Vous pouvez utiliser cette commande juste pour cette fois ou bien l'associer par défaut pour tous les fichiers de ce type.,"Sie können auch einen eigenen Befehl angeben oder auswählen, um diesen Dateityp zu öffnen. Dieser Befehl kann einmalig oder als Vorgabe für alle Dateien dieses Dateityps verwendet werden.",يمكنك أيضاً كتابة أو تحديد ملف قابل للتنفيذ مخصص لاستخدامه لفتح هذا النوع من الملفات. يمكنك استخدام هذا الأمر مرة واحدة فقط، أو تعيينه كإعداد افتراضي لجميع الملفات من هذا النوع.
+You can only use local images as custom icons.,Seules des images locales peuvent être utilisées comme icônes personnalisées.,Sie können ausschließlich lokale Bilder als benutzerdefinierte Symbole benutzen.,يمكنك فقط استخدام الصور المحلية كأيقونات مخصصة.
+"You can restore an item from the trash, if you later change your mind.","Vous pouvez restaurer un élément de la corbeille, si vous changez d'avis plus tard.","Wenn Sie später Ihre Meinung ändern, können Sie ein Element aus dem Papierkorb wieder herstellen.",إذا غيَّرت رأيك فيما بعد، يمكنك إسترجاع ملف من المهملات.
+You can stop this operation by clicking cancel.,Vous pouvez arrêter cette opération en cliquant sur annuler.,"Sie können diese Aktion anhalten, indem Sie »Abbrechen« anklicken.",يمكنك إيقاف هذه العملية عن طريق النقر فوق إلغاء.
+You cannot assign more than one custom icon at a time!,Vous ne pouvez pas attribuer plus d'une icône personnalisée à la fois !,Mehr als ein benutzerdefiniertes Symbol kann nicht auf einmal zugewiesen werden.,لا يمكنك تعيين أكثر من أيقونة مخصصة واحدة في كل مرة!
+You cannot copy a file over itself.,Impossible de copier un fichier sur lui-même.,Sie können eine Datei nicht über sich selbst kopieren.,لا يمكنك نسخ ملف فوق نفسه.
+You cannot copy a folder into itself.,Impossible de copier un dossier dans lui-même.,Sie können einen Ordner nicht in sich selbst kopieren.,لا يمكنك نسخ مجلد إلى نفسه.
+You cannot move a file over itself.,Impossible de déplacer un fichier sur lui-même.,Sie können eine Datei nicht über sich selbst verschieben.,لا يمكنك نقل ملف فوق نفسه.
+You cannot move a folder into itself.,Impossible de déplacer un dossier dans lui-même.,Sie können einen Ordner nicht in sich selbst verschieben.,لا يمكنك نقل مجلد إلى نفسه.
+"You cannot move the volume ""%s"" to the trash.",Vous ne pouvez pas mettre le volume « %s » à la corbeille.,Sie können den Datenträger »%s« nicht in den Papierkorb verschieben.,"لا يمكنك نقل وحدة التخزين ""%s"" إلى سلة المهملات."
+You do not have permissions to access the destination folder.,Vous n'avez pas la permission d'accéder au dossier de destination.,"Sie besitzen nicht die nötigen Rechte, um auf den Zielordner zuzugreifen.",ليس لديك أذونات للوصول إلى مجلد الوجهة.
+"You do not have the permissions necessary to change the group of ""%s"".",Vous n'avez pas les permissions nécessaires pour changer le groupe de « %s ».,"Sie haben nicht die nötigen Zugriffsrechte, um die Gruppe von »%s« zu ändern.","ليس لديك الأذونات اللازمة لتغيير مجموعة ""%s""."
+"You do not have the permissions necessary to rename ""%s"".",Vous n'avez pas les permissions nécessaires pour renommer « %s ».,"Ihnen fehlen die nötigen Zugriffsrechte, um »%s« umzubenennen.","ليس لديك الأذونات اللازمة لإعادة تسمية ""%s""."
+"You do not have the permissions necessary to view the contents of ""%s"".",Vous n'avez pas les permissions nécessaires pour afficher le contenu de « %s ».,"Sie haben nicht die nötigen Zugriffsrechte, um den Inhalt von »%s« anzuzeigen.","ليس لديك الأذونات اللازمة لعرض محتويات ""%s""."
+"You have chosen to hide the main menu.  You can get it back temporarily by:
+
+- Tapping the <Alt> key
+- Right-clicking an empty region of the main toolbar
+- Right-clicking an empty region of the status bar.
+
+You can restore it permanently by selecting this option again from the View menu.","Vous avez décidé de cacher le menu principal. Vous pouvez le montrer temporairement :
+
+- En tapant sur la touche <Alt>
+- En faisant un clic-droit sur un espace vide de la barre d'outils principale
+- En faisant un clic-droit sur un espace vide de la barre d'état
+
+Vous pouvez le montrer de façon permanente en sélectionnant de nouveau cette option dans le menu Affichage.","Sie haben sich entschieden, das Hauptmenü auszublenden. Sie können es vorübergehend wieder einblenden, indem Sie:
+
+- die Taste <Alt> drücken
+- durch Rechtsklick auf einen leeren Bereich der Hauptwerkzeugleiste
+- durch Rechtsklick auf einen leeren Bereich der Statusleiste.
+
+Sie können das Hauptmenü dauerhaft wieder einblenden, indem Sie diese Option im Ansicht-Menü auswählen.","لقد اخترت إخفاء القائمة الرئيسية. يمكنك استعادتها مؤقتًا عن طريق:
+
+- النقر على مفتاح <Alt> باستمرار
+- النقر بزر الماوس الأيمن فوق منطقة فارغة من شريط الأدوات الرئيسي
+- النقر بزر الماوس الأيمن على منطقة خالية من شريط الحالة.
+
+يمكنك استعادتها بشكل دائم من خلال تحديد هذا الخيار مرة أخرى من القائمة العرض."
+"You should have received a copy of the GNU General Public License along with Nemo; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA","Vous devriez avoir reçu une copie de la GNU General Public License avec Nemo ; sinon écrivez à la Free Software Foundation, Inc., Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA","Mit Nemo sollten Sie eine Kopie der GNU General Public License erhalen haben; falls nicht, schreiben Sie an die  Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA","يجب أن تكون قد حصلت على نسخة من رخصة GNU العمومية مع Nemo; إذا لم يكن كذلك، فاكتب لمؤسسة البرمجيات الحرة، الشركة., 51 شارع فرانكلين, الطابق الخامس, بوسطن, MA 02110-1301 الولايات المتحدة"
+Zoom In,Zoom avant,Vergrößern,تكبير
+Zoom Out,Zoom arrière,Verkleinern,تصغير
+Zoom in,Zoom avant,Vergrößern,كبّر
+Zoom out,Zoom arrière,Verkleinern,صغّر
+[URI...],[URI…],[Adresse …],[URI...]
+About,À propos,Über,حول
+Add Bookmark,Ajouter un marque-page,Lesezeichen hinzufügen,إضافة إشارة مرجعية
+All Topics,Tous les sujets,Alle Themen, كل المواضيع
+Arrange items:,Ranger les éléments :,Objekte anordnen:,ترتيب العناصر:
+Ask each time,Demander à chaque fois,Jedes Mal nachfragen,اسأل في كل مرة
+Back,Précédent,Zurück,عودة
+Bookmarks,Marque-pages,Lesezeichen,الإشارات المرجعية
+Cancel,Annuler,Abbrechen,ألغِ
+Close,Fermer,Beenden,إغلاق
+Close Tab,Fermer l'onglet,Reiter schließen,إغلاق علامة التبويب
+Compact,Compacte,Kompakt,المدمج
+Computer,Poste de travail,Rechner,الكمبيوتر
+Connect,Connecter,Verbinden,الإتصال
+Connect Drive,Connecter le volume,Laufwerk verbinden,توصيل محرك الأقراص
+Copy,Copier,Kopieren,إنسخ
+Copy Here,Copier ici,Hierher kopieren,نسخ هنا
+Customize,Personnaliser,Anpassen,خصّص
+Default zoom level:,Niveau de zoom par défaut :,Voreingestellte Vergrößerungsstufe:,مستوى التكبير الافتراضي:
+Delete,Supprimer,Löschen,حذف
+Delete Permanently,Supprimer définitivement,Dauerhaft löschen,حذف بشكل دائم
+Desktop,Bureau,Schreibtisch,سطح المكتب
+Detect Media,Détecter le média,Medien erkennen,كشف الوسائط
+Disconnect,Déconnecter,Trennen,قطع الإتصال
+Disconnect Drive,Déconnecter le volume,Laufwerk trennen,قطع إتصال محرك الأقراص
+Display,Afficher,Anzeigen,العرض
+Domain name:,Nom de domaine :,Domäne:,اسم النطاق:
+Double click to open items,Double-clic pour ouvrir les éléments,Doppelklick zum Öffnen von Objekten,انقر نقراً مزدوجاً لفتح العناصر
+Edit,Édition,Bearbeiten,تحرير
+Edit Bookmarks...,Modifier les marque-pages…,Lesezeichen bearbeiten …,تحرير الإشارات المرجعية...
+Eject,Éjecter,Auswerfen,إخراج
+Empty Document,Document vide,Leeres Dokument,مستند فارغ
+File,Fichier,Datei,الملف
+Folder:,Dossier :,Ordner:,المجلد:
+Format:,Format :,Format:,التنسيق:
+Forward,Suivant,Vorwärts,للأمام
+Go,Aller à,Gehen zu,اذهب
+Group:,Groupe :,Gruppe:,المجموعة:
+Help,Aide,Hilfe,مساعدة
+Home,Dossier personnel,Persönlicher Ordner,المجلد الرئيسي
+Horizontal,Horizontal,Horizontal,أفقي
+Icon Size,Taille d'icône,Symbolgröße,حجم الأيقونة
+Icons,Icônes,Symbole,اﻷيقونات
+Invert Selection,Inverser la sélection,Auswahl umkehren,عكس التحديد
+Keep Aligned,Garder aligné,Anordnung feststellen,إبقاء المحاذاة
+Keyboard Shortcuts,Raccourcis clavier,Tastenkombinationen,إختصارات لوحة المفاتيح
+Launch Anyway,Lancer quand même,Trotzdem starten,إطلاق على أي حال
+Link Here,Créer un lien ici,Hierher verknüpfen,ربط هنا
+List,Liste,Liste,القائمة
+Location,Emplacement,Ort,الموقع
+Lock Drive,Verrouiller le volume,Laufwerk sperren,تأمين محرك اﻷقراص
+Main Toolbar,Barre d'outils principale,Hauptwerkzeugleiste,شريط الأدوات الرئيسي
+Manually,Manuellement,Manuell,يدوياً
+Merge,Fusionner,Zusammenführen,دمج
+Mount,Monter,Einhängen,تحميل
+Move Here,Déplacer ici,Hierher verschieben,نقل هنا
+Network,Réseau,Netzwerk,الشبكة
+New Tab,Nouvel onglet,Neuer Reiter,علامة تبويب جديدة
+Next Tab,Onglet suivant,Nächster Reiter,علامة التبويب التالية
+Only for files smaller than:,Seulement pour les fichiers plus petits que :,Nur für Dateien kleiner als:,فقط للملفات الأصغر من:
+Open,Ouvrir,Öffnen,فتح
+Open With %s,Ouvrir avec %s,Öffnen mit %s,فتح باستخدام %s
+Organize Desktop by Name,Organiser le bureau par nom,Schreibtisch alphabetisch sortieren,تنظيم سطح المكتب حسب الاسم
+Organize by Name,Organiser par nom,Nach Namen sortieren,تنظيم حسب الاسم
+Other pane,Autre panneau,Andere Leiste,جزء آخر
+Owner:,Propriétaire :,Besitzer:,المالك:
+Paste,Coller,Einfügen,ألصق
+Paste Into Folder,Coller dans le dossier,In Ordner einfügen,لصق في مجلد
+Pattern:,Motif :,Muster:,النمط:
+Port:,Port :,Port:,المنفذ:
+Power On,Mettre sous tension,Einschalten,تشغيل الطاقة
+Prefixes:,Préfixes :,Präfixe:,البادئات:
+Previous Tab,Onglet précédent,Vorheriger Reiter,علامة التبويب السابقة
+Properties,Propriétés,Eigenschaften,الخصائص
+Read,Lecture,Lesen,القراءة
+Redo,Rétablir,Wiederholen,إعادة
+Redo Change Group,Rétablir la modification du groupe,Gruppenänderung wiederholen,إعادة تغيير المجموعة
+Redo Change Owner,Rétablir la modification de propriétaire,Eigentumsänderung wiederholen,إعادة تغيير المالك
+Redo Change Permissions,Rétablir les modifications de permissions,Ändern der Zugriffsrechte wiederholen,إعادة تغيير الأذونات
+Redo Copy,Rétablir la copie,Kopieren wiederholen,إعادة النسخ
+Redo Create Empty File,Rétablir la création d'un fichier vide,Leere Datei erstellen wiederholen,إعادة إنشاء ملف فارغ
+Redo Create Folder,Rétablir la création du dossier,Ordner erstellen wiederholen,إعادة إنشاء مجلد
+Redo Create Link,Rétablir la création du lien,Verknüpfung erstellen wiederholen,إعادة إنشاء الرابط
+Redo Create from Template,Rétablir la création à partir d'un modèle,Erstellung aus Vorlage wiederholen,إعادة الإنشاء من القالب
+Redo Duplicate,Rétablir la duplication,Verdoppeln wiederholen,إعادة التكرار
+Redo Move,Rétablir le déplacement,Verschieben wiederholen,إعادة النقل
+Redo Rename,Rétablir le renommage,Umbenennen wiederholen,إعادة إعادة التسمية
+Redo Restore from Trash,Rétablir la restauration depuis la corbeille,Wiederherstellung aus dem Papierkorb wiederholen,إعادة الاستعادة من سلة المهملات
+Redo Trash,Rétablir la mise à la corbeille,Verschieben in den Papierkorb wiederholen,إعادة سلة المهملات
+Reload,Actualiser,Aktualisieren,إعادة تحميل
+Remember this password,Mémoriser ce mot de passe,Dieses Passwort merken,تذكر كلمة المرور هذه
+Rename...,Renommer…,Umbenennen …,إعادة تسمية...
+Replace,Remplacer,Ersetzen,استبدال
+Restore,Restaurer,Wiederherstellen,استعادة
+Retry,Réessayer,Erneut versuchen,إعادة المحاولة
+Run,Lancer,Ausführen,تشغيل
+Run executable text files when they are opened,Lancer les fichiers textes exécutables lorsqu'ils sont ouverts,"Ausführbare Textdateien starten, wenn sie geöffnet werden",تشغيل الملفات النصية القابلة للتنفيذ عند فتحها
+Safely Remove Drive,Retirer le volume sans risque,Laufwerk sicher entfernen,إزالة محرك الأقراص بأمان
+Scripts,Scripts,Skripte,البرامج النصية
+Search for Files...,Chercher des fichiers…,Nach Dateien suchen …,البحث عن الملفات...
+Select a new name for the destination,Choisissez un nouveau nom pour la destination,Einen neuen Namen für das Ziel wählen,تحديد اسم جديد للوجهة
+Server:,Serveur :,Server:,الخادم:
+Show Sidebar,Afficher le panneau latéral,Seitenleiste anzeigen,عرض الشريط الجانبي
+Single click to open items,Simple clic pour ouvrir les éléments,Einfacher Klick zum Öffnen von Objekten,نقرة واحدة لفتح العناصر
+Skip,Ignorer,Überspringen,تخطي
+Skip files,Ignorer les fichiers,Dateien überspringen,تخطي الملفات
+Sort,Trier,Sortieren,رتّب
+Start,Démarrer,Start,بدء
+Start Multi-disk Device,Démarrer le périphérique multidisque,Multimedienlaufwerk starten,بدء تشغيل جهاز الأقراص المتعددة
+Start Multi-disk Drive,Démarrer le volume multidisque,Multimedienlaufwerk starten,بدء تشغيل محرك الأقراص المتعددة
+Sticky,Permanent,Klebrig,اللاصقة
+Stop,Arrêter,Anhalten,إيقاف
+Stop Multi-disk Device,Arrêter le périphérique multidisque,Multimedienlaufwerk anhalten,إيقاف جهاز الأقراص المتعددة
+Stop Multi-disk Drive,Arrêter le volume multidisque,Multimedienlaufwerk anhalten,إيقاف محرك الأقراص المتعددة
+Stop the drive associated with the open folder,Arrête le volume associé au dossier ouvert,Das zum geöffneten Ordner gehörende Laufwerk anhalten,إيقاف محرك الأقراص المقترن بالمجلد المفتوح
+Tabs,Onglets,Reiter,علامات التبويب
+Text beside icons,Texte à côté des icônes,Text neben Symbolen,النص بجانب الأيقونات
+Trash,Corbeille,Papierkorb,سلة المهملات
+Type:,Type :,Typ:,النوع:
+Undo,Annuler,Rückgängig,تراجع
+Undo Change Group,Annuler la modification du groupe,Gruppenänderung rückgängig machen,التراجع عن تغيير المجموعة
+Undo Change Owner,Annuler la modification de propriétaire,Eigentumsänderung rückgängig machen,التراجع عن تغيير المالك
+Undo Change Permissions,Annuler les modifications de permissions,Ändern der Zugriffsrechte rückgängig machen,التراجع عن تغيير الأذونات
+Undo Copy,Annuler la copie,Kopieren rückgängig machen,تراجع عن النسخ
+Undo Create Empty File,Annuler la création d'un fichier vide,Erstellen einer leeren Datei rückgängig machen,التراجع عن إنشاء ملف فارغ
+Undo Create Folder,Annuler la création du dossier,Ordner erstellen rückgängig machen,التراجع عن إنشاء مجلد
+Undo Create Link,Annuler la création du lien,Verknüpfung erstellen rückgängig machen,التراجع عن إنشاء الرابط
+Undo Create from Template,Annuler la création à partir d'un modèle,Erstellung aus Vorlage rückgängig machen,التراجع عن الإنشاء من القالب
+Undo Duplicate,Annuler la duplication,Verdoppeln rückgängig machen,تراجع عن التكرار
+Undo Move,Annuler le déplacement,Verschieben rückgängig machen,تراجع عن النقل
+Undo Rename,Annuler le renommage,Umbenennen rückgängig machen,التراجع عن إعادة التسمية
+Undo Restore from Trash,Annuler la restauration depuis la corbeille,Wiederherstellung aus dem Papierkorb rückgängig machen,تراجع عن الاستعادة من سلة المهملات
+Undo Trash,Annuler la mise à la corbeille,Verschieben in den Papierkorb rückgängig machen,التراجع عن سلة المهملات
+Unlock Drive,Déverrouiller le volume,Laufwerk entsperren,إلغاء تأمين محرك اﻷقراص
+Unmount,Démonter,Aushängen,إلغاء تحميل
+Up,Parent,Hoch,أعلى
+User name:,Nom d'utilisateur :,Benutzername:,اسم المستخدم:
+Vertical,Vertical,Senkrecht,عمودي
+View,Affichage,Ansicht,عرض
+View executable text files when they are opened,Afficher les fichiers textes exécutables lorsqu'ils sont ouverts,"Ausführbare Textdateien anzeigen, wenn sie geöffnet werden",عرض الملفات النصية القابلة للتنفيذ عند فتحها
+Write,Écriture,Schreiben,الكتابة
+access,accès,Zugriff,الوصول
+button,bouton,Knopf,زر
+by Modification Date,par date de modification,nach Änderungsdatum,حسب تاريخ التعديل
+by Trash Time,par date de mise à la corbeille,nach Löschdatum,حسب وقت سلة المهملات
+by Detailed Type,Par catégories détaillées,nach datailliertem Dateityp,حسب النوع المفصل
+by Name,par nom,nach Name,حسب الاسم
+by Size,par taille,nach Größe,حسب الحجم
+by Type,par type,nach Typ,حسب النوع
+create/delete,création/suppression,erstellen/löschen,إنشاء/حذف
+dropped data,données déposées,abgelegte Daten,dropped data
+dropped text.txt,texte déposé.txt,Abgelegter-Text.txt,dropped text.txt
+free,libre,frei,الحرة
+link,lien,Verknüpfung,الرابط
+link (broken),lien (invalide),Verknüpfung (fehlerhaft),الرابط (معطل)
+list,liste,Liste,القائمة
+nd copy),e copie),. Kopie),نسخ nd)
+no,pas de,Nein,لا
+no information available,pas d'information disponible,Keine Information verfügbar,لا توجد معلومات متاحة
+nothing,vide,Nichts,لا شيئ
+on the desktop,sur le bureau,auf dem Schreibtisch,على سطح المكتب
+page0,page0,Seite0,الصفحة0
+page1,page1,Seite1,الصفحة1
+rd copy),e copie),. Kopie),نسخ rd)
+read,lecture,lesen,القراءة
+st copy),re copie),. Kopie),نسخ st)
+th copy),e copie),. Kopie),نسخ th)
+unknown,inconnu,Unbekannt,غير معروف
+unreadable,impossible à lire,nicht lesbar,غير قابل للقراءة
+used,utilisé,benutzt,المستخدمة
+write,écriture,schreiben,الكتابة

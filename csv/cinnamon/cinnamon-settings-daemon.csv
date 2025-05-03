@@ -1,0 +1,272 @@
+
+%i %s %i %s,%i %s %i %s,%i %s %i %s,%i %s %i %s
+%s %s remaining,%s : il reste %s,%s %s verbleibend,المتبقي %s %s
+%s %s until charged,%s : %s avant chargement complet,%s %s bis vollständig geladen,%s %s حتى يتم الشحن
+%s of UPS backup power remaining,Il reste %s d'autonomie à l'onduleur,%s der USV-Ladung verbleibend,المتبقي من طاقة UPS الاحتياطية %s
+'%s' on %s,'%s' sur %s,»%s« auf %s,'%s'على %s
+Approximately %s of remaining UPS backup power (%.0f%%),Il reste environ %s d'autonomie à l'onduleur (%.0f %%),Ihnen verbleiben noch ca. %s im Notstrombetrieb (%.0f%%),المتبقي من طاقة UPS الاحتياطية %s تقريباً (%.0f%%)
+Approximately %s of remaining UPS power (%.0f%%). Restore AC power to your computer to avoid losing data.,Il reste environ %s d'autonomie à l'onduleur (%.0f %%). Branchez votre ordinateur au secteur pour éviter de perdre des données.,"Ihnen verbleiben noch ca. %s im Notstrombetrieb (%.0f%%). Schließen Sie den Rechner an die Stromversorgung an, um Datenverlust zu verhindern.",طاقة UPS المتبقي منها %s تقريباً (%.0f%%). استعادة طاقة AC للكمبيوتر الخاص بك لتجنب فقدان البيانات.
+Approximately %s remaining (%.0f%%),Il reste environ %s (%.0f %%),Ihnen verbleiben noch ca. %s (%.0f%%),حوالي %s المتبقية (%.0f%%)
+Ask what to do,Demander quoi faire,"Nachfragen, was getan werden soll",اسأل ماذا تفعل
+Attached computer battery low,Batterie de l'ordinateur connecté faible,Akku des angeschlossenen Rechners ist fast leer,بطارية الكمبيوتر المرفقة منخفضة
+Attached computer is low in power (%.0f%%),Il reste peu d'autonomie à l'ordinateur connecté (%.0f %%),Der angeschlossene Rechner hat nur noch wenig Energie (%.0f%%),طاقة الكمبيوتر المرفقة منخفضة (%.0f%%)
+Attached computer is very low in power (%.0f%%). The device will soon shutdown if not charged.,Il reste très peu d'autonomie à l'ordinateur connecté (%.0f %%). Il s'arrêtera bientôt de fonctionner s'il n'est pas rechargé.,"Der an diesem Rechner angeschlossene Rechner hat nur noch wenig Energie (%.0f%%). Er wird herunterfahren, falls er nicht bald aufgeladen wird.",طاقة الكمبيوتر المرفقة منخفضة جدًا (%.0f%%). سيتوقف هذا الجهاز قريبًا عن العمل إذا لم يتم شحنها.
+Battery critically low,Batterie très faible,Ladezustand des Akkus ist kritisch,البطارية منخفضة للغاية
+Battery is critically low,La batterie est très faible,Kritischer Ladezustand des Akkus,البطارية منخفضة للغاية
+Battery is low,Batterie faible,Ladezustand des Akkus ist niedrig,البطارية ضعيفة
+Battery low,Batterie faible,Akkuladezustand niedrig,البطارية ضعيفة
+Capacity:,Capacité :,Kapazität:,القدرة:
+Cell phone battery low,Batterie de téléphone portable faible,Mobiltelefon-Akku fast leer,بطارية الهاتف الخليوي منخفضة
+Cell phone is charged,Téléphone portable chargé,Mobiltelefon ist vollständig aufgeladen,الهاتف الخليوي مشحون
+Cell phone is charging,Téléphone portable en charge,Mobiltelefon wird aufgeladen,الهاتف الخليوي قيد الشحن
+Cell phone is discharging,Téléphone portable en décharge,Mobiltelefon wird entladen,الهاتف الخليوي قيد التفريغ
+Cell phone is empty,Téléphone portable déchargé,Mobiltelefon ist leer,الهاتف الخليوي فارغ
+Cell phone is low in power (%.0f%%),Il reste peu d'autonomie au téléphone portable (%.0f %%),Mobiltelefon hat nur noch wenig Energie (%.0f%%),طاقة الهاتف الخلوي منخفضة (%.0f%%)
+Cell phone is very low in power (%.0f%%). This device will soon stop functioning if not charged.,Il reste très peu d’autonomie au téléphone portable (%.0f %%). Il s’arrêtera bientôt de fonctionner s’il n’est pas rechargé.,"Das Mobiltelefon hat eine sehr geringe Ladung (%.0f%%). Dieses Gerät wird bald aufhören zu funktionieren, wenn es nicht geladen wird.",بطارية الهاتف المحمول منخفضة جداً (%.0f%%). سيتوقف هذا الجهاز قريبًا عن العمل إذا لم يتم شحنها.
+Charge rate:,Taux de charge :,Laderate:,نسبة الشحن:
+Charge time:,Temps de charge :,Ladezeit:,وقت الشحن:
+Charged,Chargé,Geladen,مشحون
+Charging,En charge,Lädt,شحن
+Choose what application to launch.,Choisissez l'application à lancer.,"Wählen Sie, welche Anwendung gestartet werden soll.",اختيار التطبيق المطلوب تشغيله.
+Cinnamon Settings Daemon Color Plugin,Greffon de couleur du service des paramètres Cinnamon,Farb-Plugin für Cinnamon-Einstellungsdienst,إعدادات برنامج اللون المساعد المخفي لـCinnamon
+Color,Couleur,Farbe,اللون
+Color calibration device added,Appareil de calibration des couleurs ajouté,Farbkalibrierungsgerät wurde hinzugefügt,تم إضافه جهاز معايرة الألوان
+Color calibration device removed,Appareil de calibration des couleurs enlevé,Farbkalibrierungsgerät wurde entfernt,تم إزالة جهاز معايرة الألوان
+Computer is charged,Ordinateur chargé,Rechner ist vollständig geladen,الكمبيوتر مشحون
+Computer is charging,Ordinateur en charge,Rechner wird aufgeladen,الكمبيوتر قيد الشحن
+Computer is discharging,Ordinateur en décharge,Rechner wird entladen,الكمبيوتر قيد التفريغ
+Computer is empty,Ordinateur déchargé,Rechner ist vollständig entladen,الكمبيوتر فارغ
+Computer will hibernate very soon unless it is plugged in.,L'ordinateur se mettra très rapidement en hibernation si l'alimentation n'est pas branchée.,"Dieser Rechner wird sehr bald in den Ruhezustand versetzt, es sei denn, er wird angeschlossen.",سيتم إسبات الكمبيوتر قريباً جداً ما لم يتم توصيله.
+Computer will shutdown very soon unless it is plugged in.,L'ordinateur s'éteindra très rapidement si l'alimentation n'est pas branchée.,"Dieser Rechner wird sehr bald heruntergefahren, es sei denn, er wird angeschlossen.",سيتم إيقاف تشغيل الكمبيوتر قريباً جداً ما لم يتم توصيله.
+Computer will suspend very soon unless it is plugged in.,L'ordinateur se mettra très rapidement en veille si l'alimentation n'est pas branchée.,"Dieser Rechner wird sehr bald in Bereitschaft versetzt, es sei denn, er wird angeschlossen.",سيتم تعليق الكمبيوتر قريباً جداً ما لم يتم توصيله.
+Configuring new printer,Configuration d'une nouvelle imprimante,Neuer Drucker wird konfiguriert,تكوين طابعة جديدة
+Cover open,Capot ouvert,Abdeckung offen,الغطاء مفتوح
+Current charge:,Charge actuelle :,Gegenwärtige Ladung:,الشحن الحالي:
+Design charge:,Charge théorique :,Spezifizierte Maximalladung:,تصميم الشحن:
+Discharge time:,Temps de décharge :,Entladezeit:,وقت التفريغ:
+Discharging,En décharge,Entlädt,تفريغ
+Disk space,Espace disque,Festplattenplatz,مساحة القرص
+Do Nothing,Ne rien faire,Nichts tun,لا تفعل شيئا
+Don't show any warnings again,Ne plus jamais afficher d'avertissements,Keine Warnungen mehr anzeigen,عدم عرض أي تحذيرات مرة أخرى
+Don't show any warnings again for this file system,Ne plus afficher d'avertissements pour ce système de fichiers,Für dieses Dateisystem keine Warnungen mehr anzeigen,عدم عرض أي تحذيرات مرة أخرى لنظام الملفات هذا
+Door open,Porte ouverte,Klappe offen,الباب مفتوح
+Empty,Déchargée,Leer,فارغة
+Empty Trash,Vider la corbeille,Papierkorb leeren,إفراغ سلة المهملات
+"Error activating XKB configuration.
+There can be various reasons for that.
+
+If you report this situation as a bug, include the results of
+ %s
+ %s
+ %s
+ %s","Erreur lors de l'activation de la configuration XKB.
+Il peut y avoir de multiples raisons.
+
+Si vous effectuez un rapport de bogue, veuillez inclure :
+ %s
+ %s
+ %s
+ %s","Fehler beim Aktivieren der XKB-Konfiguration.
+Es kann mehrere Gründe dafür geben.
+
+Wenn Sie das als Fehler melden,
+bitte folgende Ergebnisse beilegen
+ %s
+ %s
+ %s
+ %s","خطأ في تنشيط تكوين XKB.
+يمكن أن يكون هناك أسباب مختلفة لذلك.
+
+إذا قمت بالإبلاغ عن هذا الموقف علي انه خطا، فعليك تضمين نتائج
+  %s
+  %s
+  %s
+  %s"
+Examine,Examiner,Untersuchen,أختبر
+Examine...,Examiner...,Überprüfen …,يختبر...
+Excellent,Excellente,Ausgezeichnet,ممتاز
+Fair,Moyenne,Befriedigend,مقبول
+Game controller is charged,La manette de jeu est chargée,Gamecontroller vollständig geladen,ذراع التحكم بالألعاب مشحون
+Game controller is charging,La manette de jeu est en train de charger,Gamecontroller wird geladen,يجري شحن ذراع التحكم بالألعاب
+Game controller is discharging,La manette de jeu est en train de se décharger,Gamecontroller wird entladen,ذراع التحكم بالألعاب يفقد الشحن
+Game controller is empty,La manette de jeu n'a plus de batterie,Gamecontroller ist entladen,ذراع التحكم بالألعاب فارغ من الشحن
+Good,Bonne,Gut,جيد
+Ignore,Ignorer,Ignorieren,تجاهل
+Keyboard battery low,Batterie du clavier faible,Tastaturakku ist fast leer,بطارية لوحة المفاتيح منخفضة
+Keyboard is charged,Clavier chargé,Tastatur ist vollständig aufgeladen,لوحة المفاتيح مشحونة
+Keyboard is charging,Clavier en charge,Tastatur wird aufgeladen,لوحة المفاتيح قيد الشحن
+Keyboard is discharging,Clavier en décharge,Tastatur wird entladen,لوحة المفاتيح قيد التفريغ
+Keyboard is empty,Clavier déchargé,Tastatur ist leer,لوحة المفاتيح فارغة
+Laptop battery critically low,Batterie du portable très faible,Kritischer Ladezustand des Laptop-Akkus,بطارية الكمبيوتر المحمول منخفضة للغاية
+Laptop battery is charged,Batterie du portable chargée,Laptop-Akku ist vollständig aufgeladen,بطارية الكمبيوتر المحمول مشحونة
+Laptop battery is charging,Batterie du portable en charge,Laptop-Akku wird aufgeladen,بطارية الكمبيوتر المحمول قيد الشحن
+Laptop battery is discharging,Batterie du portable en décharge,Laptop-Akku wird entladen,بطارية الكمبيوتر المحمول قيد التفريغ
+Laptop battery is empty,Batterie du portable déchargée,Laptop-Akku ist leer,بطارية الكمبيوتر المحمول فارغة
+Laptop battery is waiting to charge,Batterie du portable en attente de charge,Laptop-Akku ist bereit zur Aufladung,بطارية الكمبيوتر المحمول في انتظار الشحن
+Laptop battery is waiting to discharge,Batterie du portable en attente de décharge,Laptop-Akku ist bereit zur Entladung,بطارية الكمبيوتر المحمول في انتظار التفريغ
+Laptop battery low,Batterie du portable faible,Laptop-Akku fast leer,بطارية الكمبيوتر المحمول منخفضة
+Laptop battery not present,Batterie du portable absente,Laptop-Akku nicht vorhanden,بطارية الكمبيوتر المحمول غير موجودة
+Last full charge:,Dernière charge complète :,Letzte vollständige Ladung:,آخر شحن كامل:
+Lead acid,Batterie au plomb,Bleiakku (Pb),حمض الرصاص
+Lid has been closed,Fermeture de l'écran de l'ordinateur,Klappe wurde geschlossen,تم إغلاق الغطاء
+Lid has been opened,Ouverture de l'écran de l'ordinateur,Klappe wurde geöffnet,تم فتح الغطاء
+Lithium Ion,Lithium-ion,Lithium-Ionen (Li-Ion),ليثيوم ايون
+Lithium Iron Phosphate,Lithium phosphate de fer,Lithium-Eisenphosphat,ليثيوم فوسفات الحديد
+Lithium Polymer,Lithium polymère,Lithium-Polymer (LiPo),ليثيوم بوليمر
+Low Disk Space,Espace disque faible,Wenig Speicherplatz,مساحة التخزين منخفضة
+"Low Disk Space on ""%s""",Espace disque faible sur « %s »,Wenig Speicherplatz verfügbar auf »%s«,"مساحة القرص منخفضة على ""%s"""
+Marker supply low,Niveau d'encre bas dans une cartouche,Einer der Farbspeicher fast leer,عرض العلامة منخفض
+Media player battery low,Batterie de lecteur multimédia faible,Akku des Medienspielers ist fast leer,بطارية مشغل الوسائط منخفضة
+Media player is charged,Lecteur multimédia chargé,Medienspieler ist vollständig aufgeladen,مشغل الوسائط مشحون
+Media player is charging,Lecteur multimédia en charge,Medienspieler wird aufgeladen,مشغل الوسائط قيد الشحن
+Media player is discharging,Lecteur multimédia en décharge,Medienspieler wird entladen,مشغل الوسائط قيد التفريغ
+Media player is empty,Lecteur multimédia déchargé,Medienspieler ist vollständig entladen,مشغل الوسائط فارغ
+Media player is low in power (%.0f%%),Il reste peu d'autonomie au lecteur multimédia (%.0f %%),Medienspieler hat nur noch wenig Energie (%.0f%%),طاقة مشغل الوسائط منخفضة (%.0f%%)
+Media player is very low in power (%.0f%%). This device will soon stop functioning if not charged.,Il reste très peu d’autonomie au lecteur multimédia (%.0f %%). Il s’arrêtera bientôt de fonctionner s’il n’est pas rechargé.,"Die Medienwiedergabe hat eine sehr geringe Ladung (%.0f%%). Dieses Gerät wird bald aufhören zu funktionieren, wenn es nicht geladen wird.",بطارية الMedia Player منخفضة جداً (%.0f%%). سيتوقف هذا الجهاز قريبًا عن العمل إذا لم يتم شحنها.
+Missing,Absent,Fehlt,مفقود
+Missing printer driver,Pilote d'imprimante manquant,Fehlender Druckertreiber,برنامج تشغيل الطابعة مفقود
+Model:,Modèle :,Modell:,الموديل:
+Mouse battery low,Batterie de souris faible,Mausakku ist fast leer,بطارية الماوس منخفضة
+Mouse is charged,Souris chargée,Maus ist vollständig geladen,الماوس مشحون
+Mouse is charging,Souris en charge,Maus wird aufgeladen,الماوس قيد الشحن
+Mouse is discharging,Souris en décharge,Maus wird entladen,الماوس قيد التفريغ
+Mouse is empty,Souris déchargée,Maus ist leer,الماوس فارغ
+NSS security system could not be initialized,le système de sécurité NSS n'a pas pu être initialisé,Das NSS-Sicherheitssystem konnte nicht initialisiert werden,لا يمكن تهيئة نظام أمان NSS
+Nickel Cadmium,Nickel cadmium,Nickel-Cadmium (NiCd),نيكل كادميوم
+Nickel metal hydride,Nickel métal hydrure,Nickel-Metallhydrid (NiMH),هيدريد معدن النيكل
+No driver for this printer.,Aucun pilote pour cette imprimante.,Kein Treiber für diesen Drucker vorhanden.,لا يوجد برنامج تشغيل لهذه الطابعة.
+No printer driver for %s.,Aucun pilote d'impression pour %s.,Kein Druckertreiber für %s vorhanden.,برنامج تشغيل الطابعة %s غير موجود.
+Not connected?,Non connectée ?,Nicht angeschlossen?,غير متصلة؟
+Open Folder,Ouvrir le dossier,Ordner öffnen,فتح المجلد
+Open accessibility settings,Ouvrir les paramètres d'accessibilité,Barrierefreiheitseinstellungen öffnen,فتح إعدادات سهولة الوصول
+Out of a marker supply,Encre épuisée dans une cartouche,Eine Farbpatrone leer,خارج عرض العلامة
+Out of paper,Plus de papier,Papier leer,لا يوجد ورق
+PDA battery low,Batterie d'assistant personnel faible,PDA-Akku ist fast leer,بطارية PDA منخفضة
+PDA is charged,Assistant personnel chargé,PDA ist vollständig aufgeladen,PDA مشحون
+PDA is charging,Assistant personnel en charge,PDA wird aufgeladen,PDA قيد الشحن
+PDA is discharging,Assistant personnel en décharge,PDA wird entladen,PDA قيد التفريغ
+PDA is empty,Assistant personnel déchargé,PDA ist leer,PDA فارغ
+PDA is low in power (%.0f%%),Il reste peu d'autonomie à l'assistant personnel (%.0f %%),PDA hat nur noch wenig Energie (%.0f%%),طاقة المساعد الشخصي الرقمي منخفضة (%.0f%%)
+PDA is very low in power (%.0f%%). This device will soon stop functioning if not charged.,Il reste très peu d’autonomie à l’assistant personnel (%.0f %%). Il s’arrêtera bientôt de fonctionner s’il n’est pas rechargé.,"Der PDA hat eine sehr geringe Ladung (%.0f%%). Dieses Gerät wird bald aufhören zu funktionieren, wenn es nicht geladen wird.",بطارية الPDA منخفضة جداً (%.0f%%). سيتوقف هذا الجهاز قريبًا عن العمل إذا لم يتم شحنها.
+Paper low,Papier presque épuisé,Wenig Papier,الورق منخفض
+Percentage charge:,Pourcentage de charge :,Prozentanteil:,نسبة الشحن:
+Please install the 'orca' package.,Veuillez installer le paquet 'orca'.,Bitte das orca-Paket installieren,الرجاء تثبيت حزمة 'orca'.
+Please wait...,Veuillez patienter...,Bitte warten …,يرجى الانتظار...
+Plug in your AC adapter to avoid losing data.,Branchez l'alimentation pour éviter de perdre des données.,"Schließen Sie Ihr Netzteil an, um Datenverlust zu vermeiden.",قم بتوصيل محول التيار المتردد لتجنب فقدان البيانات.
+Poor,Faible,Dürftig,رديء
+Power,Énergie,Energie,الطاقة
+Power Manager,Gestionnaire d'énergie,Energieverwaltung,مدير الطاقة
+Printer '%s' has no toner left.,Le toner de l'imprimante « %s » est vide.,Drucker »%s« hat keinen Toner mehr.,الطابعة '%s' لا تحتوي على حبر.
+Printer '%s' is currently off-line.,L'imprimante « %s » est actuellement hors ligne.,Drucker »%s« ist momentan nicht betriebsbereit.,الطابعة '%s' غير متصلة حالياً.
+Printer '%s' is low on a marker supply.,Niveau d'encre bas dans une cartouche de l'imprimante « %s ».,Drucker »%s« hat keine Farbe mehr für mindestens einen Farbbehälter.,عرض العلامة في الطابعة '%s' منخفض.
+Printer '%s' is low on paper.,Papier presque épuisé dans l'imprimante « %s ».,Drucker »%s« hat wenig Papier.,ورق الطابعة '%s' منخفض.
+Printer '%s' is low on toner.,Le toner de l'imprimante « %s » est presque vide.,Drucker »%s« hat nur noch wenig Toner.,الطابعة '%s' الحبر منخفض.
+Printer '%s' is out of a marker supply.,Encre épuisée dans une cartouche de l'imprimante « %s ».,Drucker »%s« hat keine Farbe mehr für mindestens einen Farbbehälter.,الطابعة '%s' خارج مصدر العلامة.
+Printer '%s' is out of paper.,L'imprimante « %s » n'a plus de papier.,Drucker »%s« hat kein Papier mehr.,الطابعة '%s' ليس بها ورق.
+Printer '%s' may not be connected.,L'imprimante « %s » n'est peut-être pas connectée.,Drucker »%s« ist ggf. nicht angeschlossen.,الطابعة '%s' قد تكون غير متصلة.
+Printer '%s': '%s'.,Imprimante « %s » : « %s ».,Drucker »%s«: »%s«,الطابعة '%s': '%s'.
+Printer added,Imprimante ajoutée,Drucker hinzugefügt,تم إضافة طابعة
+Printer configuration error,Erreur de configuration de l'imprimante,Fehler in der Druckerkonfiguration,خطأ في تكوين الطابعة
+Printer error,Erreur d'imprimante,Druckerfehler,خطأ في الطابعة
+Printer off-line,Imprimante hors ligne,Drucker ausgeschaltet,الطابعة غير متصلة
+Printer report,Rapport de l'imprimante,Druckerbericht,تقرير الطابعة
+Printer warning,Alerte de l'imprimante,Druckerwarnung,تحذير الطابعة
+Printers,Imprimantes,Drucker,الطابعات
+Printing,Impression,es wird gedruckt,طباعة
+Printing aborted,Impression interrompue,Druckvorgang abgebrochen,أُجهِضت الطباعة
+Printing canceled,Impression annulée,Druckvorgang unterbrochen,أُلغِيت الطباعة
+Printing completed,Impression terminée,Druckvorgang abgeschlossen,تمت الطباعة
+Printing stopped,L'impression a été arrêtée,Druckvorgang angehalten,توقف الطباعة
+Product:,Produit :,Produkt:,المنتج:
+Recalibrate now,Recalibrer maintenant,Jetzt neu kalibrieren,إعادة معايرة الآن
+Recalibration required,Une recalibration est nécessaire,Neukalibrierung ist erforderlich,إعادة المعايرة مطلوبة
+Region and Language Settings,Paramètres régionaux et linguistiques,Einstellungen für Region und Sprache,إعدادات اللغة والمنطقة
+Screen reader not found.,Lecteur d'écran introuvable.,Bildschirmleser nicht gefunden,قارئ الشاشة غير موجود.
+"Select how to open ""%s"" and whether to perform this action in the future for other media of type ""%s"".",Choisissez comment ouvrir « %s » et indiquez si vous voulez effectuer cette opération dans le futur pour les autres médias du type « %s ».,"Legen Sie fest, wie »%s« geöffnet werden soll und ob dies in Zukunft für andere Medien vom Typ »%s« geschehen soll.","تحديد كيفية فتح ""%s"" وما إذا كنت ستقوم بتنفيذ هذا الإجراء في المستقبل لوسائط أخرى من نوع ""%s""."
+Serial number:,Numéro de série :,Seriennummer:,الرقم التسلسلي:
+Show Keyboard Layout...,Afficher l'agencement du clavier...,Tastaturbelegung zeigen …,عرض تخطيط لوحة المفاتيح...
+Status:,État :,Status:,الحالة:
+Tablet battery low,Batterie de tablette faible,Tablet-Akku fast leer,بطارية الجهاز اللوحي منخفضة
+Tablet is charged,Tablette chargée,Tablet ist vollständig aufgeladen,الجهاز اللوحي مشحون
+Tablet is charging,Tablette en charge,Tablet wird aufgeladen,الجهاز اللوحي قيد الشحن
+Tablet is discharging,Tablette en décharge,Tablet wird entladen,الجهاز اللوحي قيد التفريغ
+Tablet is empty,Tablette déchargée,Tablet ist leer,الجهاز اللوحي فارغ
+Tablet is low in power (%.0f%%),Il reste peu d'autonomie à la tablette (%.0f %%),Tablet hat nur noch wenig Energie (%.0f%%),طاقة الجهاز اللوحي منخفضة (%.0f%%)
+Tablet is very low in power (%.0f%%). This device will soon stop functioning if not charged.,Il reste très peu d’autonomie à la tablette (%.0f %%). Elle s’arrêtera bientôt de fonctionner si elle n’est pas rechargée.,"Das Tablet hat eine sehr geringe Ladung (%.0f%%). Dieses Gerät wird bald aufhören zu funktionieren, wenn es nicht geladen wird.",بطارية اللوحة منخفضة جداً (%.0f%%). سيتوقف هذا الجهاز قريبًا عن العمل إذا لم يتم شحنها.
+Technology:,Technologie :,Technik:,التقنية:
+The battery is below the critical level and this computer is about to hibernate.,La batterie est au-dessous de son niveau critique ; l'ordinateur va se mettre en hibernation.,Der Akkuladezustand ist im kritischen Bereich. Der Rechner wird deshalb nun in den Ruhezustand versetzt.,البطارية أقل من المستوى الحرج وهذا الكمبيوتر على وشك الإسبات.
+The battery is below the critical level and this computer is about to shutdown.,La batterie est au-dessous de son niveau critique ; l'ordinateur va s'éteindre.,Der Akkuladezustand ist im kritischen Bereich. Der Rechner wird deshalb nun heruntergefahren.,البطارية أقل من المستوى الحرج وهذا الكمبيوتر على وشك إيقاف التشغيل.
+"The battery is below the critical level and this computer is about to suspend.
+NOTE: A small amount of power is required to keep your computer in a suspended state.","La batterie est au-dessous de son niveau critique ; l'ordinateur va se mettre en veille.
+Note : une petite quantité d'énergie est nécessaire pour conserver l'ordinateur en état de veille.","Der Akkuladezustand ist unterhalb des kritischen Niveaus. Der Rechner wird deshalb gleich in Bereitschaft versetzt.
+Hinweis: Der Rechner benötigt auch in Bereitschaft weiterhin eine geringe Menge an Energie.","البطارية أقل من المستوى الحرج وهذا الكمبيوتر على وشك التعليق.
+ملاحظة: تحتاج إلى قدر ضئيل من الطاقة للحفاظ على جهاز الكمبيوتر الخاص بك في حالة التعليق."
+The battery is below the critical level and this computer will power-off when the battery becomes completely empty.,La batterie est au-dessous de son niveau critique ; l'ordinateur va s'éteindre dès que la batterie sera complètement vide.,"Der Akkuladezustand ist im kritischen Bereich. Der Rechner wird sich ausschalten, sobald der Akku vollständig entladen ist.",البطارية أقل من المستوى الحرج وسيقوم الكمبيوتر بإيقاف-الطاقة عندما تصبح البطارية فارغة تمامًا.
+The cover is open on printer '%s'.,Le capot de l'imprimante « %s » est ouvert.,Die Abdeckung des Druckers »%s« ist geöffnet.,غطاء الطابعة '%s' مفتوح.
+The display '%s' should be recalibrated soon.,L'écran « %s » devrait être recalibré prochainement.,Die Anzeige »%s« sollte bald neu kalibriert werden.,يجب إعاده معايرة العرض '%s' قريباً.
+The door is open on printer '%s'.,La porte de l'imprimante « %s » est ouverte.,Die Klappe des Druckers »%s« ist geöffnet.,باب الطابعة '%s' مفتوح.
+The printer '%s' should be recalibrated soon.,L'imprimante « %s » devrait être recalibré prochainement.,Der Drucker »%s« sollte bald neu kalibriert werden.,يجب إعادة معايرة الطابعة '%s' قريبًا.
+"The volume ""%s"" has only %s disk space remaining.",Le volume « %s » n'a plus que %s d'espace disque disponible.,Auf dem Datenträger »%s« ist nur noch %s Speicherplatz verfügbar.,"تحتوي وحدة التخزين ""%s"" على %s فقط من مساحة القرص المتبقية."
+"The volume ""%s"" has only %s disk space remaining.  You may free up some space by emptying the trash.",Le volume « %s » n'a plus que %s d'espace disque disponible. Vous pouvez libérer de l'espace en vidant la corbeille.,"Auf dem Datenträger »%s« ist nur noch %s Speicherplatz verfügbar. Sie können Speicherplatz freigeben, indem Sie den Papierkorb leeren.","تحتوي وحدة التخزين ""%s"" على %s فقط من مساحة القرص المتبقية. يمكنك تحرير بعض المساحة عن طريق إفراغ سلة المهملات."
+There is a missing print filter for printer '%s'.,Un filtre d'impression est manquant pour l'imprimante « %s ».,Druckerfilter für den Drucker »%s« fehlt.,الطابعة '%s' يوجد بها فلتر طباعة مفقود.
+There is a problem on printer '%s'.,L'imprimante « %s » a un problème.,Es besteht ein Problem mit dem Drucker »%s«.,الطابعة '%s' توجد بها مشكلة.
+This computer has only %s disk space remaining.,Cet ordinateur n'a plus que %s d'espace disque disponible.,Auf diesem Rechner ist nur noch %s Speicherplatz verfügbar.,يحتوي هذا الكمبيوتر على مساحة قرص %s متبقية فقط.
+This computer has only %s disk space remaining.  You may free up some space by emptying the trash.,Cet ordinateur n'a plus que %s d'espace disque disponible. Vous pouvez libérer de l'espace en vidant la corbeille.,"Auf diesem Rechner ist nur noch %s Speicherplatz verfügbar. Sie können Speicherplatz freigeben, indem Sie den Papierkorb leeren.",يحتوي هذا الكمبيوتر على مساحة قرص %s متبقية فقط. يمكنك تحرير بعض المساحة عن طريق إفراغ سلة المهملات.
+Toner empty,Le toner est vide,Toner leer,الحبر فارغ
+Toner low,Toner presque vide,Wenig Toner,الحبر منخفض
+UPS Discharging,Onduleur en décharge,USV wird entladen,تفريغ UPS
+UPS critically low,Onduleur très faible,Kritischer Ladezustand der Notstromversorgung,UPS منخفض للغاية
+UPS is below the critical level and this computer is about to hibernate.,L'onduleur est au-dessous de son niveau critique ; l'ordinateur va se mettre en hibernation.,Der Ladezustand der Notstromversorgung ist im kritischen Bereich. Der Rechner wird deshalb nun in den Ruhezustand versetzt.,طاقة UPS أقل من المستوى الحرج وهذا الكمبيوتر على وشك الإسبات.
+UPS is below the critical level and this computer is about to shutdown.,L'onduleur est au-dessous de son niveau critique ; l'ordinateur va s'éteindre.,Der Ladezustand der Notstromversorgung ist im kritischen Bereich. Der Rechner wird deshalb nun heruntergefahren.,طاقة UPS أقل من المستوى الحرج وهذا الكمبيوتر على وشك إيقاف التشغيل.
+UPS is below the critical level and this computer will power-off when the UPS becomes completely empty.,L'onduleur est au-dessous de son niveau critique ; l'ordinateur va s'éteindre dès que l'onduleur sera complètement vide.,"Der Ladezustand der Notstromversorgung ist im kritischen Bereich. Der Rechner wird sich ausschalten, wenn sie vollständig entladen ist.",طاقة UPS أقل من المستوى الحرج وسيقوم الكمبيوتر بإيقاف-الطاقة عندما يصبح جهاز UPS فارغًا تمامًا.
+UPS is charged,Onduleur chargé,USV ist vollständig aufgeladen,UPS مشحون
+UPS is charging,Onduleur en charge,USV wird aufgeladen,UPS قيد الشحن
+UPS is discharging,Onduleur en décharge,USV wird entladen,UPS قيد التفريغ
+UPS is empty,Onduleur déchargé,USV ist leer,UPS فارغ
+UPS low,Onduleur faible,USV fast leer,UPS منخفض
+Unable to eject %p,Impossible d'éjecter %p,%p kann nicht ausgeworfen werden,غير قادر على إخراج %p
+Unable to mount %s,Impossible de monter %s,%s kann nicht eingehängt werden,غير قادر على تحميل %s
+Unable to open a folder for %s,Impossible d'ouvrir un dossier pour %s,Für »%s« kann kein Ordner geöffnet werden,غير قادر على فتح مجلد %s
+Unable to unmount %p,Impossible de démonter %p,%p kann nicht ausgehängt werden,غير قادر على إلغاء تحميل %p
+Unknown,Inconnu,Unbekannt,غير معروف
+Unknown technology,Technologie inconnue,Unbekannte Technologie,تقنية غير معروفة
+Unknown time,Temps inconnu,Unbekannte Zeit,وقت غير معروف
+Vendor:,Marque :,Hersteller:,البائع:
+Waiting to charge,En attente de charge,Wartet auf Aufladung,في انتظار الشحن
+Waiting to discharge,En attente de décharge,Wartet auf Entladung,في انتظار التفريغ
+Wireless keyboard is low in power,Il reste peu d’autonomie au clavier sans fil,Die drahtlose Tastatur hat eine sehr geringe Ladung.,بطارية لوحة المفاتيح الغير سلكي منخفضة
+Wireless keyboard is very low in power. This device will soon stop functioning if not charged.,Il reste très peu d’autonomie au clavier sans fil. Il s’arrêtera bientôt de fonctionner s’il n’est pas rechargé.,"Die drahtlose Tastatur hat eine sehr geringe Ladung. Dieses Gerät wird bald aufhören zu funktionieren, wenn es nicht aufgeladen wird.","بطارية لوحة الفاتيح الغير سلكية منخفضة جداً, سيتوقف هذا الجهاز قريبًا عن العمل إذا لم يتم شحنها."
+Wireless mouse is low in power,Il reste peu d’autonomie à la souris sans fil,Die drahtlose Maus hat eine sehr geringe Ladung.,بطارية الماوس الغير سلكي منخفض
+Wireless mouse is very low in power. This device will soon stop functioning if not charged.,Il reste très peu d’autonomie à la souris sans fil. Elle s’arrêtera bientôt de fonctionner si elle n’est pas rechargée.,"Die drahtlose Maus hat eine sehr geringe Ladung. Dieses Gerät wird bald aufhören zu funktionieren, wenn es nicht aufgeladen wird.","بطارية الماوس الغير سلكية منخفضة جداً, سيتوقف هذا الجهاز قريبًا عن العمل إذا لم يتم شحنها."
+"You can free up disk space by emptying the Trash, removing unused programs or files, or moving files to an external disk.","Vous pouvez libérer de l'espace disque en vidant la corbeille, en supprimant des logiciels ou des fichiers inutilisés ou bien en déplaçant des fichiers vers un disque externe.","Sie können Plattenplatz frei machen, indem Sie den Papierkorb leeren, ungenutzte Programme oder Dateien löschen oder Dateien auf einen externen Datenträger verschieben.",يمكنك تحرير مساحة القرص عن طريق إفراغ سلة المهملات، وإزالة البرامج أو الملفات غير المستخدمة، أو نقل الملفات إلى قرص خارجي.
+"You can free up disk space by emptying the Trash, removing unused programs or files, or moving files to another disk or partition.","Vous pouvez libérer de l'espace disque en vidant la corbeille, en supprimant des logiciels ou fichiers inutilisés ou en déplaçant des fichiers vers un autre disque ou une autre partition.","Sie können Plattenplatz frei machen, indem Sie den Papierkorb leeren, ungenutzte Programme oder Dateien löschen oder Dateien auf eine andere Festplatte oder eine andere Partition verschieben.",يمكنك تحرير مساحة القرص عن طريق إفراغ سلة المهملات، أو إزالة البرامج أو الملفات غير المستخدمة، أو نقل الملفات إلى قرص أو قسم آخر.
+"You can free up disk space by removing unused programs or files, or by moving files to an external disk.",Vous pouvez libérer de l'espace disque en supprimant des logiciels ou des fichiers inutilisés ou bien en déplaçant des fichiers vers un disque externe.,"Sie können Plattenplatz frei machen, indem Sie ungenutzte Programme oder Dateien löschen oder Dateien auf einen externen Datenträger verschieben.",يمكنك تحرير مساحة القرص عن طريق إزالة البرامج أو الملفات غير المستخدمة أو نقل الملفات إلى قرص خارجي.
+"You can free up disk space by removing unused programs or files, or by moving files to another disk or partition.",Vous pouvez libérer de l'espace disque en supprimant des logiciels ou des fichiers inutilisés ou bien en déplaçant des fichiers vers un autre disque ou une autre partition.,"Sie können Plattenplatz frei machen, indem Sie ungenutzte Programme oder Dateien löschen oder Dateien auf eine andere Festplatte oder eine andere Partition verschieben.",يمكنك تحرير مساحة القرص عن طريق إزالة البرامج أو الملفات غير المستخدمة أو نقل الملفات إلى قرص أو قسم آخر.
+You have just inserted a Photo CD.,Vous venez d'insérer un CD photos.,Sie haben soeben eine Foto-CD eingelegt.,لقد قمت بإدخال قرص CD صورة فوتوغرافية.
+You have just inserted a Picture CD.,Vous venez d'insérer un CD images.,Sie haben soeben eine Bilder-CD eingelegt.,لقد قمت بإدخال قرص CD صور.
+You have just inserted a Super Video CD.,Vous venez d'insérer un disque SVCD.,Sie haben soeben eine Super-Video-CD eingelegt.,لقد قمت بإدخال قرص CD فيديو سوبر.
+You have just inserted a Video CD.,Vous venez d'insérer un CD vidéo.,Sie haben soeben eine Video-CD eingelegt.,لقد قمت بإدخال قرص CD فيديو.
+You have just inserted a Video DVD.,Vous venez d'insérer un DVD vidéo.,Sie haben soeben eine Video-DVD eingelegt.,لقد قمت بإدخال قرص DVD فيديو.
+You have just inserted a blank Blu-Ray disc.,Vous venez d'insérer un disque Blu-ray vierge.,Sie haben soeben ein leeres Blu-Ray-Medium eingelegt.,لقد قمت بإدخال قرص Blu-ray فارغ.
+You have just inserted a blank CD.,Vous venez d'insérer un CD vierge.,Sie haben soeben eine leere CD eingelegt.,لقد قمت بإدخال قرص CD فارغ.
+You have just inserted a blank DVD.,Vous venez d'insérer un DVD vierge.,Sie haben soeben eine leere DVD eingelegt.,لقد قمت بإدخال قرص DVD فارغ.
+You have just inserted a blank HD DVD.,Vous venez d'insérer un DVD HD vierge.,Sie haben soeben eine leere HD-DVD eingelegt.,لقد قمت بإدخال قرص DVD HD فارغ.
+You have just inserted a digital audio player.,Vous venez d'insérer un lecteur audio numérique.,Sie haben gerade ein digitales Tonwiedergabegerät angeschlossen.,لقد قمت بإدخال مشغل صوت رقمي.
+You have just inserted a medium with digital photos.,Vous venez d'insérer un support de photos numériques.,Sie haben soeben einen Datenträger mit digitalen Fotos eingelegt.,لقد قمت بإدخال وسيطة مع الصور الرقمية.
+You have just inserted a medium with software intended to be automatically started.,Vous venez d'insérer un média avec un logiciel prévu pour être lancé automatiquement.,"Sie haben soeben einen Datenträger mit Programmen eingelegt, welche automatisch ausgeführt werden sollen.",لقد قمت بإدخال وسيطة تحتوي على برنامج مخصص لبدء التشغيل التلقائي
+You have just inserted a medium.,Vous venez d'insérer un média.,Sie haben soeben einen Datenträger eingelegt.,لقد قمت بإدخال وسيطة.
+You have just inserted an Audio CD.,Vous venez d'insérer un CD audio.,Sie haben soeben eine Audio-CD eingelegt.,لقد قمت بإدخال قرص CD صوتي.
+You have just inserted an Audio DVD.,Vous venez d'insérer un DVD audio.,Sie haben soeben eine Audio-DVD eingelegt.,لقد قمت بإدخال قرص DVD صوتي.
+Always perform this action,Toujours effectuer cette action,Immer diese Aktion ausführen,تنفيذ هذا الإجراء دائما
+Cancel,Annuler,Abbrechen,إلغاء
+Eject,Éjecter,Auswerfen,إخراج
+Layouts,Agencements,Belegungen,التخطيطات
+Ok,Valider,OK,موافق
+Unmount,Démonter,Aushängen,إلغاء التحميل
+could not watch for incoming card events - %s,impossible de surveiller les événements entrants de carte à puce - %s,Überwachung auf eingehende Karten-Ereignisse ist fehlgeschlagen - %s,لا يمكن مشاهدة أحداث البطاقات الواردة - %s
+encountered unexpected error while waiting for smartcard events,erreur inattendue rencontrée lors de l'attente des événements de la carte à puce,Unerwarteter Fehler trat beim Warten auf eingehende Karten-Ereignisse auf,حدث خطأ غير متوقع أثناء انتظار أحداث البطاقة الذكية
+no suitable smartcard driver could be found,impossible de trouver un pilote de carte à puce adapté,Es konnte kein passender Smartcard-Treiber gefunden werden,لا يمكن العثور على برنامج تشغيل البطاقة الذكية المناسبة
+provides %s battery runtime,fournit %s de temps d'utilisation de la batterie,Stellt %s Akkulaufzeit zur Verfügung,يوفر وقت تشغيل البطارية %s
+provides %s laptop runtime,fournit %s de temps d'utilisation de l'ordinateur,Ermöglicht %s Akkulaufzeit,يوفر وقت تشغيل الكمبيوتر المحمول %s
+received error or hang up from event source,réception d'une erreur ou source d'événement déconnectée,Fehler empfangen oder Abbruch seitens der Ereignisquelle,تلقي خطأ أو تعليق من مصدر الحدث
+smartcard driver '%s' could not be loaded,le pilote de carte à puce « %s » n'a pas pu être chargé,Smartcard-Treiber »%s« konnte nicht geladen werden,تعذر تحميل برنامج تشغيل البطاقة الذكية '%s'
