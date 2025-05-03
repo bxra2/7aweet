@@ -1,0 +1,621 @@
+
+"%s: Invalid variable name, can not start with a digit","%s : nom de variable invalide, ne peut commencer par un chiffre","%s: Ungültiger Variablenname, darf nicht mit einer Ziffer beginnen",%s: اسم متغير غير صالح. يجب ألا يبدأ برقم
+"%s: Invalid variable name, can only contain digits, letters and underscores","%s : nom de variable invalide, ne peut contenir que des chiffres, des lettres et tirets du bas","%s: Ungültiger Variablenname, darf nur Ziffern, Buchstaben und Unterstriche enthalten",%s: اسم متغير غير صالح. يجب أن يحوي أرقام وأحرف وتسطير سفلي فقط
+"0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F","0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F","0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F","٠,١,٢,٣,٤,٥,٦,٧,٨,٩,أ,ب,ج,د,ه,و"
+16-bit,16 bits,16-bit,16 بت
+32-bit,32 bits,32-bit,32 بت
+64-bit,64 bits,64-bit,64 بت
+8-bit,8 bits,8-bit,8 بت
+=,=,=,=
+About Calculator,À propos de Calculatrice,Info zu Taschenrechner,عن الآلة حاسبة
+Absolute Value [|],Valeur absolue [|],Absoluter Wert [|],القيمة المطلقة [|]
+Absolute value,Valeur absolue,Absoluter Wert,القيمة المطلقة
+Accuracy value,Précision,Genauigkeitswert,درجة الدقة
+Acres,Acres,Acre,فدان
+Add [+],Addition [+],Addieren [+],أضِف [+]
+Additional Functions,Fonctions supplémentaires,Zusätzliche Funktionen,دوال إضافية
+Advanced,Avancé,Erweitert,متقدم
+Advanced Mode,Mode avancé,Erweiterter Modus,الوضع المتقدم
+Algerian Dinar,Dinar algérien,Algerische Dinar,دينار جزائري
+Angle,Angle,Winkel,الزاوية
+Angle units,Unités d’angle,Winkeleinheiten,وحدات الزوايا
+Arc cosine,Arc cosinus,Arkuskosinus,قوس جيب التمام
+Arc sine,Arc sinus,Arkussinus,قوس الجيب
+Arc tangent,Arc tangente,Arkustangens,قوس الظل
+Arctangent function is undefined for values i and -i,La fonction d’arc tangente n’est pas définie pour les valeurs i et -i,Arkustangens ist nicht für die Werte i und -i definiert,قوس الظل غير معرف للقيمتين i و-i
+Are you sure you want to close all open windows?,Voulez-vous vraiment fermer toutes les fenêtres ouvertes ?,"Sind Sie sicher, dass Sie alle geöffneten Fenster schließen wollen?",هل أنت متأكد أنك تريد إغلاق كافة النوافذ المفتوحة؟
+Area,Surface,Fläche,المساحة
+Argentine Peso,Peso argentin,Argentinische Peso,بيزو أرجنتيني
+Argument,Argument,Argument,معطى
+Argument not defined for zero,L’argument d’un nombre complexe nul est indéfini,Das Argument ist für null nicht definiert,المعطى غير معرف لصفر
+Astronomical Units,Unités astronomiques,Astronomische Einheiten,وحدة فلكية
+Australian Dollar,Dollar australien,Australische Dollar,دولار استرالي
+BTU,BTU,BTU,وحدة حرارية بريطانية
+Backspace,Retour arrière,,إرتداد
+Bahraini Dinar,Dinar bahreïni,Bahrain-Dinar,دينار بحريني
+Bangladeshi Taka,Taka du Bengladesh,Bangladeshi Taka,تاكا بنغلاديشي
+Bank of Canada,Banque du Canada,Bank von Kanada,بنك كندا
+Bar,Bar,,بار
+"Bar,bar","Bar, bar",,"بار,بار"
+Basic,Basique,Standard,أساسي
+Basic Mode,Mode basique,Standardmodus,الوضع الأساسي
+Binary,Binaire,Binär,ثنائي
+Binary Logarithm,Logarithme binaire,Zweierlogarithmus,لوغاريتم ثنائي
+Bits,Bits,Bit,بت
+Boolean AND,AND (ET) booléen,Boolesches UND,«و» منطقية
+Boolean AND is only defined for positive integers,Le AND (ET) booléen n’est défini que pour des entiers positifs,Boolesches UND ist nur für positive Ganzzahlen definiert,يتم تعريف AND المنطقي فقط للأعداد الصحيحة الموجبة
+Boolean Exclusive OR,OR (OU) exclusif booléen,Boolesches exklusives ODER,«أو» حصرية منطقية
+Boolean NOT,NOT (NON) booléen,Boolesches NICHT,«ليس» منطقية
+Boolean NOT is only defined for positive integers,Le NOT (NON) booléen n’est défini que pour des entiers positifs,Boolesches NICHT ist nur für positive Ganzzahlen definiert,يتم تعريف NOT المنطقي فقط للأعداد الصحيحة الموجبة
+Boolean OR,OR (OU) booléen,Boolesches ODER,«أو» منطقية
+Boolean OR is only defined for positive integers,Le OR (OU) booléen n’est défini que pour des entiers positifs,Boolesches ODER ist nur für positive Ganzzahlen definiert,يتم تعريف OR المنطقي فقط للأعداد الصحيحة الموجبة
+Boolean XOR is only defined for positive integers,Le XOR (OU exclusif) booléen n’est défini que pour des entiers positifs,Boolesches exklusives ODER ist nur für positive Ganzzahlen definiert,يتم تعريف XOR المنطقي فقط للأعداد الصحيحة الموجبة
+Botswana Pula,Pula botswanais,Botswana-Pula,بولا بتسواني
+Brazilian Real,Réal brésilien,Brasilianische Real,ريال برازيلي
+British Pound Sterling,Livre sterling,Britische Pfund Sterling,جنيه إسترليني
+Brunei Dollar,Dollar de Brunei,Brunei-Dollar,دولار بروناي
+Built-in keywords,Mots-clés intégrés,Eingebaute Schlüsselwörter,الكلمات المفتاحية المضمنة
+Bulgarian Lev,Lev bulgare,Bulgarische Lewa,ليف بلغاري
+Button mode,Mode des boutons,Knopfmodus,وضع الزر
+Bytes,Octets,Byte,بايت
+CFA Franc,Franc CFA,CFA-Franc,فرنك أفريقي
+Calculate,Calculer,Berechnen,احسب
+Cables,Encablures,Kabel,كابل
+Calculate Result,Calcule le résultat,Ergebnis berechnen,احسب النتيجة
+"Calculates the amount of the periodic payment of a loan, where payments are made at the end of each payment period.",Calcule le montant du versement périodique pour le remboursement d’un emprunt dans lequel les paiements sont effectués à terme échu.,Berechnet die Höhe der periodischen Abzahlungsrate für einen Kredit bei Zahlungen am Ende jedes Zahlungszeitraums.,يحسب مقدار الدفع الدوري لقرض، حيث تُؤدّى الدفعات في نهاية كل فترة دفع.
+"Calculates the depreciation allowance on an asset for a specified period of time, using the Sum-of-the-Years’-Digits method. This method of depreciation accelerates the rate of depreciation, so that more depreciation expense occurs in earlier periods than in later ones. The useful life is the number of periods, typically years, over which an asset is depreciated.","Calcule la dotation aux amortissements pour un actif sur une période donnée de temps avec la méthode d’amortissement comptable Softy. Cette méthode accélère le taux d’amortissement : les dotations sont plus élevées en début de période qu’en fin. La durée de vie représente le nombre de périodes, généralement annuelles, sur lesquelles l’actif est amorti.","Berechnet den zulässigen Abschreibungssatz eines Wirtschaftsguts für einen gegebenen Zeitraum nach der Sum-of-the-Years-Digits-Methode. Diese Methode erhöht die Abschreibungsrate so, dass in zeitnahen Perioden mehr Abschreibungskosten entstehen als in zeitferneren Perioden. Die sinnvolle Lebenszeit ist die Anzahl der Perioden, typischerweise Jahre, in denen das Wirtschaftsgut abgeschrieben wird.",يحسب بدل الاستهلاك على الأصل لفترة محددة من الوقت باستخدام طريقة مجموع أرقام السنوات. طريقة الإهلاك هذه تسرع معدل الإهلاك، بحيث يحدث زيادة في مصروف الإهلاك في الفترات السابقة أكثر منه في الفترات اللاحقة. العمر الإنتاجي هو عدد الفترات التي يتم خلالها استهلاك الأصل، والتي عادة ما تكون سنوات.
+"Calculates the depreciation allowance on an asset for a specified period of time, using the double-declining balance method.",Calcule la dotation aux amortissements pour un actif sur une période donnée de temps avec la méthode d’amortissement dégressif à taux double.,Berechnet nach der geometrisch-degressiven Abschreibungsmethode den zulässigen Abschreibungssatz eines Wirtschaftsguts für einen gegebenen Zeitraum.,يحسب بدل الإهلاك على الأصل لفترة زمنية محددة، باستخدام أسلوب القسط المتناقص المزدوج
+Calculates the future value of an investment based on a series of equal payments at a periodic interest rate over the number of payment periods in the term.,"Calcule la valeur à venir d’un placement, constitué par une série de versements égaux rémunérés à taux d’intérêt fixe par période durant le nombre de périodes prévues pour le mener à terme.",Berechnet den zukünftigen Wert (Zielwert) einer Investition bei regelmäßigen Zahlungen und einem periodischen Zinssatz über die Anzahl der Zahlungsperioden der Laufzeit.,يحسب القيمة المستقبلية للاستثمار على أساس سلسلة من الدفعات المتساوية بمعدل فائدة دوري على عدد فترات الدفع في الفصل.
+"Calculates the number of compounding periods necessary to increase an investment of present value to a future value, at a fixed interest rate per compounding period.",Calcule le nombre de périodes de composition nécessaires pour porter un investissement d’une valeur de départ à une valeur donnée à terme compte tenu d’un taux d’intérêt fixe par période de composition.,"Berechnet die Anzahl der Perioden, die benötigt werden, um eine Investition von dem aktuellen Wert auf einen Zielwert bei einem festen Zinssatz pro Zinsperiode anwachsen zu lassen.",حساب عدد فترات التركيب اللازمة لزيادة استثمار القيمة الحالية إلى قيمة مستقبلية، بمعدل فائدة ثابت لكل فترة تركيب.
+"Calculates the number of payment periods that are necessary during the term of an ordinary annuity, to accumulate a future value, at a periodic interest rate.","Calcule le nombre d’échéances nécessaires sur une durée de rente ordinaire, pour accumuler un capital à terme, à un taux d’intérêt périodique donné.","Berechnet die Anzahl der Zahlungsperioden, die bei einer normalen Annuität und einem periodischen Zinssatz benötigt werden, um einen zukünftigen Zielwert zu erreichen.",يحسب عدد فترات الدفع الضرورية خلال فصل القسط السنوي العادي لتجميع قيمة مستقبلية بمعدل فائدة دوري.
+"Calculates the periodic interest necessary to increase an investment to a future value, over the number of compounding periods.",Calcule le taux d’intérêt par période nécessaire pour porter un investissement à une valeur donnée à terme compte tenu du nombre de périodes de composition.,"Berechnet den periodischen Zinssatz, der benötigt wird, um eine Investition über die Anzahl der Perioden auf einen Zielwert anwachsen zu lassen.",يحسب الفائدة الدورية اللازمة لزيادة الاستثمار إلى قيمة مستقبلية على عدد الفترات المركبة.
+Calculates the present value of an investment based on a series of equal payments discounted at a periodic interest rate over the number of payment periods in the term.,Calcule la valeur initiale d’un investissement fondé sur une série de paiements égaux escomptés avec un taux d’intérêt périodique donné compte tenu du nombre de périodes de versement jusqu’à son terme.,Berechnet den Barwert (gegenwärtigen Wert) einer Investition bei regelmäßigen Zahlungen und einem periodischen Zinssatz über die Anzahl der Zahlungsperioden der Laufzeit.,يحسب القيمة الحالية للاستثمار بناءً على سلسلة من الدفعات المتساوية المخصومة بمعدل فائدة دوري على عدد فترات الدفع في الفصل.
+"Calculates the resale price of a product, based on the product cost and the wanted gross profit margin.",Calcule le prix de vente d’un produit compte tenu du coût de production et de la marge brute souhaitée.,Berechnet den Wiederverkaufspreis eine Produktes basierend auf den Produktkosten und der gewünschten Bruttogewinnspanne.,يحسب سعر إعادة بيع المنتج، استنادًا إلى تكلفة المنتج وهامش الربح الإجمالي المطلوب.
+"Calculates the straight-line depreciation of an asset for one period. The straight-line method of depreciation divides the depreciable cost evenly over the useful life of an asset. The useful life is the number of periods, typically years, over which an asset is depreciated.","Calcule l’amortissement linéaire d’un actif sur une période donnée. Cette méthode répartit la valeur d’amortissement de manière uniforme sur la durée de vie utile de l’actif. La vie utile correspond au nombre de périodes, généralement annuelles, sur lesquelles l’actif est amorti.","Berechnet die lineare Abschreibungsrate eines Wirtschaftsguts pro Periode. Die Methode der linearen Abschreibung teilt die Gesamtabschreibung über einen gewissen Zeitraum gleichmäßig auf jede einzelne Periode auf. Die sinnvolle Lebenszeit des Abschreibungsobjekts ist die Anzahl der Perioden, typischerweise Jahre, in denen das Wirtschaftsgut abgeschrieben wird.",يحسب الإهلاك بطريقة القسط الثابت للأصل لفترة واحدة. طريقة القسط الثابت للإهلاك تقسم التكلفة القابلة للإهلاك بالتساوي على مدى العمر الإنتاجي للأصل. العمر الإنتاجي هو عدد الفترات التي يتم خلالها استهلاك الأصل، والتي عادة ما تكون سنوات.
+Calculating,Calcul en cours,Berechnung läuft,يحسب
+Calculator,Calculatrice,Taschenrechner,آلة حاسبة
+"Calculator is an application that solves mathematical equations. Though it at first appears to be a simple calculator with only basic arithmetic operations, you can switch into Advanced, Financial, or Programming mode to find a surprising set of capabilities.","La Calculatrice est une application pour résoudre des équations mathématiques. Bien qu’elle apparaisse initialement comme une simple calculatrice avec uniquement les opérations arithmétiques de base, vous pouvez basculer dans les modes Avancé, Financier ou Programmation pour découvrir un nombre surprenant de fonctionnalités.","Taschenrechner ist ein Programm zum Lösen von mathematischen Gleichungen. Obwohl die Anwendung auf den ersten Blick wie ein simpler Taschenrechner mit nur einfachen arithmetischen Operationen erscheint, kann in einen erweiterten, einen finanztechnischen und einen Informatik-Modus umgeschaltet werden, in denen sich überraschende Fähigkeiten befinden.",آلة الحاسبة هي تطبيق يحل المعادلات الرياضيّة. بالرغم من أنّها تبدو في البداية آلة حاسبة بسيطة تقوم بعمليات حسابية بسيطة، ألا إنه يمكنك التحويل للوضع المتقدم أو المالي أو البرمجي لتكتشف مجموعة مدهشة من الإمكانيات
+Calorie,Calorie,Kalorie,سعرة حرارية
+Canadian Dollar,Dollar canadien,Kanadische Dollar,دولار كندي
+Ceiling,Partie entière supérieure,Aufrundung,سقف
+Celsius,Degré Celsius,Celsius,مئوية
+Centimeters,Centimètres,Zentimeter,سنتيمتر
+Centuries,Siècles,Jahrhunderte,قرن
+Change Word Size,Modifier la taille de mot,,غير حجم الكلمة
+Character,Caractère,Zeichen,محرف
+Chilean Peso,Peso chilien,Chilenische Peso,بيزو تشيلي
+Chinese Yuan,Yuan chinois,Chinesische Yuan,يوان صيني
+Clear Display [Escape],Efface l’affichage [Échap],Die Anzeige löschen [Escape],امسح الشاشة [Escape]
+Clear history,Purger l’historique,Chronik leeren,مسح السجل
+Close All?,Tout fermer ?,Alle schließen?,أَأُغلق الكل؟
+Close All,Tout fermer,Alle schließen,أغلق الكل
+Close current window,Fermer la fenêtre actuelle,Das aktuelle Fenster schließen,أغلق النافذة الحالية
+Colombian Peso,Peso colombien,Kolumbianische Peso,بيزو كولومبي
+Complex Argument,Argument complexe,Komplexes Argument,عمدة عدد مركّب
+Complex Conjugate,Complexe conjugué,Komplexe Konjugation,مرافق عدد مركّب
+Compounding Term,Durée de capitalisation,Wachstumsdauer,جزء مركّب
+Conjugate,Conjugué,Konjugation,مرافق
+Conversion,Conversion,,التحويل
+Copy,Copier,Kopieren,نسخ
+Copy result to clipboard,Copier le résultat dans le presse-papiers,Ergebnis in die Zwischenablage kopieren,نسخ النتيجة إلى الحافظة
+Cosine,Cosinus,Kosinus,جيب التمام
+Cost,Coût,,التكلفة
+Croatian Kuna,Kuna croate,Kroatische Kuna,كونا كرواتي
+Ctrm,Durée,KTrm,ممرك
+Cubic Meters,Mètre cube,Kubikmeter,متر مكعب
+Currency,Devise,Währung,العملة
+Currency Conversion,Conversion monétaire,,تحويل العملة
+Currency of the current calculation,Devise des calculs actuels,Währung der aktuellen Berechnung,عملة الحساب الحالي
+Currency to convert the current calculation into,Devise de conversion du calcul en cours,"Währung, in welche die aktuelle Berechnung umgewandelt werden soll",العملة التي يحول الحساب الحالي لها
+Currency update interval,Intervalle de mise à jour des devises,Aktualisierungsintervall von Währungen,الفاصل الزمني لتحديث العملة
+Czech Koruna,Couronne tchèque,Tschechische Kronen,كرونة تشيكية
+Daily,Tous les jours,Täglich,يومي
+Danish Krone,Couronne danoise,Dänische Kronen,كرونة دنماركية
+Days,Jours,Tage,يوم
+Ddb,Amort. DD,Ddb,إتم
+Decades,Décénies,Jahrzehnte,عقد
+Decimal,Décimal,Dezimal,عشري
+Defined Functions,Fonctions définies,Definierte Funktionen,الدوال المُعرّفة
+Defined Variables,Variables définies,Definierte Variablen,المتغيرات المُعرّفة
+Defined currencies,Monnaies définies,Definierte Währungen,العملات المُعرّفة
+Degrees,Degrés,Grad,درجة
+Desktop Publishing Point,Point pica,DTP-Punkt,نقطة النشر المكتبي
+Digital Storage,Stockage numérique,Digitaler Datenspeicher,التخزين الرقمي
+Displayed value not an integer,La valeur affichée n’est pas un entier,Angezeigter Wert ist keine Ganzzahl,اعرض قيمة بدلا من عدد صحيح
+Divide (÷),Division (÷),Dividieren (÷),اقسم (÷)
+Divide [/],Division [/],Dividieren [/],قسمة [\]
+Division by zero is undefined,La division par zéro n’est pas définie,Division durch null ist nicht definiert,القسمة على الصفر غير معرفة
+Double Declining Depreciation,Amortissement dégressif à taux double,Degressive Doppelratenabschreibung,إهلاك القسط المتناقص المزدوج
+Double-Declining Depreciation,Amortissement dégressif à taux double,Geometrisch-degressive Abschreibung,إهلاك القسط المتناقص المزدوج
+Duration,Temps,Dauer,المدة
+Exchange Rate Refresh Interval,Intervalle de rafraîchissement des taux de change,,الفاصل الزمني لتحديث سعر الصرف
+End Group [)],Fin de groupement [)],Block schließen [)],نهاية مجموعة [)]
+Energy,Énergie,Energie,الطاقة
+Enter numbers in scientific format,Entrer des nombres en écriture scientifique,Zahlen in wissenschaftlichem Format eingeben,ادخل الأرقام بالهئية العلمية
+Erg,Erg,Erg,إرغ
+Error: the number of periods must be positive,Erreur : le nombre d’échéances doit être positif,Fehler: Die Zahl der Perioden muss positiv sein,خطأ: يجب أن يكون عدد الأزمنة موجب
+Estonian Kroon,Couronne estonienne,Estnische Kronen,كرونة استونية
+Euler’s Number,Nombre d’Euler,Eulersche Zahl,رقم أويلر
+Euro,Euro,Euro,يورو
+European Central Bank,Banque Centrale Européenne,Europäische Zentralbank,البنك المركزي الأوروبي
+Exabits,Exabits,Exabit,إكسابت
+Exabytes,Exaoctets,Exabyte,إكسابايت
+Exbibits,Exbibits,Exbibit,إكسبيبت
+Exbibytes,Exbioctets,Exbibyte,إكسبيبايت
+Exchange rate data providers,Fournisseurs de données sur les taux de change,Datenquellen für Wechselkurse,مزودي بيانات أسعار الصرف
+Exchange rates data by %s,Données sur les taux de change fournies par %s,Wechselkursdaten von %s,بيانات أسعار الصرف بواسطة %s
+Exponent [^ or **],Exposant [^ ou **],Exponent [^ oder **],أس [^ أو **]
+Factorial [!],Factorielle [!],Fakultät [!],عاملي [!]
+Factorial is only defined for non-negative real numbers,La factorielle n’est définie que pour les réels positifs,Fakultäten sind nur für nichtnegative ganze Zahlen definiert,المضروب يكون معرَّفًا للأرقام الحقيقية غير السالبة فقط
+Factorize [Ctrl+F],Factoriser [Ctrl+F],Faktorisieren [Strg+F],حلل [Ctrl+F]
+Fahrenheit,Fahrenheit,Fahrenheit,فهرنهايت
+Fathoms,Brasses,Klafter,قامة
+Feet,Pieds,Fuß,قدم
+Feet per second,Pieds par seconde,Fuß pro Sekunde,قدم في الثانية
+Financial,Financier,Finanztechnisch,مالي
+Financial Mode,Mode financier,Finanztechnischer Modus,الوضع المالي
+Financial Term,Valeur à terme,Finanztechnischer Begriff,فصل مالي
+"Financial mode supports several computations, including periodic interest rate, present and future value, double declining and straight line depreciation, and many others.","Le mode financier permet plusieurs calculs dont le taux d’intérêt périodique, la valeur présente et future, l’amortissement dégressif et linéaire, et d’autres.","Der finanztechnische Modus unterstützt verschiedene Berechnungen, darunter periodischer Zinssatz, Barwert und zukünftigen Zielwert, degressive Doppelratenabschreibung und lineare Abschreibung und vieles mehr.",يدعم الوضع المالي العديد من الحسابات، بما في ذلك معدل الفائدة الدوري، والقيمة الحالية والمستقبلية، والانخفاض المزدوج والإهلاك بقسطٍ ثابت، وغيرها الكثير.
+Floor,Partie entière inférieure,Abrundung,طابق
+Fraction,Fraction,Bruch,جزء
+Fractional Component,Partie fractionnaire,Gebrochener Anteil,الجزء الكسري
+Frequency,Fréquence,Frequenz,التردد
+Ft-lb,Ft-lb,Ft-lb,قدم-رطل
+Function “%s” is not defined,La fonction « %s » n’est pas définie,Die Funktion »%s« ist nicht definiert,الدالة «%s» غير معرفة
+Future Value,Valeur future,Zukünftiger Wert,القيمة المستقبلية
+Fv,VF,Zw,القيمة المقبلة
+General,Général,Allgemein,عام
+Gibibits,Gibibits,Gibibit,غيبيبت
+Gibibytes,Gibioctets,Gibibyte,غيبي بايت
+Gigabits,Gigabits,Gigabit,غيغابت
+Gigabytes,Gigaoctets,Gigabyte,غيغابايت
+Gigahertz,Gigahertz,Gigahertz,غيغاهيرتز
+Gpm,Marge,Bgs,هرج
+Gradians,Grades,Gon,غراديان
+Grams,Grammes,Gramm,غرام
+Gross Profit Margin,Marge brute,Bruttogewinnspanne,هامش الربح الإجمالي
+Hectares,Hectares,Hektar,هكتار
+Hectopascal,Hectopascal,,هكتوباسكال
+"Hectopascal,hectopascal,hPa","Hectopascal,hectopascal,hPa",,"هكتوباسكال,هكتوباسكال,هكتوباسكال"
+Hertz,Hertz,Hertz,هرتز
+Hexadecimal,Hexadécimal,Hexadezimal,ست عشري
+Hong Kong Dollar,Dollar de Hong Kong,Hong-Kong-Dollar,دولار هونغ كونغ
+Hours,Heures,Stunden,ساعة
+How often the currency exchange rates should be updated. A value of 0 means the currency exchange rates won't be fetched from the network at all.,À quelle fréquence les taux de change doivent être mis à jour. Une valeur de 0 signifie que les taux de change ne seront jamais obtenus par le réseau.,"Legt fest, wie oft die Wechselkurse für Währungen aktualisiert werden sollen. Bei einem Wert von 0 werden die Wechselkurse überhaupt nicht aktualisiert.",معدل تحديث أسعار صرف العملات. قيمة 0 تعني أن أسعار صرف العملات لن  تُجْلب من الشبكة أبداً
+Hungarian Forint,Florin hongrois,Ungarische Forint,فورينت هنغاري
+Hyperbolic Cosine,Cosinus hyperbolique,Hyperbolischer Cosinus,جيب التمام الزائد
+Hyperbolic Sine,Sinus hyperbolique,Hyperbolischer Sinus,الجيب الزائد
+Hyperbolic Tangent,Tangente hyperbolique,Hyperbolischer Tangens,الظل الزائد
+Hyperbolic arccosine,Arc cosinus hyperbolique,Hyperbolischer Arkuskosinus,قوس جيب التمام الزائدي
+Hyperbolic arcsine,Arc sinus hyperbolique,Hyperbolischer Arkussinus,قوس الجيب الزائدي
+Hyperbolic arctangent,Arc tangente hyperbolique,Hyperbolischer Arkustangens,قوس الظل الزائدي
+Hyperbolic cosine,Cosinus hyperbolique,Hyperbolischer Kosinus,جيب التمام الزائدي
+Hyperbolic sine,Sinus hyperbolique,Hyperbolischer Sinus,جيب زائدي
+Hyperbolic tangent,Tangente hyperbolique,Hyperbolischer Tangens,الظل الزائد
+Icelandic Krona,Couronne islandaise,Isländische Kronen,كرونة أيسلندية
+Imaginary,Imaginaire,Imaginär,تخيلي
+Imaginary Component,Partie imaginaire,Imaginärer Teil,جزء تخيّلي
+Imaginary Unit,Unité imaginaire,Imaginäre Einheit,وحدة تخيلية
+Inch of Mercury,Pouce de mercure,,بوصة زئبق
+"Inch of Mercury,inch of mercury,inHg","Pouce de mercure,pouce de mercure,inHg",,"بوصة زئبق,بوصة زئبق,بوصة زئبق"
+Inches,Pouces,Zoll,بوصة
+Indian Rupee,Roupie indienne,Indische Rupien,روبية هندية
+Indicates whether any trailing zeroes after the numeric point should be shown in the display value.,Indique si la valeur affichée doit comporter des zéros de queue après la virgule décimale.,"Zeigt an, ob nachfolgende Nullen nach dem Komma in der Anzeige angezeigt werden sollen.",يشير إلى ما إذا كان يجب إظهار أي أصفار زائدة بعد النقطة الرقمية في قيمة العرض.
+Indicates whether thousands separators are shown in large numbers.,Indique si les grands nombres doivent être affichés avec le séparateur des milliers ou pas.,"Zeigt an, ob Tausender-Trennzeichen in großen Zahlen angezeigt werden.",يدل إذا كانت فواصل الآلاف تعرض في الأرقام الكبيرة.
+Indonesian Rupiah,Roupie indonésienne,Indonesische Rupiah,روبية إندونيسية
+Insert Character Code,Insertion d’un code de caractère,Zeichen einfügen,أدرِج رمز محرِف
+Integer,Entier,Ganzzahl,عدد صحيح
+Integer Component,Partie entière,Ganzzahliger Anteil,الجزء الصحيح
+Internal precision,Précision interne,Interne Genauigkeit,الدقّة الداخلية
+International Monetary Fund,Fond Monétaire International,Internationaler Währungsfonds,صندوق النقد الدولي
+Inverse,Inverse,Kehrwert,مقلوب
+Inverse [Ctrl+I],Inverse [Ctrl+I],Kehrwert [Strg+I],مقلوب [Ctrl+I]
+Inverse cosine,Cosinus inverse,Inverser Kosinus,مقلوب جيب التمام
+"Inverse cosine is undefined for values outside [-1, 1]","L’arc cosinus n’est pas défini pour les valeurs hors du segment [-1, 1]","Inverser Kosinus ist nicht für Werte außerhalb des Intervalls [-1, 1] definiert",جيب التمام العكسي غير معرف للقيم خارج [-١، ١]
+Inverse hyperbolic cosine,Cosinus hyperbolique inverse,Inverser hyperbolischer Kosinus,معكوس جيب التمام الزائدي
+Inverse hyperbolic cosine is undefined for values less than one,L’argument cosinus hyperbolique n’est pas défini pour les valeurs inférieures à un,Inverser hyperbolischer Kosinus ist nicht für Werte kleiner als eins definiert,جيب التمام الزائدي العكسي غير معرف للقيم الأقل من واحد
+Inverse hyperbolic sine,Cosinus hyperbolique inverse,Inverser hyperbolischer Sinus,معكوس الجيب الزائدي
+Inverse hyperbolic tangent,Tangente hyperbolique inverse,Inverser hyperbolischer Tangens,معكوس الظل الزائدي
+"Inverse hyperbolic tangent is undefined for values outside [-1, 1]","L’argument tangente hyperbolique n’est pas défini pour les valeurs en dehors du segment [-1, 1]","Inverser hyperbolischer Tangens ist nicht für Werte außerhalb des Intervalls [-1, 1] definiert",الظل الزائدي العكسي غير معرف للقيم خارج [-١، ١]
+Inverse sine,Sinus inverse,Inverser Sinus,مقلوب الجيب
+"Inverse sine is undefined for values outside [-1, 1]","L’arc sinus n’est pas défini pour les valeurs hors du segment [-1, 1]","Inverser Sinus ist nicht für Werte außerhalb des Intervalls [-1, 1] definiert",الجيب المعكوس غير معرف للقيم خارج [-١، ١]
+Inverse tangent,Tangente inverse,Inverser Tangens,مقلوب الظل
+Iranian Rial,Rial iranien,Iranische Rial,ريال إيراني
+Israeli New Shekel,Nouveau shekel israélien,Neue israelische Shekel,شيكل إسرائيلي جديد
+Jamaican Dollar,Dollar jamaïcain,Jamaikanische Dollar,دولار جامايكي
+Japanese Yen,Yen japonais,Japanische Yen,ين ياباني
+Joule,Joule,Joule,جول
+"Joule,J,joule,joules","Joule,J,joule,joules","Joule,J","جول,جول,جول,جول"
+"KJ,kilojoules,kilojoule","KJ,kilojoules,kilojoule","kJ,Kilojoule","كيلوجول,كيلوجول,كيلوجول"
+Kazakhstani Tenge,Tengue du Kazakhstan,Kasachische Tenge,تينغ كازاخستاني
+Kelvin,Kelvin,Kelvin,كلفن
+Keyboard,Clavier,Tastatur,لوحة المفاتيح
+Keyboard Mode,Mode clavier,Tastaturmodus,وضع لوحة المفاتيح
+Keyboard Shortcuts,Raccourcis clavier,Tastenkombinationen,اختصارات لوحة المفاتيح
+Keyboard entry,Saisie clavier,Tastatureingabe,مدخل لوحة المفاتيح
+Keyboard shortcuts,Raccourcis clavier,Tastenkombinationen,اختصارات لوحة المفاتيح
+Kibibits,Kibibits,Kibibit,كيبيبت
+Kibibytes,Kibioctets,Kibibyte,كيبيبايت
+Kilobits,Kilobits,Kilobit,كيلوبت
+Kilobytes,Kilooctets,Kilobyte,كيلوبايت
+Kilograms,Kilogrammes,Kilogramm,كيلوغرام
+Kilohertz,Kilohertz,Kilohertz,كيلوهرتز
+Kilojoules,Kilojoules,Kilojoule,كيلوجول
+Kilometers,Kilomètres,Kilometer,كيلومتر
+Kilometers per hour,Kilomètres par heure,Kilometer pro Stunde,كيلومتر في الساعة
+Kilopascal,Kilopascal,,كيلو باسكال
+"Kilopascal,kilopascal,kPa","Kilopascal,kilopascal,kPa",,"كيلو باسكال,كيلو باسكال,كيلو باسكال"
+KilowattHour,Kilowatt-heure,Kilowattstunde,كيلووات-ساعة
+Knots,Nœuds,Knoten,عقدة
+Kuwaiti Dinar,Dinar koweïtien,Kuwaitische Dinar,دينار كويتي
+Length,Longueur,Länge,الطول
+Libyan Dinar,Dinar libyen,Libysche Dinar,دينار ليبي
+Life,Durée de vie,,الحياة
+Light Years,Années-lumière,Lichtjahre,سنة ضوئية
+Liters,Litres,Liter,لتر
+Logarithm,Logarithme décimal,Logarithmus,لوغاريتم
+Logarithm of zero is undefined,Le logarithme de zéro n’est pas défini,Der Logarithmus von null ist nicht definiert,لوغاريتم الصفر غير معرف
+"MJ,megajoules,megajoule","MJ,mégajoules,mégajoule","MJ,Megajoule","ميغاجول,ميغاجول,ميغاجول"
+Main Menu,Menu principal,Hauptmenü,القائمة الرئيسية
+Malaysian Ringgit,Ringgit malaisien,Malaysische Ringgit,رينغيت ماليزي
+Malformed expression,Expression incorrecte,Fehlerhafter Ausdruck,تعبير غير صالحة
+Margin,Marge,,الهامش
+Mass,Masse,Masse,الكتلة
+Mauritian Rupee,Roupie mauricienne,Mauritius-Rupien,روبية موريشيوسية
+Mebibits,Mébibits,Mebibit,ميبيبت
+Mebibytes,Mébioctets,Mebibyte,ميبيبايت
+Megabits,Mégabits,Megabit,ميغابت
+Megabytes,Mégaoctets,Megabyte,ميغابايت
+Megahertz,Mégahertz,Megahertz,ميغاهرتز
+Megajoules,Mégajoules,Megajoule,ميغاجول
+Memory,Mémoire,Speicher,الذاكرة
+Meters,Mètres,Meter,متر
+Meters per second,Mètres par seconde,Meter pro Sekunde,متر في الثانية
+Metric Cups,Tasses métriques,Metrische Tassen,كوب متري
+Mexican Peso,Peso mexicain,Mexikanische Peso,بيزو مكسيكي
+Microliters,Microlitres,Mikroliter,ميكرولتر
+Micrometers,Micromètres,Mikrometer,ميكرومتر
+Microseconds,Microsecondes,Mikrosekunden,ميكرو ثانية
+Miles,Milles,Meilen,ميل
+Miles per hour,Milles par heure,Meilen pro Stunde,ميل في الساعة
+Milliliters,Millilitres,Milliliter,مليلتر
+Millimeters,Millimètres,Millimeter,ميليمتر
+Millimetre of Mercury,Millimètre de mercure,,ميليمتر زئبق
+"Millimetre of Mercury,millimetre of mercury,mmHg","Millimètre de mercure,millimètre de mercure,mmHg",,"ميليمتر زئبق,ميليمتر زئبق,مم.زئبق"
+Milliseconds,Millisecondes,Millisekunden,ميلي ثانية
+Minutes,Minutes,Minuten,دقيقة
+Mode Selection,Sélection du mode,Modusauswahl,إختيار الوضع
+Modulus Divide,Modulo de division,Modulo-Division,قسمة البواقي
+Modulus division is only defined for integers,Le modulo de la division n’est défini que sur des entiers,Modulo-Divisionen sind nur für Ganzzahlen definiert,تقسيم المعامل يكون معرف للأعداد الصحيحة فقط
+Months,Mois,Monate,شهر
+Multiply (×),Multiplication [×],Multiplizieren (×),اضرب (x)
+Multiply [*],Multiplication [*],Multiplizieren [*],ضرب [*]
+Nanometers,Nanomètres,Nanometer,نانومتر
+Nanoseconds,Nanosecondes,,نانو ثانية
+Natural Logarithm,Logarithme népérien (base e),Natürlicher Logarithmus,لوغاريتم طبيعي
+Natural logarithm,Logarithme népérien,Natürlicher Logarithmus,لوغاريتم طبيعي
+Nautical Miles,Milles marins,Seemeilen,ميل بحري
+Need an integer to factorize,Seuls les nombres entiers sont factorisables,Es können nur Ganzzahlen faktorisiert werden,بحاجة إلى عدد صحيح لتحليله
+Negative [-],Négatif [-],,سالب [-]
+Nepalese Rupee,Roupie népalaise,Nepalesische Rupien,روبيه نيبالية
+Never,Jamais,Niemals,أبداً
+New Romanian Leu,Nouveau leu roumain,Neue rumänische Leu,ليو روماني جديد
+New Taiwan Dollar,Nouveau dollar de Taïwan,Neuer Taiwan-Dollar,دولار تايواني
+New Zealand Dollar,Dollar néo-zélandais,Neuseeländische Dollar,دولار نيوزيلندي
+New function,Nouvelle fonction,Neue Funktion,دالة جديدة
+Next equation,Équation suivante,Nächste Gleichung,المعادلة التالية
+Nibbles,Quartets (nibbles),Nibble,نايبل
+Nigerian Naira,Naira nigérian,Nigerianische Naira,نايرا نيجيري
+No redo history,Aucun historique à rétablir,Keine Wiederherstell-Chronik,لا تاريخ تكرار
+No sane value to store,Aucune valeur correcte à mémoriser,Kein vernünftiger Wert zum Speichern,لا قيمة صالحة للحفظ
+No undo history,Aucun historique d’annulation,Keine Rückgängig-Chronik,لا تاريخ تراجع
+Norwegian Krone,Couronne norvégienne,Norwegische Kronen,كرونة نرويجية
+Number Base Conversion,Conversion de base numérique,,تحويل نطام العدّ
+Number format,Format des nombres,Zahlenformat,هيئة الرقم
+Number of Periods,Nombre d’échéances,,عدد الفترات
+Number of Decimals,Nombre de décimales,,عدد الفواصل
+Numeric Base,Base de numération,Numerische Basis,أساس رقمي
+Octal,Octal,Oktal,ثماني
+Omani Rial,Rial omanais,Oman-Rial,ريال عماني
+One's complement,Complément à un,Einerkomplement,المتمم الأحادي
+One’s Complement,Complément à un,,المتمم الأحادي
+Open a new window,Ouvrir une nouvelle fenêtre,Ein neues Fenster öffnen,افتح نافذة جديدة
+Open menu,Ouvrir le menu,Menü öffnen,فتح القائمة
+Others,Autres,Andere,أخرى
+Ounces,Onces,Unzen,أوقية
+Overflow error,Erreur de dépassement de capacité vers le haut,Überlauffehler,خطأ فيض
+Overflow. Try a bigger word size,Dépassement de capacité. Essayez avec une taille de mot plus grande,Überlauf. Versuchen Sie eine höhere Wortlänge zu verwenden,تجاوز السعة. حاول حجم كلمة أكبر
+Overflow: the result couldn’t be calculated,Débordement : le résultat n’a pas pu être calculé,Überlauf: Das Ergebnis kann nicht berechnet werden,فيض: لا يمكن حساب النتيجة
+Pakistani Rupee,Roupie pakistanaise,Pakistanische Rupien,روبية باكستانية
+Parsecs,Parsecs,Parsecs,فرسخ فلكي
+Pascal,Pascal,,باسكال
+"Pascal,pascal,Pa","Pascal,pascal,Pa",,"باسكال,باسكال,باسكال"
+Paste,Coller,Einfügen,لصق
+Payment Period,Période de paiement,Zahlungsperiode,مدة الدفع
+Pebibits,Pébibits,Pebibit,بيبيبت
+Pebibytes,Pébioctets,Pebibyte,بيبيبايت
+Percentage [%],Pourcentage [%],Prozentsatz [%],نسبة مئوية [%]
+"Perform arithmetic, scientific or financial calculations","Effectue des calculs arithmétiques, scientifiques ou financiers","Arithmetische, wissenschaftliche und finanztechnische Berechnungen durchführen",قم بحسابات رياضيّة وعلميّة وماليّة
+Period,Période,,الفترة
+Periodic Interest Rate,Taux d’intérêt périodique,Periodischer Zinssatz,معدل الفائدة الدوري
+Periodic Payment,Paiement périodique,Periodische Zahlung,الدفع الدوري
+Peruvian Nuevo Sol,Nuevo sol péruvien,Peruanische Neue Sol,سول بيروفي
+Petabits,Pétabits,Petabit,بيتابت
+Petabytes,Pétaoctets,Petabyte,بيتابايت
+Philippine Peso,Peso philippin,Philippinische Peso,بيزو فلبيني
+Pi (π),Pi (π),Pi (π),ط (π)
+Pi [Ctrl+P],Nombre pi [Ctrl+P],Pi [Strg+P],ط [Ctrl+P]
+Pmt,Annuité,Zhlg,مد
+Polish Zloty,Zloty polonais,Polnische Złoty,زلوتي بولندي
+Pound per Square Inch,Livre-force par pouce carré,,رطل لكل بوصة مربعة
+"Pound per Square Inch,pound per square inch,psi","Livre-force par pouce carré,livre-force par pouce carré,psi",,"رطل لكل بوصة مربعة,رطل لكل بوصة مربعة,رطل\بوصة²"
+Pounds,Livres,Pfund,رطل
+Preferences,Préférences,Einstellungen,التفضيلات
+Present Value,Valeur actuelle,Barwert,القيمة الحالية
+Pressure,Pression,,الضغط
+Previous equation,Équation précédente,Vorherige Gleichung,المعادلة السابقة
+Principal,Principal,,المبدأي
+Programming,Programmation,Informatik,برمجي
+Programming Mode,Mode programmation,Informatik-Modus,الوضع البرمجة
+Programming mode,Mode programmation,Informatik-Modus,وضع البرمجة
+"Programming mode supports conversion between common bases (binary, octal, decimal, and hexadecimal), boolean algebra, one’s and two’s complementation, character to character code conversion, and more.","Le mode programmation permet la conversion entre des bases usuelles (binaire, octal, décimal et hexadécimal), l’algèbre de Boole, les compléments à un et à deux, la conversion de code de caractère, et d’autres.","Der Informatik-Modus unterstützt die Umwandlung zwischen weit verbreiteten Zahlensystemen (Binär, Oktal, Dezimal und Hexadezimal), boolesche Algebra, Einer- und Zweierkomplement und weiteres.",يدعم وضع البرمجة التحويل بين القواعد الشائعة (الثنائي، والثماني، والعشري، والسداسي العشري)، والجبر البولي، والمتمم الأحادي والثنائي، وتحويل الرمز من محرف لآخر، والمزيد.
+Pv,VA,Bw,قح
+Qatari Riyal,Riyal qatari,Katar-Riyal,ريال قطري
+Quit the application,Quitter l’application,Die Anwendung beenden,أغلق التطبيق
+Rack Units,Unités de rack,Höheneinheit,وحدة راك
+Radians,Radians,Bogenmaß,راديان
+Rankine,Rankine,Rankine,رانكين
+Rate,Taux,Zins,النسبة
+Real,Réel,Reell,حقيقي
+Real Component,Partie réelle,Reeller Teil,جزء حقيقي
+Redo,Rétablir,Wiederherstellen,أعد
+Result Format,Format des résultats,,هيئة النتيجة
+Root [Ctrl+R],Racine [Ctrl+R],Wurzel [Strg+R],جذر [Ctrl+R]
+Round,Arrondi,Rundung,تقريب
+Russian Ruble,Rouble russe,,روبل روسي
+Salvage,Valeur résiduelle,,المسترد
+Saudi Riyal,Riyal saoudien,Saudi-Rial,ريال سعودي
+Scientific Exponent [Ctrl+E],Exposant scientifique [Ctrl+E],Wissenschaftlicher Exponent [Strg+E],أس علمي [Ctrl+E]
+Seconds,Secondes,Sekunden,ثانية
+Select no. of arguments,Sélectionner le nombre d’arguments,Wählen Sie die Anzahl Argumente,اختر عدد المعطيات
+Serbian Dinar,Dinar serbe,Serbische Dinar,دينار الصربي
+Shift Left,Maj. gauche,Nach links verschieben,نقل لليسار
+Shift Right,Maj. droite,Nach rechts verschieben,نقل لليمين
+Shift is only possible on integer values,Le décalage n’est possible que sur des valeurs entières,Verschiebung ist nur mit Ganzzahlen möglich,التحويل ممكن فقط على القيم الصحيحة
+Show Thousands Separators,Afficher le séparateur de milliers,Tausender-Trennzeichen anzeigen,أظهر فواصل الآلاف
+Show Trailing Zeroes,Afficher les zéros après la virgule,Nachfolgende Nullen anzeigen,أظهر الأصفار الذيلية
+Show help,Afficher l’aide,Hilfe anzeigen,اعرض محتويات المساعدة
+Show preferences,Afficher les préférences,Einstellungen anzeigen,أظهر التفضيلات
+Show release version,Afficher les informations de version,Version anzeigen,أظهر إصدار النسخة
+Signum,Fonction signe,Vorzeichen,الإشارة
+Sine,Sinus,Sinus,جيب
+Singapore Dollar,Dollar de Singapour,Singapur-Dollar,دولار سنغافوري
+Sln,Amort.L,Sln,إقث
+Solve given equation,Résoudre l’équation donnée,Eine gegebene Gleichung lösen,حل المعادلة المعطاة
+Source currency,Devise source,Ursprungswährung,العملة المصدر
+Source units,Unités sources,Ursprungseinheiten,وحدات المصدر
+South African Rand,Rand sud-africain,Südafrikanische Rand,راند جنوب أفريقيا
+South Korean Won,Won de Corée du Sud,Südkoreanische Won,وون كوريا الجنوبية
+Speed,Vitesse,Geschwindigkeit,السرعة
+Square Centimeters,Centimètres carrés,Quadratzentimeter,سنتيمتر مربع
+Square Foot,Racine carrée,Quadratfuß,قدم مربع
+Square Meters,Mètres carrés,Quadratmeter,متر مربع
+Square Millimeters,Millimètres carrés,Quadratmillimeter,ميليمتر مربع
+Square [Ctrl+2],Carré [Ctrl+2],Quadrat [Strg+2],تربيع [Ctrl+2]
+Square root,Racine carrée,Quadratwurzel,الجذر التربيعي
+Square root (√),Racine carrée (√),Quadratwurzel (√),الجذر التربيعي (√)
+Sri Lankan Rupee,Roupie srilankaise,Sri-Lanka-Rupien,روبية سريلانكية
+Standard Atmosphere,Atmosphère standard,,ضغط جوي
+"Standard Atmosphere,Standard atmosphere,standard atmosphere,Atm,atm","Atmosphère standard,atmosphère standard,Atm,atm",,"ضغط جوي,ضغط جوي,ضغط جوي,ضغط جوي,ضغط جوي"
+Start Group [(],Début de groupement [(],Block öffnen [(],بداية مجموعة [(]
+"Start in given mode (basic, advanced, financial, programming, keyboard)","Démarrer dans le mode indiqué (basic, advanced, financial, programming, keyboard)","Im gegebenen Modus starten (basic, advanced, financial, programming, keyboard)",البدء في الوضع المحدد (أساسي، متقدم، مالي، برمجة، لوحة المفاتيح)
+Start with given equation,Démarrer avec l’équation donnée,Mit einer gegebenen Gleichung anfangen,ابدأ بالمعادلة المعطاة
+Stone,Stone,Stone,حجر
+Store value into existing or new variable,Enregistrer la valeur dans une variable existante ou en créer une nouvelle,Wert in vorhandener oder neuer Variable speichern,تخزين القيمة في متغير موجود أو جديد
+Straight Line Depreciation,Amortissement linéaire,Lineare Abschreibung,إهلاك القسط الثابت
+Straight-Line Depreciation,Amortissement linéaire,Lineare Abschreibung,إهلاك القسط الثابت
+Subscript Mode [Alt],Mode indice [Alt],Modus für Tiefstellung [Alt],وضع الحرف التحتي [Alt]
+Subtract [-],Soustraction [-],Subtrahieren [-],اطرح [-]
+Sum of the Years Digits Depreciation,Amortissement Softy,Digitale Abschreibung,إهلاك مجموع أرقام السنوات
+Sum-of-the-Years’-Digits Depreciation,Amortissement Softy,Digitale Abschreibung,إهلاك مجموع أرقام السنوات
+Superscript Mode [Ctrl],Mode exposant [Ctrl],Modus für Hochstellung [Strg],وضع الحرف الفوقي [Ctrl]
+Swedish Krona,Couronne suédoise,Schwedische Kronen,كرونة سويدية
+Swiss Franc,Franc suisse,Schweizer Franken,فرنك سويسري
+Switch Conversion Units,Inverse les unités de conversion,,تبديل وحدات التحويل
+Switch to Advanced mode,Basculer vers le mode avancé,In erweiterten Modus wechseln,بدل إلى الوضع المتقدم
+Switch to Basic mode,Basculer vers le mode basique,In Standardmodus wechseln,بدل إلى الوضع الأساسي
+Switch to Conversion mode,Basculer vers le mode de conversion,,بدل إلى وضع التحويل
+Switch to Financial mode,Basculer vers le mode financier,In finanztechnischen Modus wechseln,بدل إلى الوضع المالي
+Switch to Keyboard mode,Basculer vers le mode clavier,In Tastaturmodus wechseln,بدل إلى الوضع لوحة المفاتيح
+Switch to Keyboard mode (alt.),Basculer vers le mode clavier (alt.),In Tastaturmodus wechseln (alt.),بدل إلى وضع لوحة المفاتيح (البديل)
+Switch to Programming mode,Basculer vers le mode programmation,In Informatik-Modus wechseln,بدل إلى الوضع البرمجة
+Switch to binary,Basculer vers la représentation binaire,In Binärmodus wechseln,بدل إلى النظام الثنائي
+Switch to decimal,Basculer vers la représentation décimale,In Dezimalmodus wechseln,بدل إلى النظام العشري
+Switch to hexadecimal,Basculer vers la représentation hexadécimale,In Hexadezimalmodus wechseln,بدل إلى النظام الست عشري
+Switch to octal,Basculer vers la représentation octale,In oktalen Modus wechseln,بدل إلى النظام الثماني
+Switching modes,Modes,Modi umschalten,تبديل بين الاوضاع
+Syd,Amort.Softy,Syd,مأس
+T&T Dollar (TTD),Dollar de Trinité-et-Tobago (TTD),Trinidad-und-Tobago-Dollar (TTD),دولار ترينداد وتوباغو
+Tangent,Tangente,Tangens,ظل
+Tangent is undefined for angles that are multiples of π (180°) from π∕2 (90°),La tangente n’est pas définie pour les angles égaux à π∕2 (90°) + ou - un nombre entier de fois π (180°),"Tangens ist nicht für Winkel definiert, die ein Vielfaches von π (180°) ab π∕2 (90°) sind",الظل غير معرف للزوايا التي تكون مضاعفات ط (١٨٠°) من ط\٢ (٩٠°)
+Target currency,Devise cible,Zielwährung,العملة الهدف
+Target units,Unités cibles,Zieleinheiten,وحدات الهدف
+Tebibits,Tébibits,Tebibit,تيبيبت
+Tebibytes,Tébioctets,Tebibyte,تيبيبايت
+Temperature,Température,Temperatur,الحرارة
+Terabits,Térabits,Terabit,تيرابت
+Terabytes,Téraoctets,Terabyte,تيرابايت
+Terahertz,Térahertz,Terahertz,تيراهرتز
+Term,Échéances,Term,فصل
+Thai Baht,Baht thaïlandais,Thailändische Baht,باخت تايلاندي
+"The Advanced calculator supports many operations, including: logarithms, factorials, trigonometric and hyperbolic functions, modulus division, complex numbers, random number generation, prime factorization and unit conversions.","La calculatrice avancée prend en charge beaucoup d’opérations, y compris les logarithmes, les factorielles, les fonctions trigonométriques et hyperboliques, le modulo de division, les nombres complexes, la génération de nombres aléatoires, la factorisation en nombres premiers et la conversion entre unités.","Der erweiterte Taschenrechner unterstützt viele Operationen, darunter: Logarithmus, Fakultät, trigonometrische und hyperbolische Funktionen, Modulo-Division, Berechnung komplexer Zahlen, Zufallszahlengeneration, Primfaktorzerlegung und Einheitenumrechnungen.",الآلة الحاسبة المتقدمة تدعم العديد من العمليات مثل: اللوغاريتمات، المضروب، الدوال المثلثية والزائدة، باقي قسمة، الأعداد المركبة، توليد الأرقام العشوائية، التحليل الأولي، وتحويلات الوحدات.
+The GNOME Project,Le projet GNOME,Das GNOME-Projekt,مشروع GNOME «غنوم»
+The angle units to use,L’unité d’angle à utiliser,Die zu verwendenden Winkeleinheiten,وحدات الزوايا المتستخدمة
+The button mode,Le mode des boutons,Der Knopfmodus,وضع الزر
+The format to display numbers in,Le format d’affichage des nombres,Das Format für die Anzeige von Zahlen,هيئة عرض الأرقام
+The internal precision used with the MPFR library,Précision interne utilisée par la bibliothèque MPFR,"Die interne Genauigkeit, die mit der MPFR-Bibliothek verwendet wird",الدقة الداخلية المستخدمة مع مكتبة MPFR
+The number of digits displayed after the numeric point,Le nombre de chiffres affichés après la virgule,Die Anzahl der Ziffern nach dem numerischen Punkt,عدد الأرقام الظاهرة بعد النقطة الرقمية
+The numeric base,La base de numération,Die numerische Basis,الأساس الرقمي
+The power of zero is undefined for a negative exponent,La puissance de zéro n’est pas définie pour des exposants négatifs,Die Potenz von null ist nicht für einen negativen Exponenten definiert,قوة الصفر غير معرفة بالنسبة للأس السالب
+The size of the words used in bitwise operations,La taille de mot informatique utilisée pour les opérations bit à bit,Die Wortgröße bei bitweisen Operationen,حجم الكلمات المستخدمة في العمليات البتّية
+The zeroth root of a number is undefined,La racine zéro d’un nombre n’est pas définie,Die 0-te Wurzel einer Zahl ist nicht definiert,الجذر الصفري للرقم غير معرف
+Tonnes,Tonnes,Tonnen,طن
+Trailing Zeroes,Zéros après la virgule,,الأصفار الزائدة
+Troy Ounces,Onces de Troyes,Feinunzen,أوقية تروي
+"Troy ounce,Troy ounces,ozt","once de Troyes,onces de Troyes,ozt","Feinunze,Feinunzen,oz.tr.","أوقية تروي,أوقية تروي,أوقية تروي"
+Tunisian Dinar,Dinar tunisien,Tunesische Dinar,دينار تونسي
+Turkish Lira,Livre turque,Türkische Lira,ليرة تركية
+Two's complement,Complément à deux,Zweierkomplement,المتمم الثنائي
+Two’s Complement,Complément à deux,Zweierkomplement,المتمم الثنائي
+U,U,HE,وحدة راك
+UAE Dirham,Dirham émirati,VAE-Dirham,درهم إماراتي
+US Dollar,Dollar US,US-Dollar,دولار أمريكي
+US Gallons,Gallons US,US-Gallonen,غالون أمريكي
+US Pints,Pintes US,US-Pinte,نصف لتر أمريكي
+US Quarts,Quarts US,US-Quarts,كوارتات أمريكية
+Ukrainian Hryvnia,Hryvnia ukrainienne,Ukrainische Hrywnja,هريفنيا أوكراني
+Underflow error,Erreur de dépassement de capacité vers le bas,Unterlauffehler,خطأ غيض
+Undo,Annuler,Rückgängig,تراجع
+United Nations Treasury,Trésor des Nations Unies,Schatzamt der Vereinten Nationen,خزانة الأمم المتحدة
+Units of the current calculation,Unités des calculs actuels,Einheit der aktuellen Berechnung,وحدات الحساب الحالي
+Units to convert the current calculation into,Unité de conversion du calcul en cours,"Einheit, in welche die aktuelle Berechnung umgewandelt werden soll",الوحدات التي يحول الحساب الحالي لها
+Unknown conversion,Conversion inconnue,Unbekannte Umrechnung,تحويل مجهول
+Unknown variable “%s”,Variable « %s » inconnue,Unbekannte Variable »%s«,متغير مجهول «%s»
+Uruguayan Peso,Peso uruguayen,Uruguayische Peso,بيزو اوروغواي
+Variable name,Nom de variable,Variablenname,اسم المتغير
+Vietnamese Dong,Dong Vietnamien,Vietnamesischer Dong,دونج فيتنامي
+Volume,Volume,Volumen,الحجم
+Weekly,Toutes les semaines,Wöchentlich,أسبوعي
+Weeks,Semaines,Wochen,أسبوع
+Whether the last closed window was maximized.,Indique si la dernière fenêtre fermée était maximisée.,"Gibt an, ob das zuletzt geschlossene Fenster maximiert war.",إذا ما تم تكبير آخر نافذة مغلقة.
+Window maximized,Fenêtre maximisée,Fenster maximiert,نافذة مكبرة
+Window position,Position de la fenêtre,Fensterposition,موضع النافذة
+Window position (x and y) of the last closed window.,Position de la dernière fenêtre fermée (abscisse et ordonnée).,Position (x und y) des zuletzt geschlossenen Fensters.,موضع النافذة (س و ص) لآخر نافذة مغلقة.
+Window size,Taille de la fenêtre,Fenstergröße,حجم النافذة
+Window size (width and height) of the last closed window.,Taille de la dernière fenêtre fermée (largeur et hauteur).,Fenstergröße (Breite und Höhe) des zuletzt geschlossenen Fensters.,حجم النافذة (العرض والارتفاع) لآخر نافذة مغلقة.
+Word Size,Taille de mot,,حجم الكلمة
+Word size,Taille de mot,Wortlänge,حجم الكلمة
+Yards,Yards,Yard,ياردة
+Years,Années,Jahre,سنة
+Yobibits,Yobibits,Yobibit,يوبيبت
+Yobibytes,Yobioctets,Yobibyte,يوبيبايت
+Yottabits,Yottabits,Yottabit,يوتابت
+Yottabytes,Yottaoctets,Yottabyte,يوتابايت
+Zebibits,Zebibits,Zebibit,زيبيبت
+Zebibytes,Zebioctets,Zebibyte,زيبيبايت
+Zero raised to zero is undefined,Zéro élevé à zéro n’est pas défini,Null hoch null ist nicht definiert,الصفر المرفوع إلى الصفر غير معرف
+Zettabits,Zettabits,Zettabit,زيتابت
+Zettabytes,Zettaoctets,Zettabyte,زيتابايت
+Angle Units,Unités d’angle,,وحدات الزاوية
+Automatic,Automatique,Automatisch,تلقائي
+Cancel,Annuler,Abbrechen,إلغاء
+Clear History,Effacer l’historique,,مسح السجل
+Copy,Copier,,نسخ
+Engineering,Ingénierie,Ingenieurwissenschaftlich,هندسة
+Fixed,Fixe,Festkomma,ثابت
+Help,Aide,Hilfe,مساعدة
+Insert,Insérer,Einfügen,ادرج
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+Paste,Coller,,لصق
+Scientific,Scientifique,Wissenschaftlich,علميّ
+Thousands Separators,Séparateur des milliers,,الفواصل الألفية
+Undo,Annuler,Rückgängig,تراجع
+"acre,acres","acre,acres","Acre,Acre","فدان,أفدنة"
+au,ua,au,وحدة فلكية
+"bit,bits,b","bit,bits,b","Bit,Bit,b","بت،بتات,بت"
+"btu,BTU","btu,BTU","btu,BTU","وحدة حرارية بريطانية,وحدة حرارية بريطانية"
+"byte,bytes,B","octet,octets,o","Byte,Byte,B","بايت,بايتات,بايت"
+"cable,cables,cb","encablure,encablures","Kabel,Kabel,cb","كابل,كابلات,كبل"
+calculation;arithmetic;scientific;financial;,calcul;arithmétique;scientifique;finances;financier;,Taschenrechner;Rechner;Arithmetisch;Wissenschaftlich;Finanztechnisch;,calculation;arithmetic;scientific;financial;الحسابية;الرياضية;العلمية;المالية;
+"calories,calorie,cal","calories,calorie,cal","Kalorien,Kalorie,cal","سعرة حرارية,سعرة حرارية,سعرة حرارية"
+"centimeter,centimeters,cm,cms","centimètre,centimètres,centimetres,centimetres,cm","Zentimeter,Zentimeter,cm,cm","سنتيمتر,سنتيمتر,سم,سم"
+"century,centuries","siècle,siècles","Jahrhundert,Jahrhunderte",قرن،قرون
+cm²,cm²,cm²,سم²
+"cup,cups,cp","tasse,tasses","Tasse,Tassen,cp","كوب متري,أكواب مترية,كوب متري"
+"day,days","jour,jours","Tag,Tage",يوم،أيام
+"decade,decades","décennie,décennies","Jahrzehnt,Jahrzehnte","عقد,عقود"
+"degC,˚C,C,c,Celsius,celsius","degC,˚C,C,c,Celsius,celsius","degC,˚C,C,c,Celsius,celsius","درجة مئوية,درجة مئوية,درجة مئوية,درجة مئوية,درجة مئوية,درجة مئوية"
+"degF,˚F,F,f,Fahrenheit,fahrenheit","degF,˚F,F,f,Fahrenheit,fahrenheit","degF,˚F,F,f,Fahrenheit,fahrenheit","درجة فهرنهايت,فهرنهايت,فهرنهايت,فهرنهايت,فهرنهايت,فهرنهايت"
+"degR,˚R,˚Ra,r,R,Rankine,rankine","degR,˚R,˚Ra,r,R,Rankine,rankine","degR,˚R,˚Ra,r,R,Rankine,rankine","درجة رانكين,رانكين,رانكين,رانكين,رانكين,رانكين,رانكين"
+"degree,degrees,deg","degré,degrés,degres,deg","Grad,Grad,Grad","درجة,درجات,درجة"
+eV,eV,eV,إلكترون فولت
+"electronvolt,electronvolts,ev","électronvolt,électronvolts,eV","Elektronvolt,Elektronvolt,eV","إلكترون فولت,إلكترون فولت,إلكترون فولت"
+"ergs,erg","ergs,erg","Erg,Erg","إرغ,إرغ"
+"exabit,exabits,Eb","exabit,exabits,Eb","Exabit,Exabits,Eb","إكسابت,إكسابت,إكسابت"
+"exabyte,exabytes,EB","exaoctet,exaoctets,Eo","Exabyte,Exabytes,EB","إكسابايت,إكسابايت,إكسابايت"
+"exbibit,exbibits,Eib","exbibit,exbibits,Eib","Exbibit,Exbibits,Eib","إكسبيبت,إكسبيبت,إكسبيبت"
+"exbibyte,exbibytes,EiB","exbioctet,exbioctets,Eio","Exbibyte,Exbibytes,EiB","إكسبيبايت,إكسبيبايت,إكسبيبايت"
+"fathom,fathoms,ftm","brasse,brasses","Klafter,Klafter,ftm","قامة,قامات,قامة"
+"foot,feet,ft","pied,pieds,pi","Fuß,Fuß,ft","قدم,أقدام,قدم"
+"foot-pound,foot-pounds,ft-lb,ft-lbs","pied-livre,pied-livres,fb-lb,ft-lbs","foot-pound,foot-pounds,ft-lb,ft-lbs","قدم-رطل,قدم-رطل,قدم-رطل,قدم-رطل"
+"fps,feet per second,feetps","pips,pieds par seconde","fps,Fuß pro Sekunde,fußps","قدم/ث,قدم في الثانية,قدم في الثانية"
+ft²,pi²,ft²,قدم²
+"gallon,gallons,gal","gallon,gallons,gal","Gallone,Gallonen,gal","غالون,غالونات,غالون"
+"gibibit,gibibits,Gib","gibibit,gibibits,Gib","Gibibit,Gibibits,Gib","غيبيبت,غيبيبتات,غيبيبت"
+"gibibyte,gibibytes,GiB","gibioctet,gibioctets,Gio","Gibibyte,Gibibytes,GiB","غيبيبايت,غيبيبايت,غيبيبايت"
+"gigabit,gigabits,Gb","gigabit,gigabits,Gb","Gigabit,Gigabit,Gb","غيغابت,غيغابت,غيغابت"
+"gigabyte,gigabytes,GB","gigaoctet,gigaoctets,Go","Gigabyte,Gigabyte,GB","غيغابايت,غيغابايتات,غيغابايت"
+"gigahertz,GHz","gigahertz,GHz","Gigahertz,GHz",غيغاهرتز،غيغاهرتز
+"gradian,gradians,grad","grade,grades,grad","Gon,Gon,gon","غراديان,غراديان,غراد"
+"gram,grams,gramme,grammes,g","gramme,grammes,g","Gramm,Gramm,Gramm,Gramm,g","غرام,غرام,غرام,غرام,غ"
+"hectare,hectares,ha","hectare,hectares,ha","Hektar,Hektar,ha","هكتار,هكتار,هكتار"
+"hertz,Hz","hertz,Hz","Hertz,Hz","هرتز,هرتز"
+"hour,hours","heure,heures","Stunde,Stunden","ساعة,ساعات"
+in,en,in,لكل
+"inch,inches,in","pouce,pouces,in","Zoll,Zoll,in","بوصة,بوصات,بوصة"
+"k,K,Kelvin,kelvin","k,K,Kelvin,kelvin","k,K,Kelvin,kelvin","كلفن,كلفن,كلفن,كلفن"
+"kibibit,kibibits,Kib","kibibit,kibibits,Kib","Kibibit,Kibibit,Kib","كيبيبت,كيبيبت,كيبيبت"
+"kibibyte,kibibytes,KiB","kibioctet,kibioctets,Kio","Kibibyte,Kibibyte,KiB","كيبيبايب,كيبيبايت,كيبيبايت"
+"kilobit,kilobits,kb,Kb","kilobit,kilobits,kb,Kb","Kilobit,Kilobits,kb,Kb","كيلوبت,كيلوبت,كيلوبت,كيلوبت"
+"kilobyte,kilobytes,kB,KB","kilooctet,kilooctets,ko,Ko","Kilobyte,Kilobytes,kB,KB","كيلوبايت,كيلوبايت,كيلوبايت,كيلوبايت"
+"kilogram,kilograms,kilogramme,kilogrammes,kg,kgs","kilogramme,kilogrammes,kg","Kilogramm,Kilogramm,Kilogramm,Kilogramm,kg,kg","كيلوغرام,كيلوغرامات,كيلوغرام,كيلوغرامات,كغم,كغم"
+"kilohertz,kHz","kilohertz,kHz","Kilohertz,kHz","كيلوهرتز,كيلوهرتز"
+"kilometer,kilometers,km,kms","kilomètre,kilomètres,kilometre,kilometres,km,kms","Kilometer,Kilometer,km,km","كيلومتر,كيلومترات,كم,كم"
+"kilometers per hour,kmph,kmh,kph","kilomètre par heure,kilomètres par heure,kilomètre heure,kilomètres heure,kilometre par heure,kilometres par heure,kilometre heure,kilometres heure,kmph,kmh,km/h","Kilometer pro Stunde,kmph,kmh",كيلومتر في الساعة، كم/ساعة، كم/ساعة، كم/ساعة
+"kt,kn,nd,knot,knots","kt,kn,nd,nds,nœud,noeud,nœuds,noeuds","kt,kn,nd,Knoten,Knoten","عقدة,عقدة,عقدة,عقدة,عقد"
+"kwh,kWh,kilowatt-hour,kilowatthour","kwh,kWh,kilowatt-heure,kilowattheure","kwh,kWh,Kilowatt-Stunde,Kilowattstunde","كيلووات-ساعة,كيلووات-ساعة,كيلووات-ساعة"
+"lightyear,lightyears,ly","année-lumière,années-lumière,année lumière,années lumière,annee lumiere,annees lumiere,al","Lichtjahr,Lichtjahre,Lj","سنة ضوئية,سنين ضوئية,سنة ضوئية"
+"litre,litres,liter,liters,L","litre,litres,L","Liter,Liter,Liter,Liter,l","لتر,لترات,لتر,لترات,ل"
+"mebibit,mebibits,Mib","mébibit,mébibits,mebibit,mebibits,Mib","Mebibit,Mebibits,Mib","ميبيبت,ميبيبت,ميبيبت"
+"mebibyte,mebibytes,MiB","mébioctet,mébioctets,mebioctet,mebioctets,Mio","Mebibyte,Mebibytes,MiB","ميبيبايت,ميبيبايت,ميبيبايت"
+"megabit,megabits,Mb","mégabit,mégabits,megabit,megabits,Mb","Megabit,Megabit,Mb","ميغابت,ميغابت,ميغابت"
+"megabyte,megabytes,MB","mégaoctet,mégaoctets,megaoctet,megaoctets,Mo","Megabyte,Megabytes,MB","ميغابايت,ميغابايت,ميغابايت"
+"megahertz,MHz","megahertz,MHz","Megahertz,MHz","ميغاهرتز,ميغاهرتز"
+"meter,meters,m","mètre,metre,mètres,metres,m","Meter,Meter,m","متر,أمتار,م"
+"meters per second,mps","mètres par seconde,metres par seconde,mètres seconde,metres seconde,mps,m/s","Meter pro Sekunde,mps",متر في الثانية، م/ث
+"micrometer,micrometers,um","micromètre,micromètres,micrometre,micrometres,μm","Mikrometer,Mikrometer,um","ميكرومتر,ميكرومترات,ميكرو متر"
+"microsecond,microseconds,us,μs","microseconde,microsecondes,us,μs","Mikrosekunde,µs","ميكرو ثانية,ميكرو ثانية,ميكرو ثانية,ميكرو ثانية"
+"mile,miles,mi","mille,milles,mi","Meile,Meilen,mi","ميل,أميال,ميل"
+"milesph,miles per hour,mi/h,miph,mph","millesph,milles par heure,milles heure,mi/h,miph,mih","milesph,Meilen pro Stunde,mi/h,mph","ميل في الساعة,ميل في الساعة,ميل في الساعة,ميل في الساعة,ميل في الساعة"
+"millilitre,millilitres,milliliter,milliliters,mL,cm³","millilitre,millilitres,mL,cm³","Milliliter,Milliliter,Milliliter,Milliliter,ml,cm³","مليلتر,مليلترات,مليلتر،مليلترات,مل,سم³"
+"millimeter,millimeters,mm","millimètre,millimètres,millimetre,millimetres,mm","Millimeter,Millimeter,mm","ميليمتر,ميليمترات,مم"
+"millisecond,milliseconds,ms","milliseconde,millisecondes,ms","Millisekunde,Millisekunden,ms","ميلي ثانية,ميلي ثانية,ميلي ثانية"
+"minute,minutes","minute,minutes","Minute,Minuten","دقيقة,دقائق"
+mm²,mm²,mm²,مم²
+"mm³,μL,uL","mm³,μL,uL","mm³,μL,uL","مم³,ميكرولتر,ميكرولتر"
+"month,months",mois,"Monat,Monate","شهر,شهور"
+m²,m²,m²,م²
+m³,m³,m³,م³
+"nanometer,nanometers,nm","nanomètre,nanomètres,nanometre,nanometres,nm","Nanometer,Nanometer,nm","نانومتر، نانومترات,نانومتر"
+"nanosecond,nanoseconds,ns","nanoseconde,nanosecondes,ns",,"نانو ثانية,نانو ثواني,نانو ثواني"
+"nibble,nibbles","quartet,quartets","Nibble,Nibbles",نايبل،نايبل
+nmi,"M,NM,nmi",sm,ميل بحري
+"ounce,ounces,oz","once,onces,oz","Unze,Unzen,oz","أوقية,أوقية,أوقية"
+"parsec,parsecs,pc","parsec,parsecs,pc","Parsec,Parsecs,pc","فرسخ فلكي,فراسخ فلكية,فرسخ فلكي"
+"pebibit,pebibits,Pib","pébibit,pébibits,pebibit,pebibits,Pib","Pebibit,Pebibits,Pib","بيبيبت,بيبيبت,بيبيبت"
+"pebibyte,pebibytes,PiB","pébioctet,pébioctets,pebioctet,pebioctets,Pio","Pebibyte,Pebibytes,PiB","بيبيبايت,بيبيبايت,بيبيبايت"
+"petabit,petabits,Pb","pétabit,pétabits,petabit,petabits,Pb","Petabit,Petabit,Pb","بيتابت,بيتابت,بيتابت"
+"petabyte,petabytes,PB","pétaoctet,pétaoctets,petaoctet,petaoctets,Po","Petabyte,Petabyte,PB","بيتابايت,بيتابايت,بيتابايت"
+"pint,pints,pt","pinte,pintes,pt","Pint,Pinte,pt","نصف لتر,أنصاف لتر,نصف لتر"
+"point,pt,points,pts","point,pt,points,pts","Punkt,Pt,Punkte,Pte","نقطة,نقطة,نقاط,نقاط"
+"pound,pounds,lb,lbs","livre,livres","Pfund,Pfund,lb,lbs","رطل,أرطال,رطل,رطل"
+"quart,quarts,qt","quart,quarts,qt","Quart,Quarten,qt","كوارت,كوارتات,كوارت"
+"radian,radians,rad","radian,radians,rad","Radiant,Radiant,rad",راديان،راديان،راد
+"second,seconds,s","seconde,secondes,s","Sekunde,Sekunden,s","ثانية,ثواني,ث"
+"stone,st,stones","stone,st,stones","Stone,st,Stones","حجر,حجر,أحجار"
+"tebibit,tebibits,Tib","tébibit,tébibits,tebibit,tebibits,Tib","Tebibit,Tebibits,Tib","تيبيبت,تيبيبت,تيبيبت"
+"tebibyte,tebibytes,TiB","tébioctet,tébioctets,tebioctet,tebioctets,Tio","Tebibyte,Tebibytes,TiB","تيبيبايت,تيبيبايت,تيبيبايت"
+"terabit,terabits,Tb","térabit,térabits,terabit,terabits,Tb","Terabit,Terabit,Tb","تيرابت,تيرابت,تيرابت"
+"terabyte,terabytes,TB","téraoctet,téraoctets,teraoctet,teraoctets,To","Terabyte,Terabytes,TB","تيرابايت,تيرابايت,تيرابايت"
+"terahertz,THz","terahertz,THz","Terahertz,THz","تيراهرتز,تيراهرتز"
+to,vers,zu,إلى

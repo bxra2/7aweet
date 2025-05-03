@@ -1,0 +1,558 @@
+100%,,,100%
+125%,,,125%
+150%,,,150%
+175%,,,175%
+200%,,,200%
+300%,,,300%
+400%,,,400%
+50%,,,50%
+75%,,,75%
+Something went wrong while displaying this page.Please reload or visit a different page to continue.,,,حدث عُطل ما أثناء عرض هذه الصفحة.من فضلك أعِد تحميل الصفحة أو اذهب إلى صفحة أخرى لمواصلة تصفُّحِك.
+The precise error was: %s,,,رسالة الخطأ كانت تحديدًا: %s
+"The site at <strong>%s</strong> may have caused Web to close unexpectedly.If this happens again, please report the problem to the <strong>%s</strong>  developers.",,,كن يكون الموقع <strong>%s</strong> تسبب في إغلاق المتصفح فجأة.إذا تكرر هذا فأبلغ مطوري <strong>%s</strong> عن هذه المشكلة.
+The site at <strong>%s</strong> seems to be unavailable.It may be temporarily inaccessible or moved to a new address. You may wish to verify that your internet connection is working correctly.,,,يبدو أنّ الموقع <strong>%s</strong> غير متاح. رسالة العطل تحديدا كانت:قد يكون الموقع أُغلق مؤقتًا أو انتقل إلى عنوان جديد. قد ترغب في التأكد من أنّ اتصال الإنترنت يعمل جيدا.
+"This does not look like the real <strong>%s</strong>. Attackers might be trying to steal or alter information going to or from this site (for example, private messages, credit card information, or passwords).",,,لا يبدو أن هذا هو <strong>%s</strong> الحقيقي. قد يكون المخترقون يحاولون سرقة أو تغيير المعلومات التي تأتي من هذا الموقع أو تذهب إليه (مثلا، الرسائل الخاصة، أو معلومات بطاقة الائتمان، أو كلمات السر).
+"For example, not from advertisers on these sites",,,مثلا، ليس من المعلنين على هذه المواقع
+A file with this name already exists and you don't have permission to overwrite it.,,,هناك ملف موجود مسبقا بنفس الاسم، لا تملك التصاريح اللازمة للكتابة فوقه.
+"A simple, clean, beautiful view of the web","Une vue simple, propre et belle du Web","Ein einfacher, klarer, wunderschöner Blick auf das Web",نظرة بسيطة ورائقة وجميلة على الوب
+"A simple, clean, beautiful view of the web.
+Powered by WebKit %d.%d.%d",,,"نظرة بسيطة ورائقة وجميلة على الوب.
+مبني على WebKit %d.%d.%d"
+A web application named '%s' already exists. Do you want to replace it?,,,يوجد بالفعل تطبيق بالاسم '%s'. أترغب في استبداله؟
+Address:,,,العنوان:
+Automatically open downloaded files,,,افتح الملفّات المنزّلة تلقائيا
+About Web,À propos de Web,Info zu Web,عنْ
+Accept Risk and Proceed,Accepter le risque et continuer,Risiko akzeptieren und fortfahren,اقبل المخاطرة و واصل
+Add Bookmark…,Ajouter un signet…,Lesezeichen hinzufügen …,أضِف علامة…
+Add Bookmark,,,أضِف علامة
+Add Language,Ajouter une langue,Sprache hinzufügen,أضِف لغة
+Add Bookmark,,,أضِف علامة
+Add a bookmark,,,أضِف علامة موقع
+Address,Adresse,Adresse,العنوان
+All,,,الكل
+All files,Tous les fichiers,Alle Dateien,كل الملفات
+All supported types,Tous les types pris en charge,Alle unterstützten Typen,كل الأنواع المدعومة
+Allow,Autoriser,Erlauben,اسمح
+Allow advertisements,,,اسمح بالإعلانات
+Allow popup windows,,,اسمح بالنوافذ المنبثقة
+Allow popups,Autoriser les fenêtres surgissantes,Aufspringende Fenster erlauben,اسمح بالنوافذ المنبثقة
+Allow sites to open new windows using JavaScript (if JavaScript is enabled).,Autoriser les sites à ouvrir des nouvelles fenêtres en utilisant le JavaScript (si le JavaScript est activé).,"Seiten erlauben, Fenster über JavaScript zu öffnen (soweit JavaScript aktiviert ist).",اسمح للمواقع بفتح نوافذ جديدة باستعمال جافاسكربت (اذا كان جافاسكربت مفعّلا).
+An application with the same name already exists. Replacing it will overwrite it.,,,يوجد تطبيق بنفس الاسم. استبداله سيكتب فوقه.
+Applications,,,التطبيقات
+Arabic (ISO-8859-6),Arabe (ISO-8859-6),Arabisch (ISO-8859-6),عربي (ISO-8859-6)
+Arabic (IBM-864),Arabe (IBM-864),Arabisch (IBM-864),عربي (IBM-864)
+Arabic (MacArabic),Arabe (MacArabic),Arabisch (MacArabic),عربي (MacArabic)
+Arabic (Windows-1256),Arabe (Windows-1256),Arabisch (Windows-1256),عربي (Windows-1256)
+Automatic downloads,,,التنزيلات تلقائية
+Automatically manage offline status with NetworkManager,,,أدر حالة عدم الاتصال آليا مع مدير الشبكة
+Back,Précédent,Zurück,للخلف
+Baltic (ISO-8859-4),Balte (ISO-8859-4),Baltisch (ISO-8859-4),بلطيقي (ISO-8859-4)
+Baltic (ISO-8859-13),Balte (ISO-8859-13),Baltisch (ISO-8859-13),بلطيقي (ISO-8859-13)
+Baltic (Windows-1257),Balte (Windows-1257),Baltisch (Windows-1257),بلطيقي (Windows-1257)
+Bing,,,Bing
+Blank page,Page vierge,Leere Seite,صفحة فارغة
+Bookmark,Signet,Lesezeichen,علامة
+Bookmarks,Signets,Lesezeichen,العلامات
+Browse the web,Parcourir le Web,Im Internet surfen,تصفح الوِب
+Browse with caret,Navigation au curseur,Im Internet mit Caret Browsing surfen,تصفح بالمؤشّر
+Browsing history,,,تأريخ التصفح
+Clear,,,امحُ
+Clear All,Tout effacer,Alle leeren,امحُ الكل
+Copy Username,Copier le nom d’utilisateur,Benutzername kopieren,انسخ اسم المستخدم
+Create,,,أنشئ
+Cache and temporary files,,,الملفات المؤقتة
+Cancel,Annuler,Abbrechen,ألغِ
+Cancelling…,Annulation…,Wird abgebrochen …,يلغي…
+Cannot Overwrite File,,,لا يمكن الكتابة فوق الملف
+Cannot overwrite existing file “%s”,,,لا يمكن الكتابة فوق الملف ”%s“ الموجود مسبقا
+Central European (ISO-8859-2),Europe centrale (ISO-8859-2),Mitteleuropäisch (ISO-8859-2),وسط أوروبي (ISO-8859-2)
+Central European (IBM-852),Europe centrale (IBM-852),Mitteleuropäisch (IBM-852),وسط أوروبي (IBM-852)
+Central European (MacCE),Europe centrale (MacCE),Mitteleuropäisch (MacCE),وسط أوروبي (MacCE)
+Central European (Windows-1250),Europe centrale (Windows-1250),Mitteleuropäisch (Windows-1250),وسط أوروبي (Windows-1250)
+Chinese Simplified (GBK),Chinois simplifié (GBK),"Chinesisch, vereinfacht (GBK)",صيني مبسط (GBK)
+Chinese Simplified (GB2312),Chinois simplifié (GB2312),"Chinesisch, vereinfacht (GB2312)",صيني مبسط (GB2312)
+Chinese Simplified (GB18030),Chinois simplifié (GB18030),"Chinesisch, vereinfacht (GB18030)",صيني مبسط (GB18030)
+Chinese Simplified (HZ),Chinois simplifié (HZ),"Chinesisch, vereinfacht (HZ)",صيني مبسط (HZ)
+Chinese Simplified (ISO-2022-CN),Chinois simplifié (ISO-2022-CN),"Chinesisch, vereinfacht (ISO-2022-CN)",صيني مبسط (ISO-2022-CN)
+Chinese Traditional (Big5-HKSCS),Chinois traditionnel (Big5-HKSCS),"Chinesisch, traditionell (Big5-HKSCS)",صيني تقليدي (Big5-HKSCS)
+Chinese Traditional (Big5),Chinois traditionnel (Big5),"Chinesisch, traditionell (Big5)",صيني تقليدي (Big5)
+Chinese Traditional (EUC-TW),Chinois traditionnel (EUC-TW),"Chinesisch, traditionell (EUC-TW)",صيني تقليدي (EUC-TW)
+Choose a language:,,,اختر لغة:
+Clear,Effacer,Leeren,امسح
+Clear Personal Data…,,,امْحُ البيانات الشخصية…
+Clear Personal Data,,,امْحُ المعلومات الشخصية
+Clear browsing history?,,,أأمسح تأريخ التصفح؟
+Clearing the browsing history will cause all history links to be permanently deleted.,,,مسح تأريخ التصفح سيحذف بشكل دائم جميع وصلات التأريخ.
+Close Document,,,أغلق المستند
+Close tab,,,أغلق اللسان
+Close the bookmarks window,,,أغلق نافذة العلامات
+Contact us at:,,,اتصل بنا على:
+Contributors:,,,المساهمون:
+Cookies,,,الكعكات
+Cookie accept,,,تقبل الكعكة
+Cookies,Cookies,Cookies,الكعكات
+Copy Image Address,Copier l’adresse de l’image,Bildadresse kopieren,انسخ عنوان الصورة
+Copy the selection,,,انسخ التحديد
+Could not create a temporary directory in “%s”.,Impossible de créer le répertoire temporaire dans « %s ».,Temporärer Ordner konnte nicht in »%s« angelegt werden.,فشل إنشاء دليل مؤقت في ”%s“.
+Could not display help: %s,,,تعذّر عرض المساعدة: %s
+Could not start Web,,,تعذّر بدأ متصفح الوب
+Create Web Application,,,أنشئ تطبيق وِب
+Create a new topic,,,أنشئ موضوعا جديدا
+Create topic “%s”,,,أنشئ الموضوع ”%s“
+Croatian (MacCroatian),Croate (MacCroatian),Kroatisch (MacCroatian),كرواتي (MacCroatian)
+Cut,Couper,Ausschneiden,قص
+Custom monospace font,Police à largeur fixe personnalisée,Benutzerdefinierte nichtproportionale Schrift,خط ثابت العرض مخصص
+Custom sans-serif font,Police sans serif personnalisée,Benutzerdefinierte serifenlose Schriftart,خط غير مذيّل مخصص
+Custom serif font,Police avec serif personnalisée,Benutzerdefinierte Serifen-Schriftart,خط مذيّل مخصص
+Cut the selection,,,قص التحديد
+Cyrillic (ISO-IR-111),Cyrillique (ISO-IR-111),Kyrillisch (ISO-IR-111),سريلي (ISO-IR-111)
+Cyrillic (ISO-8859-5),Cyrillique (ISO-8859-5),Kyrillisch (ISO-8859-5),سريلي (ISO-8859-5)
+Cyrillic (IBM-855),Cyrillique (IBM-855),Kyrillisch (IBM-855),سريلي (IBM-855)
+Cyrillic (KOI8-R),Cyrillique (KOI8-R),Kyrillisch (KOI8-R),سريلي (KOI8-R)
+Cyrillic (MacCyrillic),Cyrillique (MacCyrillic),Kyrillisch (MacCyrillic),سريلي (MacCyrillic)
+Cyrillic (Windows-1251),Cyrillique (Windows-1251),Kyrillisch (Windows-1251),سريلي (Windows-1251)
+Cyrillic/Ukrainian (MacUkrainian),Cyrillique / Ukrainien (MacUkrainian),Kyrillisch/Ukrainisch (MacUkrainian),سريلي/أكراني (MacUkrainian)
+Cyrillic/Ukrainian (KOI8-U),Cyrillique / Ukrainien (KOI8-U),Kyrillisch/Ukrainisch (KOI8-U),سريلي/أكراني (KOI8-U)
+Cyrillic/Russian (IBM-866),Cyrillique / Russe (IBM-866),Kyrillisch/Russisch (IBM-866),سريلي/روسي (CP-866)
+DIR,REP,ORDNER,دليل
+Date,,,التاريخ
+Default encoding,Codage par défaut,Standardzeichenkodierung,الترميز المبدئي
+Delete,Supprimer,Löschen,احذف
+Delete the selected bookmark or topic,,,احذف العلامة أو الموضوع المختار
+Delete the selected cookies,,,احذف الكعكة المختارة
+Delete this topic?,,,أأحذف هذا الموضوع؟
+Delete topic “%s”?,,,أأحذف الموضوع ”%s“؟
+"Deleting this topic will cause all its bookmarks to become uncategorized, unless they also belong to other topics. The bookmarks will not be deleted.",,,حذف هذا الموضوع يؤدي إلى جعل علاماته غير مصنفة، إلا إذا كانت تنتمي إلى مواضيع أخرى. لن تُحذف العلامات.
+Deny,Interdire,Ablehnen,ارفض
+Description,,,الوَصف
+Desktop,Bureau,Schreibtisch,سطح المكتب
+Directory not Writable,,,لا يمكن الكتابة في الدليل
+Directory “%s” is not writable,,,لا يمكن الكتابة في الدليل ”%s“
+Display bookmarks help,,,اعرض مساعدة العلامات
+Display credits for the web browser creators,,,اعرض الشكر لمنشئي متصفح الوِب
+Display the latest content of the current page,,,اعرض أحدث محتوى للصفحة الحالية
+Do Not Track,,,لا تتعقبني
+Do you want to save your password for “%s”?,,,هل تريد حفظ كلمة سر ”%s“؟
+Downloads,Téléchargements,Downloads,التنزيلات
+Drag and drop this icon to create a link to this page,,,انقر و انقل هذه الأيقونة لإنشاء وصلة إلى هذه الصفحة
+Duplicate,,,كرّر
+ESC,Échap,ESC,ESC
+Edit Bookmarks,,,حرّر العلامات
+Enable Adblock,,,فعّل Adblock
+Enable JavaScript,,,فعّل جافاسكربت
+Enable Plugins,,,فعّل الملحقات
+Enable WebAudio,,,فعّل WebAudio
+Enable WebGL,,,فعّل WebGL
+Enable plugins,,,فعّل الملحقات
+Enable caret browsing mode?,,,أأفعّل وضع التصفح بالمؤشر؟
+Enable smooth scrolling,,,فعّل التدوير المرن
+Enable spell checking,Activer la vérification orthographique,Rechtschreibprüfung aktivieren,فعّل التدقيق الإملائي
+Enabled,Activé,Aktiviert,مُفعّل
+Encodings…,,,الترميزات…
+English (US-ASCII),Anglais (US-ASCII),Englisch (US-ASCII),إنجليزي (US-ASCII)
+Entertainment,,,ترفيه
+Epiphany Web Browser,,,متصفّح الوِب إبِفَني
+Error downloading: %s,Erreur de téléchargement : %s,Fehler beim Herunterladen: %s,عطل أثناء التنزيل: %s
+Export Bookmarks,Exporter des signets,Lesezeichen exportieren,صدّر العلامات
+Export bookmarks to a file,,,صدّر العلامات إلى ملف
+FILE,FICHIER,DATEI,ملف
+Failed to copy cookies file from Mozilla.,,,فشل نسخ ملف الكعكات من موزيلا.
+Failed to create directory “%s”.,Impossible de créer le répertoire « %s ».,Ordner »%s« konnte nicht angelegt werden.,فشل إنشاء الدليل ”%s“.
+File,,,ملف
+File format:,,,هيئة الملف:
+Filter cookies,,,رشح الكعكات
+Filter passwords,,,رشح كلمات السر
+Find,Rechercher,Suchen,ابحث
+Find Next,,,ابحث عن التالي
+Find Previous,,,ابحث عن السابق
+Find next occurrence of the search string,Recherche la prochaine occurrence de la chaîne,Nächsten Treffer für diese Zeichenkette suchen,ابحث عن التواجد التالي للعبارة
+Find previous occurrence of the search string,Recherche la précédente occurrence de la chaîne,Vorhergehenden Treffer für diese Zeichenkette suchen,ابحث عن التواجد السابق لعبارة البحث
+Finished,Terminé,Abgeschlossen,تم
+Firebird,,,فيَربِرد
+Firefox,Firefox,Firefox,فيَرفُكس
+Firefox/Mozilla bookmarks,,,علامات فيَرفُكس/موزيلا
+Fonts,Polices,Schriften,الخطوط
+Fonts & Style,,,الخطوط والطرز
+Force new window requests to be opened in tabs instead of using a new window.,Imposer l’ouverture des nouvelles fenêtres dans un nouvel onglet au lieu d’utiliser une nouvelle fenêtre.,Neue Fensteranfragen als Tabs statt in einem neuen Fenster öffnen.,افرض فتح النوافذ الجديدة في ألسنة.
+Force new windows to be opened in tabs,Imposer l’ouverture des nouvelles fenêtres dans un nouvel onglet,Neue Fenster als neue Tabs öffnen,افرض فتح النوافذ الجديدة في ألسنة
+Forget the selected passwords,,,انس كلمات السر المحددة
+Forward,Suivant,Vor,للأمام
+GNOME Web,,,وِب جنوم
+"GNOME Web is often referred to by its code name, Epiphany.",,,أحيانا ما يشار لمتصفح وب جنوم باسمه، إبفني (Epiphany).
+Galeon,,,جاليون
+Galeon/Konqueror bookmarks,,,علامات جاليون/كُنكَرر
+General,Général,Allgemein,عام
+Go Back,Revenir,Zurück,ارجع للخلف
+Go to most visited,,,اذهب إلى الأكثر زيارة
+Google,,,جوجل
+Greek (ISO-8859-7),Grec (ISO-8859-7),Griechisch (ISO-8859-7),يوناني (ISO-8859-7)
+Greek (MacGreek),Grec (MacGreek),Griechisch (MacGreek),يوناني (MacGreek)
+Greek (Windows-1253),Grec (Windows-1253),Griechisch (Windows-1253),يوناني (Windows-1253)
+Gujarati (MacGujarati),Gujarâtî (MacGujarati),Gujarati (MacGujarati),كوجراتي (MacGujarati)
+Gurmukhi (MacGurmukhi),Gurmukhi (MacGurmukhi),Gurmukhi (MacGurmukhi),غورموخي (MacGurmukhi)
+Hebrew (ISO-8859-8-I),Hébreu (ISO-8859-8-I),Hebräisch (ISO-8859-8-I),عبري (ISO-8859-8-I)
+Hebrew (IBM-862),Hébreu (IBM-862),Hebräisch (IBM-862),عبري (IBM-862)
+Hebrew (MacHebrew),Hébreu (MacHebrew),Hebräisch (MacHebrew),عبري (MacHebrew)
+Hebrew (Windows-1255),Hébreu (Windows-1255),Hebräisch (Windows-1255),عبري (Windows-1255)
+"Hide or show the downloads window. When hidden, a notification will be shown when new downloads are started.",,,أخفِ أو أظهر نافذة التنزيلات. عند إخفائها، سيُعرض تنبيه عند بدأ تنزيلات جديدة.
+Hindi (MacDevanagari),Hindi (MacDevanagari),Hindi (MacDevanagari),هندي (MacDevanagari)
+History,Historique,Chronik,التأريخ
+"How to present animated images. Possible values are ""normal"", ""once"" and ""disabled"".",,,"كيفية تقديم الصور المتحركة. القيم الممكنة هي ""normal"", ""once"" أو ""disabled""."
+Import,Importer,Importieren,استورد
+"If you close the document anyway, you will lose that information.",,,ستخسر تلك المعلومات إذا أغلقت المستند.
+"If you quit, the downloads will be cancelled",,,إذا أنهيت البرنامج فستُلغى كل التنزيلات
+Image animation mode,,,نمط الصور المتحركة
+Images,Images,Bilder,صور
+Import Bookmarks,Importer des signets,Lesezeichen importieren,استورد العلامات
+Import Bookmarks from File,,,استورد العلامات من ملف
+Import Failed,,,فشل الاستيراد
+Import bookmarks from another browser or a bookmarks file,,,استورد العلامات من متصفّحٍ آخر أو من ملف علامات
+Import bookmarks from the given file,,,استورد العلامات من الملف المحدّد
+Import bookmarks from:,,,استورد العلامات من:
+Import failed,,,فشل الاستيراد
+Incognito mode hides your activity only from people using this computer.,Le mode privé masque votre activité seulement aux autres utilisateurs de cet ordinateur.,"Der Inkognito-Modus verbirgt Ihre Aktivitäten nur vor Personen, die diesen Rechner benützen.",وضع التخفي يخفي نشاطك فقط عن من يستخدمون هذا الحاسوب.
+Installed on:,Installé le :,Installiert am:,ثُبّت في:
+Installed plugins,,,الملحقات المثبّتة
+"It will not hide your activity from your employer if you are at work. Your internet service provider, your government, other governments, the websites that you visit, and advertisers on these websites may still be tracking you.","Il ne masque pas votre activité à votre employeur si vous êtes au travail. Votre fournisseur d’accès à Internet, votre gouvernement, d’autres gouvernements, les sites web que vous visitez et les publicitaires sur ces sites web pourront toujours vous pister.","Ihre Aktivitäten werden nicht vor Ihrem Arbeitgeber verborgen, wenn Sie an Ihrem Arbeitsplatz sind. Ihr Internetanbieter, Ihre Regierung, die besuchte Webseite oder Werbeanzeigenanbieter auf dieser Seite können Sie verfolgen.",لن يخفي نشاطك عن رب عملك إذا كنت في العمل. مقدم خدمة الإنترنت، و حكومتك، و حكومات الأخرى، و المواقع التي تزورها و المعلنين على هذه المواقع يستطيعون تعقبك.
+Japanese (EUC-JP),Japonais (EUC-JP),Japanisch (EUC-JP),ياباني (EUC-JP)
+Japanese (ISO-2022-JP),Japonais (ISO-2022-JP),Japanisch (ISO-2022-JP),ياباني (ISO-2022-JP)
+Japanese (Shift-JIS),Japonais (Shift-JIS),Japanisch (Shift-JIS),ياباني (Shift-JIS)
+Konqueror,,,كُنكَرر
+Korean (EUC-KR),Coréen (EUC-KR),Koreanisch (EUC-KR),كوري (EUC-KR)
+Korean (ISO-2022-KR),Coréen (ISO-2022-KR),Koreanisch (ISO-2022-KR),كوري (ISO-2022-KR)
+Korean (JOHAB),Coréen (JOHAB),Koreanisch (JOHAB),كوري (JOHAB)
+Korean (UHC),Coréen (UHC),Koreanisch (UHC),كوري (UHC)
+Language,,,اللغة
+Languages,Langues,Sprachen,اللغات
+Larger,,,أكبر
+Launch,Démarrer,Starten,أطلِق
+List of installed web applications,,,قائمة تطبيقات الوِب المثبّتة
+Load the given session file,,,حمّل ملف الجلسة المعطى
+Loading “%s”…,Chargement de « %s »…,»%s« wird geladen …,يُحمل ”%s“…
+Loading…,Chargement…,Laden …,يُحمل…
+Local files,,,الملفات المحلية
+Location,,,المكان
+MIME type,,,نوع MIME
+Manage Cookies…,,,أدر الكعكات…
+Manage Passwords…,,,أدِر كلمات السر…
+Master password needed,,,كلمة السر الرئيسية مطلوبة
+Memory usage,Utilisation de la mémoire,Speicherverbrauch,استخدام الذاكرة
+Minimum font size,Taille minimale de la police,Kleinste Schriftgröße,الحد الأدنى لحجم خط
+Monospace font:,,,الخط ثابت العرض:
+Most Visited,,,الأكثر زيارة
+Move Tab Left,,,انقل اللسان يسارًا
+Move Tab Right,,,انقل اللسان يمينًا
+Mozilla (HTML),,,موزيلا (HTML)
+Mozilla “%s” profile,,,لاحة موزيلا ”%s“
+Name,Nom,Name,الاسم
+Nearby Sites,,,مواقع قريبة
+New Incognito Window,Nouvelle fenêtre privée,Neues Inkognito-Fenster,نافذة تصفح خاص جديدة
+New Incognito Window,Nouvelle fenêtre privée,Neues Inkognito-Fenster,نافذة تصفح خاص جديدة
+New Tab,,,لسان جديد
+News,,,أخبار
+No,,,لا
+No problems have been detected with your connection.,Aucun problème n’a été détecté avec votre connexion.,Keine Probleme mit Ihrer Verbindung festgestellt.,لم تُكتشف أي مشاكل في اتصالك.
+None specified,Aucune indication,Nichts angegeben,غير محدّد
+Not Categorized,,,غير مبوبة
+Only from sites you visit,,,فقط من المواقع التي تزورها
+Oops!,Oups !,Hoppla!,عُطل!
+Oops! There may be a problem,Oups ! Il y a peut-être un problème,"Hoppla, möglicherweise gibt es ein Problem",نأسف، ربما حدثت مشكلة.
+Oops! Unable to display this website,,,تعذّر إظهار هذا الموقع.
+Open,,,افتح
+Open Audio in New Tab,Ouvrir l’audio dans un nouvel onglet,Audio in neuem Tab öffnen,افتح في الصوت لسان جديد
+Open Audio in New Window,Ouvrir l’audio dans une nouvelle fenêtre,Audio in neuem Fenster öffnen,افتح في الصوت في نافذة جديدة
+Open Link in Incognito Window,Ouvrir le lien dans une fenêtre de navigation privée,Link in Inkognito-Fenster öffnen,افتح الوصلة في نافذة تصفح خاص جديدة
+Open Link in New Tab,Ouvrir le lien dans un nouvel onglet,Link in neuem Tab öffnen,افتح الوصلة في لسان جديد
+Open Link in New Window,Ouvrir le lien dans une nouvelle fenêtre,Link in neuem Fenster öffnen,افتح الوصلة في نافذة جديدة
+Open Video in New Tab,Ouvrir la vidéo dans un nouvel onglet,Video in neuem Tab öffnen,افتح الڤديو في لسان جديد
+Open Video in New Window,Ouvrir la vidéo dans une nouvelle fenêtre,Video in neuem Fenster öffnen,افتح في الڤديو في نافذة جديدة
+Open a new browser window,,,افتح نافذة متصفّح جديدة
+Open a new tab in an existing browser window,,,افتح لسان جديد في نافذة متصفح موجودة
+Open in New Tabs,,,افتح في ألسنة جديدة
+Open the bookmarks in this topic in new tabs,,,افتح العلامات المختارة في ألسنة جديدة
+Open the selected bookmark in a new tab,,,افتح العلامة المختارة في لسان جديد
+Open the selected bookmark in a new window,,,افتح العلامة المختارة في نافذة جديدة
+Open the selected pages in new tabs,,,افتح الصفحات المحددة في ألسنة
+Others,,,أخرى
+Password,Mot de passe,Passwort,كلمة السّر
+Password for %s in a form in %s,Le mot de passe de %s dans un formulaire de %s,Passwort für %s auf %s,كلمة سر %s في استمارة على %s
+Password in a form in %s,Le mot de passe dans un formulaire de %s,Passwort in einem Eingabefeld auf %s,كلمة سر في استمارة على %s
+Passwords,Mots de passe,Passwörter,كلمات السر
+Past developers:,,,المطورون السابقون:
+Paste and Go,Coller et aller,Einfügen und weiter,ألصق و اذهب
+Paste the clipboard,,,ألصق محتوى الحافظة
+Plugins,,,الملحقات
+Plugins are disabled in the preferences,,,الملحقات معطّلة في الإعدادات
+Popup Windows,,,نوافذ منبثقة
+Preferences,Préférences,Einstellungen,التفضيلات
+Preferences,Préférences,Einstellungen,التفضيلات
+"Preferred languages, two letter codes.",,,اللغات المحبذة، برمز من حرفين.
+Press %s to exit fullscreen,Appuyez sur %s pour quitter le mode plein écran,"%s drücken, um den Vollbildmodus zu verlassen",اضغط %s لمغادرة ملء الشاشة
+"Pressing F7 turns caret browsing on or off. This feature places a moveable cursor in web pages, allowing you to move around with your keyboard. Do you want to enable caret browsing?","Un appui sur la touche F7 active ou désactive la navigation au curseur. Cette fonctionnalité place un curseur déplaçable dans les pages web, vous permettant de vous déplacer avec votre clavier. Voulez-vous activer le mode de navigation au curseur ?","Durch Drücken von F7 schalten Sie den Caret-Modus an oder aus. Diese Funktion platziert eine bewegliche Eingabemarke in Webseiten, die Sie mit der Tastatur steuern können. Wollen Sie die Eingabemarke-Navigation einschalten?",ضغط F7 يفعل أو يعطل وضع التصفح بالمؤشر. تضع هذه الخاصية مؤشرا متحركا في صفحات الوب يتيح لك التحرك بلوحة المفاتيح. أتريد تفعيل التصفح بالمؤشر؟
+Print,,,اطبع
+Privacy,Confidentialité,Datenschutz,الخصوصية
+Private Browsing,Navigation privée,Privater Modus,التصفح الخاص
+Problem Displaying Page,Problème d’affichage de la page,Problem beim Anzeigen der Seite,مشكلة في عرض الصفحة
+Problem Loading Page,Problème de chargement de la page,Probleme beim Laden der Seite,مشكلة في تحميل الصفحة
+Profile directory to use in the private instance,,,الدليل المستعمل للاحة السيرورة الخاص
+Quit and cancel downloads,,,أنهِ و ألغِ التنزيلات
+Romanian (ISO-8859-16),Roumain (ISO-8859-16),Rumänisch (ISO-8859-16),روماني (ISO-8859-16)
+Redo,Rétablir,Wiederholen,أعد
+Reload,Recharger,Neu laden,أعد التحميل
+Remember passwords,Mémoriser les mots de passe,Passwörter merken,تذكر كلمات السر
+Remove from overview,Supprimer de la vue d’ensemble,Aus der Übersicht entfernen,احذف من المنظور العام
+Remove from this topic,,,احذف من هذا الموضوع
+Remove the selected pages from history,Retirer les pages sélectionnées de l’historique,Die gewählten Seiten aus der Chronik löschen,احذف الصفحات المحددة من التأريخ
+Rename the selected bookmark or topic,,,غيّر اسم العلامة أو الموضوع المختار
+Reopen Closed Tab,Rouvrir l’onglet fermé,Geschlossenen Reiter erneut öffnen,أعد فتح اللسان المُغلق
+Replace,,,استبدل
+Reveal all the passwords,,,أظهر كل كلمات السر
+Send Link by Email…,Envoyer le lien par courriel…,Link über E-Mail verschicken an …,أرسل الوصلة بالبريد الإلكتروني…
+Sans serif font:,,,الخط غير المذيّل:
+Save,Enregistrer,Speichern,احفظ
+Save As,,,احفظ ك‍
+Save As Application,,,احفظ كتطبيق
+Save As Web Application…,,,احفظ كتطبيق وِب…
+Save Image As,Enregistrer l’image sous,Bild speichern unter,احفظ الصورة ك‍
+Save Link As,Enregistrer le lien sous,Link speichern unter,احفظ الوصلة ك‍
+Save Media As,Enregistrer le média sous,Medien speichern unter,احفظ الوسائط ك‍
+Save As…,,,احفظ ك‍…
+Saved passwords,,,كلمات السر المحفوظة
+Search,Recherche,Suchen,ابحث
+Search cookies,,,ابحث في الكعكات
+Search history,Rechercher dans l’historique,Suchchronik,تأريخ التصفح
+Search passwords,Rechercher les mots de passe,Passwörter durchsuchen,ابحث في كلمات السر
+Search string for keywords entered in the URL bar.,,,نص البحث للكلمات المفتاحية المدخلة في شريط المسارات.
+Search the Web for %s,,,ابحث في الوِب عن %s
+Search the Web for '%s',,,ابحث في الوِب عن '%s'
+Search wrapped back to the top,La recherche est revenue au début,Suche am Anfang fortsetzen,أُعيد البحث من البداية
+Security Violation,Violation de la sécurité,Sicherheitsverstoß,مخالفة أمنية
+Select All,Tout sélectionner,Alles markieren,اختر الكل
+Select a Directory,Sélectionner un répertoire,Wählen Sie einen Ordner,اختر دليلا
+Select all bookmarks or text,,,اختر كل العلامات أو النّصوص
+Select the personal data you wish to clear,,,اختر البيانات الشخصية التي تريد محوها
+Selection Caret,,,مؤشّر التحديد
+Send an email message to “%s”,Envoyer un courriel à l’adresse « %s »,E-Mail an »%s« senden,أرسل بريدًا للعنوان ”%s“
+Serif font:,,,الخط المُذيّل:
+Session,Session,Sitzung,الجلسة
+Set as Wallpaper,Définir comme papier peint,Als Hintergrund festlegen,اجعلها الخلفية
+Show all topics,,,اعرض كل المواضيع
+Shopping,,,تسوق
+Show all…,,,اعرض الكل…
+Show the address column,,,أظهر عمود العنوان
+Show the title column,,,أظهر عمود تسمية الصفحة
+Site,,,الموقع
+Smaller,,,أصغر
+South European (ISO-8859-3),Europe méridionale (ISO-8859-3),Südeuropäisch (ISO-8859-3),جنوب أوروبي (ISO-8859-3)
+Spell checking,,,التدقيق الإملائي
+Sports,,,رياضة
+Start a private instance,,,ابدأ سيرورة خاصة
+Start an instance in incognito mode,,,ابدأ المتصفّح في طور التصفح الخاص
+Start an instance in netbank mode,,,ابدأ المتصفّح في طور التصفح البنكيّ
+Start browsing and your most-visited sites will appear here.,Commencez à naviguer et les sites que vous avez le plus visités apparaîtront ici.,"Beginnen Sie mit dem Surfen, und die Webseiten, die Sie am meisten besuchen, werden hier angezeigt.",ابدأ التصفح و ستظهر المواقع التي تُكثر زيارتها هنا.
+Start the browser in application mode,,,ابدأ المتصفّح في طور التطبيق
+Starting…,Démarrage…,Wird gestartet …,يبدأ…
+"Startup failed because of the following error:
+%s",,,"فشل بدأ التشغيل للخطأ التالي:
+%s"
+Stop,Arrêter,Stopp,أوقف
+Stop current data transfer,,,أوقف نقل البيانات الحالي
+Stored Data,,,البيانات المخزنة
+"String that will be used as user agent, to identify the browser to the web servers.",Chaîne de caractères utilisée comme agent utilisateur afin que les serveurs web puissent identifier le navigateur.,"Zeichenkette, welche als User Agent genutzt wird, um den Browser für die Webserver zu identifizieren.",النص الذي سيُستخدم ليعرف المتصفح إلى خواديم الوب.
+Style,Style,Stil,الطراز
+Suffixes,,,اللواحق
+Topics:,,,المواضيع:
+Text Encoding,Codage du texte,Zeichenkodierung,ترميز النص
+Text Encoding,,,ترميز النص
+Text not found,Texte non trouvé,Text nicht gefunden,لم يُعثر على النص
+Thai (ISO-8859-11),Thaï (ISO-8859-11),Thai (ISO-8859-11),تايلاندي (ISO-8859-11)
+Thai (TIS-620),Thaï (TIS-620),Thai (TIS-620),تايلاندي (TIS-620)
+The GNOME Project,Le projet GNOME,Das GNOME-Projekt,مشروع جنوم
+The GNOME web site displayed in GNOME Web,,,موقع جنوم معروضًا في وب جنوم
+The application '%s' could not be created,,,تعذّر إنشاء التطبيق '%s'
+The application '%s' is ready to be used,,,التطبيق '%s' جاهز للاستخدام
+The bookmarks from “%s” could not be imported because the file is corrupted or of an unsupported type.,,,تعذّر استيراد العلامات من ”%s“ لأن الملف معطوب أو النسق غير مدعوم.
+The certificate activation time is still in the future,L’heure d’activation du certificat est dans le futur,Die Aktivierungszeit des Zertifikats liegt in der Zukunft,وقت تفعيل الشهادة في المستقبل
+The certificate contains errors,Le certificat contient des erreurs,Das Zertifikat beinhaltet Fehler,تحتوي الشهادة على أخطاء
+The certificate does not match this website,Le certificat ne correspond pas à ce site web,Das Zertifikat stimmt nicht mit dieser Webseite überein,لا تطابق الشهادة الموقع
+The certificate has been revoked,Le certificat a été révoqué,Das Zertifikat wurde annulliert,نُقِضت الشهادة
+The certificate has expired,Le certificat a expiré,Das Zertifikat ist abgelaufen,انتهت صلاحية الشهادة
+The certificate is signed using a weak signature algorithm,Le certificat est signé avec un algorithme de signature faible,Das Zertifikat nutzt einen schwachen Signaturalgorithmus,وُقّعت الشهادة باستخدام خوارزمية توقيع ضعيفة
+The downloads folder,Le dossier des téléchargements,Der Download-Ordner,مجلد التنزيلات
+The file “%s” exists. Please move it out of the way.,Le fichier « %s » existe. Veuillez le déplacer.,"Die Datei »%s« existiert, bitte entfernen Sie sie von dort.",الملف ”%s“ موجود. رجاء انقله بعيدا.
+The identity of this website has been verified.,L’identité de ce site web a été vérifiée.,Die Identität dieser Webseite wurde bestätigt.,تم التأكّد من هوية هذا الموقع.
+The identity of this website has not been verified.,L’identité de ce site web n’a pas été vérifiée.,Die Identität dieser Webseite wurde nicht bestätigt.,لم يتأكّد من هوية هذا الموقع.
+The page at %s wants to know your location.,,,تريد الصفحة في %s معرفة مكانك.
+The page at %s wants to show desktop notifications.,,,تريد الصفحة في %s عرض تنبيها سطح مكتب.
+"The passwords from the previous version are locked with a master password. If you want to import them, please enter your master password below.",,,كلمات السر من الإصدارة السابقة موصدة بكلمة سر رئيسية. إذا كنت تريد أن تستوردها، فعليك إدخال كلمة السر الرئيسية أدناه.
+"The path of the folder where to download files to; or ""Downloads"" to use the default downloads folder, or ""Desktop"" to use the desktop folder.",,,"المسار إلى مجلد التنزيل، أو ""Downloads"" لاستعمال مجلد التنزيل المبدئي، أو ""Desktop"" لاستعمال سطح المكتب."
+The signing certificate authority is not known,L’autorité signant les certificats est inconnue,Der Zertifikatsaussteller ist nicht bekannt,سلطة الشهادات المُوقِّعة غير معروفة
+"The web browser for GNOME, featuring tight integration with the desktop and a simple and intuitive user interface that allows you to focus on your web pages. If you’re looking for a simple, clean, beautiful view of the web, this is the browser for you.","Le navigateur web de GNOME profite d’une intégration poussée avec le bureau et d’une interface utilisateur simple et intuitive qui vous permet de vous concentrer sur les pages web. Si vous cherchez une vue du Web qui soit simple, propre et belle, c’est le navigateur qu’il vous faut.","Der Webbrowser für GNOME ist perfekt in die Arbeitsumgebung integriert und bietet eine einfache und intuitive Benutzeroberfläche, die es Ihnen ermöglicht, sich auf die Inhalte der Webseiten zu konzentrieren. Wenn Sie einen einfachen, klaren und wunderschönen Blick auf das Internet wollen, dann liegen Sie mit diesem Browser richtig.",متصفح وب جنوم، و يتميز بتكامله مع سطح المكتب و واجهة استخدام بديهية تمكنك من التركيز على الصفحات التي تتصفحها.
+There are ongoing downloads,,,هناك تنزيلات لم تكتمل
+There are unsubmitted changes to form elements,,,هناك تغييرات في عناصر النموذج غير مرسلة
+This Connection is Not Secure,Cette connexion n’est pas sécurisée,Diese Verbindung ist nicht sicher,اتصّالك غير آمن
+"This certificate is valid. However, resources on this page were sent insecurely.","Ce certificat est valide. Cependant, certaines ressources de cette page ont été envoyées de manière non sécurisée.",Dieses Zertifikat ist gültig. Ressourcen auf dieser Seite wurden jedoch unsicher gesendet.,هذه الشهادة صحيحة. لكن الموارد على هذه الصفحة لم تُرسل مؤمّنة.
+This web site did not properly secure your connection.,Ce site web n’a pas convenablement sécurisé la connexion.,Diese Webseite hat Ihre Verbindung nicht ordentlich gesichert.,لا يُؤمّن هذا الموقع اتصالك.
+This web site’s digital identification is not trusted. You may have connected to an attacker pretending to be %s.,L’identité numérique de ce site web n’est pas fiable. Vous vous êtes peut-être connecté à une personne malveillante qui se fait passer pour %s.,"Die digitale Identifikation dieser Webseite ist nicht vertrauenswürdig. Sie haben sich eventuell zu einem Angreifer verbunden, der sich ausgibt, %s zu sein.",لا يمكن الوثوق بشهادة الموقع. قد تكون متصلا بموقع هجوم يدعي أنه %s.
+This website presented identification that belongs to a different website.,Ce site web présente des données d’identification qui appartiennent à un site web différent.,Die von der Webseite zur Verfügung gestellte Identifikation gehört zu einer anderen Webseite.,أظهر هذا الموقع شهادة تنتمي لموقع آخر.
+This website’s identification cannot be trusted because it uses very weak encryption.,Les données d’identification de ce site web ne sont pas fiables car elles utilisent un chiffrement faible.,"Der Identifikation dieser Webseite kann nicht vertraut werden, da sie eine nicht ausreichende Verschlüsselung verwendet.",لا يمكن الوثوق في شهادة هذا الموقع لأنها تستخدم تعمية ضعيفة جدًا.
+This website’s identification could not be processed. It may be corrupted.,Les données d’identification de ce site web n’ont pas pu être traitées. Elles peuvent être corrompues.,Die Identifikation dieser Webseite konnte nicht verarbeitet werden. Sie könnte beschädigt sein.,تعذّر معالجة شهادة هذا الموقع. قد تكون تالفة.
+This website’s identification has been revoked by the trusted organization that issued it.,Les données d’identification de ce site web ont été révoquées par l’organisation de confiance qui les a délivrées.,"Die Identifikation dieser Webseite wurde durch die ausstellende, vertrauenswürdige Organisation zurückgezogen.",فسخت شهادة هذا الموقع المنظمة التي أصدرتها.
+This website’s identification is only valid for future dates. Check the date on your computer’s calendar.,Les données d’identification de ce site web ne seront valables que dans le futur. Vérifiez la date sur votre ordinateur.,Die Identifikation dieser Webseite ist nur für Daten in der Zukunft gültig. Überprüfen Sie das Datum auf Ihrem Rechner.,شهادة هذا الموقع سليمة فقط في تواريخ مستقبلية. راجع التاريخ على تقويم حاسوبك.
+This website’s identification is too old to trust. Check the date on your computer’s calendar.,Les données d’identification de ce site web sont trop vieilles pour être fiables. Vérifiez la date sur votre ordinateur.,Die Identifikation dieser Webseite ist zu alt. Überprüfen Sie das Datum auf Ihrem Rechner.,شهادة هذا الموقع أقدم من أن يوثق بها. راجع التاريخ على تقويم حاسوبك.
+This website’s identification was not issued by a trusted organization.,Les données d’identification de ce site web n’ont pas été délivrées par une organisation de confiance.,Die Identifikation dieser Webseite wurde nicht durch eine vertrauenswürdige Organisation bereitgestellt.,لم تصدر شهادة هذا الموقع من مؤسسة يوثق بها.
+Title,,,الاسم
+Today %I:%M %p,,,اليوم %OI:%OM %p
+Topics,,,المواضيع
+Tracking,,,التعقب
+Travel,,,سفر
+Turkish (ISO-8859-9),Turc (ISO-8859-9),Türkisch (ISO-8859-9),تركي (ISO-8859-9)
+Turkish (IBM-857),Turc (IBM-857),Türkisch (IBM-857),تركي (IBM-857)
+Turkish (MacTurkish),Turc (MacTurkish),Türkisch (MacTurkish),تركي (MacTurkish)
+Turkish (Windows-1254),Turc (Windows-1254),Türkisch (Windows-1254),تركي (Windows-1254)
+Type a topic,,,اكتب موضوعا
+Type to search…,Commencez la saisie pour rechercher…,"Tippen Sie, um zu suchen …",اكتب لتبحث…
+URL,URL,Adresse,مسار
+URL Search,,,بحث المسار
+URL …,URL…,Adresse …,مسار …
+Unicode (UTF-16 LE),Unicode (UTF-16 LE),Unicode (UTF-16 LE),يونيكود (UTF-16 LE)
+Unicode (UTF-32 LE),Unicode (UTF-32 LE),Unicode (UTF-32 LE),يونيكود (UTF-32 LE)
+Unicode (UTF-16 BE),Unicode (UTF-16 BE),Unicode (UTF-16 BE),يونيكود (UTF-16 BE)
+Unicode (UTF-32 BE),Unicode (UTF-32 BE),Unicode (UTF-32 BE),يونيكود (UTF-32 BE)
+Unicode (UTF-8),Unicode (UTF-8),Unicode (UTF-8),يونيكود (UTF-8)
+Unknown,Inconnu,Unbekannt,مجهول
+Unknown (%s),Inconnu (%s),Unbekannt (%s),مجهول (%s)
+Untitled,,,بدون عنوان
+Use GNOME font settings.,Utilise les paramètres des polices de GNOME.,Die Schrifteinstellungen von GNOME verwenden.,استخدم إعدادات خطوط جنوم.
+Use GNOME fonts,Utiliser les polices de GNOME,Die Standardschriftarten von GNOME benutzen,استخدم خطوط جنوم
+Use custom stylesheet,,,استعمل صفحة طراز مخصصة
+Use own colors,,,استخدم الألوان الخاصة
+Use own fonts,,,استخدم الخطوط الخاصة
+Use the encoding specified by the document,,,استخدم الترميز المحدد في المستند
+Use your own colors instead of the colors the page requests.,,,استخدم ألوانك الخاصة عوضا عن التي تطلبها الصفحة.
+Use your own fonts instead of the fonts the page requests.,,,استخدم خطوطك الخاصة عوضا عن الخطوط التي تطلبها الصفحة.
+User Name,Nom d’utilisateur,Benutzername,اسم المستخدم
+User agent,Agent utilisateur,User Agent,عميل المستخدم
+User defined (%s),,,حددها المستخدم (%s)
+Version %s,Version %s,Version %s,الإصدارة %s
+Vietnamese (VPS),Vietnamien (VPS),Vietnamesisch (VPS),فيتنامي (VPS)
+Vietnamese (TCVN),Vietnamien (TCVN),Vietnamesisch (TCVN),فيتنامي (TCVN)
+Vietnamese (VISCII),Vietnamien (VISCII),Vietnamesisch (VISCII),فيتنامي (VISCII)
+Vietnamese (Windows-1258),Vietnamien (Windows-1258),Vietnamesisch (Windows-1258),فيتنامي (Windows-1258)
+View Image in New Tab,Afficher l’image dans un nouvel onglet,Bild in neuem Tab anzeigen,اعرض الصورة في لسان جديد
+View or modify the properties of the selected bookmark,,,اعرض أو عدّل خصائص العلامة المختارة
+Visibility of the downloads window,,,ظهور نافذة التنزيل
+Web,Web,Web,الوب
+Web (RDF),,,وب (RDF)
+Web 3.6 deprecated this directory and tried migrating this configuration to ~/.config/epiphany,,,أبطل إبيفني 3.6 هذا المجلد، وحاول نقل الإعدادات إلى ‪~/.config/epiphany‬
+Web Browser,Navigateur web,Webbrowser,متصفّح وب
+Web Content,Contenus du Web,Web-Inhalt,محتوى الوِب
+Web Website,,,موقع متصفح وِب جنوم
+Web bookmarks,,,علامات الوِب
+Web browser for GNOME,,,متصفّح وب لجنوم
+Web options,Options de Web,Web-Einstellungen,خيارات الوب
+Web pages,Pages web,Webseiten,صفحات وِب
+Web profile migrator,Migrateur de profil de Web,Web-Profilmigrator,ناقل إعدادات الوب
+Web profile migrator options,Options de l’outil de migration de profil de Web,Einstellungen für den Web-Profilmigrator,خيارات ناقل إعدادات الوب
+Welcome to Web,Bienvenue dans Web de GNOME,Willkommen bei »Web«,أهلا في وِب
+Western (ISO-8859-15),Occidental (ISO-8859-15),Westlich (ISO-8859-15),غربي (ISO-8859-15)
+Western (IBM-850),Occidental (IBM-850),Westlich (IBM-850),غربي (IBM-850)
+Western (ISO-8859-1),Occidental (ISO-8859-1),Westlich (ISO-8859-1),غربي (ISO-8859-1)
+Western (MacRoman),Occidental (MacRoman),Westlich (MacRoman),غربي (MacRoman)
+Western (Windows-1252),Occidental (Windows-1252),Westlich (Windows-1252),غربي (Windows-1252)
+When files cannot be opened by the browser they are automatically downloaded to the download folder and opened with the appropriate application.,,,ستنزل الملفات آليا إلى مجلد التنزيل عندما لا يمكن فتحها بالمتصفح ثم تفتح بالتطبيق المناسب.
+"Where to accept cookies from. Possible values are ""always"", ""no-third-party"" and ""never"".",,,"من أين ستقبل الكعكات. القيم الممكنة هي ""always"" و ""no-third-party"" و ""never""."
+Whether to store and prefill passwords in websites.,Indique s’il faut enregistrer et préremplir les mots de passe dans les sites web.,"Legt fest, ob Passwörter von Webseiten gespeichert und automatisch ausgefüllt werden.",إذا كان سيتم حفظ وإعادة ملء كلمات السر في المواقع.
+Work,,,عمل
+Yes,,,نعم
+Yesterday %I:%M %p,,,الأمس %OI:%OM %p
+You are about to clear personal data that is stored about the web pages you have visited. Check the types of information that you want to remove:,,,أنت على وشك محو بيانات شخصية حول الصفحات التي زرتها. تحقق من أنواع المعلومات التي تريد حذفها:
+You are connected to %s,,,أنت متصل مع %s
+You are currently browsing <em>incognito</em>. Pages viewed in this mode will not show up in your browsing history and all stored information will be cleared when you close the window. Files you download will be kept.,,,تتصفح الآن <em>خفية</em>. الصفحات التي تشاهدها لن تظهر في تأريخ التصفح و كل البيانات المحفوظة ستُمحى عندما تُغلق النافذة. الملفات التي تنزلها ستبقى.
+You can clear stored personal data.,,,يمكنك محو البي الشخصية المخزنة.
+You cannot undo this action. The data you are choosing to clear will be removed forever.,Vous ne pourrez pas annuler cette action. Les données que vous choisissez d’effacer le seront définitivement.,"Sie können diesen Schritt nicht rückgängig machen. Daten, die Sie zum Löschen auswählen, werden unwiderruflich gelöscht.",لا يمكن الاسترجاع بعد هذه العملية. ستمحى البيانات التي تختارها نهائيا.
+You do not have permission to create files in this directory.,,,لا تملك التصاريح الكافية لإنشاء ملفات في هذا الدليل.
+Your connection seems to be secure.,Votre connexion semble sûre.,Ihre Verbindung scheint sicher zu sein.,يبدو أن اتصّالك آمن.
+Zoom,,,قرّب
+Zoom Out,,,بعّد
+Zoom In,,,قرّب
+[Deprecated],,,[ملغاة]
+About,,,عنْ
+Add,Ajouter,Hinzufügen,أضف
+Add Bookmark…,,,أضِف علامة…
+Always accept,,,اقبل دائمًا
+Armenian (ARMSCII-8),Arménien (ARMSCII-8),Armenisch (ARMSCII-8),أرمني (ARMSCII-8)
+Bookmarks,,,العلامات
+Cancel,Annuler,Abbrechen,ألغِ
+Celtic (ISO-8859-14),Celtique (ISO-8859-14),Keltisch (ISO-8859-14),كلتي (ISO-8859-14)
+Clear All,Tout effacer,Alle leeren,امسح الكل
+Close,Fermer,Schließen,أغلق
+Contents,,,المحتويات
+Copy,Copier,Kopieren,انسخ
+Copy Address,,,انسخ العنوان
+Copy Audio Address,Copier l’adresse de l’audio,Audio-Adresse kopieren,انسخ عنوان الصوت
+Copy E-mail Address,Copier l’adresse courriel,E-Mail-Adresse kopieren,انسخ عنوان البريد الإلكتروني
+Copy Link Address,Copier l’adresse du lien,Linkadresse kopieren,انسخ عنوان الوصلة
+Copy Location,,,انسخ المكان
+Copy Password,Copier le mot de passe,Passwort kopieren,انسخ كلمة السر
+Copy Video Address,Copier l’adresse de la vidéo,Video-Adresse kopieren,انسخ عنوان الڤديو
+Delete,Supprimer,Löschen,احذف
+Delete Topic,,,احذف الموضوع
+Detach Tab,,,افصل اللسان
+Don’t Save,,,لا تحفظ
+Down,,,تحت
+Download folder:,,,مجلد التنزيل:
+Edit,,,تحرير
+Edit Stylesheet…,,,حرّر صفحة الطراز…
+Enable,Activer,Aktivieren,فعّل
+Enable spell checking,,,فعّل التدقيق الإملائي
+Engine:,,,المحرك:
+Export Bookmarks…,,,صدّر العلامات…
+File,,,ملف
+Find…,,,ابحث…
+Fullscreen,,,ملء الشاشة
+Georgian (GEOSTD8),Géorgien (GEOSTD8),Georgisch (GEOSTD8),جورجي (GEOSTD8)
+Help,Aide,Hilfe,مساعدة
+History,,,التأريخ
+Icelandic (MacIcelandic),Islandais (MacIcelandic),Isländisch (MacIcelandic),أيسلاندي (MacIcelandic)
+Import Bookmarks…,,,استورد العلامات…
+Location…,,,مكان…
+Never accept,,,لا تقبل أبدا
+New Topic,,,موضوع جديد
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+Next Tab,,,اللسان التالي
+Nordic (ISO-8859-10),Nordique (ISO-8859-10),Nordisch (ISO-8859-10),شمالي (ISO-8859-10)
+Normal Size,,,حجم عادي
+OK,,,موافق
+Open,Ouvrir,Öffnen,افتح
+Open…,,,افتح…
+Page Source,Source de la page,Quelltext der Seite,مصدر الصفحة
+Paste,Coller,Einfügen,ألصق
+Persian (MacFarsi),Persan (MacFarsi),Persisch (MacFarsi),فارسي (MacFarsi)
+Previous Tab,,,اللسان السابق
+Print…,,,اطبع…
+Properties,,,الخصائص
+Quit,,,أنهِ
+Redo,Rétablir,Wiederholen,أعد
+Reload,Recharger,Neu laden,أعد التحميل
+Remember passwords,,,تذكر كلمات السر
+Remember previous tabs on startup,,,تذكّر الألسنة السابقة عند بدأ التشغيل
+Remove,Enlever,Entfernen,أزل
+Rename…,,,غيّر الاسم…
+Romanian (MacRomanian),Roumain (MacRomanian),Rumänisch (MacRomanian),روماني (MacRomanian)
+Save,Enregistrer,Speichern,احفظ
+Save Audio As…,Enregistrer l’audio sous…,Audio speichern unter …,احفظ الصوت ك‍…
+Save Image As…,Enregistrer l’image sous…,Bild speichern unter …,احفظ الصورة ك‍…
+Save Link As…,Enregistrer le lien sous…,Link speichern unter …,احفظ الوصلة ك‍…
+Save Video As…,Enregistrer la vidéo sous…,Video speichern unter …,احفظ الڤديو ك‍…
+Stop,,,أوقف
+Tell websites I do not want to be tracked,,,أخبر المواقع أنني لا أريدها أن تتعقبني
+Thai (Windows-874),Thaï (Windows-874),Thai (Windows-874),تايلاندي (Windows-874)
+Title,Titre,Titel,التسمية
+Title:,,,التسمية:
+Undo,Annuler,Rückgängig,تراجع
+Up,,,أعلى
+Use system fonts,,,استخدم خطوط النّظام
+View,,,عرض
+View Certificate…,Voir le certificat…,Zertifikat ansehen …,اعرض الشهادة…
+Visual Hebrew (ISO-8859-8),Hébreu visuel (ISO-8859-8),"Hebräisch, visuell (ISO-8859-8)",عبري مرئي (ISO-8859-8)

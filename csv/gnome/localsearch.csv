@@ -1,0 +1,239 @@
+- Extract file meta data,,,- استخرج بيانات الملف الفوقية
+- Get all information about one or more files,,,- اجلب المعلومات من ملف بعينه
+- Manage Tracker processes and data,,,- أدِر عمليات وبيانات المقتفي
+- Search for terms in all data,,,مصطلح... - ابحث عن مصطلحات معيّنة
+- start the feeds indexer,,,- ابدأ مفهرس التلقيمات
+- start the tracker daemon,,,- ابدأ عفريت المُقتفي
+- start the tracker indexer,,,- ابدأ مفهرس المُقتفي
+- start the tracker writeback service,,,- ابدأ مفهرس المُقتفي
+512,,,512
+A search bar applet for finding content stored in Tracker,,,بريمح لشريط البحث يعثر على المحتوى المخزن في المُقتفي
+All posts,,,كل المواضيع
+Application,Application,Anwendung,التطبيقات
+Applications,,,التطبيقات
+Applications data miner,,,مُنقِّب بيانات التطبيقات
+Archives,,,ملفات مضغوطة
+Artists,Artistes,Künstler,النتائج: %Id
+Audio,,,صوتيات
+Bookmarks,,,علامات
+By usage,,,حسب الاستخدام
+Category,,,الفئة
+Classes,,,النتائج: %Id
+Configure file indexing with Tracker,,,اضبط فهرسة الملفات بالمقتفي
+Contacts,,,متراسلين
+Copyright Tracker Authors 2005-2010,,,حقوق النشر  2005--2010 لمؤلفي المُقتفي
+Could not add tag,Impossible d’ajouter l’étiquette,Schlagwort konnte nicht hinzugefügt werden,تعذّر حفظ المستند.
+Could not add tag to files,Impossible d’ajouter l’étiquette aux fichiers,Schlagwort konnte den Dateien nicht hinzugefügt werden,"تعذّر فتح المجلّد ""%s""."
+Could not find indexed properties,,,"تعذّر فتح المستند ""%s""."
+Could not find notify classes,,,تعذّر حفظ المستند.
+Could not get all tags,Impossible de récupérer toutes les étiquettes,Es konnten nicht alle Schlagwörter ermittelt werden,"تعذّر حذف ""%s""."
+Could not get file URNs,Impossible de récupérer les URN des fichiers,Datei-URN konnte nicht gelesen werden,تعذّرت قراءة الملف
+Could not get files related to tag,Impossible de récupérer les fichiers liés à cette étiquette,Die mit einem Schlagwort verknüpften Dateien konnten nicht ermittelt werden,تعذّر جلب الملف حسب نوع MIME
+Could not get namespace prefixes,,,"تعذّر فتح المجلّد ""%s""."
+Could not get search results,Impossible de récupérer les résultats de la recherche,Suchergebnisse konnten nicht angefordert werden,تعذّر حفظ المستند.
+Could not get tag by label,Impossible de récupérer l’étiquette à partir de son nom,Schlagwort konnte nicht über die Bezeichnung ermittelt werden,"تعذّر حذف ""%s""."
+Could not list class prefixes,,,"تعذّر فتح المجلّد ""%s""."
+Could not list classes,,,تعذّر حفظ المستند.
+Could not list properties,,,"تعذّر فتح المستند ""%s""."
+Could not open '%s',,,تعذّر فتح '%s'
+Could not open /proc,,,تعذّر فتح ‪/proc‬
+Could not read file,,,تعذّرت قراءة الملف
+Could not remove tag,Impossible de supprimer l’étiquette,Schlagwort konnte nicht entfernt werden,"تعذّر نقل ""%s"" إلى المهملات."
+Could not run query,,,تعذّرت قراءة الملف
+Could not run update,,,تعذّرت قراءة الملف
+Could not search classes,,,تعذّر حفظ المستند.
+Could not search properties,,,"تعذّر فتح المستند ""%s""."
+Crawling recursively directory '%s',,,يزحف تتابعيا داخل المجلد '%s'
+Crawling single directory '%s',,,يزحف داخل المجلد المفرد '%s'
+Crawls and processes files on the file system,,,يزحف ويعالج الملفات في نظام الملفات
+Day(s),,,أيّام
+Desktop Search,,,بحث سطح المكتب
+Desktop Search user interface using Tracker,,,واجهة استخدام لبحث سطح المكتب باستخدام المُقتفي
+Directories,,,أدلّة
+Directories (no sub-directories are indexed):,,,الأدلّة (لن تُفهرس الأدلّة الفرعية):
+Directories:,,,الأدلّة:
+Directory,,,دليل
+Disable shutting down after 30 seconds of inactivity,Désactive la fermeture après 30 secondes d’inactivité,Herunterfahren nach 30 inaktiven Sekunden ausschalten,عطّل الإغلاق بعد 30 ثانية من عدم النشاط
+Disabled,,,مُعَطَّل
+"Display results by category, for example, Music, Videos, Applications, etc.",,,يعرض النتائج حسب النوع، مثلا الصوتيات أو الفديو أو التطبيقات إلخ
+Display results by files found in a grid view,,,اعرض النتائج حسب الملفات في منظور شبكة
+Display results by files found in a list,,,اعرض النتائج حسب الملفات في قائمة
+Displays version information,Affiche les informations de version,Versionsinformationen anzeigen,يعرض معلومات الإصدارة
+Documents,,,مستندات
+Done,Fait,Fertig,تم
+Drop removable device from database after:,,,أزِل الأجهزة المنفصلة من قاعدة البيانات بعد:
+Email Addresses,,,عناوين بريد
+Emails,,,البريد الإلكتروني
+Enable for first time,,,فعّب للمرة الأولى
+Enable when running on battery,,,فعّل عند العمل على البطارية
+Enter value,,,أدخل قيمة
+Evolution Email miner,,,مُنقِّب بريد إفُليوشن
+FILE,FICHIER,DATEI,ملف
+FILE [FILE…],FICHIER [FICHIER…],DATEI [DATEI …],ملف...
+FILE…,FICHIER…,DATEI …,ملف
+Faster,,,أسرع
+Fetch RSS/ATOM Feeds,,,اجلب تلقيمات RSS/ATOM
+Fetch RSS/ATOM feeds,,,اجلب تلقيمات RSS/ATOM
+Fetching…,Récupération…,Holen läuft …,يجلب…
+File,,,ملف
+File System,,,نظام الملفات
+File and query can not be used together,,,يجب إعطاء اسم الملف ونوع mime معا
+File system data miner,,,مُنقِّب بيانات نظام الملفات
+File to extract metadata for,Fichier pour lequel extraire les métadonnées,Datei zur Ermittlung der Metadaten,ملف لاستخراج المعلومات الفوقية منه
+Filename and mime type must be provided together,Le nom de fichier et le type MIME doivent être fournis conjointement,Dateiname und MIME-Typ müssen zusammen angegeben werden,يجب إعطاء اسم الملف ونوع mime معا
+Files,Fichiers,Dateien,الملفّات
+Find search criteria in file titles,,,ابحث عن معاير البحث في أسماء الملفات
+Find search criteria inside files,,,ابحث عن معاير البحث داخل الملفات
+Find what you're looking for on this computer by name or content using Tracker,,,اعثر على ما تبحث عنه في هذا الحاسوب بالاسم أو المحتوى مستخدما المُقتفي
+Flickr,,,فلِكَر
+Folders,,,مجلدات
+Fonts,,,خطوط
+Force a re-index of all content,,,افرض إعادة فهرسة كل المحتوى
+General,,,عام
+General options,,,الخيارات العامّة
+Glob patterns to ignore:,,,نمط أسماء ليُتَجاهل:
+"Globbing patterns can be used here, for example: ""*bar*"".
+Most commonly this is used to ignore directories like *~, *.o, *.la, etc",,,"يمكن استخدام أنماط الأسماء هنا، مثل: ""*فلان*"".
+عادة لتجاهل الأدلة مثل ‪*~‬، ‪*.o‬، ‪*.la‬، إلخ"
+Idle,Inactif,Leerlauf,ساكن
+Ignored Content,,,المحتوى المُتجاهَل
+Images,,,صور
+Include removable media,,,اشمل الوسائط المنفصلة
+Include optical discs,,,اشمل الاسطوانات
+Index your Flickr photo albums,,,فَهرِس مجموعات صور فلِكَر
+Indexes,,,يُفهرس
+Indexing,,,الفهرسة
+Indexing Preferences,,,تفضيلات الفهرسة
+Indexing speed (faster consumes more resources):,,,سرعة الفهرسة (كلما كانت أسرع استهلكت موارد أكثر):
+Initializing,Initialisation,Initialisierung,يستبدأ
+Kill all Tracker processes and remove all databases,,,اقتل هذا عملية المقتفي واحذف كل قواعد البيانات
+Last Changed,,,آخر تعديلات
+Less than one second,,,أقل من ثانية
+Limit the number of results shown,Limiter le nombre de résultats affichés,Die Anzahl der anzuzeigenden Ergebnisse begrenzen,حُدّ عدد النتائج المعروضة
+Limitations,,,القيود
+Links,,,روابط
+Locations,,,الأماكن
+"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug (default = 0)",,,التسجيل، 0 = الأخطاء فقط، 1 = الأقل، 2 = تفصيلي، 3 = تنقيح (المبدئي = 0)
+"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug (default=0)","Type de rapport, 0 = erreurs seulement, 1 = minimal, 2 = détaillé et 3 = débogage (valeur par défaut = 0)","Protokollierung, 0 = nur Fehler, 1 = minimal, 2 = detailliert und 3 = Fehlerdiagnose (debug) (Vorgabe = 0)",التسجيل، 0 = الأخطاء فقط، 1 = الأقل، 2 = تفصيلي، 3 = تنقيح (المبدئي=0)
+Low battery,,,البطارية منخفضة
+Low disk space,,,المساحة المتاحة قليلة
+MIME,MIME,MIME,MIME
+"MIME type for file (if not provided, this will be guessed)",Type MIME du fichier (sera deviné si non fourni),"MIME-Typ der Datei (falls nicht angegeben, wird dieser »erraten«)",نوع MIME للملف (إذا لم يحدد سيُخمّن)
+Metadata database store and lookup manager,,,مدير بحث وتخزين في قواعد البيانات الفوقية
+Miner options,,,خيارات المُنقِّب
+"NOTE: Limit was reached, there are more items in the database not listed here","NOTE : la limite a été atteinte, il existe plus de résultats non listés ici",ACHTUNG: Limit wurde erreicht. Die Datenbank enthält weitere hier nicht aufgelistete Einträge,ملاحظة: وصلنا للحد المسموح، هناك الكثير من النتائج في قاعدة البيانات ولم تسرد هنا
+No,,,لا
+No Name,,,اسم
+No Search Results,,,لا نتائج للبحث
+No Subject,,,بلا موضوع
+No classes were found,,,ابحث عن ملفات بالوسْم المحدد
+No classes were found to match search term,,,ابحث عن ملفات بالوسْم المحدد
+No contacts were found,,,ابحث عن ملفات بالوسْم المحدد
+No emails were found,,,ابحث عن ملفات بالوسْم المحدد
+No error given,Aucune erreur indiquée,Kein Fehler angegeben,لم يُعطى أي خطأ
+No error was given,,,لم يُعطَ أي خطأ
+No feeds were found,Aucun flux trouvé,Es wurden keine Nachrichtenquellen gefunden,ابحث عن ملفات بالوسْم المحدد
+No files were found,Aucun fichier trouvé,Es wurden keine Dateien gefunden,ابحث عن ملفات بالوسْم المحدد
+No files were modified,Aucun fichier n’a été modifié,Es wurden keine Dateien geändert,ابحث عن ملفات بالوسْم المحدد
+No indexes were found,,,ابحث عن ملفات بالوسْم المحدد
+No metadata available for that URI,Aucune métadonnée disponible pour cette URI,Keine Metadaten für diese URI verfügbar,لا تتوفر أي بيانات فوقية
+No notifies were found,,,ابحث عن ملفات بالوسْم المحدد
+No properties were found to match search term,,,لم يُعثر على نتائِج تُطابِق استعلامك
+No results found for “%s”,,,لم يُعثر على نتائِج تُطابِق ”%s“
+No results found matching your query,,,لم يُعثر على نتائِج تُطابِق استعلامك
+No results were found matching your query,Aucun résultat correspondant à votre requête,Es wurden keine Ergebnisse zur Suche gefunden,لم يُعثر على نتائِج تُطابِق استعلامك
+No software categories were found,Aucune catégorie d’applicatif trouvée,Es wurden keine Software-Kategorien gefunden,ابحث عن ملفات بالوسْم المحدد
+No software was found,Aucun applicatif trouvé,Es wurde keine Software gefunden,ابحث عن ملفات بالوسْم المحدد
+No tags were found,Aucune étiquette trouvée,Es wurden keine Schlagwörter gefunden,ابحث عن ملفات بالوسْم المحدد
+No tags were found by that name,Aucune étiquette trouvée pour ce nom,Es wurden keine Schlagwörter mit diesem Namen gefunden,ابحث عن ملفات بالوسْم المحدد
+Non-Recursively Indexed,,,ليس مفهرَسا تتابعيا
+None,Aucun,Keine,لا شيء
+Opens text entry for glob patterns,,,يفتح حقلا نصيا لأنماط الأسماء
+Opens the filechooser dialogue,,,يفتح حوار اختيار ملفات
+Other,,,أخرى
+Pages,,,الصفحات
+Pause application and reason match an already existing pause request,L’application et la raison de mise en veille correspondent à une demande de mise en pause existante,Anfrage zum Anhalten der Anwendung und Grund entsprechen einer bereits bestehenden Anforderung zum Pausieren,طلب إلباث التطبيق والسبب يطابقان طلبا موجودا من قبل
+Paused,En veille,Angehalten,مُلبَث
+Prefixes,,,التفضيلات
+Print version,,,اطبع الإصدارة
+Processes images and albums on Flickr,,,يُعالج الصور ومجموعاتها غلى فلِكَر
+Processing…,Traitement…,Verarbeitung läuft …,يُعالج…
+Properties,,,الخصائص
+Querying information for entity,,,- اجلب المعلومات من ملف بعينه
+RSS/ATOM Feeds,,,تلقيمات RSS/ATOM
+Recursively Indexed,,,مفهرَسا تتابعيا
+Results,Résultats,Ergebnisse,النتائج:
+Saved queries,,,الاستعلامات المحفوظة
+Search and Indexing,,,البحث والفهرسة
+Search for contacts,,,ابحث عن وسم
+Search for document files,Rechercher des fichiers de documents,Nach Dokumenten suchen,"طالع المستند %s
+في %s"
+Search for emails,,,ابحث عن وسم
+Search for files,Rechercher des fichiers,Schnelle fehlertolerante Textsuche in Dateien und Symbolen,ابحث عن الخدمة المحددة
+Search for folders,Rechercher des répertoires,Nach Ordnern suchen,ابحث عن الخدمة المحددة
+Search for image files,Rechercher des fichiers d’image,Nach Bilddateien suchen,ابحث عن وسم
+Search for music files,Rechercher des fichiers musicaux,Nach Musikdateien suchen,ابحث عن الخدمة المحددة
+Search for video files,Rechercher des fichiers vidéo,Nach Videodateien suchen,ابحث عن الخدمة المحددة
+Select directory,,,اختر دليلا
+Semantics,,,المعاني
+Show current status,,,اعرض الحالة الحالية
+Show general options,,,اعرض الخيارات العامّة
+Show miner options,,,اعرض خيارات المُنقِّب
+Show statistics about the data stored,,,اعرض إحصائيات عن البيانات المُخزّنة
+Show status options,,,اعرض خيارات الحالة
+Size,,,الحجم
+Slower,,,أبطأ
+Software Categories,Catégorie d’applicatif,Software-Kategorien,الفئات
+Start up,,,بدأ التشغيل
+Statistics:,Statistiques :,Statistiken:,الإحصائيّات
+Status options,,,خيارات الحالة
+Stop indexing when disk space is below:,,,أوفق الفهرسة عندما تكون مساحة القرص أقل من:
+TAG,ÉTIQUETTE,SCHLAGWORT,وسم
+Tag one or more files,,,سِمْ ملفًا أو أكثر
+Tags,,,الوسوم
+Tags...,,,الوسوم...
+"This covers ALL removable media, memory cards, CDs, DVDs, etc.",,,يشمل هذا كل الوسائط المنفصلة مثل بطاقات الذاكرة والاسطوانات إلخ.
+Title,,,العنوان
+To,,,إلى
+Tracker,,,المُقتفي
+Tracker File System Miner,,,مُنقِّب نظام الملفات للمُقتفي
+Tracker Miner for Flickr,,,مُنقِّب فلِكَر للمُقتفِي
+Tracker RSS/ATOM Feeds Miner,,,مُنقِّب RSS/ATOM للمُقتفِي
+Tracker Store,,,مخزن المُقتفي
+"Tracker is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
+
+Tracker is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with Tracker; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.",,,"المُقتفي برمجية حر، يمكنك توزيعه و/أو تعديله حسب بنود رخصة جنو العمومية كما 
+نشرتها مؤسسة البرامج الحرة، الإصدار الثاني أو أي إصدار أحدث (حسب رغبتك).
+
+
+
+يوزع المُقتفي على أمل أن يكون مفيدًا، ولكن دون أية ضمانات، بما في ذلك ضمانات قابلية البرنامج للتسويق أو الملاءمة لغرض معين. انظر نص رخصة جنو العمومية 
+لمزيد من التفاصيل.
+
+
+
+من المفترض أنك تلقيت نسخة من رخصة جنو العمومية مع هذا البرنامج؛ إذا لم يحدث 
+هذا فاكتب إلى مؤسسة البرمجيات الحرة
+
+Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 
+02111-1307, USA."
+Unable to retrieve URN for URI,Impossible de récupérer l’URN pour cette URI,URN oder URI konnten nicht abgerufen werden,تعذّر جلب البيانات من المسار
+Unable to retrieve data for URI,Impossible de récupérer les données pour cette URI,Daten für URI konnten nicht abgerufen werden,تعذّر جلب البيانات من المسار
+Unknown,,,مجهول
+Videos,,,فيديو
+"When toggled, this makes sure your home directory is included in the list.",,,عند تفعيله سيُضمّن مجلد المنزل في القائمة.
+With specific files:,,,مع ملفات معينة:
+Would be indexed,,,يُمكن فهرسته
+Would be monitored,,,يُمكن مراقبته
+Yes,,,نعم
+About,,,عنْ
+Delay,,,التأخير
+Monitor file and directory changes,,,راقب تغيرات الملف والدليل
+Search:,,,ابحث:
+less than one second,moins d’une seconde,weniger als eine Sekunde,أقل من ثانية
+no error given,,,لم يُعطى أي خطأ
+search terms,termes de recherche,Suchbegriffe,مصطلحات البحث
+seconds,,,ثوان
+unknown time,,,وقت مجهول

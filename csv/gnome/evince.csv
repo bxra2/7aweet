@@ -1,0 +1,493 @@
+%.0f × %.0f mm,%.0f × %.0f mm,%.0f × %.0f mm,%.0f × %.0f مم
+%.2f × %.2f inch,%.2f × %.2f pouces,%.2f × %.2f Zoll,%.2f × %.2f بوصة
+"%s%s
+Encoding: %s
+%s","%s%s
+Codage : %s
+%s","%s%s
+Zeichenkodierung: %s
+%s","%s%s
+الترميز: %s
+%s"
+"%s%s
+Encoding: %s
+%s
+Substituting with %s
+(%s)","%s%s
+Codage : %s
+%s
+Remplacement par %s
+(%s)","%s%s
+Zeichenkodierung: %s
+%s
+Ersetzung durch %s
+(%s)","%s%s
+الترميز: %s
+%s
+استبدله %s
+(%s)"
+"%s, Landscape (%s)","%s, paysage (%s)","%s, Querformat (%s)",‏%s، عرضيّ (%s)
+"%s, Portrait (%s)","%s, portrait (%s)","%s, Hochformat (%s)",‏%s، طولي (%s)
+(%d of %d),(%d sur %d),(%d von %d),(%d من %d)
+(Not one of the Standard 14 Fonts),(pas une des 14 polices standards),(Keine Standardschriftart),(ليس ضمن الخطوط المعيارية الأربعة عشر)
+(One of the Standard 14 Fonts),(une des 14 polices standards),(Eine der 14 Standardschriftarten),(أحد الخطوط المعيارية الأربعة عشر)
+100%,100 %,100%,100%
+125%,125 %,125%,125%
+150%,150 %,150%,150%
+1600%,1600 %,1600%,1600%
+175%,175 %,175%,175%
+200%,200 %,200%,200%
+300%,300 %,300%,300%
+3200%,3200 %,3200%,3200%
+400%,400 %,400%,400%
+50%,50 %,50%,50%
+6400%,6400 %,6400%,6400%
+70%,70 %,70%,70%
+800%,800 %,800%,800%
+85%,85 %,85%,85%
+"A clear, simple UI",Une interface utilisateur claire et simple,"Eine klare, einfache Benutzeroberfläche",واجهة سهلة وبسيطة
+"A document viewer for the GNOME desktop. You can view, search or annotate documents in many different formats.","Un visionneur de documents pour le bureau GNOME. Vous pouvez afficher, rechercher ou annoter des documents dans de nombreux formats différents.","Ein Dokumentenbetrachter für die GNOME-Arbeitsumgebung. Sie können Dokumente in vielen verschiedenen Formaten betrachten, durchsuchen oder mit Anmerkungen versehen.",عارض مستندات لسطح مكتب GNOME «غنوم». يمكنك عرض المستندات والبحث فيها والتأشير عليها، بأنساق متعددة.
+A file named “%s” already exists. Do you want to replace it?,Un fichier nommé « %s » existe déjà. Voulez-vous le remplacer ?,Eine Datei namens »%s« existiert bereits. Möchten Sie diese ersetzen?,يوجد ملف بالاسم «%s». هل تريد استبداله؟
+Add a post-it like note,Ajouter une annotation de type post-it,Eine Post-it-ähnliche Notiz hinzufügen,أضِف ملاحظة لاصقة
+Add bookmark,Ajouter un signet,Lesezeichen hinzufügen,أضف علامة
+Add highlight annotation,Ajouter une annotation surbrillante,Hervorhebungsanmerkung hinzufügen,أضف تعليق إبراز
+Add text annotation,Ajouter une annotation texte,Textanmerkung hinzufügen,أضف تعليقا نصيا
+Adds support for reading DVI documents,Ajoute la prise en charge de la lecture des documents DVI,Fügt Unterstützung für das Lesen von DVI-Dokumenten hinzu,يضيف دعم قراءة مستندات DVI
+Adds support for reading DjVu documents,Ajoute la prise en charge de la lecture des documents Djvu,Fügt Unterstützung für das Lesen von DjVu-Dokumenten hinzu,يضيف دعم قراءة مستندات DjVu
+Adds support for reading PDF Documents,Ajoute la prise en charge de la lecture des documents PDF,Fügt Unterstützung für das Lesen von PDF-Dokumenten hinzu,يضيف دعم قراءة مستندات PDF
+Adds support for reading PostScript documents,Ajoute la prise en charge de la lecture des documents PostScript,Fügt Unterstützung für das Lesen von PostScript-Dokumenten hinzu,يضيف دعم قراءة مستندات PostScript
+Adds support for reading TIFF documents,Ajoute la prise en charge de la lecture des documents TIFF,Fügt Unterstützung für das Lesen von TIFF-Dokumenten hinzu,يضيف دعم قراءة مستندات TIFF
+Adds support for reading XPS documents,Ajoute la prise en charge de la lecture des documents XPS,Fügt Unterstützung für das Lesen von XPS-Dokumenten hinzu,يضيف دعم قراءة مستندات XPS
+Adds support for reading comic books,Ajoute la prise en charge de la lecture de bandes dessinées,Fügt Unterstützung für Comicbücher hinzu,يضيف دعم قراءة القصص المصورة
+Advanced highlighting and annotation,Annotation et mise en surbrillance avancées,Fortgeschrittene Hervorhebung und Anmerkungen,تأشير و تعليق متقدم
+All Documents,Tous les documents,Alle Dokumente,كل المستندات
+All Files,Tous les fichiers,Alle Dateien,كل الملفات
+All fonts are either standard or embedded.,Toutes les polices sont soit standards ou intégrées.,Alle Schriftarten sind entweder Standardschriftarten oder im Dokument eingebettet.,كل الخطوط إما معيارية أو مدمجة.
+Allow links to change the zoom level.,Autoriser les liens à changer le niveau de zoom.,Verweisen das Ändern der Vergrößerungsstufe erlauben.,اسمح للوصلات بتغيير مستوى التقريب.
+Annotate document,Annoter le document,Dokument mit Anmerkungen versehen,علّق على المستند
+Annotate the document,Annoter le document,Das Dokument mit Anmerkungen versehen,علّق على المستند
+Annotation Properties,Propriétés des annotations,Eigenschaften für Anmerkungen,خصائص التعليقات
+Annotation Properties…,Propriétés de l’annotation…,Eigenschaften für Anmerkungen …,خصائص التعليقات…
+Annotations,Annotations,Anmerkungen,التعليقات
+Archive is encrypted,L’archive est chiffrée,Archiv ist verschlüsselt,الأرشيف معمّى
+Attachments,Pièces jointes,Anlagen,المرفقات
+Author:,Auteur :,Verfasser:,المؤلف:
+Auto Rotate and Center,Pivoter et centrer automatiquement,Automatisch drehen und zentrieren,دوّر تلقائيا ووسّط
+Autoscroll,Défilement automatique,Automatischer Bildlauf,لف تلقائي
+Automatic zoom,Zoom automatique,Größe automatisch wählen,تقريب تلقائي
+Automatically reload the document,Recharger automatiquement le document,Das Dokument automatisch aktualisieren,أعد تحميل المستند تلقائيًا
+Back,Précédent,Zurück,إلى الخلف
+Bookmarks,Signets,Lesezeichen,العلامات
+Cancel,Annuler,Abbrechen,ألغ
+Case Sensitive,Respecter la casse,Groß-/Kleinschreibung beachten,حساس لحالة الأحرف
+Can not get local path for archive,Impossible d’obtenir le chemin de l’archive,Lokaler Pfad des Archivs kann nicht ermittelt werden,تعذّر العثور على المسار المحلي للأرشيف
+Cancel print and Close,Annuler l’impression et fermer,Drucken abbrechen und schließen,ألغِ الطباعة وأغلق
+Check spelling when writing annotation notes or filling text forms.,Vérifier l’orthographe lors de la rédaction de notes ou du remplissage de champs.,Rechtschreibprüfung beim Schreiben von Kommentaren oder beim Ausfüllen von Formularen aktivieren,دقق الإملاء عند كتابة ملاحظات التعليقات أو ملء الاستمارات النصية.
+Circle,Cercle,Kreis,دائرة
+Close,Fermer,Schließen,مغلقة
+Close after Printing,Fermer après l’impression,Nach dem Drucken schließen,أغلق بعد الطباعة
+Close without Saving,Fermer sans enregistrer,"Schließen, ohne zu speichern",أغلق دون حفظ
+Close the current document window,Fermer la fenêtre du document actuel,Das aktuelle Dokumentenfenster schließen,أغلق نافذة المستند الحالية
+Close window,Fermer la fenêtre,Fenster schließen,إغلاق النافذة
+Collapse all tree,Replier toute l’arborescence,Gesamten Baum einklappen,اطوِ كل الشجرة
+Color:,Couleur :,Farbe:,اللون:
+Comic Books,Bandes dessinées,Comicbücher,قصص مصوّرة
+Comment,Commentaire,Kommentar,تعليق
+Contains Javascript:,Contient du Javascript :,Enthält Javascript:,يحوي جافاسكربت:
+Copy Image,Copier l’image,Bild kopieren,انسخ الصورة
+Copy highlighted text,Copier le texte en surbrillance,Hervorgehobenen Text kopieren,انسخ النص المحدد
+Could not send current document,Impossible d’envoyer le document actuel,Das momentan angezeigte Dokument konnte nicht gesendet werden,تعذّر إرسال المستند الحالي
+Couldn’t find appropriate format to save image,Impossible de trouver le format approprié pour enregistrer l’image,Es wurde kein geeignetes Format zum Speichern des Bildes gefunden,تعذّر تحديد تنسيق مناسب لحفظ الصورة
+Couldn’t open attachment “%s”,Impossible d’ouvrir la pièce jointe « %s »,Anlage »%s« konnte nicht geöffnet werden,تعذر فتح المرفق «%s»
+Couldn’t open attachment “%s”: %s,Impossible d’ouvrir la pièce jointe « %s » : %s,Anlage »%s« konnte nicht geöffnet werden: %s,تعذر فتح المرفق «%s»:‏ %s
+Couldn’t save attachment “%s”: %s,Impossible d’enregistrer la pièce jointe « %s » : %s,Anlage »%s« konnte nicht gespeichert werden: %s,تعذر حفظ المرفق «%s»:‏ %s
+Created:,Créé le :,Erstellt:,تاريخ الإنشاء:
+Creator:,Créateur :,Ersteller:,المنشئ:
+Cross,Croix,Kreuz,صليب
+DEST,DEST,DEST,الوجهة
+DVI Documents,Documents DVI,DVI-Dokumente,مستندات DVI
+DVI document has incorrect format,Le document DVI a un format incorrect,Das DVI-Dokument besitzt ein ungültiges Format,هيئة مستند DVI غير صحيحة
+Delete the temporary file,Supprimer le fichier temporaire,Temporäre Datei löschen,احذف الملف المؤقت
+Display the document as a continuous stream of pages instead of page at a time.,Afficher le document comme un flux continu de pages au lieu d’une page à la fois.,Das Dokument als fortlaufende Abfolge von Seiten anzeigen anstatt eine Seite nach der anderen.,اعرض المستند كدفق مستمر من الصفحات بدلا عن صفحة في كل مرة.
+DjVu Documents,Documents DjVu,DjVu-Dokumente,مستندات DjVu
+DjVu document has incorrect format,Le document DjVu a un format incorrect,Das DjVu-Dokument besitzt ein ungültiges Format,هيئة مستند DjVu غير صحيحة
+Document,Document,Dokument,مستند
+Document License,Licence du document,Lizenz des Dokuments,رخصة المستند
+Document View,Vue du document,Dokumentenansicht,مشهد المستند
+Document Viewer,Visionneur de documents,Dokumentenbetrachter,عارض المستندات
+Document contains form fields that have been filled out.,Le document contient des champs de formulaire qui ont été remplis.,"Das Dokument enthält Formularfelder, die ausgefüllt wurden.",يحوي المستند حقول استمارة مُلئت.
+Document contains new or modified annotations.,Le document contient des annotations nouvelles ou modifiées.,Das Dokument enthält neue oder veränderte Anmerkungen.,يحوي المستند تعليقات جديدة أو معدّلة.
+Document contains no annotations,Le document ne contient aucune annotation,Das Dokument enthält keine Anmerkungen,لا يحوي المستند أية تعليقات
+Document properties,Propriétés du document,Dokumenteigenschaften,خصائص المستند
+Document view and handling,Vue et gestion du document,Dokumentenansicht und Bearbeitung,منظور المستند
+Document viewer for popular document formats,Visionneur de documents pour des formats de documents courants,Dokumentenbetrachter für gängige Dokumentformate,عارض مستندات يدعم الأنساق الشائعة
+Don’t show this message again,Ne plus montrer ce message,Diese Nachricht nicht mehr anzeigen,لا تظهر هذه الرسالة مرة أخرى
+Downloading document (%d%%),Téléchargement du document (%d %%),Dokument wird heruntergeladen (%d%%),ينزّل المستند (%d%%)
+Draw border around pages,Tracer une bordure autour des pages,Seitenränder zeichnen,ارسم حداً حول الصفحات
+Embedded,Intégré,Eingebettet,مدمج
+Embedded subset,Sous-ensemble intégré,Eingebetteter Teilsatz,مدمج جزئيا
+Enable caret navigation?,Activer la navigation au curseur ?,Eingabemarke-Navigation aktivieren?,أأفعّل التصفح بالمؤشّر؟
+End of presentation. Press Esc or click to exit.,Fin de la présentation. Appuyez sur Échap ou cliquez pour quitter.,Ende der Präsentation. Klicken Sie zum Schließen oder drücken Sie Esc.,نهاية العرض. اضغط Esc لتخرج.
+Enlarge the Document,Agrandir le document,Ansicht vergrößern,كبّر المستند
+Enter presentation mode,Entrer en mode présentation,Präsentationsmodus ein-/ausschalten,ادخل في نمط العرض التقديمي
+Evince,Evince,Evince,جلاء
+Evince Document Viewer,Visionneur de documents Evince,Evince-Dokumentenbetrachter,عارض المستندات أفِنس
+Evince is a simple document viewer for GNOME,Evince est un visionneur de documents pour GNOME,Evince ist ein einfacher Dokumentenbetrachter für GNOME,أفِنس Evince هو عارض مستندات بسيط لـGNOME «غنوم»
+"Evince supports documents in: PDF, PS, EPS, XPS, DjVu, TIFF, DVI (with SyncTeX), and Comic Books archives (CBR, CBT, CBZ, CB7).","Evince prend en charge les formats de documents suivants : PDF, PS, EPS, XPS, DjVu, TIFF, DVI (avec SyncTeX) et les formats archives de bandes dessinées (CBR, CBT, CBZ, CB7).","Die folgenden Dokumentformate werden unterstützt: PDF, PS, EPS, XPS, DjVu, TIFF, DVI (inkl. SyncTeX) und Comicbuch-Archive (CBR, CBT, CBZ, CB7).",يدعم الأنساق التالية: PDF، و PS، و EPS، و XPS، و DjVu، و TIFF، و DVI (مع SyncTeX)، و القصص المصورة (CBR، و CBT، و CBZ، و CB7).
+Expand all tree,Étendre toute l’arborescence,Gesamten Baum ausklappen,وسّع كل الشجرة
+Expand all under this element,Tout étendre sous cet élément,Alles unter diesem Element ausklappen,وسّع كل ما تحت هذا العنصر
+FD,DF,DD,واصف
+FILE,FICHIER,DATEI,ملف
+Failed to create a temporary directory: %s,Impossible de créer un répertoire temporaire : %s,Erstellung eines temporären Ordners ist gescheitert: %s,تعذّر إنشاء الدليل المؤقت: %s
+Failed to create a temporary file: %s,Impossible de créer un fichier temporaire : %s,Erstellung einer temporären Datei ist gescheitert: %s,تعذّر إنشاء الملف المؤقت: %s
+Failed to create thumbnail for page %d,Impossible de créer la vignette de la page %d,Fehler beim Erstellen eines Vorschaubildes von Seite %d,تعذّر إنشاء صورة مصغّرة للصفحة %d
+Failed to load document “%s”,Le chargement du document « %s » a échoué,Dokument »%s« konnte nicht geladen werden,تعذر تحميل المستند «%s»
+Failed to load remote file.,Impossible de charger le fichier distant.,Laden der entfernten Datei ist fehlgeschlagen.,تعذر فتح ملف بعيد.
+Failed to print document,L’impression du document a échoué,Dokument konnte nicht gedruckt werden,تعذر طبع المستند
+Failed to print page %d: %s,Impossible d’imprimer la page %d : %s,Fehler beim Drucken der Seite %d: %s,تعذر طبع الصفحة %d:‏ %s
+Failed to reload document.,Le rechargement du document a échoué.,Dokument konnte nicht erneut geladen werden.,تعذر إعادة تحميل المستند.
+Failed to render page %d,Impossible de produire la page %d,Fehler beim Darstellen der Seite %d,تعذر عرض الصفحة %d
+Failed to render page %d: %s,Impossible de produire la page %d : %s,Fehler beim Darstellen der Seite %d: %s,تعذر تصيير الصفحة %d: %s
+Failed to save document “%s”,L’enregistrement du document « %s » a échoué,Dokument »%s« konnte nicht gespeichert werden,تعذر حفظ المستند «%s»
+File descriptor of input file,Descripteur de fichier du fichier d’entrée,Dateideskriptor der Eingabedatei,واصف الملف لملف الإدخال
+File descriptor of print settings file,Descripteur de fichier des paramètres d’impression,Dateideskriptor der Datei für Druckeinstellungen,واصف الملف لملف إعدادات الطباعة
+File is corrupted,Le fichier est corrompu,Datei ist beschädigt,الملف معطوب
+File options,Options des fichiers,Dateioptionen,خيارات الملف
+File specifying print settings,Fichier indiquant les paramètres d’impression,Datei mit Druckeinstellungen,ملف يحدد إعدادات الطباعة
+File type %s (%s) is not supported,Le type de fichier %s (%s) n’est pas pris en charge,Der Dateityp %s (%s) wird nicht unterstützt,نوع الملف %s ‏(%s) غير مدعوم
+Find,Rechercher,Suchen,ابحث
+Find a word or phrase in the document,Recherche un mot ou une phrase dans le document,Ein Wort oder einen Ausdruck im Dokument suchen,ابحث عن كلمة أو عبارة في المستند
+Find next occurrence of the search string,Recherche l’occurrence suivante de la chaîne,Das nächste Vorkommen dieser Zeichenkette suchen,ابحث عن التواجد التالي لنص البحث
+Find previous occurrence of the search string,Recherche l’occurrence précédente de la chaîne,Das vorherige Vorkommen dieser Zeichenkette suchen,ابحث عن التواجد السابق لنص البحث
+Finding text,Recherche de texte,Nach Text suchen,البحث عن نص
+Finishing…,Finalisation…,Abschließen …,يُنهي…
+First Page,Première page,Erste Seite,الصفحة الأولى
+Fit Page,Ajuster à la page,An Seite anpassen,لائم الصفحة
+Fit Width,Ajuster à la largeur,An Breite anpassen,لائم العرض
+Fit page,Ajuster à la page,An Seite anpassen,لائم الصفحة
+Fit to Printable Area,Ajuster selon la zone imprimable,Auf Druckbereich anpassen,لائم المنطقة المطبوعة
+Fit width,Ajuster à la largeur,An Breite anpassen,لائم العرض
+Font,Police,Schrift,خط
+Fonts,Polices,Schrift,خطوط
+Forget password immediately,Oublier le mot de passe immédiatement,Passwort sofort vergessen,انْس كلمة السر فورا
+Format:,Format :,Format:,الهيئة:
+Forward,Suivant,Vor,للأمام
+Fullscreen,Plein écran,Vollbild,ملء الشاشة
+Further Information,Informations complémentaires,Weitere Informationen,المزيد من المعلومات
+GNOME Document Previewer,Prévisualiseur de documents de GNOME,GNOME-Dokumentenvorschau,مُعاين مستندات GNOME «غنوم»
+GNOME Document Viewer,Visionneur de documents de GNOME,GNOME-Dokumentenbetrachter,عارِض مستندات GNOME «غنوم»
+Gathering font information… %3d%%,Collecte des informations de polices… %3d %%,Schriftinformationen werden gesammelt … %3d%%,يجمع معلومات الخط… %3d٪
+General,Général,Allgemein,عام
+Generating preview: page %d of %d,Génération de l’aperçu : page %d sur %d,Vorschau wird erstellt: Seite %d von %d,يُنشئ المعاينة: صفحة %d من %d
+Go to %s on file “%s”,Aller à %s sur le fichier « %s »,Zu %s in Datei »%s« gehen,اذهب إلى %s في الملف «%s»
+Go to file “%s”,Aller à la page « %s »,Zu Datei »%s« gehen,اذهب إلى الملف «%s»
+Go to first page,Aller à la première page,Zur ersten Seite gehen,اذهب إلى الصفحة الأولى
+Go to last page,Aller à la dernière page,Zur letzten Seite gehen,اذهب إلى الصفحة الأخيرة
+Go to next page,Aller à la page suivante,Zur nächsten Seite gehen,اذهب إلى الصفحة التالية
+Go to next page (fast),Aller à la page suivante (rapide),Zur nächsten Seite gehen (schnell),اذهب إلى الصفحة التالية (سريع)
+Go to next page visited,Aller à la page suivante visitée,Zur nächsten besuchten Seite gehen,اذهب إلى الصفحة المزارة التالية
+Go to page,Aller à la page,Zu Seite gehen,اذهب إلى الصفحة
+Go to page %s,Aller à la page %s,Zu Seite %s gehen,اذهب إلى الصفحة %s
+Go to page number,Aller à un numéro de page,Zu Seite gehen,اذهب إلى صفحة
+Go to previous page,Aller à la page précédente,Zur vorherigen Seite gehen,اذهب إلى الصفحة السابقة
+Go to previous page (fast),Aller à la page précédente (rapide),Zur vorherigen Seite gehen (schnell),اذهب إلى الصفحة السابقة (سريع)
+Go to previous page visited,Aller à la page précédente visitée,Zur vorherigen besuchten Seite gehen,اذهب إلى الصفحة المزارة السابقة
+Go to the beginning of the document,Aller au début du document,An den Dokumentanfang gehen,اذهب إلى بداية المستند
+Go to the beginning/end of a page,Aller au début ou à la fin d’une page,An den Seitenanfang / das Seitenende gehen,اذهب إلى بداية أو نهاية الصفحة
+Go to the end of the document,Aller à la fin du document,An das Dokumentende gehen,اذهب إلى نهاية المستند
+Go to the next search result,Aller au prochain résultat de recherche,Zum nächsten Suchergebnis gehen,اذهب إلى نتيجة البحث التالية
+Go to the previous search result,Revenir au résultat de recherche précédent,Zum vorherigen Suchergebnis gehen,اذهب إلى نتيجة البحث السابقة
+Help,Aide,Hilfe,مساعدة
+Highlight,Surligner,Hervorheben,تظليل
+Highlight text,Surligner du texte,Text hervorheben,نص التظليل
+History,Historique,Verlauf,التأريخ
+Icon:,Icône :,Symbol:,الأيقونة:
+"If you close the window, pending print jobs will not be printed.","Si vous fermez la fenêtre, les tâches en attente d’impression ne seront pas imprimées.","Wenn Sie das Fenster schließen, werden ausstehende Druckaufträge nicht ausgeführt.",إذا أغلقت النافذة لن تُطبع المهام المنتظرة.
+"If you don’t save a copy, changes will be permanently lost.","Si vous n’enregistrez pas une copie, les modifications seront définitivement perdues.","Wenn keine Kopie gespeichert wird, gehen die Einträge dauerhaft verloren.",إذا لم تحفظ نسخة فستضيع كل التغييرات.
+"If you reload the document, changes will be permanently lost.","Si vous rechargez le document, les modifications seront définitivement perdues.","Wenn Sie das Dokument neu laden, gehen Einträge dauerhaft verloren.",إذا أعيد تحميل المستند فستضيع كل التغييرات.
+Initial window state:,État initial de la fenêtre :,Anfänglicher Fensterzustand:,حالة النافذة الأولية:
+Insert,Insertion,Einfügen,إدراج
+Invalid document,Document non valide,Ungültiges Dokument,مستند غير صالح
+Invalid page selection,Sélection de pages non valide,Ungültige Seitenauswahl,اختيار صفحات غير سليم
+Jump to page:,Aller à la page :,Zu folgender Seite gehen:,اقفز إلى الصفحة:
+Key,Clé,Schlüssel,مفتاح
+Keyboard shortcuts,Raccourcis clavier,Tastenkürzel,اختصارات لوحة المفاتيح
+Keywords:,Mots-clés :,Schlüsselwörter:,كلمات مفتاحية:
+Last Page,Dernière page,Letzte Seite,الصفحة الأخيرة
+Launch %s,Lancer %s,%s starten,أطلِق %s
+Layers,Couches,Ebenen,الطبقات
+Loading document from “%s”,Chargement du document à partir de « %s »,Dokument wird von »%s« geladen,يحمّل المستند من «%s»
+Loading…,Chargement…,Wird geladen …,يحمّل…
+Location:,Emplacement :,Ort:,المكان:
+MIME type of input file,Type MIME du fichier d’entrée,MIME-Typ der Eingabedatei,نوع MIME لملف الإدخال
+Markup type:,Type de balisage :,Markup-Format:,نوع الرقْم:
+Modified:,Modifié le :,Bearbeitet:,آخر تعديل:
+Move around a page,Se déplacer dans une page,In einer Seite navigieren,تنقّل في الصفحة
+Move up/down a page several lines at a time,Monter / descendre dans une page plusieurs lignes à la fois,Auf einer Seite nach oben/unten bewegen (mehrere Zeilen auf einmal),انتقل لأعلى أو لأسفل الصفحة عدة سطور في المرة
+Moving around the document,Déplacement dans le document,Im Dokument navigieren,التنقل داخل المستند
+NUMBER,NUMÉRO,NUMMER,رقم
+Named destination to display.,Destination nommée à afficher.,Name des anzuzeigenden Ziels.,اسم الوجهة التي ستُعرض.
+Navigation,Navigation,Navigation,إبحار
+New Paragraph,Nouveau paragraphe,Neuer Absatz,فقرة جديدة
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+Next Page,Page suivante,Nächste Seite,الصفحة التالية
+Night Mode,Mode nuit,Nachtmodus,الوضع الليلي
+No,Non,Nein,لا
+No Comment,Aucun commentaire,Kein Kommentar,لا تعليق
+No files in archive,Aucun fichier dans l’archive,Keine Dateien im Archiv,لا ملفات في الأرشيف
+No name,Sans nom,Kein Name,بلا اسم
+No supported images in archive,Aucune image prise en charge dans l’archive,Keine unterstützten Dateien im Archiv,لا صور مدعومة في الأرشيف
+None,Aucun,Kein,لا شيء
+Not a comic book MIME type: %s,Mauvais type MIME bande dessinée : %s,Kein MIME-Typ eines Comicbuchs: %s,ليس نوع MIME قصص مصوّرة: %s
+Not embedded,Non intégré,Nicht eingebettet,غير مدمج
+"Not found, click to change search options","Introuvable, cliquez pour modifier les options de recherche","Nicht gefunden, klicken Sie um die Suchoptionen zu ändern",لا نتيجة، انقر لتغيير خيارات البحث
+Note,Note,Notiz,ملاحظة
+Note text,Annotation,Notiztext,نص الملاحظة
+Number of Pages:,Nombre de pages :,Seitenanzahl:,عدد الصفحات:
+Opacity:,Opacité :,Deckkraft:,الإعتام:
+Open,Ouvrir,Öffnen,مفتوحة
+Open Containing Folder,Ouvrir le dossier parent,Beinhaltenden Ordner öffnen,افتح المجلد الحاوي
+Open Document,Ouvrir un document,Dokument öffnen,افتح مستند
+Open a Copy,Ouvrir une copie,Eine Kopie öffnen,افتح نسخة
+Open a copy of the current document,Ouvrir une copie du document actuel,Eine Kopie des momentan angezeigten Dokuments öffnen,افتح نسخة من المستند الحالي
+Open a document,Ouvrir un document,Ein Dokument öffnen,افتح مستندًا
+Open a new window.,Ouvrir une nouvelle fenêtre.,Ein neues Fenster öffnen.,افتح نافذة جديدة.
+Open an existing document,Ouvre un document existant,Ein vorhandenes Dokument öffnen,افتح مستند موجود
+Open in New Window,Ouvrir dans une nouvelle fenêtre,In neuem Fenster öffnen,افتح في نافذة جديدة
+"Opening, closing, saving and printing","Ouverture, fermeture, enregistrement et impression","Öffnen, schließen, speichern und drucken",الفتح، و الغلق، و الحفظ، و الطباعة
+Open…,Ouvrir…,Öffnen …,افتح…
+Optimized:,Optimisé :,Optimiert:,محسّن:
+Outline,Sommaire,Gliederung,المخطط
+Override document restrictions,Passer outre les restrictions du document,Restriktionen des Dokuments übergehen,تجاوز قيود المستند
+"Override document restrictions, like restriction to copy or to print.","Passer outre les restrictions du document, par exemple sur la copie ou l’impression.","Restriktionen des Dokuments, wie das Verbot zum Kopieren oder Drucken, übergehen.",تجاوز قيود المستند، مثل قيود النسخ أو إمكانية الطباعة.
+PAGE,PAGE,SEITE,صفحة
+PDF Documents,Documents PDF,PDF-Dokumente,مستندات PDF
+Page %d,Page %d,Seite %d,صفحة %d
+Page %s,Page %s,Seite %s,صفحة %s
+Page Handling,Gestion des pages,Seitenverarbeitung,معالجة الصفحات
+Page Scaling:,Ajustement des pages :,Seitenskalierung:,تحجيم الصفحة:
+Page cache size in MiB,Taille du cache des pages en Mio,Seiten-Zwischenspeichergröße in MiB,حجم خبيئة الصفحات بالميبابايت
+Paper Size:,Format de papier :,Papiergröße:,مقاس الورق:
+Paragraph,Paragraphe,Absatz,فقرة
+Password Required,Mot de passe requis,Passwort erforderlich,كلمة السر مطلوبة
+Password for document %s,Mot de passe pour le document %s,Passwort für Dokument »%s«,كلمة سر المستند %s
+Password required,Mot de passe requis,Passwort erforderlich,كلمة السر مطلوبة
+PostScript Documents,Documents PostScript,PostScript-Dokumente,مستندات PostScript
+Preparing preview…,Préparation de l’aperçu…,Vorschau wird vorbereitet …,يحضّر المعاينة…
+Preparing to print…,Préparation de l’impression…,Drucken wird vorbereitet …,يحضّر للطباعة…
+Present as Slideshow,Présenter en diaporama,Als Diaschau präsentieren,عرض شرائح
+Presentation mode,Mode présentation,Präsentationsmodus,طور العرض التقديمي
+"Pressing F7 turns the caret navigation on or off. This feature places a moveable cursor in text pages, allowing you to move around and select text with your keyboard. Do you want to enable the caret navigation?","En appuyant sur F7, la navigation au curseur s’active et se désactive. Cette fonctionnalité place un curseur déplaçable dans les pages de texte, permettant de se déplacer et de sélectionner du texte avec votre clavier. Voulez-vous activer la navigation au curseur ?","Das Drücken von F7 aktiviert und deaktiviert die Eingabemarke-Navigation. Diese Funktion platziert eine bewegliche Eingabemarke in Textseiten und erlaubt es Ihnen, mit der Tastatur zu navigieren sowie Text zu markieren. Möchten Sie die Eingabemarke-Navigation einschalten?",ضغط F7 يفعل أو يعطل وضع التصفح بالمؤشر. تضع هذه الخاصية مؤشرا متحركا في صفحات النصوص يتيح لك التحرك بلوحة المفاتيح. أتريد تفعيل التصفح بالمؤشر؟
+Preview before printing,Aperçu avant impression,Vorschau auf das Dokument vor dem Druck,عايِن قبل الطباعة
+Previous Page,Page précédente,Vorherige Seite,الصفحة السابقة
+Print,Imprimer,Drucken,اطبع
+Print Preview,Aperçu avant impression,Druckvorschau,معاينة الطباعة
+Print the current document,Imprimer le document actuel,Das aktuelle Dokument drucken,اطبع المستند الحالي
+Print this Document,Imprimer ce document,Dieses Dokument drucken,اطبع هذا المستند
+Print this section…,Imprimer cette section…,Diesen Abschnitt drucken …,اطبع هذا المقطع…
+Printing job “%s”,Impression de la tâche « %s »,Druckauftrag »%s« wird ausgeführt,مهمة الطبع «%s»
+Printing page %d of %d…,Impression de la page %d sur %d…,Seite %d von %d wird gedruckt …,يطبع الصفحة %d من %d…
+Print…,Imprimer…,Drucken …,اطبع…
+Producer:,Producteur :,Hersteller:,المنتِج:
+Properties,Propriétés,Eigenschaften,الخصائص
+Properties,Propriétés,Eigenschaften,الخصائص
+Remove Annotation,Enlever l’annotation,Anmerkung entfernen,أزِل التعليق
+Recent Documents,Documents récents,Zuletzt geöffnete Dokumente,المستندات الحديثة
+Reload document “%s”?,Recharger le document « %s » ?,Dokument »%s« neu laden?,أتريد إعادة تحميل المستند «%s»؟
+Reload the document,Recharger le document,Das Dokument aktualisieren,أعد تحميل المستند
+Reloading document from %s,Rechargement du document à partir de %s,Dokument wird erneut von %s geladen,يعيد تحميل المستند %s
+Remember forever,Se souvenir du mot de passe indéfiniment,Für immer erinnern,تذكر للأبد
+Remember password until you log out,Se souvenir du mot de passe pour cette session,Innerhalb dieser Sitzung an Passwort erinnern,تذكر كلمة السر حتى خروجي
+Remove Annotation,Enlever l’annotation,Anmerkung entfernen,احذف التعليق
+Remove bookmark,Supprimer le signet,Lesezeichen entfernen,احذف العلامة
+Requested format is not supported by this printer.,Le format souhaité n’est pas pris en charge par cette imprimante.,Angefragtes Format wird von diesem Drucker nicht unterstützt.,لا تدعم هذه الطابعة النسق المطلوب.
+Reset Zoom and Make the Page Fit in the Window,Réinitialiser le zoom et ajuster la page à la taille de la fenêtre,Vergrößerungsstufe zurücksetzen und Seite an Fenster anpassen,صفّر نسبة التكبير واجعل الصفحة تلائم النافذة
+Reset form,Réinitialiser le formulaire,Formular zurücksetzen,صفّر الاستمارة
+Right to Left Document,Document de droite à gauche,Rechts-nach-links-Dokument,مستند من اليمين لليسار
+Rotate ⤵,Pivoter ⤵,Nach rechts drehen,أِدر ⤵
+Rotate printer page orientation of each page to match orientation of each document page. Document pages will be centered within the printer page.,Fait pivoter les pages à l’impression selon l’orientation de chaque page du document imprimé. Les pages sont centrées dans la zone d’impression de l’imprimante.,Druckseiten auf das Hoch-/Querformat jeder Dokumentseite anpassen. Die Dokumentseiten werden in der Druckseite zentriert.,دوّر اتجاه صفحة الطابعة ليطابق اتجاه كل صفحة في المستند. ستُوسّط صفحات المستند في صفحة الطابعة.
+Rotate the page 90 degrees clockwise,Tourner la page de 90° dans le sens horaire,Die Seite um 90° im Uhrzeigersinn drehen,دور الصفحة ٩٠ درجة مع عقارب الساعة
+Rotate the page 90 degrees counter-clockwise,Tourner la page de 90° dans le sens antihoraire,Die Seite um 90° entgegen dem Uhrzeigersinn drehen,دور الصفحة ٩٠ درجة عكس عقارب الساعة
+Rotating and zooming,Rotation et zoom,Drehen und Vergrößern,التدوير و التقريب
+Run evince as a previewer,Exécute evince en mode aperçu,Evince als Vorschaubetrachter starten,شغّل جلاء كمعاين
+Run evince in fullscreen mode,Exécute evince en mode plein écran,Evince im Vollbildmodus starten,شغّل جلاء في نمط ملء الشاشة
+Run evince in presentation mode,Exécute evince en mode présentation,Evince im Präsentationsmodus starten,شغّل جلاء في نمط العرض التقديمي
+Running in presentation mode,Exécution en mode présentation,Derzeit im Präsentationsmodus,يعمل في نمط العرض التقديمي
+STRING,CHAÎNE,ZEICHENKETTE,نص
+Save As…,Enregistrer sous…,Speichern unter …,احفظ باسم…
+Save Attachment,Enregistrer la pièce jointe,Anlage speichern,احفظ الملف المرفق
+Save Image,Enregistrer l’image,Bild speichern,احفظ الصورة
+Save a Copy,Enregistrer une copie,Eine Kopie speichern,احفظ نسخة
+Save a copy of document “%s” before closing?,Enregistrer une copie du document « %s » avant de fermer ?,Soll vor dem Schließen eine Kopie von »%s« gespeichert werden?,أأحفظ نسخة من المستند «%s» قبل غلقه؟
+Save a copy of the current document,Enregistrer une copie du document actuel,Eine Kopie des momentan angezeigten Dokuments speichern,احفظ نسخة من المستند الحالي
+Saving attachment to %s,Enregistrement de la pièce jointe vers %s,Anlage wird in %s gespeichert,يحفظ المرفق في %s
+Saving document to %s,Enregistrement du document vers %s,Dokument wird in %s gespeichert,يحفظ المستند في %s
+Saving image to %s,Enregistrement de l’image vers %s,Bild wird in %s gespeichert,يحفظ الصورة في %s
+"Scale document pages to fit the selected printer page. Select from one of the following:
+
+• “None”: No page scaling is performed.
+
+• “Shrink to Printable Area”: Document pages larger than the printable area are reduced to fit the printable area of the printer page.
+
+• “Fit to Printable Area”: Document pages are enlarged or reduced as required to fit the printable area of the printer page.","Redimensionne les pages du document pour correspondre à la taille de page de l’imprimante sélectionnée. Choisissez parmi les options suivantes :
+
+• Aucune : les pages ne sont pas redimensionnées.
+
+• Réduire selon la zone imprimable : les pages plus grandes que la zone imprimable sont réduites pour correspondre à la zone imprimable de l’imprimante.
+
+• Ajuster selon la zone imprimable : les pages sont réduites ou agrandies afin de correspondre au mieux à la zone imprimable de l’imprimante.","Die Dokumentseiten skalieren, sodass sie auf die gewählte Druckseite passen. Wählen Sie eine der folgenden Optionen:
+
+• »Kein«: Es wird keine Skalierung durchgeführt.
+
+• »Auf Druckbereich verkleinern«: Dokumentseiten werden auf den Druckbereich der Seite verkleinert, wenn sie größer als dieser sind.
+
+• »Auf Druckbereich anpassen«: Dokumentseiten werden bei Bedarf vergrößert oder verkleinert, um in den Druckbereich der Seite zu passen.","تحجيم صفحات المستند لتناسب صفحة الطابعة المختارة. اختر واحدا من التالي:
+
+• «لا»: لا تحجيم للصفحات.
+
+• «قلّص إلى المنطقة المطبوعة»: صفحات المستند الأكبر من المنطقة القابلة للطباعة ستقلص لتناسب صفحة الطابعة.
+
+• «لائم المنطقة المطبوعة»: ستكبر أو تصغر صفحات المستند بما يناسب المنطقة المطبوعة."
+Scroll Down,Défiler vers le bas,Hinunter rollen,لُف لأسفل
+Scroll Up,Défiler vers le haut,Hinauf rollen,لُف لأعلى
+Scroll View Down,Faire défiler la vue vers le bas,Ansicht nach unten verschieben,لُف المشهد لأسفل
+Scroll View Up,Faire défiler la vue vers le haut,Ansicht nach oben verschieben,لُف المشهد لأعلى
+Search in the outline…,Rechercher dans le sommaire…,In der Gliederung suchen …,ابحث في المخطط…
+Search not available for this document,Recherche non disponible pour ce document,Suche ist für dieses Dokument nicht verfügbar,لا يتوفر البحث لهذا المستند
+Search options,Options de recherche,Suchoptionen,خيارات البحث
+Security alert: this document has been prevented from opening the file “%s”,Alerte de sécurité : ce document n’a pas été autorisé à ouvrir le fichier « %s »,"Sicherheitswarnung: Dieses Dokument wurde daran gehindert, die Datei »%s« zu öffnen",تحذير أمن: مُنع هذا المستند من فتح الملف «%s»
+Security:,Sécurité :,Sicherheit:,الأمن:
+Select Page or Search in the Outline,Choisir une page ou chercher dans le sommaire,Seite wählen oder in der Gliederung suchen,حدد صفحة أو ابحث في المخطط
+Select All,Tout sélectionner,Alles auswählen,اختر الكل
+Select all the text in a document,Sélectionner tout le texte d’un document,Den gesamten Text im Dokument markieren,اختر كل النص في المستند
+Select or set the zoom level of the document,Choisir ou définir le niveau de zoom du document,Vergrößerungsstufe des Dokuments wählen oder festlegen,اختر أو حدد مستوى تقريب المستند
+Select page,Choisir une page,Seite auswählen,اختر صفحة
+Select page or search in the outline,Choisir une page ou chercher dans le sommaire,Seite wählen oder in der Gliederung suchen,اختر صفحة أو ابحث في المخطط
+Select page size using document page size,Choisir la taille du papier en fonction de celle des pages du document,Die Seitengröße anhand der Größe der Dokumentseite wählen,اختر حجم الصفحة طبقا لحجم صفحة المستند
+Selecting and copying text,Sélection et copie de texte,Text markieren und kopieren,تحديد و نسخ النص
+Send To…,Envoyer à…,Senden an …,أرسل إلى…
+Set the default zoom level to display a document.,Définir le niveau de zoom pour l’affichage du document.,Die voreingestellte Vergrößerungsstufe zur Darstellung eines Dokuments festlegen,حدد مستوى التقريب المبدئي لعَرض المستند.
+Set zoom level,Définir le niveau de zoom,Vergrößerungsstufe festlegen,حدد مستوى التقريب
+Show a dialog to confirm that the user wants to activate the caret navigation.,Afficher une boîte de dialogue pour confirmer que l’utilisateur veut activer la navigation au curseur.,"Einen Dialog anzeigen, um die Aktivierung der Eingabemarke-Navigation zu bestätigen.",اعرض مربع حواري لتأكيد أن المستخدم يريد تفعيل التصفح بالمؤشر.
+Show a side bar next to the document to help navigate the document.,Afficher un panneau latéral à côté du document pour aider à la navigation,Eine Seitenleiste zur einfacheren Orientierung im Dokument anzeigen,أظهِر شريطا جانبيا بجانب المستند للمساعدة في الإبحار في المستند.
+Show help,Afficher l’aide,Hilfe anzeigen,عرض المساعدة
+Show the first page (odd page) on the left (when displaying two pages side by side),Afficher la première page (page impaire) à gauche (lors de l’affichage de deux pages côte à côte),Die erste Seite (ungerade) auf der linken Seite anzeigen (wenn zwei Seiten nebeneinander angezeigt werden),اعرض الصفحة الأولى (الصفحة الفردية) إلى اليسار (عند عَرض صفحتين جنبا إلى جنب)
+Show the search bar,Afficher la barre de recherche,Die Suchleiste anzeigen,أظهر شريط البحث
+Show two pages side by side.,Afficher deux pages côte à côte.,Zwei Seiten nebeneinander anzeigen,اعرض صفحتين جنبا إلى جنب.
+Shrink the Document,Réduire le document,Ansicht verkleinern,قلّص المستند
+Shrink to Printable Area,Réduire selon la zone imprimable,Auf Druckbereich verkleinern,قلّص إلى المنطقة المطبوعة
+Side pane,Panneau latéral,Seitenleiste,اللوحة الجانبية
+Size:,Taille :,Größe:,الحجم:
+Squiggly,Ondulé,Verschnörkelt,متعرج
+Strike out,Rayer,Durchstreichen,شطب
+Subject:,Sujet :,Betreff:,الموضوع:
+Supported Image Files,Fichiers images pris en charge,Unterstützte Bildformate,ملفات الصور المدعومة
+TIFF Documents,Documents TIFF,TIFF-Dokumente,مستندات TIFF
+TYPE,TYPE,TYP,النوع
+Text License,Texte de la licence,Lizenztext,رخصة النص
+The GNOME Project,Le projet GNOME,Das GNOME-Projekt,مشروع GNOME «غنوم»
+The URI of the directory last used to open or save a document,L’URI du dernier répertoire utilisé pour ouvrir ou enregistrer un document,"Adresse (URI) des Ordners, der zuletzt zum Öffnen oder Speichern eines Dokuments verwendet wurde",مسار آخر مجلد استُخدِم لفتح أو حفظ مستند
+The URI of the directory last used to save a picture,L’URI du dernier répertoire utilisé pour enregistrer une image,"Adresse (URI) des Ordners, der zuletzt zum Öffnen oder Speichern eines Bilds verwendet wurde",مسار آخر مجلد استُخدِم لحفظ صورة
+The attachment could not be saved.,La pièce jointe ne peut pas être enregistrée.,Die Anlage konnte nicht gespeichert werden.,تعذر حفظ المرفق.
+The document contains no pages,Le document n’a aucune page,Das Dokument enthält keine Seiten,لا يحوي المستند أية صفحات
+The document contains only empty pages,Le document ne contient que des pages vides,Das Dokument enthält nur leere Seiten,لا يحتوي المستند إلا صفحات فارغة
+The document is automatically reloaded on file change.,Le document est rechargé automatiquement en cas de modification du fichier.,"Das Dokument wird automatisch aktualisiert, wenn sich die Datei verändert.",يعاد تحميل المُستند تلقائيًا عند تغيّر الملف.
+The document is composed of several files. One or more of these files cannot be accessed.,"Le document est composé de plusieurs fichiers. Un ou plusieurs de ces
+fichiers ne sont pas accessibles.",Das Dokument besteht aus mehreren Dateien. Auf eine oder mehrere Dateien kann nicht zugegriffen werden.,المستند مركب من ملفات عديدة. لم يمكن قراءة واحد أو أكثر من هذه الملفات.
+The document “%s” is locked and requires a password before it can be opened.,Le document « %s » est verrouillé et nécessite un mot de passe avant de pouvoir être ouvert.,"Das Dokument »%s« ist gesperrt und benötigt ein Passwort, bevor es geöffnet werden kann.",المستند «%s» مقفل ويتطلب كلمة سر ليُفتح.
+The file could not be saved as “%s”.,Le fichier ne peut pas être enregistré sous « %s ».,Die Datei konnte nicht als »%s« gespeichert werden.,تعذر حفظ الملف باسم «%s».
+The file “%s” already exists. Replacing it will overwrite its contents.,Le fichier « %s » existe déjà. Le remplacer écrasera son contenu.,Die Datei »%s« existiert bereits. Durch ihr Ersetzen wird sämtlicher Inhalt überschrieben.,يوجد ملف بالاسم «%s». استبداله سيمحي محتواه القديم.
+The image could not be saved.,L’image ne peut pas être enregistrée.,Das Bild konnte nicht gespeichert werden.,تعذر حفظ الصورة.
+"The maximum size that will be used to cache rendered pages, limits maximum zoom level.","La taille maximale qui sera utilisée pour le cache du rendu des pages, limite le niveau de zoom maximal.",Die maximale Größe um gerenderte Seiten zwischenzuspeichern. Limitiert die maximale Vergrößerungs-/Verkleinerungsstufe.,الحجم الأقصى الذي سيُستخدم لتخزين الصفحات بعد تصييرها، يحدُّ من أقصى مستوى للتكبير.
+The page label of the document to display.,L’étiquette de la page du document à afficher.,Die anzuzeigende Seitenbezeichnung des Dokuments.,عنوان صفحة المستند المطلوب عرضها.
+The page number of the document to display.,Le numéro de la page du document à afficher.,Die anzuzeigende Seitennummer des Dokuments.,رقم صفحة المستند المطلوب عرضها.
+The selected printer “%s” could not be found,L’imprimante sélectionnée « %s » ne peut pas être trouvée,Der gewählte Drucker »%s« konnte nicht gefunden werden,تعذّر العثور على الطابعة «%s» المختارة
+The word or phrase to find in the document,Le mot ou la phrase à rechercher dans le document,"Das Schlagwort, welches im Dokument gesucht werden soll",الكلمة أو العبارة التي سيتم البحث عنها في المستند
+"This document contains non-embedded fonts that are not from the PDF Standard 14 fonts. If the substitute fonts selected by fontconfig are not the same as the fonts used to create the PDF, the rendering may not be correct.","Ce document contient des polices non intégrées qui ne font pas partie des 14 polices PDF standards. Si les polices de substitution sélectionnées par « fontconfig » ne sont pas les mêmes que les polices utilisées pour créer le PDF, le rendu risque d’être incorrect.","Dieses Dokument enthält Schriftarten, die nicht Teil der 14 PDF-Standardschriftarten sind, jedoch nicht in das Dokument eingebettet sind. Falls die von fontconfig ausgewählten Ersetzungsschriftarten nicht die gleichen sind wie bei der Erstellung des PDF-Dokuments, könnte die Darstellung nicht korrekt sein.",يحتوي هذا المستند على خطوط غير مدمجة ليست ضمن خطوط PDF الأربعة عشر المعيارية. إذا كان الخط البديل الموجود على نظامك لا يطابق الخط المستخدم عند إنشاء المستند فقد لا تظهر النصوص بشكل صحيح.
+This document is locked and can only be read by entering the correct password.,Ce document est verrouillé et ne peut être lu qu’en saisissant le mot de passe correct.,Dieses Dokument ist gesperrt und kann nur nach Eingabe des korrekten Passworts gelesen werden.,هذا المستند مقفل ولا يمكن قراءته إلا بإدخال كلمة السر الصحيحة.
+This work is in the Public Domain,Cette œuvre est dans le domaine public,Dieses Werk ist gemeinfrei,هذا العمل ملكية عامة
+Thumbnails,Vignettes,Vorschaubilder,مُصغّرات
+Title:,Titre :,Titel:,العنوان:
+Toggle black screen,Basculer l’écran noir,Schwarzen Bildschirm ein-/ausschalten,بدّل الشاشة السوداء
+Toggle caret navigation,Basculer la navigation au curseur,Eingabemarke-Navigation aktivieren/deaktivieren,بدّل التصفح بالمؤشّر
+Toggle continuous scrolling,Basculer le défilement continu,Fortlaufenden Bildlauf ein-/ausschalten,بدّل التصفح المستمر
+Toggle dual page,Basculer la double page,Zweiseitige/einseitige Ansicht umschalten,بدّل اللوحة المزدوجة
+Toggle fullscreen,Basculer le mode plein écran,Vollbildmodus aktivieren/deaktivieren,بدّل ملء الشاشة
+Toggle night mode,Basculer le mode nuit,Nachtmodus ein-/ausschalten,بدّل الطور الليلي
+Toggle odd pages left,Basculer les pages impaires à gauche,Ungerade Seiten links/rechts umschalten,بدّل الصفحات الفردية على اليسار
+Toggle primary menu,Basculer le menu principal,Primäres Menü anzeigen/ausblenden,بدّل القائمة الرئيسية
+Toggle sidebar,Basculer le panneau latéral,Seitenleiste ein-/ausblenden,بدّل الشريط الجانبي
+Toggle white screen,Basculer l’écran blanc,Weißen Bildschirm ein-/ausschalten,بدّل الشاشة البيضاء
+Touchpad gestures,Gestes au pavé tactile,Tastfeldgesten,حركات لوحة اللمس
+TrueType,TrueType,TrueType,تروتيب
+TrueType (CID),TrueType (CID),TrueType (CID),TrueType ‏(CID)
+Type 1,Type 1,Type 1,Type 1
+Type 1 (CID),Type 1 (CID),Type 1 (CID),Type 1 ‏(CID)
+Type 1C,Type 1C,Type 1C,Type 1C
+Type 1C (CID),Type 1C (CID),Type 1C (CID),Type 1C ‏(CID)
+Type 3,Type 3,Type 3,Type 3
+Unable to open attachment,Impossible d’ouvrir la pièce jointe,Anlage konnte nicht geöffnet werden,تعذر فتح المرفق
+Unable to open document “%s”.,Impossible d’ouvrir le document « %s ».,Dokument »%s« konnte nicht geöffnet werden.,تعذر فتح المستند «%s».
+Unable to open external link,Impossible d’ouvrir le lien externe,Externer Link konnte nicht geöffnet werden,تعذر فتح وصلة خارجية
+Underline,Souligner,Unterstreichen,تسطير
+Unknown,Inconnu,Unbekannt,مجهول
+Unknown MIME Type,Type MIME inconnu,Unbekannter MIME-Typ,نوع MIME غير معروف
+Unknown font type,Type de police inconnu,Unbekannter Schrifttyp,نوع الخط غير معروف
+Uploading attachment (%d%%),Envoi de la pièce jointe (%d %%),Anlage wird hochgeladen (%d%%),يرفع المرفق (%d%%)
+Uploading document (%d%%),Envoi du document (%d %%),Dokument wird hochgeladen (%d%%),يرفع المستند (%d%%)
+Uploading image (%d%%),Envoi de l’image (%d %%),Bild wird hochgeladen (%d%%),يرفع الصورة (%d%%)
+Usage terms,Conditions d’utilisation,Nutzungsbedingungen,شروط الاستخدام
+View multi-page documents,Afficher des documents multipages,Mehrseitige Dokumente anzeigen,اعرض المستندات متعددة الصفحات
+Wait until print job “%s” finishes before closing?,Faut-il attendre la fin de l’impression de « %s » avant de fermer ?,Soll vor dem Schließen auf das Beenden des Druckauftrages »%s« gewartet werden?,أأنتظر حتى تنتهي المهمة «%s» قبل الغلق؟
+Warning,Avertissement,Warnung,تحذير
+"When enabled, a border will be drawn around each page.","Si activé, une bordure est tracée autour de chaque page.","Falls aktiviert, wird ein Rand um jede Seite gezeichnet.",عند تفعيله فسيرسم حداً حول كل صفحة.
+"When enabled, each page will be printed on the same size paper as the document page.","Si activé, chaque page est imprimée selon la taille de papier indiquée dans le document.","Legt fest, ob jede Seite auf der gleichen Papiergröße wie die Dokumentseite gedruckt werden soll.",عند تفعيله ستطبع كل صفحة على ورق من نفس حجم صفحة المستند.
+Window,Fenêtre,Fenster,نافذة
+XPS Documents,Documents XPS,XPS-Dokumente,مستندات XPS
+Yes,Oui,Ja,نعم
+Your print range selection does not include any pages,Votre intervalle d’impression n’inclut aucune page,Ihre Druckbereichsauswahl enthält keine Seiten,مدى الطباعة الذي اخترته لا يشمل أي صفحات
+Zoom 1∶1,Zoom 1∶1,Maßstab 1:1,تقريب 1:1
+Zoom in,Zoom avant,Vergrößern,قرّب
+Zoom in (alternative),Zoom avant (alternative),Vergrößern (alternativ),تقريب (بديل)
+Zoom out,Zoom arrière,Verkleinern,بعّد
+[FILE…],[FICHIER…],[DATEI …],[ملف…]
+About Document Viewer,À propos de Visionneur de documents,Info zu Dokumentenbetrachter,عن عارض المستندات
+Apply,Appliquer,Anwenden,طبّق
+Automatic,Automatique,Automatisch,تلقائي
+Cancel,Annuler,Abbrechen,ألغ
+Close,Fermer,Schließen,أغلق
+Continuous,Continu,Fortlaufend,مستمر
+Copy,Copier,Kopieren,انسح
+Copy Link Address,Copier l’adresse du lien,Link-Adresse kopieren,انسخ عنوان الرابط
+Delete Bookmark,Supprimer le signet,Lesezeichen löschen,احذف العلامة
+Dual,Double,Zweiseitig,مزدوج
+Enable,Activer,Aktivieren,فعّل
+Go To,Aller à,Gehe zu,اذهب إلى
+Help,Aide,Hilfe,مساعدة
+Highlight Selected Text,Mettre en surbrillance le texte sélectionné,Ausgewählten Text hervorheben,أبرز النص المحدد
+Keyboard Shortcuts,Raccourcis clavier,Tastenkürzel,اختصارات لوحة المفاتيح
+Next Page,Page suivante,Nächste Seite,الصفحة التالية
+No,Non,Nein,لا
+Odd Pages Left,Pages impaires à gauche,Zweiseitig (ungerade Seiten links),الصفحات الزوجية يمينًا
+Open,Ouvrir,Öffnen,افتح
+Open Attachment,Ouvrir la pièce jointe,Anlage öffnen,افتح المرفق
+Open Bookmark,Ouvrir le signet,Lesezeichen öffnen,افتح العلامة
+Open Link,Ouvrir le lien,Link öffnen,افتح الرابط
+Password:,Mot de passe :,Passwort:,كلمة السر:
+Previous Page,Page précédente,Vorherige Seite,الصفحة السابقة
+Print,Imprimer,Drucken,اطبع
+Reload,Recharger,Aktualisieren,أعد التحميل
+Rename Bookmark,Renommer le signet,Lesezeichen umbenennen,غيّر اسم العلامة
+Replace,Remplacer,Ersetzen,استبدِل
+Save,Enregistrer,Speichern,احفظ
+Save As…,Enregistrer sous…,Speichern unter …,احفظ باسم…
+Save Attachment As…,Enregistrer la pièce jointe sous…,Anlage speichern als …,احفظ المرفق باسم…
+Save Image As…,Enregistrer l’image sous…,Bild speichern unter …,احفظ الصورة ك‍…
+Unlock,Déverrouiller,Entsperren,افتح القفل
+Unlock Document,Déverrouiller le document,Dokument entsperren,افتح قفل المستند
+Whole Words Only,Mots entiers,Nur ganze Wörter,كلمات كاملة فقط
+default:mm,default:mm,default:mm,default:mm
+"libarchive lacks support for this comic book’s compression, please contact your distributor","libarchive ne dispose pas de la prise en charge pour le format de compression de cette bande dessinée, veuillez contacter votre distributeur","libarchive fehlt die Unterstützung für die Komprimierung dieses Comicbuchs, bitte kontaktieren Sie Ihren Distributor",لا تدعم مكتبة libarchive نسق ضغط كتاب القصص المصورة هذا، رجاء تواصل مع توزيعتك
+of %d,sur %d,von %d,من %d
+page-label-entry,page-étiquette-entrée,Seitenbezeichnungseintrag,مُدخَلة واصفة صفحة

@@ -1,0 +1,1027 @@
+
+%(uri)s link to %(file)s,lien %(uri)s vers %(file)s,%(uri)s Link auf %(file)s,%s وصلة لـ %s
+%.2f kilobytes,%.2f kilooctets,%.2f Kilobytes,%.2f كيلوبايت
+%.2f megabytes,%.2f mégaoctets,%.2f Megabytes,%.2f ميغابايت
+%s default voice,voix par défaut %s,%s Standardstimme,%s صوت افتراضي
+%s link,lien %s,%s Link,%s وصلة
+%s panel,,,%s لوحة
+%s screen,,,%s شاشة
+(double click),,,(نقر مزدوج)
+(triple click),,,(نقر ثلاثي)
+0 items,0 élément,0 Objekte,0 عناصر
+1. Desktop,,,1. حاسوب مكتبي
+2. Laptop,,,2. حاسوب محمول
+???,???,???,؟؟؟
+A ACUTE,,,A حاد
+A CIRCUMFLEX,,,A علامة
+A E,,,A E
+A GRAVE,,,A شديد
+A RING,,,A دائرة
+A TILDE,,,A تلدة
+A UMLAUT,,,A نقطتين
+A channel only if its window is active,Un canal uniquement si sa fenêtre est active,"Einen Kanal nur, wenn dessen Fenster aktiv ist",قناة فقط إن كانت نافذتها نشطة
+Accessibility support for GNOME has just been enabled.,,,تم تفعيل الوصولية لجنوم
+Actual String,Chaîne réelle,Aktuelle Zeichenkette,النص الحالي
+Add bookmark.,,,اضِف علامة موقع.
+Adjust selected attributes,,,"صفف الخصائص
+المختارة"
+Advance live region politeness setting.,,,إعدادات تهذيب متقدمة للمنطقة الحية.
+All,Tous,Alle,الكل
+All channels,Tous les canaux,Alle Kanäle,كل القنوات
+All channels when any %s window is active,Tous les canaux quand n’importe quelle fenêtre %s est active,"Alle Kanäle, wenn ein beliebiges %s-Fenster aktiv ist",كل القنوات عندما تكون اي نافذة بدجن نشطة
+All live regions set to off,Toutes les zones dynamiques sont définies à « désactivé »,Alle dynamischen Bereiche ausgeschaltet,كل المناطق الحية موقفة
+Alt,Alt,Alt,AltR
+AltL,,,AltL
+AltR,AltD,AltR,AltR
+Announce cell header,Annoncer les en-têtes de cellule,Zellenüberschrift vorlesen,اعلن عنوان الخلية
+Announce when your buddies are typing,Indique si vos contacts saisissent un message,"Ankündigen, wenn unsere Kontakte etwas eingeben",أعلن عندما يكتب أصدقائك
+Application,Application,Anwendung,تطبيق
+Arabic Grade 1,Arabe degré 1,Arabisch Grad 1,العربية الدرجة 1
+Attachment,,,مُرفق
+Attribute Name,Nom d’attribut,Attributname,اسم الصنف
+Automatically start speaking a page when it is first loaded,Démarrer automatiquement la lecture d’une page dès qu’elle est chargée pour la première fois,Vorlesen der Seite automatisch beim ersten Laden starten,انطق بالصفحة آليا عند تحميلها أولا
+Available fields,,,المجالات المتوفرة
+Beginning of row.,Début de la ligne.,Zeilenanfang.,بداية الصف.
+Belgium Dutch Grade 1,Néerlandais belge degré 1,Belgien-Niederländisch Grad 1,الألمانية البلجيكية الدرجة 1
+Bookmark where am I with respect to current position.,,,علامة الموقع بالنسبة للموقع الحالي.
+Bottom,Bas,Unterste,الأسفل
+Bottom Right,,,أدنى اليمين
+Bottom of column.,Bas de la colonne.,Unterer Rand der Spalte.,أسفل العمود.
+Braille,Braille,Braille,براي
+Braille Bindings,Raccourcis Braille,Braille-Belegung,ارتباطات برايل
+Braille Indicator,Indicateur de braille,Braille-Indikator,مبيّن برايل
+Brief,Court,Kurz,ملخّص
+Bypass mode enabled.,,,وضع التجاوز مفعل.
+C CEDILLA,,,C سيدلا
+Current location,Emplacement actuel,Aktuelle Position,الموقع الحالي
+Canada French Grade 1,Français canadien degré 1,Kanada-Französisch Grad 1,الفرنسية الكندية الدرجة 1
+Canada French Grade 2,Français canadien degré 2,Kanada-Französisch Grad 2,الفرنسية الكندية باختصارات
+CapsLock,Verr. maj.,Feststelltaste,تغيير الزر
+Causes the current combo box to be expanded.,,,تؤدي إلى فتح صندوق الإختيار الحالي.
+Cell %s,Cellule %s,Zelle %s,الخلية %s
+Change to:,,,تغيير إلى:
+Check Spelling,,,تثبت من تهجيئ الكلمات
+Clears the dynamic column headers.,,,يمسح رؤوس الاعمدة المتغيرة.
+Clears the dynamic row headers,,,يمسح رؤوس الصفوف المتغيرة.
+Close,,,أغلق
+Completed spell checking,,,إكمال التهجئة
+Context is %s,Le contexte est %s,Kontext ist %s,السياق هو %s
+Contraction Table:,Tableau d’abréviation :,Kurzschrifttabelle:,جدول التقليص:
+Control,Contrôle,Strg,زر كنترول اليميني
+Could not find current location.,Impossible de trouver l’emplacement actuel.,Aktuelle Position konnte nicht gefunden werden.,الموقع الحالي
+Ctrl,Ctrl,Strg,Ctrl
+Cursor Position,Position du curseur,Cursorposition,موقع المؤشّر
+Cursor Routing,Routage du curseur,Cursor-Routing,موقع المؤشّر
+Cut Line,Couper ligne,Text kopieren,خط
+Cycles the debug level at run time.,,,يدير مستوى التنقيح عند التشغيل.
+Cycles to the next capitalization style.,,,يدور لوضع التكبير التالي.
+Cycles to the next key echo level.,,,يدور لوضع التكبير التالي.
+Cycles to the next speaking of punctuation level.,,,يدور لوضع التكبير التالي.
+Czech Grade 1,Tchèque degré 1,Tschechisch Grad 1,تشيكي بدون اختصارات
+Decreases the speech pitch.,,,يخفض قوة الحديث.
+Decreases the speech rate.,,,يخفض تردد الحديث.
+Default,Par défaut,Vorgabe,إفتراضي
+Default Synthesizer,Synthétiseur par défaut,Standardsynthesizer,نظام النطق الإفتراضي
+Default button is %s,Le bouton par défaut est %s,Standardknopf ist %s,الزر الإفتراضي هو %s
+Desk,,,مكتب
+Directories button,,,زر الدلائل
+Disable end of line symbol,Désactiver le symbole fin de ligne,Zeilenende-Symbol nicht anzeigen,عطل رمز نهاية السطر
+Disabled,Désactivée,Deaktiviert,أيحرر
+Display Settings,Paramètres d’affichage,Anzeigeeinstellungen,عرض خيارات أخرى
+Display more options,,,عرض خيارات أخرى
+Displays the application preferences configuration dialog.,,,يظهر حوار إعدادات التطبيق.
+Displays the preferences configuration dialog.,,,يظهر حوار الإعدادات.
+Do not announce when your buddies are typing.,Ne pas annoncer lorsque les contacts saisissent un message.,"Nicht ankündigen, wenn unsere Kontakte etwas eingeben.",لا تعلن عندما يكتب أصدقائك.
+Do not provide chat room specific message histories.,Ne pas donner les historiques de messages par salon de discussion.,Chatraum-bezogene Nachrichtenverläufe nicht bereitstellen.,لا توفر تاريخ غرفة المحادثة لرسائل مخصصة.
+Do not speak chat room name.,Ne pas lire le nom du salon de discussion.,Chatraum-Namen nicht vorlesen.,لا تتكلم باسم غرفة المحادثة.
+Dot 7,Point 7,Punkt 7,النقطة 7
+Dot 8,Point 8,Punkt 8,النقطة 8
+Dots 7 and 8,Points 7 et 8,Punkte 7 und 8,النقطة 7 و 8
+Dynamic column header cleared.,En-tête dynamique de colonne effacé.,Zugewiesene Spaltenüberschrift gelöscht.,تم مسح ترويسة عمود الجدول الديناميكية.
+Dynamic column header set for row %d,En-tête dynamique de colonne défini pour la ligne %d,Zeile %d für Spaltenüberschriften festgelegt,رأس العمود المتغير وضع للصف %d
+Dynamic row header cleared.,En-tête dynamique de ligne effacé.,Zugewiesene Spaltenüberschrift gelöscht.,تم مسح ترويسة صف الجدول الديناميكية.
+Dynamic row header set for column %s,En-tête dynamique de ligne défini pour la colonne %s,Spalte %s für Zeilenüberschrift festgelegt,تم تحديد ترويسة الصف للعمود %s
+E ACUTE,,,E حاد
+E CIRCUMFLEX,,,E علامة
+E GRAVE,,,E شديد
+E UMLAUT,,,E نقطتين
+ETH,,,اث
+Enable Braille Monitor?  Enter y or n:,,,تفعيل ملاحظ البرايل؟ ادخل y أو n:
+Enable Braille monitor,,,تفعيل مراقب بريل
+Enable Braille support,Activer la prise en charge du braille,Braille-Unterstützung aktivieren,تفعيل دعم بريل
+Enable Braille?  Enter y or n:,,,تفعيل البرايل؟ ادخل y أو n:
+Enable alphanumeric and punctuation keys,,,تفعيل مفاتيح الأرقام و الحروف وعلامات التنقيط
+Enable function keys,Activer les touches de fonction,Funktionstasten aktivieren,تفعيل مفاتيح الوضائف
+Enable key echo,Activer l’écho des touches,Tastaturecho aktivieren,تفعيل صدى المفاتيح
+Enable modifier keys,Activer les touches de modification,Modustasten aktivieren,تفعيل المفاتيح المغيّرة
+Enable navigation keys,Activer les touches de navigation,Navigationstasten aktivieren,تفعيل مفاتيح التصفح
+Enable action keys,Activer les touches d’action,Aktionstasten aktivieren,تفعيل المفاتيح السريعة
+Enable action keys?  Enter y or n:,,,تفعيل مفاتيح النشاط؟ ادخل y أو n:
+Enable alphanumeric and punctuation keys?  Enter y or n:,,,تفعيل مفاتيح الحروف، الأرقام و التنقيط؟ ادخل y أو n:
+Enable echo by sentence,Activer l’écho par phrase,Satzweises Echo aktivieren,تفعيل الصدى بالجملة
+Enable echo by word,Activer l’écho par mot,Wortweises Echo aktivieren,تفعيل الصدى بالكلمة
+Enable echo by character,Activer l’écho par caractère,Zeichenweises Echo aktivieren,تفعيل الصدى بالكلمة
+Enable echo by word?  Enter y or n:,,,تفعيل صدى المفاتيح بالكلمة؟ ادخل y أو n:
+Enable function keys?  Enter y or n:,,,تفعيل المفاتيح الوضيفية؟ ادخل y أو n:
+Enable key echo?  Enter y or n:,,,تفعيل صدى المفاتيح؟ ادخل y أو n:
+Enable modifier keys?  Enter y or n:,,,تفعيل مفاتيح التغيير؟ ادخل y أو n:
+Enable non-spacing diacritical keys,Activer les touches diacritiques de non-espacement,Diakritische Tasten sprechen,تفعيل مفاتيح التصفح
+Enabled,,,تفعيل الحدود
+Enabled,Activée,Aktiviert,تفعيل الحدود
+End of row.,Fin de la ligne.,Zeilenende.,نهاية الصف.
+End of table,Fin du tableau,Tabellen Ende,%d من الجداول
+Enter choice:,,,أدخل الإختيار:
+Entering flat review.,Activation du curseur de balayage.,Die Übersicht betreten.,دخول وخروج نمط المراجعة الثابتة.
+"Entering learn mode.  Press any key to hear its function.  To get a list of Orca shortcuts, press the Orca modifier plus H twice quickly. To view the documentation, press F1. To exit learn mode, press the escape key.",,,الدخول إلى نمط التعلم. اضغط أي زر لسماع وظيفته. للخروج اضغط على ESC.
+Enters and exits flat review mode.,,,دخول وخروج نمط المراجعة الثابتة.
+Enters learn mode.  Press escape to exit learn mode.,,,يدخل نمط التعلم. اضغط ESC للخروج.
+Enters list shortcuts mode.  Press escape to exit list shortcuts mode.,,,يدخل نمط التعلم. اضغط ESC للخروج.
+Exiting learn mode.,Fin du mode d’apprentissage.,Lernmodus wird verlassen.,الخروج من نمط التعلم.
+Exiting list shortcuts mode.,,,الخروج من نمط التعلم.
+F 11,,,ف 11
+F 12,,,ف 12
+Find,Recherche,Suchen,اجد
+Find Options,Options de recherche,Suchoptionen,جد خيارات
+Finished loading %s.,Chargement de %s terminé.,Laden von %s abgeschlossen.,انتهى تحميل %s.
+Finished loading.,Chargement terminé.,Laden abgeschlossen.,انتهى التحميل
+First name,,,الاسم الأول
+Flagged,,,معَلّّم
+Force use of option,Force l’utilisation de l’option,Verwendung der Option erzwingen,أجبر على استخدام الخيار
+France French Grade 1,Français degré 1,Frankreich-Französisch Grad 1,الفرنسية الفرنسية الدرجة 2
+France French Grade 2,Français degré 2,Frankreich-Französisch Grad 2,الفرنسية الفرنسية باختصارات
+Function,,,الوظيفة
+Gecko is controlling the caret.,,,يتحكّم جيكو في المؤشر.
+General,Général,Allgemein,عام
+German Grade 0,Allemand degré 0,Deutsche Basisschrift,الألمانية الدرجة 0
+German Grade 1,Allemand degré 1,Deutsche Vollschrift,الألمانية الدرجة 1
+German Grade 2,Allemand degré 2,Deutsche Kurzschrift,الألمانية الدرجة 2
+Global Voice Settings,Paramètres globaux pour la voix,Globale Sprachausgabe-Einstellungen,إعدادات الصوت:
+Go to bookmark.,,,اذهب إلى علامة الموقع.
+Go to next bookmark location.,,,اذهب إلى علامة الموقع التالية
+Go to previous bookmark location.,,,اذهب إلى علامة الموقع السابقة
+Goes down one cell.,,,إلى الخلية نحو الأسفل.
+Goes left one cell.,,,إلى الخلية نحو اليسار.
+Goes right one cell.,,,إلى الخلية نحو اليمين.
+Goes to next anchor.,,,يذهب للمربط التالي.
+Goes to next blockquote.,,,إذهب إلى الإقتباس التالي.
+Goes to next button.,,,يذهب للزر التالي.
+Goes to next character.,,,إلى الحرف التالي.
+Goes to next check box.,,,يذهب لمربع الإختيار التالي.
+Goes to next combo box.,,,يذهب لمربع تحرير و سرد التالي.
+Goes to next entry.,,,يذهب للمُدخل التالي.
+Goes to next form field.,,,إذهب إلى المجال التالي.
+Goes to next heading at level %d.,,,يذهب للترويسة التالية عند المستوى %d.
+Goes to next heading.,,,إلى العنوان التالي.
+Goes to next landmark.,,,يذهب للمعْلم التالي.
+Goes to next large object.,,,إلى الكائن الكبير التالي.
+Goes to next line.,,,إلى السطر التالي.
+Goes to next list item.,,,الى عنصر القائمة التالي.
+Goes to next list.,,,إلى القائمة التالية.
+Goes to next live region.,,,يذهب للمنطقة الحية إلى الةسطر التالي.
+Goes to next paragraph.,,,يذهب للفقرة التالية.
+Goes to next radio button.,,,يذهب لزر الراديو التالي.
+Goes to next separator.,,,يذهب للفقرة التالية.
+Goes to next table.,,,إذهب إلى الإقتباس التالي.
+Goes to next unvisited link.,,,الى الوصلة غير المزارة التالية.
+Goes to next visited link.,,,إذهب إلى الرابط المزار التالي.
+Goes to next word.,,,إلى الكلمة التالية.
+Goes to previous anchor.,,,يذهب للمربط السابق.
+Goes to previous blockquote.,,,إذهب إلى الإقتباس السابق.
+Goes to previous button.,,,يذهب للزر السابق.
+Goes to previous character.,,,إلى الحرف السابق.
+Goes to previous check box.,,,يذهب لمربع الاختيار السابق.
+Goes to previous combo box.,,,يذهب لمربع تحرير و سرد السابق.
+Goes to previous entry.,,,يذهب للمُدخل السابق.
+Goes to previous form field.,,,إذهب إلى المجال السابق.
+Goes to previous heading at level %d.,,,يذهب للترويسة السابقة عند المستوى %d.
+Goes to previous heading.,,,إلى العنوان السابق.
+Goes to previous landmark.,,,يذهب للمعْم السابق.
+Goes to previous large object.,,,الى الكائن الكبير التالي.
+Goes to previous line.,,,إلى الكلمة السابق.
+Goes to previous list item.,,,الى عنصر القائمة السابق.
+Goes to previous list.,,,إلى القائمة السابقة.
+Goes to previous live region.,,,يذهب للمنطقة الحية السابقة.
+Goes to previous paragraph.,,,يذهب للفقرة السابقة.
+Goes to previous radio button.,,,يذهب لزر الراديو السابق.
+Goes to previous separator.,,,يذهب للفقرة السابقة.
+Goes to previous table.,,,إذهب إلى الجدول السابق.
+Goes to previous unvisited link.,,,الى الوصلة غير المزارة السابقة.
+Goes to previous visited link.,,,إذهب إلى الرابط المزار السابق.
+Goes to previous word.,,,إلى الكلمة السابقة.
+Goes to the beginning of the line.,,,يذهب لبداية السطر.
+Goes to the bottom of the file.,,,يذهب لأسفل الملف.
+Goes to the end of the line.,,,يذهب لنهاية السطر.
+Goes to the first cell in a table.,,,إلى الخلية الأولى في الجدول
+Goes to the last cell in a table.,,,إلى الخلية الأخيرة في الجدول
+Goes to the last live region which made an announcement.,,,راجع إعلانات المنطقة الحية.
+Goes to the next object.,,,يذهب للكائن التالي.
+Goes to the previous object.,,,يذهب للكائن السابق.
+Goes to the top of the file.,,,يذهب لأعلى الملف.
+Goes up one cell.,,,إلى الخلية نحو الأعلى.
+Goodbye.,,,وداعا.
+Greek Grade 1,Grec degré 1,Griechisch Grad 1,اليونانية الدرجة 1
+Heading,En-têtes,Überschrift,ترويسة
+Hindi Grade 1,Hindi degré 1,Hindi Grad 1,الهندية الدرجة 1
+Hungarian Grade 1,Hongrois degré 1,Ungarisch Grad 1,اللاتيفية بدون اختصارات
+Hyperlink,Hyperlien,Link,وصله
+Hyperlink Indicator,Indicateur d’hyperlien,Link-Braillemarkierung,مؤشر الروابط
+I ACUTE,,,I حاد
+I CIRCUMFLEX,,,I علامة
+I GRAVE,,,I شديد
+I UMLAUT,,,I نقطتين
+ISO level 3 shift,,,ISO عالي المستوى 3
+Icon panel,Volet d’icônes,Symbolleiste,لوحة الإيقونات
+Increases the speech pitch.,,,يزيد قوة الحديث.
+Increases the speech rate.,,,يزيد تردد الحديث.
+Italian Grade 1,Italien degré 1,Italienisch Grad 1,الإيطالية الدرجة 1
+Key Binding,Raccourci,Tastenkombination,ارتباط المفتاح
+Key Bindings,Raccourcis clavier,Tastenkombinationen,المفاتيح المربوطة
+Key Echo,,,صدى المفتاح
+Key binding deleted. Press enter to confirm.,Raccourci supprimé. Appuyez sur Entrée pour confirmer.,"Tastenkombination wurde gelöscht. Drücken Sie Eingabe, um zu bestätigen.",حُذف ارتباط المفتاح. إضغط إدخال للتأكيد.
+Key captured: %s. Press enter to confirm.,Touche capturée : %s. Appuyez sur Entrée pour confirmer.,"Aufgezeichnete Tastenkombination %s. Drücken Sie Eingabe, um zu bestätigen.",تم ادخال مفتاح: %s. اضغط مفتاح الرجوع للتأكيد.
+Key echo set to sentence.,,,تفعيل الصدى بالجملة
+Key echo set to word.,,,إلى الكلمة التالية.
+Keyboard Layout,Agencement du clavier,Tastaturlayout,تخطيط لوحة المفاتيح
+LEVEL %d,NIVEAU %d,EBENE %d,المستوى %d
+Latvian Grade 1,Lituanien degré 1,Lettisch Grad 1,اللاتيفية بدون اختصارات
+Learn mode.  Press escape to exit.,Mode d’apprentissage. Appuyez sur Échap pour quitter.,Lernmodus. Drücken Sie zum Verlassen die Escape-Taste.,نسق التعلم. اضغط  ESC للخروج.
+License Agreement Accept button now has focus.,,,زر قبول اتفاقيه له التركيز الآن.
+Line,Ligne,Zeile,خط
+Line Down,Ligne en bas,Linie Unten,خط أسفل
+Line Left,Ligne à gauche,Linie Links,يسار خط
+Line Right,Ligne à droite,Linie Rechts,يمين خط
+Line Up,Ligne en haut,Linie Oben,خط أعلى
+Live region support is off,La prise en charge des zones dynamiques est désactivée,Unterstützung für dynamische Bereiche ist ausgeschaltet,دعم المنطقة الحية متوقف
+Live regions monitoring off,Surveillance des zones dynamiques désactivée,Überwachung der dynamischen Bereiche ist ausgeschaltet,مراقبة المناطق الحية متوقفة
+Live regions monitoring on,Surveillance des zones dynamiques activée,Überwachung der dynamischen Bereiche ist eingeschaltet,مراقبة المناطق الحية تعمل
+Loading.  Please wait.,Chargement en cours. Veuillez patienter.,Es wird geladen. Bitte warten.,يجري التحميل. الرجاء الإنتظار.
+Most,La plupart,Die meisten,معظم
+Mark in braille,Marquer en braille,Markierung in Braille,اكتب ببرايل
+Marks the beginning of a text selection.,,,يذهب لبداية السطر.
+Marks the end of a text selection.,,,يذهب لنهاية السطر.
+Match entire word only,Mots entiers seulement,Nur vollständige Wörter berücksichtigen,طابِق كامل الكلمة فقط
+Message from chat room %s,Message du salon de discussion %s,Nachricht aus Chatraum %s,رسال من غرفة المحادثة %s
+Meta2,Meta2,Meta2,ميتا2
+Minimum length of matched text:,Longueur minimale du texte correspondant :,Minimale Länge der Trefferübereinstimmung:,الطول الأقصى للنص المطابَق:
+Misspelled word:,,,كلمة مهجأة خاطئا:
+Misspelled word: %s,Mot mal orthographié : %s,Falsch geschriebenes Wort: %s,كلمة مهجأة خاطئا:%s
+Modified,Modifié,Geändert,مُعدَّل
+Monitor live regions.,,,راقب المناطق الحية.
+Move down one,Déplacer vers le bas,Eins nach unten verschieben,انقل إلى أسفل بواحد
+Move up one,Déplacer vers le haut,Eins nach oben verschieben,انقل إلى أعلى بواحد
+Move to bottom,Déplacer tout en bas,Nach unten verschieben,انقل إلى أسفل
+Move to top,Déplacer tout en haut,Nach oben verschieben,انقل إلى أعلى
+Move to cell,,,انقل إلى خلية
+Moves flat review to the beginning of the next line.,,,ينقل المراجعة المسطحة إلى بداية السطر التالي.
+Moves flat review to the beginning of the previous line.,,,ينقل المراجعة المسطحة إلى بداية السطر السابق
+Moves flat review to the bottom left.,,,ينقل المراجعة المسطحة إلى أسفل اليسار.
+Moves flat review to the end of the line.,,,ينقل المراجعة المسطحة إلى نهاية الخط.
+Moves flat review to the end position.,,,ينقل المراجعة المسطحة إلى الموقع النهائي.
+Moves flat review to the home position.,,,ينقل المراجعة المسطحة إلى الموقع الأولي.
+Moves flat review to the next character.,,,ينقل المراجعة المسطحة إلى الحرف التالي.
+Moves flat review to the next item or word.,,,ينقل المراجعة المسطحة إلى الكلمة التالية.
+Moves flat review to the previous character.,,,ينقل المراجعة المسطحة إلى الحرف السابق.
+Moves flat review to the previous item or word.,,,ينقل المراجعة المسطحة إلى الكلمة او العنصر السابق.
+Moves flat review to the word above the current word.,,,ينقل المراجعة المسطحة إلى الكلمة فوق الحالية.
+Moves flat review to the word below the current word.,,,ينقل المراجعة المسطحة إلى الكلمة التي تحت الكلمة الحالية.
+N TILDE,,,N تلدة
+Nesting level %d,Niveau d’imbrication %d,Ebene %d,مستوى التفريع %d
+Netherlands Dutch Grade 1,Néerlandais degré 1,Niederlande-Niederländisch Grad 1,الألمانية الهولندية بدون اختصارات
+New chat tab %s,Nouvel onglet de discussion %s,Neuer Chat-Reiter %s,لسان محادثة جديد %s
+No application has focus.,Aucune application n’est active.,Keine Anwendung besitzt den Fokus.,لا يوجد تطبيق نشط
+No appointments,,,لا مواعيد
+No files found.,Aucun fichier trouvé.,Keine Dateien gefunden.,لم يتم العثور على ملفات
+No focus,Aucun focus,Kein Fokus,لا تركيز
+No landmark found.,Il n’y a aucun point de repère.,Keinen Orientierungspunkt gefunden.,لا معالم.
+No more anchors.,,,لا مرابط أخرى.
+No more blockquotes.,Plus aucun bloc de citation.,Keine weiteren Zitate.,لا قطع أخرى.
+No more buttons.,Plus aucun bouton.,Keine weiteren Knöpfe.,لا أزرار أخرى.
+No more check boxes.,Plus aucune case à cocher.,Keine weiteren Ankreuzfelder.,لا مربعات إختيار أخرى.
+No more combo boxes.,Plus aucune liste déroulante.,Keine weiteren kombinierten Auswahlfelder.,لا مربعات تحرير و سرد أخرى.
+No more entries.,Plus aucune zone de saisie.,Keine weiteren Eingabefelder.,لا مدخلات أخرى.
+No more form fields.,Plus aucun champ de formulaire.,Keine weiteren Formularfelder.,لا مجالات أخرى.
+No more headings at level %d.,Plus aucun en-tête au niveau %d.,Keine weiteren Überschriften der Ebene %d.,لا عناوين أخرى عند المستوى %d.
+No more headings.,Plus aucun en-tête.,Keine weiteren Überschriften.,لا عناوين أخرى.
+No more large objects.,Plus aucun objet important.,Keine weiteren größeren Objekte.,لا كائنات كبيرة أخرى.
+No more list items.,Plus aucun élément de liste.,Keine weiteren Listeneinträge.,لا عناصر قائمة أخرى.
+No more lists.,Plus aucune liste.,Keine weiteren Listen.,لا قوائم أخرى.
+No more live regions.,Plus aucune zone dynamique.,Keine weiteren dynamischen Bereiche.,لا مناطق حية أخرى.
+No more paragraphs.,Plus aucun paragraphe.,Keine weiteren Absätze.,لا فقرات أخرى.
+No more radio buttons.,Plus aucun bouton radio.,Keine weiteren Auswahlknöpfe.,لا أزرار راديو أخرى.
+No more separators.,Plus aucun séparateur.,Keine weiteren Trenner.,لا فقرات أخرى.
+No more tables.,Plus aucun tableau.,Keine weiteren Tabellen.,لا جداول أخرى.
+No more unvisited links.,Plus aucun lien non visité.,Keine weiteren nicht besuchten Links.,لا روابط غير مزارة أخرى.
+No more visited links.,Plus aucun lien visité.,Keine weiteren besuchten Links.,لا روابط مزارة أخرى.
+No notification messages,Aucun message de notification,Keine Benachrichtigungen,اشعار  %s
+No servers available.,,,لا وجود لنوادل.
+No voices available.,,,لا وجود لأصوات.
+Non-uniform,Non uniforme,Nicht einheitlich,غير متسق
+None,Aucun,Keine,لا شيء
+Norwegian Grade 0,Norvégien degré 0,Norwegisch Grad 0,النرويجية الدرجة 0
+Norwegian Grade 1,Norvégien degré 1,Norwegisch Grad 1,النرويجية الدرجة 1
+Norwegian Grade 2,Norvégien degré 2,Norwegisch Grad 2,النرويجية الدرجة 2
+Norwegian Grade 3,Norvégien degré 3,Norwegisch Grad 3,النرويجية الدرجة 3
+Not found,Non trouvé,Nicht gefunden,لم يتم العثور على ملفات
+Not in a table.,Pas dans un tableau.,Nicht in einer Tabelle.,ليس في جدول.
+Note that the Scroll Down button has to be pressed numerous times.,,,لاحظ أنه يجب ضغط زر التمرير السفلي عدة مرات.
+Notification,Notification,Benachrichtigung,اشعار  %s
+Notification %s,,,اشعار  %s
+O ACUTE,,,O حاد
+O CIRCUMFLEX,,,O علامة
+O GRAVE,,,O شديد
+O STROKE,,,O خط
+O TILDE,,,O تلدة
+O UMLAUT,,,O نقطتين
+Only speak changed lines during find,Lire uniquement les lignes changées durant la recherche,Nur unterschiedliche Zeilen während der Suche vorlesen,انطق بالأسطر المختلفة فقط عند البحث
+Opens the Orca Find dialog.,,,لفتح مربع حوار الإيجاد الخاص بأوركا.
+Orca,,,أوركا
+Orca Find Dialog,,,مربع حوار إيجاد أوركا
+Orca Preferences,,,خيارات أوركا
+Orca Preferences for %s,,,تفضيلات أوركا لـ %s
+Orca Screen Reader,Lecteur d’écran Orca,Orca-Bildschirmleser,قارئ الشاشة و المكبّر أوركا
+Orca Modifier Key(s):,,,المفاتيح المغيّرة لأوركا:
+Orca is controlling the caret.,,,يتحكّم أوركا بالمؤشر.
+Orca user settings reloaded.,,,تم إعادة تحميل خصائص المستخدم لأوركا.
+Page Navigation,Navigation à travers la page,Seitennavigation,تصفح الصفحة
+Paints and prints the visible zones in the active window.,,,يرسم و يطبع  المناطق المرئية في النافذة النشطة.
+Pans the braille display to the left.,,,عرض البرايل الى اليسار.
+Pans the braille display to the right.,,,عرض البرايل الى اليمين.
+Passes the next command on to the current application.,,,يمرر الأمر التالي إلى التطبيق الحالي.
+Performs left click on current flat review item.,,,أداء نقر الزر الأيسر على عنصر المراجعة المُسطح.
+Performs right click on current flat review item.,,,أداء نقر الزر الأيمن على عنصر المراجعة المُسطح.
+Performs the basic where am I operation.,,,يؤدي عملية أين أنا الاساسية.
+Performs the detailed where am I operation.,,,يقوم بعملية أين أنا المفصّلة.
+Phonetically speaks the current flat review character.,,,ينطق بحرف المراجعة المسطحة الحالي.
+Phonetically spells the current flat review item or word.,,,يهجئ عنصر أو كلمة المراجعة المسطحة صوتيا.
+Phonetically spells the current flat review line.,,,يهجأ خط المراجعة المسطحة الحالي صوتيا.
+Phrase found.,,,الجملة موجودة
+Phrase not found,,,الجملة غير موجودة
+Pitch:,Hauteur :,Tonhöhe:,درجة:
+Please enter y or n.,,,تفعيل البرايل؟ ادخل y أو n:
+Polish Grade 1,Polonais degré 1,Polnisch Grad 1,البولندية الدرجة 1
+Portuguese Grade 1,Portugais degré 1,Portugiesisch Grad 1,البرتغالية الدرجة 1
+Present Unless,Prononcé sauf si,Ausgeben außer,موجود إلا إذا
+Present last notification message.,,,يزيد مستوى التكبير.
+Presentation Wizard,,,مرشد العرض التقديمي
+Presents the contents of the input line.,,,يتكلم بمحتويات السطر.
+Press Tab and Return to terminate.,,,اضغط زر تاب و الإدخال للإنهاء.
+Press alt+f6 to give focus to child windows.,,,اضغط مفتاح القوائم زائد f6 لتنشيط النوافذ الفرعية
+"Press space to expand, and use up and down to select an item.",,,اضغط مسطرة المسافات لإظهار الخيارات واستخدم الأسهم الرأسية لتحديد أحد العناصر
+Press space to toggle.,,,اضغط مسطرة المسافات لتغيير حالة مربع الاختيار
+Prevent use of option,Empêche l’utilisation de l’option,Verwendung der Option verhindern,امنع استخدام الخيار
+Print the known running applications,Affiche les applications lancées connues,Bekannte Programme ausgeben,اطبع التطبيقات المعروفة المشغلة
+Prints a debug listing of all known applications to the console where Orca is running.,,,يطبع تنقيح حول كل التطبيقات المعروفة أين يوجد أوركا
+Prints debug information about the ancestry of the object with focus.,,,يطبع معلومات التنقيح حول أصل الكائن الحاصل على  التركيز.
+Prints debug information about the application with focus.,,,طبع الأخطاء البرمجية حول التطبيق الحالي
+Profile could not be loaded: %s,Le profil n’a pas pu être chargé : %s,Profil kann nicht geladen werden: %s,لا يمكن حفظ العلامات المرجعية
+Progress Bar Updates,Mises à jour des barres de progression,Aktualisierungen von Fortschrittsanzeigen,انطق بتحديث عمود التقدم
+Progress bar %d.,Barre de progression %d.,Fortschrittsanzeige %d.,عمود التقدم %d.
+Pronunciation,Prononciation,Aussprache,التلفظ
+Pronunciation Dictionary,Dictionnaire de prononciation,Aussprachewörterbuch,قاموس النطق
+Provide chat room specific message histories,Donner les historiques de messages par salon de discussion.,Chatraum-bezogene Nachrichtenverläufe bereitstellen,يوفر تاريخ غرفة المحادثة لرسائل مخصصة
+Provide chat room specific message histories.,Donner les historiques de messages par salon de discussion.,Chatraum-bezogene Nachrichtenverläufe bereitstellen.,يوفر تاريخ غرفة المحادثة لرسائل مخصصة.
+Punctuation Level,Niveau de ponctuation,Stufe der Sonderzeichenansage,مستوى التنقيط
+Punctuation level set to all.,Niveau de ponctuation défini à tous.,Ansage der Sonderzeichen eingestellt auf alle.,مستوى التنقيط
+Quits Orca,,,خروج من أوركا
+Read,,,اقرأ
+Read the latest n messages in the incoming messages text area.,,,إقرأ آخر n رسائل في منطقة الرسائل الواردة النصية.
+Reads the attributes associated with the current text character.,,,يقرأ صفات الحرف الحالي.
+Replace a currently running Orca,,,النص المستبدل
+Replacement String,Chaîne de remplacement,Ersatzausdruck,النص المستبدل
+Report bugs to orca-list@gnome.org.,,,تقرير العلل لـ orca-list@gnome.org.
+Reports information on current script.,,,يقرر معلومات عن الخط الحالي.
+Returns to object with keyboard focus.,,,يرجع للكائن الذي يملك إشارات لوحة المفاتيح.
+Review live region announcement.,,,راجع إعلانات المنطقة الحية.
+Routes the pointer to the current item.,,,يتكلم بمحتويات السطر.
+"Row %(row)d, column %(column)d.","Ligne %(row)d, colonne %(column)d.","Zeile %(row)d, Spalte %(column)d.",صف %d، عمود %d
+Row deleted.,Ligne supprimée.,Zeile gelöscht.,إحذف
+Row inserted at the end of the table.,Ligne ajoutée à la fin du tableau.,Zeile am Ende der Tabelle eingefügt.,يذهب لنهاية السطر.
+Row inserted.,Ligne ajoutée.,Zeile eingefügt.,أدرج
+Save bookmarks.,,,احفظ علامات المواقع.
+Say All By:,Tout lire par :,Pause beim Vorlesen:,انطق الكل بـ:
+Screen Reader,,,رأس العمود
+Search backwards,Recherche en arrière,Rückwärts suchen,ابحث بصورة عكسية
+Search complete.,Recherche terminée.,Suche abgeschlossen.,تم البحث.
+Search direction:,Sens de la recherche :,Suchrichtung:,التوجه
+Search for:,,,ابحث عن:
+Searches for the next instance of a string.,,,للبحث عن المرة اللاحقة لعبارة.
+Searches for the previous instance of a string.,,,للبحث عن المرة السابقة لعبارة.
+Searching.,Recherche.,Suche.,البحث.
+Select desired keyboard layout.,,,انتق تخطيط لوحة المفاتيح المرغوب فيه.
+Select desired speech server.,,,اختر خادوم الصوت.
+Select desired speech system:,,,اختيار نظام الكلام المطلوب:
+Select desired voice:,,,اختر الصوت المرغوب:
+Selection Indicator,Indicateur de sélection,Auswahlindikator,مؤشر الإنتقاء
+Sentence,Phrase,Satz,جملة
+Set default live region politeness level to off.,,,ضع مستوى التهذيب الافتراضي للمنطقة الحية على معطّل.
+Set the column to use as dynamic row headers to use when speaking calc cells.,,,حدد العمود المستعمل كترويسات صفوف ديناميكية عند التكلم بخلايا كالك.
+Set the row to use as dynamic column headers when speaking calc cells.,,,حدد الصف المستعمل كترويسات أعمدة ديناميكية عند التكلم بخلايا كالك.
+Set up user preferences (text version),Définit les préférences utilisateur (mode texte),Benutzereinstellungen einrichten (Textversion),أعدّ تفضيلات المستخدم (النسخة النصية)
+Setup complete.  Press Return to continue.,,,تثبيت كامل. اضغط زر الإدخال للمواصلة.
+Shift,Majuscule,Umschalt,Shift
+Skip blank cells,Ignorer les lignes vides,Leere Zellen überspringen,تخطى الخلايا الفارغة
+Some,Quelques,Einige,بعض
+Spanish Grade 1,Espagnol degré 1,Spanisch Grad 1,إسباني بدون اختصارات
+Speak object mnemonics,Lire le raccourci des objets,Menükürzelbuchstaben eines Objektes vorlesen,انطق بالكائن تحت الفأرة
+Speak,À lire,Vorlesen,نطق
+Speak cell,Lire la cellule,Zelle vorlesen,انطق خلية
+Speak cell coordinates,Lire les coordonnées des cellules,Zellenkoordinaten vorlesen,انطق باحداثيات الخلية
+Speak indentation and justification,Lire l’indentation et la justification,Einrückungen und Ausrichtung vorlesen,الكلام بالتصفيف و التنقيط
+Speak multiple cell spans,Lire l’étendue des cellules chevauchant plusieurs lignes/colonnes,Zellenausdehnung vorlesen,انطق بمقدار توسع الخلية
+Speak none,,,لا تنطق بشيء
+Speak and braille a previous chat room message.,,,إنطق و ببرايل رسالة المحادثة السابقة.
+Speak blank lines,Lire les lignes vides,Leerzeilen vorlesen,تكلم بالأسطر الفارغة
+Speak cell,Lire la cellule,Zelle vorlesen,انطق خلية
+Speak messages from,Lire les messages provenant de,Nachrichten vorlesen aus,انطق بالرسائل من
+Speak multicase strings as words,,,انطق بالنتائج عند البحث
+Speak object under mouse,Lire l’objet sous la souris,Objekt unter Maus vorlesen,انطق بالكائن تحت الفأرة
+Speak results during find,Lire les résultats durant la recherche,Treffer während der Suche vorlesen,انطق بالنتائج عند البحث
+Speak row,,,انطق سطر
+Speak row,Lire la ligne,Zeile vorlesen,انطق سطر
+Speak spread sheet cell coordinates,,,انطق بإحداثيات الخلية
+Speak tutorial messages,Lire les messages du tutoriel,Benutzungshinweise vorlesen,انطق بالرسائل من
+Speaking of indentation and justification disabled.,Lecture de l’indentation et de la justification désactivée.,Ansage von Einrückung und Ausrichtung ausgeschaltet.,الكلام بالتصفيف و التنقيط
+Speaking of indentation and justification enabled.,Lecture de l’indentation et de la justification activée.,Ansage von Einrückung und Ausrichtung eingeschaltet.,الكلام بالتصفيف و التنقيط
+Speaks entire document.,,,عرض كامل للمستند
+Speaks the current flat review character.,,,يقرأ بحرف المراجعة المسطحة.
+Speaks the current flat review item or word.,,,ينطق بعنصر أو كلمة المراجعة المسطحة الحالية.
+Speaks the current flat review line.,,,ينطق بخط المراجعة المسطحة الحالي.
+Speaks the current flat review object.,,,يقرأ بكائن المراجعة المسطحة الحالي.
+Speaks the status bar.,,,ينطق بشريط الحالة.
+Speaks the title bar.,,,ينطق بشريط العنوان.
+Speaks unicode value of the current flat review character.,,,يقرأ بحرف المراجعة المسطحة.
+Speech,Synthèse vocale,Sprache,كلام
+Speech Dispatcher,Speech Dispatcher,Speech Dispatcher,نظام النطق
+Speech system:,Système de synthèse vocale :,Sprachsystem:,نظام الكلام:
+Speech disabled.,Synthèse vocale désactivée.,Sprachausgabe deaktiviert.,تعطيل الكلام.
+Speech enabled.,Synthèse vocale activée.,Sprachausgabe aktiviert.,تفعيل الكلام.
+Speech is unavailable.,La synthèse vocale n’est pas disponible.,Sprachausgabe steht nicht zur Verfügung.,الكلام غير متوفّر
+Speech synthesizer:,Synthétiseur vocal :,Sprachsynthesizer:,مؤلف الكلام:
+Speech will not be used.,,,لن يتم استعمال الكلام.
+Spell checking is complete.,,,انتهى التحقق الاملائي.
+Spells the current flat review item or word.,,,يهجئ عنصر أو كلمة المراجعة المسطحة الحالية.
+Spells the current flat review line.,,,يهجأ خط المراجعة المسطحة الحالي.
+Start from:,Démarrer depuis :,Beginnen bei:,ابدأ من:
+Start-up Profile:,Profil au démarrage :,Profil beim Start:,ابدأ من:
+Starting Orca Preferences for %s.,,,بدأ تفضيلات أوركا ل %s.
+Starting Orca Preferences.,,,بدء تفضيلات أوركا.
+Status,,,الحالة
+Stop,,,قف
+Structural navigation keys off.,Touches de navigation par structure désactivées.,Navigationstasten ausgeschaltet.,مفاتيح التصفح معطلة.
+Structural navigation keys on.,Touches de navigation par structure activées.,Navigationstasten eingeschaltet.,مفاتيح التصفح مفعلة.
+Super,Super,Super,ممتاز
+Swedish Grade 1,Suédois degré 1,Schwedisch Grad 1,السويدية الدرجة 1
+Switches between Gecko native and Orca caret navigation.,,,تحول من تصفح المؤشر لجيكو أو أوركا.
+THORN,,,ثورن
+TREE LEVEL %d,NIVEAU DE L’ARBORESCENCE %d,BAUMEBENE %d,مستوى الشجرة %d
+Table Navigation,Navigation à travers les tableaux,Tabellennavigation,تصفح الجدول
+Table Rows,,,جدول
+Text Attributes,Attributs de texte,Textattribute,خصائص النص
+Text attributes,Attributs de texte,Textattribute,خصائص النص
+Text body,Corps de texte,Textkörper,جسم النص
+The key entered is already bound to %s,La touche saisie est déjà liée à %s,Die eingegebene Tastenkombination ist bereits %s zugeordnet,المفتاح المدخل مرتبط مسبقا ب %s
+The keybinding has been removed.,Le raccourci a été enlevé.,Die Tastenkombination wurde gelöscht.,حُذف ارتباط المفتاح.
+The new key is: %s,La nouvelle touche est : %s,Die neue Tastenkombination ist: %s,المفتاح الجديد هو: %s
+To activate press return.,,,اضغط مسطرة المسافات للتفعيل
+To activate press space.,,,اضغط مسطرة المسافات للتفعيل
+"To collapse, press shift plus left.",,,اضغط مفتاح التبديل زائد السهم الأيسر للإخفاء
+"To decrease press left arrow, to increase press right arrow. To go to minimum press home, and for maximum press end.",,,اضغط السهم الأيمن لخفض الصوت والسهم الأيسر لرفعه واضغط مفتاح البداية لأدنى درجة ومفتاح النهاية لأعلى درجة
+"To enter sub menu, press right arrow.",,,اضغط السهم الأيمن لتفعيل القائمة الفرعية
+"To expand, press shift plus right.",,,اضغط مفتاح التبديل زائد السهم الأيمن للإظهار
+"To move to items, use either the arrow keys or type ahead searching.",,,للتحرك بين العناصر استخدم الأسهم أو اكتب الأحرف الأولى من العنصر واضغط مفتاح القوائم زائد f1 لتفعيل قائمة النظام
+"To navigate, press left or right arrow. To move through items press up or down arrow.",,,استخدم الأسهم الأفقية للتحرك والأسهم الرأسية للاختيار
+Toggle mouse review mode.,,,يبدل وضع المراجعة بالفأرة.
+Toggle whether we announce when our buddies are typing.,,,تغيير إذا ما علينا الإعلان عندما يكتب أصدقائنا.
+Toggle whether we prefix chat room messages with the name of the chat room.,,,تغيير ما إذا يجب بدأ رسالات المحاديثة باسم غرفة المحادثة.
+Toggle whether we present new mail if we are not the active script.,,,تبديل ما ان كنت تريد تقديم البريد الجديد ان لم نكن النص البرمجي النشط.
+Toggle whether we provide chat room specific message histories.,,,تغيير ما إذا علينا توفير تاريخ غرفة المحادثة لرسائل مخصصة.
+Toggles structural navigation keys.,,,فعل و عطل مفاتيح التصفح.
+Toggles the silencing of speech.,,,تفعيل/تعطيل اسكات القراءة.
+Toggles the speaking of indentation and justification.,,,الكلام بالتصفيف و التنقيط
+Toggles whether to read just the current table cell or the whole row.,,,يحدد ما إذا يجب قراءة خلية الجدول الحالي أو كامل الصف.
+Top,Haut,Oberste,فوق:
+Top Left,En haut à gauche,Oben Links,أعلى اليسار
+Top of column.,Haut de la colonne.,Oberer Rand der Spalte.,أعلى العمود.
+Top of window,,,قمة النافذة
+Type in text.,,,اكتب نص
+U ACUTE,,,U حاد
+U CIRCUMFLEX,,,U علامة
+U GRAVE,,,U شديد
+U UMLAUT,,,U نقطتين
+U.K. English Grade 1,Anglais britannique degré 1,Britisches Englisch Basisschrift,الإنكليزية م.م الدرجة 1
+U.K. English Grade 2,Anglais britannique degré 2,Britisches Englisch Kurzschrift,الإنكليزية م.م الدرجة 2
+U.S. English Grade 1,Anglais américain degré 1,US-Englisch Basisschrift,الإنكليزية و.م الدرجة 1
+U.S. English Grade 2,Anglais américain degré 2,US-Englisch Kurzschrift,الإنكليزية و.م الدرجة 2
+Unable to get calculator display,,,تعذر جلب عارض الحاسبة
+Unbound,,,فك التقييد
+Uppercase,Majuscule,Großbuchstaben,حروف كبيرة
+Use Orca Structural Navigation,,,استعمل التصفح التركيبي لأوركا
+Use Orca Caret Navigation,,,استعمل تصفح المؤشر لأوركا
+Use alternate directory for user preferences,Utilise un répertoire alternatif pour les préférences des utilisateurs,Anderes Verzeichnis für die Benutzereinstellungen verwenden,استخدم دليلا بديلا لتفضيلات المستخدم
+Use arrow keys to change.,,,استخدم الأسهم للتغيير
+Use left and right to view other tabs.,,,استخدم الأسهم الأفقية لعرض الصحائف الأخرى
+Use up and down to select an item.,,,استخدم الأسهم الرأسية لتحديد أحد العناصر
+Use up or down arrow to select value. Or type in the desired numerical value.,,,استخدم الأسهم الرأسية لاختيار أحد القيم أو قم بكتابة القيمة الرقمية التي تفضلها
+Verbose,Verbeux,Ausführlich,تفصيلي
+Verbosity,Verbosité,Ausführlichkeit,الاسهاب
+Volume:,Volume :,Lautstärke:,شدة الصوت :
+Voice Type Settings,Paramètres pour le type de voix,Typ der Sprachausgabe,إعدادات الصوت:
+Welcome to Orca setup.,,,مرحبا بك في تثبيت أوركا
+Welcome to Orca.,,,أهلا بك في أوركا.
+Welcome to StarOffice,,,أهلا بك في StarOffice
+Welsh Grade 1,Gallois degré 1,Walisisch Grad 1,الويلزية الدرجة 1
+Welsh Grade 2,Gallois degré 2,Walisisch Grad 2,الويلزية الدرجة 2
+Window,Fenêtre,Fenster,نافذة
+Work online / offline,,,اعمل متصل / غير متصل
+Workspace,,,مساحة عمل
+Wrapping to Bottom,,,اللف للأسفل
+Wrapping to Top,,,اللف للأعلى
+Wrapping to bottom.,Poursuivre d’en bas.,Nach unten springen.,اللف للأسفل.
+Wrapping to top.,Poursuivre d’en haut.,Nach oben springen.,اللف للأعلى.
+Y ACUTE,,,Y حاد
+Y UMLAUT,,,U نقطتين
+"You already have an instance of an Orca preferences dialog open.
+Please close it before opening a new one.","Vous avez déjà ouvert une boîte de dialogue des préférences d’Orca.
+Veuillez la fermer avant d’en ouvrir une nouvelle.","Eine Instanz des Orca-Eigenschaften-Dialoges ist bereits geöffnet.
+Schließen Sie bitte diesen Dialog, bevor Sie einen neuen öffnen.","يوجد حوار تفضيلات أوركا مفتوح مسبقا.
+
+رجاء اغلقة قبل فتح واحد جديد."
+You need to log out and log back in for the change to take effect.,,,ستحتاج للخروج من النظام ليأخذ التغيير أثره.
+^[Yy1],,,^[ن1Yy]
+Abbreviated role names,Descriptions des objets abrégés,Abgekürzte Rollennamen,أسماء وضائف مختصرة
+All,Tout,Alle,الكل
+Delete,Supprimer,Löschen,إحذف
+Desktop,Bureau,Desktop,حاسوب مكتبي
+Enable Contracted Braille,Activer le braille abrégé,Blindenkurzschrift aktivieren,فعّل بريل متقلصة
+Enable speech,Activer la synthèse vocale,Sprache aktivieren,تفعيل الكلام
+Laptop,Ordinateur portable,Laptop,حاسوب محمول
+Match case,Respecter la casse,Groß- und Kleinschreibung berücksichtigen,طابِق الحالة
+New entry,Nouvelle zone de saisie,Neuer Eintrag,مدخل جديد
+None,Aucun,Keine,لا شيء
+Person:,Personne :,Person:,شخص:
+Position cursor at start of line when navigating vertically,,,ضع المؤشر عند بداية السطر عند التصفح عموديا
+Present tooltips,Présentation des infobulles,Minihilfe ausgeben,اعرض التلميحات
+Rate:,Débit :,Geschwindigkeit:,معدل:
+Reset,,,أعد ضبط
+Search for:,Rechercher :,Suchen nach:,ابحث عن:
+Speak Chat Room name,Lire le nom du salon de discussion,Chat Room-Name vorlesen,إنطق بإسم غرفة المحادثة
+Speak all,,,انطق الكل
+Top of window,Haut de la fenêtre,Anfang des Fensters,قمة النافذة
+Voice type:,Type de voix :,Stimmtyp:,إعدادات الصوت:
+Wrap around,Recherche circulaire,Umbrechen,لف حول النص
+"a : alpha, b : bravo, c : charlie, d : delta, e : echo, f : foxtrot, g : golf, h : hotel, i : india, j : juliet, k : kilo, l : lima, m : mike, n : november, o : oscar, p : papa, q : quebec, r : romeo, s : sierra, t : tango, u : uniform, v : victor, w : whiskey, x : xray, y : yankee, z : zulu","a : alpha, b : bravo, c : charlie, d : delta, e : echo, f : foxtrot, g : golf, h : hotel, i : india, j : juliett, k : kilo, l : lima, m : mike, n : november, o : oscar, p : papa, q : quebec, r : romeo, s : sierra, t : tango, u : uniform, v : victor, w : whiskey, x : x-ray, y : yankee, z : zulu","a : Anton, b : Berta, c : Cäsar, d : Dora, e : Emil, f : Friedrich, g : Gustav, h : Heinrich, i : Ida, j : Julius, k : Kaufmann, l : Ludwig, m : Martha, n : Nordpol, o : Otto, p : Paula, q : Quelle, r : Richard, s : Siegfried, t : Theodor, u : Ulrich, v : Viktor, w : Wilhelm, x : Xantippe, y : Ypsilon, z : Zeppelin, ä : Ärger, ö : Ökonom, ü : Übermut, ß : Eszett","a : alpha, b : bravo, c : charlie, d : delta, e : echo, f : foxtrot, g : golf, h : hotel, i : india, j : juliet, k : kilo, l : lima, m : mike, n : november, o : oscar, p : papa, q : quebec, r : romeo, s : sierra, t : tango, u : uniform, v : victor, w : whiskey, x : xray, y : yankee, z : zulu"
+a acute,,,a حاد
+a circumflex,,,E علامة
+a e,,,a e
+a grave,,,A شديد
+a ring,,,a حلقة
+a tilde,,,O تلدة
+a umlaut,,,U نقطتين
+acute,accent aigu,Akut,a حاد
+acute accent,,,حركة كبيرة
+almost equal to,presque égal à,beinahe gleich zu,يساوي تقريبا
+alrt,alrt,alrt,تنبيه
+and,et,und,و
+anim,anim,anim,انيم
+announce when your buddies are typing.,Annoncer lorsque les contacts saisissent un message.,"Ankündigen, wenn unsere Kontakte etwas eingeben.",أعلن عندما يكتب أصدقائك.
+apostrophe,,,حركة
+app,app,app,تطق
+arw,flch,arw,سهم
+at,,,عند
+auto,auto,auto,آلي
+background color,couleur d’arrière-plan,Hintergrundfarbe,لون الخلفية
+background full height,hauteur complète de l’arrière-plan,Hintergrund für die ganze Höhe,العلو الكامل للخلفية
+background stipple,arrière-plan grisé,Gepunkteter Hintergrund,تنقيط الخلفية
+backslash,,,شَّرطة معكوسة
+backspace,retour arrière,Löschen,مسافة للخلف
+baseline,sur la ligne de base,Grundlinie,السطر الأساس
+begin,début,Begin-Taste,ابدأ
+black,noir,schwarz,أسود
+black circle,cercle noir,Schwarzer Kreis,دائرة سوداء
+black diamond,losange noir,Schwarze Raute,معين أسود
+black square,carré noir,Schwarzes Quadrat,مربع أسود
+blank,vide,leer,فارغ
+blink,clignotant,blinkend,يغمز
+bold,gras,fett,سميك
+bookmark and current object have same parent,,,الكائن الرئيسي للكائن الحالي هو الكائن الرئيسي للكائن المشار إليه بعلامة مرجعية
+bookmark entered,signet repéré,Lesezeichen betreten,تم إدخال علامة مرجعية
+bookmark is current object,,,هذا هو الكائن الذي تم الإشارة إليه بعلامة مرجعية من قبل
+bookmarks could not be saved,les signets ne peuvent être enregistrés,Lesezeichen können nicht gespeichert werden,لا يمكن حفظ العلامات المرجعية
+bookmarks saved,signets enregistrés,Lesezeichen gespeichert,تم حفظ العلامات المرجعية
+bottom,en bas,unten,أسفل
+broken bar,,,خط عمودي منكسر
+bt-lr,bh-gd,unten-oben links-rechts,bt-lr
+bt-rl,bh-dg,unten-oben rechts-links,bt-rl
+btn,bout,knpf,زر
+bullet,,,نقطة غليظة
+c cedilla,,,c سيدلا
+cal,cal,kal,رزنم
+caps lock,verr. maj.,Feststelltaste,تغيير الزر
+caret,,,مؤشر
+cbo,lstd,cbo,صندوق
+cedilla,cédille,Zedilla,فاصلة
+center,centre,zentriert,مركز
+cents,,,سنت
+char,caractère,Zeichen,محرف
+check mark,,,علامة موافقة
+checked,cochée,ausgewählt,مؤكّد
+chk,coch,chk,خيار
+circumflex,circonflexe,Zirkumflex,E علامة
+cll,cll,cll,خلية
+clrchsr,selcoul,clrchsr,حوار اختيار الألوان
+cnv,cnv,cnv,سنف
+colhdr,têtecol,colhdr,رأس العمود
+collapsed,réduit,eingeklappt,مغلق
+colon,,,فاصلة
+column %(index)d of %(total)d,colonne %(index)d sur %(total)d,Spalte %(index)d von %(total)d,العمود %d من %d
+column %d,colonne %d,Spalte %d,عمود %d
+comma,,,فاصلة
+comparison unknown,,,مقارنة غير معروفة
+condensed,condensé,verdichtet,مكثف
+copyright,,,حقوق النسخ
+cptn,étiq,cptn,تسمية
+cube root,racine cubique,Kubikwurzel,جذر ثلاثي
+currency sign,,,علامة عملة
+dagger,,,علامة الصليب
+dash,,,خط فاصل
+dat,dat,dat,دأت
+degrees,,,درجة
+delete,supprimer,Löschen,إحذف
+dial,dial,Einwahl,وجّه
+different site,site différent,Andere Website,موقع مختلف
+dip,vlt,dip,شباك الدلائل
+direction,direction,Textrichtung,التوجه
+divided by,,,مقسوم على
+dlg,dlg,dlg,حوار
+do not present new mail if this script is not active.,,,لا تقدم البريد الجديد إن لم يكن هذا البرنامج النصي نشطًا.
+document selected from cursor position,,,مستند مختار من مكان المؤشّر.
+document selected to cursor position,,,مستند مختار إلى مكان المؤشّر.
+document unselected from cursor position,,,مستند ملغى اختياره من مكان المؤشّر
+document unselected to cursor position,,,مستند ملغى اختياره إلى مكان المؤشّر
+dollar,,,دولار
+dot,point,Punkt,نقطة
+dot dot dot,points de suspension,Punkt Punkt Punkt,نقطة نقطة نقطة
+double,double,doppelt,مزدوج
+double click,double-clic,Doppelklick,(نقر مزدوج)
+double dagger,,,رمز صليب مزدوج
+double low quote,,,علامة إقتباس مزدوجة يسرى
+double prime,,,فتحتين
+down,bas,runter,تحت
+draw,dess,draw,رسم
+e acute,,,e حاد
+e circumflex,,,e علامة
+e grave,,,e شديد
+e umlaut,,,e نقطتين
+editable,modifiable,editierbar,أيحرر
+edtbr,baredt,edtbr,تحرير
+emb,emb,emb,مضمّن
+emboss,relief,hochgeprägt,منمق
+empty,vide,leer,فارغ
+en dash,,,خط فاصل
+end,fin,Ende,النهاية
+engrave,empreinte,eingraviert,نحت
+enter,entrée,Eingabe-Taste,إدخال
+enter new key,saisissez une nouvelle touche,Neue Tastenkombination eingeben,أدخل المفتاح الجديد
+entered bookmark,,,تم ادخالعلامة الموقع
+entire document selected,document entier sélectionné,das gesamte Dokument ist ausgewählt,كامل المستند
+equals,,,يساوي
+escape,échap,Escape,اهرب
+eth,,,اث
+euro,,,أورو
+exclaim,,,تعجب
+expanded,étendu,gedehnt,ممطوط
+extra condensed,très condensé,stark verdichtet,مكثف زيادة
+extra expanded,très étendu,stark gedehnt,ممطوط زيادة
+false,faux,falsch,خطئ
+family name,famille,Schriftartfamilie,اسم العائلة
+faster.,plus rapide.,schneller.,اسرع.
+fchsr,selfi,fchsr,حوار الملفات
+fill,justifié,Blocksatz,ملئ
+florin,,,فلورين
+flr,remp,flr,فلر
+fnt,pol,font,فنت
+font effect,effet de police,Schriftarteffekt,تأثيرات الخط
+foreground color,couleur d’avant-plan,Vordergrundfarbe,اللون الأمامي
+foreground stipple,avant-plan grisé,Gepunkteter Vordergrund,تنقيط الأمامي
+form,form,Formular,جدول
+frm,cadr,rmn,إطار
+ftr,pdp,ftr,هامش
+gpn,panver,gpn,لوح بلوري
+grave,accent grave,Gravis,علامة
+grayed,grisé,ausgegraut,غير مفعل
+greater,,,أعظم
+greater than or equal to,supérieur ou égal à,größer oder gleich,أكبر من او يساوي
+h%d,h%d,h%d,h%d
+has formula,contient une formule,hat Formel,له وظيفة
+hdng,tête,hdng,hdng
+hdr,tête,kopf,رأسي
+heavy check mark,,,علامة صحيح شديدة
+help,aide,Hilfe,مساعدة
+higher.,plus haut.,höher.,أعلى
+home,origine,Pos1,المنزل
+horizontal,horizontal,horizontal,أفقي
+html,html,html,HTML
+hyphen bullet,,,خط
+i acute,,,i حاد
+i circumflex,,,i علامة
+i grave,,,i شديد
+i umlaut,,,i نقطتين
+icn,icon,icn,أقن
+icon,icône,Klangsymbol,أيقونة
+ifrm,cadrint,ifrm,إطار
+img,img,img,صورة
+inaccessible,inaccessible,unzugänglich,مستحيل الوصول
+indent,indentation,Einzug,البادئة
+infinity,infini,Unendlich,لانهاية
+inherit,hérité,vererbt,وارث
+insert,insert,Einfügen,أدرج
+inverted exclamation point,,,علامة تعجب مقلوبة
+inverted question mark,,,علامة استفهام مقلوبة
+invisible,invisible,unsichtbar,غير مرئي
+italic,italique,kursiv,مائل
+justification,justification,Ausrichtung,محاذاة
+language,langue,Sprache,اللغة
+lbl,étiq,lbl,عنوان
+leaving table.,sortie du tableau.,Tabelle wird verlassen.,تركنا الجدول.
+left,gauche,links,يسار
+left alt,alt gauche,Alt links,زر alt اليساري
+left arrow,flèche vers la gauche,Pfeil nach links,قوس مفتوح
+left brace,,,قوص أيسر
+left bracket,,,قوس أيسر
+left control,contrôle gauche,Steuerung links,زر كنترول اليميني
+left double angle bracket,,,قوس مزدوج أيسر
+left double quote,,,علامة إقتباس مزدوجة يسرى
+left margin,marge de gauche,Linker Rand,الهامش اليمين
+left meta,méta gauche,Metataste links,ميتا يساري
+left paren,,,قوس مفتوح
+left shift,maj gauche,Umschalt links,زر التغيير اليساري
+left single quote,,,علامة إقتباس يسرى
+left super,touche Super gauche,linke Metataste,السوبر اليساري
+left tab,tab gauche,Tab links,اللسان الأيسر
+less,,,أقل
+less than or equal to,inférieur ou égal à,kleiner oder gleich,أصغر من او يساوي
+line height,hauteur de ligne,Zeilenhöhe,علو السطر
+line selected down from cursor position,,,مستند مختار تحت مكان المؤشّر.
+line selected from start to previous cursor position,,,خط المحدد من البداية إلى الموضع السابق للمؤشر
+line selected to end from previous cursor position,,,خط المحدد للنهاية من الموضع السابق للمؤشر
+line selected up from cursor position,,,مستند مختار فوق مكان المؤشّر
+line through,ligne à travers,durchgestrichen,مشطوب
+line unselected down from cursor position,,,مستند ملغى اختياره من تحت مكان المؤشّر.
+line unselected up from cursor position,,,مستند ملغى اختياره فوق مكان المؤشّر
+link,lien,Link,وصلة
+live regions politeness levels restored,niveaux de politesse des zones dynamiques restaurés,Höflichkeitseinstellungen für dynamische Bereiche wiederhergestellt,استعيدت مستويات التهذيب لكل المناطق الحية
+lnk,lien,lnk,lnk
+logical not,,,'لا' منطقي
+low,bas,tief,منخفض
+lower.,moins haut.,tiefer.,أدنى.
+lr,gd,links-rechts,lr
+lr-tb,gd-hb,links-rechts oben-unten,lr-tb
+lst,lst,lst,قائمة
+lstitm,élémlst,lstitm,عنصر قائمة
+ltr,gvd,links nach rechts,يساري
+lyrdpn,vltcouch,lyrdpn,لوح طبقي
+macron,,,خط افقي علوي
+menu,menu,Menü,قائمة
+middle,au milieu,Mitte,وسط
+middle dot,,,نقطة وسطية
+minus,moins,Minus,ناقص
+misspelled,mal orthographié,falsch geschrieben,كلمة مهجأة خاطئا:
+mnu,mnu,mnu,قائمة
+mnubr,barmnu,mnubr,شريط القوائم
+mnuitm,élémmnu,mnuitm,عنصر قائمة
+mode switch,changement de mode,Mode Switch-Taste,تبديل الوضع
+mu,,,مو
+multi,multi,Multi-Taste,متعدد
+multi-select,sélection multiple,Mehrfachauswahl,إنتقاء جماعي
+n tilde,,,n تلدة
+newline,,,سطر جديد
+no break space,,,مسافة للخلف
+no justification,sans justification,Keine Ausrichtung,محاذاة
+no live message saved,aucun message dynamique enregistré,Keine dynamischen Meldungen gespeichert,لم تحفظ اي رسالة حيّة
+none,aucun,keiner,بلا
+normal,normal,normal,عادي
+not checked,non cochée,nicht ausgewählt,غير مؤكّد
+not equal to,pas égal à,ist nicht,غير معادل لـ
+not pressed,non pressé,nicht gedrückt,غير مضغوط
+not selected,non sélectionnée,nicht ausgewählt,غير منتقى
+num lock,verr. num.,Nummernblock,قفل الأرقام
+number,,,رقم
+o acute,,,o حاد
+o circumflex,,,o علامة
+o grave,,,o شديد
+o stroke,,,o مخطط
+o tilde,,,o تلدة
+o umlaut,,,o نقطتين
+oblique,oblique,abgeschrägt,منحني
+off,désactivé,aus,موقف
+on,activé,an,مشتغل
+one fourth,,,ربع
+one half,,,نص
+open,,,افتح
+optnpn,vltopt,optnpn,لوح الخيارات
+ordinal,,,العدد الترتيبي
+outline,contour,Umriss,خارج السطر
+overline,ligne au-dessus,Linie oberhalb,فوق السطر
+page down,page suiv.,Bild ab,صفحة أسفل
+page selected from cursor position,,,صفحة مختارة من مكان المؤشّر
+page selected to cursor position,,,صفحة مختارة إلى مكان المؤشّر
+page unselected from cursor position,,,صفحة ملغى اختيارها من مكان المؤشّر
+page unselected to cursor position,,,صفحة ملغى اختيارها إلى مكان المؤشّر
+page up,page préc.,Bild auf,صفحة أعلى
+para,para,para,فقرة
+paragraph marker,,,علامة فقرة
+paragraph selected down from cursor position,,,صفحة مختارة من مكان المؤشّر
+paragraph selected up from cursor position,,,صفحة مختارة من مكان المؤشّر
+paragraph style,Style de paragraphe,Absatzstil,أسلوب الفقرة
+paragraph unselected down from cursor position,,,صفحة ملغى اختيارها من مكان المؤشّر
+paragraph unselected up from cursor position,,,صفحة ملغى اختيارها من مكان المؤشّر
+partially checked,partiellement cochée,teilweise ausgewählt,دُقق جزئيا
+per mille,,,في الألف
+percent,,,نسبة مئوية
+pgbar,barprog,pgbar,عمود التقدم
+pgt,ong,pgt,لسن
+pixels above lines,pixels au-dessus des lignes,Pixel über Zeilen,بكسلات فوق السطر
+pixels below lines,pixels au-dessous des lignes,Pixel unter Zeilen,بكسلات تحت السطر
+pixels inside wrap,pixels entre les lignes d’un paragraphe,Pixel innerhalb Umbruch,بكسلات في الإلتفاف
+plus,plus,Plus,زائد
+plus or minus,,,زائد أو ناقص
+pnl,tdb,pnl,شريط
+politeness level %s,niveau de politesse %s,Höflichkeitsstufe %s,مستوى التهذيب %s
+popmnu,mnuctxt,popmnu,قائمة منبثقة
+pounds,,,جنيه استرليني
+present new mail if this script is not active.,,,قدِّم البريد الجديد ان لم يكن هذا البرنامج النصي نشطًا.
+pressed,pressé,gedrückt,مضغوط
+prime,,,فتحة
+pwd,pass,pwd,ب.أ.د
+question,,,سؤال
+quote,,,اقتباس
+radio,boutrad,radio,اختيار
+rdmnuitm,élemrad,rdmnuitm,عنصر زر راديو
+rdonly,lectseule,nur lesbar,ق.فقط
+read only,lecture seule,nur lesbar,قراءة فقط
+registered,,,مسجل
+required,requis,Eingabe erforderlich,مطلوب
+return,entrée,Enter,عودة
+right,droite,rechts,يمين
+right alt,alt droit,Alt rechts,زر alt اليميني
+right arrow,flèche vers la droite,Pfeil nach rechts,قوس مغلق
+right brace,,,قوص أيمن
+right bracket,,,قوس أيمن
+right control,contrôle droit,Steuerung rechts,زر كنترول اليميني
+right double angle bracket,,,قوس مزدوج أيمن
+right double quote,,,علامة إقتباس مزدوجة يمنى
+right margin,marge de droite,Rechter Rand,الهامش اليمين
+right meta,méta droit,Metataste rechts,ميتا يميني
+right paren,,,قوس مغلق
+right shift,maj droit,Umschalt rechts,زر التغيير اليميني
+right single quote,,,علامة اقتباس احادية يمنى
+right super,touche Super droite,rechte Metataste,السوبر اليميني
+right-pointing arrow,flèche vers la droite,Dicker Pfeil nach rechts mit breiter Spitze,سهم نحو اليمين
+right-pointing arrowhead,pointe de flèche vers la droite,"Dreidimensionaler Pfeil nach rechts, oben weiß",رأس سهم نحو اليمين
+ring,rond en chef,Kreisakzent,a حلقة
+rise,élévation,Anhebung,ارتفاع
+rl,dg,rechts-links,rl
+rl-tb,dg-hb,rechts-links oben-unten,rl-tb
+row %(index)d of %(total)d,ligne %(index)d sur %(total)d,Zeile %(index)d von %(total)d,صف %d من %d
+row %d,ligne %d,Zeile %d,صف %d
+rtl,dvg,rechts nach links,يميني
+rtpn,vltrac,rtpn,لوحة جذرية
+rwhdr,têtelig,rwhdr,ترويسة السطر
+s sharp,,,s حاد
+same page,page identique,Die selbe Seite,نفس الصفحة
+same site,site identique,Die selbe Website,نفس الموقع
+scale,échelle,Skalierung,المقياس
+scbr,bardéf,scbr,scbr
+scpn,vltdéf,scpn,لف
+scroll lock,arrêt défil.,Bildlauf,إقفال اللف
+sctn,sctn,sctn,قسم
+section,,,قسم
+selected,sélectionné,ausgewählt,منتقى
+semi condensed,semi-condensé,halb verdichtet,شبه مكثف
+semi expanded,semi-étendu,halb gedehnt,شبه ممطوط
+semicolon,,,فاصلة منقوطة
+sentence,phrase,Satz,جملة
+seprtr,seprtr,seprtr,مفرق
+setting live region to assertive,définition de la zone dynamique à « affirmative »,Dynamischer Bereich auf bestimmend eingestellt,إعداد المنطقة الحية كمؤكدة
+setting live region to off,définition de la zone dynamique à « désactivée »,Höflichkeitseinstellungen für den dynamischen Bereich ausgeschaltet,بلا إعداد للمنطقة الحية
+setting live region to polite,définition de la zone dynamique à « polie »,Dynamischer Bereich auf höflich eingestellt,إعداد المنطقة الحية كمهذبة
+setting live region to rude,,,إعداد المنطقة الحية كوقحة
+shared ancestor %s,,,جد مشترك %s
+single,simple,einfach,مفرد
+single low quote,,,علامة إقتباس يسرى
+size,taille,Größe,الحجم
+slash,,,شرطة
+sldr,glis,sldr,مزلق
+slower.,moins rapide.,langsamer.,أبطأ.
+small caps,petites majuscules,kleine Großbuchstaben,أحرف صغيرة
+soft hyphen,,,بداية اقتباس
+space,espace,Leerzeichen,فراغ
+speak chat room name.,lire le nom du salon de discussion.,Chatraum-Namen vorlesen.,تكلم باسم غرفة المحادثة.
+spelling,orthographe,Rechtschreibung,تثبت من تهجيئ الكلمات
+spin,boutrégl,spin,تدوير
+spltpn,vltpar,spltpn,إنقسام
+square root,racine carrée,Quadratwurzel,جذر تربيعي
+star,,,نجمة
+statbr,barétat,statbr,حالة
+stretch,étendu,Dehnung,الامتداد
+strike through,barré,Durchgestrichen,شطب
+string not found,chaîne non trouvée,Zeichenkette nicht gefunden,غير قادر على العثور على العبارة
+stroke,barré,Querstrich,o مخطط
+style,style,Stil,أسلوب
+sub,en indice,tiefgestellt,فرع
+subscript %s,indice %s,tiefgestellt %s,a علوي
+subscript 0,,,a علوي
+subscript 1,,,1 علوي
+subscript 2,,,2 علوي
+subscript 3,,,3 علوي
+subscript 4,,,a علوي
+subscript 5,,,a علوي
+subscript 6,,,a علوي
+subscript 7,,,a علوي
+subscript 8,,,a علوي
+subscript 9,,,a علوي
+subscript equals,,,a علوي
+subscript left paren,,,قوس مفتوح
+subscript minus,,,a علوي
+subscript plus,,,a علوي
+subscript right paren,,,قوس مغلق
+super,en exposant,hochgestellt,فائق
+superscript %s,exposant %s,hochgestellt %s,a علوي
+superscript 0,,,a علوي
+superscript 1,,,1 علوي
+superscript 2,,,2 علوي
+superscript 3,,,3 علوي
+superscript 4,,,a علوي
+superscript 5,,,a علوي
+superscript 6,,,a علوي
+superscript 7,,,a علوي
+superscript 8,,,a علوي
+superscript 9,,,a علوي
+superscript a,,,a علوي
+superscript equals,,,a علوي
+superscript left paren,,,a علوي
+superscript minus,,,a علوي
+superscript n,,,a علوي
+superscript plus,,,a علوي
+superscript right paren,,,a علوي
+tab,tabulation,Tab,لسان
+tb,hb,oben-unten,tb
+tb-lr,hb-gd,oben-unten links-rechts,tb-lr
+tb-rl,hb-dg,oben-unten rechts-links,tb-rl
+tbar,barout,tbar,أدوات
+tbl,tbl,tbl,جدول
+tblst,lstong,tblst,جداول
+term,term,term,عبارة
+text decoration,décoration du texte,Textverzierung,زخرفة النص
+text rotation,rotation du texte,Textdrehung,دوران النص
+text shadow,ombre du texte,Textschattierung,ظل النص
+text-bottom,aligné en bas,Text unten,أسفل النص
+text-top,aligné en haut,Text oben,قمة النص
+tglbtn,boutbsc,tglbtn,زر
+thorn,,,ثورن
+three fourths,,,ثلاثة أرباع
+tilde,tilde,Tilde,حركة
+times,,,مضروب في
+tip,bul,tip,تلميحة
+toggle,bouton à deux états,Umschalten,تنقل
+tomnuitm,mnudét,tomnuitm,نزع عنصر
+top,en haut,oben,قمة
+trademark,,,علامة تجارية
+tre,arbr,baum,شجر
+tree level %d,niveau d’arborescence %d,Baumebene %d,مستوى الشجرة %d
+triangular bullet,,,علامة مثلثية
+triple click,triple-clic,Dreifachklick,(نقر ثلاثي)
+trtbl,tabarb,trtbl,جشجرة
+true,vrai,wahr,صحيح
+txt,txt,txt,نص
+u acute,,,Y حاد
+u circumflex,,,E علامة
+u grave,,,u بعلامة
+u umlaut,,,U نقطتين
+ultra condensed,super condensé,sehr stark verdichtet,مكثف بشدة
+ultra expanded,super étendu,sehr stark gedehnt,ممطوط بشدة
+umlaut,,,علامة
+underline,soulignement,Unterstrichen,تسطير
+unk,inc,unk,unk
+unread,,,غير مقروء
+unselected,non sélectionné,nicht ausgewählt,غير منتقى
+up,haut,hoch,فوق
+variant,variante,Großbuchstabenstil,التنوع
+vertical,vertical,vertikal,عمودي
+vertical align,alignement vertical,Vertikale Ausrichtung,محاذاة عمودية
+vertical bar,,,خط عامودي
+vwprt,fen,vwprt,مظهر
+weight,graisse,Gewichtung,الوزن
+white bullet,petit cercle blanc,Weißer Aufzählungspunkt,نقطة غليظة بيضاء
+white circle,cercle blanc,Weißer Kreis,دائرة بيضاء
+white space,blanc,Leerzeichen,فراغ
+white square,carré blanc,Weißes Quadrat,مربع أبيض
+wnd,fen,wnd,نفذ
+word,mot,Wort,كلمة
+word char,mot puis caractère,Wort Zeichen,محرف
+wrap mode,mode de césure,Umbruchmodus,نمط الالتفاف
+writing mode,mode d’écriture,Schreibmodus,نمط الكتابة
+x-shaped bullet,,,علامة x
+y acute,,,Y حاد
+y umlaut,,,U نقطتين
+yen,,,ين

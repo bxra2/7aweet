@@ -1,0 +1,357 @@
+%s %s will be installed after restart. Upgrade installation can take a long time: ensure that you have backed up and that the computer is plugged in.,%s %s sera installé après le redémarrage. L’installation d’une mise à niveau peut prendre beaucoup de temps : vérifiez que vous disposez de sauvegardes et que l’ordinateur est branché sur le secteur.,"%s %s wird nach dem Neustart installiert, was möglicherweise viel Zeit beanspruchen kann. Vergewissern Sie sich, zuvor eine Sicherungskopie des Systems erstellt zu haben und dass eine zuverlässige Stromzufuhr besteht.",ستُثبّت %s %s بعد إعادة التشغيل. قد يستغرق تثبيت الترقية بعض الوقت: تأكد من الحفظ الاحتياطي، و توصيل الحاسوب بمقبس الطاقة.
+%s (console),%s (console),%s (Konsole),%s (طرفية)
+%s (remote),%s (distant),%s (Entfernt),%s (عن بعد)
+%s Connected,,,‏%s مُتصل
+%s Connecting,,,‏%s يتّصل
+%s Connection Failed,,,فشل اتصال %s
+%s Disabled,,,‏%s معطّل
+%s Disconnecting,,,‏%s يقطع الاتّصال
+%s Hardware Disabled,,,عتاد %s مُعَطَّل
+%s Hotspot Active,,,نقطة اتصال %s نشطة
+%s Not Connected,,,‏%s غير متّصل
+%s Off,,,‏%s مغلق
+%s Requires Authentication,,,يتطلب %s استيثاق
+%s Unavailable,,,‏%s غير متاح
+%s Unmanaged,,,‏%s غير مُدار
+%s has been added to your favorites.,,,أُضيف %s إلى مفضلتك.
+%s has been removed from your favorites.,,,أُزيل %s من مفضّلتك.
+%s has not emitted any errors.,,,لم يصدر %s أي خطأ.
+%s is now known as %s,,,غيّر %s اسمه إلى %s
+%s wants to inhibit shortcuts,,,يريد %s تعطيل الاختصارات
+"(e.g., user or %s)",(par ex. utilisateur ou %s),(z.B. Benutzer oder %s),(مثلا مستخدم أو %s)
+(or swipe finger),,,(أو مرر إصبع)
+<unknown>,<inconnu>,<Unbekannt>,<غير معروفة>
+A password is required to connect to “%s”.,,,كلمة السرّ مطلوبة للاتصال ب‍ ”%s“.
+Accessibility,Accessibilité,Barrierefreiheit,الإتاحة
+Account Settings,,,إعدادات الحساب
+Activation of network connection failed,L’activation de la connexion réseau a échoué,Aktivierung der Netzwerkverbindung ist gescheitert,فشل تفعيل اتصال الشبكة
+Activities,Activités,Aktivitäten,الأنشطة
+Add to Favorites,,,أضِف إلى المفضّلة
+Add world clocks…,,,أضف ساعات عالمية…
+Administrator,Administrateur,Systemverwalter,المدير
+Airplane Mode On,,,وضع الطائرة مُفعّل
+Airplane Mode is On,,,وضع الطائرة مُفعّل
+All,,,الكل
+All Day,Journée,Ganztägig,طوال اليوم
+Allow,Autoriser,Zulassen,اسمح
+Allows access to internal debugging and monitoring tools using the Alt-F2 dialog.,Autoriser l’accès aux outils internes de débogage et de surveillance grâce à la boîte de dialogue de lancement d’applications (Alt-F2).,Erlaubt Zugriff auf interne Fehlerdiagnose- und Überwachungswerkzeuge.,السماح بالوصول إلى التنقيح الداخلي ومراقبة الأدوات باستخدام نافذة حوار Alt-F2.
+Always on Top,Toujours au premier plan,Immer im Vordergrund,دائما في القمّة
+Always on Visible Workspace,Toujours sur l’espace de travail visible,Immer auf der sichtbaren Arbeitsfläche,دائما على مساحة العمل المرئية
+App Picker View,,,منظور منتقي التطبيقات
+Application defined,,,التطبيقات معرّفة
+Application wants to inhibit shortcuts,,,يريد التطبيق تعطيل الاختصارات
+Applications,,,التطبيقات
+Assign keystroke,Associer une touche,Tastenkombination zuweisen,أسند ضغطة مفتاح
+Authenticate,S’authentifier,Anmelden,استوثق
+Authentication Required,Authentification nécessaire,Anmeldung erforderlich,الاستيثاق مطلوب
+Authentication dialog was dismissed by the user,La fenêtre d’authentification a été écartée par l’utilisateur,Der Dialog zur Anmeldung wurde vom Benutzer geschlossen,أغلق المستخدم مربع الاستيثاق الحِواري
+Authentication error,Erreur d’authentification,Anmeldung fehlgeschlagen,خطأ في الاستيثاق
+Authentication required by wireless network,,,تتطلب الشبكة اللاسلكية الاستيثاق
+Bluetooth,Bluetooth,Bluetooth,بلوتوث
+Bluetooth Settings,Paramètres Bluetooth,Bluetooth-Einstellungen,إعدادات بلوتوث
+Bounce Keys,Touches rebond,Tastenanschlagfunktion,مفاتيح لها صوت
+Brightness,Luminosité,Helligkeit,السطوع
+Browse in Software,,,تصفح في «البرمجيات»
+Built-in Only,Intégré seulement,Nur eingebaut,المدمجة فقط
+Cancel,Annuler,Abbrechen,ألغِ
+Change Background…,Modifier l’arrière-plan…,Hintergrund ändern …,غيّر الخلفية…
+Choose Session,Choisir une session,Sitzung wählen,أغلق الجلسة
+Clear,Effacer,Leeren,امسح
+Close,Fermer,Schließen,أغلِق
+Command not found,Commande non trouvée,Befehl nicht gefunden,لم يُعثَر على الأمر
+Configure GNOME Shell Extensions,Configurer les extensions Shell de GNOME,GNOME-Shell-Erweiterungen einrichten,اضبط امتدادات صدفة جنوم
+Connect,Se connecter,Verbinden,اتصل
+Connect to Internet,,,اتصل بالإنترنت
+Connection failed,Échec de connexion,Verbindung gescheitert,فشل الاتصال
+Copy,Copier,Kopieren,انسخ
+Copy Error,,,انسخ الخطأ
+Could not authorize the Thunderbolt device: %s,Impossible d’autoriser le périphérique Thunderbolt : %s,Das Thunderbolt-Gerät %s konnte nicht legitimiert werden,تعذّر تخويل جهاز ثندربُلت: %s
+Could not parse command:,,,تعذّر تحليل الأمر:
+DSL authentication,Authentification DSL,DSL-Anmeldung,استيثاق اتصال DSL
+Dash,Dash,Dash,الشريط
+Deny,Refuser,Ablehnen,ارفض
+Deny Access,Refuser l’accès,Zugriff verhindern,ارفض منح الصلاحية
+Disable,,,عطّل
+Disable Until Tomorrow,,,أوقف حتى الغد
+Disable user extensions,Désactiver les extensions utilisateur,Shell-Erweiterungen deaktivieren,عطّل امتدادات المستخدمين
+Disabled,Désactivé,Ausgeschaltet,معطّل
+Display Settings,Paramètres d’affichage,Anzeigeeinstellungen,إعدادات العرض
+Do you want to keep these display settings?,,,أتريد الإبقاء على هذه الإعدادات؟
+Done,Terminé,Erledigt,تم
+Download and install “%s” from extensions.gnome.org?,Télécharger et installer « %s » à partir de extensions.gnome.org ?,»%s« von extensions.gnome.org herunterladen und installieren?,هل تريد تنزيل و تثبيت ”%s“ من extensions.gnome.org؟
+Downloading,Téléchargement,Herunterladen,ينزّل
+Edit…,Édition…,Bearbeiten …,حرّر…
+Enable,,,فعّل
+Enable internal tools useful for developers and testers from Alt-F2,Activer les outils internes pour les développeurs et les testeurs depuis Alt-F2,Interne Werkzeuge für Entwickler und Tester mit Alt+F2 einschalten,تمكين الأدوات الداخلية المفيدة للمطورين والمختبرين من Alt-F2
+Enabled,Activé,Eingeschaltet,مفعّل
+Enter a Command,,,اكتب أمرًا
+Error,Erreur,Fehler,خطأ
+Estimating…,,,يَحسِب…
+Evolution Calendar,,,تقويم إيفُليوشِن
+Execution of “%s” failed:,Exécution de « %s » impossible :,Ausführung von »%s« ist gescheitert:,فشل تنفيذ ”%s“:‏
+"Extensions can be installed through Software or <a href=""https://extensions.gnome.org"">extensions.gnome.org</a>.",,,"يمكن تثبيت الامتدادات من تطبيق «البرمجيات» أو من <a href=""https://extensions.gnome.org"">extensions.gnome.org</a>"
+External Only,Externe seulement,Nur extern,الخارجية فقط
+External drive connected,Disque externe connecté,Externes Laufwerk verbunden,وُصّل قرص خارجي
+External drive disconnected,Disque externe déconnecté,Externes Laufwerk getrennt,فُصل القرص الخارجي
+Failed to launch “%s”,Impossible de lancer « %s »,»%s« konnte nicht gestartet werden,فشل تشغيل ”%s“
+Firmware Missing For %s,,,برمجيات %s المغروسة (Firmware) غير متاحة
+Focus the active notification,Donner le focus à la notification active,Auf aktive Benachrichtigungen ausrichten,ركّز على التنبيه النشط
+Force Quit,Forcer à quitter,Beenden erzwingen,أجبر الإنهاء
+Frequent,,,شائعة
+Frequently used applications will appear here,,,التطبيقات شائعة الاستخدام ستظهر هنا
+Fully Charged,,,مشحونة بالكامل
+GNOME Shell,Shell de GNOME,GNOME-Shell,صدفة جنوم
+GNOME needs to lock the screen,GNOME a besoin de verrouiller l’écran,GNOME muss den Bildschirm sperren,تحتاج جنوم إلى إيصاد الشاشة
+Give %s access to your location?,,,أتريد إعطاء %s صلاحية معرفة مكانك؟
+Go online for weather information,,,اتصل بالإنترنت لمعلومات الطقس
+Grant Access,Accorder l’accès,Zugriff gewähren,امنح الصلاحية
+Headphones,Casque audio,Kopfhörer,سماعات أذن
+Headset,Micro-casque,Headset,سماعة رأس
+Hide Errors,Masquer les erreurs,Fehler verbergen,أخفِ الأخطاء
+Hide Text,Masquer le texte,Text verbergen,أخفِ النص
+High Contrast,Contraste élevé,Hoher Kontrast,تباين عال
+History for command (Alt-F2) dialog,Historique de la boîte de dialogue des commandes (Alt-F2),Verlauf des Befehlsdialogs (Alt+F2),التأريخ لنافذة حوار الأمر (Alt-F2)
+History for the looking glass dialog,Historique de la boîte de dialogue d’inspection,Chronik des Dialogs »looking glass«,التأريخ لنافذة المرآة
+Homepage,Site web,Homepage,الصفحة الرئيسية
+Hotspot Login,Identification du point d’accès,Hotspot-Anmeldung,ولوج نقطة البث
+Identity:,,,التعريف:
+Install,Installer,Installieren,ثبت
+Install &amp; Power Off,,,ثبّت ثم أطفئ
+Install Updates & Power Off,Installer les mises à jour et éteindre,Aktualisierungen installieren und ausschalten,ثبّت التحديثات ثم أطفئ
+Install pending software updates,Installer les mises à jour logicielles en attente,Ausstehende Softwareaktualisierungen installieren,ثبّت تحديثات البرمجيات المعلّقة
+Join Displays,Joindre écrans,Bildschirme verketten,ضم الشاشات
+Just now,À l’instant,Gerade eben,الآن
+Keep Changes,Conserver les modifications,Änderungen beibehalten,أبق على التغييرات
+Key:,,,المفتاح:
+Keybinding to focus the active notification,Combinaison de touches pour donner le focus à la notification active,Tastenkombination zur Ausrichtung auf die aktiven Benachrichtigungen,اختصار التركيز على التنبيه النشط
+Keybinding to focus the active notification.,Combinaison de touches pour donner le focus à la notification active.,Tastenkombination zur Ausrichtung auf die aktiven Benachrichtigungen.,اختصار التركيز على التنبيه النشط.
+Keybinding to open the Activities Overview.,Combinaison de touches pour ouvrir la vue d’ensemble des activités.,Tastenkombination zum Öffnen der »Aktivitäten«-Übersicht.,اختصار فتح النظرة العامة للأنشطة
+Keybinding to open the application menu,,,اختصار فتح قائمة التطبيقات
+Keybinding to open the application menu.,,,اختصار فتح قائمة التطبيقات.
+Keybinding to open the overview,Combinaison de touches pour ouvrir la vue d’ensemble,Tastenkombination zum Öffnen der Übersicht,اختصار فتح النظرة العامة
+Keybinding to open the “Show Applications” view,Combinaison de touches pour ouvrir la vue « Afficher les applications »,Tastenkombination zum Öffnen der »Anwendungen anzeigen«-Ansicht,اختصار منظور ”اعرض التطبيقات“
+Keybinding to open the “Show Applications” view of the Activities Overview.,Combinaison de touches pour ouvrir la vue « Afficher les applications » de la vue d’ensemble des activités.,Tastenkombination zum Öffnen der »Anwendungen anzeigen«-Ansicht der Aktivitätenübersicht.,اختصار منظور ”اعرض التطبيقات“ في النظرة العامة للتطبيقات.
+Keybinding to toggle the visibility of the notification list,Combinaison de touches pour inverser la visibilité de la liste des notifications,Tastenkombination zum Umschalten der Sichtbarkeit der Benachrichtigungsliste,اختصار تبديل حالة ظهور قائمة التنبيهات
+Keybinding to toggle the visibility of the notification list.,Combinaison de touches pour inverser la visibilité de la liste des notifications.,Tastenkombination zum Umschalten der Sichtbarkeit der Benachrichtigungsliste.,اختصار تبديل حالة ظهور قائمة التنبيهات.
+Keyboard,Clavier,Tastatur,لوحة المفاتيح
+Large Text,Grand texte,Große Schrift,نص كبير
+Launch using Dedicated Graphics Card,,,شغل باستخدام بطاقة الرسوميات المنفصلة
+Leave Off,Laisser éteint,Ausgeschaltet lassen,اتركه معطّلا
+Leave On,Laisser activé,Eingeschaltet lassen,اتركه مفعّلا
+List possible modes,Lister les modes possibles,Die möglichen Modi auflisten,اسرد كل الأطوار الممكنة
+Loading…,Chargement…,Wird geladen …,يحمّل…
+Location Disabled,,,التموضع غير مفعّل
+Location Enabled,,,التموضع مفعّل
+Location In Use,,,التموضع مستخدم
+Location access can be changed at any time from the privacy settings.,,,يمكن تغيير صلاحيات الوصول لمكانك في أي وقت من إعدادات الخصوصية.
+Lock,,,أوصِد
+Lock Orientation,,,أوصد الاتجاه
+Lock Screen,Verrouiller l’écran,Bildschirm sperren,أوصد الشاشة
+Lock was blocked by an application,,,منع تطبيق الإيصاد
+Log Out,Fermer la session,Abmelden,اخرج
+Log Out %s,Fermer la session de %s,%s abmelden,خروج %s
+Log in as another user,Se connecter en tant qu’autre utilisateur,Als anderer Benutzer anmelden,لِج كمستخدم آخر
+Login Window,Fenêtre de connexion,Anmeldefenster,نافذة الولوج
+Maximize,Maximiser,Maximieren,كبّر
+Microphone,Microphone,Mikrofon,ميكروفون
+Minimize,,,صغّر
+Mirror,Cloner,Spiegeln,طابق
+Mobile Broadband Settings,Paramètres connexion mobile,Einstellungen der mobilen Breitbandverbindung,إعدادات شبكة الهاتف المحمول
+Mobile broadband network password,,,كلمة سرّ شبكة الهاتف المحمول
+Mode used by GDM for login screen,Mode utilisé par GDM pour l’écran de connexion,Der durch GDM im Anmeldefenster verwendete Modus,الوضع الذي يستخدمه مدير ولوج جنوم لشاشة الولوج
+Mouse Keys,Touches de la souris,Tastaturmaus,مفاتيح الفأرة
+Move,Déplacer,Verschieben,انقل
+Move Titlebar Onscreen,,,انقل شريط العنوان على الشاشة
+Move to Monitor Down,Déplacer vers l’écran du bas,Auf den Bildschirm nach unten verschieben,انقل للشاشة الأسفل
+Move to Monitor Left,Déplacer vers l’écran de gauche,Auf den Bildschirm nach links verschieben,انقل للشاشة اليسرى
+Move to Monitor Right,Déplacer vers l’écran de droite,Auf den Bildschirm nach rechts verschieben,انقل للشاشة اليمنى
+Move to Monitor Up,Déplacer vers l’écran du haut,Auf den Bildschirm nach oben verschieben,انقل للشاشة الأعلى
+Move to Workspace Down,Déplacer vers l’espace de travail inférieur,Eine Arbeitsfläche nach unten verschieben,انقل لمساحة العمل لأسفل
+Move to Workspace Left,Déplacer vers l’espace de travail de gauche,Eine Arbeitsfläche nach links verschieben,انقل لمساحة العمل على اليسار
+Move to Workspace Right,Déplacer vers l’espace de travail de droite,Eine Arbeitsfläche nach rechts verschieben,انقل لمساحة العمل على اليمين
+Move to Workspace Up,Déplacer vers l’espace de travail supérieur,Eine Arbeitsfläche nach oben verschieben,انقل لمساحة العمل لأعلى
+Network Login,Identification réseau,Netzwerkanmeldung,ولوج الشّبكة
+Network Manager,,,مدير الشبكة
+Network Settings,,,إعدادات الشّبكة
+Network name:,,,اسم الشبكة:
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+New device has been detected and needs to be authorized by an administrator.,,,اكتُشف جهاز جديد وعلى مدير النظام تخويله.
+New device has been detected while you were away. Please disconnect and reconnect the device to start using it.,Un nouveau périphérique a été détecté pendant votre absence. Veuillez le débrancher et rebrancher avant de commencer à l’utiliser.,"Ein neues Gerät ist in der Zwischenzeit erkannt worden. Bitte trennen Sie die Verbindung des Gerätes und schließen Sie es wieder an, um es zu verwenden.",وصّل جهاز جديد و أنت غير موجود. رجاء أفصل الجهاز ثم أوصله لتستطيع استخدامه.
+New shortcut…,Nouveau raccourci…,Neue Tastenkombination …,اختصار جديد…
+Next,,,التالي
+Next month,Mois suivant,Nächster Monat,الشهر التالي
+Night Light Disabled,,,الإضاءة الليلية موقفة
+Night Light On,,,الإضاءة الليلية مفعّلة
+No Events,Aucun évènement,Keine Termine,لا أحداث
+No Extensions Installed,,,لا امتدادات مثبّتة
+No Networks,,,لا شبكات
+No Notifications,Aucune notification,Keine Benachrichtigungen,لا تنبيهات
+No extensions installed,Aucune extension installée,Keine Erweiterungen installiert,لا امتدادات مثبّتة
+No results.,,,لا نتائج.
+None,Aucun,Keine,لا شيء
+Not Charging,,,لا تُشحن
+Not listed?,Absent de la liste ?,Nicht aufgeführt?,غير مدرج؟
+Off,Éteint,Aus,مغلق
+On,,,مفعّل
+Open the application menu,,,افتح قائمة التطبيقات
+Open with %s,Ouvrir avec %s,Öffnen mit %s,افتح باستخدام %s
+Orientation Lock,,,قفل الاتجاه
+Other users are logged in.,,,مستخدمون آخرون والِجون
+Out of date,Périmée,Veraltet,قديم
+Overview,Vue d’ensemble,Übersicht,نظرة عامة
+PIN code is needed for the mobile broadband device,Un code PIN est nécessaire pour les connexions mobiles,Für das mobile Breitbandgerät wird ein PIN-Code benötigt,جهاز شبكة الهاتف المحمول يتطلب رمز PIN
+PIN code required,Code PIN requis,PIN-Code ist erforderlich,رمز PIN مطلوب
+PIN:,,,PIN:
+Password,Mot de passe,Passwort,كلمة السر
+Password cannot be blank,Le mot de passe ne peut pas être vide,Es muss ein Passwort angegeben werden,لا يمكن أن تكون كلمة السرّ فارغة
+Password:,,,كلمة السرّ:
+Passwords do not match.,,,لا تتطابق كلمتا السر.
+Passwords or encryption keys are required to access the wireless network “%s”.,,,كلمات السر أو مفاتيح التعمية مطلوبة للوصول إلى الشبكة اللاسلكية ”%s“.
+Paste,Coller,Einfügen,ألصق
+Power Off,Éteindre,Ausschalten,أطفئ الحاسوب
+Power Settings,Paramètres de gestion de l’énergie,Energieeinstellungen,إعدادات الطاقة
+Power off after updates are installed,Éteindre après l’installation des mises à jour,"Ausschalten, nachdem Aktualisierungen installiert wurden",أطفئ بعد تثبيت التحديثات
+Press Esc to exit,Appuyez sur Échap pour quitter,Drücken Sie Esc zum Abbrechen,اضغط Esc للخروج
+Press a button to configure,Appuyez sur un bouton pour le configurer,Klicken Sie auf einen Knopf zum Einrichten,اضغط زر للضبط
+Press any key to exit,Appuyez sur une touche pour quitter,Drücken Sie eine beliebige Taste zum Beenden,اضغط أي زر للخروج
+Previous month,Mois précédent,Vorheriger Monat,الشهر السابق
+Print version,Afficher la version,Version ausgeben,اطبع الإصدارة
+Privacy Settings,,,إعدادات الخصوصية
+Private key password:,,,كلمة سرّ المفتاح الخاص:
+Quit,Quitter,Beenden,أنْهِ
+Region & Language Settings,,,إعدادات الإقليم و اللغة
+Remember Password,Se souvenir du mot de passe,Passwort speichern,تذكر كلمة السر
+Remove from Favorites,,,أزِل من المفضّلة
+Resize,Redimensionner,Größe verändern,غيّر الحجم
+Restart,Redémarrer,Neu starten,إعادة التشغيل
+Restart & Install Updates,Redémarrer et installer les mises à jour,Neu starten und Aktualisierungen installieren,أعد التشغيل و ثبّت التحديثات
+Restart & Install Upgrade,Redémarrer et installer la mise à niveau,Neu starten und Aktualisierung installieren,أعد التشغيل و ثبّت الترقية
+Restart &amp; Install,,,أعد التشغيل ثم ثبّت
+Restart is not available on Wayland,Le redémarrage n’est pas disponible sur Wayland,Neu Starten ist unter Wayland nicht verfügbar,إعادة التشغيل غير متاحة على وايلاند
+Restarting…,Redémarrage…,Neustart …,يُعيد التشغيل…
+Resume,,,استكمل
+Revert Settings,Restaurer les paramètres,Zurücksetzen,تراجع عن الإعدادات
+Running on battery power: please plug in before installing updates.,,,يعمل على طاقة البطارية: رجاءً وصّل بمقبس التيار قبل تثبيت التحديثات.
+Screen Keyboard,Clavier visuel,Bildschirmtastatur,لوحة مفاتيح على الشاشة
+Screen Reader,Lecteur d’écran,Bildschirmleser,قارئ الشاشة
+Screen is Being Shared,,,تجري مشاركة الشاشة
+Search,Recherche,Suchen,ابحث
+Searching…,Recherche…,Suche läuft …,يبحث…
+Select Audio Device,Sélectionner le périphérique audio,Audio-Gerät auswählen,اختر جهاز صوت
+Select Network,,,اختر شبكة
+Select a location…,,,اختر موقعا…
+Select a network,,,اختر شبكة
+Service:,,,الخدمة:
+Settings,Paramètres,Einstellungen,الإعدادات
+Shell Extensions,,,امتدادات الصدفة
+Show Applications,,,أظهر التطبيقات
+Show Details,,,أظهر التفاصيل
+Show Errors,Afficher les erreurs,Fehler anzeigen,اظهر الأخطاء
+Show Keyboard Layout,Afficher la disposition du clavier,Tastaturbelegung anzeigen,أظهر تخطيط لوحة المفاتيح
+Show Text,Afficher le texte,Text anzeigen,أظهر النص
+Show all applications,,,أظهر كل التطبيقات
+Show on-screen help,Afficher l’aide à l’écran,Bildschirmhilfe anzeigen,اعرض المساعدة على الشاشة
+Show the notification list,Afficher la liste des notifications,Die Benachrichtigungsliste anzeigen,اعرض قائمة التنبيهات
+Show the overview,Afficher la vue d’ensemble,Die Übersicht anzeigen,اعرض النظرة العامة
+Sign In,,,ادخل
+Slow Keys,Touches lentes,Tastenverzögerung,مفاتيح بطيئة
+Slow Keys Turned Off,Touches lentes désactivées,Tastenverzögerung ausgeschaltet,المفاتيح البطيئة معطّلة
+Slow Keys Turned On,Touches lentes activées,Tastenverzögerung eingeschaltet,المفاتيح البطيئة مفعلة
+Some applications are busy or have unsaved work.,,,بعض التطبيقات مشغولة أو تحتوي عملًا لم يُحفظ.
+Something’s gone wrong,Quelque chose s’est mal passé,Etwas ist schiefgelaufen,حدثت مشكلة
+"Sorry, that didn’t work. Please try again.",Échec de l’authentification. Essayez à nouveau.,"Entschuldigung, das hat nicht funktioniert. Bitte versuchen Sie es erneut.",للأسف لم يُفلح هذا. أعِد المحاولة.
+Sound Settings,Paramètres de son,Klangeinstellungen,إعدادات الصوت
+Sticky Keys,Touches rémanentes,Einrastfunktion,مفاتيح لاصقة
+Sticky Keys Turned Off,Touches rémanentes désactivées,Einrastfunktion ausgeschaltet,المفاتيح اللاصقة معطّلة
+Sticky Keys Turned On,Touches rémanentes activées,Einrastfunktion eingeschaltet,المفاتيح اللاصقة مفعلة
+Suspend,Mettre en veille,Bereitschaft,علّق
+Switch User,Changer d’utilisateur,Benutzer wechseln,بدّل المستخدم
+Switch monitor,Changer d’écran,Bildschirm wechseln,بدّل الشاشة
+Switch to application 1,Passer à l’application 1,Zu Anwendung 1 wechseln,أظهر التطبيقات
+Switch to application 2,Passer à l’application 2,Zu Anwendung 2 wechseln,أظهر التطبيقات
+Switch to application 3,Passer à l’application 3,Zu Anwendung 3 wechseln,أظهر التطبيقات
+Switch to application 4,Passer à l’application 4,Zu Anwendung 4 wechseln,أظهر التطبيقات
+Switch to application 5,Passer à l’application 5,Zu Anwendung 5 wechseln,أظهر التطبيقات
+Switch to application 6,Passer à l’application 6,Zu Anwendung 6 wechseln,أظهر التطبيقات
+Switch to application 7,Passer à l’application 7,Zu Anwendung 7 wechseln,أظهر التطبيقات
+Switch to application 8,Passer à l’application 8,Zu Anwendung 8 wechseln,أظهر التطبيقات
+Switch to application 9,Passer à l’application 9,Zu Anwendung 9 wechseln,أظهر التطبيقات
+System,Système,System,النظام
+System Information,,,معلومات النظام
+System Sounds,Sons système,Systemklänge,أصوات النظام
+Technical Details,Détails techniques,Technische Details,التفاصيل التقنية
+The type of keyboard to use.,,,نوع لوحة المفاتيح التي ترغب باستخدامها.
+Thunderbolt,,,ثندربُلت
+Thunderbolt authorization error,Erreur d’autorisation Thunderbolt,Thunderbolt-Legitimierungsfehler,عطل أثناء تخويل ثندربُلت
+Top Bar,Barre supérieure,Obere Leiste,الشريط العلوي
+Turn Off,Éteindre,Ausschalten,أوقف
+Turn Off Airplane Mode,,,عطّل وضع الطائرة
+Turn On,Activer,Einschalten,شغّل
+Turn On Wi-Fi,,,شغّل الاتصال اللاسلكي
+Turn off,,,أوقف
+Type again:,,,أدخلها ثانية:
+Type to search…,,,اكتب نصا للبحث عنه…
+UUIDs of extensions to enable,Identifiants UUID des extensions à activer,UUIDs der zu aktivierenden Erweiterungen,معرّفات الامتدادات التي ستُفعّل
+Unable to lock,Impossible de verrouiller,Sperrung fehlgeschlagen,تعذّر الإيصاد
+Unauthorized Thunderbolt device,Périphérique Thunderbolt non autorisé,Nicht legitimiertes Thunderbolt-Gerät,جهاز ثندربُلت غير مخوّل
+Undo,Annuler,Rückgängig,تراجع
+Unknown,Inconnu,Unbekannt,غير معروف
+Unknown Thunderbolt device,Périphérique Thunderbolt inconnu,Unbekanntes Thunderbolt-Gerät,جهاز ثندربُلت غير معروف
+Unknown artist,Artiste inconnu,Unbekannter Künstler,فنان غير معروف
+Unknown title,Titre inconnu,Unbekannter Titel,عنوان غير معروف
+Unlock,Déverrouiller,Entsperren,فك القفل
+Unlock Window,Fenêtre de déverrouillage,Entsperren-Fenster,افتح قفل النافذة
+Unmaximize,,,ألغِ التكبير
+"Use a specific mode, e.g. “gdm” for login screen","Utiliser un mode particulier, par ex. « gdm » pour l’écran de connexion",Verwenden Sie einen spezifischen Modus wie z.B. »gdm« für den Anmeldebildschirm,استخدم طورا معينا، مثلا: ”gdm“ لشاشة الولوج
+Use hardware switch to turn off,,,استخدم زر العتاد للإغلاق
+Username:,,,اسم المستخدم:
+VPN,VPN,VPN,‏VPN
+VPN Off,,,‏VPN مُطفأ
+VPN Settings,Paramètres VPN,VPN-Einstellungen,إعدادات VPN
+View Source,Afficher la source,Quelle zeigen,اعرض المصدر
+Visit extension homepage,Visiter le site web de l’extension,Internetseite der Erweiterung besuchen,اذهب إلى صفحة الامتداد الرئيسية
+Visual Alerts,Alertes visuelles,Visuelle Warnungen,تنبيهات بصرية
+Volume,Volume,Lautstärke,شدة الصوت
+Volume changed,Volume modifié,Lautstärke geändert,تغيّرت شدة الصوت
+Wait,Attendre,Warten,انتظر
+Weather,Météo,Wetter,الطقس
+Weather information is currently unavailable,,,معلومات الطقس غير متاحة حاليًا
+Web Page,Page web,Webseite,صفحة الوب
+Week %V,Semaine %V,Woche %V,أسبوع %V
+"We’re very sorry, but there’s been a problem: the settings for this extension can’t be displayed. We recommend that you report the issue to the extension authors.","Nous sommes désolés, mais il y a eu un problème : les paramètres de cette extension ne peuvent être affichés. Nous vous recommandons de signaler ce problème aux auteurs de l’extension.","Es tut uns leid, aber es gibt ein Problem: Die Einstellungen für diese Erweiterung können nicht angezeigt werden. Wir empfehlen, dass Sie diesen Fehler den Autoren der Erweiterung melden.",نأسف جدا لهذا، لكن هناك مشكلة: لا يمكن عرض إعدادات هذا الامتداد. ننصح بإبلاغ مطوري هذا الامتداد عن هذه المشكلة.
+Which keyboard to use,,,أي لوحة مفاتيح ترغب باستخدامها
+Wi-Fi Networks,,,الشبكات اللاسلكية
+Wi-Fi Settings,,,إعدادات الاتصال اللاسلكي
+Wi-Fi is Off,,,الاتصال اللاسلكي مغلق
+Wi-Fi is disabled when airplane mode is on.,,,الاتصال اللاسلكي مُعطّل في وضع الطائرة.
+Wi-Fi needs to be turned on in order to connect to a network.,,,تحتاج إلى تشغيل الاتصال اللاسلكي للاتصال بالشبكة.
+Window management and application launching,Gestion des fenêtres et lancement des applications,Fenster verwalten und Anwendungen starten,إدارة النوافذ وإطلاق التطبيقات
+Windows,Fenêtres,Fenster,النوافذ
+Wired 802.1X authentication,Authentification filaire 802.1X,Kabelgebundene 802.1X-Anmeldung,استيثاق 802.1X سلكي
+Wired Settings,Paramètres filaire,LAN-Einstellungen,إعدادات الاتصال السلكي
+Workspaces only on primary monitor,,,مساحات عمل على الشاشة الرئيسية فقط
+World Clocks,Horloges mondiales,Weltuhren,ساعات عالمية
+Yesterday,Hier,Gestern,أمس
+"Yesterday, %H∶%M","Hier, %H∶%M","Gestern, %H:%M",بالأمس، %H:%M
+"Yesterday, %l∶%M %p","Hier, %l∶%M %p","Gestern, %l:%M %p",بالأمس، %l:%M %p
+You can restore shortcuts by pressing %s.,,,يمكنك استعادة الاختصارات بضغط %s.
+"You just held down the Shift key for 8 seconds. This is the shortcut for the Slow Keys feature, which affects the way your keyboard works.",Vous venez d’appuyer pendant 8 secondes sur la touche Maj. Ceci est le raccourci d’activation des touches lentes et affecte la façon dont votre clavier réagit.,"Sie haben die Umschalttaste 8 Sekunden lang gedrückt gehalten. Dies ist die Tastenkombination für die Tastenverzögerung, welche beeinflusst, wie Ihre Tastatur funktioniert.",لقد ضغطت مفتاح Shift لثمان ثوان. هذا اختصار ميزة المفاتيح البطيئة المؤثّر على طريقة عمل لوحة مفاتيحك.
+"You just pressed the Shift key 5 times in a row. This is the shortcut for the Sticky Keys feature, which affects the way your keyboard works.",Vous venez d’appuyer 5 fois de suite sur la touche Maj. Ceci est le raccourci d’activation des touches rémanentes et affecte la façon dont votre clavier réagit.,"Sie haben die Umschalttaste 5 Mal hintereinander gedrückt. Dies ist die Tastenkombination für die Einrastfunktion, welche beeinflusst, wie Ihre Tastatur funktioniert.",لقد نقرت مفتاح Shift خمس مرات متتالية. هذا اختصار ميزة المفاتيح اللاصقة المؤثّر على طريقة عمل لوحة مفاتيحك.
+"You just pressed two keys at once, or pressed the Shift key 5 times in a row. This turns off the Sticky Keys feature, which affects the way your keyboard works.","Vous venez d’appuyer sur deux touches en même temps, ou 5 fois de suite sur la touche Maj. Ceci désactive la fonction touches rémanentes et affecte la façon dont votre clavier réagit.","Sie haben zwei Tasten gleichzeitig oder die Umschalttaste 5 Mal hintereinander gedrückt. Dies ist die Tastenkombination für die Einrastfunktion, welche beeinflusst, wie Ihre Tastatur funktioniert.",لقد ضغطت على مفتاحان في آن واحد أو نقرت مفتاح Shift خمس مرّات متتالية. يعطّل هذا ميزة المفاتيح اللاصقة المؤثّر على طريقة عمل لوحة مفاتيحك.
+You may choose to wait a short while for it to continue or force the application to quit entirely.,,,ربما ترغب في الانتظار قليلا ليُكمِل أو إجبار التطبيق على الإنهاء كُلّية.
+Your connection to this hotspot login is not secure. Passwords or other information you enter on this page can be viewed by people nearby.,La connexion à ce point d’accès n’est pas sécurisée. Les mots de passe et les autres informations que vous saisissez sur cette page peuvent être interceptés par des personnes autour de vous.,"Ihre Verbindung zum Anmeldefenster dieses Hotspots ist nicht sicher. Passwörter oder andere Daten, die Sie auf dieser Seite eingeben, können von anderen in unmittelbarer Umgebung ausgelesen werden.",اتصالك بنقطة الاتصال هذه غير آمن. كلمات السر أو أي معلومات تُدخلها في هذه الصفحة يمكن أن يطلع عليها الآخرون.
+Zoom,Zoom,Vergrößern,تقريب
+authentication required,,,الاستيثاق مطلوب
+connecting…,,,يتّصل…
+connection failed,,,فشل الاتصال
+evolution,,,evolution
+lock orientation;screen;rotation,,,أوصد الاتجاه;شاشة;تدوير
+lock screen,verrouillage;verrouiller;écran;,Bildschirm sperren,أوصد الشاشة
+logout;sign off,,,اخرج
+network-workgroup,,,network-workgroup
+power off;shutdown;reboot;restart,,,أطفئ;أغلق;أعد التشغيل
+suspend;sleep,mettre en veille;sommeil;,suspend;sleep;Bereitschaft;Schlafen,علّق
+switch user,changer;utilisateur;,Benutzer wechseln,بدّل المستخدم
+toggle-switch-us,,,toggle-switch-intl
+“%s” is not responding.,,,”‏%s“ لا يستجيب.
+“%s” is ready,« %s » est prêt,»%s« ist bereit,‏”%s“ جاهز

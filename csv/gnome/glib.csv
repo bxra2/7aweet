@@ -1,0 +1,401 @@
+English,French,German,Arabic
+%.1f EB,%.1f Eo,%.1f EB,%I.1f إ.بايت
+%.1f EiB,,,%I.1f إ.بايت
+%.1f GB,%.1f Go,%.1f GB,%I.1f ج.بايت
+%.1f GiB,,,%I.1f ج.بايت
+%.1f KB,%.1f Ko,%.1f KB,%I.1f ك.بايت
+%.1f KiB,,,%I.1f ك.بايت
+%.1f MB,%.1f Mo,%.1f MB,%I.1f م.بايت
+%.1f MiB,,,%I.1f م.بايت
+%.1f PB,%.1f Po,%.1f PB,%I.1f ب.بايت
+%.1f PiB,,,%I.1f ب.بايت
+%.1f TB,%.1f To,%.1f TB,%I.1f ت.بايت
+%.1f TiB,,,%I.1f ت.بايت
+%.1f kB,,,%I.1f ك.بايت
+%s filetype,Type de fichier %s,%s-Dateityp,نوع ملفّ %s
+%s type,Type %s,%s-Typ,نوع %s
+'%s' is not a valid character following a '<' character; it may not begin an element name,,,'%s' محرف غير سليم بعد المحرف '<'؛  ربما لا يبدأ هذا المحرف اسم عنصر
+'%s' is not a valid character following the characters '</'; '%s' may not begin an element name,,,‏'%s' محرف غير صالح بعد الرموز ‪'</'; '%s'‬ ربما لن يبدأ اسم عنصر
+'%s' is not a valid character following the close element name '%s'; the allowed character is '>',,,'%s' محرف غير صالح بعد اغلاق اسم العنصر '%s'؛ المحرف المسموح به هو '>'
+'%s' is not a valid name,,,ليس '%s' اسما سليما
+'%s' is not a valid name: '%c',,,ليس '%s' اسما سليما: '%c'
+(?R or (?[+-]digits must be followed by ),,,‏(?R  أو  (?[+-] أرقام يجب أن تتبع ب  )
+(invalid encoding),(codage non valide),(ungültige Kodierung),(ترميز غير سليم)
+) without opening (,,,) بلا قوس فاتح (
+A bookmark for URI '%s' already exists,,,توجد بالفعل علامة للمسار '%s'
+AM,AM,AM,ص
+Application Options:,Options de l’application :,Anwendungsoptionen:,خيارات التطبيق:
+Apr,avril,Apr,أبريل
+April,avril,April,أبريل
+Association creation not supported on win32,,,إنشاء الترابط غير مدعوم على win32
+Attribute '%s' of element '%s' not found,,,الصفة '%s' للعنصر '%s' غير موجودة
+Attribute value must be non-NULL,La valeur d’attribut ne doit pas être « NULL »,Attributwert darf nicht NULL sein,قيمة الخاصية لا بد أن تكون غير منعدمة
+Aug,août,Aug,أغسطس
+August,août,August,أغسطس
+Backup file creation failed,La création du fichier de sauvegarde a échoué,Erstellen der Sicherungsdatei gescheitert,فشل إنشاء ملف النسخة الاحتياطية
+Can't copy directory over directory,,,لا يمكنك نسخ دليل على دليل
+Can't copy over directory,,,لا يمكنك نقل دليل على دليل
+Can't create user MIME configuration folder %s: %s,,,لا يمكن إنشاء مجلد التهيئة MIME %s للمستخدم: %s
+Can't create user application configuration folder %s: %s,,,تعذّر إنشاء مجلد التهيئة الخاص بتطبيق المستخدم %s: ‏%s
+Can't create user desktop file %s,,,لا يمكن إنشاء الملف %s
+Can't do a raw read in giochannelreadlinestring,,,لا يمكن عمل قراءة خام في giochannelreadlinestring
+Can't do a raw read in giochannelreadtoend,,,لا يمكن عمل قراءة خام في giochannelreadtoend
+Can't find application,,,تعذّر العثور على التّطبيق
+Can't move directory over directory,,,لا يمكنك نقل دليل على دليل
+Can't open directory,,,لا يمكن فتح الدّليل
+Can't recursively copy directory,,,لا يمكنك النسخ التكراري للدليل
+"Can't rename file, filename already exists",,,لا يمكنك إعادة تسمية الملف، اسم الملف موجود بالفعل
+Can't rename root directory,,,لا يمكنك إعادة تسمية الدليل الجذري
+Cancellable initialization not supported,Initialisation annulable non prise en charge,Abbrechbare Initialisierung wird nicht unterstützt,الاستبداء القابل للإلغاء غير مدعوم
+Cannot convert fallback '%s' to codeset '%s',,,تعذّر تحويل fallback '%s' إلى مجموعة المحارف '%s'
+Cannot parse double value '%s' for %s,,,تعذّر تحليل القيمة المزدوجة '%s' ل %s
+Cannot parse integer value '%s' for %s,,,تعذّر تحليل قيمة العدد الصحيح '%s' ل %s
+Cannot set permissions on symlinks,Impossible de définir des permissions sur les liens symboliques,Zugriffsrechte für symbolische Verknüpfungen können nicht gesetzt werden,لا يمكن ضبط صلاحيات الوصلات الرمزية
+Cannot truncate GBufferedInputStream,Impossible de tronquer GBufferedInputStream,GBufferedInputStream konnte nicht abgeschnitten werden,تعذر بَتْرُ GBufferedInputStream
+Cannot truncate GMemoryInputStream,Impossible de tronquer GMemoryInputStream,GMemoryInputStream konnte nicht abgeschnitten werden,تعذر بَتْرُ GMemoryInputStream
+Channel terminates in a partial character,La canal se termine avec un caractère partiel,Kanal endet mit einem Teilzeichen,تنتهي القناة عند محرف جزئي
+Character out of range for UTF-16,Caractère hors plage pour UTF-16,Zeichen außerhalb des Bereiches für UTF-16,محرف خارج حدود UTF-16
+Character out of range for UTF-8,Caractère hors plage pour UTF-8,Zeichen außerhalb des Bereiches für UTF-8,محرف خارج حدود UTF-8
+Character reference '%-.*s' does not encode a permitted character,,,مرجع المحرف '%-.*s'  لا يقوم بترميز محرف مسموح به
+Character reference did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;,,,مرجع المحرف لم ينته بفاصلة منقوطة؛ الأرجح أنك استخدمت علامة امبارساند دون أن تنوي بدء كيان - تخطا العلامت عن طريق اعتبارها &amp;
+Containing mount does not exist,Le point de montage conteneur n’existe pas,Enthaltender Einhängepunkt existiert nicht,الوصل الحاوي غير موجود
+Conversion from character set '%s' to '%s' is not supported,,,التحويل من مجموعة المحارف '%s' إلى '%s' غير مدعوم
+"Could not allocate %lu bytes to read file ""%s""",,,"تعذّر تحصيص %Ilu بايتات لقرائة الملف ""%s"""
+Could not open converter from '%s' to '%s',,,تعذّر فتح المُحوِّل من '%s' إلى '%s'
+Could not open converter from '%s' to '%s': %s,,,تعذّر فتح المُحوِّل من '%s' إلى '%s'‏: %s
+Custom definition for %s,Définition personnalisée pour %s,Benutzerdefinition für %s,تعريف مخصص لِ %s
+DEFINE group contains more than one branch,le groupe DEFINE contient plus d’une branche,DEFINE-Gruppe enthält mehr als eine Verzweigung,مجموعة DEFINE تحتوي على أكثر من فرع واحد
+Dec,déc.,Dez,ديسمبر
+December,décembre,Dezember,ديسمبر
+Desktop file didn't specify Exec field,,,ملف سطح المكتب لم يحدد الحقل التنفيدي
+Document ended unexpectedly after the equals sign following an attribute name; no attribute value,Le document s’est terminé de manière inattendue après le signe égal suivant un nom d’attribut ; aucune valeur d’attribut,"Dokument endete unerwartet nach dem Gleichheitszeichen, das einem Attributnamen folgt; kein Attributwert",انتهى المستند بشكل غير متوقع بعد علامة التساوي اثر اسم صفة؛ لا توجد قيمة للصفة
+Document ended unexpectedly inside a comment or processing instruction,Le document s’est terminé de manière inattendue à l’intérieur d’un commentaire ou d’une instruction de traitement,Dokument endete unerwartet innerhalb eines Kommentars oder Verarbeitungsanweisung,انتهى المستند بشكل غير متوقع داخل تعليق أو تعليمات معالجة
+Document ended unexpectedly inside an attribute name,Le document s’est terminé de manière inattendue à l’intérieur d’un nom d’attribut,Dokument endete unerwartet innerhalb eines Attributnamens,انتهى المستند بشكل غير متوقع داخل اسم صفة
+Document ended unexpectedly inside an element name,Le document s’est terminé de manière inattendue à l’intérieur d’un nom d’élément,Dokument endete unerwartet innerhalb eines Elementnamens,انتهى المستند بشكل غير متوقع داخل اسم عنصر
+Document ended unexpectedly inside an element-opening tag.,Le document s’est terminé de manière inattendue à l’intérieur d’une balise d’ouverture d’élément.,Dokument endete unerwartet innerhalb eines Element-öffnenden Tags.,انتهى المستند بشكل غير متوقع بعد علامة فتح عنصر.
+Document ended unexpectedly inside the close tag for element '%s',,,انتهى المستند بشكل غير متوقع داخل علامة انهاء للعنصر '%s'
+Document ended unexpectedly just after an open angle bracket '<',,,انتهى المستند بشكل غير متوقع بعد قوس بزاوية ‪'<'‬
+Document ended unexpectedly while inside an attribute value,Le document s’est terminé de manière inattendue alors qu’il était à l’intérieur d’une valeur d’attribut,Dokument endete unerwartet innerhalb eines Attributwertes,انتهى المستند بشكل غير متوقع وهو داخلَ قيمة صفة
+Document ended unexpectedly with elements still open - '%s' was the last element opened,,,انتهى المستند بشكل غير متوقع مع عناصر لا زالت مفتوحة - '%s' كان آخر عنصر مفتوح
+"Document ended unexpectedly, expected to see a close angle bracket ending the tag <%s/>","Le document s’est terminé de manière inattendue, un crochet fermant pour la balise <%s/> est requis","Dokument endete unerwartet, es wurde eine spitze Klammer »>«, die das Tag <%s/> schließt, erwartet",انتهى المستند بشكل غير متوقع، توقعت رؤية قوس ذا زاوية لينهي العلامة‪<%s/>‬
+Document must begin with an element (e.g. <book>),Le document doit commencer avec un élément (par ex. <book>),Dokument muss mit einem Element beginnen (e.g. <book>),يجب أن يبدأ المستند بعنصر (<book> مثلا)
+Document was empty or contained only whitespace,Le document était vide ou ne contenait que des espaces,Dokument ist leer oder enthält nur Leerraum,المستند كان فارغا أو كان يحتوي فقط على مساحات فارغة
+Double value '%s' for %s out of range,,,القيمة المزدوجة '%s' ل %s خارج المجال
+"Element '%s' was closed, but the currently open element is '%s'",,,العنصر '%s' كان مغلقا، لكن العنصر المفتوح حاليا هو '%s'
+"Element '%s' was closed, no element is currently open",,,العنصر '%s' كان مغلقا، لا عنصر مفتوح حاليا
+Empty entity '&;' seen; valid entities are: &amp; &quot; &lt; &gt; &apos;,,,رُؤي كيان فارغ '&;'، الكيانات السليمة هي:&amp; &quot; &lt; &gt; &apos;
+Entity did not end with a semicolon; most likely you used an ampersand character without intending to start an entity - escape ampersand as &amp;,,,اسم الكيان لم ينته بفاصلة منقوطة؛ الأرجح أنك استخدمت علامة & دون أن تنوي بدء كيان - تخطى العلامة عن طريق اعتبارها &amp;
+Entity name '%-.*s' is not known,,,اسم الكيان '%-.*s' غير معروف
+Enumerator is closed,L’énumérateur est fermé,Datei-Enumerator ist geschlossen,المُعدِّد مغلق
+Error closing file: %s,Erreur lors de la fermeture du fichier : %s,Fehler beim Schließen der Datei: %s,خطأ عند غلق الملف: %s
+Error creating backup copy: %s,Erreur lors de la création de la copie de sauvegarde : %s,Fehler beim Erzeugen der Sicherungskopie: %s,خطأ أثناء إنشاء النسخة الاحتياطية: %s
+Error creating directory: %s,,,خطأ أثناء إنشاء الدليل: %s
+Error during conversion: %s,Erreur lors de la conversion : %s,Fehler bei der Umwandlung: %s,خطأ أثناء التحويل: %s
+Error getting filesystem info: %s,,,خطأ أثناء تلقي معلومات نظام الملفات: %s
+Error launching application: %s,,,خطأ عند تشغيل التطبيق: %s
+Error making symbolic link: %s,,,خطأ أثناء تشكيل الوصلة الرمزية: %s
+Error moving file: %s,,,خطأ عندنقل الملف: %s
+Error on line %d char %d:,"Erreur à la ligne %d, caractère %d :","Fehler in Zeile %d, Zeichen %d:",خطأ في السطر %Id الرمز %Id:
+Error on line %d: %s,Erreur à la ligne %d : %s,Fehler in Zeile %d: %s,خطأ في السطر %Id‏: ‎%s
+Error opening directory '%s': %s,,,خطأ أثناء فتح الدليل '%s'‏: %s
+Error opening file '%s': %s,,,خطأ عند فتح الملف '%s'‏: %s
+Error opening file: %s,,,خطأ عند فتح الملف: %s
+Error parsing option %s,Erreur lors de l’analyse de l’option %s,Fehler beim Verarbeiten der Option: %s,خطأ أثناء تحليل الخيار %s
+Error reading file '%s': %s,,,خطأ عند قراءة الملف '%s'‏: %s
+Error reading from file: %s,Erreur lors de la lecture du fichier : %s,Fehler beim Lesen aus Datei: %s,خطأ أثناء القراءة من الملف: %s
+Error removing file: %s,,,خطأ عند حذف الملف: %s
+Error removing old backup link: %s,Erreur lors de la suppression de l’ancien lien de sauvegarde : %s,Fehler beim Entfernen der alten Sicherungsverknüpfung: %s,خطأ أثناء إزالة وصلة النسخة الاحتياطية القديمة: %s
+Error removing old file: %s,Erreur à la suppression de l’ancien fichier : %s,Fehler beim Entfernen der alten Datei: %s,خطأ عند حذف الملف القديم: %s
+Error removing target file: %s,Erreur lors de la suppression du fichier cible : %s,Fehler beim Entfernen der Zieldatei: %s,خطأ في إزالة الملف الهدف: %s
+Error renaming file: %s,,,خطأ عند إعادة تسمية الملف: %s
+Error renaming temporary file: %s,Erreur lors du renommage du fichier temporaire : %s,Fehler beim Umbenennen der temporären Datei: %s,خطأ عند إعادة تسمية الملف المؤقت: %s
+Error seeking in file: %s,Erreur de positionnement dans le fichier : %s,Fehler beim Suchen in Datei: %s,خطأ أثناء تصفح الملف: %s
+Error setting SELinux context: %s,Erreur lors de la définition du contexte SELinux : %s,Fehler beim Setzen des SELinux-Kontexts: %s,خطأ في ضبط سياق SELinux: ‏%s
+Error setting extended attribute '%s': %s,,,خطأ عند ضبط الخاصية الممتدة '%s'‏: %s
+Error setting owner: %s,Erreur lors de la définition du propriétaire : %s,Fehler beim Setzen des Besitzers: %s,خطأ ضبط المالك: %s
+Error setting permissions: %s,Erreur lors de la définition des permissions : %s,Fehler beim Setzen der Zugriffsrechte: %s,خطأ ضبط الصلاحيات: %s
+Error setting symlink: %s,Erreur lors de la définition du lien symbolique : %s,Fehler beim Setzen der symbolischen Verknüpfung: %s,خطأ أثناء ضبط الوصلة الرمزية: %s
+Error setting symlink: file is not a symlink,Erreur lors de la définition du lien symbolique : le fichier n’est pas un lien symbolique,Fehler beim Setzen der symbolischen Verknüpfung: Datei ist keine symbolische Verknüpfung,خطأ في ضبط الوصلة الرمزية: الملف ليس وصلة رمزية
+Error trashing file: %s,,,خطأ عند ارسال الملف للمهملات: %s
+Error truncating file: %s,Erreur lors de la troncature du fichier : %s,Fehler beim Abschneiden der Datei: %s,خطأ أثناء بَتْر الملف: %s
+Error when getting information for file '%s': %s,,,خطأ عند جلب معلومات الملف '%s': %s
+Error when getting information for file descriptor: %s,Erreur lors de l’obtention des informations du descripteur de fichier : %s,Fehler beim Holen der Informationen für Dateideskriptor: %s,خطأ عند جلب معلومات الملف: %s
+Error while compiling regular expression %s at char %d: %s,,,خطأ عند تجميع جملة المقارنة %s عند المحرف %Id: %s
+Error while matching regular expression %s: %s,Erreur lors de la correspondance de l’expression régulière %s : %s,Fehler beim Anwenden des regulären Ausdrucks %s: %s,خطأ عند تطابق جملة المقارنة %s: ‏%s
+Error while optimizing regular expression %s: %s,,,خطأ عند تحسين جملة المقارنة %s: ‏%s
+"Error while parsing replacement text ""%s"" at char %lu: %s",,,"خطأ عند قراءة نص الإستبدال ""%s"" عند المحرف %Ilu: ‏%s"
+Error writing to file: %s,Erreur lors de l’écriture du fichier : %s,Fehler beim Schreiben in Datei: %s,خطأ في الكتابة للملف: %s
+Error: %s,Erreur : %s,Fehler: %s,خطأ: %s
+Existing file '%s' could not be removed: gunlink() failed: %s,,,لا يمكن حذف الملف الموجود مسبقا '%s': فشل gunlink(): %s
+Failed to change to directory '%s' (%s),,,فشل التغيير إلى الدليل '%s' ‏(%s)
+Failed to close file '%s': fclose() failed: %s,,,فشلت في غلق الملف '%s': فشل fclose(): %s
+Failed to create file '%s': %s,,,فشل إنشاء الملف '%s'‏: %s
+Failed to create pipe for communicating with child process (%s),La création du tube de communication avec le processus fils a échoué (%s),Weiterleitung für Kommunikation mit Kindprozess (%s) konnte nicht erzeugt werden,فشل عمل أنبوب للاتصال بالعملية الإبنة (%s)
+"Failed to execute child process ""%s"" (%s)",,,"فشل تنفيذ العملية الإبنة ""%s"" ‏(%s)"
+Failed to execute child process (%s),L’exécution du processus fils a échoué (%s),Kindprozess konnte nicht ausgeführt werden (%s),فشل تنفيذ العملية الإبنة (%s)
+Failed to execute helper program (%s),L’exécution du programme d’aide a échoué (%s),Hilfsprogramm (%s) konnte nicht ausgeführt werden,فشل تنفيذ البرنامج المساعد (%s)
+Failed to expand exec line '%s' with URI '%s',,,فشل تمديد سطر exec '%s' بالمسار '%s'
+Failed to fork (%s),Le clonage a échoué (%s),Abspalten gescheitert (%s),فشل تشعيب (%s)
+Failed to fork child process (%s),Le clonage du processus fils a échoué (%s),Abspalten des Kindprozesses gescheitert (%s),فشل تشعيب العملية الإبنة (%s)
+Failed to get attributes of file '%s%s%s%s': fstat() failed: %s,,,فشلت في أخذ صفات الملف '%s%s%s%s': فشل fstat‪()‬‏: %s
+Failed to get attributes of file '%s': fstat() failed: %s,,,فشلت في أخذ صفات الملف '%s': فشل fstat(): %s
+Failed to map %s%s%s%s: mmap() failed: %s,Le mappage %s%s%s%s a échoué : échec de mmap() : %s,»%s%s%s%s« konnte nicht abgebildet werden: mmap() ist gescheitert: %s,فشل في مقابلة %s%s%s%s‏: ‪mmap()‬ فشل: %s
+Failed to open file '%s' for writing: fdopen() failed: %s,,,فشل فتح الملف '%s' للكتابة: فشل fdopen(): %s
+Failed to open file '%s': %s,,,فشل فتح الملف '%s'‏: %s
+Failed to open file '%s': fdopen() failed: %s,,,فشل فتح الملف '%s': فشل fdopen(): %s
+Failed to open file '%s': open() failed: %s,,,فشل فتح الملف '%s': فشل open(): %s
+"Failed to parse '%-.*s', which should have been a digit inside a character reference (&#234; for example) - perhaps the digit is too large",,,فشل في تحليل '%-.*s'، والتي كان لابد من كتبتها بالأرقام داخل مرجع محرف (&#234; كمثال) - ربما الرقم كبير جدًا
+Failed to read data from child process,La lecture des données depuis le processus fils a échoué,Daten konnten nicht vom Kindprozess gelesen werden,فشلت قراءة البيانات من العملية الإبنة
+Failed to read data from child process (%s),La lecture des données depuis le processus fils a échoué (%s),Daten vom Kindprozess konnten nicht gelesen werden (%s),فشلت قراءة البيانات من العملية الإبنة (%s)
+Failed to read enough data from child pid pipe (%s),Impossible de lire suffisamment de données depuis le tube du processus fils de pid (%s),Es konnten nicht genug Daten von Kind-Programmkennungsweiterleitung (%s) gelesen werden,فشلت قراءة بيانات كافية من أنبوب child pid ‏(%s)
+Failed to read from child pipe (%s),La lecture depuis un tube fils a échoué (%s),Lesen aus Weiterleitung zum Kind (%s) gescheitert,فشلت القراءة من الأنبوب الإبن (%s)
+Failed to read from file '%s': %s,,,فشلت القراءة من الملف '%s'‏: %s
+Failed to read the symbolic link '%s': %s,,,فشلت قراءة الوصلة الرمزية '%s'‏: %s
+Failed to redirect output or input of child process (%s),,,فشل اعادة توجيه الخرْج أو الدخْل للعملية الإبنة (%s)
+Failed to rename file '%s' to '%s': grename() failed: %s,,,فشل إعادة تسمية الملف '%s' إلى '%s': فشل grename(): %s
+Failed to resize memory output stream,Le redimensionnement du flux de sortie mémoire a échoué,Größe des Speicherausgabestroms konnte nicht geändert werden,فشل تغيير قياس دَفْقُ الاخراج للذاكرة
+Failed to write file '%s': fflush() failed: %s,,,فشلت في كتابة الملف '%s': فشل fflush(): %s
+Failed to write file '%s': fsync() failed: %s,,,فشلت في كتابة الملف '%s': فشل fsync(): %s
+Failed to write file '%s': fwrite() failed: %s,,,فشلت في كتابة الملف '%s': فشل fwrite(): %s
+Feb,févr.,Feb,فبراير
+February,février,Februar,فبراير
+"File ""%s"" is too large",,,"الملف ""%s"" كبير جدا"
+File enumerator has outstanding operation,L’énumérateur de fichiers est en cours d’opération,Datei-Enumerator hat noch einen ausstehenden Vorgang,مُعدد الملف له عملية عالقة
+File enumerator is already closed,L’énumérateur de fichiers est déjà fermé,Datei-Enumerator ist bereits geschlossen,مُعدد الملف سبق إغلاقه
+File names cannot contain '%c',,,لا يمكن لأسماء الملفات أن تحتوي على '%c'
+Filesystem does not support symbolic links,Le système de fichiers ne gère pas les liens symboliques,Das Dateisystem unterstützt keine symbolische Verknüpfungen,لا يدعم نظام الملفات الوصلات الرمزية.
+Filesystem root,Racine du système de fichiers,Wurzelordner des Dateisystems,جذر نظام الملفّات
+Fri,ven.,Fr,جمعة
+Friday,vendredi,Freitag,الجمعة
+GCredentials is not implemented on this OS,GCredentials n’est pas implémenté sur ce système d’exploitation,GCredentials ist in diesem Betriebssystem nicht implementiert,لم تُطبق GCredentials لهذا النظام
+Help Options:,Options de l’aide :,Hilfeoptionen:,خيارات المساعدة:
+Hostname '%s' contains '[' but not ']',,,يحتوي اسم المستضيف '%s' '[' لكن لا ']'
+Incomplete multibyte sequence in input,Séquence multi-octet incomplète en entrée,Ungültige Multibyte-Folge in Eingabe,سلسلة بايتات غير سليمة في الدخْل
+Input stream doesn't implement read,,,دَفق الإدخال لا يُنَفذ القراءة
+Integer value '%s' for %s out of range,,,قيمة الرقم الصحيح '%s' ل %s خارج المجال
+Integer value '%s' out of range,,,قيمة عدد صحيح '%s' خارج المدى
+Invalid GSeekType supplied,Le type GSeekType fourni n’est pas valide,Ungültiger GSeekType übergeben,تم تقديم GSeekType غير سليم
+Invalid UTF-8 encoded text in name - not valid '%s',,,نص مرمّز بـ UTF-8 غير سليم في الاسم - غير سليم '%s'
+Invalid attribute type (byte string expected),Type d’attribut non valide (chaîne d’octets attendue),Ungültiger Attributtyp (»byte string« erwartet),نوع الخاصية غير سليم ( يُنتضر مقطع بايت )
+Invalid attribute type (string expected),,,نوع الخاصية غير سليم ( يُفترض أن يكون مقطعا )
+Invalid attribute type (uint32 expected),Type d’attribut non valide (uint32 attendu),Ungültiger Attributtyp (»uint32« erwartet),نوع الخاصية غير سليم ( يُفترض uint32 )
+Invalid attribute type (uint64 expected),Type d’attribut non valide (uint64 attendu),Ungültiger Attributtyp (»uint64« erwartet),نوع الخاصية غير سليم ( يُفترض uint64 )
+Invalid byte sequence in conversion input,Séquence d’octets incorrecte en entrée du convertisseur,Ungültige Bytefolge in Umwandlungseingabe,سلسلة بايتات غير سليمة في دخْل التحويل
+Invalid extended attribute name,Nom d’attribut étendu non valide,Ungültiger erweiterter Attributname,اسم غير سليم للخاصية الممتدة
+Invalid filename,Nom de fichier non valide,Ungültiger Dateiname,اسم ملف غير صالح
+Invalid filename %s,Nom de fichier non valide : %s,Ungültiger Dateiname %s,اسم ملف غير صالح %s
+Invalid group name: %s,Nom de groupe non valide : %s,Ungültiger Gruppenname: %s,اسم مجموعة غير صحيح: %s
+Invalid hostname,Nom d’hôte non valide,Ungültiger Rechnername,اسم المستضيف غير سليم
+Invalid key name: %s,,,اسم مفتاح غير صحيح: %s
+Invalid program name: %s,Nom de programme non valide : %s,Ungültiger Programmname: %s,اسم برنامج غير صحيح: %s
+Invalid seek request,Requête « seek » non valide,Ungültige Suchanfrage,طلب بحث غير سليم
+Invalid sequence in conversion input,Séquence non valide dans l’entrée du convertisseur,Ungültige Folge in Umwandlungseingabe,تتابع غير سليم في دخْل التحويل
+Invalid string in argument vector at %d: %s,Chaîne non valide dans le vecteur de paramètre à %d : %s,Ungültige Zeichenkette im Argumentsvektor bei %d: %s,سلسلة غير صالحة في متجه الأحجية عند %Id: ‏%s
+Invalid string in environment: %s,Chaîne non valide dans l’environnement : %s,Ungültige Zeichenkette in der Umgebung: %s,سلسلة غير صالحة في البيئة: %s
+Invalid symlink value given,Valeur de lien symbolique donnée non valide,Ungültiger Wert für symbolische Verknüpfung angegeben,قيمة الوصلة الرمزية المُعطاة غير سليمة
+Invalid working directory: %s,Répertoire de travail non valide : %s,Ungültiger Arbeitsordner: %s,دليل عمل غير سليم: %s
+Jan,janv.,Jan,يناير
+January,janvier,Januar,يناير
+Jul,juil.,Jul,يوليو
+July,juillet,Juli,يوليو
+Jun,juin,Jun,يونيو
+June,juin,Juni,يونيو
+Key file contains escape character at end of line,Le fichier de clés contient un caractère d’échappement en fin de ligne,Die Schlüsselwertedatei enthält ein Escape-Zeichen am Zeilenende,ملف المفتاح يحتوي على محرف الخلوص في آخر السطر
+Key file contains invalid escape sequence '%s',,,ملف المفتاح يحتوي على تتابع خلوص غير صالح '%s'
+Key file contains key '%s' in group '%s' which has a value that cannot be interpreted.,,,ملف المفتاح يحتوي على مفتاح '%s' في المجموعة '%s' والتي لديها قيمة لا يمكن تفسيرها>
+Key file contains key '%s' which has a value that cannot be interpreted.,,,ملف المفتاح يحتوي على مفتاح '%s' والذي لديه قيمة لا يمكن تفسيرها.
+Key file contains key '%s' with value '%s' which is not UTF-8,,,يحتوي ملف المفتاح على المفتاح '%s' ذو القيمة '%s' التي ليست UTF-8
+"Key file contains line '%s' which is not a key-value pair, group, or comment",,,ملف المفتاح يحتوي على سطر '%s' والذي ليس زوج قيمة مفاتيح ، مجموعة ، أو تعليق
+Key file contains unsupported encoding '%s',,,يحتوي ملف المفتاع على ترميز غير مدعوم '%s'
+Key file does not have group '%s',,,لا يحتوي ملف المفتاح على المجموعة '%s'
+Key file does not have key '%s',,,لا يحتوي ملف المفتاح على المفتاح '%s'
+Key file does not have key '%s' in group '%s',,,لا يحتوي ملف المفتاح على مفتاح '%s' في المجموعة '%s'
+Key file does not start with a group,Le fichier de clés ne débute pas par un groupe,Die Schlüsselwertedatei beginnt nicht mit einer Gruppe,لا يبدأ ملف المفتاح بمجموعة
+Leftover unconverted data in read buffer,Données restantes non converties dans le tampon de lecture,Nicht konvertierte Daten befinden sich noch im Lesepuffer,بيانات غير مُحوّلة باقية في حاجز القراءة الخلفي
+Mar,mars,Mär,مارس
+March,mars,März,مارس
+May,mai,Mai,مايو
+Memory output stream not resizable,Le flux de sortie mémoire n’est pas redimensionnable,Größe des Speicherausgabestroms ist nicht änderbar,دَفْقُ الاخراج للذاكرة غير قابل لتغيير القياس
+Missing argument for %s,Paramètre manquant pour %s,Für %s wird ein Argument benötigt,معامل %s مفقود
+Mon,lun.,Mo,اثنين
+Monday,lundi,Montag,الاثنين
+Move between mounts not supported,Le déplacement entre points de montage n’est pas pris en charge,Verschieben zwischen Einhängepunkten nicht unterstützt,النقل بين الوصلات غير مدعوم
+No MIME type defined in the bookmark for URI '%s',,,لم يعرّف نوع MIME في علامة المسار '%s'
+No application is registered as handling this file,Aucune application n’est enregistrée pour gérer ce fichier,"Es wurde keine Anwendung gefunden, die diese Datei verarbeiten kann",لم يسجل أي تطبيق كمعالج لهذا الملف
+No application with name '%s' registered a bookmark for '%s',,,لم يسجل أي تطبيق بالاسم '%s' علامة '%s'
+No bookmark found for URI '%s',,,لا توجد علامة للمسار '%s'
+No groups set in bookmark for URI '%s',,,لم تحدد أي مجموعات في علامة '%s'
+No private flag has been defined in bookmark for URI '%s',,,لم يعرف علم خاص في العلامات للمسار '%s'
+No valid bookmark file found in data dirs,Impossible de trouver un fichier de signets valide dans les répertoires de données,Es wurde keine gültige Lesezeichendatei in den Datenordnern gefunden,لا يوجد ملف علامات سليم في أدلّة البيانات
+Not a regular file,N’est pas un fichier standard,Keine reguläre Datei,ليس ملفا اعتياديا
+Not enough space in destination,Espace insuffisant dans la destination,Nicht genug Platz im Ziel,لا يوجد مساحة كافية في الوِجهة
+Nov,nov.,Nov,نوفمبر
+November,novembre,November,نوفمبر
+Oct,oct.,Okt,أكتوبر
+October,octobre,Oktober,أكتوبر
+"Odd character '%s', expected a '=' after attribute name '%s' of element '%s'",,,محرف غريب '%s'، توقعت '=' بعد اسم الصفة  '%s' للعنصر '%s'
+"Odd character '%s', expected a '>' character to end the empty-element tag '%s'",,,محرف غريب '%s'،  توقعت محرف '>' لإنهاء بداية وسم العنصر '%s'
+"Odd character '%s', expected a '>' or '/' character to end the start tag of element '%s', or optionally an attribute; perhaps you used an invalid character in an attribute name",,,محرف غريب '%s'، توقعت المحرف '>' أو '/' لإنهاء علامة البداية للعنصر '%s'، أو بشكل اختياري صفة؛ ربما استخدمت محرفًا غير صالح في اسم صفة
+"Odd character '%s', expected an open quote mark after the equals sign when giving value for attribute '%s' of element '%s'",,,محرف غريب '%s'، توقعت علامة اقتباس مفتوحة بعد علامة التساوي عند إعطاء قيمة من الصفة '%s' للعنصر '%s'
+Operation not supported,Opération non prise en charge,Vorgang wird nicht unterstützt,عمليّة غير مدعومة
+Operation was cancelled,L’opération a été annulée,Vorgang wurde abgebrochen,أُلغيت العملية
+Output stream doesn't implement write,,,دَفْقُ الاخراج لا يدعم الكتابة
+PCRE library is compiled without UTF8 properties support,,,تم تجميع مكتبة PCRE من دون دعم خصائص UTF8
+PCRE library is compiled without UTF8 support,La bibliothèque PCRE est compilée sans la prise en charge UTF-8,PCRE-Bibliothek wurde ohne UTF8-Unterstützung kompiliert,تم تجميع مكتبة PCRE من دون دعم UTF8
+PM,PM,PM,م
+POSIX collating elements are not supported,les éléments d’interclassement POSIX ne sont pas pris en charge,POSIX-Elementverknüpfungen nicht unterstützt,عناصر الترتيب POSIX غير مدعومة
+POSIX named classes are supported only within a class,Les classes nommées selon la norme POSIX sont uniquement prises en charge dans une classe,POSIX-benannte Klassen werden nur innerhalb einer Klasse unterstützt,أصناف POSIX المسماة مدعومة فقط داخل صنف
+Partial character sequence at end of input,Séquence de caractères incomplète en fin d’entrée,Bruchstückhafte Zeichenfolge am Eingabeende,تتابع محارف جزئي عند نهاية الدخْل
+Quoted text doesn't begin with a quotation mark,,,النص المقتبس لا يبدأ بعلامة اقتباس
+SELinux context must be non-NULL,Le contexte SELinux ne doit pas être « NULL »,SELinux-Kontext darf nicht NULL sein,يجب ألا يكون سياق SELinux صفرا
+SELinux is not enabled on this system,SELinux n’est pas activé sur ce système,SELinux ist auf diesem System nicht aktiviert,‏SELinux ليس مفعلا على هذا النظام
+Sat,sam.,Sa,سبت
+Saturday,samedi,Samstag,السبت
+Seek not supported on base stream,Le positionnement n’est pas pris en charge sur le flux de base,Suchen im Basis-Datenstrom nicht unterstützt,عملية السعي غير مُدعمة على الدَفق الأساسي
+Seek not supported on stream,Le positionnement n’est pas pris en charge sur le flux,Suchen im Datenstrom nicht unterstützt,عملية السعي البحث غير مُدعمة على الدَفق
+Sep,sept.,Sep,سبتمبر
+September,septembre,September,سبتمبر
+Setting attribute %s not supported,La définition de l’attribut %s n’est pas prise en charge,Setzen des Attributs %s nicht unterstützt,ضبط الصفة %s غير مُدَعَّم
+Show all help options,Affiche toutes les options de l’aide,Alle Hilfeoptionen anzeigen,اعرض كل خيارات المساعدة
+Show help options,Affiche les options de l’aide,Hilfeoptionen anzeigen,اعرض خيارات المساعدة
+Source stream is already closed,Le flux source est déjà fermé,Quelldatenstrom ist bereits geschlossen,دَفْقُ المَصدر سبق إغلاقه
+Stream doesn't support queryinfo,,,الدَفق لا يدعم queryinfo
+Stream has outstanding operation,Le flux a une opération en cours,Datenstrom hat noch einen ausstehenden Vorgang,للدَفق عملية عالقة
+Stream is already closed,Le flux est déjà fermé,Datenstrom ist bereits geschlossen,سبق إغلاق الدَفق
+Sun,dim.,So,أحد
+Sunday,dimanche,Sonntag,الأحد
+Symbolic links not supported,Liens symboliques non pris en charge,Symbolische Verknüpfungen nicht unterstützt,الوصلات الرمزية غير مدعومة
+Target file exists,Le fichier cible existe,Zieldatei existiert,الملف الهدف موجود مسبّقا
+Target file is a directory,Le fichier cible est un répertoire,Zieldatei ist ein Ordner,الملف الهدف هو دليل
+Target file is not a regular file,Le fichier cible n’est pas un fichier standard,Zieldatei ist keine reguläre Datei,الملف الهدف هو ليس ملفًا عاديًا
+Template '%s' doesn't contain XXXXXX,,,لا يحتوي القالب '%s' على XXXXXX
+"Template '%s' invalid, should not contain a '%s'",,,القالب '%s' غير سليم، لا يجب أن يحتوي على '%s'
+Text ended before matching quote was found for %c. (The text was '%s'),,,انتهى النص قبل ايجاد المُقتَبَس لـ%c (النص كان '%s')
+Text ended just after a '\' character. (The text was '%s'),,,انتهى النص بعد المحرف '\' (النص كان '%s')
+Text was empty (or contained only whitespace),Le texte était vide (ou ne contenait que des espaces),Text war leer (oder enthielt nur Leerraum),كان النص فارغا (أو كان يحتوي على فراغ أبيض)
+The URI '%s' contains invalidly escaped characters,,,المسار '%s' يحتوي على محارف خلوص غير سليمة
+The URI '%s' is invalid,,,المسار '%s' غير سليم
+"The URI '%s' is not an absolute URI using the ""file"" scheme",,,"المسار '%s' ليس مسارا مطلقا باستخدام المخطط ""file"""
+The connection is closed,La connexion est fermée,Verbindung ist geschlossen,الاتصال مغلق
+The file was externally modified,Le fichier a été modifié extérieurement,Die Datei wurde extern verändert,تمّ تعديل الملف خارجيّا
+The hostname of the URI '%s' is invalid,,,اسم مستضيف المسار '%s' غير سليم
+The local file URI '%s' may not include a '#',,,ملف المسار المحلي '%s' لا يمكن أن يحتوي على '#'
+The pathname '%s' is not an absolute path,,,اسم المسار '%s' ليس مسارا كاملا
+There is no GCredentials support for your platform,Il n’y a pas de prise en charge de GCredentials pour votre plate-forme,Es gibt auf Ihrer Plattform keine Unterstützung für GCredentials,لم تدعم GCredentials على هذه المنصة
+Thu,jeu.,Do,خميس
+Thursday,jeudi,Donnerstag,الخميس
+Timeout was reached,Le délai d’attente est dépassé,Zeitüberschreitung wurde erreicht,انتهت المهلة
+Too large count value passed to %s,La valeur de comptage fournie à %s est trop grande,Zu großer Zählwert an %s übermittelt,مُرِّرت قيمة كبيرة جدّا إلى %s
+Trash not supported,La corbeille n’est pas prise en charge,Papierkorb nicht unterstützt,المهملات غير مدعومة
+Truncate not allowed on input stream,La troncature n’est pas autorisée sur un flux d’entrée,Abschneiden des Eingabedatenstroms nicht erlaubt,البَتْرُ غير مسموح به على دَفق الإدخال
+Truncate not supported on base stream,La troncature n’est pas prise en charge sur le flux de base,Abschneiden wird vom Basis-Datenstrom nicht unterstützt,البَتْرُ غير مدعم على الدَفق الأساسي
+Truncate not supported on stream,La troncature n’est pas prise en charge sur le flux,Abschneiden wird vom Datenstrom nicht unterstützt,البَتْرُ غير مدعم على الدَفق
+Tue,mar.,Di,ثلاثاء
+Tuesday,mardi,Dienstag,الثلاثاء
+URIs not supported,,,المسارات غير مدعومة
+Unable to create trash dir %s: %s,,,تعذّر إنشاء مجلد سلة المهملات %s: ‏%s
+Unable to create trashing info file: %s,,,تعذّر إنشاء ملف المُهْملات: %s
+Unable to find default local directory monitor type,,,تعذّر ايجاد نوع المراقبة للدليل المحلي الافتراضي
+Unable to find default local file monitor type,Impossible de trouver le type de moniteur de fichier local par défaut,Vorgegebener Überwachungstyp für lokale Dateien konnte nicht gefunden werden,تعذّر إيجاد نوع المراقبة للملف المحلي الافتراضي
+Unable to find or create trash directory,,,تعذّر ايجاد أو إنشاء دليل المهملات
+Unable to find terminal required for application,Impossible de trouver le terminal requis par l’application,Für die Anwendung benötigtes Terminal konnte nicht gefunden werden,تعذّر إيجاد الطرفية المطلوبة للتطبيق
+Unable to find toplevel directory for trash,,,تعذّر إيجاد دليل المستوى الأعلى للمهملات
+Unable to trash file: %s,,,تعذّر نقل الملف: %s إلى المهملات
+Unexpected attribute '%s' for element '%s',,,صفة غير متوقّعة '%s' للعنصر '%s'
+Unexpected early end-of-stream,Fin précoce de flux inattendue,Unerwartet frühes Datenstromende,نهاية دَفق غير متوقّعة وغير متوقعة
+Unexpected error in giochannelwin32poll() reading data from a child process,Erreur inattendue dans giochannelwin32poll() lors de la lecture des données depuis un processus fils,Unerwarteter Fehler in giochannelwin32poll() beim Lesen aus dem Kindprozess,خطأ غير متوقع في giochannelwin32poll() أثناء القراءة من عملية ابنة
+Unexpected error in select() reading data from a child process (%s),,,خطأ غير متوقع في select() أثناء قراءة البيانات من العملية الإبنة (%s)
+Unexpected error in waitpid() (%s),Erreur inattendue dans waitpid() (%s),Unerwarteter Fehler in waitpid() (%s),خطأ غير متوقع في waitpid() (%s)
+Unexpected tag '%s' inside '%s',,,وسْم غير متوقّع '%s' داخل '%s'
+"Unexpected tag '%s', tag '%s' expected",,,وسْم غير متوقع '%s'، توقّعت الوسْم '%s'
+Unknown command %s,Commande inconnue %s,Unbekannter Befehl %s,أمرٌ مجهول %s
+"Unknown error executing child process ""%s""",,,"خطأ غير معروف أثناء تنفيذ العملية الإبنة ""%s"""
+Unknown option %s,Option inconnue %s,Unbekannte Option %s,خيار مجهول %s
+Unknown type,Type inconnu,Unbekannter Typ,نوع مجهول
+Unmatched quotation mark in command line or other shell-quoted text,Guillemets de fermeture introuvables dans la ligne de commande ou autre texte rapporté,Unbalanciertes Anführungszeichen in Befehlszeile oder anderem Text in Shellquotes,علامة اقتباس غير مطابقة في سطر الأوامر أو نص منقول من الصدفة
+Unnamed,Sans nom,Unbenannt,غير مسمّى
+Usage:,Utilisation :,Aufruf:,الاستخدام:
+Valid key file could not be found in search dirs,Impossible de trouver un fichier de clés valide dans les répertoires de recherche,Es wurde keine gültige Schlüsselwertedatei in den Suchordnern gefunden,لا يمكن إيجاد ملف مفتاح صحيح في دلائل البحث
+Value '%s' cannot be interpreted as a boolean.,,,لا يمكن تفسير القيمة '%s' كعدد منطقي.
+Value '%s' cannot be interpreted as a float number.,,,لا يمكن تفسير القيمة '%s' كعدد عشري.
+Value '%s' cannot be interpreted as a number.,,,لا يمكن تفسير القيمة '%s' كعدد.
+Wed,mer.,Mi,أربعاء
+Wednesday,mercredi,Mittwoch,الأربعاء
+[OPTION...],,,[خيار...]
+\ at end of pattern,\ à la fin du motif,\ am Ende des Ausdrucks,\ في نهاية النمط
+\C not allowed in lookbehind assertion,\C n’est pas autorisé dans l’assertion « lookbehind »,\C nicht erlaubt in rückblickender Annahme,‏\C غير مسموحة له عند العثور الخلفي
+\c at end of pattern,\c à la fin du motif,\c am Ende des Ausdrucks,‏\c في نهاية النمط
+\g is not followed by a braced name or an optionally braced non-zero number,,,‏\g  غير متبوعة باسم قوس أو عدد بقوس
+assertion expected after (?(,une assertion est attendue après (?(,Annahme erwartet nach (?(,مصادقة منتظرة بعد (?(
+association changes not supported on win32,,,تغيير الترابطات غير مدعوم على win32
+back references as conditions are not supported for partial matching,les références inverses utilisées comme conditions ne sont pas prises en charge pour une correspondance partielle,Rückreferenzen als Bedingungen werden für teilweise Übereinstimmung nicht unterstützt,المراجع الرجعية غير مدعومة كشرط للتطابق الجزئي
+backtracking limit reached,,,وُصِلَ للحد المسموح به من أمكنة الرجوع للوراء
+"case-changing escapes (\l, \L, \u, \U) are not allowed here",,,"خلوصات تغيير المحارف (\l, \L, \u, \U) غير مسموح بها هنا"
+character value in \x{...} sequence is too large,la valeur du caractère dans la séquence \x{…} est trop grande,Der Wert des Zeichens in der \x{…}-Sequenz ist zu groß,قيمة الرمز في سلسلة  \x{...} كبيرة جدًا
+code overflow,dépassement de code,Code-Überlauf,فيضان الرموز
+conditional group contains more than two branches,un groupe conditionnel contient plus de deux branches,Bedingte Gruppe enthält mehr als zwei Verzweigungen,المجموعة الشرطية تحتوي على أكثر من فرعين
+corrupted object,objet endommagé,Beschädigtes Objekt,كائن تالف
+digit expected,chiffre attendu,Ziffer erwartet,رقم متوقع
+drive doesn't implement eject,,,محرك الأقراص لا يدعم الإخراج
+drive doesn't implement eject or ejectwithoperation,,,محرك الأقراص لا يدعم eject أو ejectwithoperation
+drive doesn't implement polling for media,,,محرك الأقراص لا يدعم جسّ الوسائط
+drive doesn't implement start,,,محرك الأقراص لا يدعم البدء
+drive doesn't implement stop,,,محرك الأقراص لا يدعم الإيقاف
+failed to get memory,,,فشل تلقي الذاكرة
+hexadecimal digit expected,chiffre hexadécimal attendu,Hexadezimalzahl erwartet,رقم من نظام 16 متوقع
+hexadecimal digit or '}' expected,,,رقم من نظام 16 أو '}' متوقع
+illegal symbolic reference,référence symbolique illégale,Illegale symbolische Referenz,مرجع كيان غير صحيح
+inconsistent NEWLINE options,options NEWLINE inconsistantes,Inkonsistente NEWLINE-Optionen,خيارات NEWLINE غير صحيحة
+internal error,erreur interne,Interner Fehler,خطأ داخلي
+internal error or corrupted object,,,خطأ داخلي أو كائن تالف
+invalid combination of newline flags,,,ائتلاف غير صحيح لأعلمة السطر الجديد
+invalid condition (?(0),,,شرط غير صحيح (?(0)
+invalid escape sequence in character class,séquence d’échappement non valide dans la classe de caractère,Ungültige Escape-Sequenz in Zeichenklasse,سلسلة غير سليمة
+lookbehind assertion is not fixed length,l’assertion « lookbehind » n’a pas de longueur fixe,Rückblickende Annahme hat keine feste Länge,مصادقة العثور الخلفي ليست بحجم واحد
+malformed \P or \p sequence,séquence \P ou \p mal formée,Fehlerhafte \P- oder \p-Sequenz,سلسلة \P أو  \p سيئة التركيب
+malformed number or name after (?(,nom ou nombre non conforme après (?(,Falsch formatierte Zahl oder Name nach (?(,اسم أو عدد غير صحيح بعد (?(
+missing '<' in symbolic reference,,,'<' غير موجود في المرجع الرمزي
+missing ) after comment,« ) » manquante après un commentaire,fehlende ) nach Kommentar,الرمز ) غير موجود بعد التعليق
+missing terminating ),) de terminaison manquante,Abschließende ) fehlt,القوس الغالق غير موجود )
+missing terminating ] for character class,caractère terminaison ] manquant pour la classe de caractère,Terminierendes ] für Zeichenklasse fehlt,الرمز  ] غير موجود
+missing terminator in subpattern name,terminaison manquante dans le nom du sous-motif,Terminierung im Namen des Unterausdrucks fehlt,منهي غير موجود في اسم القالب الداخلي
+"mount doesn't implement ""eject""",,,"نقطة الوصْل لا تدعم ""الإخراج"""
+"mount doesn't implement ""eject"" or ""ejectwithoperation""",,,"نقطة الوصل لا تدعم ""eject"" أو ""ejectwithoperation"""
+"mount doesn't implement ""remount""",,,"نقطة الوصل لا تدعم ""إعادة الوصل"""
+"mount doesn't implement ""unmount""",,,"نقطة الوصل لا تدعم ""الفصل"""
+"mount doesn't implement ""unmount"" or ""unmountwithoperation""",,,"نقطة الوصل لا تدعم ""unmount"" أو ""unmountwithoperation"""
+mount doesn't implement content type guessing,,,نقطة الوصل لا تدعم تخمين نوع المحتوى
+mount doesn't implement synchronous content type guessing,,,نقطة الوصل لا تدعم التخمين المتزامن لنوع المحتوى
+nothing to repeat,rien à répéter,Nichts zum Wiederholen,لا شيئ للإعادة
+number too big in {} quantifier,nombre trop grand dans le quantificateur {},Ziffer zu groß in {}-Quantifizierer,العدد كبير جدا في المكمم {}
+numbers out of order in {} quantifier,nombres en désordre dans le quantificateur {},Ziffern wirkungslos in {}-Quantifizierer,الأعداد خارج التغطية في المكمم {}
+octal value is greater than \377,la valeur octale est plus grande que \377,Oktaler Wert ist größer als \377,القيمة الثمانية أكبر من \377
+out of memory,mémoire insuffisante,Nicht genügend freier Speicher,نفذت الذّاكرة
+overran compiling workspace,dépassement de capacité en compilant l’espace de travail,Überlauf beim Kompilieren des Arbeitsbereichs,خطأ تركيب مساحة العمل
+previously-checked referenced subpattern not found,un sous-motif référencé et précédemment vérifié n’a pas été trouvé,"Bereits geprüfter, referenzierter Unterausdruck konnte nicht gefunden werden",القالب الداخلى المراقب مسبقا غير موجود
+range out of order in character class,plage déclassée dans la classe de caractère,Bereich wirkungslos in Zeichenklasse,مجال خارج التغطية في نوع الرموز
+recursion limit reached,limite de récursivité atteinte,Rekursionslimit wurde erreicht,وُصِلَ للحد المسموح به من التواتر
+recursive call could loop indefinitely,,,الوظيفة التكرارية يمكن أن تستمر إلى ما لا نهاية
+reference to non-existent subpattern,référence à un sous-motif inexistant,Referenz auf nicht existierenden Unterausdruck,إشارة لقالب داخلي غير موجود
+regular expression too large,,,قالب كبير جدًّا
+repeating a DEFINE group is not allowed,,,إعادة مجموعة DEFINE غير مسموحة
+stray final '\',,,نتيجة نهائية '\'
+subpattern name is too long (maximum 32 characters),le nom du sous-motif est trop long (32 caractères maximum),Name des Unterausdrucks ist zu lang (maximal 32 Zeichen),اسم القالب الداخلي كبير جدا
+symlink must be non-NULL,un lien symbolique ne doit pas être « NULL »,Symbolische Verknüpfung darf nicht NULL sein,يجب أن يكون فهرس القائمة غير سلبي
+the pattern contains items not supported for partial matching,le motif contient des éléments non pris en charge pour une correspondance partielle,"Der Ausdruck enthält Elemente, die teilweise Übereinstimmung nicht unterstützen",المثال يحتوي على عناصر لا تحتمل التطابق الجزئي
+"too many named subpatterns (maximum 10,000)",trop de sous-motifs nommés (10 000 maximum),Zu viele benannte Unterausdrücke (maximal 10.000),"هناك عدد كبير جدا من اسماء القوالب الداخلية (الأقصى 10,000)"
+two named subpatterns have the same name,deux sous-motifs nommés possèdent le même nom,Zwei benannte Unterausdrücke haben den gleichen Namen,هناك قالبان داخليان لهما نفس الاسم
+unexpected repeat,,,إعادة غير متوقعة
+unfinished symbolic reference,référence symbolique non terminée,Unvollendete symbolische Referenz,مرجع كيان غير مكتمل
+unknown POSIX class name,nom de classe POSIX inconnu,Unbekannter POSIX-Klassenname,اسم نوع POSIX غير معروف
+unknown error,erreur inconnue,Unbekannter Fehler,خطأ مجهول
+unknown escape sequence,séquence d’échappement inconnue,Unbekannte Escape-Sequenz,سلسلة خروج غير معروفة
+unknown property name after \P or \p,nom de propriété inconnu après \P ou \p,Unbekannte Eigenschaftsname nach \P oder \p,اسم خاصية غير معروفة بعد \P أو \p
+unrecognized character after (?,,,رمز غير معروف بعد (?
+unrecognized character after (?<,,,رمز غير معروف بعد (?<
+unrecognized character after (?P,caractère non reconnu après (?P,Unbekanntes Zeichen nach (?P,رمز غير معروف بعد (?P
+unrecognized character follows \,,,رمز غير معروف بعد \
+volume doesn't implement eject,,,الجزء لا يدعم الإخراج
+volume doesn't implement mount,,,الجهاز لا ينفذ الوَصل
+workspace limit for empty substrings reached,,,وُصِلَ للحد المسموح به لمساحة العمل بالسلاسل الجزئية الفارغة
+zero-length symbolic reference,référence symbolique de longueur nulle,Symbolische Referenz der Länge 0,مرجع رمزي معدوم الطول

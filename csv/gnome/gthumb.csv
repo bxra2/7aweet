@@ -1,0 +1,812 @@
+
+"""%s"" cannot be moved to the Trash. Do you want to delete it permanently?",,,"لا يمكن نقل الملف إلى المهملات،
+أتريد حذفه للأبد؟"
+Actions,,,الانتقاء
+Album Style,,,غلاف الألبوم:
+Aspect ratio,,,تنشيط
+Background style,,,الخلفية
+Basic Information,,,معلومات
+Camera Data,,,بيانات ثانويّة أخرى
+Caption,,,الخيارات
+Categories:,,,منشيء الملف:
+Change the following values:,,,%s قد نشر المهمة الآتية:
+Change to:,,,القناة:
+Color levels,,,الألوان
+Comments,,,تعليق:
+Compression,,,الضغط
+Direction,,,الإتجاه:
+Display,,,مرّات الرّبح
+Footer,,,التذييلات
+Header and footer,,,الترويسات و التذييلات:
+Header,,,الترويسات
+Hide/Show,,,فيديو
+Image Sizing,,,صورة
+Image type,,,صورة
+Index Page Layout,,,تخطيط لوحة المفاتيح
+Index images,,,صورة
+Information on Channel:,,,معلومات
+Interface,,,واجهة المستخدم
+Margins,,,مرّات الرّبح
+New dimensions,,,الأذون
+On startup:,,,بدأ التشغيل
+Orientation,,,الإتجاه:
+Original dimensions,,,الإمتدادات المتوفِّرة
+Other Actions,,,أخرى
+Other,,,أخرى
+Page size,,,حجم الورق:
+Personalize theme,,,لوح ألوان
+Position,,,موقع المكبّر
+Resolution,,,الانتقاء
+Saving,,,المشاركة
+Scale ratio,,,الانتقاء
+Search criteria,,,معايير البحث
+Search scope,,,بحث عن
+Selection,,,الانتقاء
+Size,,,الحجم
+Slideshow,,,فيديو
+Theme,,,التيمة
+Viewer,,,عارض الصّور
+Write to CD,,,خيارات الكتابة
+Zoom quality,,,قائمة المكبّر
+Zoom,,,التذييلات
+Folder,,,مجلّد الموسيقى
+Recent folders:,,,المجلّد الهدف
+<small>Note: # (enumerator).</small>,,,<small>لا شيء</small>
+<small>Note: %d (current date).</small>,,,<small>لا شيء</small>
+"<small>Note: Drag the image to move it in the page.
+Click on an image to rotate it.</small>",,,<small>ملاحظة: الألوان التالية متاحة لتطيبقات الطرفيّة. </small>
+<small>Note: click to customize.</small>,,,<small>لا شيء</small>
+A4,,,A4
+Adjust timezone:,,,إضبط البياض
+Available applications:,,,التطبيق المتوفر:
+Available categories:,,,الاستراتيجيات المتوفرة
+Activate items with a double click,,,نشّط العناصر بنقرة مزدوجة
+Activate items with a single click,,,نشّط العناصر بنقرة واحدة
+Actual size,,,الحجم الكلي
+Add a comment to selected images,,,أزل علامة التعليق من الشفرة المنتقاة
+Add current location to bookmarks,,,أضِف المجلّد الحالي إلى علامات المواقع
+Add selected images to a catalog,,,قص الرسائل المُنتقاه إلى الحافظة
+Adjust brightness and contrast,,,تعديل السطوع والتباين
+Adjust color balance,,,تعديل توازن اللون
+Adjust hue and saturation,,,تعديل السطوع والتباين
+After,,,بعد
+After loading an image:,,,"حدث خطأ عند تحميل صورة: ""%s""."
+All,Tout,Alle,الكل
+Alpha,Alpha,Alpha,ألفا:
+"An image named ""%s"" is already present. Do you want to overwrite it?",,,هناك ملف باسم '%s' موجود حاليا. هل تريد الكتابة فوقه؟
+"An image named ""%s"" is already present. Please specify a different name.",,,"الإسم ""%s"" مستخدم في هذا المجلد سابقا. فضلا استخدم اسما آخر."
+An image viewer and browser for GNOME.,Un visionneur et navigateur d’images pour GNOME.,Ein Bildbetrachter und Browser für GNOME.,متصفح مساعدة developer في جنوم 2
+Any,,,أيّ
+Aperture value,,,قيمة الفتحة
+Apply physical transform,,,اكتب محولات الملفات
+Apply to all images,,,طبق على كل الحالات
+Ask confirmation before deleting images or catalogs,,,أطلب التأكيد قبل إغلاق صورة بدون حفظ
+Assign categories to selected images,,,أرسِل التغييرات في الملفات المنتقاة
+Assign categories to the current folder,,,عرض المجلد الحالي
+Assign categories to the selected folder,,,غير خصائص المجلد المنتقى
+Astronomy,Astronomie,Astronomie,لفظة أوائلية
+Auto,,,تلقائي
+Automatic sizing,,,ولوج تلقائي
+Automatically adjust the color levels,,,عدّل حجم تخزين التأخير تلقائياً بين
+Automatically equalize the image histogram,,,أدرج التعابير المرسومة آلياً
+Automatically import digital camera photos,Importe automatiquement les photos de l’appareil photo,Fotos von Digitalkameras automatisch importieren,ابدأ البحث آليّا
+Automatically start a slideshow,,,ابدأ البحث آليّا
+Before,,,قبل:
+Birthday,Anniversaire,Geburtstag,عيد الميلاد
+Black,Noir,Schwarz,أسود
+Black and White,,,أسود على أبيض
+Blue,Bleu,Blau,أزرق
+Bookmarks,Signets,Lesezeichen,علامات المواقع
+Brightness - Contrast,,,السطوع-التباين
+Browser,Navigateur,Browser,المتصفح
+By current date and time,,,الصفحة الحالية
+Bytes,Octets,Byte,بايتات
+Catalogs:,Catalogues :,Kataloge:,فهرس
+Choose from the catalog,,,أغلق الحوار
+Click policy:,,,التقاط فقط
+Create,Créer,Erstellen,أنشئ
+Current date,,,الصفحة الحالية
+Catalog,,,فهرس
+Categories,,,الفئات
+Categories...,,,الفئات...
+Categories:,,,الفئات:
+Camera Model,,,موديل الكاميرا
+Camera Model,Modèle d’appareil photo,Kameramodell,موديل الكاميرا
+Camera model,,,موديل الكاميرا
+"Cannot load folder ""%s"": %s",,,لا يمكن جلب الدّليل: %s: %s
+"Cannot open catalog ""%s"": %s",,,لا يمكن فتح صندوق البريد %s: %s
+"Cannot remove catalog ""%s"": %s",,,لا يمكن حذف %s: %s
+"Cannot remove library ""%s"": %s",,,لا يمكن حذف %s: %s
+"Cannot save catalog ""%s"": %s",,,لا يمكن ضبط المخطط لـ %s : %s
+Caption,Légende,Beschriftung,تسمية
+Case:,Casse :,Groß-/Kleinschreibung:,أحمر:
+Catalogs,Catalogues,Kataloge,فهرس
+Categories,,,الفئات
+Category,,,الصنف:
+Center on Page,,,وسط الأب
+Change Date,Modification de la date,Datum ändern,غيّر الحالة
+Change Date...,,,غيّر الحالة
+Check All,,,افحص HTML
+Check None,,,دقق الكلمة
+Checked,,,افحص
+Checking image:,,,يجري فحص الخدمة
+Choose a Catalog,,,اختر إجراءً:
+Choose categories from the saved list,,,انتق عناصر من القائمة
+Choose destination folder,Sélectionnez le dossier de destination,Wählen Sie einen Zielordner,انتقي المجلّد الهدف
+Choose startup folder,,,اختر مجلد
+Choose the destination folder,,,انتقي المجلّد الهدف
+Close,,,أغلق
+Close this window,,,إغلاق النافذة
+Comment,,,التعليق:
+Comment date,Date du commentaire,Datum des Kommentars,اجعل الشفرة تعليقا
+Comment:,,,التعليق:
+Comments,,,التعليق:
+Columns:,,,أعمدة:
+Collecting images info,,,المكان الذي تُفتَح منه الصور
+Color:,,,اللون:
+Color Balance,,,توازن اللون
+Comment,,,التعليق:
+Comment...,,,التعليق:
+Command Line,Ligne de commande,Befehlszeile,سطر الأوامر
+Comment,Commentaire,Kommentar,التعليق:
+Comment font:,,,تعليق:
+Compression level:,Niveau de compression :,Kompressionsgrad:,الضغط
+Contrast:,Contraste :,Kontrast:,التباين:
+Contents,,,المحتويات
+Continue,,,مواصلة
+Convert Format...,,,يجري تحويل %s...
+Convert Format,Conversion de format,Format umwandeln,هيئة التصدير
+Convert image format,,,هيئة التصدير
+Converting image: %s,,,تحويل الصورة
+Copy current folder,,,المجلّد الحالي
+Copy selected folder,,,انسخ السّطور المنتقاة
+Copy selected images to another location,,,نسخ الرّسالة المنتقاة إلى مجلّد آخر
+Copy this image to another location,,,نسخ الرّسالة المنتقاة إلى مجلّد آخر
+"Copy to ""approved"" folder",,,انسخ السّطور المنتقاة
+Copying file %d of %d,,,حذف العنصر  %dمن %d
+Copying file %ld of %ld,,,حذف العنصر  %dمن %d
+Copying original images,Copie des images originales,Originalbilder werden kopiert,نسخ صورة القرص
+"Could not copy the folder ""%s"": %s",,,تعذّر فتح المجلّد: %s: %s
+Could not copy the image:,,,لم يمكن تحميل النسق
+Could not create a local temporary copy of the remote file.,,,لم يمكن إنشاء ملف احتياطي مؤقت عند حفظ %s
+Could not create a temporary folder,Impossible de créer un dossier temporaire,Es konnte kein temporärer Ordner angelegt werden,لم يمكن إنشاء ملف مؤقت لـ '%s': %s
+"Could not create folder ""%s"": %s.",,,تعذّر إنشاء المجلّد `%s': %s
+"Could not create the catalog ""%s"": %s",,,لم يمكن إنشاء صورة مصغرة لـ %s: %s
+"Could not create the folder ""%s"": %s",,,تعذّر إنشاء المجلّد `%s': %s
+"Could not create the library ""%s"": %s",,,لم يمكن إنشاء صورة مصغرة لـ %s: %s
+"Could not delete the folder ""%s"": %s",,,"لايمكن حذف المجلّد ""%s"""
+Could not delete the images:,,,"لايمكن حذف المجلّد ""%s"""
+Could not display help,Impossible d’afficher l’aide,Hilfe konnte nicht angezeigt werden,لم يمكن عرض المساعدة: %s
+"Could not duplicate the image ""%s"": %s",,,"تعذّر فتح العنوان ""%s"": %s"
+Could not import photos,,,تعذّر استيراد المفاتيح
+Could not move temporary file to local destination. Check folder permissions.,,,غير قادر على تحديث تصريحات المجلد.
+"Could not move the folder ""%s"": %s",,,تعذّر فتح المجلّد: %s: %s
+Could not move the image:,,,لا يمكن حذف عنصر
+Could not move the items:,,,لا يمكن حذف عنصر
+"Could not rename the catalog ""%s"": %s",,,لا يمكن إعادة تسمية %s إلى %s: %s
+"Could not rename the folder ""%s"": %s",,,لم يمكن اعادة تسمية المجلّد
+Could not rename the following images:,,,لم يمكن اعادة تسمية المجلّد
+Could not rename the image:,,,لم يمكن اعادة تسمية الملف
+"Could not rename the library ""%s"": %s",,,"تعذّر فتح العنوان ""%s"": %s"
+Crop,,,اقتصاص
+Create Index Image,,,إنشاء صورة جديدة
+Create HTML image map,Créer une carte HTML cliquable,HTML-Bildübersicht erstellen,إنشاء صورة جديدة
+Create Index Image...,,,إنشاء صورة جديدة
+Create Web Album...,,,انشئ مفتاحاً جديداً...
+Create a new catalog,,,أنشيء مهمّةً جديدة
+Create a new catalog library,,,أنشيء تقويماً جديداً
+Create a new category,,,انشيء مفتاح جديد
+Create a new folder,,,انشيء مجلد بريد جديد
+Create a new window,,,إنشاء نافذة جديدة
+Creating image: %s.%s,,,يجري حفظ الصورة %s.
+Crop,Découper,Zuschneiden,اقتصاص
+Crop image,,,اقتصاص الصورة
+Current Folder,,,المجلّد الحالي
+Current date,Date actuelle,Heutiges Datum,الصفحة الحالية
+Custom,Personnalisé,Benutzerdefiniert,مخصص:
+Custom subfolder,,,تضمّن المجلّدات الفرعية
+Custom subfolder:,,,اذهب لمجلد الخط
+Cyan-Red:,Cyan-Rouge :,Cyan-Rot:,أحمر:
+Delay before changing image:,,,التأخير قبل اخفاء قائمة محوية
+Duplicate,,,ضاعِف
+Date and Time,,,التاريخ و الوقت
+Date,,,التّاريخ:
+Delete selected images from the camera,,,احذف العنصر المحدد من شريط الأدوات
+Delete the list of visited locations,,,اذهب إلى الموقع المزار سابقا
+Deleting file %ld of %ld,,,حذف العنصر  %dمن %d
+Determine by extension,,,الإمتدادات النشطة
+Dimensions,Dimensions,Bildgröße,الأبعاد:
+Do Not Save,,,لا تحفظ
+Do not change folder,,,تعذّر إنشاء المجلّد.
+Do not modify,Ne pas modifier,Nicht ändern,لا تضعه كخادم
+Do not overwrite the old image,,,"هل تريد تنميق الملف ""%s""؟"
+Dragged Images,,,حمل الصور
+Duplicate selected images,,,ضاعِف كل عنصر منتقى
+Duplicates,Doublons,Duplikate,مضاعفة
+Duplicates Size,,,مضاعفة
+Exposure mode,,,نمط التعرض
+Edit bookmarks,,,حرّر علامات المواقع
+Edit various preferences,,,تحرير تفضيلات متعدّدة
+Enter the catalog name:,Saisissez le nom du catalogue :,Geben Sie einen Namen für den Katalog ein:,تغيير اسم العمل:
+Enter the folder name:,Saisissez le nom du dossier :,Geben Sie einen Namen für den Ordner ein:,اسم مجلّد جديد
+Enter the library name:,Saisissez le nom de la bibliothèque :,Geben Sie einen Namen für die Bibliothek ein:,ادخل اسمك الأخير
+Enter the new category name,,,أدخل المستخدم الذي تريد جسّه.
+Enter the new name:,Saisissez le nouveau nom :,Geben Sie den neuen Namen ein:,أدخل عبارة السر الجديدة لـ: %s
+Equal images:,,,صور
+Equal to,,,يساوي %d
+Executive,,,إداري
+Exif Conditions,Conditions - Exif,Exif-Bedingungen,ظروف أخذ الصّورة
+Exif DateTime tag,,,رتّب المُطابقات حسب الإسم
+Exif General,Général - Exif,Exif-Allgemein,عامّ
+Exif Maker Notes,Notes du fabricant - Exif,Exif-Anmerkungen des Herstellers,ملحوظة المركّب
+Exif Structure,Structure - Exif,Exif-Struktur,إظهار بنية الصورة...
+Exif Thumbnail,Vignette - Exif,Exif-Vorschaubild,مُسْتعْرضة
+Exif Versions,Versions - Exif,Exif Versionen,الأبعاد:
+Exposure time,,,زمن التعرض
+Exposure mode,,,نمط التعرض
+Exposure time,,,زمن التعرض
+Footer:,,,التذييل:
+Family,Famille,Familie,العائلة:
+Favourite,,,مفضّل
+File System,,,أنظمة الملفات
+File name,,,إسم الملف:
+File name:,,,إسم الملف:
+File path,,,مسار المجلّد
+File size,,,حجم الملف:
+Filename,Nom du fichier,Dateiname,اسم الملف:
+Filesystem,,,أنظمة الملفات
+Fit,,,ملائمة
+Fit to width if larger,Ajuster en largeur si dépassement,"In Fensterbreite einpassen, falls größer",لائم العرض
+Fit to window,Ajuster à la fenêtre,In Fenster einpassen,ملاءمة إلى النافذة
+Fit to window if larger,Ajuster à la fenêtre si dépassement,"In Fenster einpassen, falls größer",ملاءمة إلى النافذة
+Flash,Flash,Blitz,شارات:
+Focal length,,,الطول البؤري
+Focal length,,,الطول البؤري
+Footer,Pied de page,Fußzeile,هامش سفلي
+Forward,,,مرر
+Found duplicates:,,,احذف التكرار
+Found images:,,,صورة الخلفية:
+Frame style:,,,أسلوب حر
+Frame color:,,,لون الإطار
+GNOME,GNOME,GNOME,جنوم
+Games,Jeux,Spiele,ألعاب
+General,Général,Allgemein,عامّ
+Getting folder listing...,,,تحصيل لائحة المجلدات
+Go to last visited folder or catalog,,,اذهب إلى الموقع المزار سابقا
+Go to the folder that contains the selected image,,,عنوان آخر دليل استُخدم في حوار إنتقاء الأسماء
+Go to the home folder,,,إذهب للصفحة الرئيسية
+Go to the next visited location,Va à l’emplacement visité suivant,Zum nächsten besuchten Ort wechseln,اذهب إلى الموقع المزار سابقا
+Go to the previous visited location,Va à l’emplacement visité précédent,Zum zuvor besuchten Ort wechseln,اذهب إلى الموقع المزار سابقا
+Go to this folder:,Aller dans ce dossier :,Zu folgendem Ordner gehen:,اذهب لمجلد الخط
+Go up one level,,,اصعد مستوى واحد
+Green,Vert,Grün,أخضر
+Header:,,,ترويسات
+High,,,عال
+Header,En-tête,Kopfzeile,ترويسات
+Header/Footer,,,التّرويسة/التذييل
+Height:,,,ثمانية
+Height:,,,ثمانية
+High quality,Haute qualité,Hohe Qualität,جودة الصوت
+Holidays,Vacances,Urlaub,العطلة
+Home,,,المنزل
+Hue - Saturation,,,التدرج-الإشباع
+Image Caption...,,,موقع الصورة
+Include comment,,,تعليقات الشفرة
+Invert aspect ratio,Inverser les proportions,Seitenverhältnis umkehren,نسبة مظهر ثابتة
+Icons only,,,أيقونات فقط
+Image,Image,Bild,صور
+Image Caption,,,موقع الصورة
+Image Viewer,Visionneur d’images,Bildbetrachter,عارض الصّور
+Image creation date,,,نمط الصور المتحركة
+Image comment,,,تعليقات الشفرة
+Image creation date,,,نمط الصور المتحركة
+Image data,,,بيانات الصّورة
+Image dimensions,,,أبعاد البيكسل:
+Image preview,,,لمحة صورة
+Image type not supported: %s,,,نوع صورة TGA غير مدعوم
+Image type:,,,نوع الصورة:
+Images,Images,Bilder,صور
+Images per page:,Images par page :,Bilder pro Seite:,منطقة خارطة الصورة
+Import Photos,,,استورد الصور
+Import errors detected,,,لم يُعثر على أية أقراص
+Import photos from a digital camera,,,تستورد علامات المواقع من ملف
+Important,Important,Wichtig,مهم
+In,,,داخل
+Inches,,,بوصات
+Include filename,,,اسم ملف غير صالح
+Index,Index,Index,فهرس
+Index Image Style,,,فهرسة الصورة
+Information on Channel,,,حقول المعلومات
+JPEG Options,,,خيارات PPP
+KB,,,ك.بايت
+Keep previous zoom,Garder le zoom précédent,Vorherigen Vergrößerungsfaktor behalten,استخدم الخط السابق
+Landscape,,,%s، عرضيّ (%s)
+Last modified,Dernière modification,Zuletzt geändert,تاريخ التعديل
+Last modified date,Date de dernière modification,Letztes Änderungsdatum,تاريخ التعديل
+Layout,Agencement,Layout,تخطيط
+Layout:,,,تخطيط
+Legal,,,قانوني
+Letter,,,خطاب
+Library not empty,,,الدليل غير فارغ
+Low,,,منحفض
+Loading image: %s,,,يجري حفظ الصورة %s.
+Loading images,Chargement des images,Bilder werden geladen,تحميل التذكيرات
+Location,Emplacement,Ort,الموقع
+MB,Mio,MB,MBR
+Match any selected category,,,اللون المنتقى
+Millimeters,,,مليمتر
+Modified,Modifié,Geändert,عُدّل:
+Modify search criteria,,,تعديل المادة المختارة
+Move Catalog to...,,,نقل المراسَل إلى...
+Move current catalog to another location,,,انقل اللسان الحالي إلى اليسار
+Move current folder,,,عرض المجلد الحالي
+Move selected catalog to another location,,,انقل الرسائل المنتقاه إلى مجلد آخر
+Move selected folder,,,لقد انتقيت مجلداً
+Move selected images to another location,,,انقل الرسائل المنتقاه إلى مجلد آخر
+Move the current folder to the Trash,,,انقل المجلد المفتوح للمهملات
+Move the selected folder to the Trash,,,انقل المجلد المفتوح للمهملات
+Move the selected images to the Trash,,,انقل كل عنصر منتقى إلى المهملات
+Move this image to another location,,,انقل ورقة إلى الأساس
+Move this image to the Trash,,,انقل هذا المجلد للمهملات
+Move to Trash,,,انقل إلى  المهملات
+Moving file %ld of %ld,,,حذف العنصر  %dمن %d
+Name,Nom,Name,الإسم
+New Catalog,Nouveau catalogue,Neuer Katalog,فهرس
+New Folder,,,مجلّد جديد
+New Image:,,,لا صورة
+New Library,Nouvelle bibliothèque,Neue Bibliothek,مكتبة
+New Name,Nouveau nom,Neuer Name,لعبة جديدة
+New Library,,,مكتبة
+New Library...,,,طبقة جديدة...
+New Search...,,,بحث...
+New Window,,,نافذة جديدة
+New names preview:,,,معاينة عن اللعبة
+Next,Suivant,Nächstes,التالي
+No camera detected,,,لم يُعثر على أية أقراص
+No date,Aucune date,Kein Datum,بلا بيانات
+No image,,,لا صورة
+No images found,,,لم يتم العثور على ملفات
+Normal (Deflate),Normale (réduite),Normal (Entpacken),بدون (افتراضي)
+None,Sans,Keines,لا شيء
+Not enough free space left on disk,,,مساحة غير كافية على القرص.
+Number,,,الإسم
+Old Image:,,,الصورة:
+Old Name,Ancien nom,Alter Name,إسم الحقل
+Open,Ouvrir,Öffnen,افتح
+Open Images,,,فتح صورة
+Open Location,,,افتح الموقع
+Open current folder with the Nautilus file manager,,,لا يمكن إنشاء مجلّد بهذا الإسم
+Open in New Window,Ouvrir dans une nouvelle fenêtre,In neuem Fenster öffnen,افتح في نافذة جديدة
+Open selected images with an application,,,افتح الملفات المنتقات بتطبيق
+Open the selected catalog,,,افتح الملاحظة المنتقاة
+Open the selected catalog in a new window,,,افتح الرسائل المنتقاه في نافذة جديدة
+Open the selected folder,,,افتح المجلد المنتقى
+Open the selected folder in a new window,,,افتح علامة الموقع المنتقاة في نافذة جديدة
+Open the selected folder with the Nautilus file manager,,,نسخ المجلد المُنتقى إلى داخل مجلد آخر
+Open the selected image in a new window,,,افتح الرسائل المنتقاه في نافذة جديدة
+Open this image with an application,,,افتح الملفات المنتقات بتطبيق
+Open with the File Manager,,,افتح في مدير الملفّات
+Optimize,Optimisé,Optimieren,محسن:
+Other,Autre,Andere,أخرى
+Other...,,,أخرى...
+Out,,,خارج
+Overwrite the old image,,,نسق التنميق
+Overwrite Image,,,نسق التنميق
+Overwrite all images,,,نسق التنميق
+Overwrite mode:,,,نسق التنميق
+PNG Options,,,خيارات PPP
+Portrait,,,رسم صورة
+Page,,,الصفحة
+Page %d of %d,Page %d sur %d,Seite %d von %d,الصّفحة %d من %d
+Paper Details,,,احفظ التفاصيل
+Party,Fête,Party,أب
+Path,,,المسار
+Pixels,,,بكسلات
+Place,Lieu,Ort,أماكن
+Play Animation,,,رسوم متحركة
+"Possible values are: 1, 2, 3, 4.",,,"القيم الممكنة هي ""on""، ""off""، و ""custom""."
+"Possible values are: ascending, descending.",,,رتبهم تصاعدياً او تنازلياً
+"Possible values are: forward, backward, random.",,,"القيم الممكنة هي ""on""، ""off""، و ""custom""."
+"Possible values are: image, data, comment.",,,"القيم الممكنة هي ""merged""، ""separate""، و ""disabled""."
+"Possible values are: jpeg, png, tga, tiff.",,,"القيم الممكنة هي ""on""، ""off""، و ""custom""."
+"Possible values are: manual, auto.",,,"القيم الممكنة هي ""on""، ""off""، و ""custom""."
+"Possible values are: mm, in.",,,"القيم الممكنة هي ""on""، ""off""، و ""custom""."
+"Possible values are: none, day, month, now, custom",,,"القيم الممكنة هي ""on""، ""off""، و ""custom""."
+"Possible values are: none, deflate, jpeg.",,,"القيم الممكنة هي ""on""، ""off""، و ""custom""."
+"Possible values are: original, lower, upper.",,,"القيم الممكنة هي ""on""، ""off""، و ""custom""."
+"Possible values are: pixels, percentage.",,,"القيم الممكنة هي ""merged""، ""separate""، و ""disabled""."
+Postcard,,,بطاقة
+Posterize,,,مقاس المؤشر:
+Preserve luminosity,,,وحدة الضغط
+Previous,Précédent,Vorheriges,سابقا
+Print,Imprimer,Drucken,اطبع
+Print the current image,,,اطبع الصفحة الحالية
+Print...,,,اطبع...
+Properties,,,خصائص
+Recent applications:,,,التطبيقات الحديثة:
+Remove original,,,استعِد الحالة الأصلية
+Random,,,عشوائي
+Reverse,,,عكس
+Reverse Order,Ordre inversé,Reihenfolge umkehren,ترتيب معكوس
+Reverse order,Ordre inversé,Reihenfolge umkehren,اقلب الترتيب
+Red,Rouge,Rot,أحمر
+Redo Search,,,ابحث
+Redo the search,,,تكرار التحرير
+Reduce Colors,,,اداة اختيار من جديد
+Reduce the number of colors,,,اقرأ أسماء الألوان
+Reload the current location,,,احذف الموقع الحالي
+Remove,,,احذف
+Remove from Catalog,,,أزل من القائمة
+Remove Script,,,استعِد الحالة الأصلية
+Remove current catalog,,,انقل اللسان الحالي إلى اليمين
+Remove selected catalog,,,حذف الاختيار
+Remove selected category,,,حذف الاختيار
+Remove selected images from the catalog,,,احذف العنصر المحدد من شريط الأدوات
+Rename,Renommer,Umbenennen,اعادة تسمية
+Rename current catalog,,,استبدل المنتقى الحالي
+Rename current folder,,,عرض المجلد الحالي
+Rename selected catalog,,,أعد تسمية العنصر المنتقى
+Rename selected folder,,,أعِد تسمية المجلّد المنتقى
+Rename selected images,,,أعد تسمية العنصر المنتقى
+Rename this image,,,حذف هذه الصورة
+Reset Exif orientation to top-left,,,إتجاه الطبق.
+Reset Exif Orientation,,,الإتجاه:
+Resize image,,,تغيير حجم الصورة
+Restart when finished,,,إعادة العزف إثر الإنتهاء
+Reuse this window to view other images,,,ارفع النافذة فوق النوافذ الأخرى
+Reverse images order,,,عكس ترتيب الطبقات
+Revert to saved image,,,استرجع للمحفوظ
+Rotate Images,,,تدوير الصورة
+Rotate Images,,,تدوير الصورة
+Rotate Right,,,استدر يميناَ
+Rotate Left,,,استدر يساراً
+Rotate image 90 degrees clockwise,,,مدوّر 90 درجة
+Rotate image 90 degrees counter-clockwise,,,دوران بعكس اتّجاه عقارب السّاعة
+Rows and columns,,,عمود إمتداد السطر
+Sort Images,,,الصّورة الأولى
+Sort:,Tri :,Sortieren nach:,رتّب
+Save Image,Enregistrer l’image,Bild speichern,حفظ الصورة
+Save As...,,,احفظ كـ...
+Save current image,,,احفظ الصفحة الحالية
+Save only changed fields,Enregistrer uniquement les champs modifiés,Nur veränderte Felder speichern,احفظ التغييرات اليدوية
+Saving HTML pages: Images,Enregistrement des pages HTML : images,HTML-Seiten werden gespeichert: Bilder,حفظ الصور
+Saving images,Enregistrement des images,Bilder werden gespeichert,حفظ الصور
+Saving thumbnails,Enregistrement des vignettes,Miniatur-Vorschaubilder werden gespeichert,لا أظافر إبهام
+Scale Image,,,وزن الصورة
+Scale Images,,,وزن الصورة
+Scale Images...,,,وزن الصورة...
+Scale to this size,,,حجم نص أصغر
+Science,Science,Wissenschaftlich,صمت
+Screenshots,Captures d’écran,Bildschirmfotos,Screenshot.png
+Script,Script,Skript,رتّب
+Script Progress,,,نتائج البحث
+Search,Rechercher,Suchen,ابحث
+Search Progress,,,نتائج البحث
+Search Result,Résultat de la recherche,Suchergebnis,نتائج البحث
+Search for Duplicates,,,ابحث عن ملفات
+Search for Duplicates...,,,ابحث عن الملفات...
+Searching in:,,,يجري البحث
+Select Album Theme,,,تحديد ثيمة
+Select a camera model,,,اختر منطقة زمنيّة
+Select a color,Choisir une couleur,Farbe auswählen,تحديد لون
+Select a font,Choisir une police,Schrift auswählen,انتقي خط
+Select all images,,,اختر كل الملفات
+Set Image as Wallpaper,,,استخدم كخلفية
+Set image to actual size,,,إعداد حجم رقعة الرسم
+Set the image as desktop background (centered),,,اعرض هذه الصورة كخلفيّة في المُرحِّب.
+Set the image as desktop background (stretched),,,اعرض هذه الصورة كخلفيّة في المُرحِّب.
+Set the image as desktop background (tiled),,,إن كانت هذه العلامة تؤثر في الرسم النقطي للواجهة الخلفية
+Set to Current,Sélectionner celui en cours,Auf momentan geöffneten setzen,اضبط للصفحة الحالية
+Show:,,,أظهر:
+Shadow in,,,ظل
+Shadow only,Ombre uniquement,Nur Schatten,لون الظل
+Shadow out,,,نوع الظل
+Short Name,,,الصّورة الأولى
+Show Hidden Files,,,اظهر الملفات المخفية
+Show hidden files and folders,,,أظهر الملفّات والمجلّدات المخفية
+Show information about gThumb,,,أظهر معلومات حول إيفُليوشن
+Show/Hide,,,اظهر المخفي
+Shutter speed,,,سرعة المصراع
+Simple,Simple,Einfach,عينة
+Simple with shadow,Simple avec ombrage,"Einfach, mit Schattierung",كرة بسيطة بظل
+Size,Taille,Größe,الحجم:
+Skip,,,الغيت
+Slide,Diapositive,Dia,مزلق
+Slideshow,,,عرض شرائح
+Sort:,,,رتّب
+Sort,,,رتّب
+Sort images by Exif DateTime tag,,,رتّب المُطابقات حسب الإسم
+Sort images by comment,,,رتّب المُطابقات حسب الإسم
+Sort images by file modification time,,,رتّب قائمة الملفات بحسب تاريخ التعديل
+Sort images by file size,,,رتّب قائمة الملفات بحسب حجمها
+Sort images by name,,,رتّب المُطابقات حسب الإسم
+Sort images by path,,,رتّب المُطابقات حسب الإسم
+Sort images manually,,,أدخل يدويا
+Specify a location to visit,,,حدد موقعا لفتحه
+Square,Carré,Quadrat,مربع
+Style,,,أسلوب
+Start at:,Commencer à :,Beginnen in:,تاريخ البدء:
+Start in fullscreen mode,Démarre en mode plein écran,Im Vollbildmodus starten,اقفل في نمط ملء الشاشة
+Start or stop current animation,,,بدء او ايقاف المجموعة المرئية
+Step Animation,,,أوقف التحريك
+Stop,,,توقّف
+Stop loading current location,,,أوقف العملية الحالية
+Stretched,,,مدّد
+Style Preview,,,معاينات أضغر
+System settings,,,إعدادات النظام
+TGA Options,,,خيارات GPRS
+TIFF Options,,,دالّات TIFF
+TGA,,,خ
+Tabloid,,,الصحيفة الشعبية
+Temporary,Temporaire,Temporär,حجم مؤقت
+Text below icons,,,نص تحت الأيقونة
+Text beside icons,,,نص بجانب الأيقونة
+Text contains,,,يحتوي
+Text only,,,نص فقط
+Thumbnail size:,,,مُسْتعْرضة
+The following date:,La date suivante :,Folgendes Datum:,الآتي:
+"The category ""%s"" is already present. Please use a different name.",,,"الإسم ""%s"" مستخدم في هذا المجلد سابقا. فضلا استخدم اسما آخر."
+"The current image has been modified, do you want to save it?",,,المحفوظة موجودة. هل تريد الكتابة فوقها؟
+The destination folder does not exist. Do you want to create it?,,,"المجلّد المرسل اليه ""%s"" غير موجود.
+
+ هل تريد انشاءه؟"
+The following date,La date suivante,Folgendes Datum,الآتي:
+The images cannot be moved to the Trash. Do you want to delete them permanently?,,,"لا يمكن نقل الملف إلى المهملات،
+أتريد حذفه للأبد؟"
+"The name ""%s"" is already used in this folder. Please use a different name.",,,"الإسم ""%s"" مستخدم في هذا المجلد سابقا. فضلا استخدم اسما آخر."
+"The name ""%s"" is already used. Please use a different name.",,,"الإسم ""%s"" مستخدم في هذا المجلد سابقا. فضلا استخدم اسما آخر."
+"The name ""%s"" is not valid because it contains the character "","". Please use a different name.",,,"الإسم ""%s"" غير صالح لاحتوائه الرمز ""/"". الرجاء استخدام إسم آخر."
+"The name ""%s"" is not valid because it contains the character ""/"". Please use a different name.",,,"الإسم ""%s"" غير صالح لاحتوائه الرمز ""/"". الرجاء استخدام إسم آخر."
+"The selected catalog will be removed, are you sure?",,,سينقل العنصر المنتقى إذا اخترت أمر اللصق
+"The selected folder will be moved to the Trash, are you sure?",,,لا يمكن نقل الملف المنتقى إلى المهملات.
+"The selected images will be moved to the Trash, are you sure?",,,لا يمكن نقل الملف المنتقى إلى المهملات.
+"The selected library will be removed, are you sure?",,,سيقطع اتصال المستخدم عن بعد من '%s'. أمتأكّد؟
+The specified catalog does not exist.,,,الملف غير موجود.
+Transferring '%s' to its destination folder.,,,انتقي المجلّد الهدف
+Transparency type:,,,شفافية
+Type,Type,Typ,أنواع
+Update previews,,,معاينة عن اللعبة
+Upload selected images to Flickr,,,قص الرسائل المُنتقاه إلى الحافظة
+Use the viewer mode to view single images,,,ضبط المتصفح لعرض هذا النوع فقط
+Value,Valeur,Wert,القيمة:
+View As List,,,اعرض كقائمة
+View As Slides,,,عرض كقائمة
+View As Slides,,,عرض كقائمة
+View As List,,,اعرض كقائمة
+View and organize your images,Afficher et organiser vos images,Ihre Bilder betrachten und katalogisieren,تصفّح و نَظّم علاماتك
+View as a slideshow,,,اعرض كمجلّد
+View image properties,,,خصائص الصفحة
+View next animation frame,,,نمط الصور المتحركة
+View next image,,,اعرض الصفحة التالية
+View or hide the filterbar of this window,,,اظهر أو اخفي شريط التبويب في النافذة الحالية
+View or hide the statusbar of this window,,,اظهر أو إخفي شريط الحالة في النافذة الحالية
+View or hide the toolbar of this window,,,اظهر أو إخفي شريط الأدوات في النافذة الحالية
+View previous image,,,اعرض الصفحة السابقة
+View the catalogs,,,اعرض الصفحة الأخيرة
+View the folders,Afficher les dossiers,Die Ordner anzeigen,عرض المجلد
+View the image,,,اعرض الصفحة الأولى
+View the image flipped,,,إعرض لوح الاتصال
+View the image mirrored,,,إعرض تاريخ المكالمات
+View the image rotated clockwise,,,فيما إذا وجب التدوير عكس عقارب الساعة
+View the image rotated counter-clockwise,,,فيما إذا وجب التدوير عكس عقارب الساعة
+View the image with negative colors,,,استعمل ألوان السِمة الإفتراضية
+View thumbnails,,,لا أظافر إبهام
+Viewer,Visionneur,Betrachter,عرض
+Wait please...,,,الرجاء الانتظار...
+Web Album,Album Web,Web-Album,ألبوم
+Web Album Theme,,,سمات صفحات الويب
+Web Palette,,,لوح ألوان جديد
+Whether to always use a black background.,,,فيما إذا ستستخدم صورة الخلفيّة
+Whether to reset the scrollbar positions after changing image,,,فيما إذا وجب لـ gedit استعاذة موضع المؤشّر السابق عند تحميل ملف.
+White,Blanc,Weiß,أبيض
+Width:,,,العرض:
+Width,Largeur,Breite,العرض
+Width:,,,العرض:
+Write To CD,,,اكتب لقرص مدمج
+Write selection to CD,,,اكتب المنتقى إلى قرص مدمج
+You didn't enter the new name,,,لم تدخِل اسم الحزمة
+"You don't have the right permissions to create images in the folder ""%s""",,,"لا تملك الأذون الكافية لاستخراج المحفوظات في المجلّد""%s"""
+Zoom in,Zoom avant,Vergrößern,تكبير
+Zoom out,Zoom arrière,Verkleinern,تصغير
+Zoom to fit,Ajuster à la fenêtre,Einpassen,تكبير حتى الملاءمة
+Zoom to fit width,Ajuster en fonction de la largeur,Breite einpassen,تكبير حتى الملاءمة
+Zoom to fit window,,,تكبير حتى الملاءمة
+[modified],[modifié],[geändert],(معدل)
+Abort,,,اجهض
+Add Bookmark,Ajouter un signet,Lesezeichen hinzufügen,أضف علامة موقع
+Add to Catalog...,,,أضف للشّريط...
+All pages with the same size,Toutes les pages de même taille,Alle Seiten der gleichen Größe,خطأ في حجم الإطار.
+Aperture value,,,قيمة الفتحة
+Application:,,,تطبيق:
+Bookmarks,,,علامات المواقع
+Bookmarks:,Signets :,Lesezeichen:,علامات المواقع:
+Bottom:,,,الأسفل:
+Brightness-Contrast...,,,السطوع-التباين
+Brightness:,,,سطوع
+Browse...,,,تصفّح
+Catalogs,,,فهرس
+Centered,,,توسيط
+Color Balance...,,,توازن اللون
+Continue,Continuer,Fortfahren,مواصلة
+Copy originals to destination,Copier les images originales vers la destination,Originale an den Zielort kopieren,لم يمكن فتح الوِجهة
+Copy...,,,انسخ...
+Crop...,,,انسخ...
+Date and Time,,,التاريخ و الوقت
+Date:,Date :,Datum:,التّاريخ:
+Delete History,Supprimer l’historique,Chronik vergessen,امسح التاريخ
+Delete imported images from the camera,,,لا تحمل صورأ من إنترنت أبداً
+Desaturate,,,عكس إشباع
+Destination folder:,,,المقصد:
+Destination:,Destination :,Speicherort:,المقصد:
+Do not display this message again,,,لا تظهر هذه الرسالة مرة أخرى
+Do not overwrite any image,,,تأكيد الكتابة الفوقية
+Done,,,لا شيء
+Draw frame,,,تعادل
+Edit,,,تحرير/
+Edit Bookmarks...,,,حرّر علامات المواقع...
+Edit Scripts,,,9 البحث
+Edit Search,,,9 البحث
+Edit Search...,,,بحث...
+Enhance,,,إلغاء
+Equalize,,,مساواة
+File,,,/ملف
+Filenames,,,أسماء الملفات:
+Filter,,,مرشّح:
+Flash,,,طفو
+Flip,,,قلب
+Folder,,,مجلّدات
+Folders,,,مجلّدات
+Font:,,,خط:
+Footer:,Pied de page :,Fußzeile:,التذييل:
+General,,,عامّ
+Go,,,اذهب
+Go to Theme Folder,,,مجلدات الثيمات
+Go to the Image Folder,,,اذهب إلى قائمة الزوايا
+Go to the destination folder,,,انتقي المجلّد الهدف
+Gradient,Dégradé,Farbverlauf,التدريج
+Group into subfolders:,,,اذهب لمجلد الخط
+Header:,En-tête :,Kopfzeile:,ترويسات
+Height:,Hauteur :,Höhe:,ثمانية
+Help,Aide,Hilfe,مساعدة
+Histogram,,,الرسم البياني
+Horizontal:,Horizontal :,Horizontal:,أفقي:
+Hue-Saturation...,,,التدرج-الإشباع...
+Hue:,,,التدرج:
+Image,,,صور
+Image Preview,,,لمحة صورة
+Image size:,,,حجم الصورة
+Import,Importer,Importieren,استيراد
+Import Photos...,,,استورد الصور
+Include sub-folders,Inclure les sous-dossiers,Unterordner einbeziehen,تضمّن المجلّدات الفرعية
+Install Theme...,,,ثبِّت سِمة...
+JPEG,,,MPEG
+Keep aspect ratio,,,نسبة مظهر ثابتة
+Keep original filenames,,,استقبال اسماء الملفات
+Keyboard Shortcuts,,,اختصارات لوحة المفاتيح
+Last modified date,Date de dernière modification,Letztes Änderungsdatum,بحسب تاريخ التعديل
+Left:,,,اليسار:
+Levels:,,,المستوى:
+Lightness:,,,الإضاءة:
+Location...,,,الموقع...
+Loss compression (JPEG),Compression avec perte (JPEG),Verlustbehaftete Kompression (JPEG),استعمل ضغط LZO
+Magenta-Green:,Magenta-Vert :,Magenta-Grün:,ماجنتا:
+Manual Order,,,يدوي
+Mirror,,,خطأ
+Model:,,,الطرُز:
+Move,,,تحريك
+Move...,,,انقل...
+Negative,,,غير نهائي
+New Catalog,,,فهرس
+New Catalog...,,,مسار جديد...
+New Folder...,,,مجلّد جديد...
+Next,,,التالي
+No compression,Aucune compression,Keine Kompression,الضغط
+None,,,لا شيء
+Open With,,,افتح بـ
+Open With...,,,افتح ب...
+Overwrite,,,إحلاله؟
+PNG,,,خ
+Place,,,أماكن
+Place:,Lieu :,Ort:,أماكن
+Port:,,,منفد:
+Posterize...,,,خصِّص...
+Preferences...,,,تفضيلات...
+Preview,Aperçu,Vorschau,عايِن:
+Previous,,,سابقا
+Progressive,Progressif,Progressiv,بروكراسف روك
+Quality:,Qualité :,Qualität:,الجودة:
+RLE compression,Compression RLE,RLE-Kompression,استعمل ضغط LZO
+Redeye Removal...,,,أضف أو احذف...
+Reload,,,إعادة التحميل
+Rename,Renommer,Umbenennen,أعد التسمية
+Rename...,,,أعد التسمية
+Reset,,,إعادة ضبط
+Resize if larger than:,Redimensionner si l’image est plus grande que :,"Verkleinern, wenn größer als:",تغيير حجم الصورة
+Resize...,,,تغيير الحجم
+Restore,,,إعادة ضبط
+Reversed Order,,,ترتيب مقلوب
+Right:,,,اليمين:
+Rotate images physically,,,تدوير الصورة
+Rows:,Lignes :,Zeilen:,صفوف:
+Saturation:,Saturation :,Sättigung:,تشبّع:
+Save,Enregistrer,Speichern,حفظ
+Save the new image as:,,,إنشاء صورة جديدة
+Scale,,,حجّم
+Scale:,,,حجّم
+Scaled,,,حجّم
+Search,,,ابحث
+Search...,,,بحث...
+Select,,,تحديد
+Select All,,,اختر الكل
+Selected Images,,,اختر صورة
+Selected categories:,,,العناصر المنتقاة:
+Shutter speed,,,سرعة المصراع
+Single Window,,,اغلق النافذة
+Size :,,,الحجم:
+Slideshow,,,عرض شرائح
+Smoothing:,Lissage :,Glätten:,تنعيم:
+Solid color,Couleur unie,Einfarbig,لون جامد
+Sort:,,,رتّب
+Statusbar,Barre d’état,Statusleiste,شريط الحالة
+Template:,Modèle :,Vorlage:,قالب:
+Theme:,,,سِمة
+Thumbnail Caption...,,,دليل مُسْتَصْغرات
+Thumbnails,,,مُسْتعْرضة
+Tiled,,,مربع
+Toolbar,,,أشرطة الادوات
+Toolbar style:,,,أسلوب شريط الأدوات
+Tools,,,أدوات
+Top:,,,الأعلى:
+Transform,,,الانتقال
+Trim,Rogner,Trimmen,الوقت:
+Unit:,,,الوحدة:
+Upload,Envoyer,Hochladen,إعادة التحميل
+Vertical:,Vertical :,Vertikal:,رأسي:
+View,Affichage,Ansicht,عرض/
+View the destination,Afficher la destination,Ziel betrachten,اختر مَقْصِد
+Width:,Largeur :,Breite:,العرض:
+Write To CD...,,,اكتب إلى القرص...
+X:,X :,X:,س:
+Y:,Y :,Y:,ص:
+Yellow-Blue:,Jaune-Bleu :,Gelb-Blau:,اصفر:
+Zoom,,,تكبير
+a folder with that name is already present.,,,هناك مجلّد موجود بنفس الإسم
+by Modification Time,,,وقت آخر تعديل
+by Comment,,,تعليقات:
+by Exif Time,,,انسخ الوقت
+by Name,,,حسب الإسم
+by Path,,,إلى المسار
+by Size,,,حسب الحجم
+by comment,,,تعليقات الشفرة
+by file modified time,,,بحسب تاريخ التعديل
+by name,,,حسب الاسم
+by path,,,حسب التاريخ
+by size,,,حجم
+"columns, by",,,أعمدة
+contains,contient,enthält,يحتوي
+does not contain,ne contient pas,enthält nicht,لا يحتوي
+dpi,ppp,DPI,الدقة
+ends with,finit par,endet mit,ينتهي بـ
+gThumb,gThumb,gThumb,تومبس
+gThumb Image Viewer,Visionneur d’images gThumb,gThumb Bildbetrachter,عارض الصّور
+gThumb Preferences,Préférences gThumb,gThumb-Einstellungen,تفضيلات السِمة
+hours,heures,Stunden,ساعات
+is,est,ist,قائمة
+is after,est après,ist nach,يقع بعد
+is before,précède,ist vor,يقع قبل
+is equal to,est égal à,ist gleich,لا يساوي %d
+is greater than,est supérieur à,ist größer als,أكبر من
+is lower than,est inférieur à,ist kleiner als,أصغر من
+is not,n’est pas,ist nicht,ليس
+manual order,,,رمز اللغة
+or use a single index page,,,يجري فهرسة بياناتك
+pixels,pixels,Pixel,بكسل
+png,,,ربيع
+prompt,,,اقتصاص
+"rows per page,",,,عدد ألغاز سودوكو في كل صفحة:
+seconds,secondes,Sekunden,ثوان
+source and destination are the same,,,المقصد و المصدر هما نفس الملف.
+source contains destination,,,وجهة النشر
+starts with,commence par,beginnt mit,لا يبدء بـ
+title|Scale Images,,,وزن الصورة
+translator credits,,,المترجمون:

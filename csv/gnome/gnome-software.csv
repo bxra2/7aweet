@@ -1,0 +1,617 @@
+%s %s Now Available,,,باتت %s %s متوفرة
+%s %s Ready to be Installed,,,باتت %s %s جاهزة للتنصيب
+%s %s is no longer supported.,,,لم تعد %s %s مدعومة.
+%s (Installed),%s (installée),%s (installiert),%s (منصّبة)
+%s (Installing),%s (installation en cours),%s (wird installiert),%s (يجري تنصيبها)
+%s (Removing),%s (suppression en cours),%s (wird entfernt),%s (تجري إزالتها)
+%s file format,Format de fichier %s,%s-Dateiformat,صيغة الملفات %s
+"%s is not <a href=""https://en.wikipedia.org/wiki/Freeandopen-sourcesoftware"">free and open source software</a>, and is provided by “%s”.","%s n’est pas un <a href=""https://fr.wikipedia.org/wiki/Free/LibreOpenSourceSoftware"">logiciel libre et ouvert</a> et est distribué par « %s ».","%s ist nicht <a href=""https://en.wikipedia.org/wiki/Freeandopen-sourcesoftware"">freie und quelloffene Software</a> und wird durch »%s« bereitgestellt.","%s ليست <a href=""https://en.wikipedia.org/wiki/Freeandopen-sourcesoftware"">برمجية حرّة و مفتوحة المصدر</a>، و موفّرها هو ""%s""."
+%s is not available.,%s est indisponible.,%s ist nicht verfügbar.,%s غير متوفّر.
+%s is now installed,,,نُصّب %s
+%s is provided by “%s”.,%s est distribué par « %s ».,%s wird durch »%s« zur Verfügung gestellt.,يأتي %s من ”%s“.
+%s is requesting additional file format support.,%s demande davantage de prise en charge du format du fichier.,%s verlangt Unterstützung für zusätzliche Dateiformate.,يطلب %s دعما لصيغة ملفات إضافية.
+%s is requesting additional fonts.,%s demande davantage de polices.,%s benötigt zusätzliche Schriftarten.,يطلب %s خطوطا إضافية.
+%s is requesting additional multimedia codecs.,%s demande davantage de codecs multimédia.,%s benötigt zusätzliche Multimedia-Codecs.,يطلب %s مرمازات وسائط إضافية.
+%s is requesting additional packages.,%s demande davantage de paquets logiciels.,%s benötigt zusätzliche Pakete.,يطلب %s حزما إضافية.
+%s is requesting additional printer drivers.,%s demande davantage de pilotes d’imprimante.,%s benötigt zusätzliche Druckertreiber.,يطلب %s مشغلات طابعات إضافية.
+%s not found,%s sont introuvables,%s wurde nicht gefunden,تعذّر إيجاد %s
+"%s will be installed, and you will be charged %s.",,,سينصب %s، وسيكلفك %s.
+"%s will be removed, and you will have to install it to use it again.",,,%s سيُزال، وعليك تنصيبه مرّة أخرى إن أردت استخدامه لاحقًا.
+(This could take a while),,,(قد يستغرق هذا بعض الوقت)
+",",",",",",،
+3D Graphics,Graphisme en 3 dimensions,3D-Grafik,الرّسوميّات ثلاثيّة الأبعاد
+"A list of applications to use, overriding the system defined ones.",,,قائمة التطبيقات لكي تُستخدم، متجاوزة تلك المعرّفة في النظام.
+A list of compatible projects,Une liste de projets compatibles,Eine Liste kompatibler Projekte,قائمة من المشاريع المتوافقة
+A list of official repositories that should be considered free software,Une liste de dépôts officiels qui doivent être considérés comme contenant des logiciels libres,"Eine Liste von offiziellen Softwarequellen, die als freie Software gelten sollen",قائمة المصادر الرسمية كي تُعتبر برمجيات حرة
+A list of official repositories that should not be considered 3rd party,Une liste de dépôts officiels qui ne doivent pas être considérés comme tierces parties,"Eine Liste von offiziellen Softwarequellen, die nicht als Drittanbieter angesehen werden sollten",قائمة المصادر الرسمية لكي لا تُعتبر طرفا ثالثا
+A list of popular applications,,,قائمة للتطبيقات الشائعة
+"A major upgrade, with new features and added polish.","Une mise à niveau majeure, avec de nouvelles fonctionnalités et plus belle.",Eine größere Aktualisierung mit neuen Funktionen und überarbeiteter Oberfläche.,ترقية رئيسية فيها مزايا جديدة وتحسينات.
+A new version of %s is available to install,Une nouvelle version de %s est disponible à l’installation,Eine neue Version von %s steht zur Installation bereit,توجد إصدارة جديدة من %s متوفرة للتنصيب
+A nice way to manage the software on your system.,,,طريقة لطيفة لإدارة البرمجيّات في النّظام.
+A restart is required for them to take effect.,,,إعادة التشغيل مطلوبة ليأخذ التحديث مفعوله.
+A$%.2f,,,A$%.2f
+Ability to spend real money in-game,,,إمكانية إنفاق أموال حقيقية داخل اللعبة
+About %s,,,عن %s
+Action,Action,Action,الإثارة
+Add to Application Folder,,,أضف إلى مجلّد التّطبيقات
+"Add, remove or update software on this computer","Ajouter, supprimer ou mettre à jour des applications sur cet ordinateur","Software auf diesem Rechner hinzufügen, entfernen oder aktualisieren",أضف، أزل أو حدّث البرمجيّات على هذا الحاسوب
+Add-ons,Extensions,Erweiterungen,الإضافات
+Adding this software repository will give you access to additional software and upgrades.,Ajouter ce dépôt de logiciels vous donne accès à des logiciels supplémentaires ainsi qu’aux mises à niveau.,Hinzufügen dieser Softwarequelle gewährt Ihnen Zugriff auf zusätzliche Software und Systemaktualisierungen.,إضافة مستودع البرمجيّات هذا سيُعطيك وصولًا إلى برمجيّات و ترقيات إضافيّة.
+Additional Fonts Required,Polices supplémentaires requises,Zusätzliche Schriftarten werden benötigt,خطوط إضافية مطلوبة
+Additional MIME Types Required,Types MIME supplémentaires requis,Es werden zusätzliche MIME-Typen benötigt,أنواع MIME أخرى مطلوبة
+Additional Multimedia Codecs Required,Codecs multimédia supplémentaires requis,Zusätzliche Multimedia-Codecs werden benötigt,مرمازات وسائط إضافية مطلوبة
+Additional Packages Required,Paquets logiciels supplémentaires requis,Zusätzliche Pakete werden benötigt,حزم إضافية مطلوبة
+Additional Printer Drivers Required,Pilotes d’imprimante supplémentaires requis,Zusätzliche Druckertreiber werden benötigt,مشغلات طابعات إضافية مطلوبة
+Additions,Ajouts,Hinzufügungen,المضاف
+Adventure,Aventure,Abenteuer,المغامرة
+Age Rating,Évaluation par âge,Altersfreigabe,تصنيف العمر
+All,Tout,Alle,الكلّ
+"All applications from %s will be removed, and you will have to re-install the source to use them again.",,,ستُزال كل التطبيقات من %s، وسيكون عليك إعادة تنصيب المصدر لاستعمالها ثانية.
+Allow access to the Software Repositories dialog,Autorise l’accès à la boîte de dialogue des dépôts de logiciels,Zugriff auf den Softwarequellen-Dialog erlauben,اسمح بالوصول إلى حوار مصادر البرمجيات
+An application,,,تطبيق ما
+An important OS update failed to be installed.,,,فشل تنصيب تحديث مهمّ لنظام التّشغيل.
+Application Updates,,,تحديثات التطبيقات
+Application is ready to be used.,,,التطبيق جاهز للاستخدام.
+Application manager for GNOME,,,مدير تطبيقات لجنوم
+Arcade,Arcade,Arkade,الممرّات
+Are you sure you want to purchase %s?,,,أتريد حقًّا شراء %s؟
+Are you sure you want to remove %s?,,,أتريد حقًّا إزالة %s؟
+Are you sure you want to remove the %s source?,,,أتريد حقا إزالة المصدر %s؟
+Art,Art,Kunst,الفنّ
+Artificial Intelligence,Intelligence artificielle,Künstliche Intelligenz,الذّكاء الاصطناعيّ
+Astronomy,Astronomie,Astronomie,الفلك
+Audio & Video,,,الصوتيات والمرئيات
+Audio Creation & Editing,Créations et modifications audio,Tonerzeugung und Tonbearbeitung,إنشاء الصوتيات وتحريرها
+Authenticate,,,استوثق
+Banner Designer,,,مصمّمات الواجهات
+Biography,Biographie,Biografie,السير الذاتية
+Blocks,Blocs,Blockspiele,الكُتل
+Board,Plateau,Brettspiele,الألواح
+Brief artistic nudity,,,عري فني بسيط
+C$%.2f,,,C$%.2f
+CN¥%.2f,,,CN¥%.2f
+Calendar,Agenda,Kalender,التّقويم
+Cancel,Annuler,Abbrechen,ألغِ
+Card,Cartes,Kartenspiele,الورق
+Cartoon characters in aggressive conflict,,,شخصيات كرتونية تتصراع بعدوانية
+Cartoon characters in unsafe situations,,,شخصيات كرتونية في مواقف خطرة
+Categories,,,الفئات
+Category,,,الفئة
+Category Featured,,,مُختارة
+Characters in aggressive conflict easily distinguishable from reality,,,الشخصيات الكرتونية وهي تتصارع بعدوانية يمكن تمييزها عن الواقع بسهولة
+Characters in unsafe situations easily distinguishable from reality,,,الشخصيات الكرتونية في مواقف خطرة يمكن تمييزها عن الواقع بسهولة
+Charges may apply,,,قد تُطبَّق الرّسوم
+Chat,Discussion,Unterhaltung,الدردشة
+Check Anyway,,,التمس بأيّ حال
+Check for updates,Rechercher des mises à jour,Nach Aktualisierungen suchen,التمس التّحديثات
+Checking for the latest application version,,,يتم التحقق من أحدث إصدار للتطبيق
+Checking for updates when using mobile broadband could cause you to incur charges,Rechercher des mises à jour avec votre connexion mobile pourrait faire l’objet d’une facturation,Die Suche nach Aktualisierungen über mobiles Breitband kann Ihnen Kosten verursachen,التماس التّحديثات عند الاتّصال بشبكة الجوّال قد يسبّب لك تحمّلًا للرّسوم
+Checking for updates while using mobile broadband could cause you to incur charges.,Rechercher des mises à jour avec votre connexion mobile peut faire l’objet d’une facturation.,Ein Suchen nach Aktualisierungen über mobiles Breitband kann Ihnen Kosten verursachen.,التماس التّحديثات أثناء الاتّصال بشبكة الجوّال قد يسبّب لك تحمّلًا للرّسوم.
+Chemistry,Chimie,Chemie,الكيمياء
+Choose an application:,,,اختر تطبيقًا:
+Click on items to select them,,,انقر عناصر لتحديدها
+Codecs,Codecs,Codecs,المِرمازات
+Codecs page,Page des Codecs,Seite mit Codecs,صفحة المِرمازات
+Comics,Bandes dessinées,Comics,القصص المصوّرة
+Communication & News,,,التواصل والأخبار
+Continue,,,تابع
+Could not create cache,Impossible de créer le cache,Zwischenspeicher konnte nicht erstellt werden,تعذّر إنشاء الخبيئة
+Database,Base de données,Datenbank,قواعد البيانات
+Dead human remains that are exposed to the elements,,,بقايا بشرية ميتة تتعرض للعناصر
+Debuggers,Débogueurs,Fehlerdiagnose,المنقّحات
+Depictions of bloodshed and the mutilation of body parts,,,تصوير لسفك الدماء والتمثيل بأجزاء الجسد
+Depictions of modern-day human desecration,,,تصوير تدنيس الإنسان الحديث
+Depictions of modern-day slavery,,,تصوير الرق المعاصر
+Depictions of realistic characters in aggressive conflict,,,تصوير شخصيات واقعية تتصراع بعدوانية
+Depictions or references to historical desecration,,,تصوير أو إشارات تدنيس تاريخية
+Depictions or references to historical slavery,,,تصوير أو إشارات إلى العبودية التاريخية
+Design the featured banners for GNOME Software,,,صمم صورة البرمجيات المختارة لتطبيق برمجيات جنوم
+Detailed errors from the package manager follow:,Voici les détails des erreurs du gestionnaire de paquets :,Siehe nachfolgend die detaillierten Fehlermeldungen von der Paketverwaltung:,فيما يلي الأعطال التّفصيليّة من مدير الحزم:
+Details,Détails,Details,التّفاصيل
+Details page,Page des descriptions,Seite mit Details,صفحة التّفاصيل
+Details panel,Panneau des descriptions,Seite mit Details,لوحة التّفاصيل
+Developer,,,المُطوِّر
+Developer Tools,,,أدوات التّطوير
+Device cannot be used during update.,L’appareil ne peut pas être utilisé pendant la mise à jour.,Gerät kann während der Aktualisierung nicht verwendet werden.,لا يمكن استخدام الجهاز أثناء التحديث.
+Direct references of prostitution,,,تلميحات استفزازية
+Disable,,,عطّل
+Disable “%s”?,,,أتريد تعطيل ”%s“؟
+Disabled,,,معطّل
+Disabling,,,يعطيل
+Discrimination designed to cause emotional harm,,,تمييز مفتعل للتسبب بضرر عاطفي
+Documentation,,,التوثيق
+Don’t Warn Again,,,لا تحذّرني ثانيةً
+Don’t like it,Passable,Mag ich nicht,لم يعجبني
+Downgrades,Retour à des versions antérieures,Herunterstufungen,المخفّض
+Download Size,Taille du téléchargement,Heruntergeladene Größe,حجم التنزيل
+Downloading %s %s,,,ينزل %s %s
+Downloading application page…,,,ينزّل تحديثات جديدة...
+Downloading application ratings…,,,ينزّل تحديثات جديدة...
+Downloading extra metadata files…,Téléchargement de fichiers de métadonnées supplémentaires…,Zusätzliche Metadaten-Dateien werden heruntergeladen …,ينزّل تحديثات جديدة...
+Downloading featured images…,,,ينزّل تحديثات جديدة...
+Downloading firmware update metadata…,,,ينزّل تحديثات جديدة...
+Downloading firmware update signature…,,,ينزّل تحديثات جديدة...
+Downloading firmware update…,,,ينزّل تحديثات جديدة...
+Downloading new updates…,,,ينزّل تحديثات جديدة...
+Downloading shell extension metadata…,,,ينزّل تحديثات جديدة...
+Downloading upgrade information…,,,ينزّل تحديثات جديدة...
+Editor’s Pick,,,انتقاءات المحرّرين
+Editor’s Picks,,,اختيارات المحرّرين
+Education & Science,,,التّعليم و العلوم
+Email address,,,البريد الإلكتروني
+Emulators,Émulateurs,Emulatoren,المحاكيات
+Enable,Activer,Aktivieren,فعّل
+Enable Third Party Software Repositories?,Activer les dépôts logiciels tiers ?,Sollen Softwarequellen von Drittanbietern aktiviert werden?,أأفعّل مستودعات برمجيات من طرف ثالث؟
+Enable Third-Party Software Repository?,Activer les dépôts logiciels tiers ?,Soll die Softwarequelle von Drittanbietern aktiviert werden?,أأفعّل مستودعات برمجيات من طرف ثالث؟
+Enable and Install,,,فعّل و نصّب
+Enabled,,,مفعّل
+Enabling,,,يفعّل
+Enter your one-time pin for two-factor authentication.,,,أدخل رمز الاستيثاق بمعاملين
+Examine Disk,,,افحص القرص
+"Explicit discrimination based on gender, sexuality, race or religion",,,تمييز صريح بناء على الجنس، أو السلاسة البشرية أو العقيدة
+Explicit references to specific brands or trademarked products,,,إشارات صريحة لعلامات تجارية ومنتجات معينة
+Extension Settings,,,إعدادات الامتدادات
+"Extensions are used at your own risk. If you have any system problems, it is recommended to disable them.",,,استعمل الامتدادات على مسؤوليتك الخاصة. إن واجهت أية مشاكل في النظام، فمن المستحسن أن تعطلها.
+FILENAME,NOMDEFICHIER,DATEINAME,اسمالملفّ
+Failed To Update,Échec de mise à jour,Aktualisierung fehlgeschlagen,فشل في التّحديث
+Failed to copy,,,فشل في التّحديث
+Failed to find any search results,,,فشل إيجاد أي نتيجة بحث
+Failed to install file: not supported,,,الملف ليس مدعوما.
+Failed to install: not supported,,,الملف ليس مدعوما.
+Failed to load file,,,فشل تحميل الملف
+Failed to load image,Échec de chargement de l’image,Bild konnte nicht geladen werden,فشل في تحميل الصّورة
+Failed to parse command line arguments,Impossible d’analyser les paramètres de la ligne de commande,Befehlszeilenargumente konnten nicht gelesen werden,فشل في تحميل الصّورة
+Failed to save file,,,فشل حفظ الملف
+Featured,En vedette,Vorgestellt,مُختارة
+Featured %s,,,مُختارات %s
+Featured App,,,مُختارة
+Featured Application,,,تطبيق مُختار
+Fiction,Fiction,Fiktion,الخيال
+Finance,Finance,Finanzwesen,الماليّة
+Find in Software,Démarrer Logiciels,Software suchen,ابحث في «برمجيّات»
+Find out more…,,,اطّلع على المزيد…
+Five days ago,,,منذ خمسة أيّام
+Folder Name,,,اسم المجلّد
+Fonts,Polices,Schriftarten,الخطوط
+"For more information, visit %s.",,,معلومات أخرى
+Four days ago,,,منذ أربعة أيّام
+Free,,,حرة
+Free Software,,,برمجيات حرة
+GNOME Shell Extensions Repository,,,امتدادات الصدفة
+GNOME Software,,,برمجيّات جنوم
+GNOME Software Banner Designer,,,برمجيّات جنوم
+GNOME Software showcases featured and popular applications with useful descriptions and multiple screenshots per application. Applications can be found either through browsing the list of categories or by searching. It also allows you to update your system using an offline update.,,,يعرض «برمجيّات جنوم» التّطبيقات المُختارة والشّعبيّة بأوصاف مفيدة وعدّة لقطات شاشة لكلّ تطبيق. يمكن العثور على التّطبيقات من تصفّح قائمة الفئات أو بالبحث. يسمح لك «برمجيّات جنوم» أيضًا بتحديث النّظام باستخدام تحديث دون اتّصال.
+Gambling on random events using tokens or credits,,,مقامرة على أحداث عشوائية باستخدام عمل رمزية أو ائتمانات
+Gambling using real money,,,مقامرة باستخدام مال حقيقي
+Gambling using “play” money,,,مقامرة باستخدام مال ”ألعاب“
+Games,,,الألعاب
+Getting runtime source…,,,يُعدّ التّحديثات...
+"Give a short summary of your review, for example: “Great app, would recommend”.",,,"أعط للمراجعة ملخصا قصيرا، مثل: ""تطبيق رائع، سأنصح به الجميع""."
+Go back,Retourner en arrière,Zurück gehen,ارجع
+Go online to check for updates,Se connecter pour rechercher des mises à jour,"Gehen Sie online, um nach Aktualisierungen zu suchen",اتّصل بالإنترنت لالتماس التّحديثات
+Graphic depictions of desecration of human bodies,,,الرسوم البيانية لتدنيس الأجسام البشرية
+Graphic depictions of modern-day desecration,,,صور جرافيك لتدنيس العصر الحديث
+Graphic depictions of modern-day slavery,,,تصوير جرافيكي للعبودية الحديثة
+Graphic depictions of the act of adultery,,,تصوير جرافيك لفعل الزنا
+Graphic depictions of the act of prostitution,,,تصوير جرافيك لممارسة البغاء
+Graphic sexual behavior,,,سلوك جنسي رسومي
+Graphic sexual behavior between people of the same gender,,,السلوك الجنسي الجرافيكي بين الناس من نفس الجنس
+Graphic violence easily distinguishable from reality,,,العنف الرسومي سهل تفرقته عن الواقع
+Graphic violence involving cartoon characters,,,عنف رسومي لشخصيات كرتونية
+Graphic violence involving realistic characters,,,عنف رسومي لشخصيات واقعية
+Graphics & Photography,,,الرسومات والتّصوير
+Hardware Drivers,Pilotes matériel,Gerätetreiber,مشغلات العتاد
+Hate it,Détestable,Finde ich furchtbar,أكرهه
+Health,Santé,Gesundheit,الصحة
+History,Histoire,Geschichte,التاريخ
+I have an account already,,,لدي حساب بالفعل
+I have forgotten my password,,,نسيتُ كلمة السر
+I want to register for an account now,,,أريد تسجيل حساب الآن
+ID,ID,Kennung,المعرّف
+IDEs,EDI,Entwicklungsumgebungen,بيئات التطوير المتكاملة
+"If enabled, GNOME Software automatically downloads updates in the background and prompts the user to install them when ready.",,,إن فُعّل، سينزل «برمجيّات جنوم» التحديثات تلقائيا في الخلفية ويطلب من المستخدم تنصيبها عند جهوزها.
+Important OS and application updates are ready to be installed,,,تحديثات التّطبيقات ونظام التّشغيل المهمّة جاهزة لتُثبَّت
+"Includes performance, stability and security improvements.",,,يتضمّن تحسينات الأداء، والثّبات والأمن.
+Incompatible Software,Logiciels incompatibles,Nicht kompatible Software,برمجية غير متوافقة
+Indirect references to adultery,,,إشارات غير مباشرة إلى الزنا
+Indirect references to homosexuality,,,إشارات غير مباشرة إلى المثلية الجنسية
+Indirect references to prostitution,,,تلميحات استفزازية
+"Information about %s, as well as options for how to get a codec that can play this format can be found on the website.",,,المعلومات عنْ %s وخيارات طريقة الحصول على المِرماز الذي يمكنه تشغيل هذا النُسق موجودة في موقع الوِب.
+"Information about %s, as well as options for how to get a codec that can play this format might be found %s.","Des informations sur %s, ainsi que des options sur la façon d’obtenir un codec susceptible de lire ce format sont disponibles sur %s.","Informationen über %s sowie Möglichkeiten, einen Codec zu erhalten, der dieses Format wiedergeben kann, finden Sie %s.",المعلومات عنْ %s وخيارات طريقة الحصول على المرماز الذي يمكنه تشغيل هذه الصيغة قد تجدها %s.
+"Information about %s, as well as options for how to get a driver that supports this printer might be found %s.","Des informations sur %s, ainsi que des options sur la façon d’obtenir un pilote susceptible de prendre en charge cette imprimante sont disponibles sur %s.","Informationen über %s sowie Möglichkeiten, einen Treiber zu erhalten, der diesen Drucker unterstützt, finden Sie %s.",المعلومات عنْ %s وخيارات طريقة الحصول على المشغلات الذي يمكنه تشغيل هذه الطابعة قد تجدها %s.
+"Information about %s, as well as options for how to get additional Plasma resources might be found %s.","Des informations sur %s, ainsi que des options sur la façon d’obtenir des ressources supplémentaires pour plasma sont disponibles sur %s.","Informationen über %s sowie Möglichkeiten, zusätzliche Plasma-Ressourcen zu erhalten, finden Sie %s.",المعلومات عنْ %s وخيارات طريقة الحصول على موارد بلازما الإضافية قد تجدها %s.
+"Information about %s, as well as options for how to get additional fonts might be found %s.","Des informations sur %s, ainsi que des options sur la façon d’obtenir des polices supplémentaires sont disponibles sur %s.","Informationen über %s sowie Möglichkeiten, zusätzliche Schriften zu erhalten, finden Sie %s.",المعلومات عنْ %s وخيارات طريقة الحصول على الخطوط الإضافية قد تجدها %s.
+"Information about %s, as well as options for how to get an application that can support this format might be found %s.",,,المعلومات عنْ %s وخيارات طريقة الحصول على التطبيقات التي توفّر هذه الصيغة قد تجدها %s.
+"Information about %s, as well as options for how to get missing applications might be found %s.",,,المعلومات عنْ %s وخيارات طريقة الحصول على التطبيقات الناقصة قد تجدها %s.
+Input Sources,Sources de saisie,Eingabequellen,مصادر الدخل
+Install,Installer,Installieren,نصّب
+Install Third-Party Software?,Installer le logiciel tiers ?,Soll die Software von Drittanbietern installiert werden?,أأنصّب برمجيات من طرف ثالث؟
+Install bundled applications for all users on the system where possible,Installe si possible les applications enveloppées sur le système pour tous les utilisateurs,"Mitgelieferte Anwendungen für alle Benutzer auf dem System installieren, sofern möglich",نصّب تطبيقات لكل مستخدم النظام متى ما امكن
+Install selected software on the system,Installer l’application sélectionnée sur le système,Gewählte Software auf dem System installieren,نصّب البرمجيّات المحدّدة على النّظام
+Install the application (using application ID),Installer l’application (à partir de son identifiant),Anwendung installieren (mit der Kennung der Anwendung),نصّب التّطبيق (باستخدام معرّفه)
+Installed,Installées,Installiert,مُنصّب
+Installed Size,Taille installée,Installierte Größe,حجم التنصيب
+Installed Updates,Mises à jour installées,Installierte Aktualisierungen,التّحديثات المنصّبة
+Installed on %s,Installées le %s,Installiert am %s,ثُبِّت في %s
+Installed page,Page installée,Installierte Seite,صفحة المنصّبة
+Installed panel,Panneau des installations,Seite der Installationen,لوحة المنصّبة
+Installing,Installation en cours,Installieren,ينصّب
+Install…,Installer…,Installieren …,نصّب…
+Internet access is required to check for updates.,,,الوصول بالإنترنت مطلوب لالتماس التّحديثات.
+Internet access was required but wasn’t available. Please make sure that you have internet access and try again.,L’accès à Internet est nécessaire mais n’est pas disponible. Assurez-vous d’avoir un accès à Internet puis réessayez.,"Internetzugang war erforderlich, aber nicht verfügbar. Bitte stellen Sie sicher, dass ein Internetzugang vorhanden ist und versuchen Sie es erneut.",الوصول إلى الإنترنت كان مطلوبا ولكنه لم يكن متاحا. من فضلك تأكد من اتصال الحاسوب بالإنترنت وحاول مجددا.
+It is recommended that you back up your data and files before upgrading.,,,من المستحسن أخذ نسخة احتياطية عن البيانات والملفات قبل الترقية.
+It is recommended that you install important updates now,,,من المستحسن تنصيب التحديثات المهمة الآن
+It is recommended that you upgrade to a more recent version.,,,من المستحسن الترقية إلى إصدارة أحدث.
+It may be illegal to install or use %s in some countries.,Il peut être contraire à la loi d’installer et d’utiliser %s dans certains pays.,"In manchen Ländern ist es möglicherweise illegal, %s zu installieren oder zu benutzen.",قد يكون ممنوعا تنصيب %s أو استخدامها في بعض الدول.
+It may be illegal to install or use this codec in some countries.,Il peut être contraire à la loi d’installer et d’utiliser ce codec dans certains pays.,"In manchen Ländern ist es möglicherweise illegal, diesen Codec zu installieren oder zu benutzen.",قد يكون ممنوعا تنصيب هذا المرماز أو استخدامه في بعض الدول.
+It’s OK,Acceptable,Ziemlich gut,لا بأس به
+Kids,Enfants,Kinderspiele,الأطفال
+Kissing between people of the same gender,,,تقبيل بين الناس من نفس الجنس
+Language Packs,Prise en charge linguistique,Sprachpakete,حزم اللغات
+Languages,Langues,Sprachen,اللّغات
+Last checked: %s,Dernière vérification : %s,Zuletzt überprüft: %s,آخر التماس: %s
+Launch,Lancer,Starten,أطلِق
+License,Licence,Lizenz,الرّخصة
+Lifestyle,Style de vie,Lifestyle,نمط الحياة
+Like it,Bonne,Mag ich,أعجبني
+Loading page,Chargement de la page,Seite wird geladen,يحمّل الصفحة
+Localization,Régionalisation,Lokalisierung,التوطين
+Localized in your Language,,,مُترجم إلى العربية
+Logic,Logique,Logik,المنطق
+Looking for new updates…,,,يلتمس التّحديثات...
+Love it,Excellente,Finde ich perfekt,أحببته
+MODE,MODE,MODUS,الوضع
+Math,Mathématiques,Mathematik,الرّياضيّات
+Mature or sexual humor,,,نكت جنسية/للكبار
+Meh,,,لا أهتم
+Merge documents,,,ادمج المستندات
+Mild or infrequent use of profanity,,,استخدام معتدل أو نادر للألفاظ النابية
+Mildly realistic characters in unsafe situations,,,شخصيات واقعية معتدلة في حالات غير آمنة
+Moderate page,,,صفحة الرقابة
+Moderate use of profanity,,,استعمال معتدل للألفاظ النابية
+Moderated chat functionality between users,,,ميزة مدارة دردشة بين المستخدمين
+More Information,Davantage d’informations,Weitere Informationen,مزيد من المعلومات
+More information,,,مزيد من المعلومات
+More…,,,أخرى…
+Music Players,Lecteurs de musique,Musikwiedergabe,مشغلات الموسيقى
+NZ$%.2f,,,NZ$%.2f
+Name,,,الاسم
+Negativity towards a specific group of people,,,السلبية تجاه مجموعة من الأشخاص
+Network Settings,,,إعدادات الشّبكة
+Never,,,أبدًا
+News,Nouvelles,Nachrichten,الأخبار
+No,,,لا
+No Additional Repositories,,,لا مستودعات إضافية
+No Application Data Found,,,لم يُعثر على بيانات التّطبيقات
+No Application Found,,,لم يُعثر على التّطبيق
+No Designs,,,مصمّمات الواجهات
+No Network,,,لا شبكة
+No Plasma resources are available for %s support.,Aucune ressource pour plasma n’est disponible pour prendre en charge %s.,Es sind keine Plasma-Ressourcen für die Unterstützung von %s verfügbar.,لا موارد بلازما متوفرة لدعم %s.
+No Software Repository Included,Aucun dépôt de logiciels inclus,Keine Softwarequelle eingeschlossen,لا مستودعات برمجيات مُضمَّنة
+No ability to spend money,,,لا إمكانية إنفاق أموال
+No addon codecs are available for the %s format.,Aucun codec au format %s n’est disponible pour l’extension.,Es sind keine zusätzlichen Codecs für das Format %s verfügbar.,لا إضافات مِرمازات متوفّرة للنُسق %s.
+No advertising of any kind,,,لا إعلانات من أي نوع
+No applications are available for %s support.,,,لا تطبيقات متوفرة لدعم %s.
+No applications are available that provide the file %s.,,,لا تطبيقات متوفرة توفّر الملف %s.
+No bloodshed,,,لا إراقة دماء
+No cartoon violence,,,لا عنف كرتوني
+No details were available for this rating.,,,لا ااوفر أي تفاصيل لهذا التصنيف.
+No discriminatory language of any kind,,,لا لغة متحيزة من أي نوع
+No fantasy violence,,,لا عنف خيالي
+No fonts are available for the %s script support.,Aucune police n’est disponible pour la prise en charge du script %s.,Es sind keine Schriftarten für die Unterstützung des %s-Schriftsystems verfügbar.,لا خطوط متوفّرة لدعم نظام الكتابة %s.
+No gambling of any kind,,,لا مقامرة من أي نوع
+No inappropriate humor,,,لا فكاهة مبتذلة
+No nudity of any sort,,,لا عري من أي نوع
+No printer drivers are available for %s.,Aucun pilote d’imprimante n’est disponible pour %s.,Es sind keine Druckertreiber für %s verfügbar.,لا مشغلات طابعات متوفرة ل‍%s.
+No profanity of any kind,,,لا ألفاظ نابية من أي نوع
+No realistic violence,,,لا عنف واقعي
+No references or depictions of sexual nature,,,لا إشارات أو تصوير للجنس
+No references to adultery,,,إشارات منتجات التبغ
+No references to alcohol,,,لا إشارات لمشروبات كحولية
+No references to desecration,,,إشارات أو تصوير للجنس
+No references to homosexuality,,,لا توجد إشارات إلى المثلية الجنسية
+No references to illicit drugs,,,لا إشارات لمخدرات غير مشروعة
+No references to prostitution,,,إشارات أو تصوير للجنس
+No references to slavery,,,لا إشارات إلى العبودية
+No screenshot provided,,,لا لقطة شاشة
+No sexual violence,,,لا عنف جنسي
+No sexualized characters,,,بدون شخصيات جنسية
+No sharing of physical location to other users,,,مشاركة الموقع الفيزيائي مع بقية المستخدمين
+No sharing of social network usernames or email addresses,,,لا مشاركة لأسماء حسابات شبكات التواصل أو عناوين البريد
+No sharing of user information with 3rd parties,,,لا مشاركة لمعلومات المستخدم مع أطراف ثالثة
+No update description available.,Aucune description de la mise à jour n’a été fournie.,Es stehen keine Details zur Aktualisierung bereit.,لا وصف متوفّر للتّحديث.
+No updates have been installed on this system.,,,لا تحديثات منصّبة في النظام
+No visible dead human remains,,,لا توجد رفات بشرية ميتة
+No way to chat with other users,,,لا إمكانية للدردشة مع مستخدمين آخرين
+No way to talk with other users,,,لا إمكانية للحديث مع مستخدمين آخرين
+Non-free applications show a warning dialog before install,Les applications non libres affichent un avertissement avant installation,"Unfreie Anwendungen zeigen einen Warnhinweis, bevor sie installiert werden können",تعرض التطبيقات غير الحرة تحذيرا قبل تنصيبها
+Not Now,Pas maintenant,Jetzt nicht,ليس الآن
+Not enough disk space — free up some space and try again,,,لم تبق مساحة حرة في القرص. من فضلك أفرغ بعض المساحة وحاول مجددا.
+OS Updates,,,تحديثات لنظام التّشغيل
+OS Upgrade,,,تحديثات لنظام التّشغيل
+OS updates are now installed,,,نصّبت تحديثات نظام التشغيل
+Offer upgrades for pre-releases,Propose des mises à niveau pour les versions à l’essai,Systemaktualisierungen für Vorab-Veröffentlichungen anbieten,يوفّر ترقيات لنسخ ما قبل الإصدار
+"Once reported, a review will be hidden until it has been checked by an administrator.","Une fois envoyée, l’appréciation sera masquée jusqu’à ce que celle-ci ait été vérifiée par un administrateur.","Sobald eine Rezension gemeldet wurde, wird sie solange verdeckt bleiben, bis sie von einem Administrator geprüft worden ist.",ما إن تفعل ذلك، سيُخفى التقييم حتى يتحقق منه مدير.
+One week ago,,,منذ أسبوع
+Only use software repositories that you trust.,N’utilisez que les dépôts de logiciels auxquelles vous faites confiance.,"Verwenden Sie nur Softwarequellen, denen Sie vertrauen.",استخدم مستودعات البرمجيّات التي تثق بها فقط.
+Open AppStream File,,,افتح ملف AppStream
+Open a local package file,Ouvrir le fichier d’un paquet local,Ein lokales Paket öffnen,افتح ملفّ حزمة محليّة
+Operating System Updates Unavailable,,,تحديثات نظام التشغيل غير متاحة
+Other,Autres,Andere,أخرى
+Overtly sexualized human characters,,,شخصيات بشرية جنسية بشكل علني
+Overview page,Page d’aperçu,Übersichtsseite,صفحة النّظرة العامّة
+Overview panel,Panneau de vue d’ensemble,Übersichtsseite,لوحة النّظرة العامّة
+PIN,,,الرمز
+PKGNAME,NOMDEPAQUET,PAKETNAME,اسمالحزمة
+Password,,,كلمة السر
+Pending,En attente,Ausstehend,ينتظر
+Pending installation…,Installation en attente…,Ausstehende Installation …,على وشك التنصيب…
+Pending update…,Mise à jour en attente…,Ausstehende Aktualisierung …,على وشك التّحديث…
+Photography,Photographie,Fotografie,التّصوير
+Please choose a star rating,Veuillez choisir une appréciation,Bitte wählen Sie eine Sternchenbewertung,من فضلك اختر نجمة تقييمية
+Please enter a number from 1 to %u:,,,رجاء أدخل رقما من ١ إلى %u:
+Please take more time writing the review,Veuillez consacrer plus de temps à la rédaction de l’appréciation,Nehmen Sie sich bitte etwas mehr Zeit zum Schreiben der Rezension,من فضلك خُذ وقتك في كتابة المراجعة
+Politics,Politique,Politik,السياسة
+Post Review,,,نشر مراجعة
+Prefer local file sources to AppStream,Préférer les sources des fichiers locaux à AppStream,Lokale Quelldateien dem AppStream vorziehen,فضّل مصادر الملفّات المحليّة على AppStream
+Prepare %s,Préparation de %s,%s vorbereiten,حضّر %s
+Product placement,,,إشهار منتجات
+Productivity,,,الإنتاجية
+Prolonged nudity,,,العري لفترة طويلة
+Proprietary,Propriétaire,Proprietär,محتكرة
+Proprietary Software,,,برمجية محتكرة
+Provocative references or depictions,,,تلميحات استفزازية
+Public domain,,,ملكية عامة
+Purchase,,,اشترِ
+Quit the running instance,Quitter la session en cours,Die laufende Instanz beenden,أنهِ السيرورة الجارية
+Rape or other violent sexual behavior,,,اغتصاب أو سلوك جنسي عنيف
+Rating,,,التقييم
+Remove shortcut,,,أزل الاختصار
+Realistic bloodshed,,,إراقة الدماء حقيقة
+Recent Releases,,,الإصدارات الحديثة
+Recently installed updates are available to review,Les mises à jour récemment installées sont maintenant consultables,Kürzlich installierte Aktualisierungen stehen für Bewertungen zur Verfügung,التطبيقات المنصبة حديثًا متاحة للمراجعة
+Recommended Audio & Video Applications,,,التّطبيقات الصّوتيّة والمرئية المُزكّاة
+Recommended Games,,,الألعاب المُزكّاة
+Recommended Graphics Applications,,,التّطبيقات الرّسوميّة المُزكّاة
+Recommended Productivity Applications,,,التّطبيقات الإنتاجيّة المُزكّاة
+Reference,,,المراجع
+References to alcoholic beverages,,,إشارات لمشروبات كحولية
+References to illicit drugs,,,إشارات لمخدرات غير مشروعة
+References to tobacco products,,,إشارات منتجات التبغ
+Release Activity,,,نشاط الإصدارات
+Removals,Suppressions,Entfernungen,المزال
+Remove,Supprimer,Entfernen,أزل
+Remove “%s”?,,,أتريد إزالة ”%s“؟
+Removed,,,مُزال
+Remove…,Supprimer…,Entfernen …,أزل...
+Removing,Suppression en cours,Entfernen,يزيل
+Removing…,Suppression en cours…,Wird entfernt …,يزيل…
+Report,,,أبلغ
+Report Review?,Signaler l’appréciation ?,Rezension melden?,أأبلغ عن المراجعة؟
+Report…,Signaler…,Melden …,أبلغ...
+Requires Restart,Redémarrage nécessaire,Neustart erforderlich,يتطلب إعادة التشغيل
+Restart,Redémarrer,Neustart,أعد التشغيل
+Restart & Install,,,أعد التشغيل ونصّب
+Restart & Update,,,أعد التشغيل و حدّث
+Restart & Install,,,أعد التشغيل ونصّب
+Restart Now,,,أعِد التشغيل الآن
+Review,Consulter,Ansehen,راجع
+Reviews,Évaluations,Rezensionen,المراجعات
+Reviews with karma less than this number will not be shown.,Les appréciations dont le score est inférieur à cette valeur seront masquées.,Rezensionen mit einem Karma unterhalb der angegebenen Punktezahl werden nicht angezeigt.,التقييمات ذات نقاط السلوك الأقل من هذا العدد لن تظهر.
+Robotics,Robotique,Robotik,الروبوتات
+Role Playing,Jeux de rôle,Rollenspiele,لعب الأدوار
+SEARCH,RECHERCHER,SUCHE,البحث
+Sandboxed,,,معزولة
+Scanning,Scan,Scannen,المسح الضوئي
+Scantily clad human characters,,,يكتنفه الشخصيات البشرية
+Screenshot,Capture d’écran,Bildschirmfoto,لقطة شاشة
+Screenshot not available,Capture d’écran indisponible,Bildschirmfoto nicht verfügbar,لقطة الشّاشة غير متوفّرة
+Screenshot not found,Capture d’écran introuvable,Bildschirmfoto nicht gefunden,لم يُعثر على لقطة شاشة
+Screenshot not valid,Capture d’écran non valide,Bildschirmfoto nicht gültig,لقطة الشّاشة غير صالحة
+Screenshot size not found,Taille de capture d’écran introuvable,Bildschirmfotogröße nicht gefunden,لم يُعثر على حجم لقطة شاشة
+Search,Rechercher,Suchen,ابحث
+Search for applications,Rechercher des applications,Nach Anwendungen suchen,ابحث عن تطبيقات
+Search page,Page de recherche,Suchseite,صفحة البحث
+Security Updates Pending,,,هناك تحديثات أمنية منتظرة
+Select,,,حدّد
+Select All,,,حدّد الكلّ
+Select None,,,ألغِ التّحديد
+Selected add-ons will be installed with the application.,,,الإضافات المحدّدة ستُثبَّت مع البرمجيّة.
+Setting up updates…,,,يُعدّ التّحديثات...
+Sexual references or depictions,,,إشارات أو تصوير للجنس
+Sharing diagnostic data that does not let others identify the user,,,مشاركة بيانات التشخيص التي لا تسمح للآخرين بتحديد المستخدم
+Sharing information that lets others identify the user,,,معلومات المستخدم تُشارك مع أطراف ثالثة
+Sharing physical location to other users,,,مشاركة الموقع الفيزيائي مع بقية المستخدمين
+Sharing social network usernames or email addresses,,,مشاركة أسماء حسابات شبكات التواصل أو عناوين البريد
+Shell Extensions,,,امتدادات الصدفة
+Show,,,اعرض
+Show Details,Afficher les détails,Details anzeigen,اعرض التّفاصيل
+Show application details (using application ID),Afficher les détails de l’application (à partir de son identifiant),Details zur Anwendung zeigen (mit der Kennung der Anwendung),اعرض تفاصيل التّطبيق (باستخدام معرّفه)
+Show application details (using package name),Afficher les détails de l’application (à partir de son nom de paquet),Details zur Anwendung zeigen (mit Hilfe des Paketnamens),اعرض تفاصيل التّطبيق (باستخدام اسم الحزمة)
+Show profiling information for the service,,,اعرض معلومات التّعرفة للخدمة
+Show some UI elements informing the user that an app is non-free,Affiche quelques éléments d’interface montrant à l’utilisateur qu’une application est non libre,"Elemente der grafischen Oberfläche anzeigen, die den Benutzer auf den unfreien Status einer Anwendung hinweisen",اعرض عناصر في الواجهة الرسومية تُخبر المستخدم بأن التطبيق غير حر
+Show star ratings next to applications,Afficher les notes à côté des applications,Sternchenbewertungen neben den Anwendungen anzeigen,اعرض النجوم التقيمية بجانب التطبيقات
+Show the folder management UI,,,اعرض واجهة إدارة المجلدات
+Show the prompt to install nonfree software repositories,,,اعرض محثًا لتنصيب مصادر البرمجيات غير الحرة
+Show verbose debugging information,,,اعرض معلومات تنقيح مطنبة
+Show version number,Afficher le numéro de version,Versionsnummer anzeigen,اعرض رقم الإصدارة
+Sign in automatically next time,,,لِجني تلقائيا المرة القادمة
+Six days ago,,,منذ ستة أيّام
+Slapstick humor,,,فكاهة تهريجية
+Software,Logiciels,Software,برمجيّات
+Software Install,Installation de l’application,Software-Installation,تنصيب البرمجيّات
+Software Repositories,Dépôts de logiciels,Softwarequellen,مستودعات البرمجيات
+Software Repository Identified,Dépôt de logiciels identifié,Softwarequelle identifiziert,تعرّفتُ على مستودع برمجيّات
+Software Repository Included,Dépôt de logiciels inclus,Softwarequelle eingeschlossen,مستودعات البرمجيات مُضمَّنة
+Software Updates Available,,,توجد تحديثات للبرمجيّات
+Software Updates Failed,Échec des mises à jour logicielles,Software-Aktualisierungen fehlgeschlagen,فشلت تحديثات البرمجيّات
+Software Upgrade Available,Des mises à niveau logicielles sont disponibles,Software-Systemaktualisierung verfügbar,ترقية البرمجيات متوفرة
+Software allows you to find and install new applications and system extensions and remove existing installed applications.,,,يسمح لك «برمجيّات» بالبحث عن تطبيقات جديدة وامتدادات للنّظام وإزالة التّطبيقات المنصّبة.
+Software catalog is being downloaded,,,ينزّل كتالوج البرمجيات
+Software catalog is being loaded,,,يحمّل كتالوج البرمجيات
+Software is up to date,,,البرمجيّات مُحدَّثة
+"Software lets you install all the software you need, all from one place. See our recommendations, browse the categories, or search for the applications you want.",,,يتيح لك «برمجيّات» تنصيب كلّ البرمجيّات التي تحتاج، ومِن مكان واحد. طالع تزكياتنا، تصفّح الفئات أو ابحث عن التّطبيقات التي تريد.
+"Some of the currently installed software is not compatible with %s. If you continue, the following will be automatically removed during the upgrade:",,,بعض البرمجيات المنصّبة حاليا غير متوافقة مع %s. إن تابعت فسيُزال الآتي تلقائيا أثناء الترقية:
+"Some of this software is proprietary and therefore has restrictions on use, sharing, and access to source code.",,,بعض البرمجيات محتكرة تضع قيودًا على استخدام الكود المصدري و الوصول إليه.
+"Sorry, something went wrong","Désolé, quelque chose n’a pas marché",Hoppla! Etwas ist schief gegangen,آسفون، هذا لم يعمل
+Sort,,,رتّب
+Source,Source,Quelle,المصدر
+Source: %s,Source : %s,Quelle: %s,المصدر: %s
+Spacing,,,فراغات
+Sports,Sports,Sport,الرّياضة
+"Start up mode: either ‘updates’, ‘updated’, ‘installed’ or ‘overview’","Mode de démarrage : peut être « updates » (mises à jour), « updated » (à jour), « installed » (installées) ou « overview » (vue d’ensemble)","Startmodus: entweder »updates« (Aktualisierungen), »updated« (aktualisiert), »installed« (installiert) oder »overview« (Übersicht)",وضع البدء: واحدٌ من 'updates'، أو 'updated'، أو 'installed' أو 'overview'
+Starting up…,,,يبدأ…
+Strategy,Stratégie,Strategie,الاستراتيجيّة
+Strong or frequent use of profanity,,,استعمال قوي أو متكرر للألفاظ النابية
+Subcategories filter menu,,,قائمة مرشح التصنيفات الفرعية
+Subcategories sorting menu,,,قائمة ترتيب التصنيفات الفرعية
+Summary,,,الملخص
+System Applications,,,تطبيقات النّظام
+System Integration,,,التكامل مع النظام
+System Upgrade Complete,Mise à niveau système terminée,Betriebssystemaktualisierung ist abgeschlossen,اكتملت ترقية النظان
+Text Editors,Éditeurs de texte,Texteditoren,محرّرات النّصوص
+The GNOME Project,Le projet GNOME,Das GNOME-Projekt,مشروع جنوم
+The URI that explains nonfree and proprietary software,L’URI qui fournit une explication sur les logiciels propriétaires et non libres,"Adresse, die unfreie und proprietäre Software erklärt",المسار الذي يشرح البرمجيات غير الحرة و المحتكرة
+The amount of space between children,,,المسافة بين الأولاد
+The application list is already loaded.,,,سبق تحميل قائمة التطبيقات
+The application was rated this way because it features:,,,صنف التطبيق على هذا النحو لاحتوائه على:
+The description is too long,La description est trop longue,Die Beschreibung ist zu lang,الوصف طويل جدا
+The description is too short,La description est trop courte,Die Beschreibung ist zu kurz,الوصف قصير جدا
+The last update check timestamp,L’horodatage de la dernière vérification des mises à jour,Zeitstempel der letzten Aktualisierungsanfrage,الختم الزمني لآخر التماس للتحديثات
+The last update timestamp,L’horodatage de la dernière mise à jour,Zeitstempel der letzten Aktualisierung,الختم الزمني لآخر تحديث
+The last upgrade notification timestamp,L’horodatage de la dernière notification de mise à jour,Zeitstempel der Benachrichtigung zur letzten Systemaktualisierung,الختم الزمني لآخر ترقية
+The licence URL to use when an application should be considered free software,L’URL de la licence à utiliser lorsqu’une application doit être considérée comme un logiciel libre,"Die Adresse der genutzten Lizenz für den Fall, dass die Software als frei angesehen werden kann",عنوان الرخصة لكي يُستخدم لاعتبار تطبيق ما برمجيةً حرة
+The license terms of this software are unknown.,,,شروط الترخيص لهذه البرمجية مجهولة.
+The minimum karma score for reviews,Le score minimum pour les appréciations,Mindest-Karma-Punktestand für Rezensionen,أدنى عدد لنقاط السلوك للتقييمات
+The server to use for application reviews,Le serveur à utiliser pour les appréciations de l’application,Server zur Verwendung von Anwendungsrezensionen,الخادوم لأخذ تقييمات التطبيقات منه
+The summary is too long,Le résumé est trop long,Die Zusammenfassung ist zu lang,الملخص طويل جدا
+The summary is too short,Le résumé est trop court,Die Zusammenfassung ist zu kurz,الملخص قصير جدا
+The system was already up to date.,Le système était déjà à jour.,Das System ist bereits auf dem neusten Stand.,النظام محدث بالفعل.
+"The timestamp of the first security update, cleared after update","L’horodatage de la première mise à jour de sécurité, effacé après mise à jour","Der Zeitstempel der ersten Sicherheitsaktualisierung, wird entfernt nach einer Aktualisierung",الختم الزمني لأول تحديث أمني، يُمحى بعد التحديث
+The update details,Détails de la mise à jour,Details zur Aktualisierung,تفاصيل التحديث
+The update was cancelled.,La mise à jour a été annulée.,Die Aktualisierung wurde abgebrochen.,أُلغِيَ التّحديث.
+There are no reviews to moderate,,,لا تقييمات لمراقبتها
+There wasn’t enough disk space. Please free up some space and try again.,Il n’y avait pas assez d’espace disque. Veuillez en libérer et réessayez.,Es ist nicht genug freier Speicher vorhanden. Bitte schaffen Sie ein bisschen Platz und versuchen Sie es anschließend erneut.,لم تبق مساحة حرة في القرص. من فضلك أفرغ بعض المساحة وحاول مجددا.
+There were security issues with the update. Please consult your software provider for more details.,Il y a eu un problème de sécurité avec la mise à jour. Veuillez consulter votre fournisseur de logiciels pour plus d’informations.,Es gab ein Sicherheitsproblem mit der Aktualisierung. Bitte wenden Sie sich an den Autor bzw. Hersteller des Programms für weitere Einzelheiten.,هناك مشاكل أمنية في هذا التحديث. من فضلك راجع موفّر البرمجية للمزيد من التفاصيل.
+This application can only be used when there is an active internet connection.,,,يمكن استخدام هذا التّطبيق فقط إن كان هناك اتّصال نشط بالإنترنت.
+This application does not include a software repository. It will not be updated with new versions.,,,لا يتضمّن هذا التّطبيق مستودع برمجيّات. لن يُحدَّث بالإصدارات الجديدة.
+"This application includes a software repository which provides updates, as well as access to other software.",,,يتضمّن هذا التّطبيق مستودع برمجيّات يوفّر التّحديثات إلى جانب الوصول إلى برمجيّات أخرى.
+"This is a list of compatible projects we should show such as GNOME, KDE and XFCE.","Voici une liste de projets compatibles à afficher, tels que GNOME, KDE ou XFCE.","Hier ist eine Liste kompatibler Projekte, die wir anzeigen sollten, z. B. GNOME, KDE und XFCE.",هذه قائمة المشاريع المتوافقة التي ستُعرض مثل جنوم، وكدي وXFCE.
+This means that it does not receive security updates.,,,هذا يعمي أنه لا يحصل على تحديثات أمنية.
+"This means that the software can be freely run, copied, distributed, studied and modified.",,,يعني هذا أنه يمكن تشغيل البرمجية، ونسخها، وتوزيعها، ودراستها وتعديلها بحرية تامة.
+This means that the software is owned by an individual or a company. There are often restrictions on its use and its source code cannot usually be accessed.,,,يعني هذا أن البرمجية مملوكة لشخص أو شركة. غالبا ما توجد تقييدات على استخدامها ولا يمكن الوصول إلى النص البرمجي لها.
+This software is already provided by your distribution and should not be replaced.,Cette application fait déjà partie de votre distribution et ne devrait pas être remplacée.,Diese Software wird bereits von Ihrer Distribution angeboten und sollte nicht ersetzt werden.,تُوفِّر توزيعتك هذه البرمجيّة بالفعل و يستحسن عدم استبدالها.
+This software repository must be enabled to continue installation.,Ce dépôt de logiciels doit être activé pour continuer l’installation.,"Diese Softwarequelle muss aktiviert werden, um mit der Installation fortzufahren.",يجب تفعيل مستودع البرمجيات هذا لمتابعة التنصيب.
+Three days ago,,,منذ ثلاثة أيّام
+Throw away changes,,,تجاهل التغييرات
+To continue you need to sign in to %s.,,,عليك الولوج إلى %s للمتابعة.
+To continue you need to sign in.,,,عليك الولوج للمتابعة.
+Top Rated,,,الأعلى تقييمًا
+Two days ago,,,منذ يومين
+Two weeks ago,,,منذ أسبوعان
+URL,,,المسار
+US$%.2f,,,US$%.2f
+Update All,Tout mettre à jour,Alle aktualisieren,حدّث الكل
+Unable to Find Requested Software,Impossible de trouver le logiciel demandé,Die angeforderte Software kann nicht gefunden werden,تعذّر إيجاد البرمجية المطلوبة
+Unable to download updates,Impossible de télécharger les mises à jour,Herunterladen von Aktualisierungen nicht möglich,فيما إذا كان يجب تنزيل تحديثات تلقائيا أم لا
+Unable to download updates: internet access was required but wasn’t available,,,الوصول إلى الإنترنت كان مطلوبا ولكنه لم يكن متاحا.
+Unable to download updates: not enough disk space,,,لم تكن هناك مساحة حرة في القرص.
+Unable to find “%s”,,,تعذر العثور على ”%s“
+Unable to get list of updates,Impossible d’obtenir la liste des mises à jour,Aktualisierungsliste konnte nicht aktualisiert werden,اتّصل بالإنترنت لالتماس التّحديثات
+Unable to install %s,Impossible d’installer %s,Installation von %s nicht möglich,فعّل ونصّب
+Unable to install %s as not supported,,,الملف ليس مدعوما.
+Unable to install %s: not enough disk space,Impossible d’installer %s : espace disque insuffisant,Installation von %s nicht möglich: Zu wenig freier Speicherplatz,لم تكن هناك مساحة حرة في القرص.
+Unable to install: internet access was required but wasn’t available,,,الوصول إلى الإنترنت كان مطلوبا ولكنه لم يكن متاحا.
+Unable to launch %s: %s is not installed,Impossible de lancer %s : %s n’est pas installé,Starten von %s fehlgeschlagen: %s ist nicht installiert,%s منصّب الآن
+Unable to update %s,Impossible de mettre à jour %s,Aktualisierung von %s fehlgeschlagen,فشل في التّحديث
+Unable to update %s: not enough disk space,Impossible de mettre à jour %s : espace disque insuffisant,Aktualisierung von %s nicht möglich: Zu wenig freier Speicherplatz,لم تكن هناك مساحة حرة في القرص.
+Unable to update: internet access was required but wasn’t available,,,الوصول إلى الإنترنت كان مطلوبا ولكنه لم يكن متاحا.
+Unable to upgrade to %s as download failed,,,فشلت ترقية %s.
+Unable to upgrade to %s: not enough disk space,Impossible de mettre à niveau vers %s : espace disque insuffisant,Aktualisierung von %s nicht möglich: Zu wenig freier Speicherplatz,لم تكن هناك مساحة حرة في القرص.
+Unable to upgrade: internet access was required but wasn’t available,,,الوصول إلى الإنترنت كان مطلوبا ولكنه لم يكن متاحا.
+Uncontrolled audio or video chat functionality between users,,,ميزة دردشة مرئية أو صوتية بين المستخدمين بلا إدارة
+Uncontrolled chat functionality between users,,,ميزة دردشة بين المستخدمين بلا إدارة
+Undo,,,تراجع
+Unknown,Inconnue,Unbekannt,مجهول
+Unknown Software License,,,رخصة البرمجية مجهولة
+Unrealistic bloodshed,,,إراقة الدماء غير حقيقة
+Unsaved changes,,,تغييرات غير محفوظة
+Update,Mettre à jour,Aktualisieren,حدّث
+Update All,,,حدّث الكل
+Updated,,,مُحدّث
+Updates,Mises à jour,Aktualisierungen,المحدّث
+Updates are automatically managed,Les mises à jour sont gérées automatiquement,Aktualisierungen werden automatisch verwaltet,التحديثات مُدارة تلقائية
+Updates have been installed,,,ثُبّتت التحديثات
+Updates page,Page des mises à jour,Seite mit Aktualisierungen,صفحة التّحديثات
+Updates panel,Panneau des mises à jour,Seite mit Aktualisierungen,لوحة التّحديثات
+Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;Store;,mises à jour;mise à niveau;sources;dépôts;préférences;installer;désinstaller;programmes;logiciels;applications;magasin;boutique;,Aktualisierungen;Systemaktualisierung;Quellen;Einstellungen;Installieren;Entfernen;Programm;Software;App;Store;Anwendung;Update;,تحديثات;ترقيات;مصادر;مستودعات;تفضيلات;تنصيب;إزالة;برنامج;برمجية;تطبيق;سوق;تحديث;ترقية;مصدر;مستودع;
+Upgrade to continue receiving security updates.,,,رقِّ لتستمر في الحصول على التحديثات الأمنية.
+Use of alcoholic beverages,,,استخدام مشروبات كحولية
+Use of illicit drugs,,,استخدام مخدرات غير مشروعة
+Use of tobacco products,,,استخدام منتجات التبغ
+User-to-user game interactions without chat functionality,,,تفاعل المستخدمين مع بعض في اللعبة بدون ميزة دردشة
+Users are encouraged to donate real money,,,يُشجّع المستخدمين على التبرع بنقود حقيقية
+Users are encouraged to purchase specific real-world items,,,يُشجّع المستخدمين على شراء عناصر معينة في العالم الحقيقي
+Utilities,,,الأدوات
+Vector Graphics,Dessin vectoriel,Vektorgrafiken,الرّسوميّات المتّجهيّة
+Version,,,الإصدار
+View,,,اعرض
+Viewers,Visionneurs,Betrachter,العارضات
+Visible dead human remains,,,بقايا بشرية ميتة ظاهرة
+Visit website,,,زُر موقع الوِبّ
+Vulgar or bathroom humor,,,فكاهة مبتذلة
+Was this review useful to you?,,,أكانت هذه المراجعة مفيدة؟
+Web Browsers,Navigateurs web,Internet-Browser,متصفّحات الوِب
+Welcome,,,مرحبًا
+Welcome to %s %s!,Bienvenue dans %s %s !,Willkommen zu %s %s!,أهلا في %s %s
+Welcome to Software,,,مرحبًا في «برمجيّات»
+"We’re sorry: the update failed to install. Please wait for another update and try again. If the problem persists, contact your software provider.","Nous sommes désolés : l’installation de la mise à jour à échoué. Veuillez attendre la prochaine mise à jour et réessayer. Si le problème persiste, contactez le fournisseur du logiciel.","Leider konnte die Aktualisierung nicht installiert werden. Bitte warten Sie auf eine neue Aktualisierung und versuchen Sie es erneut. Sollte das Problem bestehen bleiben, treten Sie bitte mit dem Autor/Hersteller in Kontakt.",آسفون، تعذّر تنصيب التحديث. من فضلك انتظر تحديثا آخر وحاول مجددا. إن استمرت المشكلة راسل موفّر البرمجية.
+What do you think of the app? Try to give reasons for your views.,,,كيف ترى التطبيق؟ حاول إعطاء أسباب لرأيك.
+When non-free applications are installed a warning dialog can be shown. This controls if that dialog is suppressed.,"Quand les applications non libres sont installées, un avertissement peut être affiché. Ceci contrôle cet affichage.","Wenn unfreie Anwendungen installiert werden, kann dieser Dialog angezeigt werden. Diese Einstellung legt fest, ob die Meldung unterdrückt werden soll.",يمكن عرض تحذير عند تنصيب تطبيقات غير حرة. يتحكم هذا في عرضه من عدمه.
+Whether it’s the very first run of GNOME Software,Indique s’il s’agit du premier lancement de Logiciels de GNOME,"Legt fest, ob es die erste Ausführung von GNOME-Software ist",فيما إذا كان هذا أول بدء ل‍«برمجيّات جنوم»
+Whether to automatically download updates,,,فيما إذا كان يجب تنزيل تحديثات تلقائيا أم لا
+Whether to automatically refresh when on a metered connection,Indique s’il faut réactualiser automatiquement sur les connexions avec quotas,"Legt fest, ob automatisch aktualisiert werden soll, wenn die Internetverbindung des Rechners volumenbasiert abgerechnet wird",فيما إذا كان يجب تنزيل تحديثات تلقائيا أم لا
+Whether to manage updates and upgrades in GNOME Software,Indique la façon de gérer les mises à jour et les mises à niveau de Logiciels de GNOME,"Legt fest, ob Aktualisierungen und Systemaktualisierungen von GNOME-Software verwaltet werden sollen",فيما إذا كان هذا أول بدء ل‍«برمجيّات جنوم»
+Word Processor,Traitement de texte,Textverarbeitung,معالِجات الكلمات
+Yes,,,نعم
+"Yesterday, %R",,,الأمس، %R
+"Yesterday, %l:%M %p",,,الأمس، %Ol:%OM %p
+"You can report reviews for abusive, rude, or discriminatory behavior.","Vous pouvez signaler les appréciations abusives, insultantes, ou discriminantes.","Sie können Rezensionen wegen abfälligem Verhalten, Diskriminierung oder Missbrauch melden.",يمكنك الإبلاغ عن المراجعات المسيئة أو الوقحة.
+You need internet access to write a review,Un accès à Internet est indispensable pour rédiger une évaluation,"Sie brauchen eine Verbindung mit dem Internet, um eine Bewertung abgeben zu können",تحتاج اتصالا بالإنترنت لكتابة تعليق
+Your OS is no longer supported.,,,لم يعد نظام تشغيلك مدعوما.
+About,,,عنْ
+Add,,,أضف
+Add shortcut,,,أضف اختصارا
+Add to Folder…,,,أضف إلى مجلّد…
+All,,,الكلّ
+Cancel,Annuler,Abbrechen,ألغِ
+Check Anyway,Rechercher quand même,Trotzdem prüfen,التمس بأيّ حال
+Continue,,,تابع
+Disable…,,,عطّل…
+Donate,Faire un don,Spenden,تبرّع
+Download,Télécharger,Herunterladen,نزّل
+Enable,Activer,Aktivieren,فعّل
+Install,Installer,Installieren,نصّب
+Installed,Installées,Installiert,المنصّبة
+Install…,Installer…,Installieren …,نصّب…
+Launch,,,أطلِق
+Learn More,En savoir plus,Mehr erfahren,اطلع على المزيد
+Let’s Go Shopping,,,فلنتسوّق
+Move to Folder…,,,انقل إلى مجلّد…
+Network Settings,Paramètres du réseau,Netzwerkeinstellungen,إعدادات الشّبكة
+Open,Ouvrir,Öffnen,افتح
+Post,,,انشر
+Quit,,,أنهِ
+Remove,Supprimer,Entfernen,أزل
+Remove All,,,أزل الكل
+Remove from Folder,,,أزل من المجلّد
+Remove…,,,أزل…
+Restart & Update,,,أعد التشغيل و حدّث
+Save,,,احفظ
+Show More,Afficher davantage,Mehr anzeigen,اعرض المزيد
+Software Repositories,Dépôts de logiciels,Softwarequellen,مستودعات البرمجيات
+Update,Mettre à jour,Aktualisieren,حدث
+Updates,Mises à jour,Aktualisierungen,التّحديثات
+Website,,,موقع الوِب
+Write a Review,,,اكتب مراجعة
+and,et,und,و

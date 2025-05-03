@@ -38,7 +38,7 @@
     }
 </script>
 
-<form class="newspaper-form" on:submit={handleSubmit} method="get">
+<form class="newspaper-form margin-center" on:submit={handleSubmit} method="get">
     <h1 class="title">ابحث في المعجم</h1>
     <input
         type="search"

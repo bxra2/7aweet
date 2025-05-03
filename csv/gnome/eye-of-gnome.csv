@@ -1,0 +1,324 @@
+%.1f (35mm film),%.1f (film 35mm),%.1f (35mm-Film),%I.1f (فيلم 35مم)
+(invalid Unicode),,,(يونيكود غير صحيح)
+%f: original filename,%f : nom de fichier original,%f: ursprünglicher Dateiname,‏‪%f‬‏: اسم الملف الأصلي
+%n: counter,%n : compteur,%n: Zähler,‏‪%n‬‏: عدّاد
+A trash for “%s” couldn’t be found. Do you want to remove this image permanently?,Impossible de trouver une corbeille pour « %s ». Voulez-vous supprimer définitivement cette image ?,Es konnte kein Papierkorb für »%s« gefunden werden. Wollen Sie das Bild unwiderruflich löschen?,تعذّر العثور على مهملات ”%s“. أتريد إزالة هذه الصورة بشكل دائم؟
+A value greater than 0 determines the seconds an image stays on screen until the next one is shown automatically. Zero disables the automatic browsing.,"Une valeur supérieure à zéro détermine la durée d’affichage d’une image à l’écran, en secondes, avant de passer automatiquement à l’image suivante. Zéro désactive la navigation automatique.","Ein Wert größer 0 legt die Sekunden fest, die ein Bild angezeigt wird, bevor automatisch auf das nächste weitergeschaltet wird. Null schaltet die automatische Weiterschaltung ab.",أي قيمة أكبر من 0 تحدّد الثّواني الذي تبقاها صورةٌ على الشّاشة حتّى عرض الصّورة التّالية تلقائيًّا. الصّفر يلغى التّصفح التّلقائي.
+Activate fullscreen mode with double-click,Passer en mode plein écran avec un double-clic,Vollbildmodus durch Doppelklick aktivieren,نشّط طور ملء الشاشة بالنقر المزدوج
+Active plugins,Greffons actifs,Aktivierte Erweiterungen,الملحقات النشِطة
+Actual size,Taille réelle,Tatsächliche Größe,الحجم الحقيقي
+All files,Tous les fichiers,Alle Dateien,كل الملفّات
+Allow zoom greater than 100% initially,Permettre un zoom initial supérieur à 100 %,Anfangsvergrößerung größer als 100% erlauben,اسمح بتقريب أكبر من 100% مبدئيًّا
+Aperture,Ouverture,Blende,قيمة الفتحة
+Aperture Value:,,,قيمة الفتحة:
+"Are you sure you want to move
+“%s” to the trash?","Voulez-vous vraiment mettre
+« %s » à la corbeille ?","Soll »%s« wirklich
+in den Papierkorb verschoben werden?","أتريد فعلًا نقل الصورة ”%s“
+إلى المهملات؟"
+"Are you sure you want to remove
+“%s” permanently?","Voulez-vous vraiment supprimer
+« %s » définitivement ?","Soll »%s«
+wirklich dauerhaft gelöscht werden?","أتريد فعلًا حذف الصورة ”%s“
+نهائيًا؟"
+As background,Comme l’arrière-plan,Als Hintergrund,كخلفية
+As check pattern,Comme un damier,Als Karo-Muster,كنمط التماس
+As custom color:,Couleur personnalisée :,Als benutzerdefinierte Farbe:,كلون مخصص:
+As custom color:,Couleur personnalisée :,Als benutzerdefinierte Farbe:,كلون مخصص:
+At least two file names are equal.,Au moins deux noms de fichiers sont identiques.,Mindestens zwei Dateinamen sind gleich.,على الأقل هناك ملفان باسم واحد.
+Author:,,,المؤلف:
+Automatic orientation,Orientation automatique,Automatische Drehung des Bildes,توجه تلقائي
+Background,Arrière-plan,Hintergrund,خلفية
+Background Color,Couleur d’arrière-plan,Hintergrundfarbe,لون الخلفية
+Best fit,Taille idéale,Einpassen,أفضل ملاءمة
+Both,Les deux,Beide,كلاهما
+Browse and rotate images,Parcourir et pivoter les images,Bilder betrachten und drehen,تصفح و أدر الصور
+Browsing Images,Navigation parmi les images,Bilder durchsuchen,تصفح الصور
+Bytes:,,,بايتات:
+Center:,Centrer :,Zentriert:,مركز:
+Camera,Appareil photo,Kamera,كاميرا
+Camera Model:,,,طراز الكاميرا:
+Changes the visibility of the image gallery pane in the current window,Modifie la visibilité du volet de la galerie d’images dans la fenêtre actuelle,Ändert die Sichtbarkeit der Bildersammlungsleiste des aktuellen Fensters,تغيير رؤية لوح معرض الصور في النافذة الحالية
+Choose a folder,Choisissez un dossier,Ordner wählen,اختر مجلّدًا
+Close without Saving,Fermer sans enregistrer,Ohne Speichern schließen,أغلق دون حفظ
+Close all windows,Fermer toutes les fenêtres,Alle Fenster schließen,أغلق كل النوافذ
+Close main window without asking to save changes.,Ferme la fenêtre principale sans demander l’enregistrement des modifications.,Hauptfenster ohne Nachfrage zum Speichern der Änderungen schließen.,أغلق النافذة الرئيسية دون حفظ التغييرات.
+Close the current window,Fermer la fenêtre actuelle,Das aktuelle Fenster schließen,أغلق النافذة الحالية
+Color for Transparent Areas,Couleur pour les zones transparentes,Farbe für transparente Bereiche,لون المساحات الشفّافة
+Copyright:,,,حقوق النشر:
+Could not display help for Image Viewer,,,تعذّر عرض مساعدة عارض الصور
+Could not load image “%s”.,Impossible de charger l’image « %s ».,Bild »%s« konnte nicht geöffnet werden.,تعذّر تحميل الصورة ’%s‘.
+Could not save image “%s”.,Impossible d’enregistrer l’image « %s ».,Bild »%s« konnte nicht gespeichert werden.,تعذّر حفظ الصورة ’%s‘.
+Couldn’t access trash.,Impossible d’accéder à la corbeille.,Auf den Papierkorb konnte nicht zugegriffen werden.,تعذّر الوصول إلى المهملات.
+Couldn’t allocate memory for loading JPEG file,Impossible d’allouer de la mémoire pour le chargement du fichier JPEG,Speicher zum Laden der JPEG-Datei konnte nicht reserviert werden,تعذّر تخصيص ذاكرة لتحميل ملف JPEG
+Couldn’t create temporary file for saving: %s,Impossible de créer un fichier temporaire pour l’enregistrement : %s,Temporäre Datei zum Speichern konnte nicht angelegt werden: %s,تعذّر إنشاء ملف مؤقّت لحفظ: %s
+Couldn’t delete file,Impossible de supprimer le fichier,Datei konnte nicht gelöscht werden,تعذر حذف الملف
+Couldn’t retrieve image file,Impossible de retrouver le fichier image,Bilddatei konnte nicht geholt werden,تعذر جلب ملف الصورة
+Couldn’t retrieve image file information,Impossible de retrouver les informations du fichier image,Dateiinformationen konnten nicht geholt werden,تعذر جلب معلومات ملف الصورة
+Date,Date,Datum,التاريخ
+Date in statusbar,Date dans la barre d’état,Datum in Statusleiste,التاريخ في شريط الحالة
+Date/Time:,,,التّاريخ والوقت:
+Delay in seconds until showing the next image,Délai en secondes avant d’afficher l’image suivante,"Verzögerung in Sekunden, bis das nächste Bild angezeigt wird",التّأخير بالثّواني حتّى عرض الصّورة التّالية
+Description:,,,الوصف:
+Details,Détails,Details,التفاصيل
+"Determines how transparency should be indicated. Valid values are CHECKPATTERN, COLOR and NONE. If COLOR is chosen, then the trans-color key determines the color value used.","Détermine la manière dont la transparence doit être indiquée. Les valeurs valides sont CHECKPATTERN, COLOR et NONE. Si COLOR est choisi, alors la clé trans-color détermine la valeur de la couleur utilisée.","Legt fest, wie Transparenz dargestellt werden soll. Zulässige Werte: »CHECKPATTERN«, »COLOR« sowie »NONE«. Falls Sie »COLOR« wählen, legt der »transcolor«-Schlüssel fest, welche Farbe verwendet werden soll.",يحدد كيفيّة الإشارة للشّفافيّة. القيم الممكنة هي CHECKPATTERN و COLOR و NONE. إن اختيرت القيمة COLOR فسيحدد مفتاح transcolor قيمة اللّون المستخدم.
+Disable image gallery,Désactiver la galerie d’images,Bildersammlung deaktivieren,عطل معرض الصور
+Do not ask again during this session,Ne plus demander pendant cette session,Während der laufenden Sitzung nicht erneut fragen,لا تسأل ثانيا خلال هذه الجلسة
+EXIF not supported for this file format.,EXIF n’est pas pris en charge dans ce format de fichier.,EXIF wird für dieses Dateiformat nicht unterstützt.,إكسيف (EXIF) غير مدعوم لهذا النسق من الملفّات.
+Expand images to fit screen,Étendre les images pour remplir l’écran,Bild auf Bildschirmgröße bringen,وسع الصور لتلائم الشاشة
+East,Est,Ost,شرق
+Enlarge the image,Agrandit l’image,Das Bild vergrößern,كبّر الصورة
+Enter/Leave fullscreen,Quitter le plein écran,Vollbild ein- oder ausschalten,ادخل أو غادر ملء الشاشة
+Error launching System Settings:,Erreur de lancement des paramètres du système :,Fehler beim Aufruf der Systemeinstellungen:,حدث عطل أثناء بدء تفضيلات النظام:
+Error on deleting image %s,Erreur lors de la suppression de l’image %s,Fehler beim Löschen von Bild %s,خطأ أثناء حذف الصّورة %s
+"Error printing file:
+%s","Erreur lors de l’impression du fichier :
+%s","Fehler beim Drucken der Datei:
+%s","خطأ أثناء طباعة الملف:
+%s"
+Exposure,Durée d’exposition,Belichtung,زمن التعرض
+Exposure Time:,,,زمن التعرض:
+Extrapolate Image,Extrapoler l’image,Bild interpolieren,استوفي الصورة
+Eye of GNOME,Visionneur d’images,Eye of GNOME,عين جنوم
+File Name Preview,Aperçu du nom de fichier,Dateinamen-Vorschau,معاينة أسماء الملفّات
+File Path Specifications,Spécifications du chemin,Dateipfad-Angaben,مواصفات مسارات الملفّات
+File Size,Taille de fichier,Dateigröße,حجم الملف
+File format is unknown or unsupported,Le format de fichier est inconnu ou non pris en charge,Dateiformat ist unbekannt oder wird nicht unterstützt,نمط الملف مجهول أو غير مدعوم
+Flash:,,,فلاش:
+Focal Length,Distance focale,Brennweite,البعد البؤري
+Focal Length:,,,البعد البؤري:
+Folder,Dossier,Ordner,المجلد
+Folder:,,,المجلد:
+Fullscreen,Plein écran,Vollbild,ملء الشّاشة
+Fullscreen with double-click,Plein écran sur double-clic,Vollbildmodus durch Doppelklick,املأ الشاشة عند النقر المزدوج
+GNOME Image Viewer,,,عارض صور جنوم
+GPS Data,Données GPS,Standortdaten (GPS),بيانات GPS
+General,Général,Allgemein,عامّ
+Go to a random image in the folder,Afficher une image choisie au hasard dans le dossier,Zu einem zufälligen Bild im Ordner gehen,اذهب لصورة عشوائية في المجلد
+Go to the first image in the folder,Afficher la première image du dossier,Zum ersten Bild im Ordner gehen,اذهب للصورة الأولى في المجلد
+Go to the first image of the gallery,Affiche la première image de la galerie,Zum ersten Bild in der Sammlung gehen,اذهب للصورة الأولى في المعرض
+Go to the last image in the folder,Afficher la dernière image du dossier,Zum letzten Bild im Ordner gehen,اذهب للصورة الأخيرة في المجلد
+Go to the last image of the gallery,Affiche la dernière image de la galerie,Zum letzten Bild in der Sammlung gehen,اذهب للصورة الأخيرة في المعرض
+Go to the next image in the folder,Afficher la prochaine image du dossier,Zum nächsten Bild im Ordner gehen,اذهب للصورة التالية في المجلد
+Go to the next image of the gallery,Affiche la prochaine image de la galerie,Zum nächsten Bild in der Sammlung gehen,اذهب للصورة التالية في المعرض
+Go to the previous image in the folder,Afficher l’image précédente du dossier,Zum vorherigen Bild im Ordner gehen,اذهب للصّورة السّابقة في المجلد
+Go to the previous image of the gallery,Affiche l’image précédente de la galerie,Zum vorherigen Bild in der Sammlung gehen,اذهب للصّورة السّابقة في المعرض
+Height:,,,الارتفاع:
+Hide,Masquer,Verbergen,أخفِ
+Horizontal,Horizontal,Horizontal,أفقيا
+ISO,ISO,ISO,أيزو
+ISO Speed Rating:,,,ترتيب ISO للسرعة:
+"If activated and no image is loaded in the active window, the file chooser will display the user’s pictures folder using the XDG special user directories. If deactivated or the pictures folder has not been set up, it will show the current working directory.","Si activé et qu’il n’y a pas d’image chargée dans la fenêtre principale, le sélecteur de fichiers affiche le dossier des images de l’utilisateur en utilisant les répertoires utilisateurs spéciaux selon la norme XDG. Si désactivé ou si le répertoire des images n’est pas configuré, il affiche le répertoire de travail actuel.","Wenn dieser Schlüssel auf »Wahr« gesetzt ist und kein Bild im aktiven Fenster geladen ist, zeigt die Dateiauswahl den Bilderordner des Benutzers unter Verwendung der speziellen XDG-Benutzerordner. Wenn dieser Schlüssel auf »Falsch« gesetzt ist oder der Bilderordner nicht eingerichtet ist, wird der aktuelle Arbeitsordner angezeigt.",إذا فُعّل ولم تُحمّل أي صورة في النافذة النشطة فسيعرض مخير الملفات مجلد صور المستخدم باستخدام مجلدات XDG الخاصة. إذا عُطّل أو لم يكن مجلد الصور موجودا فسيستخدم المجلد الحالي.
+"If activated, Eye of GNOME won’t ask for confirmation when moving images to the trash. It will still ask if any of the files cannot be moved to the trash and would be deleted instead.","Si activé, Visionneur d’images ne demande pas de confirmation lorsque les images sont mises à la corbeille. Il demande toujours si un fichier ne peut être mis à la corbeille et devrait donc être directement supprimé.","Legt fest, ob Eye of GNOME nicht nach Bestätigung fragt, wenn Bilder in den Papierkorb verschoben werden. Es wird aber in jedem Fall nachgefragt, wenn das Bild nicht in den Papierkorb verschoben werden kann und stattdessen gelöscht wird.",إذا فُعّل فلن تسأل «عين جنوم» تأكيد نقل الصور إلى المهملات. لكن ستظل تسأل إذا تعذّر نقل أي ملف إلى المهملات وكان سيُحذف بدلا من هذا.
+"If activated, the detailed metadata list in the properties dialog will be moved to its own page in the dialog. This should make the dialog more usable on smaller screens, e.g. as used by netbooks. If disabled, the widget will be embedded on the “Metadata” page.",,,إذا فُعّل ستُنقل قائمة البيانات الفوقية المفصّلة في حوار الخصائص إلى صفحة مستقلة. سيجعل هذا الحوار مناسبا أكثر للشاشات الصغيرة مثل حواسيب النت. إذا عُطّل فستضمن القائمة في صفحة ”البيانات الفوقية“.
+"If the transparency key has the value COLOR, then this key determines the color which is used for indicating transparency.","Si la clé transparency a la valeur COLOR, alors cette clé détermine la couleur qui sera utilisée pour indiquer la transparence.","Falls der Transparenzschlüssel den Wert »COLOR« hat, legt dieser Schlüssel fest, welche Farbe zum Anzeigen der Transparenz verwendet werden soll.",إذا كان لمفتاح الشّفافيّة القيمة COLOR، فسيحدد هذا المفتاح اللّون الذي سيستخدم للإشارة إلى الشّفافيّة.
+If this is set to FALSE small images will not be stretched to fit into the screen initially.,"Si ceci est défini à FAUX, alors les petites images ne seront pas étirées pour remplir l’écran initialement.","Wenn dieser Wert auf FALSCH gesetzt ist, werden kleine Bilder anfangs nicht vergrößert, um auf den Bildschirm zu passen.","إذا عيّن هذا على أنّه ""خطأ"" فلن تمدّد الصّور الصّغيرة مبدئيًّا لملائمة الشّاشة."
+"If you don’t save, all your changes will be lost.","Si vous n’enregistrez pas, toutes vos modifications seront perdues.","Alle Änderungen werden verloren gehen, wenn Sie nicht speichern.",إذا لم تحفظ ستضيع جميع تغييراتك.
+"If you don’t save, your changes will be lost.","Si vous n’enregistrez pas, vos modifications seront perdues.","Alle Änderungen werden verloren gehen, wenn Sie nicht speichern.",إذا لم تحفظ ستضيع تغييراتك.
+Image,Image,Bild,صورة
+Image Data,Données de l’image,Bilddaten,بيانات الصّورة
+Image Enhancements,Améliorations de l’image,Bildverbesserungen,تحسينات الصور
+Image Properties,Propriétés de l’image,Bildeigenschaften,خصائص الصورة
+Image Properties,,,خصائص الصورة
+Image Settings,Paramètres de l’image,Bildeinstellungen,إعدادات الصورة
+Image Taking Conditions,Conditions de prise de l’image,Aufnahmebedingungen,ظروف أخذ الصّورة
+Image View,Vue Image,Bildansicht,عرض الصورة
+Image Viewer,,,عارض الصّور
+Image Viewer could not determine a supported writable file format based on the filename.,,,لم يتمكن عارض الصور من تعيين نمط صور مدعوم قابل للكتابة من اسم الملف.
+Image Zoom,Zoom de l’image,Bildvergrößerung,تقريب الصّورة
+Image Gallery,Galerie d’images,Bildersammlung,معرض الصور
+Image gallery pane position. Set to 0 for bottom; 1 for left; 2 for top; 3 for right.,Position du volet de la galerie d’images. Définir à 0 pour bas ; 1 pour gauche ; 2 pour haut ; 3 pour droite.,"Die Position der Bildersammlungsleiste. Gültige Werte sind: 0 (unten), 1 (links), 2 (oben), 3 (rechts)",مكان لوح معرض الصور. 0 للأسفل؛ 1 للجهة اليسرى؛ 2 للأعلى؛ 3 للجهة اليمني.
+Image loading failed.,Le chargement de l’image a échoué.,Laden des Bildes ist gescheitert.,فشل تحميل الصورة.
+Inches,Pouces,Zoll,بوصات
+Interpolate Image,Interpoler l’image,Bild interpolieren,استوفي الصورة
+Keywords:,,,الكلمات الأساسية:
+Leave fullscreen mode,Quitter le mode plein écran,Vollbildmodus verlassen,غادر ملء الشاشة
+List of active plugins. It doesn’t contain the “Location” of the active plugins. See the .eog-plugin file for obtaining the “Location” of a given plugin.,Liste des greffons actifs. Elle ne contient pas l’« emplacement » des greffons actifs. Référez-vous au fichier .eog-plugin pour obtenir l’« emplacement » d’un greffon donné.,"Liste aktivierter Erweiterungen. Sie enthält nicht den »Ort« aktiver Erweiterungen. Sehen Sie in der ».eog-plugin«-Datei einer Erweiterung nach, um den »Ort« (»Location«) zu erfahren.",قائمة الملحقات النشطة. لا تحتوي على قيمة ”المكان“ للملحقات النشطة. انظر ملف .eog-plugin لتحصل على ”مكان“ أي ملحق.
+Location:,,,المكان:
+Loop through the image sequence,Répéter la suite d’images,Endlosschleife durch die Bildabfolge,تّحلّق عبر تتالي الصّور
+Maker Note,Note du fabricant,Herstellernotizen,ملحوظة الصانع
+Metadata,,,البيانات الإضافية
+Metering,Mode de mesure,Messung,نمط القياس
+Metering Mode:,,,نمط القياس:
+Millimeters,Millimètres,Millimeter,ملي مترات
+Move to Trash,Mettre à la corbeille,In den Papierkorb verschieben,انقل إلى المهملات
+Name:,,,الاسم:
+Next,,,التّالية
+No image loaded.,Aucune image chargée.,Kein Bild geöffnet.,لم تحمّل صورة.
+No images found in “%s”.,Aucune image trouvée dans « %s ».,In »%s« konnten keine Bilder gefunden werden.,لا توجد صور في ’%s‘.
+None,Aucun,Keine,لا شيء
+North,Nord,Nord,شمال
+Open With,,,افتح باستخدام
+Open Folder,Ouvrir un dossier,Ordner öffnen,افتح مجلّدا
+Open Image,Ouvrir une image,Bild öffnen,افتح صورة
+Open with,,,افتح بـاستخدام
+Open an image file,Ouvrir un fichier image,Eine Bilddatei öffnen,افتح ملف صورة
+"Open in a single window, if multiple windows are open the first one is used","Ouvrir dans une seule fenêtre, si plusieurs fenêtres sont ouvertes, la première est utilisée","In einem einzelnen Fenster öffnen. Wenn mehrere Fenster geöffnet sind, wird das erste verwendet.",يفتح في نافذة فريدة، إن كانت عدة نوافذ مفتوحة فسيستعمل الأولى
+Open in fullscreen mode,Ouvrir en mode plein écran,Im Vollbildmodus anzeigen,افتح في نمط ملء الشاشة
+Open in slideshow mode,Ouvrir en mode diaporama,Als Diaschau anzeigen,اعرض في نمط عرض الشرائح
+Open the application manual,Ouvrir le manuel de cette application,Das Handbuch zu dieser Anwendung öffnen,افتح دليل استخدام التطبيق
+Open with Document Viewer,Ouvrir avec Visionneur de documents,Mit Dokumentenbetrachter öffnen,افتح في عارِض المستندات
+Opening image “%s”,Ouverture de l’image « %s »,Bild »%s« wird geöffnet,يفتح الصورة ”%s“
+Options,Options,Optionen,الخيارات
+Other,Autre,Andere,أخرى
+Page Setup,Mise en page,Seite einrichten,إعداد الصفحة
+Pause or resume the slideshow,Met en pause ou reprend le diaporama,Die Diaschau anhalten oder fortsetzen,ألبث أو استأنف عرض الشرائح
+Pause slideshow,Mettre en pause le diaporama,Diaschau unterbrechen,ألبث عرض الشرائح
+Picture;Slideshow;Graphics;,Image;Diaporama;Graphiques;Photographie;,Bild;Diaschau;Diashow;Grafik;,صورة;رسوميات;عرض شرائح;
+Please try a different file extension like .png or .jpg.,Essayez une extension de fichier différente telle que .png ou .jpg.,Bitte probieren Sie eine andere Dateierweiterung wie .png oder .jpg.,الرجاء اختيار نمط صور مختلف مثل .png أو .jpg.
+Plugins,Greffons,Erweiterungen,ملحقات
+Position,Position,Position,الموضع
+Preferences,Préférences,Einstellungen,التّفضيلات
+Preferences,Préférences,Einstellungen,التّفضيلات
+Preview,Aperçu avant impression,Vorschau,مُعاينة
+Previous,,,السّابقة
+Print the current image,Imprimer l’image actuelle,Das gewählte Bild drucken,اطبع الصورة الحالية
+Properties,Propriétés,Eigenschaften,خصائص
+Properties,Propriétés,Eigenschaften,الخصائص
+Reload Image,Recharger l’image,Bild neu laden,أعد تحميل الصّورة
+Reload current image,Recharge l’image en cours,Aktuelles Bild neu laden,أعد تحميل الصورة الحالية
+Rename from:,Renommer à partir de :,Umbenennen von:,غيّر الاسم من:
+Rotate Counterclockwise,Rotation antihoraire,Gegen den Uhrzeigersinn drehen,أدِر عكس عقارب الساعة
+Rotate clockwise,Rotation horaire,Im Uhrzeigersinn drehen,أدِر مع عقارب الساعة
+Rotate counterclockwise,Rotation antihoraire,Gegen den Uhrzeigersinn drehen,أدِر عكس عقارب الساعة
+Rotate the image 90 degrees to the left,Fait pivoter l’image de 90 degrés vers la gauche,Das Bild um 90 Grad nach links drehen,أدِر الصورة 90 درجة لليسار
+Rotate the image 90 degrees to the right,Fait pivoter l’image de 90 degrés vers la droite,Das Bild um 90 Grad nach rechts drehen,أدِر الصورة 90 درجة لليمين
+Rotation,Rotation,Drehung,الاستدارة
+Run “%s --help” to see a full list of available command line options.,Lancez « %s --help » pour voir la liste complète des options disponibles en ligne de commande.,Führen Sie »%s --help« für eine vollständige Liste der verfügbaren Optionen aus.,نفّذ ”%s --help“ لرؤية قائمة كاملة بخيارات سطر الأوامر المتوفرة.
+Select the images you want to save:,Sélectionnez les images que vous souhaitez enregistrer :,"Wählen Sie die Bilder, die Sie speichern möchten:",اختر الصور التي تريد حفظها:
+Side Pane,Panneau latéral,Seitenleiste,اللوحة الجانبية
+Status Bar,Barre d’état,Statusleiste,شريط الحالة
+Save As,Enregistrer sous,Speichern unter,احفظ باسم
+Save Image,Enregistrer l’image,Bild speichern,احفظ الصّورة
+Save As,Enregistrer sous,Speichern unter,احفظ باسم
+Save As…,Enregistrer sous…,Speichern unter …,احفظ باسم…
+Save changes to image “%s” before closing?,Voulez-vous enregistrer les modifications apportées à l’image « %s » avant de fermer ?,Sollen die Änderungen am Bild »%s« vor dem Schließen gespeichert werden?,أأحفظ التغييرات على الصورة ”%s“ قبل الإغلاق؟
+Save the image,Enregistrer l’image,Das Bild speichern,احفظ الصورة
+Save the image with a new file name,Enregistrer l’image sous un autre nom,Das Bild unter einem anderen Namen speichern,احفظ الصورة المحددة باسم ملف جديد
+Saving image locally…,Enregistrement de l’image en local…,Bild wird lokal gespeichert …,يحفظ الصورة محليا…
+Saving image “%s” (%u/%u),Enregistrement de l’image « %s » (%u/%u),Bild »%s« (%u/%u) wird gespeichert,يحفظ الصورة ‏”%s“ ‏(%Iu‏/%Iu)
+Scroll wheel zoom,Zoom à la molette de la souris,Vergrößerung per Mausrad,تحجيم بالعجلة
+Sequence,Suite,Abfolge,متتالية
+Set as Wallpaper,Définir comme papier peint,Als Hintergrund festlegen,اجعلها الخلفية
+Set the image as desktop background,Définir l’image comme arrière-plan du bureau,Das Bild als Hintergrundbild festlegen,اجعل الصورة خلفية سطح المكتب
+Show,Afficher,Anzeigen,اعرض
+Show Containing Folder,Afficher le dossier conteneur,Beinhaltenden Ordner anzeigen,اعرض المجلّد الذي يحوي الملف
+Show image properties dialog,,,اعرض حوار خصائص الصورة
+Show the application’s version,Afficher la version de l’application,Version der Anwendung anzeigen,أظهر نسخة التطبيق
+Show the current image in fullscreen mode,Affiche l’image actuelle en mode plein écran,Das momentane Bild im Vollbildmodus anzeigen,اعرض الصورة الحالية في نمط ملء الشاشة
+Show the folder which contains this file in the file manager,Affiche le dossier qui contient ce fichier dans le gestionnaire de fichiers,"Den Ordner, der diese Datei enthält, in der Dateiverwaltung anzeigen",اعرض المجلّد الذي يحوي هذا الملف في مدير الملفات
+Show/Hide the image gallery,Afficher/masquer la galerie d’images,Bildersammlung anzeigen/verbergen,أظهر أو أخفِ معرض الصور.
+Show/Hide the image gallery pane scroll buttons.,Afficher/masquer les boutons de défilement du volet de la galerie d’images.,Bildlaufknöpfe der Bildersammlungsleiste zeigen/verbergen.,أظهر\أخفِ أزرار لوحة معرض الصور.
+Show/Hide the image gallery pane.,Afficher/masquer le volet de la galerie d’images.,Bildersammlungsleiste anzeigen/verbergen.,أظهر\أخفِ لوحة معرض الصور.
+Show/Hide the sidebar,Afficher/masquer la barre latérale,Seitenleiste anzeigen/verbergen,أظهِر أو أخفِ الشريط الجانبي
+Show/Hide the window side pane.,Afficher/masquer le panneau latéral de la fenêtre.,Seitenleiste anzeigen/verbergen.,أظهر\أخفِ لوح النافذة الجانبي.
+Show/Hide the window statusbar.,Afficher/masquer la barre d’état de la fenêtre.,Statusleiste anzeigen/verbergen.,أظهر\أخفِ شريط حالة النّافذة.
+Shows the image date in the window statusbar,Affiche la date de l’image dans la barre d’état de la fenêtre,Datum des Bildes in der Statusleiste anzeigen,أظهرالتاريخ في شريط حالة النّافذة
+Shrink or enlarge the current image,,,صغّر أو كبّر الصورة الحالية
+Shrink the image,Réduit l’image,Das Bild verkleinern,صغّر الصورة
+Size,Taille,Größe,المقاس
+Slideshow,Diaporama,Diaschau,عرض شرائح
+Slideshow,Diaporama,Diaschau,عرض شرائح
+Smooth images when zoomed in,Lisser l’image lors du zoom avant,Bild bei Vergrößerung glätten,اجعل الصور ناعمة عند تقريبها
+Smooth images when zoomed out,Lisser l’image lors du zoom arrière,Bild bei Verkleinerung glätten,اجعل الصور ناعمة عند تبعيدها
+Some of the selected images can’t be moved to the trash and will be removed permanently. Are you sure you want to proceed?,Certaines des images sélectionnées ne peuvent pas être mises à la corbeille et vont être définitivement supprimées. Voulez-vous vraiment continuer ?,"Einige der zu löschenden Bilder können nicht in den Papierkorb verschoben werden und werden daher unwiderruflich gelöscht. Sind Sie sicher, dass Sie fortfahren wollen?",بعض الصورة المختارة لا يمكن نقلها إلى المهملات وستحذف بشكل دائم. أمتأكد أنك تريد المتابعة؟
+South,Sud,Süd,جنوب
+Start a new instance instead of reusing an existing one,Créer une nouvelle instance plutôt que d’en réutiliser une existante,"Eine neue Instanz starten, anstatt eine vorhandene zu verwenden",ابدأ سيرورة جديدا بدلا من استخدام الموجودة
+Start/Stop slideshow,Démarrer/arrêter le diaporama,Diaschau starten oder stoppen,ابدأ أو أوقف عرض شرائح
+Supported image files,Fichiers image pris en charge,Unterstützte Bilddateien,ملفات الصور المدعومة
+Tag,Étiquette,Attribut,وسم
+Taken on,Pris le,Aufgenommen am,أخذت على
+Temporary file creation failed.,Impossible de créer le fichier temporaire.,Erzeugung temporärer Datei gescheitert.,فشل إنشاء الملف المؤقّت.
+The GNOME image viewer.,,,عارِض صور جنوم.
+The given locations contain no images.,Les emplacements indiqués ne contiennent pas d’images.,Der angegebene Ort enthält keine Bilder.,الأمكنة المعطاة لا تحتوي على أية صور.
+The image whose printing properties will be set up,L’image dont les propriétés d’impression seront configurées,"Das Bild, dessen Druckoptionen eingestellt werden",الصورّة التي ستعد خصائص طباعتها
+"The image “%s” has been modified by an external application.
+Would you like to reload it?",,,"عدّل تطبيق خارجي الصورة ”%s“.
+أتريد إعادة تحميلها؟"
+"The image “%s” has been set as Desktop Background.
+Would you like to modify its appearance?",,,"لقد جعلت الصورة ”%s“ خلفية سطح المكتب.
+أتريد تغيير مظهرها؟"
+The information for the page where the image will be printed,Les informations de la page sur laquelle l’image sera imprimée,Wo soll das Bild auf der Seite gedruckt werden?,معلومات الصفحة حيث ستطبع الصورة
+"The multiplier to be applied when using the mouse scroll wheel for zooming. This value defines the zooming step used for each scroll event. For example, 0.05 results in a 5% zoom increment for each scroll event and 1.00 result in a 100% zoom increment.","Le multiplicateur à appliquer lors de l’utilisation de la molette de la souris pour zoomer. Cette valeur définit le pas de zoom utilisé pour chaque évènement de défilement. Par exemple, 0,05 permet un incrément de 5 % du zoom pour chaque évènement de défilement et 1,00 un incrément de 100 % du zoom.","Der anzuwendende Faktor, wenn mit dem Mausrad vergrößert werden soll. Dieser Wert definiert den Vergrößerungsschritt, der bei jedem Weiterschalten des Rades verwendet wird. 0.05 vergrößert die Ansicht des Bildes um 5%, 1.00 um 100%.",قيمة الضعف المطبقة عند استعمال عجلة الفأرة عند التحجيم. هذه القيمة تعرف الخطوة التحجيمية عند كل تدوير. مثلا، 0.05 تؤدي إلى 5% زيادة لكل تدوير، و 1.00 تؤدي إلى 100% زيادة.
+"This image contains multiple pages. Image Viewer displays only the first page.
+Do you want to open the image with the Document Viewer to see all pages?",,,"تحتوي هذه الصورة على أكثر من صفحة، لكن عارض الصور لن يعرض إلا الصفحة الأولى.
+أتريد فتح الصورة في عارض المستندات لرؤية كل الصفحات؟"
+"This image contains multiple pages. Image Viewer displays only the first page.
+You may want to install the Document Viewer to see all pages.",,,"تحتوي هذه الصورة على أكثر من صفحة، لكن عارض الصور لن يعرض إلا الصفحة الأولى.
+تحتاج إلى تثبيت عارض المستندات لرؤية كل الصفحات."
+Time,Heure,Zeit,الوقت
+To:,En :,Nach:,إلى:
+Transformation failed.,La transformation a échoué.,Transformation ist gescheitert.,فشل التحويل.
+Transformation on unloaded image.,Transformation impossible sur une image non chargée.,Transformation auf nicht geladenem Bild.,التحويل عند رفع صورة.
+Transparency color,Couleur de transparence,Transparenzfarbe,لون الشّفافيّة
+Transparency indicator,Indicateur de transparence,Transparenzanzeiger,مبيّن الشّفافيّة
+Transparent Parts,Parties transparentes,Transparente Bereiche,الأجزاء الشّفافة
+Trash images without asking,Mettre les images à la corbeille sans confirmation,Bilder ohne nachfragen löschen,أرسل الصور إلى المهملات دون سؤال
+Type,Type,Typ,النوع
+Type:,,,النوع:
+Unknown,Inconnu,Unbekannt,مجهول
+Use a custom background color,Définir une couleur d’arrière-plan personnalisée,Benutzerdefinierte Hintergrundfarbe verwenden,استخدم لون خلفية مخصص
+Value,Valeur,Wert,القيمة
+Vertical,Vertical,Vertikal,رأسيا
+Viewing a slideshow,Visionnage d’un diaporama en cours,Als Diaschau anzeigen,يعرض شرائح
+West,Ouest,West,غرب
+Whether the file chooser should show the user’s pictures folder if no images are loaded.,Indique si le sélecteur de fichiers doit afficher le dossier des images de l’utilisateur si aucune image n’est chargée.,"Legt fest, ob die Dateiauswahl den Bilderordner des Benutzers anzeigen soll, wenn keine Bilder geladen sind.",ما إذا كان مخير الملفات سيعرض مجلد صور المستخدم إذا لم تُحمّل أي صور.
+Whether the image gallery pane should be resizable.,Indique si le volet de la galerie d’images peut être redimensionné.,"Legt fest, ob die Größe der Bildersammlungsleiste angepasst werden kann.",ما إذا كان شريط معرض الصور قابلا للتحجيم.
+Whether the image should be extrapolated on zoom-in. This leads to blurry quality and is somewhat slower than non-extrapolated images.,Indique si l’image doit être extrapolée lors du zoom avant. Cela donne un rendu d’image flou et est plus lent que les images non extrapolées.,"Legt fest, ob das Bild beim Vergrößern interpoliert wird. Dies führt zu einer leicht verschwommenen Bildqualität und ist etwas langsamer als eine nicht interpolierte Darstellung.",فيما إذا يفترض استيفاء الصّورة عند تقريبها أم لا. يؤدي هذا لجودة أفضل لكنه أبطأ من الصّور غير المستوفاة.
+Whether the image should be interpolated on zoom-out. This leads to better quality but is somewhat slower than non-interpolated images.,Indique si l’image doit être interpolée lors du zoom arrière. Cela donne une meilleure qualité de rendu mais est plus lent que les images non interpolées.,"Legt fest, ob das Bild beim Verkleinern interpoliert wird. Dies führt zu einer besseren Bildqualität, ist jedoch etwas langsamer als eine nicht interpolierte Darstellung.",فيما إذا يفترض استيفاء الصّورة عند تبعيدها أم لا. يؤدي هذا لجودة أفضل لكنه أبطأ من الصّور غير المستوفاة.
+Whether the image should be rotated automatically based on EXIF orientation.,Indique si une image doit être pivotée automatiquement en se basant sur les informations d’orientation EXIF.,"Legt fest, ob das Bild automatisch auf Grund der EXIF-Information gedreht wird.",ما إذا كان يجب لف الصورة تلقائيًا بناء على توجه EXIF.
+Whether the metadata list in the properties dialog should have its own page.,,,ما إذا كانت قائمة البيانات الفوقية المفصّلة في صفحة منفصلة.
+Whether the scroll wheel should be used for zooming.,Indique si la molette de la souris doit être utilisée pour zoomer.,"Legt fest, ob das Mausrad zum Vergrößern verwendet wird.",ما إذا سيتم استعمال عجلة الفأرة للتقريب أم لا.
+Whether the sequence of images should be shown in an endless loop.,Indique si une suite d’images doit être affichée en boucle.,"Legt fest, ob die Bilder in einer Endlosschleife angezeigt werden.",فيما إذا يفترض عرض متتالية الصّور في حلقة لا نهائية.
+Width:,,,العرض:
+XMP Exif,XMP Exif,XMP-Exif,XMP Exif
+XMP IPTC,XMP IPTC,XMP-IPTC,XMP IPTC
+XMP Other,XMP autre,XMP-Sonstiges,‏XMP أخرى
+XMP Rights Management,XMP gestion des droits,XMP-Rechteverwaltung,إدارة حقوق XMP
+You do not have the permissions necessary to save the file.,Vous n’avez pas les permissions nécessaires pour enregistrer le fichier.,Sie haben nicht die notwendigen Schreibrechte zum Speichern der Datei.,لا تملك التصاريح الكافية لحفظ الملف.
+Zoom,Zoom,Ansichtsgröße,التقريب
+Zoom Out,Zoom arrière,Verkleinern,بعّد
+Zoom in,Zoom avant,Vergrößern,قرّب
+Zoom multiplier,Multiplicateur du zoom,Vergrößerungsfaktor,مضاعِف التقريب
+Zoom out,Zoom arrière,Verkleinern,بعّد
+[FILE…],[FICHIER…],[DATEI …],[ملف…]
+About Image Viewer,,,عن عارض الصّور
+Automatic orientation,Orientation automatique,Automatische Drehung des Bildes,توجه تلقائي
+Best Fit,Taille idéale,Einpassen,أفضل ملاءمة
+Best fit,Taille idéale,Einpassen,أفضل ملاءمة
+Bottom:,Bas :,Unten:,أسفل:
+Cancel,Annuler,Abbrechen,ألغِ
+Copy,Copier,Kopieren,انسخ
+Delete,Supprimer,Löschen,احذف
+Destination folder:,Dossier de destination :,Zielordner:,المجلد المقصد:
+Filename format:,Format du nom de fichier :,Dateinamen-Format:,صيغة اسم الملف:
+First Image,Première image,Erstes Bild,الصّورة الأولى
+Height:,Hauteur :,Höhe:,الارتفاع:
+Help,Aide,Hilfe,مساعدة
+Image Gallery,Galerie d’images,Bildersammlung,معرض الصور
+Keyboard Shortcuts,Raccourcis clavier,Tastenkürzel,اختصارات لوحة المفاتيح
+Last Image,Dernière image,Letztes Bild,الصّورة الأخيرة
+Leave Fullscreen,Quitter le plein écran,Vollbild verlassen,غادر ملء الشاشة
+Left:,Gauche :,Links:,يسار:
+Loop sequence,Suite en boucle,Endlosschleife,متتالية حلقيّة
+Next Image,Image suivante,Nächstes Bild,الصّورة التّالية
+Normal Size,Taille normale,Normale Größe,حجم عادي
+Open,Ouvrir,Öffnen,افتح
+Open Background Preferences,Ouvrir les préférences d’arrière-plan,Hintergrundeinstellungen öffnen,افتح تفضيلات الخلفية
+Open…,Ouvrir…,Öffnen …,افتح…
+Previous Image,Image précédente,Vorheriges Bild,الصّورة السّابقة
+Print…,Imprimer…,Drucken …,اطبع…
+Reload,Recharger,Neu laden,أعد التحميل
+Replace spaces with underscores,Remplacer les espaces par des soulignés,Leerzeichen durch Unterstriche ersetzen,استبدل الفراغات بشرطة تحتية
+Right:,Droite :,Rechts:,يمين:
+Rotate Clockwise,Rotation horaire,Im Uhrzeigersinn drehen,استدر مع عقارب الساعة
+Save,Enregistrer,Speichern,احفظ
+Scaling:,Mise à l’échelle :,Skalierung:,التحجيم:
+Start counter at:,Compter à partir de :,Zähler starten bei:,ابدأ العدّاد عند:
+Time between images:,Délai entre les images :,Zeit zwischen den Bildern:,المدة بين الصور:
+Top:,Haut :,Oben:,أعلى:
+Unit:,Unité :,Einheit:,الوحدة:
+Width:,Largeur :,Breite:,العرض:
+Yes,Oui,Ja,نعم
+Zoom In,Zoom avant,Vergrößern,قرّب
+as is,inchangé,wie bisher,كما هي

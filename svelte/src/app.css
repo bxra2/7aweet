@@ -216,6 +216,10 @@ nav a {
     justify-content: center;
     height: 100%;
 }
+.margin-center {
+    margin-top: 20%;
+  }
+  
 .lang-list {
     display: flex;
     justify-content: space-evenly;
@@ -474,7 +478,7 @@ nav a {
         display: none;
     }
 }
-@media only all and (max-width: 1200px) {
+/* @media only all and (max-width: 1200px) {
     .collumn {
         width: 31%;
     }
@@ -483,7 +487,7 @@ nav a {
     .collumn {
         width: 47%;
     }
-}
+} */
 @media only all and (max-width: 600px) {
     .collumn {
         width: 100%;

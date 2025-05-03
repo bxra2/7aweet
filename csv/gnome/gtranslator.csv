@@ -1,0 +1,306 @@
+
+%d fuzzy,,,%d مبهم
+%d untranslated,,,%d غير مُتَرجَم
+- Edit PO files,,,- حرر ملفات PO
+Anchor style:,,,طراز المرابط
+Autosave,,,احفظ تلقائيا
+Character set:,,,طقم المحارف
+Code language of the results:,,,رمز لغة النتائج:
+Configuration:,,,التوطين
+Contents,,,المحتويات
+Database:,,,الاسم
+Diff options:,,,المحتويات
+Enter message number:,,,اذهب للرسالة رقم:
+General,,,عام
+Information:,,,معلومات الطور
+Language Settings,,,إعدادات اللغة
+Language code:,,,رمز اللغة:
+Language:,,,إعدادات اللغة
+Line command:,,,معلومات الطور
+Log Message:,,,احفظ تلقائيا
+Original Text:,,,النص الأصلي
+Password:,,,المسار: %s
+Path: %s,,,المسار: %s
+Plural forms:,,,صيغ الجموع:
+Profile Information,,,معلومات الطور
+Profile name:,,,معلومات الطور
+Program command:,,,معلومات الطور
+Realm:,,,الاسم
+Scheme color:,,,طراز المرابط
+Source code,,,احفظ تلقائيا
+Team email:,,,بريد الفريق:
+Text Display,,,عرض النص
+Transfer encoding:,,,ترميز النقل:
+Translated Text:,,,النص المُتَرجَم
+Translator Information,,,معلومات المترجم
+Translator email:,,,معلومات المترجم
+Translator name:,,,معلومات المترجم
+Username:,,,الاسم
+Write your comments bellow:,,,اكتب تعليقاتك أسفل:
+Activate,,,نشّط
+About Gtranslator,,,عن مترجم‌ج
+Activate All,,,نشّط الكل
+Activate '%s',,,نشط '%s'
+Active,,,نشّط
+Active plugins,,,الملحقات النشطة
+All files,Tous les fichiers,Alle Dateien,كل الملفات
+Alternate Language,,,اللغة البديلة
+Assistant,,,الروسية
+Autosave files,,,احفظ تلقائيا كل
+Autosave interval,,,احفظ تلقائيا كل
+Available dictionaries,,,القواميس المتوفرة
+Available strategies,,,الاستراتيجيات المتوفرة
+Comment...,,,التعليق...
+Configure,,,اضبط
+Configure Plugin,,,اضبط الملحقة
+Charset:,,,طقم المحارف:
+Character Map,,,خريطة المحارف
+Character set,,,طقم المحارف
+Check spelling,Vérification orthographique,Rechtschreibung überprüfen,دقق الإملاء
+Check spelling,Vérification orthographique,Rechtschreibung prüfen,دقق الإملاء
+Clear the selected translation,,,امسح الترجمة المحددة
+Close without Saving,,,أغلق دون حفظ
+Close all open files,,,أغلق الملف الحالي
+Close document,,,أغلق المستند
+Close the current file,,,أغلق الملف الحالي
+Color scheme,,,مخططات الألوان
+Comment,Commentaire,Kommentar,التعليق
+Confirmation,Confirmation,Bestätigung,الكرواتية
+Conflicted,,,اضبط
+Context,,,السياق:
+Context:,,,السياق:
+Copy Message to Translation,,,انسخ الرسالة إلى الترجمة
+Copy original message contents to the translation field,,,انسخ محتويات الرسالة الأصلية إبى حقل الترجمة
+Copy the selected text,,,انسخ النص المحدد
+"Copyright © 1999-2008 Free Software Foundation, Inc.",,,حقوق النشر 1999-2008 لمؤسسة البرمجيات الحرة
+Current Developers,,,المطورون الحاليون
+Current: %d,,,الحالي: %Id
+Cut the selected text,,,قص النص المحدد
+Delete compiled GMO files,,,احذف ملفات GMO المُصرّفة
+Dictionary,,,قاموس
+Dictionary sources,,,قاموس
+Documents with unsaved changes:,,,المستندات التي تحتوي على تغييرات غير محفوظة:
+Documents,,,المستندات
+Double-click on the database to use,,,انقر مرتين على قاعدة البيانات التي تريد استخدامها
+Double-click on the matching strategy to use,,,انقر مرتين على استراتيجية المطابقة التي تريد استخدامها
+Double-click on the source to use,,,انقر مرتين على قاعدة البيانات التي تريد استخدامها
+Double-click on the word to look up,,,انقر مرتين على كلمة للبحث عنها
+Edit Comment,,,حرر التعليق
+Edit Header,Modifier l’en-tête,Kopfzeilen bearbeiten,حرّر الترويسة
+Edit gtranslator preferences,,,حرر خيارات مترجم‌ج
+Edit message comment,,,حرر تعليق الرسالة
+Editor,,,المحرر
+Editor font:,,,خط المحرر:
+Editor font,,,خط المحرر:
+Enabled,,,مفعّلة
+Encoding:,,,الترميز:
+Extracted comments:,,,التعليقات المستخلصة:
+Failed opening file '%s': %s,,,فشل فتح الملف '%s'‏: %s
+File closed,,,أُغلق الملف
+File saved.,,,أُغلق الملف
+Files,,,الملفات
+Files saved.,,,أُغلق الملف
+Find,Rechercher,Suchen,ابحث
+Fingerprint:,,,ابحث في:
+Format:,,,النسق:
+Fullscreen,,,ملء الشاشة
+Fuzzy,,,مبهم
+Gettext translation,Traduction gettext,Gettext-Übersetzung,ترجمة جتتكست
+Gettext translation template,Fichier modèle de traduction gettext,Gettext-Übersetzungsvorlage,قالب ترجمة جتتكست
+Go to Message,,,اذهب إلى الرسالة الأخيرة
+Go to the first message,,,اذهب إلى الرسالة الأولى
+Go to the last message,,,اذهب إلى الرسالة الأخيرة
+Go to the next fuzzy message,,,اذهب إلى الرسالة المبهمة التالية
+Go to the next fuzzy or untranslated message,,,اذهب إلى الرسالة غير المترجمة التالية
+Go to the next untranslated message,Aller au message non traduit suivant,Zur nächsten unübersetzten Zeichenkette springen,اذهب إلى الرسالة غير المترجمة التالية
+Go to the previous fuzzy message,,,اذهب إلى الرسالة المبهمة السابقة
+Go to the previous fuzzy or untranslated message,,,اذهب إلى الرسالة غير المترجمة السابقة
+Go to the previous untranslated message,Aller au message non traduit précédent,Zur vorherigen unübersetzten Zeichenkette springen,اذهب إلى الرسالة غير المترجمة السابقة
+Gtranslator,,,مترجم‌ج
+Gtranslator PO Editor,,,مترجم‌ج - محرر PO
+Gtranslator Preferences,,,تفضيلات مترجم‌ج
+Gtranslator Profile,,,طور مترجم‌ج
+Gtranslator Web Site,,,موقع مترجم‌ج
+Hostname:,,,اسم المشروع
+ID,,,المعرّف
+INS,,,إدراج
+"If true, automatically save files at specified intervals.","Si vrai, enregistre automatiquement les fichiers périodiquement.","Wenn wahr, so werden automatisch alle Dateien in festgelegten Intervallen abgespeichert.",احفظ الملف تلقائيا على فترات
+"If true, check the spelling of translated messages.","Si vrai, vérifie l’orthographe des messages traduits.","Wenn wahr, so wird die Rechtschreibung von übersetzten Zeichenketten geprüft.",اذهب إلى الرسالة غير المترجمة السابقة
+"If you don't save, all your changes will be permanently lost.",,,إذا لم تحفظ ستُفقد تغييراتك بشكل دائم.
+Insert Params,,,أدرج الوسوم
+Insert Tags,,,أدرج الوسوم
+Insert special characters just by clicking on them.,,,أدرج المحارف الخاة بمجرد النقر عليهم
+Insert the next param of the message,,,أدرج الوسم التالي في الرسالة
+Insert the next tag of the message,,,أدرج الوسم التالي في الرسالة
+Interface,,,الواجهة
+Jumps to a specific message,,,اذهب إلى رقم الرسالة المحدد
+Language code:,,,رمز اللغة:
+Language group email:,,,بريد مجموعة اللغة:
+Load an alternate language.,,,حمّل لغة بديلة
+Look up:,,,ابحث:
+Look up words in a dictionary.,,,ابحث عن الكلمات في قاموس.
+Make whitespace visible,Rendre les espaces visibles,Leerzeichen hervorheben,اجعل المسافات البيضاء مرئية
+Make whitespace visible,Rendre les espaces visibles,Leerzeichen hervorheben,اجعل المسافات البيضاء مرئية
+Match entire word only,,,طابق الكلمات الكاملة فقط
+Message Table,,,جدول الرسائل
+Message list sort order,Ordre de tri de la liste des messages,Sortierreihenfolge der Übersetzungsliste,لم يُعثر على الرسالة
+Message not found,,,لم يُعثر على الرسالة
+Missing,,,مفقود
+Missing: %s,,,مفقود
+Move back one message,,,اذهب للرسالة السابقة
+Move forward one message,,,اذهب للرسالة التالية
+Move the selected item on the toolbar,,,انقل العنصر المحدد على شريط الأدوات
+Name:,,,الاسم:
+Next Fuzzy or Untranslated,,,غير المترجمة التالية
+Next Fuzzy,,,المبهمة التالية
+Next Untranslated,,,غير المترجمة التالية
+No context available for source '%s',,,لا يتوفر سياق للمصدر '%s'
+No dictionary source available with name '%s',,,لا يوجد مصدر قاموس بالاسم '%s'
+OVR,,,استبدال
+Open a PO file,,,افتح ملفا
+Open file for alternate language,,,افتح ملفا باللغة البديلة
+Open file for translation,Ouvrir un fichier à traduire,Datei zum Übersetzen öffnen,افتح ملفا ليُترجم
+Original Text,,,النص الأصلي
+Original text,Texte original,Originaltext,النص الأصلي
+Others,,,أخرى
+Parameters detection and easy insertion.,,,اكتشاف الوسوم وإدراجها بسهولة
+Paste the contents of the clipboard,,,الصق محتويات الحافظة
+Paths:,,,المسارات:
+Place window in the fullscreen state.,,,ضع النافذة في وضع ملء الشاشة.
+Place window on fullscreen state,,,ضع النافذة في وضع ملء الشاشة
+Please check your installation.,,,من فضلك راجع تثبيتك.
+Please install %s to be able to diff the file,,,من فضلك ثبّت gedit لتتمكن من الاطلاع على الملف
+Please install %s to be able to show the file,,,من فضلك ثبّت gedit لتتمكن من الاطلاع على الملف
+Plugin,,,الملحقة
+Plugins,,,الملحقات
+Plural %d,Pluriel %d,Plural %d,الجمع %Id
+Po file revision date:,,,تاريخ مراجعة الملف:
+Pot file creation date:,,,تاريخ إنشاء الملف:
+Previous Fuzzy or Untranslated,,,غير المترجمة السابقة
+Previous Untranslated,,,غير المترجمة السابقة
+Previous Developers,,,المطورون السابقون
+Previous Fuzzy,,,المبهمة السابقة
+Profile,Profil,Profil,الأطوار
+Profiles,Profils,Profile,الأطوار
+Program name:,,,اسم المشروع
+Project,Projet,Projekt,المشروع
+Project Id version:,,,إصدارة معرّف المشروع:
+Question,,,سؤال
+Quit the program,,,أغلق البرنامج
+Redo last undone operation,,,أعِد آخر عملية تراجع عنها
+Remove fuzzy status when message is changed,Ôter l’état approximatif si le message est modifié,"Status »unklar« entfernen, wenn die Zeichenkette geändert wird",أزل حالة الإبهام إذا عُدّلت الرسالة
+Remove the selected item from the toolbar,,,احذف العنصر المحدد من شريط الأدوات
+Remove the selected toolbar,,,احذف شريط الأدوات المحدد
+Replace,Remplacer,Ersetzen,استبدل
+Replace All,,,استبدل الكل
+Replace All,Tout remplacer,Alle ersetzen,استبدل الكل
+Replace with:,,,استبدل ب‍:
+Report message bugs to:,,,أبلغ عن علل الرسائل إلى:
+Revert failed: %s,,,ملفّات محذوفة
+Select the documents you want to save:,,,اختر المستندات التي تريد حفظها:
+Subversion,,,سؤال
+Save all open files,,,احفظ نسحة محلية من الملف باسم...
+Save file as...,,,احفظ الملف باسم...
+"Save the changes to document ""%s"" before closing?",,,"أأحفظ التغييرات على المستند ""%s"" قبل غلقه؟"
+Save the current file,Enregistrer le fichier actuel,Die aktuelle Datei speichern,احفظ الملف الحالي
+Save the current file with another name,,,احفظ الملف الحالي باسم مختلف
+Save the diff file,,,احفظ الملف الحالي
+Saving has been disabled by the system administrator.,,,الحفظ عطّله مدير النظام.
+Search backwards,,,ابحث للخلف
+Search for and replace text,,,ابحث عن النص واستبدله
+Search for text,,,ابحث عن نص
+Separator,,,فاصل
+Show the Alternate Language panel,,,اللغة البديلة
+Show the Translation Memory panel,,,قالب ترجمة جتتكست
+Show the message in the source code.,,,أظهر جدول الرّسائل (يتطلب إعادة تشغيل مترجم‌ج)
+Show “%s”,,,"اعرض ""%s"""
+Similar words,,,الكلمات الشبيهة
+Special variable,,,متغيّر خاص
+Status,,,الحالة
+Subversion,,,سؤال
+Toolbar,,,شريط الأدوات
+Tag,,,وسم
+Tags detection and easy insertion.,,,اكتشاف الوسوم وإدراجها بسهولة
+There is an error in the message:,,,هناك رسالة خطأ في:
+There isn't any file loaded,,,لا ملفات مُحمّلة
+There was an error in database: %s,,,هناك رسالة خطأ في:
+There was an error recovering the database: %s,,,هناك رسالة خطأ في:
+Toggle Fuzzy Status,,,غيّر حالة الإبهام
+Toggle fuzzy status of a message,,,غيّر حالة إبهام الرسالة
+Toolbar Editor,,,محرر شريط الأدوات
+Total: %d translated,,,المجموع: %d مُتَرجَم
+Transfer encoding:,,,ترميز النقل:
+Translate and localize applications and libraries,Traduit et localise des programmes et des bibliothèques,Anwendungen und Bibliotheken übersetzen und an lokale Gegebenheiten anpassen,ترجم التطبيقات والمكتبات
+Translated,,,مُتَرجَم
+Translated Text,,,النص المُتَرجَم
+Translated text,Texte traduit,Übersetzter Text,النص المُتَرجَم
+Translation Memory,Mémoire de traductions,Übersetzungsspeicher,خط الترجمة:
+Translation file editing suite for localization of applications and libraries.,Suite d’édition de fichiers de traduction pour la localisation des applications et des bibliothèques.,Programm zum Bearbeiten von Übersetzungsdateien zur Lokalisierung von Programmen und Bibliotheken.,حزمة تحرير لملفات الترجمة لتوطين البرمجيات والمكتبات.
+Translator and Language,,,المترجم واللغة
+Translator's email:,,,بريد المترجم:
+Translator's name:,,,اسم المترجم:
+Unable to create a context,,,تعذّر إنشاء سياق
+Unable to find dictionary source,,,تعذّر العثور على مصدر القاموس
+Unable to find the object '%s' inside file %s.,,,تعذّر العثور على الملف %s.
+Unable to open ui file %s. Error: %s,,,تعذّر العثور على الملف %s.
+Undo last operation,,,تراجع عن آخر عملية
+Untranslated,,,غير مُتَرجَم
+Updated: %s,,,حدّث
+Use custom font,,,استخدم خطا خاصا
+Use custom font,,,استخدم خطا خاصا
+Use my options to complete the following entries:,,,استخدم خياراتي لإكمال هذه المُدخلات:
+Use only files with this name:,,,احفظ الملف الحالي باسم مختلف
+Warn if file contains fuzzy translations,Avertir si le fichier contient des traductions approximatives,"Warnen, wenn die Datei ungenaue Übersetzungen enthält",حذّر إذا احتوى الملف على ترجمات مبهمة
+About,,,عن
+About Plugin,,,عن الملحقة
+Alternate Language,,,اللغة البديلة
+Autosave files every,,,احفظ تلقائيا كل
+Commit,,,التعليق
+Contents,,,المحتويات
+Context,,,السياق:
+Deactivate All,,,عطّل الكل
+Delete Toolbar,,,احذف شريط الأدوات
+Delete compiled GMO files,,,احذف ملفات GMO المُصرّفة
+Documents,,,المستندات
+Edit,,,تحرير
+Email:,,,البريد:
+File,,,ملف
+First Message,,,الأولى
+Fullscreen,,,ملء الشاشة
+Go,,,اذهب
+Go to Message...,,,اذهب إلى...
+Header...,,,الترويسة...
+Help,,,مساعدة
+Highlight message syntax,Mettre en évidence la syntaxe du message,Syntax der Zeichenketten hervorheben,أبرز تركيب الرسالة
+Insert Params,,,أدرج الوسوم
+Insert Tags,,,أدرج الوسوم
+Language:,,,اللغة:
+Match case,,,طابق حالة الحرف
+Move on Toolbar,,,انقل على شريط الأدوات
+Name:,,,الاسم:
+Next Document,,,المستندات
+Next Message,,,الوسم التالي
+Next Param,,,الوسم التالي
+Next Tag,,,الوسم التالي
+Plural forms:,,,صيغ الجموع:
+Previous Document,,,المطورون السابقون
+Previous Message,,,غير المترجمة السابقة
+Recent Files,,,الملفات الحديثة
+Remove from Toolbar,,,احذف من شريط الأدوات
+Remove fuzzy status if message is changed,Ôter l’état approximatif si le message est modifié,"Status »Unklar« entfernen, wenn die Zeichenkette geändert wird",أزل حالة الإبهام إذا عُدّلت الرسالة
+Replace,Remplacer,Ersetzen,استبدل
+Save All,,,عطّل الكل
+Search,,,بحث
+Search for:,,,ابحث عن:
+Team email:,,,بريد الفريق:
+Translation Memory,,,خط الترجمة:
+Update,,,حدّث
+View,,,عرض
+Warn if PO file contains fuzzy translations,Avertir si le fichier .po contient des traductions approximatives,"Warnen, wenn die PO-Datei unklare Übersetzungen enthält",حذّر إذا احتوى الملف على ترجمات مبهمة
+Wrap around,,,لف
+minutes,,,دقائق
+gtkspell error: %s,,,خطأ gtkspell‏: %s
+gtranslator,,,مترجم‌ج
+gtranslator - %s,,,مترجم‌ج - %s
+gtranslator - *%s,,,مترجم‌ج - %s
+gtranslator highlight,,,إبراز مترجم‌ج

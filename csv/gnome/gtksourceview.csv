@@ -1,0 +1,450 @@
+
+.desktop,,,.desktop
+.ini,,,.ini
+ASP,,,ASP
+ASP Object,,,كائن ASP
+Ada,,,أدا
+Added line,,,السطر المضاف
+Anchor,,,مرساة
+Arbitrary base number,,,عدد اعتباطي للقاعدة
+Assertion,,,توكيد
+Assignment Left Hand Side,,,الجانب الأيسر من الإسناد
+Assignment Operator,,,عملية تعيين
+Assignment Right Hand Side,,,الجانب الأيمن من الإسناد
+Atom,,,ذرة
+Attribute Definition,,,تعريف الصفة
+Attribute Name,,,اسم الصفة
+Attribute Value,,,قيمة الصفة
+Attribute name,,,اسم الصفة
+Attribute value,,,قيمة الصفة
+Auto Indentation,,,تجويف النص للملإ آليا
+Autoconf Macro,,,ماكرو Autoconf
+BOZ Literal,,,رمز حرفي
+Background,,,الخلفية
+Background color,,,لون الخلفية
+Background set,,,الخلفية معينة
+Base-N Integer,,,قاعدة - ج عدد صحيح
+Base-N number,,,عدد قاعدته N
+Binary number,,,عدد ثنائي
+Block Elements,,,عصر وِحدة
+Blue based color scheme,Jeu de couleurs basé sur le bleu,Auf blau basierendes Farbschema,مخطط أزرق
+Body Font Name,,,اسم خطّ المتن
+Bold,,,سميك
+Bold set,,,سميك معين
+Boo,,,بو
+Boolean,,,منطقي
+Boolean Value,,,قيمة منطقية
+Boolean value,,,قيمة منطقية
+Built-in identifier,,,مُثبت الهوية مُضمن
+Builtin,,,مُضمَّن
+Builtin Command,,,أمر مُضمَّن
+Builtin Constant,,,ثابت مُضمَّن
+Builtin Function,,,دالة مُضمَّنة
+Builtin Object,,,عنصر مُضمَّن
+Builtin Variable,,,متغير مُضمَّن
+Builtin-function keyword,,,كلمة مفتاح لدالة مُضّمنة
+Bullet,,,نقطة
+C,,,سي
+C#,,,سي#
+C++,,,سي++
+C/C++/ObjC Header,,,ترويسة C/C++/ObjC
+CDATA delimiter,,,فاصلة التسجيلات
+CMake,,,CMake
+CSS,,,صفحات الطرز المتراصة
+Can redo,,,يمكنه الإعادة
+Can undo,,,يمكنه التراجع
+"Cannot create a regex for all the transitions, the syntax highlighting process will be slower than usual.
+The error was: %s","Impossible de créer une expression régulière pour toutes les transitions, la coloration syntaxique sera plus lente que normal.
+L’erreur est : %s","Regulärer Ausdruck konnte nicht für alle Umwandlungen erstellt werden. Syntax-Hervorhebung wird langsamer als gewohnt sein.
+Der Fehler war: %s","لا يمكن انشاء عبارة منتظمة من أجل كل الحالات الانتقالية، سيكون ابراز الصياغة أبطأ من المعتاد.
+الخطأ هو: %s"
+Category,,,فئة
+ChangeLog,,,سجب التغييرات
+Changed line,,,السطر المغير
+Character,,,محرف
+Classic,Classique,Klassisch,تقليدي
+Classic color scheme,Jeu de couleurs classique,Klassisches Farbschema,مخطط ألوان تقليدي
+Cobalt,Cobalt,Kobalt,كوبالت
+Code Block,,,لبنة كود
+Color,,,لون
+Color scheme used in the Kate text editor,Jeu de couleurs utilisé dans l’éditeur de texte Kate,Das im Kate-Texteditor verwendete Farbschema,تنسيق الألوان المستعمل في محرر النصوص Kate
+Color scheme using Tango color palette,Jeu de couleurs utilisant la palette Tango,"Farbschema, das die Tango-Farbpalette verwendet",مخطَّط الألوان باستعمال لوحة ألوان تانجو
+Command,,,أمر
+Command Macro,,,مركب أمر
+Comment,,,تعليق
+Common Commands,,,أوامر مشتركة
+Common Defines,,,تعريفات مشتركة
+Compiler Directive,,,تعليمة مصرّف
+Complex number,,,عدد مركب
+Conditional Macro,,,مركب شرطي
+Constant,,,ثابت
+Constructors,,,البنائات
+Control,,,تحكّم
+Control Keyword,,,كلمة تحكم
+D,,,دي
+DOCTYPE,,,DOCTYPE
+DPatch,,,DPatch
+DTD,,,DTD
+Dark color scheme using the Tango color palette,Jeu de couleurs sombre utilisant la palette Tango,"Dunkles Farbschema, das die Tango-Farbpalette verwendet",مخطَّط الألوان الغامقة باستعمال لوحة ألوان تانجو
+Data Type,,,نوع بيانات
+Data type,,,نوع بيانات
+Date,,,التاريخ
+Debug,,,تنقيح
+Debug Code,,,كود التنقيح
+Decimal,,,عشري
+Decimal number,,,عدد عشري
+Declaration,,,التصريحات
+Defaults,,,المبدئيات
+Define,,,تعريف
+Definition,,,تعريف
+Definition list,,,قائمة التعاريف
+Delimiter,,,حد
+Deprecated,,,مُلغى
+Design by Contract,,,التصميم بالتعاقد
+Diff,,,الاختلافات
+Dimension,,,أبعاد
+Directory Macro,,,مركب دليل
+Docbook,,,دوك‌بوك
+Documentation comment,,,تعليق توثيقي
+Documentation comment element,,,عنصر تعليق توثيقي
+Dos Batch,,,سكربت دوس
+Draw Spaces,,,ارسم الفراغات
+E-mail address,,,عنوان البريد الإلكتروني
+Eiffel,,,Eiffel
+Element,,,عنصر
+Element name,,,اسم العنصر
+Email,,,البريد الإلكتروني
+Emphasis,,,تشديد
+Encoding,,,ترميز
+Entity,,,كيان
+Enumerated list,,,قائمة مرقمة
+Erlang,,,إيرلانغ
+Error,,,خطأ
+Error Text,,,نص الخطأ
+Escape,,,الخلوص
+Escaped Character,,,مِحرف متجاوز
+Exception Handling,,,التعامل مع الاستثناء
+Exec parameter,,,معاملات التنفيذ
+External,,,خارجي
+File,,,الملف
+File Attributes,,,خصائص الملف
+File Descriptor,,,معرف ملف
+Float,,,عشري
+Floating Point,,,عشري
+Floating Point number,,,عدد عشري
+Floating point number,,,عدد عشري
+Flow Conditional,,,تدفق شرطي
+Footer Font Name,,,اسم خط التذييل
+Foreground,,,الواجهة الأمامية
+Foreground color,,,لون الواجهة الأمامية
+Foreground set,,,الواجهة الأمامية معينة
+Format,,,تهيئة
+Formatting Elements,,,عناصر تنسيق
+Forth,,,فورث
+Fortran 95,,,فورتران 95
+Function,,,دالّة
+Function Name,,,اسم الدّالّة
+Future Reserved Keywords,,,كلمات مخصصة مستقبلية
+Fuzzy,,,مبهم
+GAP,,,GAP
+GUI Elements,,,عناصر الواجهة الرسوميّة
+Gate,,,بوّابة
+Generated Content,,,محتوى مولّد
+Graphviz Dot,,,Graphviz Dot
+Group,,,مجموعة
+GtkRC,,,GtkRC
+HOME and END keys move to first/last non whitespace characters on line before going to the start/end of the line,,,مفتاحا HOME و END ينقلان للرموز الأولى/الأخيرة على السطر قبل الذهاب إلى بداية/نهاية السطر
+HTML,,,HTML
+Haddock,,,Haddock
+Haddock Directive,,,موجه Haddock
+Haskell,,,هاسكيل
+Header,,,ترويسة
+Header Elements,,,عناصر الترويسة
+Header Font Name,,,اسم خطّ الترويسة
+Header Property,,,خاصية ترويسة
+Heredoc,,,Heredoc
+Heredoc Bound,,,مُقَيَّد بالمقطع اللفظي
+Hex,,,عدد ست عشري
+Hexadecimal number,,,عدد ست عشري
+Hidden,,,خفي
+Highlight Matching Brackets,,,ظَلِّل الأقواس الموافقة
+Highlight Syntax,,,أبرِز الصيغة
+Highlight current line,,,إبراز السطر الحالي
+"Highlighting a single line took too much time, syntax highlighting will be disabled","La mise en surbrillance d’une seule ligne a pris trop de temps, la coloration syntaxique sera désactivée","Das Hervorheben einer einzelnen Zeile benötigte zu viel Zeit, daher wird die Syntax-Hervorhebung ausgeschaltet",أخذ تلوين سطر واحد وقتا كبيرا، لذا سيتم تعطيل التلوين
+Hyperlinked Identifier,,,مُثبت هوية فائق الوصلة
+Hyperlinked Module Name,,,اسم وحدة فائقة الوصلة
+IDL,,,IDL
+Identifier,,,معرف
+Ignore,,,تجاهل
+Include,,,تضمين
+Include Statement,,,بيان التضمين
+Include directive,,,تضمين أمر توجيهي
+Included File,,,ملف مُضَمن
+Indent Width,,,عرض الازاحة
+Indent on tab,,,مساحة خالية عند التاب
+Inline Documentation Section,,,فقرة توثيق داخلية
+Inline Elements,,,عنصر في السطر
+Inline Haddock Section,,,علامة Haddock سطرية
+Inline Math Mode,,,نمط رياضيات داخلي
+Insert Spaces Instead of Tabs,,,ادخال فراغات عوض منظمات الجداول (tabulator)
+Integer Number,,,عدد صحيح
+Interval of printed line numbers (0 means no numbers),,,الفاصل بين أرقام السطور المطبوعة (0 يعني لا أرقام)
+Italic,,,مائل
+Italic set,,,مائل معين
+Itemized list,,,قائمة عناصر
+Java,,,جافا
+Javascript,,,جافا سكربت
+Kate,,,Kate
+Key,,,مفتاح
+Keyword,,,كلمة مفتاحية
+Known Property Value,,,قيمة خاصية مسماة
+LaTeX,,,لاتك
+Labeled argument,,,معطى مُعنون
+Language,,,اللغة
+Language id,,,معرف اللغة
+Language ids,,,معرفات اللغة
+Language name,,,اسم اللغة
+Language object to get highlighting patterns from,,,أجسام اللغة لتلقي أنماط الإبراز منها
+Language section,,,قسم اللغة
+Language specification directories,,,دلائل خصائص اللغة
+Line Directive,,,تعليمة سطر
+Line Numbers Font Name,,,اسم خط أرقام السطور
+Line background,,,خلفية السطر
+Line background color,,,لون خلفية السطر
+Line background set,,,خلفية السطر معينة
+List of directories and files where the style schemes are located,,,قائمة الدلائل والملفات أين توجد مخططات الطرز
+List of directories where the language specification files (.lang) are located,,,قائمة الدلائل الحاوية لملفات خصائص اللغة (.lang)
+List of the ids of the available languages,,,قائمة معرفات اللغات المتوفرة
+List of the ids of the available style schemes,,,قائمة معرفات مخططات الطرز المتوفرة
+Literate Haskell,,,Literate Haskell
+Location,,,الموقع
+Lua,,,لوا
+MSIL,,,MSIL
+Macros,,,مركّبات
+Makefile,,,Makefile
+Mallard,,,Mallard
+Markup,Balisage,Auszeichnung,رقْم
+Math Mode,,,نمط الرياضيات
+Maximum Undo Levels,,,مستويات التراجع القصوى
+"Missing main language definition (id = ""%s"".)",,,"تعريف اللغة الرئيسية غائب (id = ""%s"".)"
+Module Handler,,,معالج الوحدات
+Module Path,,,مسار الوحدة
+Module handler,,,مداول الوحدة
+Monospace,,,Monospace
+Multiline string,,,سلسلة متعددة السطور
+NSIS,,,NSIS
+Name,,,الاسم
+"Name of the font to use for the line numbers (e.g. ""Monospace 10"")",,,"اسم الخط الذي سيُستخدم لترقيم السطور  (مثال: ""Monospace 10"")"
+"Name of the font to use for the page footer (e.g. ""Monospace 10"")",,,"اسم الخط الذي سيُستخدم في التّذييل  (مثال: ""Monospace 10"")"
+"Name of the font to use for the page header (e.g. ""Monospace 10"")",,,"اسم الخط الذي سيُستخدم للتّرويسة (مثال: ""Monospace 10"")"
+"Name of the font to use for the text body (e.g. ""Monospace 10"")",,,"اسم الخط الذي سيُستخدم لنص المستند (مثال: ""Monospace 10"")"
+Namespace,,,نطاق أسماء
+Nemerle,,,رقم
+Nil Constant,,,ثابت معدوم
+No idea what it is,,,لا أدري ما هذا
+"Note (FIXME, TODO, XXX, etc.)",,,تذكير (للتثبيت، للانجاز، انتباه، الخ.)
+Null Value,,,قيمة عدميّة
+Number,,,عدد
+Number of pages,,,عدد الصفحات
+Number of spaces to use for each step of indent,,,عدد الفراغات للاستعمال في كل خطوة إزاحة
+Number of undo levels for the buffer,,,عدد مستويات التراجع للذاكرة الوسيطة
+Numeric literal,,,لفظ عددي
+OCL,,,OCL
+Object,,,كائن
+Objective Caml,,,Objective Caml
+Objective-C,,,Objective-C
+Oblivion,Oblivion,Oblivion,نسيان
+Obsolete Autoconf Macro,,,ماكرو Autoconf ملغى
+Ocamldoc Comments,,,تعليقات Ocamldoc
+Octal,,,عدد ثماني
+Octal number,,,عدد ثماني
+Octave,,,Octave
+Operation operator,,,مُعامل العملية
+Operator,,,عملية
+Option,,,خيار
+Option Name,,,اسم الخيار
+Other Macro,,,مركبات أخرى
+Others,Autres,Sonstige,أخرى
+Others 2,,,أخرى 2
+Others 3,,,أخرى 3
+PHP,,,PHP
+POD,,,POD
+POD Escape,,,رمز إفلات POD
+POD heading,,,ترويسة POD
+POD keyword,,,كلمة مفتاحية لِ بود
+Package Info,,,معلومات الحزمة
+Page Elements,,,عناصر الصفحة
+Parameter,,,معامل
+Pascal,,,باسكال
+Pattern,,,نمط
+Perl,,,پيرل
+Polymorphic Variant,,,تنويعة متعددة الأشكال
+Position of the right margin,,,موقع الهامش الأيمن
+Predefined Variable,,,متغير مُعرف مسبقا
+Preprocessor,,,معالج أولي
+Preprocessor directive,,,تعليمة معالج أولي
+Print Footer,,,طبع الهامش
+Print Header,,,طبع الترويسة
+Print Line Numbers,,,طبع أرقام السطور
+Processing instruction,,,تعليمة معالجة
+Prolog,,,Prolog
+Properties,,,خصائص
+Property Name,,,اسم الخاصّية
+Python,,,پيثون
+R,,,آر
+RPM Variable,,,RPM Variable
+RPM spec,Spécification RPM,RPM-Spezifikation,RPM spec
+Real number,,,عدد حقيقي
+Regular Expression,,,تعبير اعتيادي
+Release,,,الإصدارة
+Removed line,,,السطر المحذوف
+Reserved Class,,,صنف محجوز
+Reserved Constant,,,رمزُ ثابت مشغول
+Reserved Identifier,,,معرف محجوز
+Reserved keyword,,,كلمات مخصصة
+Return,,,عودة
+Right Margin Position,,,موقع الهامش الأيمن
+Ruby,,,روبي
+SQL,,,SQL
+Scheme,,,سكيم
+Scheme ids,,,معرفات المخطط
+Scientific,Scientifique,Wissenschaftlich,علمي
+Scope Declaration,,,تصريح بالمجال
+Scripts,,,نصوص شفرية
+Section,,,قسم
+Section 1,,,قسم 1
+Section 2,,,قسم 2
+Section 3,,,قسم 3
+Section 4,,,قسم 4
+Section 5,,,قسم 5
+Section Elements,,,عناصر القسم
+Set if and how the spaces should be visualized,,,حدّد امكانية وكيفية اظهار الفراغات
+Shebang,,,شيبانغ
+Show Line Marks,,,أظهر علامات السطر
+Show Line Numbers,,,اظهار أرقام السطور
+Show Right Margin,,,اظهار الهامش الأيمن
+Signal Name,,,اسم الإشارة
+Since,,,منذ
+Smart Home/End,,,إستخدام حاذق لِ بداية /نهاية
+Source Buffer,,,ذاكرة المصدر الوسيطة
+Sources,,,مصادر
+Spec Macro,,,مركّب تحديد
+Special,,,خاص
+Special Constant,,,ثابت خاص
+Special Token,,,علامة خاصة
+Special Variable,,,متغير خاص
+Special case,,,حالة خاصة
+Special character (inside a string),,,محرف خاص (داخل سلسلة محارف)
+Special constant,,,ثابت خاص
+Statement,,,إفادة
+Storage Class,,,صنف تخزين
+Strikethrough,,,تشريط
+Strikethrough set,,,التشريط معين
+String,,,سلسلة
+String Format,,,هيئة النصّ
+Structural Elements,,,عناصر بنائيّة
+Style scheme,,,مخطط الطرز
+Style scheme description,,,وصف مخطط الطرز
+Style scheme filename,,,اسم ملف مخطط الطرز
+Style scheme id,,,معرف مخطط الطرز
+Style scheme name,,,اسم مخطط الطرز
+Style scheme search path,,,مسار البحث عن مخططات الطرز
+Subshell,,,صدفة فرعية
+Switch,,,Switch
+Symbol,,,رمز
+System Command,,,أمر النظام
+Tab Width,,,عرض الشريط
+Tag,,,وسم
+Tango,Tango,Tango,تانجو
+Tcl,,,Tcl
+Texinfo,,,تخ‌إنفو
+Text2Tags,,,Text2Tags
+The GtkSourceBuffer object to print,,,كائن GtkSourceBuffer للطبع
+The gutters text window type,,,نوع نافذة نص القنوات
+The gutters' GtkSourceView,,,منظور قنوات GtkSourceView
+The mark category,,,فئة العلامة
+The number of pages in the document (-1 means the document has not been completely paginated).,,,عدد الصفحات في الوثيقة (-1 تعني أن الوثيقة لم يتم إنهاء تشكيل صفحاتها).
+Trailing Tab,,,علامة جدولة في النهاية
+Translation,,,ترجمة
+Type,,,النّوع
+Type Operators,,,عوامل النوع
+Type Variable,,,متغيِّر النوع
+"Type, module or object keyword",,,كلمة مفتاحية للنوع أو الوحدة أو العنصر
+URL,,,مسار
+Underline,,,تسطير
+Underline set,,,التسطير معين
+Underlined,,,مسطر
+Unknown id '%s' in regex '%s',,,معرف مجهول '%s' في العبارة المنتظمة '%s'
+VB.NET,,,VB.NET
+VBScript and ADO constants,,,ثوابت VBScript و ADO
+VHDL,,,VHDL
+Vala,,,ڤالا
+Variable,,,متغير
+Variable Definition,,,تعريف المتغير
+Variant Constructor,,,باني تنويعة
+Verbatim,,,حرفيا
+Verbatim Block,,,وحدة حرفية
+Verilog,,,Verilog
+View,,,المنظور
+Void Value,,,قيمة غير صالحة
+Whether Redo operation is possible,,,فيما إذا كانت عملية الإعادة ممكنة
+Whether Undo operation is possible,,,فيما إذا كانت عملية التراجع ممكنة
+Whether background color is set,,,فيما إذا تم تعيين لون الواجهة الخلفية
+Whether bold attribute is set,,,فيما إذا تم تعيين خاصية العرض
+Whether foreground color is set,,,فيما إذا تم تعيين لون الواجهة الأمامية
+Whether italic attribute is set,,,فيما إذا تم تعيين خاصية المَيلان
+Whether line background color is set,,,فيما إذا وجب تعيين لون خلفية الخط
+Whether strikethrough attribute is set,,,فيما إذا تم تعيين خاصية التشطيب
+Whether the language should be hidden from the user,,,فيما إذا وجب إخفاء اللغة عن المستخدم
+Whether to display line mark pixbufs,,,فيما إذا ستُعرض pixbufs علامة السطر
+Whether to display line numbers,,,ما اذا ستعرض أرقام السطور
+Whether to display the right margin,,,ما اذا سيعرض الهامش الأيمن
+Whether to enable auto indentation,,,ما اذا سيفعل التجويف الآلي للنص
+Whether to highlight matching brackets,,,فيما إذا سيقع إبراز الأقواس المطابقة
+Whether to highlight syntax in the buffer,,,ما إذا ستبرز الصيغة في الصوان
+Whether to highlight the current line,,,فيما إذا يجب إبراز السطر الحالي.
+Whether to indent the selected text when the tab key is pressed,,,إذا يجب إضافة مساحة عند ضغط مفتاح تاب
+Whether to insert spaces instead of tabs,,,ما اذا ستدخل فراغات عوض منظمات الجداول (tabulator)
+Whether to print a footer in each page,,,ما اذا يطبع هامش كل صفحة
+Whether to print a header in each page,,,ما اذا تطبع ترويسة في كل صفحة
+Whether to print the document with highlighted syntax,,,فيما اذا سيطبع المستند بتركيبات بارزة
+"Whether to wrap lines never, at word boundaries, or at character boundaries.",,,فيما ينبغي لف السطور عند حدود الكلمة، أو عند حدود المِحرف.
+Whether underline attribute is set,,,فيما إذا تم تعيين خاصية التسطير
+Widget State,,,حالة الشيء
+Width of a tab character expressed in spaces,,,عرض شريط بالمسافات
+Window Type,,,نوع النافذة
+Wrap Mode,,,نمط الالتفاف
+XML,,,XML
+XSLT,,,XSLT
+Yacc,,,Yacc
+"['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']","['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']","['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']","['UTF-8', 'CURRENT', 'WINDOWS-1256', 'UTF-16', 'ISO-8859-6']"
+at-rules,,,شروط at
+awk,,,أوْك
+category,,,فئة
+command,,,أمر
+context '%s' cannot contain a \%%{...@start} command,,,لا يمكن للسياق '%s' أن يحوي أمر \%%{...@start}
+decl,,,decl
+duplicated context id '%s',,,معرف السياق '%s' مكرر
+entity,,,كيان
+error,,,خطأ
+function,,,دالّة
+gettext translation,Traduction via gettext,gettext-Übersetzung,ترجمة جتكست
+gtk-doc,,,gtk-doc
+in regex '%s': backreferences are not supported,,,في العبارة المنتظمة '%s': النصوص المطابقة الراحعة غير مدعمة
+invalid context reference '%s',,,مرجع السياق غير صالح '%s'
+keyword,,,كلمة أساسية
+libtool,,,libtool
+m4,,,m4
+m4 Macro,,,ماكرو m4
+m4-comment,,,تعليق m4
+math-bound,,,مرتبط بالرياضيات
+patch-start,,,رقعة البدء
+pkg-config,,,pkg-config
+prereq,,,prereq
+printf Conversion,,,تحويل printf
+quoted-value,,,قيمة مقتبسة
+rule,,,قاعدة
+sh,,,sh
+string-conversion,,,تحويل المقاطع
+style override used with wildcard context reference in language '%s' in ref '%s',,,أسلوب التجاوز المستعمل مع بدل مرجع السياق في اللغة  '%s' في المرجع '%s'
+targets,,,أهداف

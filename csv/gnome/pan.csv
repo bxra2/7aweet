@@ -1,0 +1,482 @@
+"%s requires a password, but none is set.","%s exige un mot de passe, mais aucun n'est défini.","%s benötigt ein Passwort, dieses ist nicht gesetzt.",الموسيقى المشتركة '%s' تتطلب كلمة سر للإتصال
+7Bit Encoding,,,يجري التسجيل
+8Bit Encoding,,,يجري التسجيل
+?,?,?,؟
+Abbreviate Group Names,Abréger les noms des groupes,Namen in Gruppenliste abkürzen,أسماء وضائف مختصرة
+Action,Action,Aktion,أفعال
+Actions,Actions,Aktionen,أحداث
+Add,Ajouter,Hinzufügen,أضف
+"Add ""Message-Id"" header",,,ترويسة الرّسالة
+Add Subthreads to Selection,Ajouter les sous-fils de discussion à la sélection,Unterstränge zur Auswahl hinzufügen,ألفا إلى تحديد
+Add Similar Articles to Selection,Ajouter les articles similaires à la sélection,Ähnliche Artikel zur Auswahl hinzufügen,إضافة إلى التحديد
+Add Threads to Selection,Ajouter les fils de discussion à la sélection,Stränge zur Auswahl hinzufügen,ألفا إلى تحديد
+Add a New Scoring Rule,Ajouter une nouvelle règle de notation,Eine neue Wertung hinzufügen,أضف قاعدة جديدة
+Add a Server,Ajouter un serveur,Einen Server hinzufügen,اضف خادم NTP
+Add a Scoring Rule...,Ajouter une règle de notation...,Eine Wertungsregel hinzufügen …,أضف مجلّد...
+Add and Rescore,Ajouter et renoter,Hinzufügen und neu bewerten,ابحث و استبدل
+Add to the back of the queue,Ajouter à la fin de la file d'attente,Am Ende der Liste hinzufügen,اضف الملفات المحددة الى طابور التشغيل
+Add to the front of the queue,Ajouter au début de la file d'attente,Am Anfang der Liste hinzufügen,اضف الملفات المحددة الى طابور التشغيل
+Added %lu articles to %s.,%lu articles ajoutés à %s.,%lu Artikel zu »%s« hinzugefügt.,اضف %s إلى %s
+After Six Months,Après six mois,Nach sechs Monaten,شغّل الأغنية السابقة
+After Three Months,Après trois mois,Nach drei Monaten,اظهر النقلة التالية
+Always Run Editor,Toujours lancer l'éditeur,Immer den Editor starten,محرر القوائم
+Always trust,,,محرر القوائم
+And the article's,,,القارة القطبية الجنوبية
+Applications,Applications,Anwendungen,تطبيقات
+Article Cache,Cache des articles,Artikel-Zwischenspeicher,امسح الذاكرة المؤقتة
+Articles,Articles,Artikel,الفنان
+Attachments,Pièces jointes,,احفظ المرفقات
+Author,Auteur,Autor,المؤلف:
+Autosave Article Draft,Enregistrement automatiquement des brouillons,Artikelentwurf automatisch speichern,افتح ملف
+Autosave Articles,Enregistrement automatiquement des articles,Artikel automatisch speichern,احفظ ملف
+BASE64 Encoding,,,يجري التسجيل
+Background:,Arrière-plan :,Hintergrund:,الخلفية:
+Baltic,Balte,Baltisch,البحر البلطيقي
+Be patient!  It will take time for your changes to take effect.,Soyez patient ! Cela va prendre du temps pour que vos changements s'appliquent.,"Etwas Geduld bitte! Es dauert einige Zeit, bis Ihre Änderungen wirksam werden.",ستحتاج للخروج من النظام ليأخذ التغيير أثره.
+Behavior,Comportement,Verhalten,السّلوك
+Body Pane,Panneau du corps,Artikeltext,اللوحة السفلية
+Body Pane Encoding,Codage du panneau du corps,Kodierung des Artikeltexts,اللوحة السفلية
+Byte Count,Nombre d'octets,Byte-Anzahl,بتلر المقاطعه
+Bytes,Octets,Bytes,بايتات
+Cache Article,Mettre en cache l'article,Artikel zwischenspeichern,عنوان الصفحة
+"Can't use regular expression ""%s"": %s",Impossible d'utiliser l'expression régulière « %s » : %s,Regulärer Ausdruck »%s« kann nicht angewendet werden: %s,"لا يمكن تحليل تعبير البحث: %s: 
+%s"
+Cancel Article...,Annuler l'article...,Artikel widerrufen …,إلغاء الحفظ...
+Central European,Europe centrale,Mittel- und osteuropäisch,وسط أوروبي  (MacCE)
+Character Encoding,Codage des caractères,Zeichensatz,ترميز المحارف
+Character encoding:,Codage des caractères :,Zeichensatz:,ترميز المحارف
+Check Spelling,Vérifier l'orthographe,Rechtschreibprüfung,تدقيق هجائي
+Chinese,Chinois,Chinesisch,سطور
+Clear Article Cache,Vider le cache d'articles,Artikel-Zwischenspeicher löschen,امسح الذاكرة المؤقتة
+Clear Body Pane,Nettoyer le panneau du corps,Artikeltext löschen,امسح الملاحظات
+Clear Header Pane,Nettoyer le panneau des en-têtes,Kopfzeilenliste löschen,حشو الرأس
+Close and Rescore,Fermer et renoter,Schließen und neu bewerten,اغلق و اخرج
+Close this window and lose your changes?,Voulez-vous fermer cette fenêtre et perdre vos modifications ?,Dieses Fenster schließen und Ihre Änderungen verwerfen?,هل تريد حفظ تغييراتك؟
+Colors,Couleurs,Farben,الألوان
+Column Name,Nom de la colonne,Spaltenname,الإسم المتداول
+Command,Commande,Befehl,أوامر
+Connecting,Connexion en cours,Es wird verbunden,الإتصال
+Connection Limit:,Limite de connexion :,Verbindungslimit:,فقد الاتصال
+Content Transfer Encoding,Codage du transfert de contenu,Zeichenkodierung für die Übertragung,ترميز المحارف
+Copyright \u00A9 2002-2012 Charles Kerr and others,Copyright \u00A9 2002-2012 Charles Kerr et contributeurs,,حقوق النسخ © 2002-2005 Bastien Nocera
+Couldn't convert signature to UTF-8.,Impossible de convertir le fichier de signature en UTF-8.,Signatur konnte nicht nach UTF-8 konvertiert werden.,تعذّر التحقق من التوقيع
+"Couldn't parse %s color ""%s""",Impossible d'analyser la couleur %s « %s »,%s-Farbe »%s« konnte nicht verarbeitet werden,"لا يمكن تحليل اللون ""%s"""
+"Couldn't parse signature command ""%s"": %s",Impossible d'analyser la commande de signature « %s » : %s,Signaturbefehl »%s« konnte nicht gelesen werden: %s,"تعذّر الاتّصال باستخدام الأمر ""%s"": %s"
+"Couldn't save file ""%s"": %s",Impossible d'enregistrer le fichier « %s » : %s,Datei »%s« konnte nicht gespeichert werden: %s,لم يمكن فتح الملفّ '%s': %s
+Criteria,Critère,Kriterien,معايير:
+Custom Command:,Commande personnalisée :,Benutzerdefinierter Befehl:,الأمر المخصّص:
+Cyrillic,Cyrillique,Kyrillisch,روسية سريالية
+Date,Date,Datum,التّاريخ:
+Decoding,Décodage en cours,Dekodierung,يجري التسجيل
+Decoding %s,Décodage de %s,»%s« wird dekodiert,تحميل %s
+Default encoding,,,يجري التسجيل
+Delete Selected Groups' Articles,Supprimer les articles des groupes sélectionnés,Artikel der ausgewählten Gruppe löschen,حذف المراسَلين المنتقَيين
+Delete Task,Supprimer la tâche,Aufgabe löschen,إحذف %s
+Delete Tasks,Supprimer les tâches,Aufgaben löschen,إحذف %s
+Directory for Saving Attachments,Répertoire pour l'enregistrement des pièces jointes,Ordner zum Speichern von Anhängen,دليل حفظ ملفات مكون البريد
+Directory for saving attachments:,Répertoire pour l'enregistrement des pièces jointes :,Ordner zum Speichern von Anhängen:,دليل حفظ ملفات مكون البريد
+Disabled,Désactivé,Deaktiviert,/مفعّل
+Expire Old Articles:,Expirer les anciens articles :,Alte Artikel ablaufen lassen:,استثني الملفات:
+Extra Headers:,En-têtes supplémentaires :,Extra-Kopfzeilen:,استخرج هنا
+Edit Posting Profiles,Modifier les profils de postage,Autorenprofile bearbeiten,تحرير ملف شخصي
+Edit Selected Group's Preferences,Modifier les préférences du groupe sélectionné,Einstellungen der ausgewählten Gruppen bearbeiten,تحرير تفضيلات متعدّدة
+Edit News Servers,Modifier les serveurs de nouvelles,News-Server bearbeiten,خوادم الشبكة
+Edit Preferences,Modifier les préférences,Einstellungen,تفضيلات gedit
+Edit a Server's Settings,Modifier les paramètres du serveur,Servereinstellungen bearbeiten,إعدادات الخادم
+Enabled,Activé,Aktiviert,/مفعّل
+Encoding,Codage,Zeichenkodierung,يجري التسجيل
+Encoding %s,Codage en cours de %s,Zeichenkodierung %s,يجري التسجيل
+"Error connecting to ""%s""",Erreur lors de la connexion à « %s »,Fehler beim Verbinden mit »%s«,خطأ في الاتصال بالخادم: %s
+Error encoding %s: %s,Erreur lors du codage de %s : %s,Fehler beim Kodieren von %s: %s,فشل في قراءة %s: %s
+Error initializing uulib,Erreur d'initialisation de uulib,Fehler beim Initialisieren der uulib,خطأ أثناء بدأ libnotify
+Error loading %s from cache.,Erreur lors du chargement de %s à partir du cache.,Fehler beim Laden von %s aus dem Zwischenspeicher.,فشل في قراءة %s: %s
+"Error opening SSL certificate directory: ""%s"": %s",Erreur à l'ouverture du répertoire du certificat SSL : « %s » : %s,Fehler beim Öffnen des SSL-Zertifikatordners: »%s«: %s,خطأ أثناء فتح الدليل '%s': %s
+"Error opening directory: ""%s"": %s",Erreur à l'ouverture du répertoire « %s » : %s,Fehler beim Öffnen des Ordners: »%s«: %s,خطأ أثناء فتح الدليل '%s': %s
+"Error opening file ""%s"" %s",Erreur lors de l'ouverture du fichier « %s » : %s,Fehler beim Öffnen der Datei »%s« %s,خطاء فى فتح الملف %s%s
+Error opening temporary file,Erreur lors de l'ouverture du fichier temporaire,Fehler beim Öffnen der temporären Datei,خطاء في فتح الملف
+Error printing the server certificate for '%s',Erreur d'impression du certificat du serveur pour « %s »,Fehler beim Ausgeben des Serverzertifikats für »%s«,%s: خطأ أثناء تشغيل المرحب على العرض %s
+"Error reading file ""%s"": %s",Erreur de lecture du fichier « %s » : %s,Fehler beim Lesen der Datei »%s«: %s,"خطأ عند إعادة تسمية الملف ""%s"": %s"
+Error reading from %s: %s,Erreur lors de la lecture depuis %s : %s,Fehler beim Lesen von %s: %s,فشل في قراءة %s: %s
+"Error reading from %s: unknown group ""%s""",Erreur lors de la lecture depuis %s : groupe « %s » inconnu,Fehler beim Lesen von %s: Unbekannte Gruppe »%s«,خطأ عند القراءة من الابن: %s.
+"Error saving ""%s"":
+%s.","Erreur lors de l'enregistrement de « %s » :
+%s.","Fehler beim Speichern von »%s«:
+%s.","فشل في قراءة ""%s"": %s"
+Error setting custom spellchecker: %s,Erreur de paramétrage du vérificateur d'orthographe personnalisé : %s,Fehler beim Festlegen der benutzerdefinierten Rechtschreibprüfung: %s,خطأ ضبط القيمة: %s
+Error setting spellchecker: %s,Erreur de paramétrage du vérificateur d'orthographe : %s,Fehler beim Einstellen der Rechtschreibprüfung: %s,خطأ ضبط القيمة: %s
+Error starting URL: %s (Command was: %s),Erreur de lancement de l'URL : %s (la commande était : %s),Fehler beim Starten der URL: %s (Befehl war: %s),خطأ ضبط مفناح الإعداد %s:%s
+Error starting external editor: %s,Erreur lors du démarrage de l'éditeur externe : %s,Fehler beim Aufruf des externen Editors: %s,%s: خطأ أثناء تشغيل المرحب على العرض %s
+Error writing article to temporary file: %s,Erreur lors de l'écriture de l'article dans le fichier temporaire : %s,Fehler beim Schreiben des Artikels in temporäre Datei: %s,خطأ أثناء كتابة ملف البريد المؤقّت: %s
+Error: Bad email address.,Erreur : mauvaise adresse électronique.,Fehlerhafte E-Mail-Adresse.,أدخل عنوان بريدك الالكتروني
+Error: Message is empty.,Erreur : le message est vide.,FEHLER: Die Nachricht ist leer.,خطاء حجم الرسالة%d كبير جدا
+Error: No Recipients.,Erreur : aucun destinataire.,FEHLER: Keine Empfänger angegeben.,اختر المستلمين
+Error: No Subject specified.,Erreur : aucun sujet spécifié.,FEHLER: Kein Betreff angegeben.,%s: لم يحدد مُرِحّب.
+Expand threads upon selection,Déplier les fils sélectionnés,Stränge zur Auswahl ausklappen,ألفا إلى تحديد
+From,De,Von,مِن
+Fallback,Secondaire,Ausweichserver,اتصال معاكس
+"File %s, Lines %d - %d","Fichier %s, lignes %d - %d","Datei %s, Zeilen %d - %d",فشل عند الرّسالة %d من أصل %d
+File extension for Cached Articles:,,,حدد عنوان صندوق الحوار
+Filename,Nom du fichier,Dateiname,/ملف
+Filter,Filtre,Filter,فلاتر
+Followup-To,Faire suivre à,Fortschrift in,متابعة
+Followup to Newsgroup,Transmettre au groupe de discussion,Fortschrift in der Gruppe erstellen,مجموعات أخبار
+Followup-To,Faire suivre à,Fortschrift in,متابعة
+Fonts,Polices,Schriften,خطوط
+From,De,Von,مِن
+Groups,Groupes,Gruppen,المجموعات
+Get Headers...,Récupérer les en-têtes...,Kopfzeilen herunterladen …,ترويسة عنوان ويب...
+Get New Headers in Selected Groups,Récupérer les nouveaux en-têtes des groupes sélectionnés,Neue Kopfzeilen ausgewählter Gruppen herunterladen,أدلة جديدة من الاختيار
+Get New Headers in Subscribed Groups,Récupérer les nouveaux en-têtes des groupes abonnés,Neue Kopfzeilen abonnierter Gruppen herunterladen,أدلة جديدة من الاختيار
+Get New Headers in Selected Groups,Récupérer les nouveaux en-têtes des groupes sélectionnés,Neue Kopfzeilen ausgewählter Gruppen herunterladen,أدلة جديدة من الاختيار
+Get Headers...,Récupérer les en-têtes...,Kopfzeilen herunterladen …,ترويسة عنوان ويب...
+Get all headers,Récupérer tous les en-têtes,Alle Kopfzeilen herunterladen,اجلب كل الترويسات
+Get new headers,Récupérer les nouveaux en-têtes,Neue Kopfzeilen herunterladen,احذف الترويسات
+Get the latest N headers:,Récupérer les N derniers en-têtes :,Neueste Kopfzeilen herunterladen:,حدد ترويسة العمود
+"Getting all headers for ""%s""",Récupération de tous les en-têtes pour « %s »,Alle Kopfzeilen für »%s« werden abgerufen,"يجري جلب معلومات كافّة المستخدمين على ""%s"""
+"Getting group list from ""%s""",Récupération de la liste des groupes depuis « %s »,Gruppenliste des Servers »%s« wird heruntergeladen,استرجاع %s من %s
+"Getting header counts for ""%s""",Récupération du nombre d'en-têtes pour « %s »,,"يجري جلب معلومات كافّة المستخدمين على ""%s"""
+"Getting new headers for ""%s""",Récupération des nouveaux en-têtes pour « %s »,Neue Kopfzeilen für »%s« werden abgerufen,"خطأ تلقي قيمة جديدة لـ ""%s"": %s"
+Go Back,Revenir,Zurückblättern,تراجُع إلى الخلف
+Go Online,Se connecter,Online gehen,متصل
+Greek,Grec,Griechisch,أخضر
+Group,Groupes,Gruppe,المجموعات
+Group (regex),Groupe (expression régulière),Gruppe (regex),اسم المجمعة:
+Groups,Groupes,Gruppen,المجموعات
+Header Pane,Panneau des en-têtes,Kopfzeilenliste,حشو الرأس
+Header Pane Columns,Colonnes du panneau des en-têtes,Spalten der Kopfzeilenliste,عمود تسطير
+Headers,En-têtes,Kopfzeilen,ترويسات
+If the group name,,,اسم المجموعة
+Ignore Author,Ignorer l'auteur,Autor ignorieren,تجاهل الكل
+Import NZB Files,Importer des fichiers NZB,NZB-Dateien importieren,إستيراد ملف
+Invalid email address.,Adresse de courriel non valide.,Ungültige E-Mail-Adresse.,عنوان غير صحيح.
+Japanese,Japonais,Japanisch,ض-ي|ياباني
+Jump to Body Tab,Aller à l'onglet du corps,Artikeltext-Reiter aufschlagen,أعد تحميل اللسان تلقائيا
+Jump to Group Tab,Aller à l'onglet des groupes,Gruppen-Reiter aufschlagen,اقفز إلى الصفحة:
+Jump to Header Tab,Aller à l'onglet des en-têtes,Kopfzeilen-Reiter aufschlagen,أعد تحميل اللسان تلقائيا
+Korean,Coréen,Koreanisch,ض-ي|كوري
+Language Settings,Réglages linguistique,Spracheinstellungen,الإعدادات
+Layout,Agencement,Anordnung,تخطيط
+Line Count,Nombre de lignes,Zeilenanzahl,تعليق عن السطر
+Lines,Lignes,Zeilen,سطور
+Loaded data backend in %.1f seconds,Moteur de données chargé en %.1f secondes,Daten-Backend wurde in %.1f Sekunden geladen,"حُمِّلت السِمة ""%s"" في %g ثواني"
+Location,Emplacement,Ort,الموقع
+Login (if Required),Identifiant (si requis),Anmelden (falls erforderlich),فشل الولوج
+Mail To,Écrire à,Nachricht an,بريد
+Mark Article as Unread,Marquer l'article comme non lu,Artikel als ungelesen markieren,علّم كغير مقروء
+Mark Selected Groups Read,Marquer les groupes sélectionnés comme lus,Ausgewählte Gruppen als gelesen markieren,علّم المهام المنتقاة كمكتملة
+Mark Thread as Unread,Marquer le fil comme non lu,Den aktuellen Diskussionsfaden als ungelesen markieren,علّم كغير مقروء
+Match Only Cached Articles,Afficher seulement les articles mis en cache,Nur zwischengespeicherte Artikel treffen,خصائص القيم الرياضية
+Match Only Complete Articles,Afficher seulement les articles complets,Nur vollständige Artikel treffen,خصائص القيم الرياضية
+Match Only My Articles,Afficher seulement mes articles,Nur eigene Artikel treffen,خصائص القيم الرياضية
+Match Only Unread Articles,Afficher seulement les articles non lus,Nur neue Artikel treffen,خصائص القيم الرياضية
+Match Only Watched Articles,Afficher seulement les articles surveillés,Nur überwachte Artikel treffen,خصائص القيم الرياضية
+Match Only Complete Articles,Afficher seulement les articles complets,Nur vollständige Artikel treffen,خصائص القيم الرياضية
+Message,Message,Nachricht,رسائل
+Message-ID,ID du message,Nachrichtenkennung,رسائل
+Message-ID Domain Name:,Nom de domaine de l'ID de message :,Domain für Nachrichtenkennungen:,اسم النطاق:
+Minutes to autosave the current Article Draft:,Minutes avant l'enregistrement automatique du brouillon de l'article actuel :,Minuten zum automatischen Speichern des aktuellen Artikelentwurfs:,افتح ملف
+Monospace font:,Police à largeur fixe :,Dicktengleiche Schrift:,خط ثابت العرض
+More Headers,En-têtes supplémentaires,Weitere Kopfzeilen,ترويسات حية
+Mouse,Souris,Maus,الفأرة
+Mute Quoted Text,Cacher le texte cité,Zitierten Text ausblenden,أصمت عند الخروج
+NZB Files,Fichiers NZB,NZB-Dateien,احفظ ملف
+Name,Nom,Name,الإسم
+Never Expire Old Articles,Ne jamais expirer les anciens articles,Immer gültig,لا ينتهي
+New Article's Content Transfer Encoding:,Codage du transfert du contenu des nouveaux articles :,Übertragungs-Zeichenkodierung des neuen Artikels:,اضبط ترميز المحارف
+New Article's Encoding:,Codage des nouveaux articles :,Kodierung des neuen Artikels:,اضبط ترميز المحارف
+New Articles!,Nouveaux articles !,Neue Artikel!,تدوير النص...
+New Profile,Nouveau profil,Neues Profil,طور جديد
+New Score,Nouvelle note,Neue Wertung,نيويورك
+New Scoring Rule,Nouvelle règle de notation,Neue Wertung,مستوى التسجيل
+Newsgroups,Groupe de discussion,Gruppen,مجموعات أخبار
+Next Article,Article suivant,Nächster Artikel,تدوير النص...
+Next Thread,Fil de discussion suivant,Nächster Strang,النّقاش التالي
+Next Unread Article,Article non lu suivant,Nächster ungelesener Artikel,الرّسالة غير المقروءة التالية
+Next Unread Thread,Fil de discussion non lu suivant,Nächster ungelesener Strang,الرّسالة غير المقروءة التالية
+Next Unread Thread,Fil de discussion non lu suivant,Nächster ungelesener Strang,النّقاش التالي
+Next Article,Article suivant,Nächster Artikel,تدوير النص...
+Next Group,Groupe suivant,Nächste Gruppe,مجموعة جديدة
+Next Unread Article,Article non lu suivant,Nächster ungelesener Artikel,الرّسالة غير المقروءة التالية
+Next Unread Group,Lire le groupe non lu suivant,Nächste ungelesene Gruppe,الرّسالة غير المقروءة التالية
+No Connections,Aucune connexion,Keine Verbindungen,إتّصالات VPN
+No Tasks,Aucune tâche,Keine Aufgaben,مهام
+None of these tests pass:,Aucun de ces tests ne réussit :,Keiner dieser Tests war erfolgreich:,اسم الصنف
+Offline,Hors ligne,Offline,غير متّصلل
+"On %d, %n wrote:","Le %d, %n a écrit :",Am %d schrieb %n:,ملاحظة واحدة
+Open Draft Article,Ouvrir un brouillon d'article,Artikelentwurf öffnen,افتح ملف
+Open an Article Draft,Ouvrir le brouillon d'un article,Artikelentwurf öffnen,افتح ملف
+Open the Event Log,Ouvrir le journal d'événements,Statusprotokoll öffnen,افتح المجلد الأب
+Open the Task Manager,Ouvrir le gestionnaire de tâches,Aufgabenplaner öffnen,يفتح مدير الأدوات الخارجية
+Optional Information,Informations facultatives,Optionale Informationen,معلومات اختيارية:
+Other Groups,Autres groupes,Andere Gruppen,تحرير المجموعات
+PGP Signature,Signature PGP,PGP-Signatur,توقيعات
+Pan,Pan,Pan,خطّة
+Pan %s started,Pan %s démarré,Pan %s gestartet,أضيفت لوحة المهام '%s'
+Pan Newsreader,Lecteur de nouvelles Pan,Pan Newsreader,تعلم القراءة
+Pan is Offline.,Pan est hors ligne.,Pan ist offline.,غير متّصلل
+Pan: Article's Scores,Pan : notes des articles,Pan: Artikelwertungen,نتائج نيبلس
+Pan: Events,Pan : événements,Pan: Aufgaben,أحداث
+Pan: Group Preferences,Pan : préférences du groupe,Pan: Gruppeneinstellungen,تفضيلات إيغنو
+Pan: Preferences,Pan : préférences,Pan: Einstellungen,تفضيلات إيغنو
+Pan: Save Articles,Pan : enregistrer les articles,Pan: Artikel speichern,احفظ الملف كـ
+Pan: Save Attachments,Pan : enregistrer les pièces jointes,Pan: Artikelanlagen speichern,احفظ المرفقات
+Pan: Tasks,Pan : tâches,Pan: Aufgabenplaner,اطبع المهام
+Pane Layout,Agencement des panneaux,Layout,مخطط القائمة
+Please specify the server's address.,Veuillez spécifier l'adresse du serveur.,Bitte geben Sie die Serveradresse an.,رجاء اختر خادماً.
+Port:,Port :,Port:,منفد:
+Post Anyway,,,حرّر على أي حال
+Post Article,Poster l'article,Artikel veröffentlichen,غير حرِج
+Post to Newsgroup,Poster dans le groupe de discussion,Eine neue Nachricht in die Gruppe schreiben,مجموعات أخبار
+"Posting ""%s""",Postage de « %s »,»%s« wird veröffentlicht,"الخيار ""%s"""
+Posting Profile,Profil de postage,Profil,تحرير ملف شخصي
+Posting Profiles,Profils de postage,Profile,فشل النشر: %s
+Posting profile:,Profil de postage :,Profil:,تحرير الملف الشخصي:
+"Posting of ""%s"" failed: %s",Échec du postage de « %s » : %s,Veröffentlichung von »%s« ist gescheitert: %s,فشل النشر: %s
+Posting of File %s (Part %d of %d) failed: %s,,,فشل النشر: %s
+Posting of file %s succesful: %s,,,فشل النشر: %s
+Previous Article,Article précédent,Vorheriger Artikel,المقطوعة السابقة
+Preferred Applications,Applications préférées,Bevorzugte Anwendungen,التطبيقات المفضّلة
+Previous Thread,Fil de discussion précédent,Vorheriger Strang,المقطوعة السابقة
+Primary,Principal,Primär,أوّلي
+Profile Information,Informations du profil,Profil-Informationen,معلومات الملف
+Profiles,Profils,Profile,ملفات التعريف
+Properties for %s,Propriétés pour %s,Eigenschaften von %s,خصائص
+Properties for Groups,Propriétés pour les groupes,Eigenschaften für Gruppen,خصائص
+Queued,En attente,In der Warteschlange,طابور
+Quoted text:,Texte cité :,,مقتبس
+Quoted-Printable Encoding,Codage « quoted-printable »,Quoted-Printable Kodierung,اللوحة السفلية
+Read Article,Lire l'article,Artikel lesen,تعلم القراءة
+Read Back,Lire en arrière,Zurückblättern,رد أوك
+Read Group,Lire le groupe,Gruppe lesen,اضف مجموعة
+Read More,Lire la suite,Weiterlesen,أحمر أو تدرج
+Read Back,Lire en arrière,Zurückblättern,رد أوك
+Read More,Lire la suite,Weiterlesen,أحمر أو تدرج
+Reading %s,Lecture de %s,%s wird gelesen,جاري القراءة من %s
+"Really delete ""%s""?",Vraiment supprimer « %s » ?,Wollen Sie »%s« wirklich löschen?,"أتريد حقاً حذف الملف ""%s""؟"
+"Really delete certificate for ""%s""?",Voulez-vous vraiment effacer le certificat pour « %s »?,Möchten Sie wirklich das Zertifikat für »%s« löschen?,"أتريد حقاً حذف الملف ""%s""؟"
+References,Références,Bezugsartikel,تفضيلات
+Refresh Group List,Actualiser la liste des groupes,Gruppenliste erneuern,حدِّث القائمة
+Remember Character Encoding for this Group,,,تذكّر كلمة سر هذه الجلسة
+Remove Certificate,Supprimer le certificat,Zertifikat entfernen,احذف الخادم
+Remove a Server,Supprimer un serveur,Einen Server entfernen,احذف الخادم
+Remove from Queue,Enlever de la liste d'attente,Aus der Warteschlange entfernen,احذف الخادم
+Remove the Selected Scoring Rule,Supprimer la règle de notation sélectionnée,Die ausgewählte Wertung entfernen,احذف شريط الأدوات المحدد
+Removing,Suppression en cours,Es wird entfernt,يجري حذف:
+Reply-To,Répondre à,Mailantwort an,رُد إلى
+Required Information,Informations requises,Benötigte Informationen,معلومات مطلوبة
+Restart Task,Redémarrer la tâche,Aufgabe neu starten,ريسيا الممر
+Restart Tasks,Redémarrer les tâches,Aufgaben neu starten,ريسيا الممر
+Revise and send this article to replace the old one.,Réviser cet article et le renvoyer pour remplacer l'ancien.,"Diesen Artikel revidieren und versenden, um die vorherige Version zu ersetzen.",الإسم الجديد مساو للاسم القديم.
+Rot13 Selected Text,Appliquer rot13 au texte sélectionné,Rot13 auf Textauswahl anwenden,ابحث عن النص المنتقى
+Run Editor,Lancer l'éditeur,Editor starten,محرر القوائم
+Run Editor,Lancer l'éditeur,Editor starten,محرر القوائم
+Running,Exécution en cours,Läuft,يجري تشغيل...
+Save Draft,Enregistrer le brouillon,Entwurf speichern,احفظ مسودّة
+"Sampling headers for ""%s""",Échantillonnage des en-têtes pour « %s »,Kopfzeilen für »%s« werden probeweise abgerufen,"مسح الرسائل في ""%s"""
+Save Articles,Enregistrer les articles,Artikel speichern,احفظ ملف
+Save Articles from Selected NZB,Enregistrer les articles du NZB sélectionné,Artikel des ausgewählten NZB speichern,حفظ إلى ملف
+Save Articles from Selected NZB...,Enregistrer les articles du NZB sélectionné...,Artikel des ausgewählten NZB speichern …,حفظ إلى ملف
+Save Articles to an NZB File,Enregistrer les articles dans un fichier NZB,Artikel in eine NZB-Datei speichern,حفظ إلى ملف
+Save Articles to an NZB File...,Enregistrer les articles dans un fichier NZB...,Artikel in eine NZB-Datei speichern …,حفظ إلى ملف
+Save Articles...,Enregistrer les articles...,Artikel speichern …,حفظ إلى ملف
+Save Draft Article,Enregistrer un brouillon d'article,Artikelentwurf speichern,احفظ مسودّة
+Save Event List,Enregistrer la liste des événements,Aufgabenliste speichern,احفظ التفاصيل
+Save NZB File as...,Sauvegarder les fichiers NZB sous...,NZB-Datei speichern unter …,احفظ ملف
+Save NZB's Files,Enregistrer les fichiers NZB,NZB-Dateien speichern,احفظ ملف
+Save all attachments,,,احفظ المرفقات
+Save attachment as ....,,,احفظ المرفقات
+Save attachments,Enregistrer les pièces jointes,Artikelanlagen speichern,احفظ المرفقات
+Save attachments and text,Enregistrer les pièces jointes et le texte,Anlagen und Text speichern,احفظ المرفقات
+Save text,Enregistrer le texte,Artikeltext speichern,نص مُوقّع
+"Saved ""%s""",« %s » enregistré,»%s« wurde gespeichert,احفظ باسم
+Saving %s,Enregistrement de %s,%s wird gespeichert,حفظ %s
+Score,Note,Wertung,النّتيجة:
+Select Article Body,Sélectionner le corps de l'article,Artikeltext auswählen,انتقاء هذا اليوم
+Select Needed Parts,Sélectionner les parties nécessaires,Benötigte Teile auswählen,اختر كل الملفات
+Select Parts,Sélectionner les parties,Teile auswählen,اختر كل الملفات
+Select All Articles,Sélectionner tous les articles,Alle Artikel auswählen,اختر كل الملفات
+Send Article Now,Envoyer l'article immédiatement,Artikel jetzt senden,أرسل تنبيه
+Send and Save Articles to NZB,Envoyer et enregistrer les articles vers NZB,Artikel senden und in NZB speichern,احفظ الملف كـ
+"Sending ""%s"" to %s returned an error: %s",L'envoi de « %s » à %s a renvoyé une erreur : %s,Das Versenden von »%s« an %s ergab einen Fehler: %s,ضبط %s لـ %s إلى %s
+Server Rank:,Rang du serveur :,Server-Wertung:,الخادم:
+Servers,Serveurs,Server,الخوادم
+Set Character Encoding...,Définir le codage des caractères...,Zeichenkodierung festlegen …,اضبط ترميز المحارف
+Set Content Transfer Encoding...,Définir le codage du transfert des contenus...,Zeichenkodierung für die Übertragung festlegen …,اضبط ترميز المحارف
+Set Editor,Définir l'éditeur,Editor festlegen,محرر التحديد
+Set Focus to Images,Mettre le focus sur les images,Fokus auf Bilder setzen,اختر صورة الشعار
+Settings,Paramètres,Einstellungen,الإعدادات
+Show Article Information,Afficher les informations de l'article,Artikel-Informationen anzeigen,اعرض معلومات الصورة
+Show Body Pane,Afficher le panneau du corps,Artikeltext anzeigen,اعرض الشريط الجانبي
+Show Group Pane,Afficher le panneau des groupes,Gruppenliste anzeigen,اعرض الشريط الجانبي
+Show Header Pane,Afficher le panneau des en-têtes,Kopfzeilenliste anzeigen,اعرض الشريط الجانبي
+Show Matching Articles,Afficher les articles correspondants,Zutreffende Artikel anzeigen,بمطابقة الفنان
+Show Smilies as Graphics,Afficher les frimousses comme des graphismes,Smilies als Grafiken anzeigen,لا تعرض سوى قائمة المهام هذه
+Show Toolbar,Afficher la barre d'outils,Werkzeugleiste anzeigen,أظهر شريط الأدوات
+Show icons and text,Afficher les icônes et le texte,Text und Symbole anzeigen,احفظ المرفقات
+Show notifications,Afficher les informations,Benachrichtigungen anzeigen,اعرض معلومات الصورة
+Show only icons,Afficher seulement les icônes,Nur die Symbole anzeigen,اعرض معلومات الصورة
+Show only text,Afficher seulement le texte,Nur den Text anzeigen,اعرض الشريط الجانبي
+Signature,Signature,Signatur,توقيعات
+Signature File,Fichier de signature,Signaturdatei,جدول التوقيعات
+Signature Type :,,,جدول التوقيعات
+Signature:,Signature :,Signatur:,توقيع:
+Simplified,Simplifié,Vereinfacht,صيني مبسّط
+"Skipping newsrc file for server ""%s""",Saut du fichier newsrc pour le serveur « %s »,newsrc-Datei für Server »%s« wird übersprungen,"إعدادات الخدمة ""%s"""
+Smooth scrolling,Défilement fluide,Weicher Bildlauf,اللف
+Startup Behavior,Comportement au démarrage,Startverhalten,السّلوك
+State,État,Status,الحالة
+Stop Task,Arrêter la tâche,Aufgabe anhalten,مهمة الزر
+Stop Tasks,Arrêter les tâches,Aufgaben stoppen,مهمة الزر
+Stopped,Arrêtée,Unterbrochen,أوقٍِفَ
+Sub or Auth (regex),Sujet ou auteur (expression régulière),Sub oder Auth (regex),الموضوع يحتوي
+Subject,Sujet,Betreff,الموضوع
+Subject Line,Sujet,Betreffzeile,الموضوع
+Subject or Author,Sujet ou auteur,Betreff oder Autor,الموضوع يحتوي
+Subscribe,S'abonner,Abonnieren,إشترِك
+Subscribed Groups,Groupes abonnés,Abonnierte Gruppen,إشترِك
+System Tray Behavior,Comportement de la barre de notification,Verhalten der Benachrichtigungen,السّلوك
+Tasks,Tâches,Aufgaben,مهام
+Text,Texte,Text,نص
+Text File,Fichier texte,Textdatei,ملف نصي
+Text:,Texte :,Text:,نص
+There were problems with this post.,Il y a des problèmes avec cet article.,Es gab Probleme mit diesem Artikel.,هناك ملف شخصي يحمل هذا الاسم
+Today %l:%M %p,Aujourd'hui %k:%M,Heute %H:%M,اليوم %l:%M %p
+Traditional,Traditionnel,Traditionell,صيني تقليدي
+Turkish,Turc,Türkisch,ا-ص|تركي
+URL:,URL :,URL:,العنوان:
+Ukrainian,Ukrainien,Ukrainisch,سيريالي / اوكراني (KOI8-U)
+Unable to cancel article.,Impossible d'annuler l'article.,Artikel konnte nicht widerrufen werden.,غير قادر على تغيير الثقة
+"Unable to connect to ""%s""",Impossible de se connecter à « %s »,Verbindung mit »%s« kann nicht hergestellt werden,فشل الإتصال بـ GConf
+"Unable to save ""%s"" %s",Impossible de sauvegarder « %s » %s,»%s« konnte nicht gespeichert werden: %s,فشل في حفظ %s: %s
+Unable to supersede article.,Impossible de remplacer l'article.,Artikel konnte nicht ersetzt werden.,لا يمكن إرسال الملف
+Unicode,Unicode,Unicode,يونيكود
+Unknown,Inconnu,Unbekannt,مجهول
+Unknown Error,Erreur inconnue,Unbekannter Fehler,خطأ مجهول
+Unnamed File,Fichier sans nom,Unbenannte Datei,جدول التوقيعات
+Unsubscribe,Se désabonner,Abbestellen,إلغاء الإشتراك
+Uploading %s,Envoi de %s en cours,%s wird hochgeladen,جاري القراءة من %s
+Use GNOME Preferences,Utiliser les préférences de GNOME,GNOME-Einstellungen verwenden,تفضيلات عين جنوم
+Use KDE Preferences,Utiliser les préférences de KDE,KDE-Einstellungen verwenden,تفضيلات الفأرة
+Use OS X Preferences,Utiliser les préférences de OS X,OSX-Einstellungen verwenden,تفضيلات الفأرة
+Use Secure SSL Connections,Utiliser des connexions SSL sécurisées,Sichere Verbindung (SSL) benutzen,إتّصالات VPN
+Use Windows Preferences,Utiliser les préférences de Windows,Windows-Einstellungen verwenden,تفضيلات النافذة
+Use Monospace Font,Utiliser une police à largeur fixe,Dicktengleiche Schrift verwenden,خط ثابت العرض
+Use custom font in Body Pane:,Utiliser une police personnalisée dans le panneau du corps :,Hier angegebene Schriften für Artikeltext verwenden:,إستعمال خطوط مخصّصة
+Use custom font in Group Pane:,Utiliser une police personnalisée dans le panneau des groupes :,Hier angegebene Schriften für Gruppenliste verwenden:,إستعمال خطوط مخصّصة
+Use custom font in Header Pane:,Utiliser une police personnalisée dans le panneau des en-têtes :,Hier angegebene Schriften für Kopfzeilen verwenden:,إستعمال خطوط مخصّصة
+Warning: Following-Up to too many groups.,Attention : retransmis vers beaucoup trop de groupes.,WARNUNG: Fortschrift in zu vielen Gruppen.,تحذير من وجود العديد من اﻷعلام
+"Warning: Group ""%s"" is read-only.",Attention : groupe « %s » en lecture seule.,WARNUNG: Gruppe »%s« gestattet nur das Lesen.,"الملف ""%s"" للقراءة فقط."
+Warning: The message is mostly quoted text.,Attention : ce message contient essentiellement du texte cité.,WARNUNG: Diese Nachricht besteht größtenteils aus zitiertem Text.,هذه الرّسالة تحتوي فقط طلبات غير مدعومة.
+Western European,Europe occidentale,Westeuropäisch,وسط أوروبي  (MacCE)
+"Western European, New","Europe occidentale, nouveau",Westeuropäisch (neu),غربي
+Wrap Text,Formater le texte,Text umbrechen,كسر النص
+You marked some articles for deletion,,,إضافة إلى التحديد
+You may want to go back or delete the old rule.,Vous pouvez revenir à l'état précédent ou supprimer l'ancienne règle.,"Sie sollten zurückgehen, um die alte Regel zu entfernen.",لم يمكن محو المحفوظة القديمة.
+Your changes will be lost!,Vos modifications seront perdues !,Ihre Änderungen werden verloren gehen!,إذا خرجت من جمب الآن،هذه التغييرات ستفقد
+1. Group Pane,1. Panneau des groupes,1. Gruppenliste,اسم المجموعة
+2. Header Pane,2. Panneau des en-têtes,2. Kopfzeilenliste,حشو الرأس
+3. Body Pane,3. Panneau du corps,3. Artikeltext,اللوحة السفلية
+About,À propos,Info,6 عن البرنامج
+Action:,Action :,Aktion:,فعل
+Actions,Actions,Aktionen,أحداث
+Address:,Adresse :,Adresse:,العنوان:
+Applications,Applications,Anwendungen,تطبيقات
+Articles,Articles,Artikel,الفنان
+Attribution:,Attribution :,Zuschreibung:,مساهمات:
+Behavior,Comportement,Verhalten,السّلوك
+Body Pane,Panneau du corps,Artikeltext,اللوحة السفلية
+Cancel Last Task,Annuler la dernière tâche,Letzte Aufgabe widerrufen,حوِّل إلى مهمَّة
+Colors,Couleurs,Farben,الألوان
+Custom Headers,En-têtes personnalisés,Benutzerdefinierte Kopfzeilen,ترويسات مخصصة
+Delete Article,Supprimer l'article,Artikel löschen,احذف الكل
+Delete Selected Groups' Articles,Supprimer les articles des groupes sélectionnés,Artikel der ausgewählten Gruppe löschen,حذف المراسَلين المنتقَيين
+Deselect All Articles,Désélectionner tous les articles,Keine Artikel auswählen,إلغي إختيار جميع الملفات
+Edit,Édition,Bearbeiten,تحرير/
+Email Address:,Adresse électronique :,E-Mail-Adresse:,عنوان البريد الإلكتروني:
+Event Log,Journal d'événements,Statusprotokoll,صندوق حدث
+File,Fichier,Datei,/ملف
+Followup to Newsgroup,Transmettre au groupe de discussion,Fortschrift in der Gruppe erstellen,مجموعات أخبار
+Fonts,Polices,Schriften,الخطوط
+Full Name:,Nom complet :,Vollständiger Name:,الاسم الكامل:
+Go,Aller à,Gehe zu,اذهب
+Go to Last Flagged Thread,Aller au dernier fil marqué,Zum letzten markierten Diskussionsfaden gehen,الرّسالة غير المقروءة التالية
+Go to Next Flagged Thread,Aller au prochain fil marqué,Zum nächsten markierten Diskussionsfaden gehen,الرّسالة غير المقروءة التالية
+Group Pane,Panneau des groupes,Gruppenliste,اسم المجموعة
+Group's path: %s,Chemin du groupe : %s,Gruppenpfad: %s,اسم المجموعة:  %s
+Header Pane,Panneau des en-têtes,Kopfzeilenliste,حشو الرأس
+Headers,En-têtes,Kopfzeilen,ترويسات
+Help,Aide,Hilfe,مساعدة
+Ignore Thread,Ignorer le fil de discussion,Strang ignorieren,تجاهل الحالة
+Import NZB Files...,Importer les fichiers NZB...,NZB-Dateien importieren …,استورد ملفات...
+Invert Selection,Inverser la sélection,Auswahl umkehren,ألفا إلى تحديد
+Layout,Agencement,Anordnung,تخطيط
+Location:,Emplacement :,Ort:,الموقع:
+Mail reader:,Lecteur de messagerie :,E-Mail-Programm:,مجلّد البريد:
+Mark Article as Read,Marquer l'article comme lu,Artikel als gelesen markieren,علّم ك مقروءة
+Mark Selected Groups Read,Marquer les groupes sélectionnés comme lus,Ausgewählte Gruppen als gelesen markieren,علّم المهام المنتقاة كمكتملة
+Mark Thread as Read,Marquer le fil comme lu,Den aktuellen Diskussionsfaden als gelesen markieren,علّم ك مقروءة
+Message,Message,Nachricht,رسالة
+Newsgroups,Groupes de discussion,Gruppen,مجموعات أخبار
+Online,En ligne,Online,متصل
+Open Draft...,Ouvrir un brouillon...,Entwurf öffnen …,إفتح ملف...
+Pan Home Page,Page d'accueil de Pan,Pans Homepage,الصفحة الرئيسيّة:
+Parent Article,Article parent,Bezugsartikel,الكائن ا?ب
+Password:,Mot de passe :,Passwort:,كلمة السر:
+Post,Postage,Schreiben,معظم
+Post to Newsgroup,Poster dans le groupe de discussion,Nachricht in die Gruppe schreiben,مجموعات أخبار
+Priority:,Priorité :,Priorität:,الأولويّة:
+Profile,Profil,Profil,ملف شخصي
+Profile Name:,Nom du profil :,Profilname:,اسم الطور:
+Quit,Quitter,Beenden,اخرج
+Read Group,Lire le groupe,Gruppe lesen,اضف مجموعة
+Reply to Author in Mail,Répondre à l'auteur par courriel,Dem Autor per Mail antworten,رد على الجميع
+Reply-To,Répondre à,Antwort an,رد إلى
+Rot13,Rot13,Rot13,بعيد
+Rot13 Selected Text,Appliquer Rot13 sur le texte sélectionné,Rot13 auf Textauswahl anwenden,ابحث عن النص المنتقى
+Save Articles...,Enregistrer les articles...,Artikel speichern …,حفظ إلى ملف
+Select All Flagged Threads,Sélectionner tous les fils marqués,Alle markierten Diskussionsfäden auswählen,الرّسالة غير المقروءة التالية
+Send Article,Envoyer l'article,Artikel senden,أرسل تنبيه
+Send and Save Articles to NZB,Envoyer et enregistrer les articles vers NZB,Artikel senden und in NZB speichern,حفظ إلى ملف
+Subject,Sujet,Betreff,الموضوع
+Subscribe,S'abonner,Abonnieren,إشترِك
+Supersede Article...,Remplacer l'article...,Artikel ersetzen …,حفظ إلى ملف
+Tabbed Layout,Agencement en onglets,Reiterweise Anordnung,مخطط القائمة
+Task Manager,Gestionnaire de tâches,Aufgabenplaner,المدير:
+Text editor:,Éditeur de texte :,Texteditor:,محرر التحديد
+Thread Headers,En-têtes du fil de discussion,Strang-Kopfzeilen,ترويسات HTTP
+Tip Jar...,Verser une contribution...,,ترويسة كبيرة...
+Toggle Flag On/Off for Thread,Basculer le marquage de ce fil de discussion,Markierung für Strang ein-/ausschalten,النّقاش التالي
+Turn Flag Off for Thread,Ne plus marquer ce fil de discussion,Markierung für Strang ausschalten,النّقاش التالي
+Unsubscribe,Se désabonner,Abbestellen,إلغاء الإشتراك
+Upload,Envoyer,Hochladen,تطبيقات
+Use a Signature,Utiliser une signature,Signatur verwenden,توقيع سيّء
+Username:,Identifiant :,Benutzername:,اسم المستخدم:
+View,Affichage,Ansicht,عرض/
+Watch Thread,Surveiller le fil de discussion,Strang überwachen,النّقاش التالي
+Web browser:,Navigateur Web :,Webbrowser:,متصفح الويب
+Work Online,Travailler en ligne,Onlinemodus,اعمل باتّصال
+Wrap Article Body,,,لف حول
+Wrap Text,Formater le texte,Umbrechen,كسر النص
+article doesn't have attachments,l'article n'a pas de pièces jointes,Artikel hat keine Anlagen,تعذر فتح المرفقات
+at,le,an,إلى
+contains,contient,enthält,يحتوي
+doesn't contain,ne contient pas,enthält nicht,لا يحتوي
+ends with,finit par,endet mit,ينتهي بـ
+for the next month,pour le mois suivant,für den nächsten Monat,اظهر النقلة التالية
+for the next six months,pour les six prochains mois,für die nächsten sechs Monate,شغّل الأغنية السابقة
+forever,pour toujours,für immer,إلى الأبد
+from,de,von,من
+is,est,ist,قائمة
+is at most,est au plus,ist meistens,على الأكثر
+is more than,est supérieur à,ist mehr als,أكثر من
+isn't,n'est pas,ist nicht,ليس
+matches regex,correspond à l'expression régulière,trifft regulären Ausdruck,ترييش الحواف
+set the article's score to,définir la note de l'article à,Wertung des Artikels setzen auf,حرك العقارب لتحديد الساعة :
+starts with,commence par,beginnt mit,لا يبدء بـ
+the article has attachments,l'article a des pièces jointes,Artikel hat Anlagen,احفظ جميع المرفقات
+the article has been read,l'article a été lu,Artikel ist gelesen,لا يمكن قراءة أالملف
+the article hasn't been read,l'article n'a pas été lu,Artikel ist nicht gelesen,لا يمكن قراءة أالملف
+the article is at least %ld bytes long,l'article fait au moins %ld octets,Artikel ist mindestens %ld Bytes lang,يجب أن يكون طوله 5 محارف على الأقل
+the article is less than %ld days old,l'article a été posté il y a moins de %ld jours,Artikel ist jünger als %ld Tage,الأعداد الأولية الأصغر من %d
+the article's score is less than %ld,la note de l'article est inférieure à %ld,Die Artikelwertung ist %ld oder niedriger,الأعداد الأولية الأصغر من %d
+unknown,inconnu,unbekannt,مجهول

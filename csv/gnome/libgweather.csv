@@ -1,0 +1,196 @@
+Beaufort force %.1f,Force %.1f Beaufort,Beaufort-Stärke %.1f,قوة بيوفور %I.1f
+Blowing dust,Poussière et vent,Staubtreiben,غبار عاصف
+Blowing sand,Sable venteux,Sandtreiben,رمل عاصف
+Blowing snowfall,Chute de neige et vent,Schneetreiben,عاصفة ثلجية
+Blowing sprays,Embruns et vent,Aufgewirbeltes Seewasser,رذاذ عاصف
+Broken clouds,Très peu de nuages,Teils wolkig,غيوم مفككة
+Calm,Calme,Ruhig,هادئ
+Clear sky,Ciel dégagé,Klar,سماء صافية
+Default location,Emplacement par défaut,Vorgegebener Standort,الموقع المبدئي
+Distance unit,Unité de distance,Entfernungseinheit,وحدة المسافة
+Drifting dust,Amoncellement de poussière,Staubverwehungen,غبار جارف
+Drifting sand,Amoncellement de sable,Sandverwehungen,رمل جارف
+Drifting snow,Amoncellement de neige,Schneeverwehungen,ثلج جارف
+Drizzle,Bruine,Nieselregen,رذاذ
+Dust,Poussière,Staub,غبار
+Dust whirls,Tourbillons de poussière,Staubteufel,دوامات غبار
+Dust whirls in the vicinity,Tourbillons de poussière dans les environs,Staubteufel in der Umgebung,دوامات غبار بالجوار
+Duststorm,Tempête de poussière,Staubsturm,عاصفة غبار
+Duststorm in the vicinity,Tempête de poussière dans les environs,Staubsturm in der Umgebung,عاصفة غبار بالجوار
+East,Est,Ost,شرق
+East — Northeast,Est — Nord-Est,Ostnordost,شرق — شمال شرقي
+East — Southeast,Est — Sud-Est,Ostsüdost,شرق — جنوب شرقي
+Failed to get METAR data: %d %s.,,,فشل الحصول على بيانات ‏METAR: ‏%Id ‏%s
+Few clouds,Quelques nuages,Vereinzelt bewölkt,غيوم قليلة
+Fog,Brouillard,Dichter Nebel,ضباب
+Fog in the vicinity,Brouillard dans les environs,Dichter Nebel in der Umgebung,ضباب بالجوار
+Freezing drizzle,Bruine givrante,Gefrierender Nieselregen,رذاذ مجمِّد
+Freezing fog,Brouillard givrant,Gefrierender Nebel,ضباب مجمِّد
+Freezing rain,Pluie givrante,Gefrierender Regen,مطر مجمِّد
+Funnel cloud,Mini tornade,Gewitterwolken,سحابة أنبوبية
+Greenwich Mean Time,,,وقت جرينتش
+Hail,Grêlons,Hagel,برَد
+Hail showers,Averses de grêlons,Hagelschauer,وابل من البرَد
+Hailstorm,Tempête de grêlons,Hagelsturm,عاصفة برَد
+Haze,Brume légère,Dunst,سديم
+Heavy drizzle,Bruine lourde,Starker Nieselregen,رذاذ ثقيل
+Heavy duststorm,Tempête de poussière violente,Heftiger Staubsturm,عاصفة غبار كثيفة
+Heavy rain,Pluie drue,Starker Regen,مطر كثيف
+Heavy sandstorm,Tempête de sable violente,Schwerer Sandsturm,عاصفة رملية كثيفة
+Heavy sleet,Grésil violent,Schwerer Eisregen,مطر متجمد كثيف
+Heavy snow,Neige violente,Schwerer Schneefall,ثلوج كثيفة
+Heavy snow grains,Flocons de neige violents,Starker Schneegriesel,حبات ثلجية كثيفة
+Ice crystals,Poudrins de glace,Eiskristalle,بلورات ثلجية
+Invalid,Non valides,Ungültig,غير صحيح
+Light drizzle,Bruine légère,Leichter Nieselregen,رذاذ خفيف
+Light rain,Pluie légère,Leichter Regen,مطر خفيف
+Light snow,Neige légère,Leichter Schneefall,ثلوج خفيفة
+Light snow grains,Légers flocons de neige,Leichter Schneegriesel,حبات ثلجية خفيفة
+Little sleet,Léger grésil,Leichter Eisregen,مطر متجمد قليل
+Loading…,,,يُحمّل…
+Mist,Brume,Nebel,غشاء
+Moderate drizzle,Bruine modérée,Mäßiger Nieselregen,رذاذ متوسط
+Moderate rain,Pluie modérée,Mäßiger Regen,مطر متوسط
+Moderate sleet,Grésil modéré,Mäßiger Eisregen,مطر متجمد متوسط
+Moderate snow,Neige modérée,Mäßiger Schneefall,ثلوج متوسطة
+Moderate snow grains,Flocons de neige modérés,Mäßiger Schneegriesel,حبات ثلجية متوسطة
+North,Nord,Nord,شمال
+North — Northeast,Nord — Nord-Est,Nordnordost,شمال — شمال شرقي
+North — Northwest,Nord — Nord-Ouest,Nordnordwest,شمال — شمال غربي
+Northeast,Nord-Est,Nordost,شمال شرقي
+Northwest,Nord-Ouest,Nordwest,شمال غربي
+Overcast,Couvert,Bedeckt,مكفهر
+Partial fog,Brouillard intermittent,Teils dichter Nebel,ضباب جزئي
+Patches of fog,Nappes de brouillard,Vereinzelt dichter Nebel,رقع من الضباب
+Pressure unit,Unité de pression,Druckeinheit,وحدة الضغط
+Rain,Pluie,Regen,مطر
+Rain showers,Averses,Regenschauer,وابل من المطر
+Retrieval failed,La récupération a échoué,Abrufen fehlgeschlagen,فشل الجلب
+Sand,Sable,Sand,رمل
+Sandstorm,Tempête de sable,Sandsturm,عاصفة رملية
+Sandstorm in the vicinity,Tempête de sable dans les environs,Sandsturm in der Umgebung,عاصفة رملية بالجوار
+Scattered clouds,Nuages disséminés,Leicht bewölkt,غيوم متفرقة
+Shallow fog,Brouillard superficiel,Dichter Bodennebel,ضباب خفيف جدا
+Showers of sleet,Averses de grésil,Eisregenschauer,وابل من المطر المتجمد
+Showers of small hail,Averses de petite grêle,Hagelschauer,وابل من البرَد الصغير
+Sleet,Grésil,Eisregen,مطر متجمد
+Sleet storm,Tempête de grésil,Eisregensturm,عاصفة من المطر المتجمد
+Small hail,Petite grêle,Leichter Hagel,برَد صغير
+Small hailstorm,Tempête de petite grêle,Leichter Hagelsturm,عاصفة من البرَد الصغير
+Smoke,Fumée,Rauch,دخان
+Snow,Neige,Schneefall,ثلوج
+Snow grains,Flocons de neige,Schneegriesel,حبات ثلجية
+Snow showers,Précipitations de neige,Schneeschauer,وابل ثلجي
+Snowstorm,Tempête de neige,Schneesturm,عاصفة ثلجية
+South,Sud,Süd,جنوب
+South — Southeast,Sud — Sud-Est,Südsüdost,جنوب — جنوب شرقي
+South — Southwest,Sud — Sud-Ouest,Südsüdwest,جنوب — جنوب غربي
+Southeast,Sud-Est,Südost,جنوب شرقي
+Southwest,Sud-Ouest,Südwest,جنوب غربي
+Speed unit,Unité de vitesse,Geschwindigkeitseinheit,وحدة السرعة
+Squall,Bourrasque,Windböen,عاصفة مفاجئة
+Temperature unit,Unité de température,Temperatureinheit,وحدة الحرارة
+"The custom URL from where to retrieve a radar map, or empty for disabling radar maps.",,,العنوان الخاص الذي يحصل منه على خريطة الرادار، أو فارغا لتعطيل خرائط الرادار.
+Thunderstorm,Orage,Gewitter,عاصفة رعدية
+Tornado,Tornade,Tornado,إعصار
+URL for the radar map,,,مسار خريطة الرادار
+Unknown,Inconnue,Unbekannt,غير معروفة
+Unknown observation time,Date d’observation inconnue,Unbekannte Beobachtungszeit,وقت الرصد مجهول
+Unknown precipitation,Précipitations inconnues,Unbekannte Niederschläge,هطول مجهول
+Variable,Variable,Veränderlich,متغير
+Volcanic ash,Cendres volcaniques,Vulkanasche,رماد بركاني
+"Weather data from the Open Weather Map project",,,"بيانات الطقس من مشروع خريطة الطقس المفتوحة"
+"Weather data from the Norwegian Meteorological Institute",,,"بيانات الطقس من معهد الأرصاد النرويجية"
+West,Ouest,West,غرب
+West — Northwest,Ouest — Nord-Ouest,Westnordwest,غرب — شمال غربي
+West — Southwest,Ouest — Sud-Ouest,Westsüdwest,غرب — جنوب غربي
+blowing dust,poussière et vent,Staubtreiben,غبار عاصف
+blowing sand,sable venteux,Sandtreiben,رمل عاصف
+blowing snowfall,chute de neige et vent,Schneetreiben,عاصفة ثلوج متساقطة
+blowing sprays,embruns et vent,Aufgewirbeltes Seewasser,رذاذ عاصف
+broken clouds,très peu de nuages,Teils wolkig,غيوم مفككة
+clear sky,ciel dégagé,Klar,سماء صافية
+default:mm,default:mm,default:mm,default:mm
+drifting dust,amoncellement de poussière,Staubverwehungen,غبار منجرف
+drifting sand,amoncellement de sable,Sandverwehungen,رمل منجرف
+drifting snow,amoncellement de neige,Schneeverwehungen,ثلج منجرف
+drizzle,bruine,Nieselregen,رذاذ
+dust,poussière,Staubtreiben,غبار
+dust whirls,tourbillons de poussière,Staubteufel,دوامات غبار
+dust whirls in the vicinity,tourbillons de poussière dans les environs,Staubteufel in der Umgebung,دوامات غبار بالجوار
+duststorm,tempête de poussière,Staubsturm,عاصفة غبار
+duststorm in the vicinity,tempête de poussière dans les environs,Staubsturm in der Umgebung,عاصفة غبار بالجوار
+east,est,Ost,شرق
+east — northeast,est — nord-est,Ostnordost,شرق — شمال شرقي
+east — southeast,est — sud-est,Ostsüdost,شرق — جنوب شرقي
+few clouds,quelques nuages,Vereinzelt bewölkt,غيوم خفيفة
+fog,brouillard,Nebel,ضباب
+fog in the vicinity,brouillard dans les environs,Nebel in der Umgebung,ضباب بالجوار
+freezing drizzle,bruine givrante,Gefrierender Nieselregen,رذاذ مجمد
+freezing fog,brouillard givrant,Gefrierender Nebel,ضباب مجمد
+freezing rain,pluie givrante,Gefrierender Regen,مطر مجمد
+funnel cloud,mini tornade,Gewitterwolken,سحابة أنبوبية
+hail,grêle,Hagel,برَد
+hail showers,averses de grêlons,Hagelschauer,وابل من البرَد
+hailstorm,tempête de grêlons,Hagelsturm,عاصفة برَد
+haze,brume,Dunst,سديم
+heavy drizzle,bruine lourde,Starker Nieselregen,رذاذ ثقيل
+heavy duststorm,tempête de poussière violente,Heftiger Staubsturm,عاصفة غبار كثيفة
+heavy rain,pluie drue,Starker Regen,مطر كثيف
+heavy sandstorm,tempête de sable violente,Schwerer Sandsturm,عاصفة رملية كثيفة
+heavy sleet,grésil violent,Schwerer Eisregen,مطر متجمد كثيف
+heavy snow,neige violente,Starker Schneefall,ثلوج كثيفة
+heavy snow grains,flocons de neige violents,Starker Schneegriesel,حبات ثلجية كثيفة
+ice crystals,poudrins de glace,Eiskristalle,بلورات ثلجية
+invalid,non valides,Ungültig,غير صحيح
+light drizzle,bruine légère,Leichter Nieselregen,رذاذ خفيف
+light rain,pluie légère,Leichter Regen,مطر خفيف
+light snow,neige légère,Leichter Schneefall,ثلوج خفيفة
+light snow grains,légers flocons de neige,Leichter Schneegriesel,حبات ثلجية خفيفة
+little sleet,léger grésil,Leichter Eisregen,مطر متجمد قليل
+mist,brume,Nebel,غشى
+moderate drizzle,bruine modérée,Mäßiger Nieselregen,رذاذ متوسط
+moderate rain,pluie modérée,Mäßiger Regen,مطر متوسط
+moderate sleet,grésil modéré,Mäßiger Eisregen,مطر متجمد متوسط
+moderate snow,neige modérée,Mäßiger Schneefall,ثلوج متوسطة
+moderate snow grains,flocons de neige modérés,Mäßiger Schneegriesel,حبات ثلجية متوسطة
+north,nord,Nord,شمال
+north — northeast,nord — nord-est,Nordnordost,شمال — شمال شرقي
+north — northwest,nord — nord-ouest,Nordnordwest,شمال — شمال غربي
+northeast,nord-est,Nordost,شمال شرقي
+northwest,nord-ouest,Nordwest,شمال غربي
+overcast,couvert,bedeckt,مكفهر
+partial fog,brouillard intermittent,Teils Nebel,ضباب جزئي
+patches of fog,nappes de brouillard,Vereinzelter Nebel,رقع من الضباب
+rain,pluie,Regen,مطر
+rain showers,averses,Regenschauer,وابل من المطر
+sand,sable,Sandtreiben,رمال
+sandstorm,tempête de sable,Sandsturm,عاصفة رملية
+sandstorm in the vicinity,tempête de sable dans les environs,Sandsturm in der Umgebung,عاصفة رملية بالجوار
+scattered clouds,nuages disséminés,Leicht bewölkt,غيوم متفرقة
+shallow fog,brouillard superficiel,Bodennebel,ضباب خفيف جدا
+showers of sleet,averses de grésil,Eisregenschauer,وابل من المطر المتجمد
+showers of small hail,averses de petite grêle,Leichte Hagelschauer,وابل من البرَد الصغير
+sleet,grésil,Eisregen,مطر متجمد
+sleet storm,tempête de grésil,Eisregensturm,عاصفة من المطر المتجمد
+small hail,petite grêle,Leichter Hagel,برَد صغير
+small hailstorm,tempête de petite grêle,Leichter Hagelsturm,عاصفة من البرَد الصغير
+smoke,fumée,Rauch,دخان
+snow,neige,Schneefall,ثلوج
+snow grains,flocons de neige,Schneegriesel,حبات ثلجية
+snow showers,précipitations de neige,Schneeschauer,وابل ثلجي
+snowstorm,tempête de neige,Schneesturm,عاصفة ثلجية
+south,sud,Süd,جنوب
+south — southeast,sud — sud-est,Südsüdost,جنوب — جنوب شرقي
+south — southwest,sud — sud-ouest,Südsüdwest,جنوب — جنوب غربي
+southeast,sud-est,Südost,جنوب شرقي
+southwest,sud-ouest,Südwest,جنوب غربي
+squall,bourrasque,Windböen,عاصفة مفاجئة
+thunderstorm,orage,Gewitter,عاصفة رعدية
+tornado,tornade,Tornado,إعصار
+unknown precipitation,précipitations inconnues,Unbekannte Niederschläge,تكثف مجهول
+variable,variable,Veränderlich,متغير
+volcanic ash,cendres volcaniques,Vulkanasche,رماد بركاني
+west,ouest,West,غرب
+west — northwest,ouest — nord-ouest,Westnordwest,غرب — شمال غربي
+west — southwest,ouest — sud-ouest,Westsüdwest,غرب — جنوب غربي

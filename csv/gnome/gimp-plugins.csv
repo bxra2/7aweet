@@ -1,0 +1,2362 @@
+
+"""Fix seed"" button is an alias of me.
+The same seed produces the same image, if (1) the widths of images are same (this is the reason why image on drawable is different from preview), and (2) all mutation rates equal to zero.","Le bouton « Définir le germe » fait la même chose.
+Un même germe produit une même image si (1) les largeurs des images sont les mêmes (c’est pourquoi l’image finale est différente de l’aperçu) et (2) tous les taux de mutation sont nuls.","»Feste Anfangszahl« ist ein anderer Name.
+Die gleiche Anfangszahl erzeugt das gleiche Bild, wenn einerseits die Breiten der Bilder gleich sind (deswegen ist das endgültige Bild anders als die Vorschau) und andererseits alle Mutationsraten gleich Null sind.","زر ""تثبيت البذرة"" هو اسم مستعار لي.
+البذرة نفسها تنتج الصورة نفسها، إذا (1) كان عرض الصورتين متماثلًا (هذا هو سبب اختلاف معاينة الصورة عن الصورة المرسومة)، و (2) كانت كل معدلات التحول تساوي صفرًا."
+#,n°,Nr.,#
+# of Spikes:,Nb de pointes :,Strahlenanzahl:,# المسامير:
+# of subranges:,Nb de sous-intervalles :,Anzahl der Unterbereiche:,# من المجالات الفرعية:
+%d fps,,%d Bilder/s,%d إطار\ث
+%d × %d,%d x %d,,%d × %d
+%s-%d-of-%d-pages,%s-page-%d-sur-%d,,صفحات %s-%d-من-%d
+%s-%s,%s-%s,,%s-%s
+%s-pages,%s-pages,%s-Seiten,%s-صفحات
+'%s' is corrupt. Line %d Option section incorrect,« %s » est endommagé. Ligne %d : section d’option incorrecte,Die Datei »%s« ist beschädigt. Die Option in Zeile %d ist nicht gültig,'%s' فاسد. السطر %d قسم الخيار غير صحيح
+'%s' is not a DICOM file.,« %s » n’est pas un fichier DICOM.,»%s« ist keine DICOM-Datei.,'%s' ليس ملف DICOM.
+'%s' is not a FractalExplorer file,« %s » n’est pas un fichier FractalExplorer,»%s« ist keine Fraktal-Explorer-Datei,'%s' ليس ملفًا لمستكشف الجزيئيات
+'%s' is not a PCX file,« %s » n’est pas un fichier PCX,»%s« ist keine PCX-Datei,'%s' ليس ملف PCX
+'%s' is not a regular file,« %s » n’est pas un fichier correct,»%s« ist keine gültige Datei,'%s' ليس ملفًا عاديًا
+'%s' is not a valid BMP file,« %s » n’est pas un fichier BMP valide,»%s« ist keine gültige BMP-Datei,%s ليس ملف BMP صالحًا
+'%s' is not a valid GFlare file.,« %s » n’est pas un fichier valide.,»%s« ist keine gültige GFlare-Datei.,'%s' ليس ملف GFlare صالح.
+'%s' is not a valid X cursor.,« %s » n’est pas un curseur X valide.,»%s« ist kein gültiger X-Mauszeiger.,%s ليس ملف BMP صالحًا
+'%s' is too high for an X cursor.,« %s » est trop haut pour un curseur X.,»%s« ist zu hoch für einen X-Mauszeiger.,%s ليس ملف BMP صالحًا
+'%s' is too wide for an X cursor.,« %s » est trop large pour un curseur X.,»%s« ist zu breit für einen X-Mauszeiger.,%s ليس ملف BMP صالحًا
+"'%s':
+Could not read header (ftell == %ld)","« %s » :
+Impossible de lire l’en-tête (ftell == %ld)","»%s«:
+Dateikopf konnte nicht gelesen werden (ftell == %ld)","'%s':
+لم يمكن قراءة الترويسة (ftell == %ld)"
+"'%s':
+Image height is larger than GIMP can handle","« %s » :
+La hauteur de l’image est supérieure à celle prise en charge par GIMP","»%s«:
+Das Bild ist zu hoch, um mit GIMP bearbeitet zu werden","'%s':
+ارتفاع الصورة أكبر مما يستطيع جمب معالجته."
+"'%s':
+Image width is larger than GIMP can handle","« %s » :
+La largeur de l’image est supérieure à celle prise en charge par GIMP","»%s«:
+Das Bild ist zu breit, um mit GIMP bearbeitet zu werden","'%s':
+عرض الصورة أكبر مما يستطيع جمب معالجته."
+"'%s':
+No image data type specified","« %s » :
+Type d’image non indiqué","»%s«:
+Es ist kein Bild-Datentyp angegeben","'%s':
+نوع بيانات الصورة غير محدد"
+"'%s':
+No image height specified","« %s » :
+Hauteur d’image non indiquée","»%s«:
+Keine Bildhöhe angegeben","'%s':
+ارتفاع الصورة لم يُحدد"
+"'%s':
+No image width specified","« %s » :
+Largeur d’image non indiquée","»%s«:
+Keine Bildbreite angegeben","'%s':
+عرض الصورة لم يُحدد"
+'%s': illegal number of colors: %u,« %s » : nombre de couleurs non autorisé : %u,'%s': ungültige Anzahl an Farben: %u,عدد الألوان:
+'%s': is not a KCF palette file,« %s » : ce n’est pas un fichier de palette KCF,»%s« ist keine KCF-Palettendatei,'%s' ليس ملف PCX
+'Default' is created.,« Défaut » est créé.,»Standard« wurde erstellt.,تم إنشاء الافتراضي.
+(Height Mismatch!),(hauteurs incohérentes !),,(تطابق خاطئ في الارتفاع!)
+(None),(aucun),(Kein),(لا شيء)
+(Width Mismatch!),(largeurs incohérentes !),,(تطابق خاطئ في العرض!)
+"1 bpp, 1-bit alpha, 2-slot palette","1 bpp, 1-bit alpha, 2-slot palette","1 bpp, 1-Bit Alpha, 2-Slot Palette",1 بي/بكسل، 1-بت ألفا، لونان في اللوحة
+16 bits,,,16 بت
+24 bits,,,24 بت
+"24 bpp, 1-bit alpha, no palette","24 bpp, 1-bit alpha, no palette","24 bpp, 1-Bit Alpha, keine Palette",24 بت/بكسل، 1-بت ألفا، بدون لوحة ألوان
+32 bits,,,32 بت
+"32 bpp, 8-bit alpha, no palette","32 bpp, 8-bit alpha, no palette","32 bpp, 8-Bit Alpha, keine Palette",32 بت/بكسل، 8-بت ألفا، بدون لوحة ألوان
+"4 bpp, 1-bit alpha, 16-slot palette","4 bpp, 1-bit alpha, 16-slot palette","4 bpp, 1-Bit Alpha, 16-Slot Palette",4 بت/بكسل، 1-بت ألفا، 16 لون في اللوحة
+4:4:4 (best quality),4 :4 :4 (meilleure qualité),4:4:4 (höchste Qualität),4:4:4 (أفضل جودة)
+"8 bpp, 1-bit alpha, 256-slot palette","8 bpp, 1-bit alpha, 256-slot palette","8 bpp, 1-Bit Alpha, 256-Slot Palette",8 بت/بكسل، 1-بت ألفا، 256 لون في اللوحة
+<Untitled>,<Sans titre>,<Unbenannt>,<بدون عنوان>
+Comment,,,تعليق
+A bailout-value for adaptive selections,Une valeur de secours pour les sélections adaptatives,Der Ausstiegswert für die anpassende Auswahl,قيمة لا ينبغي تجاوزها للتحديدات التكييفية
+A read error occurred.,Une erreur de lecture est survenue.,Ein Lesefehler ist aufgetreten.,حصل خطأ في القراءة
+A unit definition will only be saved before GIMP exits if this column is checked.,Une définition d’unité sera enregistrée uniquement lorsque GIMP quittera si la colonne est cochée.,"Eine Einheit wird beim Beenden von GIMP nur gespeichert, wenn diese Spalte ausgewählt ist.",تعريف الوحدات سيُحفظ قبل الخروج من جمب فقط إن كان هذا العمود مؤشرًا عليه.
+ALT Text,Texte ALT,ALT-Text,نص ALT
+ALT text: (optional),Texte alternatif : (optionnel),ALT-Text: (optional),ALT نص: (اختياري)
+ASCII,,ASCII,ASCII
+ASCII art,Art ASCII,ASCII-Kunst,فن ASCII
+Adaptive supersampling,Sur-échantillonnage adaptatif,,نمذجة سوبر تكيفية
+Add,Ajouter,Hinzufügen,إضافة
+Add border,Ajouter une bordure,,إضافة حدود
+Advanced,,,متقدم
+All,Tout,Alle,الكل
+All tiles,Tous les carreaux,Alle Kacheln,كل البلاطات
+Alpha:,Alpha :,,ألفا:
+Amplitude:,,,الارتفاع:
+Angle:,Angle :,Winkel:,الزاوية:
+Append,Ajouter,Anfügen,إلحاق
+Auto update preview,Aperçu en temps réel,Automatische Vorschau,معاينة آلية التحديث
+Average under brush,Moyenne sous la brosse,Mittelwert unter dem Pinsel,المتوسط تحت الفرشاة
+Abbreviation,Abréviation,Abkürzung,الاختصار
+Action,Action,Aktion,إجراء
+Advanced,Avancé,Erweitert,متقدم
+Adaptive,Adaptatif,Anpassend,تكيفي
+Add Additional Guides,Ajouter des guides supplémentaires,Zusätzliche Hilfslinien hinzufügen,إضافة أدلة إضافية
+Add FractalExplorer Path,Ajouter un chemin FractalExplorer,Fraktal-Explorer-Pfad hinzufügen,إضافة مسار مستكشف الجزيئيات
+Add a New Unit,Ajouter une nouvelle unité,Neue Einheit hinzufügen,إضافة وحدة جديدة
+Add a jigsaw-puzzle pattern to the image,Ajoute une trame de puzzle à l’image,Ein Puzzle-Muster zum Bild hinzufügen,إضافة نموذج قطع لغز إلى الصورة
+Add new smvector,Ajoute un nouveau vecteur,Neuen SMVektor hinzufügen,إضافة متجه sm جديد
+Add new vector,Ajoute un nouveau vecteur,Neuen Vektor hinzufügen,إضافة متجه جديد
+Add this image,Ajouter cette image,Dieses Bild hinzufügen,أضِف هذه الصورة
+Adding blinds,Ajoute « stores sur la fenêtre »,Jalousie wird erzeugt,إضافة ستائر
+Adding checkerboard,,,إضافة لوحة شطرنج
+Addition,Addition,Addieren,إضافة
+Adds a shadow effect to each brush stroke,Ajoute un effet d’ombre portée à chaque trait de brosse,Fügt einen Schatteneffekt zu jedem Pinselstrich hinzu,إضافة تأثير ظل إلى كل ضربة فرشاة
+Adds random noise to the color,Ajoute une perturbation aléatoire à la couleur,Fügt der Farbe ein zufälliges Rauschen hinzu,إضافة ضجيج عشوائي إلى اللون
+Adjust how much the hue should be changed randomly,Ajuste l’influence du hasard sur la teinte,"Einstellen, wie sehr der Farbton zufällig geändert wird",ضبط عدد مرات تغيير التدرج عشوائيًا
+Adjust how much the saturation should be changed randomly,Ajuste l’influence du hasard sur la saturation,"Einstellen, wie sehr die Sättigung zufällig geändert wird",ضبط عدد مرات تغيير الإشباع عشوائيًا
+Adjust page size and orientation for printing,Ajuste la taille et l’orientation des pages en vue de l’impression,Seitengröße und Ausrichtung für den Druck anpassen,ضبط حجم الصفحة والاتجاه
+Adjust the flare intensity,Ajuste l’intensité de l’éblouissement,Flackerintensität anpassen,تعديل شدة الوهج
+Adjust the luminosity threshold,Ajuste le seuil de luminosité,Leuchtstärke-Schwellwert anpassen,تعديل عتبة الإضاءة
+Adjust the number of spikes,Ajuste le nombre de pointes,Anzahl an Strahlen anpassen,ضبط عدد المسامير
+Adjust the opacity of the spikes,Ajuste l’opacité des pointes,Die Deckkraft der Strahlen anpassen,ضبط تعتيم المسامير
+Adjust the preview's brightness,Ajuste la luminosité de l’aperçu,Helligkeit der Vorschau einstellen,ضبط سطوع المعاينة
+Adjust the spike angle (-1 causes a random angle to be chosen),Ajuste l’angle des pointes (-1 signifie qu’un angle aléatoire est choisi),Winkel der Strahlen anpassen (-1 bedeutet einen zufällig gewählten Winkel),ضبط انحراف المسامير (-1 تؤدي إلى اختيار زاوية انحراف عشوائية)
+Adjust the spike density,Ajuste la densité des pointes,Die Strahlendichte anpassen,تعديل كثافة المسامير
+Adjust the spike length,Ajuste la longueur des pointes,,ضبط طول المسماؤ
+Advanced,,,متقدم
+Advanced Filter Pack Options,,,خيارات حزمة التصفية المتقدمة
+Advanced Options,Options avancées,Erweiterte Einstellungen,خيارات متقدمة
+Affected Range,,,المجال المتأثر
+"After the delay, drag your mouse to select the region for the screenshot.","Après le délai, déplacez votre souris pour sélectionner la région à capturer.",,بعد التأخير، اسحب الفأرة لاختيار المنطقة التي تريد التقاط صورتها.
+"After the delay, the screenshot is taken.","Après le délai, la capture est faite.",,بعد التأخير، ستلتقط الصورة.
+"Aggressive RLE
+(not supported by SGI)",,,"RLE عدواني
+(غير مدعوم من قبل SGI)"
+Alternate,Morceaux alternés,Abwechselnd,تبديل
+Alternate tiles,Carreaux alternés,Abwechselnde Kacheln,تبديل البلاطات
+Alias Pix image,Image Alias Pix,Alias-Pix-Bild,صورة مسننة البكسلات
+Align Threshold:,Seuil d’alignement :,,العتبة:
+Align Visible Layers...,Aligner les calques visibles…,Sichtbare Ebenen ausrichten …,حاذِ الطبقات المرئية...
+Align Visible Layers,Aligner les calques visibles,Sichtbare Ebenen ausrichten,حاذِ الطبقات المرئية
+Align all visible layers of the image,Aligner tous les calques visibles de l’image,Alle sichtbaren Ebenen ausrichten,حاذِ كل طبقات الصورة المرئية
+All JNG,Tout JNG,Alle JNG,كل الـ JNG
+All PNG,Tout PNG,Alle PNG,كل الـ PNG
+All Values are Fractions of the Strip Height,Toutes les valeurs sont des fractions de la hauteur du film,Alle Werte sind relativ zur Höhe des Streifens,كل القيم هي كسور لارتفاع الشريط
+All black,Tout noir,Alles Schwarz,الكل أسود
+All gray,Tout gris,Alles Grau,الكل رمادي
+All white,Tout blanc,Alles Weiß,الكل أبيض
+Alpha,Alpha,Alpha,ألفا
+Alpha channel will be ignored.,La canal alpha sera ignoré.,Alphakanal wird ignoriert.,سيتم تجاهل قناة ألفا.
+Ambient:,Ambiant :,,المحيط:
+Amount of original color to show where no direct light falls,Intensité de la couleur originelle lorsque non éclairée,,كمية الألوان الأصلية لإظهار أماكن عدم وجود الإسقاطات الضوئية المباشرة
+Amount:,Quantité :,Menge:,كمية:
+"An error occurred while creating the PDF file:
+%s
+Make sure you entered a valid filename and that the selected location isn't read only!","Une erreur s’est produite lors de la création du fichier PDF :
+%s
+Vérifiez que le nom de fichier saisi est valide et que l’emplacement choisi n’est pas en lecture seule !","Ein Fehler trat beim Erstellen der PDF-Datei auf:
+%s
+Stellen Sie sicher, dass der Dateiname gültig ist und für den gewählten Ort Schreibrechte vorhanden sind!","حدث خطأ أثناء إنشاء ملف PDF:
+%s
+تأكد من إدخال اسم ملف سليم وأن مكان الحفظ ليس للقراءة فقط."
+An error occurred while trying to print:,Une erreur est survenue en essayant d’imprimer :,Beim Versuch zu Drucken ist ein Fehler aufgetreten:,حدث خطأ عند محاولة الطباعة:
+Analyze the set of colors in the image,,,تحليل مجموعة الألوان في الصورة
+Angle offset:,Décalage de l’angle :,Winkelversatz:,إزاحة الزاوية:
+Angle span:,Intervalle d’angles :,Winkelgröße:,اتساع الزاوية:
+Angle:,Angle :,Winkel:,"hg.h,dm:"
+Angular gradient:,Dégradé angulaire :,Winkeliger Farbverlauf:,التدرج ذو الزوايا:
+Angular size gradient:,Dégradé de taille angulaire :,Umfangs-Farbverlauf:,تدرج الحجم ذي الزوايا:
+Animated GIF Options,,,خيارات GIF المتحركة
+Animated MNG Options,Options d’animation MNG,Optionen für animierte MNGs,خيارات MNG المتحركة
+Animation Playback:,,Animation abspielen:,إعادة تشغيل الصور المتحركة:
+Antialiasing,Lissage,Kantenglättung,إزالة التسنين
+"Antialiasing quality. Higher is better, but slower","Qualité de l’anticrénelage. Plus elle est élevée, meilleur est l’anticrénelage mais plus élevé est le temps de calcul","Qualität der Kantenglättung. Je höher, desto besser, aber auch langsamer",جودة إزالة التسنين. كلما كان أعلى كلما كان أفضل، ولكن أبطأ
+Applies the paper as it is (without embossing it),Applique la texture telle quelle (sans la bosseler),"Wendet das Papier an, so wie es ist (ohne es vorher auszustanzen)",تطبيق الورق كما هو (من دون تجسيمه)
+Apply active gradient to final image,Appliquer le dégradé actif à l’image finale,Den aktiven Farbverlauf auf das endgültige Bild anwenden,تطبيق التدرج على الصورة النهائية
+Apply currently selected fractal,Applique la fractale actuellement sélectionnée.,Das aktuell ausgewählte Fraktal anwenden,تطبيق الجزيئية المختارة حاليًا
+Apply layer masks before saving,,,طبق أقنعة الطبقة قبل الحفظ
+Apply various lighting effects to an image,Applique différents effets de lumière à l’image,Verschiedene Lichteffekte auf das Bild anwenden,تطبيق تأثيرات ضوئية متعددة على صورة
+Applying filter pack,,,تطبيق حزمة التصفية
+"Are you sure you want to delete ""%s"" from the list and from disk?",Voulez-vous vraiment effacer « %s » de la liste et du disque ?,Wollen Sie »%s« wirklich aus der Liste und von der Festplatte löschen?,"هل أنت متأكد أنك تريد حذف ""%s"" من اللائحة ومن القرص؟"
+Area,Région,,مساحة
+Area #%d Settings,Paramètres de la zone n°%d,Einstellungen für Bereich %d,إعدادات المساحة #%d
+Area List,Liste des zones,Bereichsliste,قائمة المساحات
+Area Settings,Paramètres de la zone,Bereichseinstellungen,إعدادات المساحة
+Arrow,Flèche,Pfeil,سهم
+As animation,En tant qu’animation,,MNG متحركة
+As specified above,Comme indiqué ci-dessus,Wie oben angegeben,كما هو محدد أعلاه
+Aspect ratio:,Proportions :,Seitenverhältnis:,نسبة المظهر:
+Assembling jigsaw,Assemblage du puzzle,Puzzle wird zusammengefügt,تجميع قطع اللغز
+Asymmetry:,Asymétrie :,Asymmetrie:,لا تناظر:
+At bottom,En bas,Unten,في الأسفل
+At top,En haut,Oben,في الأعلى
+At least one image is needed to compose,Au minimum une image est nécessaire pour composer,Es wird mindestens ein Bild zum Zusammensetzen benötigt,يُحتاج إلى صورة واحدة على الأقل ليتم التشكيل
+"At the end of the delay, click in a window to snap it.","À la fin du délai, cliquez sur une fenêtre pour la capturer.",,في نهاية المدة، انقر على نافذة لالتقاط صورة لها.
+Author:,Auteur :,Autor:,المؤلف:
+AutoDesk FLIC animation,Animation Autodesk FLIC,AutoDesk-FLIC-Animation,صور AutoDesk FLIC المتحركة
+Autocrop unused space from edges and middle,Découpage automatique des espaces inutilisés sur les bords et au milieu,Leere Ränder an den Kanten und leere Streifen innerhalb des Bildes entfernen,الاقتطاع التلقائي يحذف الفراغات من الأطراف والوسط
+Automatic,Automatique,Automatisch,آلي
+Automatic preview,Aperçu automatique,Automatische Vorschau,معاينة تلقائية
+Available images:,Images disponibles :,Verfügbare Bilder:,الصور المتاحة:
+B&W 1 bit,N&B 1 bit,Schwarz-weiß 1-Bit,16 بت
+"B, G, R, X (BMP style)","B, V, R, X (style BMP)","B, G, R, X (BMP-Stil)","B, G, R, X (مظهر BMP)"
+B/W,N/B,S-W,أسود/أبيض
+Black pullout (%):,,,إزالة الأسود (%):
+Back:,Arrière :,,الخلف:
+Background,Arrière-plan,Hintergrund,الخلفية
+Background (%d%s),Arrière-plan (%d%s),Hintergrund (%d%s),الخلفية (%d%s)
+Background:,Arrière-plan :,Hintergrund:,الخلفية:
+Bad colormap,Mauvaise palette de couleurs,Fehlerhafte Palette,خريطة ألوان سيئة
+Barnsley 1,Barnsley 1,Barnsley 1,بارنسلي 1
+Barnsley 2,Barnsley 2,Barnsley 2,بارنسلي 2
+Barnsley 3,Barnsley 3,Barnsley 3,بارنسلي 3
+Base URL:,URL de base :,Basisadresse:,محدد موقع المعلومات (URL) الأساس:
+Basic Options,Options principales,Grundlegende Einstellungen,الخيارات الأساسية
+Bend the image using two control curves,Déforme l’image en utilisant deux courbes de contrôle,Das Bild mithilfe zweier Kontrollkurven verbiegen,ثني الصورة باستخدام انحناءي تحكم
+Bent,Courbé,Gebogen,مثني
+Bevel Edges,Bordures biseautées,Abgeschrägte Kanten,الحواف المنحرفة
+Black,Noir,Schwarz,أسود
+Blinds,Fenêtre avec stores,Jalousie,ستائر
+Blue,Bleu,Blau,أزرق
+Blue:,Bleu :,,أزرق:
+Blur,Flou,Weichzeichnen,غشاوة
+Blurring,,,جاري وضع الغشاوة
+Border Average,Moyenne du bord,Randmittelwert,متوسط الحدود
+Border Size,Taille du bord,Randgröße,حجم الحدود
+Borderaverage,,,متوسط الحدود
+Both,Les deux,Beide,كلاهما
+Bottom edge,Bord bas,Unterer Rand,الحافة السفلى
+Bottom left,En bas à gauche,Unten links,أدنى اليسار
+Bottom:,Bas :,,الأسفل:
+Box,Parallélépipède rectangle (boîte),Quader,صندوق
+Browse...,Parcourir…,Durchsuchen …,تصفح...
+Brush,,Pinsel,فرشاة
+Brush Pipe,Brosse animée,Pinselanimation,أنبوب فرشاة
+Bubble,Bulle,Blase,أزرق
+Bump,Repoussage,Beulen,نتوءات
+Bumpmap image:,Carte de repoussage :,,صورة خريطة النتوءات:
+Bumpmap,Relief,Bump-Map,خريطة نتوءات
+By DATAMIN/DATAMAX,,,حسب DATAMIN/DATAMAX
+C source code,Code source C,C-Quelltext,شيفرة مصدر C
+C source code header,En-tête de code source C,C-Quelltext-Header,ترويسة شيفرة مصدر C
+C-Source,,C-Quelldatei,مصدر سي
+CCITT Group 3 fax,,,فاكس مجموعة CCITT 3
+CCITT Group 4 fax,,,فاكس مجموعة CCITT 4
+CML Explorer: evoluting,Explorateur CML : évolution,CML-Explorer: Entwickeln,مستكشف CML: تطوير
+CML Explorer...,Explorateur CML…,CML-Explorer …,مستكشف CML...
+CMY,,,CMY
+CMYK,CMJN,CMYK,CMYK
+CX:,CX :,,CX:
+CY:,CY :,,CY:
+CMYK,,,CMYK
+Camera,Caméra,Kamera,كاميرا
+Caption,Légende,,العنوان
+Cell content:,Contenu de la cellule :,,محتوى الخلية:
+Cell size:,,,حجم الخلية:
+Center of brush,Au centre de la brosse,Mitte des Pinsels,مركز الفرشاة
+Center:,Centre :,Zentrieren:,وسط:
+Circle,Cercle,Kreis,دائرة
+Compose...,Composer…,Zusammensetzen …,تشكيل...
+Copy location,,Adresse kopieren,انسخ المكان
+Create new image,Créer une nouvelle image,,أنشئ صورة جديدة
+Crosses,Croix,Kreuze,تقاطعات
+Curved,Courbé,,منحني
+Cyan,,,أزرق
+Cylinder,Cylindre,Zylinder,أسطوانة
+Cartoon...,,,رسوم متحركة
+Calculating file size...,Calcul de la taille du fichier…,Dateigröße wird berechnet …,حساب حجم الملف...
+Can only operate on RGB drawables.,,,يمكن تطبيقه فقط على صور RGB القابلة للرسم
+Can only save drawables!,Seuls des objets graphiques peuvent être enregistrés !,Es können nur Zeichenflächen gespeichert werden!,يمكن فقط حفظ الرسوميات!
+Can operate on layers only (but was called on channel or mask).,Ne peut opérer que sur des calques (mais a été lancé depuis un canal ou un masque).,Kann nur auf Ebenen angewendet werden (wurde jedoch auf einen Kanal oder eine Maske verwendet).,يمكن تنفيذه على الطبقات فقط (ولكن كان يُستخدم على القناة أو القناع).
+Can't create a new image,Impossible de créer une nouvelle image,Es kann kein neues Bild angelegt werden,لا يمكن إنشاء صورة جديدة
+Can't operate on unknown image types,Impossible d’opérer sur des types d’images inconnus,Es kann nicht mit einem unbekanntem Bildtyp gearbeitet werden,لا يمكن التعامل مع أنواع صور غير معروفة
+Can't read color entries,Impossible de lire les entrées de couleurs.,Farbeinträge konnten nicht gelesen werden,لم يمكن قراءة مدخلات الألوان
+Cannot delete!! There must be at least one GFlare.,Impossible d’effacer. Il doit y avoir au moins un éblouissement graduel.,"Es konnte nicht gelöscht werden, da es zumindest ein GFlare geben muss.",لا يمكن الحذف!! ينبغي وجود GFlare واحد على الأقل.
+Cannot operate on empty selections.,Impossible d’opérer sur des sélections vides.,Es kann nicht auf einer leeren Auswahl gearbeitet werden.,لا يمكن تنفيذه على التحديدات الفارغة.
+Cannot operate on indexed color images.,Impossible d’opérer sur des images en couleurs indexées.,Es kann nicht mit Bildern im indizierten Farbmodus gearbeitet werden.,لا يمكن تفيذ العملية على صور مفهرسة الألوان.
+Cannot operate on layers with masks.,Impossible d’opérer sur des calques comprenant un masque.,Es kann nicht auf Ebenen mit Masken gearbeitet werden.,لا يمكن تنفيذه على الطبقات ذات الأقنعة.
+Cannot operate on unknown image types.,Impossible d’opérer sur des types d’images inconnus.,Es kann nicht mit unbekanntem Bildtyp gearbeitet werden.,لا يمكن التطبيق على أنواع صور غير معروفة.
+Cannot read extension from '%s',Impossible de lire l’extension depuis « %s »,Die Erweiterung von »%s« kann nicht gelesen werden,تعذر قراءة الامتداد من '%s'
+Cannot read footer from '%s',Impossible de lire le pied de page depuis « %s »,Das Dateiende von »%s« kann nicht gelesen werden,تعذر قراءة الذيل من '%s'
+Cannot read header from '%s',Impossible de lire l’en-tête depuis « %s »,Dateikopf von »%s« kann nicht gelesen werden,تعذر قراءة الترويسة من '%s'
+Cannot save RGB color images. Convert to indexed color or grayscale first.,,,لم يمكن حفظ ملفات ألوان RGB. قم بالتحويل إلى ألوان مفهرسة أو تدرج رمادي أولًا.
+Cannot save images with alpha channel.,Impossible d’enregistrer des images avec un canal alpha.,Bilder mit Alphakanal können nicht gespeichert werden.,لا يمكن حفظ الصور مع قنوات ألفا.
+Cannot save images with alpha channels.,,,لا يمكن حفظ الصور مع قنوات ألفا.
+Cannot save indexed image with transparency in BMP file format.,,,لم يمكن حفظ الصورة المفهرسة مع شفافية في صيغة ملف BMP.
+Caption,,,العنوان
+Captionwriter,,,العنوان
+Capture a window or desktop image,,,التقاط صورة لنافذة أو لسطح مكتب
+Capture an image from a TWAIN datasource,Capture une image depuis une source de données TWAIN,Ein Bild von einer TWAIN-Datenquelle holen,إنشاء صورة من مساحة من الشاشة
+Cartoon,,,رسوم متحركة
+Cell size:,,,حجم الخلية:
+Cell-padding:,Bourrage des cellules :,,توسيد الخلايا:
+Cell-spacing:,Espacement des cellules :,,تباعد الخلايا:
+Center,Centrer,Mitte,الوسط
+Center x:,Centre x :,Mitte X:,المركز x:
+Center y:,Centre y :,Mitte Y:,المركز y:
+Centered,Centré,Zentriert,موسّطة
+Ch. sensitivity:,Sensibilité des canaux :,Kanalempfindlichkeit:,حساسيّة القناة
+Change the angle of the selected smvector,Modifie l’angle du vecteur sélectionné,Den Winkel des ausgewählten SMVektors ändern,تغيير زاوية متجه sm المحدد
+Change the angle of the selected vector,Modifie l’angle du vecteur sélectionné,Den Winkel des ausgewählten Vektors ändern,تغيير زاوية المتجه المحدد
+Change the exponent of the strength,Modifie l’exposant de la longueur,Den Exponenten der Stärke ändern,تغيير أس القوة
+Change the intensity of the blue channel,Modifie l’intensité du canal bleu.,,تغيير شدة القناة الزرقاء
+Change the intensity of the green channel,Modifie l’intensité du canal vert.,,تغيير شدة القناة الخضراء
+Change the intensity of the red channel,Modifie l’intensité du canal rouge.,,تغيير شدة القناة الحمراء
+Change the number of colors in the mapping,Modifie le nombre de couleurs dans la palette.,,تغيير عدد الألوان في المخطط
+Change the strength of the selected smvector,Modifie la longueur du vecteur sélectionné,Die Stärke des ausgewählten SMVektors zu ändern,تغيير قوة متجه sm المحدد
+Change the strength of the selected vector,Modifie la longueur du vecteur sélectionné,Stärke des ausgewählten Vektors ändern,تغيير قوة المتجه المحدد
+Changes aspect of fractal,Modifie l’aspect de la fractale.,,تغيير مظهر الجزيئية
+Changes the gamma (brightness) of the selected brush,Modifie le gamma (luminosité) de la brosse sélectionnée,Ändert den Gamma-Wert (Helligkeit) des ausgewählten Pinsels,تغيير الغاما (السطوع) للفرشاة المحددة
+Channel Independent Parameters,Paramètres indépendants du canal,Kanalunabhängige Parameter,وسائط القناة المستقلة
+Channel Representations,Réarrangement des canaux,Kanal-Zuweisungen,استعراضات القناة
+Check if you would like to have the table captioned.,,,ضع التأشير إن كنت تريد عنونة الجدول.
+Checker,Damier,Schachbrett,مدقق
+Checkerboard,Damier,Schachbrett,لوحة الشطرنج
+Checking this tag will cause GTM to leave no whitespace between the TD tags and the cellcontent.  This is only necessary for pixel level positioning control.,,,التأشير على هذا الوسم سيدفع GTM إلى عدم ترك أي مساحات بيضاء بين وسوم TD ومحتويات الخلية. هذا ضروري فقط للتحكم الموضعي بمستوى البكسلات.
+Choose a high compression level for small file size,,,اختيار مستوى ضغط أعلى للملفات الصغيرة الحجم
+Circle,Cercle,Kreis,دائرة
+Clear,Effacer,Löschen,مسح
+Close curve on completion,Fermer la courbe lorsqu’elle est terminée,Kurve schließen wenn fertig,منحنى مغلق عند الإكمال
+Closed,Courbe fermée,Geschlossen,مغلق
+Color,Couleur,Farbe,اللون
+Color:,Couleur :,,اللون:
+Colors,Couleurs,,الألوان
+Comment:,Commentaire :,,التعليق:
+Compatibility Options,,,خيارات التوافقية
+Compress TD tags,Compresser les balises TD,TD-Tags komprimieren,ضغط وسوم TD
+Compression level:,,,مستوى الضغط:
+Contiguous Region,Région contiguë,Angrenzender Bereich,المنطقة المتاخمة
+Contrast:,Contraste :,,التباين:
+Column:,Colonne :,Spalte:,عمود
+Collect,Rassembler,Zusammenfassen,تجميع
+Color,Couleur,Farbe,اللون
+Color Density,Densité de couleur,Farbdichte,كثافة اللون
+Color Enhance,,,زيادة الألوان
+Color Function,Fonction couleur,Farbfunktion,دالة اللون
+Color Mode,Mode couleur,,نمط اللون
+Color Selection Dialog,Choisissez une couleur,Farbauswahldialog,جدول اختيار الألوان
+Color Transformation,Transformation de couleur,Farbtransformation,التحويل اللوني
+Color model:,Modèle colorimétrique :,,نموذج اللون:
+Color noise:,Perturbations de couleur :,Farbrauschen:,ضجيج اللون:
+Color fill,Remplir avec une couleur,Farbe,لون التعبئة
+Color is computed from the average of all pixels under the brush,La couleur de dessin est la moyenne de tous les pixels de l’image originale situés sous la brosse,Farbe wird aus dem Mittelwert aller Pixel unter dem Pinsel errechnet,اللون فاسد بسبب متوسط البكسلات تحت الفرشاة
+Color:,Couleur :,,اللون:
+Colormap:,Palette de couleurs :,Farbpalette:,خريطة الألوان:
+Colorcube Analysis...,,,تحليل مكعب الألوان...
+Colorcube Analysis,,,تحليل مكعب الألوان
+Colorify...,,,تلوين...
+Colorify,,,تلوين
+Colorify Custom Color,,,التلوين بلون مخصص
+Colorifying,,,تلوين
+Coloring,Coloration,,التلوين
+Colorize image using a sample image as a guide,Colorie l’image en utilisant un échantillon d’image comme guide,Das Bild anhand eines Beispielbildes kolorieren,تلوين الصورة باستخدام صورة الأنموذج كدليل
+Colors,Couleurs,Farben,الألوان
+Colors:,Couleurs :,Farben:,الألوان:
+Columns on each layer,Colonnes sur chaque calque,,الأعمدة في كل طبقة
+Combine,Combiner,Kombinieren,دمج
+Combine several images on a film strip,Combine plusieurs images sur un film,Mehrere Bilder zu einem Bildband zusammenfügen,دمج عدة صور على شريط متحرك
+Combine two images using depth maps (z-buffers),Combine deux images en utilisant les cartes de profondeur (z-buffers),Zwei Bilder mittels Tiefenmasken kombinieren,دمج صورتين باستخدام خرائط العمق (دارئات z)
+Comment,,Kommentar,تعليق
+Comment is limited to %d characters.,,,يجب ألا يتعدّى التعليق %d حرفًا.
+Comment:,Commentaire :,,تعليق:
+Compose,Composer,Zusammensetzen,تكوين
+Compose Channels,Canaux de composition,Kanäle zusammensetzen,تكوين القنوات
+Composing,Composition,Zusammensetzen,جاري التشكيل
+Composing images,Composition des images,Bilder werden kombiniert,تشكيل الصور
+Composition:,Composition :,Zusammensetzung:,التكوين
+Compressed (PNG),Compressée (PNG),Komprimiert (PNG),مضغوط (PNG)
+Compression,,,الضغط
+Compression type,,Kompressionstyp,نوع الضغط
+Constrain aspect ratio,Conserver les proportions,,نسبة مظهر التقييد
+Continuous grad. w/o gap,"Gradient continu, sans trous","Fließender, lückenloser Farbverlauf",التدرج المتتابع. ابتعادات w/o
+Continuous gradient,Dégradé continu,Fließender Farbverlauf,التدرج المتتابع
+Controls,Contrôles,Kontrollen,التحكمات
+Controls how intense the highlights will be,Contrôle l’intensité des taches de lumière,,للتحكم بشدة الأضواء
+Convert bitmaps to vector graphics where possible,,Bitmaps wenn möglich in Vektor-Grafiken umwandeln,حوّل الصور النقطية إلى متّجهيّة ما أمكن
+Convolve,Convolution,Falten,تجديل
+Copy,Copier,Kopieren,نسخ
+Copy Gradient Flare,Copier l’éblouissement graduel,Farbverlaufsaufhellung kopieren,نسخ وهج التدرج
+Copy Parameters,Paramètres de la copie,Parameter kopieren,نسخ الوسائط
+Copy Settings,Paramètres de la copie,Einstellungen kopieren,نسخ الإعدادات
+Copy an object,Copier un objet,Objekt kopieren,نسخ كائن
+Copy the active curve to the other border,Copie la courbe active vers l’autre limite,Die aktive Kurve an den anderen Rand kopieren,نسخ الانحناء النشط إلى الحدود الأخرى
+Copy the location of this page to the clipboard,,,انسخ مكان هذه الصفحة إلى الحافظة
+Copy the texture of the selected paper as a background,Copie la texture du papier sélectionné comme arrière-plan,Nimmt die Textur vom ausgewählten Papier als Hintergrund,نسخ نقش الورقة المختارة كخلفية
+Copyright,,,حقوق النشر:
+Copyright © 1999-2005 by Maurits Rijk,Copyright © 1999-2005 Maurits Rijk,Copyright © 1999-2005 Maurits Rijk,الحقوق محفوظة © 1999-2005 لـ Maurits Rijk
+Corner Always Threshold:,Seuil de coin imposé :,,عتبة الرمادي
+Corner Surround:,Environnement du coin :,,الأرضية
+Corner Threshold:,Seuil de coin :,,العتبة الدنيا:
+Cosine,Cosinus,Kosinus,ظل الجيب
+Could not create new image for '%s': %s,Impossible de créer une nouvelle image pour « %s » : %s,Neues Bild konnte nicht für »%s« angelegt werden: %s,لم يمكن إنشاء مجلد العمل '%s': %s
+Could not get layers for image %d,Impossible d’obtenir les calques de l’image %d,Es konnten keine Ebenen in Bild %d gefunden werden,لم يمكن الحصول على طبقات الصورة %d
+Could not interpret Postscript file '%s',,,تعذّر تفسير ملف بوستسكربت '%s'
+Could not load '%s': %s,Impossible de charger « %s » : %s,»%s« konnte nicht geladen werden: %s,تعذّر تحميل ’%s‘:‏ %s
+Could not open '%s',Impossible d’ouvrir « %s »,»%s« konnte nicht geöffnet werden,تعذّر تحميل ’%s‘:‏ %s
+Could not open '%s' as SUN-raster-file,Impossible d’ouvrir « %s » comme un fichier SUN-Raster,»%s« konnte nicht als SUN-Raster-Datei geöffnet werden,لم يمكن فتح '%s' ملف SUN تسامتي
+Could not open '%s' for reading,Impossible d’ouvrir « %s » en lecture,»%s« konnte nicht zum Lesen geöffnet werden,تعذر فتح '%s' للقراءة
+Could not open '%s' for reading.,Impossible d’ouvrir « %s » en lecture.,»%s« konnte nicht zum Lesen geöffnet werden.,تعذر فتح '%s' للقراءة.
+Could not open '%s' for reading: %s,Impossible d’ouvrir « %s » en lecture : %s,Datei »%s« konnte nicht zum Lesen geöffnet werden: %s,تعذر فتح '%s' للقراءة: %s
+Could not open '%s' for writing.,Impossible d’ouvrir le fichier « %s » en écriture.,»%s« konnte nicht zum Schreiben geöffnet werden.,تعذر فتح '%s' للكتابة
+Could not open '%s' for writing:,Impossible d’ouvrir « %s » en écriture :,Datei »%s« konnte nicht zum Schreiben geöffnet werden:,تعذر فتح '%s' للكتابة: %s
+Could not open '%s' for writing: %s,Impossible d’ouvrir « %s » en écriture : %s,Datei »%s« konnte nicht zum Schreiben geöffnet werden: %s,تعذر فتح '%s' للكتابة: %s
+Could not read XWD header from '%s',Impossible de lire l’en-tête XWD depuis « %s »,XWD-Dateikopf von »%s« konnte nicht gelesen werden,تعذر قراءة ترويسة XWD من '%s'
+Could not read color entries from '%s',Impossible de lire les entrées de couleurs de « %s »,Aus »%s« konnten keine Farbeinträge gelesen werden,لم يمكن قراءة إدخالات الألوان من '%s'
+Could not read header from '%s',Impossible de lire l’en-tête depuis « %s »,Dateikopf von »%s« konnte nicht gelesen werden,لم يمكن قراءة الترويسة من '%s'
+Could not start sendmail (%s),Impossible de démarrer sendmail (%s),Sendmail (%s) konnte nicht gestartet werden,لم يمكن بدء sendmail (%s)
+Could not write '%s': %s,Impossible d’écrire « %s » : %s,»%s« konnte nicht geschrieben werden: %s,لم يمكن كتابة '%s': %s
+Couldn't decode '%s'.,,,تعذّر فك ترميز '%s'.
+"Couldn't losslessly save transparency, saving opacity instead.","Impossible d’enregistrer la transparence sans perte, enregistrement de l’opacité à la place.","Die Transparenz konnte nicht ohne Verluste gespeichert werden, sie wird stattdessen als deckend gespeichert.",لم يمكن حفظ الشفافية بدون خسائر، جاري حفظ التعتيم عوضًا عن ذلك.
+Couldn't read file:,Impossible de lire le fichier :,Datei konnte nicht gelesen werden:,لم يمكن قراءة الملف:
+Couldn't save file:,Impossible d’enregistrer le fichier :,Datei konnte nicht gespeichert werden:,لم يمكن حفظ الملف:
+Couldn't save resource file:,Impossible d’enregistrer le fichier de ressources :,Einstellungen konnten nicht gespeichert werden:,لم يمكن حفظ ملف المورد:
+Couldn't simply reduce colors further. Saving as opaque.,,,لا يمكن تقليص الألوان أكثر ببساطة. جاري الحفظ كمعتم.
+Coupled-Map-Lattice Explorer,Explorateur de Coupled-Map Lattice,Gekoppelte Abbildungsgitter,مستكشف التشبيك المقرون التخطيط
+Create new image,Créer une nouvelle image,,إنشاء صورة جديدة
+Create,Créer,Erzeugen,إنشاء
+Create Guides,Créer des guides,Hilfslinien erstellen,إنشاء الأدلة
+Create Guides...,Créer des guides…,Hilfslinien erstellen …,إنشاء الأدلة...
+Create histogram,Créer un histogramme,Histogramm erstellen,إنشاء رسم بياني
+Create new layer,Créer un nouveau calque,Neue Ebene erzeugen,إنشاء طبقة جديدة
+Create a checkerboard pattern,Crée un motif damier,Schachbrettmuster erzeugen,إنشاء نوذج لوحة شطرنج
+Create a clickable imagemap,Crée une image cliquable pour le Web,Eine anklickbare Imagemap erzeugen,إنشاء خريطة صورة قابلة للنقر
+Create a color-map using a gradient from the gradient editor,Crée une palette de couleur en utilisant un dégradé provenant de l’éditeur de dégradés.,,إنشاء خريطة-ألوان باستخدام تدرج من محرر التدرجات
+Create a color-map with the options you specified above (color density/function). The result is visible in the preview image,"Crée une palette de couleurs avec les options indiquées ci-dessus (densité de couleur, fonction). Le résultat est visible dans l’aperçu.",,إنشاء خريطة-ألوان مع الخيارات التي حددتها أعلاه (دالة/كثافة اللون). الناتج سيكون مرئيًا في صورة المعاينة
+Create a new image when applying filter,Crée une nouvelle image lors de l’application du filtre,,إنشاء صورة جديدة عند تطبيق المصفي
+Create a new layer when applying filter,Crée un nouveau calque lors de l’application du filtre,Beim Anwenden des Filters ein neues Bild erstellen,إنشاء صورة جديدة عند تطبيق المصفي
+Create a new unit from scratch,Crée une nouvelle unité à partir de rien,Eine neue Einheit erstellen,إنشاء وحدة جديدة من العدم
+Create a new unit using the currently selected unit as template,Crée une nouvelle unité avec l’unité actuelle comme modèle,Eine neue Einheit mit der derzeit ausgewählten Einheit als Vorlage erzeugen,إنشاء وحدة جديدة باستخدام الوحدة المحددة كقالب
+Create abstract Coupled-Map Lattice patterns,Crée des motifs abstraits de Coupled-Map Lattice,Abstrakte gekoppelte Abbildungsgitter-Muster erstellen,إنشاء نماذج تشبيك مقرونة التخطيط مجردة
+Create an Iterated Function System (IFS) fractal,Crée une fractale IFS (Iterated Function System),Das Fraktal eines iterierenden Funktionensystems (IFS) erzeugen,إنشاء جزيئية نظام دالة تكرارية (IFS)
+Create an array of copies of the image,Crée un tableau de copies de l’image,Eine Matrix von Bildkopien erstellen,أنشئ مصفوفة من نُسخ الصورة
+Create an image from an area of the screen,Crée une image depuis une région de l’écran,Ein Bild aus einem Bildschirmausschnitt erstellen,أنشئ صورة من مساحة على الشاشة
+Create an image of a textured sphere,Crée une image d’une sphère texturée,Ein Bild aus einer texturierten Kugel erzeugen,أنشئ صورة لكرة منقوشة
+Create an image of a webpage,Crée l’image d’une page web,Ein Bild einer Webseite erzeugen,أنشئ صورة من صفحة وب
+Create an image using multiple gray images as color channels,Crée une image en utilisant comme canaux de couleur de multiples images grises,"Ein Bild erstellen, indem mehrere Graustufenbilder als Farbkanäle verwendet werden",إنشاء صورة باستخدام صور رمادية متعددة كقنوات ألوان
+Create arc,Créer un arc,Bogen erstellen,إنشاء قنطرة
+Create bezier curve,,,إنشاء منحنى بيزيير
+Create bezier curve. Shift + Button ends object creation.,Créer une courbe de Bézier. <Maj> + bouton termine la création de l’objet.,Bezier-Kurve erstellen. Umschalttaste + Maustaste beendet die Erzeugung des Objektes.,إنشاء منحنى بزيير. Shift + نقرة ينهي إنشاء الكائن.
+Create circle,Créer un cercle,Kreis erstellen,إنشاء دائرة
+Create cosmic recursive fractal flames,Création de flammes fractales cosmiques,"Kosmische, rekursive und fraktale Flammen erstellen",إنشاء لهب جزئي إرجاعي كوني
+Create ellipse,Créer une ellipse,Ellipse erstellen,إنشاء شكل إهليلجي
+Create from webpage,Crée à partir d’une page web,Von Webseite erstellen,أنشئ من صفحة وب
+Create geometric shapes,Créer des formes géométriques,Geometrische Formen erstellen,إنشاء أشكال هندسية
+Create line,Créer une ligne,Linie erstellen,إنشاء خط
+Create new image,Créer une nouvelle image,,أنشئ صورة جديدة
+Create new layer,Créer un nouveau calque,,أنشئ طبقة جديدة
+Create or alter units used in GIMP,Crée ou modifie les unités utilisées par GIMP,In GIMP verwendete Einheiten erstellen oder ändern,إنشاء أو تبديل الوحدات المستخدمة في جمب
+Create rectangle,Créer un rectangle,Rechteck erstellen,إنشاء مستطيل
+Create reg polygon,Créer un polygone régulier,Reguläres Polygon erstellen,إنشاء مضلع عادي
+Create spiral,Créer une spirale,Spirale erstellen,إنشاء لولب
+Create star,Créer une étoile,Stern erstellen,إنشاء نجمة
+Curve:,Courbe :,,منحني
+Cumulative layers (combine),Calques cumulatifs (combiner),Kumulative Ebenen (Kombinieren),الطبقات المتراكمة (دمج)
+Curl Layer,Coin du calque,Eingerollte Ebene,طبقة اللف
+Curl Location,Emplacement du coin,,موقع اللف
+Curl Orientation,Orientation du coin,,اتجاه اللف
+Curl up one of the image corners,Crée un coin de page dans un coin de l’image,Eine der Bildecken zusammenrollen,لف واحدة من زوايا الصورة
+Current gradient,Dégradé actif,Aktueller Farbverlauf,التدرج الحالي
+Current gradient (reversed),Dégradé actif (inversé),Aktueller Farbverlauf (umgekehrt),التدرج الحالي (معكوس)
+Current:,,,الحالي:
+Curve Bend,Déformer selon une courbe,Verbiegen,انعطاف المنحنيات
+Curve Type,Type de courbe,,نوع المنحنى
+Curve for Border,Courbe pour la limite,,انحناء الحدود
+Custom color:,,,لون مخصص:
+Custom gradient,Dégradé personnalisé,Eigener Farbverlauf,تدرّج مخصص
+Cut,Couper,Ausschneiden,قص
+Cyan,Cyan,Cyan,الأزرق
+Cyan:,,,أزرق:
+CyanK,,,الأزرق-k
+Cylinder,Cylindre,Zylinder,أسطوانة
+Cylinder length,Longueur du cylindre,Zylinderlänge,طول الاسطوانة
+Cylinder radius,Rayon du cylindre,Zylinderradius,نصف قطر الأسطوانة
+DICOM image,Image DICOM,DICOM-Bild,صورة DICOM
+Deselect All,Tout désélectionner,,إلغاء اختيار الكل
+Darker,Plus sombre,Dunkler,مظلم
+Darker:,,,أغمق:
+Data Compression,Compression des données,,ضغط البيانات
+Data Formatting,Formatage des données,,هيئة البيانات
+Data formatting,Formatage des données,,جاري تهيئة البيانات
+Decompose,Décomposer,Zerlegen,تجزئة
+Decompose an image into separate colorspace components,Décompose une image en composants séparés de canaux de couleur,Zerlegt ein Bild in die einzelnen Farbraumkomponenten,تجزئة صورة إلى مكونات مساحات ألوان متفرقة
+Decomposing,Décomposition,Zerlegen,جاري التجزئة
+Decrease the speed of the animation,,Geschwindigkeit der Animation verringern,أبطئ التحريك
+Default,Par défaut,Standard,الافتراضي
+Default Map Type,Type d’image par défaut,Standard-Map-Typ,نوع التعيين الإفتراضي
+Default URL:,URL par défaut :,Standardadresse:,URL الافتراضي:
+Default chunks type:,Type de partitions par défaut :,,نوع القطع الافتراضي:
+Default frame delay:,Temps d’affichage par défaut d’une séquence :,,تأخير المشهد الافتراضي:
+Default frame disposal:,,,تموضع المشهد الافتراضي:
+Default framerate,,Standard-Einzelbildrate,معدل الإطارات الافتراضي
+Define Circle/Oval area,Définir une zone circulaire/ovale,Elliptischen/Runden Bereich festlegen,تعريف مساحة دائرية/بيضاوية
+Define Polygon area,Définir une zone polygonale,Polygonalen Bereich festlegen,تعريف مساحة مضلع
+Define Rectangle area,Définir une zone rectangulaire,Rechteckigen Bereich festlegen,تعريف مساحة مستطيل
+Degree of slope of each piece's edge,Degré d’inclinaison du bord de chaque pièce,Neigungsgrad an jeder Teilkante,درجة انحدار حافة كل قطعة
+Delay,Délai,Verzögerung,التأخير
+Delay inserted to prevent evil CPU-sucking animation.,Pause insérée pour éviter une animation particulièrement consommatrice de CPU.,"Pause eingefügt, um unnötige Prozessorbelastung zu verhindern.",تم وضع التأخير لتفادي امتصاص الصور المتحركة لقدرة المعالج بشكل شرير.
+Delete,Supprimer,Löschen,حذف
+Delete Area,Supprimer la zone,Bereich löschen,حذف المساحة
+Delete Fractal,Supprimer la fractale,Fraktal löschen,حذف الجزيئية
+Delete Gradient Flare,Supprimer l’éblouissement graduel,Verlaufsaufhellung löschen,حذف وهج التدرج
+Delete Point,Supprimer le point,Punkt löschen,حذف النقطة
+Delete an object,Effacer un objet,Objekt löschen,حذف كائن
+Delete currently selected fractal,Supprime la fractale actuellement sélectionnée.,Löscht das ausgewählte Fraktal,حذف الجزيئية المختارة حاليًا
+Delete selected smvector,Efface le vecteur sélectionné,Ausgewählten SMVektor entfernen,حذف متجه sm المحدد
+Delete selected vector,Supprime le vecteur sélectionné,Ausgewählten Vektor entfernen,حذف المتجه المحد
+Deletes the selected Preset,Efface le préréglage choisi,Die ausgewählte Voreinstellung löschen,حذف الضبط المسبق المحدد
+Delta function,Fonction Delta,Deltafunktion,دالة دلتا
+Delta function stepped,Fonction Delta échelonnée,Deltafunktion schrittweise,دالة دلتا المتدرجة
+Depth Merge,Superposer selon profondeur,Tiefenkombination,مزج العمق
+Depth map:,Carte de profondeurs :,,خريطة العمق:
+Depth-merging,Superposition selon profondeur,Zusammenfügen mit Tiefeninformation,جاري مزج العمق
+Derive a smooth color palette from the image,Déduit une palette lissée depuis l’image,Eine gleichmäßige Farbpalette des Bildes erzeugen,اشتقاق لوحة ألوان مصقولة من الصورة
+Deriving smooth palette,Dérivation de la palette lissée,Geglättete Palette wird erzeugt,اشتقاق لوحة الصقل
+Despeckle...,Anti-parasites…,Flecken entfernen …,إزالة البرقشة...
+Destripe...,Anti-traînées…,Streifen entfernen …,إزالة التحزيز...
+Description,Description,Beschreibung,الوصف:
+Description:,Description :,Beschreibung:,الوصف:
+Desktop Link,Raccourci de bureau,Desktop-Verknüpfung,وصلة سطح المكتب
+Despeckle,Anti-parasite,Flecken entfernen,إزالة البرقشة
+Destination channel:,Canal de destination :,Zielkanal:,القناة الهدف:
+Destination:,Destination :,Ziel:,الهدف:
+Destripe,Anti-traînées,Streifen entfernen,إزالة التحززات
+Destriping,Élimination des traînées,Streifen werden entfernt,جاري إزالة التحززات
+Detach,,Abtrennen,فصل
+Detach the animation from the dialog window,,Die Animation aus dem Dialogfenster lösen,فصل الصور المتحركة عن نافذة جدول الحوار
+Deviation threshold:,Seuil de déviation :,Abweichungsschwellwert:,عتبة الانحراف:
+Diamond,Diamant,Karo,ألماس
+Diffuse:,Diffusion :,,الانتشار:
+Diffusion dist.:,Distance de diffusion :,Diffusionsentfernung:,توزع الانتشار:
+Digital Imaging and Communications in Medicine image,Image DICOM (Digital Imaging and Communications in Medicine),Digitale Bilderzeugung und Kommunikation in der Medizin,تصوير رقمي واتصالات في صورة طبية
+Digits,Chiffres,Stellen,الأرقام
+Dimension:,,,البعد:
+Dimensions,Dimensions,Abmessungen,الأبعاد
+Direction,Direction,Richtung,الاتجاه
+Direction Vector,Vecteur de direction,Richtungsvektor,سهم الاتجاه
+Directional,Directionnel,Gerichtet,اتجاهي
+Directional light,Lumière directionnelle,,الضوء الموجه
+Directions,Directions,Richtungen,الاتجاهات
+Directions:,Directions :,Richtungen:,الاتجاهات:
+Disc,Disque,Scheibe,قرص
+Displace pixels in a ripple pattern,,,وضع البكسلات في نموذج متموج
+Displacement map:,Carte de déplacement :,,تعيين التموضع:
+Display as:,Afficher comme :,,عرض كـ:
+Display information about plug-ins,Affiche des informations sur les greffons,Plugin-Informationen anzeigen,اعرض معلومات عن الملحقات
+Distance:,Distance :,,المسافة:
+Dither size:,Taille de tramage :,,حجم الاهتزاز:
+Do you really want to discard your changes?,Voulez-vous vraiment ignorer vos changements ?,Möchten Sie die Änderungen wirklich verwerfen?,هل تريد حقًا إهمال تعديلاتك؟
+DoG Edge Detect,,,اكتشاف حواف DoG
+Downloading webpage '%s',Téléchargement de la page web « %s »,Webseite »%s« wird heruntergeladen,ينزّل صفحة الوب ’%s‘
+Drag and drop colors to rearrange the colormap.  The numbers shown are the original indices.  Right-click for a menu with sort options.,Glissez-déposez des couleurs pour réorganiser la palette. Les nombres indiqués sont les indices originaux. Effectuez un clic-droit pour afficher un menu d’options de tri.,,سحب وإفلات الألوان لإعادة ترتيب خريطة الألوان. الأرقام الظاهرة هي المؤشرات الأصلية. انقر بز الفأرة الأيمن لإظهار قائمة بخيارات مرتبة.
+Draw a border of spikes around the image,Trace une bordure de pointes autour de l’image,Einen Rand aus Strahlen um das Bild zeichnen,رسم حدود من المسامير حول الصورة
+Draw a grid on the image,Trace une grille sur l’image,Ein Gitter auf das Bild zeichnen,ارسم شبكة على الصورة
+Drawables have different size,Les objets graphiques sont de tailles différentes,Die Zeichenflächen haben unterschiedliche Größen,الصور القابلة للرسم تملك أحجامًا مختلفة
+Drawing flame,Dessin des flammes,Flammen werden gezeichnet,جاري رسم اللهب
+Drawing grid,Tracé de la grille,Gitter wird gezeichnet,جاري رسم الشبكة
+Draws lines between the control points. Only during curve creation,Montre les lignes entre les points de contrôle (seulement pendant la création de courbe),Linien zwischen den Kontrollpunkten zeichnen. Nur während der Erstellung der Kurve,ارسم خطوطًا بين نقاط التحكم. فقط أثناء إنشاء المنحنيات
+Drop shadow,Ombre portée,Schlagschatten,ظل ساقط
+Dynamic:,Dynamique :,,ديناميكي:
+EOF encountered on reading,Fin de fichier rencontrée lors de la lecture,EOF (Dateiende) beim Lesen erreicht,عُثر على EOF أثناء القراءة
+EOF or error while reading image data,Fin de fichier ou erreur lors de la lecture des données d’image,EOF oder Fehler beim Lesen der Bilddaten,خطأ أثناء قراءة '%s'‏: %s
+EOF or error while reading image header,Fin de fichier ou erreur lors de la lecture de l’en-tête d’image,EOF oder Fehler beim Lesen des Bild-Dateikopfs,خطأ أثناء قراءة '%s'‏: %s
+Elevation:,,,الارتفاع:
+Enable bump mapping,Activer le repoussage,,تفعيل تعيين النتوءات
+Enable environment mapping,Activer le mappage d’environnement,,تفعيل تعيين البيئة
+Each piece has curved sides,Chaque pièce a des côtés courbés,,كل قطعة لها جوانب منحنية
+Each piece has straight sides,Chaque pièce a des côtés droits,,كل قطعة لها جوانب مستقيمة
+Edge darken:,Assombrir les bords :,Ränder verdunkeln:,تغميق الحافة:
+Edge detection with control of edge thickness,,,اكتشاف الحواف مع تحكم بسماكة الحافة
+Edges,,,الحواف
+Edit Area Info...,Éditer l’information de la zone…,,تحرير معلومات المساحة...
+Edit Flame,Modifier « Flammes »,Flamme bearbeiten,تحرير اللهب
+Edit Map Info,Modifie l’information de carte,Map-Informationen bearbeiten,تحرير معلومات التعيين
+Edit Map Info...,Modifier l’information de carte…,Map-Info bearbeiten …,تحرير معلومات التعيين...
+Edit Object,Modifier l’objet,Objekt bearbeiten,تحرير الكائن
+Edit selected area info,Éditer l’information de la zone sélectionnée,Die Informationen des ausgewählten Bereiches bearbeiten,تحرير معلومات المساحة المحددة
+Editing read-only object - you will not be able to save it,Modification d’un objet en lecture seule : vous ne pourrez pas l’enregistrer,"Sie bearbeiten gerade ein Objekt, das nur gelesen werden kann. Sie werden es nicht speichern können",تحرير كائن للقراءة فقط - لن تكون قادرًا على حفظه
+Effect Channel,Canal d’effet,Effekt-Kanal,قناة التأثير
+Effect Operator,Opérateur d’effet,Effekt-Operator,معامل التأثير
+Emboss,,,تجسيم
+Environment image:,Image pour l’environnement :,,الصورة البيئية:
+Enable antialiasing,Activer l’anticrénelage,,فعّل التنعيم
+Enable preview to obtain the file size.,Active l’aperçu pour obtenir la taille de fichier.,"Vorschau aktivieren, um die Dateigröße zu ermitteln.",تفعيل المعاينة للحصول على حجم الملف.
+Enable/disable bump-mapping (image depth),(Dés)active le repoussage (image de relief),,تفعيل/تعطيل تعيين النتوءات (عمق الصورة)
+Enable/disable environment-mapping (reflection),(Dés)active le mappage d’environnement (réflexion),,تقعيل/تعطيل التعيين البيئي (الانعكاس)
+Enable/disable high quality preview,(Dés)active l’aperçu de haute qualité,,تفعيل/تعطيل معاينة الجودة العالية
+Enable/disable jagged edges removal (antialiasing),"(Dés)active l’élimination du déplaisant « effet de créneaux » (anticrénelage, antialiasing)",,تفعيل/تعطيل إزالة الحواف المحزوزة (إزالة التسنين)
+Enable/disable real time preview of changes,(Dés)active l’aperçu en temps-réel des modifications,Echtzeitvorschau an-/ausschalten,تفعيل/تعطيل المعاينة الفورية للتغييرات
+Encapsulated PostScript image,Image PostScript encapsulé,Encapsulated-PostScript-Bild,صورة بوست سكربت مغلفة
+Enhance contrast using the Retinex method,Améliore le contraste en utilisant la méthode Retinex,Mittels der Retinex-Methode den Kontrast erhöhen,زيادة التباين باستخدام طريقة الشبكية
+Enter a name for the copied GFlare,Saisissez un nom pour l’éblouissement graduel copié,Geben Sie einen Namen für das kopierte GFlare an,أدخل اسمًا لـ GFlare المنسوخ
+Enter a name for the new GFlare,Saisissez un nom pour le nouvel éblouissement graduel,Geben Sie einen Namen für das neue GFlare an,أدخل اسمًا جديدًا لـ GFlare الجديد
+Enter location (URI):,Saisissez l’emplacement (URI) :,,أدخل المكان:
+Enter other comment if you want.,Saisissez un autre commentaire si vous le souhaitez.,,اكتب تعليقا آخر إذا أردت.
+Env. sensitivity:,Sensibilité à l’environnement :,Umgebungsempfindlichkeit:,حساسيّة البيئة:
+Environment image to use,Image pour l’environnement à utiliser,,الصورة البيئية التي ينبغي أن تُستخدم
+Error Threshold:,Seuil d’erreur :,,العتبة:
+Error during open of FITS file,Erreur durant l’ouverture de l’image FITS,,خطأ أثناء فتح ملف FITS
+Error getting number of pages from the given PDF file.,Erreur lors de l’obtention du nombre de pages contenues dans le fichier PDF indiqué.,Fehler beim Ermitteln der Seitenzahl der PDF-Datei.,تعذّر الحصول على عدد صفحات ملف PDF المُعطى.
+Error in GIMP brush file '%s',,,خطأ في ملف فرشاة '%s' في جمب
+Error in getting layer IDs,Impossible d’obtenir l’ID des calques,Fehler beim Herausfinden der Ebenen-IDs,خطأ أثناء الحصول على معرفات الطبقات
+Error loading PNG file: %s,Erreur lors du chargement du fichier PNG : %s,Fehler beim Öffnen der PNG-Datei: %s,فشل تحميل ملف PNG:‏ %s
+Error loading PSD file: %s,Erreur lors du chargement du fichier PSD : %s,Fehler beim Öffnen der PSD-Datei: %s,فشل تحميل ملف PSD:‏ %s
+"Error loading UI file '%s':
+%s",,,"خطأ أثناء تحميل ملف الواجهة '%s':
+‏ %s"
+Error loading UI file '%s': %s,,,خطأ أثناء تحميل ملف الواجهة '%s':‏ %s
+Error loading desktop file '%s': %s,Erreur lors de l’ouverture du fichier de bureau « %s » : %s,Fehler beim Lesen der Desktop-Datei »%s«: %s,فشل في تحميل ملف سطح المكتب '%s': %s
+Error opening file,Erreur lors de l’ouverture du fichier,Fehler beim Öffnen der Datei,خطأ أثناء فتح الملف
+Error opening file '%s',Erreur lors de l’ouverture du fichier « %s »,Fehler beim Öffnen der Datei »%s«,خطأ أثناء فتح الملف '%s'
+Error opening file '%s' for reading,Erreur lors de l’ouverture du fichier « %s » en lecture,Fehler beim Öffnen der Datei »%s« zum Lesen,خطأ أثناء فتح الملف '%s'
+Error querying image dimensions from '%s',Erreur lors de la requête des dimensions d’image depuis « %s »,Fehler beim Erfragen der Bildabmessungen von »%s«,خطأ أثناء قراءة تروسية ملف BMP من '%s'
+Error querying image precision from '%s',Erreur lors de la requête de la précision d’image depuis « %s »,Fehler beim Anfragen der Bildgenauigkeit von »%s«,خطأ أثناء قراءة تروسية ملف BMP من '%s'
+Error querying image type from '%s',Erreur lors de la requête du type d’image depuis « %s »,Fehler beim Anfragen des Bildtyps von »%s«,خطأ أثناء قراءة تروسية ملف BMP من '%s'
+Error reading BMP file header from '%s',Erreur de lecture de l’en-tête BMP depuis « %s »,Fehler beim Lesen des BMP-Dateikopfes aus »%s«,خطأ أثناء قراءة تروسية ملف BMP من '%s'
+Error reading file,Erreur lors de la lecture du fichier,Fehler beim Lesen der Datei,خطأ أثناء قراءة الملف
+Error reading pixel data from '%s',Erreur lors de la lecture des données de pixel depuis « %s »,Fehler beim Lesen der Pixel-daten aus »%s«,خطأ أثناء قراءة تروسية ملف BMP من '%s'
+Error saving '%s':,,,خطأ أثناء قراءة '%s'‏: %s
+Error scanning 'decompose-data' parasite: too few layers found,Erreur à l’analyse du parasite « decompose-data » : trop peu de calques trouvés,Fehler beim Abtasten des Parasits »decompose-data«: zu wenige Ebenen gefunden,خطأ طفيلية مسح 'decompose-data': يوجد طبقات كثيرة
+Error selecting the window,Erreur de sélection de la fenêtre,Fehler beim Erfassen des Fensters,خطأ أثناء تحديد النافذة
+Error trying to open temporary file '%s' for parasite loading: %s,Erreur lors de l’ouverture du fichier temporaire « %s » pour le chargement du parasite : %s.,"Fehler beim Versuch, die temporäre Datei »%s« zum Laden des Parasiten zu öffnen: %s",خطأ أثناء محاولة فتح الملف المؤقت %s لتحميل الطفيلية: %s
+Error trying to save figure as a parasite: can't attach parasite to drawable.,Erreur lors de l’enregistrement de la figure en tant que parasite : impossible de rattacher le parasite à l’objet graphique.,"Fehler beim Versuch, die Abbildung als Parasit zu speichern: Parasit konnte nicht mit der Zeichenfläche verbunden werden.",خطأ أثناء محاولة حفظ الصورة كطفيلية: لا يمكن ربط الطفيلية إلى الرسم.
+Error while reading '%s'. File corrupted?,Erreur en lecture de « %s ». Fichier endommagé ?,Fehler beim Lesen von »%s«. Ist die Datei eventuell beschädigt?,خطأ أثناء قراءة الملف '%s'. الملف فاسد؟
+Error while reading '%s': %s,Erreur lors de la lecture de « %s » : %s,Fehler beim Lesen von »%s«: %s,خطأ أثناء قراءة '%s'‏: %s
+Error while saving '%s'. Could not save image.,,,خطأ أثناء حفظ '%s'. لم يمكن حفظ الصورة.
+Error writing output file.,,,فشل في كتابة ملف الخرج.
+"Error! In order to save the file, at least one image should be added!","Erreur. Pour enregistrer le fichier, il faut ajouter au moins une image.",Fehler! Zum Speichern der Datei sollte zumindest ein Bild hinzugefügt werden!,خطأ! يجب إضافة صورة واحدة على الأقل ليُمكن حفظ الملف
+Error: Can't convert GIMP base imagetype to PSD mode,Erreur : impossible de convertir le type d’image de base GIMP en mode PSD,Fehler: Der GIMP-Basisbildtyp kann nicht in den PSD-Modus umgewandelt werden,خطأ. لم يمكن تحويل نوع صورة جمب الأساسي إلى نمط PSD
+Error: failed to load parameters,Erreur : impossible de charger les paramètres.,Fehler: Parameter konnten nicht geladen werden,خطأ: فشل تحميل الوسائط
+Error: it's not CML parameter file.,Erreur : ce n’est pas un fichier de paramètres CML.,,خطأ. هذا ليس ملف وسيط CML.
+Evenly distributed,Uniforme,Gleichmäßig verteilt,موزعة زوجيًا
+Exp.:,Exp. :,Exp.:,أسّي:
+Exponential,Exponentiel,Exponential,أسي:
+Export Preview,Exporter l’aperçu,,تصدير المعاينة
+Extra,Supplémentaire,Extra,إضافي
+Extract Channels,Extraire les canaux :,Kanäle extrahieren,استخراج القنوات
+FITS file keeps no displayable images,Le fichier FITS ne contient pas d’image affichable,Die FITS-Datei beinhaltet keine darstellbaren Bilder,ملف FITS لا يحتفظ بالصور القابلة للعرض
+FITS save cannot handle images with alpha channels,,,حفظ FITS لا يمكنه التعامل مع الصور ذات قنوات ألفا
+FP can only be run interactively.,,,يمكن تشغيل FP تقاعليًا فقط.
+FP can only be used on RGB images.,,,يمكن استخدام FP على صور RGB فقط.
+File,Fichier,Datei,ملف
+Flare intensity:,Intensité de l’éblouissement :,,شدة الوهج:
+Factor,Facteur,Faktor,العامل
+Failed to open '%s': %s,Échec d’ouverture de « %s » : %s,Fehler beim Öffnen von »%s«: %s,فشل فتح ملف GFlare  '%s': %s
+Failed to open GFlare file '%s': %s,Échec d’ouverture du fichier d’éblouissement graduel « %s » : %s,Fehler beim Öffnen der GFlare-Datei »%s«: %s,فشل فتح ملف GFlare  '%s': %s
+Failed to save PPM file '%s': %s,Échec d’enregistrement du fichier PPM « %s » : %s,Speichern der PPM-Datei »%s« fehlgeschlagen: %s,فشل حفظ ملف الـ PPM '%s': %s
+Failed to write GFlare file '%s': %s,Impossible d’écrire le fichier éblouissement graduel « %s » : %s,GFlare-Datei »%s« konnte nicht geschrieben werden: %s,تعذّر الكتابة في ملف GFlare '%s': %s
+Fast Integer,Entier rapide,Schnelle Ganzzahlen,عدد صحيح سريع
+Faster,,,أسرع
+Feather,Adoucir,Weichzeichnen,ريش
+"File ""%s"" saved.",Fichier « %s » enregistré.,Datei »%s« gespeichert.,"الملف ""%s"" محفوظ."
+File '%s' doesn't seem to be an IFS Fractal file.,Le fichier « %s » ne semble pas être un fichier Fractales IFS.,Die Datei »%s« scheint keine IFS-Fraktal-Datei zu sein.,الملف '%s' لا يبدو كملف جزيئية IFS.
+"File '%s' is corrupt.
+Line %d Option section incorrect","Le fichier « %s » est endommagé.
+Ligne %d : section d’option incorrecte","Die Datei »%s« ist beschädigt.
+Zeile %d: Optionenabschnitt ist nicht korrekt","الملف '%s' فاسد.
+السطر %d قسم الخيار غير صحيح"
+File '%s' is not a FractalExplorer file,Le fichier « %s » n’est pas un fichier FractalExplorer,»%s« ist keine Fraktal-Explorer-Datei,الملف '%s' ليس ملفًا لمستكشف الجزيئيات
+File '%s' is not a valid save file.,Le fichier « %s » n’est pas un fichier d’enregistrement valide.,»%s« ist keine gültige Speicherdatei.,الملف '%s' ليس ملفًا صالحًا للحفظ.
+File not in a supported format.,Le fichier est dans un format non pris en charge.,Datei in keinem unterstützten Format.,الملف في صيغة غير مدعومة.
+File size: %s,Taille du fichier : %s,Dateigröße: %s,حجم الملف: %s
+File size: unknown,Taille du fichier : inconnue,Dateigröße: unbekannt,حجم الملف: غير معروف
+Filename:,Nom du fichier :,Dateiname:,اسم الملف:
+Fill,Remplir,Füllung,تعبئة
+Fill (bottom to top),Remplir (de bas en haut),Füllen (von unten nach oben),ملء (من الأسفل إلى الأعلى)
+Fill (left to right),Remplir (de gauche à droite),Füllen (von links nach rechts),ملء (من اليسار إلى اليمين)
+Fill (right to left),Remplir (de droite à gauche),Füllen (von rechts nach links),ملء (من اليمين إلى اليسار)
+Fill (top to bottom),Remplir (de haut en bas),Füllen (von oben nach unten),ملء (من الأعلى إلى الأسفل)
+Fill with parameter k,Remplir avec paramètre k,Parameter k einsetzen,الملء بالوسيط k
+Filmstrip,Film,Filmstreifen,شريط متحرك
+Filter,Filtre,,مصفي
+Filter Epsilon:,Filtre Epsilon :,,طول المصفي:
+Filter Iteration Count:,Nombre de répétitions du filtre :,,إشباع البلاطة:
+Filter Pack Simulation,,,محاكاة حزمة التصفية
+Filter Percent:,Pourcentage de filtrage :,,طول المصفي:
+Find Again,,Weitersuchen,جاري إيجاد تدرج XY
+Find and fix pixels that may be unsafely bright,Cherche et corrige les pixels qui pourraient être trop lumineux,Unnatürlich helle Pixel finden und anpassen,إيجاد وإصلاح البكسلات التي قد تكون لماعة بشكل غير آمن
+Find:,Chercher :,Suchen:,ابحث:
+Finding XY gradient,Recherche du dégradé XY,XY-Gradient wird gesucht,جاري إيجاد تدرج XY
+Finding animation background,Recherche de l’arrière-plan de l’animation,Animationshintergrund wird gesucht,إيجاد خلفية الصور المتحركة
+First Gfig,Première Gfig,Erste GFig,أول Gfig
+Fix Seed,Définir le germe,Feste Anfangszahl,تثبيت البذرة
+Fixed-direction-vector map selection menu,Sélectionne d’une carte de vecteur de direction fixe,,قائمة اختيار تعيين المتجه الثابت الاتجاه
+Flame,Flammes,Flamme,لهب
+Flame works only on RGB drawables.,,,اللهب يعمل فقط على رسوم RGB.
+Flexible Image Transport System,Système de transport d’image flexible,Flexible Image Transport System,نظام نقل الصور المرن
+Flip,Retourner,Spiegeln,قلب
+Floating-Point,Virgule flottante,Gleitkommazahlen,فاصلة عائمة
+Flow step %d,Étape de flot %d,Flussschritt %d,جريان الخطوة %d
+Flowing,Flot,Fließend,الجريان
+Focus the brush strokes around the center of the image,Concentre les tracés de la brosse autour du centre de l’image,Die Pinselstriche um den Mittelpunkt des Bildes ausrichten,تركيز ضربات الفرشاة حول مركز الصورة
+Font size:,Taille de la police :,,حجم الخط:
+Foreground,Premier plan,Vordergrund,الأرضية
+Foreground / background colors,Couleurs de premier / arrière-plan,Vorder- und Hintergrundfarbe,ألوان الأرضية / الخلفية
+Foreground color,Couleur de premier plan,Vordergrundfarbe,لون الأرضية
+Fractal Explorer,Explorateur de fractales,Fraktal-Explorer,مستكشف الكسوريات...
+Fractal Parameters,Paramètres de la fractale,Fraktalparameter,الوسائط الجزئية
+Fractal Trace,,,رسم الجزيئية
+Fractal Type,Type de fractale,Fraktaltyp,نوع الجزيئية
+FractalExplorer Gradient,Dégradé FractalExplorer,Fraktal-Explorer-Farbverlauf,تدرج مستكشف الجزيئيات
+Frame %d,Image %d,Einzelbild %d,المشهد %d
+Frame %d (%d%s),Image vidéo %d (%d%s),Einzelbild %d (%d%s),المشهد %d (%d%s)
+Frame %d of %d,,Einzelbild %d von %d,المشهد %d من أصل %d
+Frame (%i),Image (%i),,المشهد (%i)
+From Webpage...,Depuis une page web…,Von Webseite …,من صفحة وب...
+From gradient,Depuis le dégradé,Aus Farbverlauf,من التدرج
+From paper,Depuis une texture,Von Papier,من الورق
+From reverse gradient,Depuis le dégradé inverse,Aus invertiertem Farbverlauf,من التدرج المعكوس
+From:,,,من:
+Front:,Avant :,,الأمام:
+Full,Complète,Ganz,مليء
+Function,,,الدالة
+Function type:,Type de fonction :,Funktionstyp:,نوع الدالة:
+G-Qbist,Qbiste,G-Qbist,G-Qbist
+G3 fax image,Image fax G3,G3-Fax-Bild,صورة فاكس G3
+GFLI 1.3 - Load framestack,,,GFLI 1.3 - تحميل مكدس المشاهد
+"GFlare '%s' is not saved. If you add a new entry in '%s', like:
+(gflare-path ""%s"")
+and make a folder '%s', then you can save your own GFlares into that folder.","Éblouissement graduel « %s » non enregistré. Si vous ajoutez une nouvelle entrée dans « %s », comme :
+(gflare-path « %s »)
+et que vous créez un dossier « %s », vous pourrez enregistrer vos propres Éblouissements graduels dans ce dossier.","GFlare »%s« wurde nicht gespeichert. Wenn Sie einen neuen Eintrag in »%s« setzen, etwa:
+(gflare-path ""%s"")
+und den Ordner »%s« erstellen, dann können Sie ihre eigenen GFlares in diesen Ordner speichern.","GFlare '%s' لم يتم حفظه. إذا أضفت مدخلة جديدة في '%s'، نحو:
+(gflare-path ""%s"")
+وأنشأت مجلد '%s'، حينها يمكنك حفظ ال GFlares الخاصة بك في هذا المجلد."
+GIF,,GIF,GIF
+GIF Options,,,خيارات GIF
+GIF image,Image GIF,GIF-Bild,صورة GIF
+GIF: Undocumented GIF composite type %d is not handled.  Animation might not play or re-save perfectly.,GIF : le type GIF composite %d non documenté n’est pas pris en charge. L’animation pourrait ne pas se jouer ni être ré-enregistrée parfaitement.,GIF: Undokumentierter GIF-Kompositortyp %d wird nicht verarbeitet. Die Animation läuft eventuell nicht richtig oder kann nicht erneut gespeichert werden.,GIF: نوع مكون GIF غير الموثق %d لم يمكن معالجته. قد لا يمكن تشغيل أو إعادة حفظ الصور المتحركة بشكل تام.
+GIMP Help Browser,Navigateur d’aide GIMP,GIMP-Hilfe-Browser,مستعرض مساعدة جمب
+GIMP brush,Brosse GIMP,GIMP-Pinsel,فرشاة جمب
+GIMP brush (animated),Brosse GIMP (animée),GIMP-Pinsel (animiert),فرشاة جمب (متحركة)
+GIMP brush file appears to be corrupted.,,,ملف فرشاة جمب يبدو فاسدًا.
+GIMP pattern,Motif GIMP,GIMP-Muster,نموذج جمب
+GIMPressionist,GIMPressionniste,GIMPressionist,GIMPressionist
+Glow,Lueur,Glühen,التوهج:
+Gamma:,Gamma :,Gamma:,غاما:
+Gaussian,Gaussien,Gaußglocke,غشاوة غوسية
+General,Général,Allgemein,عام
+General Options,Options générales,Allgemeine Einstellungen,خيارات عامة
+General Preferences,Préférences générales,Allgemeine Einstellungen,تفضيلات عامة
+Generate a huge variety of abstract patterns,Génère une grande variété de motifs abstraits,Eine große Vielfalt abstrakter Muster erzeugen,توليد كمية كبيرة متنوعة من النماذج المجردة
+Get Sample Colors,Capturer les couleurs de l’échantillon,Musterfarbe auswählen,الحصول على ألوان الأنموذج
+Gfig,Figures géométriques,Gfig,Gfig
+Gimpressionist Defaults,Valeurs par défaut de GIMPressionniste,GIMPressionist-Voreinstellungen,افتراضيات Gimpressionist
+Glow Paint Options,Options de dessin de la lueur,Maloptionen für Glühen,خيارات تلوين التوهج
+Go back one page,,,العودة صفحة واحدة إلى الوراء
+Go forward one page,,,التقدم صفحة واحدة إلى الأمام
+Go to the index page,Va à la page du sommaire,Zum Inhaltsverzeichnis,الذهاب إلى الصفحة الرئيسية
+Grab,,,التقاط
+Grab a single window,,,التقاط نافذة مفردة
+Grab the whole screen,,,التقاط الشاشة كلها
+Gradient Flare,Éblouissement graduel,Verlaufsaufhellung,وهج التدرج
+Gradient Flare Editor,Éditeur d’éblouissement graduel,Editor für Verlaufsaufhellungen,محرر وهج التدرج
+Gradient Map,Application de dégradé,Auf Farbverlauf,خريطة التدرج
+Gradient map selection menu,Sélection du dégradé,,قائمة اختيار تعيين التدرج
+Gradient scale:,Échelle de dégradé :,,حجم التدرج:
+Gradients,Dégradés,Farbverläufe,التدرجات
+Graph of the Current Settings,Graphe des paramètres actuels,Graph der aktiven Einstellungen,مخطط الإعدادات الحالية
+Graphic antialiasing,Lissage Graphique,,تنعيم الرسوميات
+Gray,Gris,Grau,رمادي
+Green,Vert,Grün,أخضر
+Green:,Vert :,,أخضر:
+Grey,Gris,Grau,رمادي
+Grid,Grille,Raster,شبكة
+Grid Granularity,Granularité de la grille,Rasterfeinheit,حبيبات الشبكة
+Grid Offset,Décalage de la grille,Rasterversatz,إزاحة الشبكة
+Grid Settings,Paramètres de la grille,Rastereinstellungen,إعدادات الشبكة
+Grid Settings...,Paramètres de la grille…,Rastereinstellungen …,إعدادات الشبكة...
+Grid Visibility and Type,Visibilité de la grille et type,Sichtbarkeit und Typ des Rasters,ظهور الشبكة ونوعها
+Grid color:,Couleur de la grille :,Rasterfarbe:,لون الشبكة:
+Grid spacing:,Espacement de la grille :,Rasterabstand:,تباعد الشبكة:
+Grid type:,Type de grille :,Rastertyp:,نوع الشبكة:
+Guides,Guides,Hilfslinien,الأدلة
+"Guides are pre-defined rectangles covering the image. You define them by their width, height, and spacing from each other. This allows you to rapidly create the most common image map type - image collection of ""thumbnails"", suitable for navigation bars.","Les guides sont des rectangles prédéfinis couvrant l’image. Vous les définissez par leur longueur, leur hauteur et l’espacement entre chacun d’eux. Cela vous permet de créer rapidement la cartographie de l’image - une collection de petites images, pour les barres de navigation.","Hilfslinien sind vordefinierte Rechtecke, die das Bild bedecken. Sie werden über ihre Breite, Höhe und den Abstand zueinander definiert. Dadurch können Sie schnell den typischsten Imagemap-Typ erstellen: Eine Bildübersicht von Vorschaubildern, praktisch für Navigationsleisten.","الأدلة هي مستطيلات معرفة مسبقًا تغطي الصورة. تعريفها يتم عن عطريق تحديد عرض، ارتفاع، والتباعد فيما بينها. هذا يسمح لك بإنشاء نوع مخطط الصورة الأكثر شيوعًا بسرعة - مجموعة ""الصور المصغرة""، الملائمة لشريط تصفح."
+Guillotine,Massicot,Guillotine,مقصلة
+HSL,TSL,HSL,HSL
+HSV,TSV,HSV,HSV
+HTML Page Options,Options de page HTML,HTML-Seiteneinstellungen,خيارات صفحة HTML
+HTML table,Tableau HTML,HTML-Tabelle,جدول HTML
+Highlight:,Éclairage :,,التحديد اللوني:
+Highlights,,,التحديدات الضوئية
+Hue,,,التدرج
+Halftone the image to give newspaper-like effect,,,نصف-تبريد الصورة لإعطاء تأثير شكل أوراق صحف
+Headline,Titre principal,Kopfzeile,إنشاء خط
+Heart,Cœur,Herz,قلب
+Height:,Hauteur :,,الارتفاع:
+Help ID '%s' unknown,ID d’aide « %s » inconnu,Hilfe-ID »%s« ist unbekannt,معرف المساعدة '%s' غير معروف
+"Hey, where has the object gone?","Hé, mais où l’objet est-il passé ?",Wohin ist dieses Objekt verschwunden?,مهلًا، أين اختفى الكائن؟
+High,Haut,Hoch,عال
+High quality preview,Aperçu de haute qualité,,معاينة عالية الجودة
+Higher values makes the highlights more focused,"Plus la valeur est élevée, plus les taches de lumière seront ramassées",,القيم العالية تجعل الأضواء مركزة أكثر
+Higher values makes the object reflect more light (appear lighter),"Plus la valeur est élevée, plus l’objet apparaît réfléchissant",,القيم العالية تجعل الكائن يعكس ضوءًا أكثر (يظهر مضاءً أكثر)
+Highlight:,Tache lumineuse :,,التحديد اللوني:
+Highlights:,,,التحديدات الضوئية:
+Hold the minimal channels,,,دعم القنوات الأدنى
+Hole width:,Largeur des trous :,,عرض الثقوب:
+Horizontal base:,Base horizontale :,,الأساس الأفقي:
+Hole height:,Hauteur des trous :,,ارتفاع الثقوب:
+Hold intensity,,,شدة الإمساك
+Hole spacing:,Espacement des trous :,,اتساع الثقب:
+"Horizontal
+Lines","Lignes
+horizontales","Horizontale
+Linien","خطوط
+أفقية"
+Horizontal Color,Couleur des horizontales,Horizontale Farbe,اللون الأفقي
+Horizontal gradient,Dégradé horizontal,Horizontaler Verlauf,تدرّج أفقي
+Horizontally,Horizontalement,Horizontal,أفقي
+Horseshoe,Fer à cheval,Hufeisen,حدوة حصان
+Hot,Ôter les « pixels chauds »,Heiß,ساخن
+Hot spot X:,Point actif X :,Hot-Spot X:,البقعة الساخنة X:
+Hot spot Y:,Point actif Y :,Hot-Spot Y:,البقعة الساخنة Y:
+How many units make up an inch.,Combien d’unité sont contenues dans un pouce.,Wieviele Einheiten ergeben ein Zoll.,عدد الوحدات التي تساوي بوصة واحدة.
+"How much to ""darken"" the drop shadow",À quel point l’ombre doit être sombre,Wie sehr der Schlagschatten abgedunkelt werden soll,"كم يجب ""تغميق"" الظل الساقط"
+"How much to ""darken"" the edges of each brush stroke",À quel point il faut estomper les bords de chaque trait de brosse en les assombrissant,Wie viel am Rand eines Pinselstriches verdunkelt werden soll,"كم ينبغي ""إظلام"" الحواف لكل ضربة فرشاة"
+How much to blur the drop shadow,Importance du flou à appliquer à l’ombre portée,Wie sehr der Schlagschatten weichgezeichnet werden soll,كم مقدار الغشاوة التي ينبغي إضافتها إلى الظل الساقط
+Hue,Teinte,Farbton,التدرج
+Hue (HSL),Teinte (TSL),Farbton (HSL),تدرج (HSL)
+Hue Variations,,,تغيرات التدرج
+Hue rotation:,Rotation de la teinte :,Farbton-Verschiebung:,دوران التدرج:
+Huge,Énorme,Riesig,ضخم
+I don't care,Peu importe,Egal,لا أهتم
+ID,Identificateur,,المعرف
+IFS Fractal,Fractales,IFS-Fraktal,جزيئية IFS
+IFS Fractal Render Options,Options de rendu de Fractales,IFS-Fraktal-Render-Einstellungen,خيارات تصيير جزيئية IFS
+IFS Fractal: Black,Fractales : noir,IFS-Fraktal: Schwarz,جزيئية IFS: أسود
+IFS Fractal: Blue,Fractales : bleu,IFS-Fraktal: Blau,جزيئية IFS: أزرق
+IFS Fractal: Green,Fractales : vert,IFS-Fraktal: Grün,جزيئية IFS: أخضر
+IFS Fractal: Red,Fractales : rouge,IFS-Fraktal: Rot,جزيئية IFS: أحمر
+IFS Fractal: Target,Fractales : cible,IFS-Fraktal: Ziel,جزيئية IFS: الهدف
+Intensity,,,الشدة
+Interactive,Interactif,Interaktiv,تفاعلي
+Interlace,,,تشبيك داخلي
+Isolate,Isoler,,عزل
+Icon #%i,Icône n°%i,,أيقونة #%i
+Icon Details,Détails de l’icône,Symbolinformationen,تفاصيل الأيقونة
+"If checked GTM will output a full HTML document with <HTML>, <BODY>, etc. tags instead of just the table html.",,,إذا تم التأشير عليه، سيعطي GTM مستند HTML مليئًا بوسوم <HTML> و <BODY> وغيرها بدلًا من جدول html فقط.
+If checked GTM will replace any rectangular sections of identically colored blocks with one large cell with ROWSPAN and COLSPAN values.,,,إذا تم التأشير عليه، سيستبدل GTM أية أقسام مستطيلة من الكتلات المتشابهة الألوان بخلية واحدة كبيرة ذات قيم ROWSPAN و COLSPAN.
+If enabled the preview will be redrawn automatically,"Si cette option est active, l’aperçu sera redessiné automatiquement.","Falls aktiviert, wird die Vorschau automatisch aktualisiert",سيتم إعادة رسم المعاينة آليًا إن كان مفعلًا
+If you enable this option higher color values will be swapped with lower ones and vice versa,"Si vous cochez cette option, les valeurs de couleurs élevées seront remplacées par des valeurs faibles, et vice-versa.",,إذا فعلت هذا الخيار، قيم الألوان الكبيرة سوف تُستبدل بالصغيرة وبالعكس
+Ignore PNG offset,Ignorer le décalage PNG,PNG-Versatz ignorieren,إزالة الثقوب:
+Ignore Page Margins,Ignorer les marges de pages,Seitenränder ignorieren,تجاهل حواشي الصفحة
+Image,Image,Bild,الصورة
+Image Composing,Composition de l’image,,تكوين الصورة
+Image Map Plug-In,,,ملحقة خريطة الصورة
+Image Metadata,,,بيانات الصورة الخام
+Image Selection,Sélection d’image,Bildauswahl,اختيار الصورة
+Image Settings,Paramètres de l’image,Bildeigenschaften,إعدادات الصورة
+Image Size,Taille de l’image,Bildgröße,حجم الصورة
+Image Types,Types d’image,Bildtypen,أنواع الصور
+Image Type:,Type d’image :,,نوع الصورة:
+Image height:,Hauteur de l’image :,,ارتفاع الصورة
+Image dimensions too large: width %d x height %d,Dimensions de l’image trop grandes : largeur %d x hauteur %d,Bildabmessungen sind zu groß: Breite %d × Höhe %d,أبعاد الصورة كبيرة جدا: %d × %d
+Image dimensions: %d × %d,Dimension de l’image : %d x %d,Bildgröße: %d × %d,أبعاد الصورة: %d × %d
+Image height is larger than GIMP can handle.,L’image est plus haute que GIMP ne peut prendre en charge.,"Das Bild ist höher, als GIMP es verarbeiten kann.",ارتفاع الصورة أكبر مما يستطيع جمب معالجته.
+Image name:,Nom de l’image :,Bildname:,اسم الصورة:
+Image size has changed.,La taille de l’image a changé.,Die Bildgröße hat sich geändert.,حجم الصورة قد تغير.
+Image spacing:,Espacement de l’image :,,تباعد الصورة
+Image width is larger than GIMP can handle.,L’image est plus large que GIMP ne peut prendre en charge.,"Das Bild ist breiter, als GIMP es verarbeiten kann.",عرض الصورة أكبر مما يستطيع جمب معالجته.
+Images,Images,,الصور
+Images for the Cap Faces,Images pour les extrémités du cylindre,Bilder für die Grundflächen,الصور لأوجه القبعات
+Images have different size,Les images sont de tailles différentes,Die Bilder haben unterschiedliche Größen,الصور تملك أحجامًا مختلفة
+Import paths,Importer les chemins,,استيراد المسارات
+Import from PDF,Importation depuis un PDF,,استورد من PDF
+Import from PostScript,Importation depuis un PostScript,,استيراد من بوست سكربت
+Import from TIFF,Importation depuis TIFF,Aus TIFF importieren,استيراد من TIFF
+Import path elements of the SVG so they can be used with the GIMP path tool,Importe les éléments du chemin du SVG afin qu’ils puissent être utilisés avec l’outil de chemins GIMP,,استيراد عناصر مسار الـ SVG ليمكن استخدامها مع أداة مسار جمب
+Importing screenshot,Importation de la capture d’écran,Bildschirmfoto wird importiert,يستورد لقطة الشاشة
+Integration steps:,Étapes d’intégration :,,خطوات الدمج
+Inverse,Inverser,Invertieren,عكس
+Include mouse pointer,Inclure le pointeur de la souris,Mauszeiger einbeziehen,ضمّن مؤشر الفأرة
+Include decorations,,,تضمين الزخرفات
+Include window decoration,Inclure les décorations de fenêtre,Fensterrahmen einbeziehen,ضمّن حدود النافذة
+Incomplete input,Entrée incomplète,Unvollständige Eingabe,إدخال غير مكتمل
+Increase the speed of the animation,,Geschwindigkeit der Animation erhöhen,سرّع التحريك
+Indexed,Indexé,Indiziert,مفهرس
+Indexed Alpha,Alpha indexé,Indizierte Transparenz,ألفا مفهرسة
+Indexed Palette Type,,,نوع لوحة مفهرسة
+Initial value:,Valeur initiale :,Anfangswert:,القيمة الأولية:
+Input levels:,Niveaux d’entrée :,Quellwerte:,مستويات الإدخال:
+Insert Point,Insérer un point,Punkt hinzufügen,إضافة نقطة
+Installation Date,Date d’installation,Installationsdatum,تاريخ التثبيت
+Integer,Entier,Ganzzahlen,عدد صحيح
+Intensity Levels,Niveaux d’intensité,Intensitätsstufen,مستويات الشدة
+Intensity of original color when lit by a light source,Intensité de la couleur originelle lorsque éclairée,,شدة الألوان الأصلية عند تسليط الضوء عليها
+Interaction:,Interaction :,Iteration:,التفاعل:
+Interactively modify the image colors,,,تعديل ألوان الصورة تفاعليًا
+Interlace,,,تشبيك داخلي
+Intersection,Intersection,Schnittpunkte,الالتقاء
+Intersection Color,Couleur des intersections,Farbe der Schnittpunkte,لون الالتقاء
+Invalid UTF-8 string in brush file '%s'.,,,نص UTF-8 غير صالح في ملف الفرشاة '%s'.
+Invalid UTF-8 string in pattern file '%s'.,,,نص UTF-8 غير صالح في ملف النموذج '%s'.
+Invalid X offset: %d,Décalage X non valide : %d,Ungültiger X-Versatz: %d,ملف غير صالح.
+Invalid X resolution.,Résolution X non valide.,Ungültige X-Auflösung.,استبانة X غير صالحة.
+Invalid Y offset: %d,Décalage Y non valide : %d,Ungültiger Y-Versatz: %d,ملف غير صالح.
+Invalid Y resolution.,Résolution Y non valide.,Ungültige Y-Auflösung.,استبانة Y غير صالحة.
+Invalid file.,Fichier non valide.,Ungültige Datei.,ملف غير صالح.
+Invalid height: %hu,Hauteur non valide : %hu,Ungültige Höhe: %hu,ارتفاع غير صحيح: %hu
+Invalid number of channels: %hu,Nombre de canaux non valide : %hu,Ungültige Kanalanzahl: %hu,عدد قنوات غير صحيح: %hu
+Invalid remap array was passed to remap function,Un tableau remap erroné a été passé à la fonction remap,,تم تمرير مصفوفة غير صالحة التعيين إلى دالة إعادة التعيين
+Invalid width: %hu,Largeur non valide : %hu,Ungültige Breite: %hu,عرض غير صحيح: %hu
+Inversion,Inversion,,قلب
+Inverts the Papers texture,Inverse la texture du support,Invertiert die Papiertextur,عكس نقش الأوراق
+Isometric,Isométrique,Isometrisch,متماثل
+Iterations:,Itérations :,Iterationen:,السحوبات:
+JNG,JNG,,JNG
+JNG + delta PNG,JNG + delta PNG,JNG + delta PNG,JNG + دلتا PNG
+JPEG,JPEG,JPEG,JPEG
+JPEG 2000 image,Image JPEG 2000,JPEG 2000-Bild,صورة JPEG 2000
+JPEG compression quality:,Qualité de compression JPEG :,,جودة ضغط JPEG:
+JPEG image,Image JPEG,JPEG-Bild,صورة JPEG
+JPEG preview,Aperçu JPEG,JPEG-Vorschau,معاينة JPEG
+JPEG quality parameter,,,وسيط جودة JPEG
+JPEG smoothing factor:,Facteur d’adoucissement JPEG :,,عامل صقل JPEG:
+Jigsaw,Puzzle,Puzzle,تقطيع إلى ألغاز
+Jigsaw Style,Style de puzzle,,مظهر قطع اللغز
+Julia,Julia,Julia,جوليا
+KISS CEL,KISS CEL,KISS CEL,KISS CEL
+Keep image's values,Conserver les valeurs de l’image,Werte des Bildes beibehalten,الإبقاء على قيم الصورة
+Keep original,Conserver l’original,Original beibehalten,الحفاظ على الأصلي
+Keep the first value,Conserver la première valeur,Ersten Wert beibehalten,الإبقاء على القيمة الأولى
+Keeping the masks will not change the output,La conservation des masques ne change pas le résultat,,الإبقاء على الأقنعة لن يُغيّر الناتج
+LAB,LAB,LAB,LAB
+LZ77,LZ77,,LZ77
+Left border,Bordure gauche,Linker Rand,الحد الأيسر
+Length:,Longueur :,,الطول:
+Lambda,Lambda,Lambda,لامبدا
+Large,Grande,Groß,كبير
+Large icons and compression are not supported by all programs. Older applications may not open this file correctly.,Les grandes icônes et la compression ne sont pas prises en charge par tous les programmes. Les applications anciennes ne parviendront peut être pas à ouvrir ce fichier correctement.,Große Symbole und Kompression wird nicht von allen Anwendungen unterstützt. Ältere Anwendungen öffnen diese Datei möglicherweise nicht korrekt.,الأيقونات الكبيرة و الضغط غير مدعومان من كل البرامج. يمكن أن لا تتمكن البرامج اقديمة من فتح هذا الملف بشكل صحيح
+Layer background type. Copy causes the previous layer to be copied before the draw is performed.,Type d’arrière-plan pour le calque. Copier fait que le calque précédent est copié avant que le dessin ne soit effectué.,"Ebenen-Hintergrundtyp »Kopie« erzeugt eine Kopie der ursprünglichen Ebene, bevor darauf gezeichnet wird.",نوع خلفية الطبقة. النسخ سيجعل الطبقة السابقة تُنسخ قبل أن يتم الرسم.
+Layers,Calques,Ebenen,الطبقات
+Left,Gauche,Links,يسار
+Left edge,Bord gauche,Linker Rand,الحافة اليسرى
+Left:,Gauche :,,اليسار:
+Less Sat:,,,إشباع أقل:
+Let the direction from the center determine the direction of the stroke,La direction du tracé est déterminée par la direction depuis le centre,Die Richtung vom Bildmittelpunkt bestimmt die Richtung jedes Pinselstrichs,جعل الاتجاه من مركو الصورة يحدد اتجاه ضربة الفرشاة
+Let the direction from the center determine the size of the stroke,La direction du centre de l’image détermine la taille du tracé,Die Pinselstrichgröße wird durch die Richtung zum Bildmittelpunkt bestimmt,جعل الاتجاه من المركز يحدد حجم ضربة الفرشاة
+Let the value (brightness) of the region determine the direction of the stroke,"Si coché, la valeur (luminosité) de la région déterminera la direction du tracé",Der Wert (Helligkeit) der Region bestimmt die Richtung des Pinselstrichs,جعل قيمة (السطوع) للمنطقة تحدد اتجاه ضربة الفرشاة
+Let the value (brightness) of the region determine the size of the stroke,La valeur (luminosité) de la région détermine la longueur du coup de brosse,Die Pinselstrichgröße wird durch die Helligkeit der Region bestimmt,جعل قيمة (السطوع) للمنطقة تحدد حجم ضربة الفرشاة
+Light,Lumière,Licht,ضوء
+Light 1,Lumière 1,Licht 1,الضوء 1
+Light 2,Lumière 2,Licht 2,الضوء 2
+Light 3,Lumière 3,Licht 3,الضوء 3
+Light 4,Lumière 4,Licht 4,الضوء 4
+Light 5,Lumière 5,Licht 5,الضوء 5
+Light 6,Lumière 6,Licht 6,الضوء 6
+Light Settings,Paramètres de la lumière,Lichteigenschaften,إعدادات الإضاءة
+Light intensity,Intensité de la lumière,,شدة الضوء
+Light source X direction in XYZ space,Direction X de la source lumineuse en espace XYZ,,اتجاه مصدر الضوء حسب X في الفضاء XYZ
+Light source X position in XYZ space,Position X de la source lumineuse en espace XYZ,,موقع مصدر الضوء حسب X في الفضاء XYZ
+Light source Y direction in XYZ space,Direction Y de la source lumineuse en espace XYZ,,اتجاه مصدر الضوء حسب Y في الفضاء XYZ
+Light source Y position in XYZ space,Position Y de la source lumineuse en espace XYZ,,موقع مصدر الضوء حسب Y في الفضاء XYZ
+Light source Z direction in XYZ space,Direction Z de la source lumineuse en espace XYZ,,اتجاه مصدر الضوء حسب Z في الفضاء XYZ
+Light source Z position in XYZ space,Position Z de la source lumineuse en espace XYZ,,موقع مصدر الضوء حسب Z في الفضاء XYZ
+Lighter,Plus lumineux,Heller,مضيء
+Lighter:,,,أفتح:
+Lighting Effects,Effets d’éclairage,Lichteffekte,تأثيرات الأضواء
+Lighting preset:,Éclairage prédéfini :,,ضبط الضوء المسبق:
+Lightness,Lumière,Helligkeit,السطوع
+Lightsource color:,Couleur de la source de lumière :,,لون مصدر الإضاءة:
+Lightsource type:,Type de la source de lumière :,,نوع مصدر الإضاءة:
+Line,,Linie,خط
+Line Reversion Threshold:,Seuil de réfection de ligne :,,عتبة الانحراف:
+Line Threshold:,Seuil de ligne :,,العتبة:
+Linear,Linéaire,Linear,خطي
+Link Type,Type de lien,Verknüpfungstyp,نوع الرابط
+List View,Affichage en liste,Listenansicht,عرض قوائم
+List available procedures in the PDB,Dresse la liste des procédures disponibles dans la PDB,Verfügbare Prozeduren auflisten,سرد الإجراءات المتاحة في الـ PDB
+Lizard,Lézard,Eidechse,سحلية
+Lower border,Bordure inférieure,Unterer Rand,الحد الأسفل
+Load CML Explorer Parameters,Charger les paramètres de la fractale CML,CML-Explorer-Parameter laden,تحميل وسائط مستكشف CML
+Load Curve Points from File,Charge les points de la courbe depuis un fichier,Kurvenkontrollpunkte aus Datei laden,تحميل نقاط المنحنى من ملف
+Load FITS File,,,تحميل ملف FITS
+Load Flame,Charger « Flammes »,Flamme laden,تحميل اللهب
+Load Fractal Parameters,Charger les paramètres de la fractale,Fraktalparameter laden,تحميل وسائط الجزيئيات
+Load Gfig Object Collection,Charger la collection d’objets Gfig,Gfig-Objekt-Sammlung öffnen,تحميل مجموعة كائنات Gfig
+Load Image Map,Charger le plan de l’image,Imagemap laden,تحميل خريطة الصورة
+Load Image from Raw Data,Charger une image depuis les données Raw,Bild aus Rohdaten laden,تحميل الصورة من البيانات الخام
+Load KISS Palette,Charger une palette KISS,KISS-Palette laden,تحميل لوحة KISS
+Load Lighting Preset,Charger les paramètres d’éclairage,Beleuchtungsvorlage laden,تحميل ضبط الإضاءة المسبق
+Load QBE File,Charger un fichier QBE,QBE-Datei laden,تحميل ملف QBE
+Load a fractal from file,Charge les paramètres de fractale à partir d’un fichier.,Fraktal aus Datei laden,تحميل الجزيئية من ملف
+Load the curves from a file,Charge les courbes depuis un fichier,Die Kurven aus einer Datei laden,تحميل المنحنيات من ملف
+Loading index from '%s',Chargement du sommaire depuis « %s »,Lade Index aus »%s«,خطأ أثناء قراءة تروسية ملف BMP من '%s'
+Logarithmic,Logarithmique,Logarithmisch,لوغاريتمي
+Loop,,,تكرار
+Low,Bas,Niedrig,منخفض
+Lower left,Inférieur gauche,Unten links,اليسار السفلي
+Lower right,Inférieur droit,Unten rechts,اليمين السفلي
+Lower selected object,Descendre l’objet sélectionné,Ausgewähltes Objekt absenken,خفض الكائن المحدد
+Lower selected object to bottom,Descendre l’objet sélectionné tout en bas,Ausgewähltes Objekt in den Hintergrund senken,خفض الكائن المحدد إلى الأسفل
+Luminance,,,الإضاءة
+Luminosity threshold:,Seuil de luminosité :,,عتبة الإضاءة:
+MNG,,MNG,MNG
+MNG Options,Options MNG,MNG-Einstellungen,خيارات MNG
+MNG animation,Animation MNG,MNG-Animation,MNG متحركة
+Maximum value:,Valeur maximum :,,القيمة القصوى:
+Maximum height:,Hauteur maximum :,,الارتفاع الأقصى:
+Magenta,,,أرجواني
+Magenta,Magenta,Magenta,الأرجواني
+Magenta:,,,أرجواني
+MagentaK,,,الأرجواني-k
+Magnitude map:,Carte de force :,,خريطة العظم:
+Make destination image transparent where bump height is zero,Rend l’image de destination transparente là où le relief est nul,,جعل الصورة الهدف شفافة حيث ارتفع النتوء هو صفر
+Make image sharper (less powerful than Unsharp Mask),,,جعل الصورة أكثر حدة (أقل قوة من قناع إزالة الحدة)
+Make image transparent outside object,Rend l’image transparente autour de l’objet,,جعل الصورة شفافة خارج الكائن
+Man'o'war,Man'o'war,,سحاري
+Mandelbrot,Mandelbrot,Mandelbrot,ماندلبروت
+Mandelbrot Parameters,,,وسائط ماندلبروت
+Manual,Manuel,Manuell,يدوي
+Manually specify the stroke orientation,Précise manuellement la direction du tracé,Ausrichtung der Pinselstriche manuell festlegen,تحديد اتجاه ضربة الفرشاة يدويًا
+Manually specify the stroke size,La taille des tracés est choisie manuellement,Pinselgröße manuell auswählen,تحديد حجم ضربة الفرشاة يدويًا
+Map File Format,Format de fichier Map,Map-Dateiformat,صيغة ملف التعيين
+Map Images to Box Faces,Plaquer différentes images sur les côtés de la boîte,Bilder auf Quaderseiten abbilden,تعيين الصور إلى أوجه صندوق
+Map Object...,Plaquer sur un objet…,Auf Objekt abbilden …,كائن الخريطة...
+"Map the image to an object (plane, sphere, box or cylinder)","Plaque une image sur un objet (plan, sphère, boite ou cylindre)","Das Bild auf ein Objekt abbilden (Fläche, Kugel, Quader oder Zylinder)",تعيين الصورة إلى كائن (مسطح، كرة، صندوق أو أسطوانة)
+Map to Object,Plaquer sur un objet,Auf Objekt abbilden,خريطة إلى كائن
+Map to box,Plaquer sur une boîte,Auf Quader abbilden,خريطة إلى صندوق
+Map to cylinder,Plaquer sur un cylindre,Auf Zylinder abbilden,خريطة إلى اسطوانة
+Map to plane,Plaquer sur un plan,Auf Fläche abbilden,خريطة إلى مسطح
+Map to sphere,Plaquer sur une sphère,Auf Kugel abbilden,خريطة إلى كرة
+Map to:,Plaquer sur :,,خريطة إلى:
+Marble,Marbre,Marmor,كريات
+Mask File,,,ملف القناع
+Mask value,Valeur du masque,Maskenwert,قيمة القناع
+Material Properties,Propriétés du matériau,Materialeinstellungen,خصائص المادة
+"Max (x+d, -)","Max (x+d, -)","Max (x+d, -)","أقصى (x+d, -)"
+"Max (x+d, -), (0.5 < x)","Max (x+d, -), (0.5 < x)","Max (x+d, -), (0.5 < x)","أقصى (x+d, -), (0.5 < x)"
+"Max (x+d, -), (x < 0.5)","Max (x+d, -), (x < 0.5)","Max (x+d, -), (x < 0.5)","أقصى (x+d, -), (x < 0.5)"
+"Max (x, -)","Max (x, -)","Max (x, -)","أقصى (x, -)"
+"Max (x-d, -)","Max (x-d, -)","Max (x-d, -)","أقصى (x-d, -)"
+"Max (x-d, -), (0.5 < x)","Max (x-d, -), (0.5 < x)","Max (x-d, -), (0.5 < x)","أقصى (x-d, -), (0.5 < x)"
+"Max (x-d, -), (x < 0.5)","Max (x-d, -), (x < 0.5)","Max (x-d, -), (x < 0.5)","أقصى (x-d, -), (x < 0.5)"
+Max RGB,,,RGB الأقصى
+Max undo:,Maximum d’annulations :,Max. Rückgängig:,عدد محاولات التراجع الأقصى:
+Max. memory:,Mémoire max. :,Maximaler Speicher:,الذاكرة القصوى:
+Maximum RGB...,,,RGB الأقصى...
+Maximum RGB Value,,,قيمة RGB العليا
+Maximum height for bumps,Hauteur maximum des bosses,,ارتفاع النتوءات الأقصى
+Maximum size:,Taille max :,Maximalgröße:,الحجم الأقصى:
+Median,Médian,Median,متوسط
+Menu,Menu,Menü,قائمة
+Menu Path,Chemin dans le menu,Menüpfad,مسار القائمة
+Merge imported paths,Fusionner les chemins importés,Importierte Pfade zusammenfügen,دمج المسارات المستوردة
+Merging,,,جاري الدمج
+Microsoft WMF file,Fichier Microsoft WMF,Microsoft-WMF-Datei,ملف مايكروسوفت WMF
+Microsoft Windows icon,Icône Microsoft Windows,Microsoft-Windows Symbol,أيقونة مايكروسوفت ويندوز
+Midtones:,,,التبريد المتوسط:
+"Min (x+d, -)","Min (x+d, -)","Min (x+d, -)","أدنى (x+d, -)"
+"Min (x+d, -), (0.5 < x)","Min (x+d, -), (0.5 < x)","Min (x+d, -), (0.5 < x)","أدنى (x+d, -), (0.5 < x)"
+"Min (x+d, -), (x < 0.5)","Min (x+d, -), (x < 0.5)","Min (x+d, -), (x < 0.5)","أدنى (x+d, -), (x < 0.5)"
+"Min (x, -)","Min (x, -)","Min (x, -)","أدنى (x, -)"
+"Min (x-d, -)","Min (x-d, -)","Min (x-d, -)","أدنى (x-d, -)"
+"Min (x-d, -), (0.5 < x)","Min (x-d, -), (0.5 < x)","Min (x-d, -), (0.5 < x)","أدنى (x-d, -), (0.5 < x)"
+"Min (x-d, -), (x < 0.5)","Min (x-d, -), (x < 0.5)","Min (x-d, -), (x < 0.5)","أدنى (x-d, -), (x < 0.5)"
+Minimum size:,Taille min :,Minimalgröße:,الحجم الأدنى:
+Mirror the active curve to the other border,Symétrise la courbe active vers l’autre limite,Die aktive Kurve an den anderen Rand spiegeln,عكس الانحناء النشط إلى الحدود الأخرى
+Misc arrange:,Arrangements divers :,Sonstige Anordnung:,ترتيب متفرق:
+Mod. rate:,Taux de modification :,Änderungsrate:,نسبة الدوران:
+Mode,Mode,,النمط
+Modify Curves,Modification des courbes,Kurven bearbeiten,تعديل الانحناءات
+Modify image to reduce size when saved as GIF animation,Modifie l’image pour réduire sa taille en enregistrant une animation GIF,"Bild verändern, um die Dateigröße zu reduzieren, wenn es als GIF-Animation gespeichert wird",تعديل الصورة لتصغير الحجم عند حفظها كصورة GIF متحركة
+More Advanced Options,Autres options,Fortgeschrittene Einstellungen,خيارات متقدمة أخرى
+More Sat:,,,إشباع أكثر:
+Mouse Pointer,Pointeur de la souris,Mauszeiger,مؤشر الفأرة
+Move,Déplacer,Bewegen,نقل
+Move Area to Bottom,Déplacer la zone vers le bas,Bereich nach hinten setzen,انقل المنطقة إلى الخلف
+Move Area to Front,Déplacer la zone vers l’avant,Bereich nach vorn setzen,انقل المنطقة إلى الأمام
+Move Down,Descendre,Runter,التحرك للأسفل
+Move Sash,Déplacer le cadre,Rahmen bewegen,التحرك للأعلى
+Move Selected Objects,Déplacer les objets sélectionnés,Ausgewählte Objekte bewegen,تحريك الكائنات المحددة
+Move To Front,Déplacer vers l’avant,Nach vorn bringen,التحريك إلى الأمام
+Move Up,Monter,Hoch,التحريك لفوق
+Move a single point,Déplacer un point seul,Einzelnen Punkt bewegen,تحريك نقطة واحدة
+Move an object,Déplacer un objet,Objekt bewegen,تحريك كائن
+Multipage PDF export,Exportation PDF multipage,Mehrseitiges PDF exportieren,تصدير PDF متعدد الصفحات
+"Multiply gradient (0,1)","Multiplier, gradient [0 ; 1]","Multiplizierter Anstieg (0,1)",ضرب التدرج (1،0)
+"Multiply rand. value (0,1)","Multiplier, valeur aléatoire [0 ; 1]","Multiplizierter Zufallswert (0,1)",ضرب القيمة العشوائية (1،0)
+"Multiply rand. value (0,2)","Multiplier, valeur aléatoire [0 ; 2]","Multiplizierter Zufallswert (0,2)",ضرب القيمة العشوائية (2،0)
+Mutation dist.:,Distance de mutation :,Mutationsabstand:,توزع التحول:
+Mutation rate:,Taux de mutation :,Mutationsrate:,نسبة التبديل:
+My first fractal,Ma première fractale,Mein erstes Fraktal,جزيئيتي الأولى
+NEF image,,,صورة GIF
+NL Filter,Filtre NL,NL-Filter,مصفي NL
+Name,Nom,Name,الاسم
+Neon,,,نيون
+Neon Detection,,,استكشاف النيون
+New Gradient Flare,Nouvel éblouissement graduel,Neue Farbverlaufsaufhellung,وهج تدرج جديد
+New Seed,Nouveau germe,Neue Anfangszahl,بذرة جديدة
+Newsprint...,,,ورق صحف...
+Newsprint,,,ورق صحف
+"No %s in gimprc:
+You need to add an entry like
+(%s ""%s"")
+to your %s file.","Pas de %s dans gimprc :
+Vous devez ajouter une entrée telle que
+(%s « %s »)
+à votre fichier %s.","%s befindet sich nicht in der gimprc:
+Sie sollten einen Eintrag wie diesen
+(%s ""%s"")
+in Ihrer Datei %s hinzufügen.","لا يوجد %s في gimprc:
+تحتاج لإضافة إدخال مثل
+(%s ""%s"")
+إلى ملفك ال %s."
+No URL was specified,URL non indiqué,Es wurde keine Adresse angegeben,لم يحدَّد أي عنوان
+No colors,,,لا ألوان
+No compression,Aucune compression,Keine Kompression,بدون ضغط
+No data captured,Aucune donnée capturée,Keine Daten erfasst,لم يُلتقط أي بيانات
+No fill,Ne pas remplir,Keine Füllung,بدون تعبئة
+No light,Pas de lumière,,لا إضاءة
+No matches,Aucun résultat ne correspond,Keine Treffer,لا تطابقات
+No matches for your query,Aucun résultat pour votre requête,Keine Treffer für Ihre Suche,لا يوجد تطابقات لاستعلامك
+No selection to convert,Pas de sélection à convertir,Keine Auswahl vorhanden,ﻻ يوجد تحديد لتحويله
+"No sensible file extension, attempting to load with file magic.","Pas d’extension convenable, essai de chargement avec détection magique.","Unbekannte Dateinamenserweiterung, es wird versucht, über automatische Dateierkennung zu laden.",امتداد الملف غير حساس، جاري محاولة التحميل باستخدام file magic.
+"No sensible file extension, saving as compressed XCF.","Pas d’extension convenable, sauvegarde en tant que XCF compressé.","Unbekannte Dateinamenserweiterung, es wird als gepacktes XCF gespeichert.",امتداد الملف غير حساس، جاري الحفظ كـ XCF.
+No. down:,Nb. bas :,Anz. vertikal:,الرقم أسفل:
+Noise,Bruit,Rauschen,ضجيج
+Non-square pixels.  Image might look squashed.,Pixels non carrés. L’image peut apparaître tassée.,,بكسلات غير مربعة. الصورة قد تبدو مسحوقة.
+None,Aucun,Keine,لا شيء
+Nonlinear swiss army knife filter,Le couteau suisse des filtres non linéaires,Nichtlineares Schweizer-Taschenmesser-Filter,مصفي سكين الجيش السويسري اللاخطي
+Normal,Normal,Normal,عادي
+Normal:,Normal :,Normal:,عادي:
+Normalizing,,,ضبط
+Not a valid Photoshop document file,Ce n’est pas un document Photoshop valide,Kein gültiges Photoshop-Dokument,ليس ملف مستند فوتوشوب صالح
+Nothing to crop.,Rien à découper.,Nichts zum Zuschneiden.,ﻻ شيء للاقتطاع.
+Number of Colors,Nombre de couleurs,Anzahl der Farben,عدد الألوان
+Number of MRU entries (1 - 16):,Nombre d’entrées MRU (1-16) :,Anzahl von MRU-Einträgen (1 - 16):,عدد إدخالات MRU (1 -16):
+Number of Segments,Nombre de segments,Segmentanzahl,عدد القطاعات
+Number of Tiles,Nombre de pièces,Anzahl der Teile,عدد البلاطات
+Number of undo levels (1 - 99):,Nombre de niveaux d’annulation (1-99) :,Rückgängig machbare Schritte (1 - 99):,عدد مستويات التراجع (1 - 99):
+Number of cells:,,,عدد الخلايا:
+Number of colors:,Nombre de couleurs :,,عدد الألوان:
+Number of pieces going across,Nombre de pièces se recouvrant,Anzahl der Teile in horizontaler Richtung,عدد القطع التي ستعبر
+Number of pieces going down,Nombre de pièces descendantes,Anzahl der Teile in vertikaler Richtung,عدد القطع التي ستهبط
+Number of unique colors: %d,,,عدد الألوان الفريدة: %d
+Numbering,Numérotation,Nummerierung,الأعداد
+Offset:,Décalage :,,الإزاحة:
+Opacity:,Opacité :,Deckkraft:,التعتيم:
+Options,Options,Einstellungen,خيارات
+Orientation,Orientation,,الاتجاه
+Others,Autres,Andere,أخرى
+Output LPI:,,,إخراج SPI:
+Overlap:,Superposition :,,تراكب:
+Overlay,Superposition,Überlagern,تغطية
+Oversample:,,,أنموذج فوق العادة:
+Object Details,Détails objet,Objektdetails,تفاصيل الكائن
+Object X position in XYZ space,Position X de l’objet en espace XYZ,,موقع X للكائن في الفضاء XYZ
+Object Y position in XYZ space,Position Y de l’objet en espace XYZ,,موقع Y للكائن في الفضاء XYZ
+Object Z position in XYZ space,Position Z de l’objet en espace XYZ,,موقع Z للكائن في الفضاء XYZ
+Offset:,Décalage :,,الإزاحة:
+Offset all vectors with a given angle,Décale tous les vecteurs d’un certain angle,Alle Vektoren mit diesem Winkel versetzen,إزاحة جميع المتجهات بزاوية معينة
+Offset:,Décalage :,Versatz:,الإزاحة:
+Oil painting,,,التلوين الزيتي
+Oilify...,,,تزييت...
+Oilify,,,تزييت
+Omit hidden layers and layers with zero opacity,,,استبعد الطبقات المخفية والشفافة تماما
+On edges:,Sur les côtés :,,على الحواف:
+On film:,Sur le film :,Auf dem Film:,على شرط مصور:
+One frame per layer (replace),Une image par calque (remplacer),Ein Einzelbild pro Ebene (Ersetzen),مشهد واحد في الطبقة (استبدال)
+Only one unique color,,,لون وحيد فقط
+Opacity:,Opacité :,,التعتيم:
+Optimal estimation,Estimation optimale,,التقدير الأمثل
+Options,Options,Einstellungen,خيارات
+Opacity:,Opacité :,Deckkraft:,التعتيم:
+Open,Ouvrir,Öffnen,فتح
+Open File,Ouvrir le fichier,Datei öffnen,فتح ملف
+Open IFS Fractal file,Ouvrir un fichier Fractales IFS,IFS-Fraktal-Datei öffnen,فتح ملف جزيئيات IFS
+Open as,Ouvrir comme,Öffnen als,افتح ك‍
+Open failed,L’ouverture a échoué,Öffnen fehlgeschlagen,فشل الفتح
+OpenEXR image,Image OpenEXR,OpenEXR-Bild,فتح ملف
+Opening '%s',Ouverture de « %s »,»%s« wird geöffnet,جاري فتح '%s'
+Opening '%s' (frame %d),Ouverture de « %s » (image vidéo %d),»%s« (Einzelbild %d) wird geöffnet,الافتتاح '%s' (المشهد %d)
+Opening thumbnail for '%s',Ouverture de la vignette pour « %s »,Vorschau von »%s« wird geöffnet,جاري فتح الصورة المصغرة لـ '%s'
+Opens up the Orientation Map Editor,Ouvre l’éditeur de carte d’orientation,Öffnet den Ausrichtungs-Map-Editor,فتح محرر تعيين الاتجاه
+Opens up the Size Map Editor,Ouvre l’éditeur de carte de taille,Öffnet den Größen-Map-Editor,فتح محرر تعيين الحجم
+Optimize (for GIF),Optimiser (pour GIF),Optimieren (für GIF),تحسين (للـ GIF)
+Optimizing animation,Optimisation de l’animation,Animation wird optimiert,تحسين الصور المتحركة
+Options,Options,Einstellungen,خيارات
+Orientation,Orientation,Ausrichtung,الاتجاه:
+Origin:,Origine :,,الأصل:
+Orientation,Orientation,,الاتجاه
+Orientation Map Editor,Éditeur de carte d’orientation,Ausrichtungs-Map-Editor,محرر تعيين الاتجاهات
+Orientation:,Orientation :,Ausrichtung:,الاتجاه:
+Original intensity,,,الشدة الأصلية
+Original:,,,الأصلي:
+Other,Autre,Andere,أخرى
+Output,Sortie,Ausgabe,الخرج
+Output levels:,Niveaux de sortie :,Ausgabewerte:,مستويات الإخراج:
+Outside Type,,,النوع الخارجي
+Overlay,Superposition,Überlagern,تغطية
+P(ower factor):,P (facteur de Puissance) :,Exponenten-Faktor (P):,معامل القوة (P):
+PBM image,Image PBM,PBM-Bild,صورة PBM
+PDF document,,,مستند PDF
+PFM image,Image PFM,PFM-Bild,صورة PNM
+PGM image,Image PGM,PGM-Bild,صورة PGM
+PNG,PNG,PNG,PNG
+PNG + delta PNG,PNG + delta PNG,PNG + delta PNG,PNG + دلتا PNG
+PNG compression level:,,,مستوى ضغط PNG:
+PNG image,Image PNG,PNG-Bild,صورة PNG
+PNM,,PNM,PNM
+PNM Image,Image PNM,PNM-Bild,صورة PNM
+PNM image,Image PNM,PNM-Bild,صورة PNM
+PPM image,Image PPM,PPM-Bild,صورة PPM
+PS Diamond,,,ماسة PS
+PS Square (Euclidean Dot),,,مربع PS (النقط الإقليدية)
+PSP,,,PSP
+Paper,Papier,Papier,ورق
+Preview,Aperçu,,معاينة
+Page %d,Page %d,Seite %d,الصفحة %d
+Page Curl,Coin de page,Seite einrollen,لف الصفحة
+Page Setup,,,إعداد الصفحة
+Pagecurl Effect,Effet de coin de page,Einrolleffekt,تأثير لف الصفحة
+"Pages to load (e.g.: 1-4 or 1,3,5-7)","Pages à charger (par ex. : 1-4 ou 1,3,5-7)","Zu ladende Seiten (z.B. 1-4 oder 1,3,5-7)","الصفحات التي ينبغي تحميلها (نحو: 4-1 أو 7-1,3,5)"
+Pages:,Pages :,Seiten:,الصفحات
+Paint Shop Pro image,Image Paint Shop Pro,Paint-Shop-Pro-Bild,صورة Paint Shop Pro
+Paint edges,Peindre les bords,Kanten zeichnen,تلوين الحواف
+Paint mode:,Mode de dessin :,Malmodus:,نمط التلوين:
+Painting,Peinture,Zeichnen,تلوين
+Palette File:,Fichier de palettes :,,ملف اللوحة
+Palette,Palette,Palette,اللوحة
+Palette Map,Application de palette,Auf Palette,خريطة لوحة الألوان
+Parameter k:,Paramètre k :,Parameter k:,الوسيط k:
+Parameters,Paramètres,Parameter,الوسائط
+Parameters were saved to '%s',Les paramètres ont été enregistrés dans « %s »,Parameter wurden in »%s« gespeichert,تم حفظ الوسائط في '%s'
+"Parse error in '%s':
+%s","Erreur d’analyse dans « %s » :
+%s","Einlesefehler in »%s«:
+%s","خطأ تحليل في '%s':
+%s"
+Paste,Coller,Einfügen,لصق
+Pattern,Motif,Muster,نمط
+Pattern fill,Remplir avec le motif,Muster,تعبئة النموذج
+Percent black:,,,نسبة الأسود المئوية:
+Percent white:,,,نسبة الأبيض المئوية:
+Performs various artistic operations,Exécute diverses opérations artistiques,Verschiedene künstlerische Aktionen durchführen,تأدية عمليات فنية متعددة
+Phase shift:,,,إزاحة الطور:
+Phong,Ombrage de Phong,Phong,فونغ
+Photocopy,,,آلة النسخ
+Photoshop image,Image Photoshop,Photoshop-Bild,صورة فوتوشوب
+Pixel value scaling,Mise à l’échelle des valeurs de pixels,,مقياس قيمة البكسل
+Pixels,Pixels,,بكسلات
+Pixels in the foreground color will appear black in all output images.  This can be used for things like crop marks that have to show up on all channels.,Les pixels de la couleur d’arrière-plan vont apparaître noirs dans toutes les images. Ceci peut être utilisé pour des marques de découpe qui doivent rester visibles sur tous les canaux.,,البكسلات في لون الأرضية ستظهر سوداء في كل خرج صورة. يمكن أن يُستخدم هذا كعلامات اقتطاع يجب أن تظهر على جميع القنوات.
+Placement,Placement,Platzierung,التموضع
+Place strokes randomly around the image,Dispose les tracés aléatoirement sur l’image,Platziert Pinselstriche zufällig im Bild,وضع ضربات الفرشاة عشوائيًا في أرجاء الصورة
+Placement,Positionnement,Platzierung,التموضع
+Planar (RRR... GGG... BBB...),,,"مخطط (RRR,GGG,BBB)"
+Planar RGB,RVB Planar,,RGB مخطط
+Plane,Plan,Ebene,مسطح
+Playback speed,,Wiedergabegeschwindigkeit,سرعة التشغيل
+Please fill in all text fields.,Veuillez remplir tous les champs de texte.,Bitte füllen Sie alle Textfelder aus.,الرجاء ملء جميع حقول النص.
+Please install the additional help package or use the online user manual at http://docs.gimp.org/.,,,رجاءً قم بتنصيب حزمة المساعدة الإضافية أو استخدم دليل المستخدم على الخط في http://docs.gimp.org/.
+Plot a Graph of the Settings,Tracer un graphe des paramètres,Den Graphen mit diesen Einstellungen zeichnen,رسم مخطط عن الإعدادات
+Plug-In Browser,,,مستعرض الملحقات
+Plural,Pluriel,,جمع
+Point,Point,Punkt,نقطة
+Point light,Lumière ponctuelle,,إضاءة النقطة
+Polar,Polaire,Polar,قطبي
+Polar grid radius interval:,Intervalle de rayon de la grille polaire :,Radiusintervall des Polarkoordinatensystems:,مجال نصف قطر الشبكة القطبية:
+Polar grid sectors desired:,Secteurs souhaités pour la grille polaire :,Gewünschte Abschnitte des Polarkoordinatensystems:,قطاعات الشبكة القطبية المطلوبة:
+Polygon,Polygone,Polygon,مضلع
+Portable Document Format,PDF (Portable Document Format),Portable-Document-Format,صيغة المستندات المحمولة (PDF)
+Position,Position,Position,الموقع
+Position X:,Position X :,Position X:,موقع س:
+Position Y:,Position Y :,Position Y:,موقع ص:
+Position Z:,Position Z :,Position Z:,موقع ع:
+PostScript,PostScript,PostScript,بوستسكربت
+PostScript document,Document PostScript,PostScript-Dokument,مستند بوست سكربت (PS)
+PostScript save cannot handle images with alpha channels,,,بوست سكربت لا يمكنه التعامل مع الصور ذات قنوات ألفا
+Power,Puissance,Potenz,أبطأ
+Preview,Aperçu,Vorschau,المعاينة
+Preferences,Préférences,Einstellungen,تفضيلات
+Premature end of file.,Fin de fichier prématurée.,Unerwartetes Ende der Datei.,وُجهت نهاية ملف سابقة لأوانها.
+Preserve the original image as a background,Préserve l’image originale comme arrière-plan,Das ursprüngliche Bild als Hintergrund beibehalten,المحافظة على الصورة الأصلية كخلفية
+Preview,Aperçu,Vorschau,معاينة
+Preview Size,,,حجم المعاينة
+Preview size:,Taille de l’aperçu :,,حجم المعاينة:
+Preview a GIMP layer-based animation,,Vorschau für eine GIMP-Ebenenbasierte Animation,معاينة صور متحركة طبقية الأساس لجمب
+Print the image,Imprime l’image,Das Bild ausdrucken,طباعة الصورة
+Printing,Impression,Drucken,جاري الطباعة
+Probability gradient:,Dégradé de probabilité :,Wahrscheinlichkeitsverlauf:,تدرّج الرجحان:
+Procedure Browser,Navigateur de procédures,Prozeduren-Browser,مستعرض الإجراءات
+Procedure Browser,Navigateur de procédures,Prozeduren-Browser,مستعرض الإجراءات
+Produce a lense flare effect using gradients,Produit un effet d’éblouissement en utilisant des dégradés,Erstellt einen Linsenreflexeffekt unter Verwendung von Verläufen,إنتاج تأثير وهج عدسات باستخدام التدرجات
+Properties,Propriétés,Eigenschaften,خصائص
+Qbist,Qbiste,Qbist,Qbist
+"R, G, B (normal)","R, V, B (normal)","R, G, B (normal)","R, G, B (عادي)"
+RGB,RVB,RGB,RGB
+RGB Alpha,Alpha RVB,,RGB ألفا
+RGB Save Type,,,نوع حفظ RGB
+RGBA,RVBA,RGBA,RGBA
+RLE,RLE,,RLE
+RLE compression,Compression RLE,RLE-Kompression,ضغط RLE
+Radius 2:,,,نصف القطر 2:
+Radius:,Rayon :,,نصف القطر:
+Rearrange Colormap...,Réorganiser la palette des couleurs…,Farbtabelle umsortieren …,إعادة ترتيب خريطة الألوان...
+Recompose,Recomposer,Wieder zusammenfügen,إعادة تشكيل
+Recursive,Récursif,,معاودة
+Red,,,أحمر
+Redraw preview,Redessiner l’aperçu,Vorschau neu zeichnen,معاينة إعادة الرسم
+Radial,Radial,Radial,نصف قطري
+Radial gradient:,Dégradé radial :,Strahlenförmiger Farbverlauf:,التدرج نصف القطري:
+Radius,Rayon,Radius,نصف القطر
+Radius:,Rayon :,Radius:,نصف القطر:
+Raise selected object,Monter l’objet sélectionné,Ausgewähltes Objekt anheben,رفع الكائن المحدد
+Raise selected object to top,Monter l’objet sélectionné tout en haut,Ausgewähltes Objekt in den Vordergrund heben,رفع الكائن المحدد إلى الأعلى
+Random saturation:,Saturation aléatoire :,,إشباع عشوائي:
+Random,Aléatoire,Zufällig,عشوائي
+Random Seed,Germe aléatoire,Zufällige Anfangszahl,بذرة عشوائية
+Random seed:,Germe aléatoire :,Anfangswert für Zufallszahlen:,بذرة عشوائية:
+Random shared,"Aléatoire, partagé","Zufällig, gemeinsam",عشوائي متشارك
+"Random, ch. independent","Aléatoire, indépendant","Zufällig, kanalunabhängig",عشوائي، مستقل القناة
+Randomly,Aléatoire,Zufällig,عشوائيًا
+Randoms from seed,Aléatoires depuis un germe,Zufallszahlen aus Anfangszahl,عشوائي من البذرة
+Randoms from seed (shared),Aléatoires depuis un germe (partagé),Zufallszahlen aus Anfangszahl (gemeinsam),عشوائية من البذرة (متشاركة)
+Range high:,Borne sup :,Obere Grenze:,أعلى المجال:
+Range low:,Borne inf :,Untere Grenze:,أدنى المجال:
+Ranks:,Rangs :,Ränge:,المراتب:
+Raw,,Rohdaten,خام
+Raw Image,,,صورة خام
+Raw image data,Données d’image Raw,Rohdaten des Bildes,بيانات الصورة الخام
+Rays Paint Options,Options de dessin des rayons,Maloptionen für Strahlen,خيارات تلوين الأشعة
+Recenter,Recentrer,,إعادة تمركز
+Reads the selected Preset into memory,Charge en mémoire le préréglage choisi,Die ausgewählten Voreinstellungen aus der angegebenen Datei laden,قراءة الإعداد الحالي إلى الذاكرة
+Realtime preview,,,معاينة فورية
+Rearrange Colormap,Réorganisation de la palette des couleurs,,إعادة ترتيب خريطة الألوان
+Rearrange the colormap,Réorganise la palette des couleurs,Farbtabelle umsortieren,إعادة ترتيب خريطة الألوان
+Rearranging the colormap,Réorganisation de la palette des couleurs,Farbtabelle wird umsortiert,إعادة ترتيب خريطة الألوان
+Recolor the image using colors from the active gradient,Recolore l’image en utilisant les couleurs du dégradé actif,Das Bild unter Verwendung der Farben des aktiven Verlaufs neu färben,إعادة تلوين الصورة باستخدام الألوان من التدرج النشط
+Recolor the image using colors from the active palette,Recolore l’image en utilisant les couleurs de la palette active,Das Bild unter Verwendung der Farben der aktiven Palette neu färben,إعادة تلوين الصورة باستخدام الألوان من لوحة الألوان
+Recompose an image that was previously decomposed,Recompose une image précédemment décomposée,Ein zuvor zerlegtes Bild wieder zusammensetzen,إعادة تشكيل صورة تم تجزئتها مسبقًا
+Recompute Center,Recalculer le centre,Mitte neu berechnen,إعادة حساب المركز
+Recompute preview image,Recalculer l’aperçu,Die Vorschau neu berechnen,إعادة حساب معاينة الصورة
+Rectangle,Rectangle,Rechteck,مستطيل
+Red,Rouge,Rot,أحمر
+Red:,Rouge :,,أحمر:
+Redo,Rétablir,Wiederholen,إلغاء التراجع
+Redo last zoom change,Rétablit le zoom précédent,Die letzte Änderung an der Vergrößerung wiederholen,إعادة آخر تغيير للتحجيم
+Reduce Luminance,Réduire la luminance,,تقليص الإضاءة
+Reduce Saturation,Réduire la saturation,,تقليص الإشباع
+Reduce file size where combining layers is possible,Réduit la taille du fichier lorsqu’il est possible de combiner les calques,"Dateigröße reduzieren, soweit eine Kombination von Ebenen möglich ist",تقليص حجم الملف حيث بالإمكان دمج الطبقات
+"Reduce image to pure red, green, and blue",,,تقليص ألوان الصورة إلى الأحمر والأخضر والأزرق الأنقياء
+Reflectivity,Pouvoir réfléchissant,Reflexivität,الانعكاس
+Refresh the Preview window,Actualiser la fenêtre d’aperçu,Das Vorschaufenster auffrischen,إنعاش نافذة المعاينة
+Region selected for filter is empty,La région sélectionnée pour le filtre est vide,Der für den Filter ausgewählte Bereich ist leer,المنطقة المحددة للتصفية فارغة
+Region selected for filter is empty.,La région sélectionnée pour le filtre est vide.,Der für den Filter ausgewählte Bereich ist leer.,المنطقة المحددة للمصفي فارغة.
+Region selected for plug-in is empty,La région sélectionnée pour le greffon est vide,Der für das Plugin ausgewählte Bereich ist leer,المنطقة المحددة للملحقات فارغة
+Regular Polygon Number of Sides,Polygone régulier : nombre de côtés,Seitenanzahl des regulären Polygons,عدد جوانب المضلع العادي
+Relative link,Lien relatif,Relativer Link,الرابط النسبي
+Relative probability:,Probabilité relative :,Relative Wahrscheinlichkeit:,الرجحان النسبي:
+Released under the GNU General Public License,Distribué sous les termes de la Licence Publique Générale GNU,Veröffentlicht unter der »GNU General Public License«,مرخص تحت رخصة جنو العمومية الحرة (GPL)
+Relief:,Relief :,Relief:,النجدة:
+Reload current page,Recharge la page actuelle,Diese Seite erneut laden,أعِد تحميل الصفحة الحاليّة
+Reload the image,,Bild neu laden,تدوير الصورة؟
+Remap colorized,Appliquer à nouveau le colorié,Einfärben,إعادة التعيين ملونة
+Remove optimization to make editing easier,Supprime l’optimisation pour rendre l’édition plus facile,"Optimierung entfernen, um das Bearbeiten zu erleichtern",إزالة الاستثمال لجعل التحرير أسهل
+Remove speckle noise from the image,Supprime les bruits parasites de l’image,Flecken und Rauschen entfernen,إزالة الضجيج المبرقش من الصورة
+Remove the selected pages,Enlever les pages sélectionnées,Die ausgewählten Seiten löschen,احذف الصفحات المحددة
+Remove vertical stripe artifacts from the image,Supprime les traînées verticales sur l’image,Vertikale Artefaktstreifen vom Bild entfernen,إزالة الخربشات المحززة العمودية من الصورة
+Removing animation background,Suppression de l’arrière-plan de l’animation,Animationshintergrund wird entfernt,إزالة خلفية الصور التحركة
+Render Options,Options de rendu,Render-Einstellungen,خيارات التصيير
+Render Scalable Vector Graphics,Rendre un Scalable Vector Graphics,,تصيير رسوميات المتجهات القابلة للتحجيم (SVG)
+Render Windows Metafile,Rendre Windows Metafile,,تصيير WMF
+Render fractal art,Rendu d’art fractal,Fraktal berechnen,تصيير فن الجزيئيات
+Rendered SVG,SVG rendu,Gerendertes SVG,SVG مصيرة
+Rendered WMF,Rendu WMF,Gerendertes WMF,WMF مصيرة
+Rendering,Interprétation,,جاري التصيير
+Rendering IFS (%d/%d),Rendu de Fractales en cours (%d/%d),IFS (%d/%d) wird berechnet,جاري تصيير IFS (%d/%d)
+Rendering SVG,Rendu SVG en cours,SVG wird gerendert,تصيير SVG
+Rendering fractal,Calcul de la fractale,Fraktal wird berechnet,تصيير الجزيئيات
+Rendering sphere,Rendu de la sphère,Kugel wird berechnet,تصيير الكرة
+Reparametrize Threshold:,Seuil de reparamétrage :,,عتبة الانحراف:
+Replace,Remplacer,Ersetzen,استبدال
+Replace all colors with shades of a specified color,,,إبدال جميع الألوان بظلال لون معين
+Replacement for undefined pixels,Remplacement pour les pixels indéfinis,Ersatz für undefinierte Pixel,الاستبدالات للبكسلات غير المعرفة
+Reread the folder of Presets,Recharge le dossier des préréglages,Den Ordner der Voreinstellungen neu einlesen,إعادة قراءة مجلد الضبط المسبق
+Rescan Gradients,,,إعادة مسح التدرجات
+Rescan for Fractals,Actualiser la liste de fractales,Fraktale neu einlesen,إعادة المسح للجزيئيات
+Reset Order,Réinitialiser l’ordre,Reihenfolge zurücksetzen,إعادة ضبط الترتيب
+Reset parameters to default values,Réinitialise les paramètres à leur valeurs par défaut.,,إعادة ضبط الوسائط على القيم الافتراضية
+Reset speed,,,إعادة ضبط السرعة
+Reset the active curve,Réinitialise la courbe active,Die aktive Kurve zurücksetzen,إعادة ضبط المنحنى النشط
+Reset the speed of the animation,,Die Geschwindigkeit der Animation zurücksetzen,إعادة ضبط سرعة التحريكة
+Resize area's?,Redimensionner les zones ?,Bereichsmaße ändern?,تغيير حجم المساحة؟
+Resolution,,,الاستبانة:
+Resolution:,Résolution :,,الاستبانة:
+"Resulting Guide Bounds: %d,%d to %d,%d (%d areas)","Limites du guide résultant : %d,%d à %d,%d (%d zones)","Resultierende Hilfslinien-Reichweite: %d,%d bis %d,%d (%d Flächen)","حدود الدليل الناتجة: %d,%d to %d,%d (%d مساحات)"
+"Resulting Guide Bounds: 0,0 to 0,0 (0 areas)","Limites du guide résultant : 0,0 à 0,0 (0 zones)","Resultierende Hilfslinien-Reichweite: 0,0 bis 0,0 (0 Flächen)",حدود الدليل الناتجة: 0،0 إلى 0،0 (0 مساحة)
+Retinex...,Retinex…,Retinex …,الشبكية العينية...
+Retinex,Retinex,Retinex,الشبكية
+Retinex Image Enhancement,Amélioration d’image Retinex,Retinex-Farbverstärkung,تحسين صورة الشبكية العينية
+Retinex: filtering,Retinex : filtre en cours,Retinex: Filtern,الشبكية العينية: جاري التصفية
+Reverse Order,Inverser l’ordre,Reihenfolge umkehren,عكس الترتيب
+Revert to the original image,Revenir à l’image originale,Auf das ursprüngliche Bild zurücksetzen,ارتداد إلى الصورة الأصلية
+Rewind the animation,,Animation zurückspulen,إرجاع الصور المتحركة إلى الخلف
+Right,Droite,Rechts,يمين
+Right edge,Bord droit,Rechter Rand,الحافة اليمنى
+Right:,Droite :,,اليمين:
+Rings,Anneaux,Ringe,الراديان
+Ripple,,,تموج
+Rippling,,,جاري التمويج
+Rotation:,Rotation :,,دوران:
+Row:,Ligne :,Zeile:,صف:
+Rotate:,Rotation :,,دوران:
+Rotate,Tourner,Drehen,تدوير
+Rotate / Scale,Tourner / Étirer,,تدوير / تحجيم
+Rotate X:,Rotation en X :,X drehen:,تدوير س:
+Rotate Y:,Rotation en Y :,Y drehen:,تدوير ص:
+Rotate Z:,Rotation en Z :,Z drehen:,تدوير ع:
+Rotation,Rotation,Rotation,الدوران
+Rotation angle about X axis,Angle de rotation autour de l’axe X,,زاوية الدوران حول محور X
+Rotation angle about Y axis,Angle de rotation autour de l’axe Y,,زاوية الدوران حول محور Y
+Rotation angle about Z axis,Angle de rotation autour de l’axe Z,,زاوية الدوران حول محور Z
+Rotation angle:,Angle de rotation :,,درجة الدوران:
+Rotation:,Rotation :,Drehung:,الدوران:
+Roughness,,,الخشونة
+Round,,,دورة
+Rows of,Rangées de,,أسطر من
+RunLength Encoded,,,طول التشغيل مرمز
+SUN Rasterfile image,Image Raster SUN,SUN-Rasterbild-Datei,صورة ملف SUN تسامتي
+SUNRAS,,SUNRAS,SUNRAS
+SUNRAS save cannot handle images with alpha channels,,,حفظ ملف SUN التسامتي لا يمكنه التعامل مع الصور ذات قنوات ألفا
+"SVG file does not
+specify a size!","Le fichier SVG n’indique
+aucune taille !",,"ملف SVG لم
+يحدد حجمًا!"
+SVG image,Image SVG,SVG-Bild,صورة SVG
+Save Defaults,,,حفظ القيم الافتراضية
+Selector,Sélectionneur,Auswahl,المنتقي
+Show Index,,,عرض الشبكة
+Sine,,,الجيب:
+Smoothing:,,,التنعيم:
+Snap,Capturer,Auslösen,لقطة
+Strength exp.:,Exp. longueur :,Stärkeexponent:,قوة القوة:
+Strength:,Force :,Stärke:,القوة:
+Subject:,Objet :,,الموضوع:
+Swap,Échanger,Austauschen,تبديل
+Save Defaults,,,احفظ القيم المبدئية
+Save alpha channel (RGBA/RGB),Sauvegarder le canal alpha (RVBA/RVB),,حفظ قناة ألفا (RGBA/RGB)
+Same,Constant,Genauso,مماثل
+Sample Colorize,Colorier à partir d’un échantillon,Bild kolorieren,تلوين الأنموذج
+Sample density:,Densité d’échantillonnage :,,كثافة الأنموذج:
+Sample analyze,Analyse de l’échantillon,Analyse der Quellfarben,تحليل الأنموذج
+Sample:,Échantillon :,Quelle:,الأنموذج:
+Samples the color from the pixel in the center of the brush,La couleur de dessin est déterminée par le pixel au centre de la brosse,Farbe wird auf den Pixel-Farbwert in der Pinselmitte gesetzt,نمذجة اللون من البكسل في وسط الفرشاة
+Saturation,Saturation,Sättigung,الإشباع
+Saturation,,,الإشباع
+Saturation,Saturation,Sättigung,الإشباع
+Saturation (HSL),Saturation (TSL),Sättigung (HSL),الإشباع (HSL)
+Saturation Variations,,,تغيرات الإشباع
+Save,Enregistrer,Speichern,حفظ
+Save Brush,Enregistrer la brosse,Pinsel speichern,حفظ الفرشاة
+Save CML Explorer Parameters,Enregistrer les paramètres de la fractale CML,CML-Explorer-Parameter speichern,حفظ وسائط مستكشف CML
+Save Current,Enregistrer les réglages actuels,Einstellungen speichern,حفظ الحالي
+Save Current...,Enregistrer les actuels…,Aktuelles speichern …,حفظ الحالي...
+Save Curve Points to File,Enregistrer les points de la courbe dans un fichier,Kurvenkontrollpunkte in Datei speichern,حفظ نقاط المنحنى من ملف
+Save Exif data,,,احفظ بيانات EXIF
+Save File,Enregistrer le fichier,Datei speichern,حفظ الملف
+Save Flame,Enregistrer « Flammes »,Flamme speichern,حفظ اللهب
+Save Fractal Parameters,Enregistrer les paramètres de la fractale,Fraktalparameter speichern,حفظ وسائط الجزيئيات
+Save Gfig Drawing,Enregistrer le tracé Gfig,Gfig-Zeichnung speichern,حفظ رسم Gfig
+Save IPTC data,,,حفظ بيانات XMP
+Save Image Map,Enregistrer le plan de l’image,Imagemap speichern,حفظ خريطة الصورة
+Save Lighting Preset,Enregistrer les paramètres d’éclairage,Beleuchtungsvorlage speichern,حفظ ضبط الإضاءة المسبق
+Save XMP data,,,حفظ بيانات XMP
+Save As...,Enregistrer sous…,,حفظ كـ...
+Save Exif data,,,احفظ بيانات EXIF
+Save IPTC data,,,حفظ بيانات XMP
+Save XMP data,Enregistrer les données XMP,,حفظ بيانات XMP
+Save background color,Enregistrer la couleur d’arrière-plan,Hintergrundfarbe speichern,حفظ لون الخلفية
+Save resolution,,,حفظ الاستبانة
+Save thumbnail,,,احفظ صورة مصغّرة
+Save active fractal to file,Enregistre la fractale active dans un fichier.,Aktuelles Fraktal in Datei speichern,حفظ الجزيئية النشطة في ملف
+Save as IFS Fractal file,Enregistrer en fichier Fractales IFS,Als IFS-Fraktal-Datei speichern,حفظ كملف جزيئيات IFS
+Save as QBE File,Enregistrer sous fichier QBE,Als QBE-Datei speichern,حفظ كملف QBE
+Save background color,,,حفظ لون الخلفية
+Save color values from transparent pixels,,Farbwerte aus transparenten Pixeln speichern,حفظ قيم الألوان من البكسلات الشفافة
+Save color values from transparent pixels,,,حفظ قيم الألوان من البكسلات الشفافة
+Save comment,,,حفظ التعليق
+Save creation time,Enregistrer la date de création,Erstellungszeit speichern,حفظ وقت الإنشاء
+Save creation time,,,حفظ وقت الإنشاء
+Save failed,Échec d’enregistrement,Speichern fehlgeschlagen,فشل الحفظ
+Save gamma,,,حفظ غاما
+Save layer offset,,Ebenenversatz speichern,حفظ إزاحة الطبقة
+Save resolution,Enregistrer la résolution,,حفظ الاستبانة
+Save the current settings to the specified file,Enregistre les réglages actuels dans le fichier indiqué,Die aktuellen Einstellungen in die angegebenen Datei speichern,حفظ الإعدادات الحالية إلى الملف المحدد
+Save the curves to a file,Enregistre les courbes dans un fichier,Die Kurven in eine Datei speichern,حفظ المنحنيات إلى ملف
+Save thumbnail,,,احفظ صورة مصغّرة
+Save to:,Enregistrer dans :,Speichern unter:,احفظ في:
+Saved,Enregistré,Gespeichert,محفوظ
+Saving '%s',Enregistrement de « %s »,»%s« wird gespeichert,حفظ '%s'
+Sawtooth,,,أسنان المنشار
+Scale 1:,Échelle 1 :,,المقياس 1:
+Scale 2:,Échelle 2 :,,المقياس 2:
+Scale X:,Échelle en X :,X-Skalierung:,تحجيم س:
+Scale Y:,Échelle en Y :,Y-Skalierung:,تحجيم ص:
+Scale Z:,Échelle en Z :,Z-Skalierung:,تحجيم ع:
+Scale division:,Division d’échelle :,,مقياس القسمة:
+Scale hue by:,Échelle de la teinte :,Farbton skalieren mit:,تحجيم التدرج حسب:
+Scale value by:,Échelle de la luminosité :,Wert skalieren mit:,تحجيم القيمة حسب:
+Scale:,Échelle :,Skalierung:,تحجيم:
+Screen,Écran,Negativ Multiplizieren,الشاشة
+Screenshot,Capture d’écran,Bildschirmfoto,لقطة شاشة
+Selection only,,,التحديد فقط
+Searching by name,Recherche par nom,Nach Namen suchen,البحث حسب الاسم
+Second Flares Paint Options,Options de dessin des reflets secondaires,Maloptionen für Sekundärlichtreflexe,خيارات تلوين الوهج الثانوي
+Seconds delay,,,ثانية تأخير
+"Seed of Random (only for ""From Seed"" Modes)",Valeur de germe de hasard (uniquement pour les modes « Depuis un germe »),Anfangszahl für Zufallszahlen (nur für »Aus Anfangszahl«-Modi),"بذرة عشوائية (فقط لأنماط ""من بذرة"")"
+Seed:,Germe :,Anfangszahl:,البذرة:
+Selection in context,,,التحديد في المحتوى
+Select,Sélectionner,Auswahl,اختيار
+Select All,Tout sélectionner,Alles auswählen,اختيار الكل
+Select Color,Sélectionner une couleur,Farbe auswählen,اختيار اللون
+Select Film Color,Choisir la couleur du film,,اختر لون الشريط المصور
+Select HTML file,Choisir un fichier HTML,HTML-Datei auswählen,اختر ملف HTML
+Select Image File,Sélectionner l’image,Bilddatei auswählen,اختيار ملف الصورة
+Select Next,Sélectionner le suivant,Nächsten auswählen,اختيار التالي
+Select Number Color,Sélectionner la couleur du numéro,,اختر لون الأرقام
+Select Palette File,Sélectionner le fichier de palette,,اختر ملف اللوحة
+Select Pixels By,,,اختيار البكسلات وفق
+Select Previous,Sélectionner le précédent,Vorherigen auswählen,اختيار السابق
+Select Region,Sélectionner une région,Bereich auswählen,اختيار المنطقة
+Select All,Tout sélectionner,,اختيار الكل
+Select a region to grab,Sélectionner une région à capturer,,اختر منطقة لالتقاطها
+Select an object,Sélectionner un objet,Objekt auswählen,اختيار كائن
+Select existing area,Sélectionner la zone existante,,تحديد المساحة الموجودة
+Select folder and rescan collection,Sélectionne un dossier et analyse à nouveau la collection.,Ordner auswählen und erneut einlesen,اختر المجلد وأعد مسح المجموعة
+Select lightsource color,Choisir la couleur de la source de lumière,,اختر لون مصدر الإضاءة
+Select next smvector,Sélectionne le vecteur suivant,Nächsten SMVektor auswählen,اختيار متجه sm التالي
+Select next vector,Sélectionne le vecteur suivant,Nächsten Vektor auswählen,اختيار المتجه التالي
+Select previous smvector,Sélectionne le vecteur précédent,Vorherigen SMVektor auswählen,اختيار متجه sm السابق
+Select previous vector,Sélectionne le vecteur précédent,Vorherigen Vektor auswählen,اختيار المتجه السابق
+Select:,Sélectionner :,Auswählen:,اختيار:
+Selected:,Sélectionné :,Ausgewählt:,مُنتقى:
+Selection,Sélection,Auswahl,التحديد
+Selection to Path,Sélection vers chemin,Auswahl zu Pfad,التحديد إلى مسار
+Selection to Path Advanced Settings,Paramètres avancés de sélection vers chemin,Erweiterte Einstellungen von Auswahl-zu-Pfad,الاختيار لمسار الإعدادات المتقدمة
+Selective Load Settings,Paramètres du chargement sélectif,Selektive Öffnungseinstellungen,تحميل الإعدادات اختياريًا
+Selects a random direction of each stroke,Sélectionne une direction aléatoire à tracer,Für jeden Pinselstrich wird zufällig eine Richtung ausgewählt,اختيار اتجاه عشوائي لكل ضربة فرشاة
+Selects a random size for each stroke,Une taille aléatoire est choisie pour chaque tracé,Die Größe der Pinselstriche zufällig auswählen,اختيار حجم عشوائي لكل ضربة فرشاة
+Selects if the resulting image should be seamlessly tileable,"Si coché, l’image résultat pourra être utilisée comme motif de papier peint sans problèmes de raccordement","Wählen Sie hier aus, ob das resultierende Bild an den Rändern nahtlos ineinander übergehen soll",اختر في حال كنت تريد تقسيم الصورة إلى بلاطات غير مخيطة
+Selects if to place strokes all the way out to the edges of the image,À sélectionner si vous voulez tracer tout autour des bords de l’image,Die Pinselstriche bis zum Rand des Bildes fortsetzen,اختر إن كنت تريد السماح بالتلوين خارج حواف الصورة
+Send To Back,Envoyer en arrière,Nach hinten,إرسال إلى الخلف
+Send by Email...,Envoyer par courriel…,Per E-Mail versenden …,إرسالة بالبريد...
+Send by Email,Envoyer par courriel,Per E-Mail versenden,إرسال كرسالةإرسالة بالبريد...
+Send the image by email,Envoyer l’image par courriel,Bild per E-Mail versenden,إرسال الصورة بالبريد الإلكتروني
+Separate to:,,,مقسم إلى:
+Set foreground to the average color of the image border,Fixe l’arrière-plan à la couleur moyenne du bord de l’image,Vordergrundfarbe auf den Randmittelwert des Bildes setzen,تحديد متوسط لون حدود الصورة كلون الأرضية
+Set light source color,Choisir la couleur de la source de lumière,,نحديد لون مصدر الإضاءة
+Settings for this Mapfile,Paramètres pour cette image cliquable,Einstellungen für diese Map-Datei,الإعدادات لملف التعيين هذا
+Shadows,,,الظلال
+Shadow blur:,Flou de l’ombre :,Schattenweichheit:,غشاوة الظل:
+Shadow darken:,Intensité de l’ombre :,Schattenstärke:,تغميق الظل:
+Shadow depth:,Portée de l’ombre :,Schattentiefe:,عمق الظل:
+Shadows:,,,الظلال:
+Shape gradient,Dégradé de forme,Farbverlauf gestalten,تدرج شكلي
+Shape of Second Flares,Ombre des reflets secondaires,Form der Sekundärlichtreflexe,شكل الوهج الثاني
+Sharpen,,,زيادة الحدة
+Sharpening,,,جاري زيادة الحدة
+Shear:,Cisaillement :,Scheren:,قص:
+Show preview in image window,,Vorschau im Bildfenster anzeigen,أظهر معاينة في نافذة الصورة
+Should the effect be inversed?,L’effet doit-il être inversé ?,Möchten Sie einen Umkehreffekt anwenden?,هل تريد عكس التأثير؟
+Should the luminosity be preserved?,La luminosité doit-elle être préservée ?,Soll die Leuchtstärke erhalten bleiben?,هل تريد الإبقاء على الإضاءة؟
+Show,,,إظهار
+Show Line Frame,Afficher les lignes de l’image,Linienvorschau,إظهار إطار الخط
+Show wireframe,Afficher la grille,Drahtgitter anzeigen,إظهار إطار المعاينة السلكي
+Show all objects,Afficher tous les objets,Alle Objekte zeigen,إظهار جميع الكائنات
+Show area URL tip,Afficher les bulles d’aide pour les URL,Adressminihilfe über Bereich zeigen,إظهار تلميح URL المساحة
+Show area handles,Afficher les poignées autour des zones,Bereichsanker anzeigen,إظهار مقابض المساحة
+Show color,,,إظهار الألوان
+Show control points,Afficher les points de contrôle,Kontrollpunkte anzeigen,عرض نقاط التحكم
+Show grid,Afficher la grille,Gitter zeigen,عرض الشبكة
+Show image,Afficher l’image,Bild zeigen,إظهار الصورة
+Show next object,Afficher l’objet suivant,Nächstes Objekt zeigen,إظهار الكائن التالي
+Show position,Afficher la position,Position zeigen,عرض الموقع
+Show previous object,Afficher l’objet précédent,Vorheriges Objekt zeigen,إظهار الكائن السابق
+Show selection,,,إظهار التحديد
+Singular:,Singulier :,,مفرد:
+Sides:,Côtés :,Seiten:,الجوانب:
+Sierpinski,Sierpinski,Sierpinski,سيربينسكي
+Silicon Graphics IRIS image,Image Silicon Graphic IRIS,Silicon-Graphics-IRIS-Bild,صورة رسوميات سيليكون IRIS
+Simple,Simple,Einfach,بسيط
+"Simple blur, fast but not very strong",,,غشاوة بسيطة، سريعة ولكن ليست قوية كفاية
+Simulate a cartoon by enhancing edges,,,محاكاة رسوم متحركة بزيادة الحواف
+Simulate an image created by embossing,,,محاكاة صورة منشأة من خلال التجسيم
+Simulate an image painted on window blinds,Simule une image peinte sur les stores d’une fenêtre,Ein auf eine Jalousie gemaltes Bild simulieren,محاكاة صورة ملونة على ستائر نافذة
+Simulate color distortion produced by a copy machine,,,محاكاة تشويه الألوان المنتج من قبل آلة نسخ
+Simulate glow by making highlights intense and fuzzy,,,محاكاة التوهج من خلال جعل التحديدات اللونية شديدة وضبابية
+Simulate the glowing boundary of a neon light,,,محاكاة حدود توهج ضوء نيون
+Sine,Sinus,Sinus,الجيب
+Singular,Singulier,,مفرد
+Sinusoidal,Sinusoïdal,Sinusförmig,جيبي
+Size,Taille,Größe,الحجم
+Size (%):,Taille (%) :,Größe (%):,الحجم (%):
+Size Map Editor,Éditeur de carte de taille,Größen-Map-Editor,محرر تعيين الحجم
+Size factor gradient:,Dégradé de facteur de taille :,Größenfaktor für Farbverläufe:,تدرج عامل الحجم:
+Size variants:,Variantes de taille :,Größenvarianten:,نقاط المسامير:
+Slice the image into subimages using guides,Découper l’image en plusieurs sous-images en utilisant les guides,Das Bild mittels Hilfslinien in Teilbilder zerlegen,تقسيم الصورة إلى صور مجزأة باستخدام الأدلة
+Slower,,,أبطأ
+Small,Petite,Klein,صغير
+Small Tiles,Petits raccords,Kleine Kacheln,بلاطات صغيرة
+Smear,Étaler,Verwischen,تبقيع
+Smear colors to simulate an oil painting,,,تبقيع الألوان لمحاكاة التلوين الزيتي
+Smooth Palette...,Palette lissée…,Palette glätten …,لوحة الصقل...
+Smoothing,Adoucissement,Glättung,صقل
+Smooth,Adoucie,,مصقول
+Smooth Palette,Palette lissée,Palette glätten,لوحة الصقل
+Smooth samples,,,صقل الأنموذج
+Smoothing Parameters,,,وسائط الصقل
+Smoothing X gradient,Adoucissement du dégradé X,X-Gradient wird geglättet,جاري صقل تدرج X
+Smoothing Y gradient,Adoucissement du dégradé Y,Y-Gradient wird geglättet,جاري صقل تدرج Y
+Smvectors,Vecteurs,SMVektoren,متجهات sm
+Snap to grid,Coller à la grille,Am Gitter ausrichten,اتبّع الشبكة
+Softglow,,,توهج ناعم
+Solid,Uni,Einfarbig,صلب
+Solid colored background,Arrière-plan de couleur uniforme,Einfarbiger Hintergrund,خلفية صلبة الألوان
+Some data has been changed!,Certaines données ont été modifiées.,Einige Daten wurden verändert!,بعض البيانات قد تغيرت!
+"Sorry, I can save only INDEXED and GRAY images.",,,عذرًا، يمكن حفظ الصور الرمادية والمفهرسة فقط.
+Sort on Hue,Trier selon la teinte,Nach Farbton sortieren,ترتيب حسب التدرج
+Sort on Saturation,Trier selon la saturation,Nach Sättigung sortieren,ترتيب حسب الإشباع
+Sort on Value,Trier selon la valeur,Nach Wert sortieren,ترتيب حسب القيمة
+Source,Source,Quelle,مصدر سي
+Source 1:,Source 1 :,,المصدر 1:
+Source 2:,Source 2 :,,المصدر 2:
+Source channel in file:,Canal source dans le fichier :,Quellkanal in Datei:,القناة المصدر في الملف:
+Source channel:,Canal source :,Quellkanal:,القناة المصدر:
+Source...,Source…,Quelle …,المصدر...
+Spike points:,Nombre de pointes :,,نقاط المسامير:
+Spatial oversample:,Suréchantillonnage spatial :,,أنموذج فوقي مكاني:
+Spacing (percent):,,,تباعد (%):
+Spacing:,Espacement :,Abstand:,التباعد:
+Sparkle,Étinceler,Glitzer,انبثاق
+Sparkling,Étinceler en cours,Glitzern,جاري وضع الانبثاق
+Spatial Transformation,Transformation spatiale,Raumtransformation,التحويل المكاني
+Spatial filter radius:,Rayon du filtre spatial :,,نصف قطر المصفي المكاني:
+Special effects that nobody understands,Effets spéciaux que personne ne comprend,"Spezialeffekte, die niemand versteht",التأثيرات الخاصة التي لا يفهمها أحد
+Specified layer %d not found,,,لم يتم إيجاد الطبقة المحددة %d
+Specified window not found,Fenêtre indiquée non trouvée,Das angegebene Fenster wurde nicht gefunden,النافذة المحددة غير موجودة
+Specifies the amount of embossing to apply to the image (in percent),Précise l’importance du repoussage à appliquer à l’image (en pourcentage),Legt die Intensität des Reliefeffekts in Prozent fest,تحديد مقدار التجسيم الذي يجب تطبيقه على الصورة (بالنسبة المئوية)
+Specifies the aspect ratio of the brush,Précise les proportions de la brosse,Legt das Seitenverhältnis für den Pinsel fest,تحديد نسبة مظهر الفرشاة
+Specifies the scale of the texture (in percent of original file),Indique l’échelle de la texture (en pourcentage de l’original),Stellt die Größe der Textur ein (in % von der ursprünglichen Datei),تحديد مقياس النقش (بالنسبة المئوية للملف الأصلي)
+Specular:,Spéculaire :,,منظاري:
+Sphere,Sphère,Kugel,كرة
+Sphere Designer,Créateur de sphère,Kugel-Designer,مصمم الكرة
+Sphere Designer...,Créateur de sphère…,Kugel-Designer …,مصمم الكرة...
+Spherical,Sphérique,Sphärisch,كروي
+Spike angle (-1: random):,Angle des pointes (-1 : aléatoire) :,,انحراف المسامير (-1: عشوائي)
+Spider,Araignée,Spinne,عنكبوت
+Spike density:,Densité des pointes :,,كثافة المسامير:
+Spike thickness:,Épaisseur des pointes :,Strahldicke:,سماكة المسامير:
+Spiral,Spirale,Spirale,لولب
+Spiral Number of Turns,Nombre de tours de la spirale,Windungsanzahl der Spirale,عدد حلقات اللولب
+Spot radius:,Rayon du point :,Punktradius:,نصف قطر البقعة:
+Spots,Points,Spots,بقع
+Strength exp.:,Exp. force :,Stärke Exp.:,أس القوة:
+Standard,Standard,Standard,قياسي
+Standard (RGB RGB RGB ...),,,"قياسي (R,G,B)"
+Star Number of Points,Étoile : nombre de points,Punktanzahl des Sterns,عدد نقاط النجمة
+Start index:,Index de départ :,,فهرس البداية:
+Start angle:,Angle de départ :,Startwinkel:,زاوية البدء:
+Start offset:,Décalage de départ :,Anfangsversatz:,بداية الإزاحة:
+Start playback,,Wiedergabe starten,بدء تشغيل الإعادة
+Step back,,Schritt zurück,إيقاف تشغيل الإعادة
+Step back to previous frame,,Schritt zurück zum vorherigen Einzelbild,خطوة نحو المشهد التالي
+Step size:,Taille du pas :,,حجم الخطوة:
+Step to next frame,,Zum nächsten Einzelbild,خطوة نحو المشهد التالي
+Stop loading this page,Arrête le chargement de la page,Laden dieser Seite stoppen,أوقف تحميل هذه الصفحة
+Stop playback,,Wiedergabe stoppen,إيقاف تشغيل الإعادة
+Stop when pixel differences are smaller than this value,Arrête lorsque les différences entre pixels sont plus petites que cette valeur,"Sobald der Unterschied zwischen Pixeln kleiner als dieser Wert ist, beenden",توقف عندما تكون فروقات البكسلات أصغر من هذه القيمة
+Stretch,Étendre,Strecken,مط
+Stretch brightness values to cover the full range,,,مط قيم اللمعان لتغطي كامل المجال
+Stretch color saturation to cover maximum possible range,,,توسيع إشباع اللون لتغطية المجال الأقصى الممكن
+Stroke density:,Densité des tracés de la brosse :,Strichdichte:,كثافة ضربة الفرشاة:
+Strong,Fort,Stark,قوي
+Subsampling:,,,نمذجة فرعية:
+Subdivide Search:,Recherche de la subdivision :,,تقسيم فرعي:
+Subdivide Surround:,Environnement de subdivision :,,تقسيم فرعي:
+Subdivide Threshold:,Seuil de subdivision :,,العتبة:
+Subdivide:,Subdiviser :,Unterteilung:,تقسيم فرعي:
+Sublocation,Sous-emplacement,Unterposition,موقع اللف
+Substeps:,Pas :,,الخطوات الفرعية:
+Swap the two curves,Échange les deux courbes,Beide Kurven vertauschen,تبديل المنحنيين
+Swap two colors in the colormap,Échange deux couleurs dans la palette,Zwei Farben in der Farbtabelle vertauschen,تبديل لونين في خريطة الألوان
+Swirl,Remous,Wirbel,دوامة
+"Switch to ""From seed"" With the Last Seed",Basculer de « Depuis un germe » vers le dernier germe,Mit der letzten Zahl zu »Aus Anfangszahl« wechseln,"التحويل إلى ""من البذرة"" باستخدام البذرة الأخيرة"
+Symbol,Symbole,Symbol,الرمز
+TGA,,TGA,TGA
+TIFF,TIFF,TIFF,TIFF
+TIFF '%s' does not contain any directories,TIFF « %s » ne contient aucun répertoire,Das TIFF »%s« enthält keinerlei Verzeichnisse,'%s' TIFF لا يحتوي أي دلائل
+TIFF Channel,Canal TIFF,TIFF-Kanäle,قناة TIFF
+TIFF image,,,صورة TIFF
+TIFF save cannot handle indexed images with an alpha channel.,,,حفظ FITS لا يمكنه التعامل مع الصور ذات قنوات ألفا
+Transparent background,Arrière-plan transparent,,خلفية شفافة
+Table Creation Options,Options de création du tableau,Optionen zur Tabellenerzeugung,خيارات إنشاء الجداول
+Table Options,Options du tableau,Tabellenoptionen,خيارات الجدول
+Take a screenshot of a single window,Prendre une capture d’écran d’une fenêtre unique,,التقط صورة لنافذة مفردة
+Take a screenshot of the entire screen,Prendre une capture d’écran de l’écran entier,,التقط صورة لكامل الشاشة
+Tangent Surround:,Environnement de la tangente :,,خلفية شفافة
+TarGA image,Image TarGA,TarGA-Bild,صورة TarGa
+Target,Cible,Ziel,الهدف
+Telnet,Telnet,Telnet,Telnet
+Text,,Text,نص
+Text antialiasing,Lissage du texte,,إزالة تسنين النص
+Texture,Texture,Textur,نقش
+Texture:,Texture :,Textur:,النقش:
+"The GIF file format does not allow this.  You may choose whether to crop all of the layers to the image borders, or cancel this save.",,,صيغة GIF لا تسمح بذلك. عليك أن تختار اقتطاع كل الطبقات إلى حدود الصورة، أو إلغاء هذا الحفظ.
+The GIF format only supports comments in 7bit ASCII encoding. No comment is saved.,Le format GIF prend uniquement en charge les commentaires codés en ASCII 7 bits. Aucun commentaire n’est enregistré.,Das GIF-Bildformat unterstützt Kommentare nur in der 7-Bit-ASCII-Kodierung. Es wurde kein Kommentar gespeichert.,صيغة GIF تدعم فقط التعليقات ذات الترميز 7-بت. لم يتم حفظ أي ترميز.
+The PNG file specifies an offset that caused the layer to be positioned outside the image.,Le fichier PNG spécifie un décalage qui entraîne un calque positionné en dehors de l’image.,"Die PNG-Datei gibt einen Versatz an der dazu führt, dass sich die Ebene außerhalb des Bildes befindet.",ملف ال PNG يحدد إزاحة تجعل الطبقة متموضعة خارج الصورة.
+"The TIFF format only supports comments in
+7bit ASCII encoding. No comment is saved.","Le format TIFF ne prend seulement en charge que les commentaires
+codés en ASCII 7 bits. Aucun commentaire n’est enregistré.","Das TIFF-Dateiformat unterstützt Kommentare nur in 7-Bit-ASCII-Kodierung.
+Es wurde deshalb kein Kommentar gespeichert.","صيغة TIFF تدعم فقط التعليقات في
+ترميز ASCII 7 بتات. لم يتم حفظ التعليقات."
+The amount of cell padding.,Importance du bourrage de cellule.,Die Menge der Zellenauffüllung.,مقدار توسيد الخلايا.
+The amount of cell spacing.,Importance de l’espacement entre les cellules.,Die Größe des Zellenabstands.,مقدار تباعد الخلايا.
+The amount of highlighting on the edges of each piece,Importance de l’éclairage sur le bord de chaque pièce,Um wie viel die Intensität am Rand der Teile angehoben werden soll,مقدار التحديد اللوني على حواف كل قطعة
+The angle span of the first brush to create,L’écartement angulaire de la première brosse à créer,Die Winkelspannweite des ersten erstellten Pinsels,مقدار زاوية أو فرشاة سيتم إنشاؤها
+The bitmap ends unexpectedly.,Fin de bitmap anormale.,Die Bitmap endet unerwartet.,خريطة الألوان انتهت بشكل غير متوقع.
+The brush-size that matches the original image the closest is selected,La taille de la brosse la plus adaptée à l’image originale est choisie,"Es wird die Pinselgröße ausgesucht, die am ehesten zum ursprünglichen Bild passt",حجم الفرشاة الذي يطابق الصورة الأصلية أكثر هو الذي سيُختار
+The default comment is limited to %d characters.,,,التعليق الافتراضي محدود بـ %d حرفًا.
+"The depth of the drop shadow, i.e. how far apart from the object it should be",Jusqu’à quelle distance doit porter l’ombre,"Die Tiefe des Schlagschattens, d.h. wie weit der Schatten vom Objekt entfernt erscheint",عمق الظل الساقط، أي كم ينبغي له أن يبعد عن الكائن
+The direction that matches the original image the closest is selected,La direction qui colle le mieux à l’image originale est choisie,"Die Richtung, die dem ursprünglichen Bild am ehesten entspricht, wird benutzt",الاتجاه الذي يوافق الصورة الأصلية أكثر هو الذي سيُختار
+The distance from the center of the image determines the direction of the stroke,La distance au centre de l’image détermine la direction du tracé,Der Abstand vom Bildmittelpunkt bestimmt die Pinselstrichrichtung,المسافة من مركز الصورة تحدد اتجاه ضربة الفرشاة
+The distance from the center of the image determines the size of the stroke,La distance au centre de l’image détermine la taille du tracé de la brosse,Die Pinselstrichgröße wird durch den Abstand zum Bildmittelpunkt bestimmt,المسافة من مركز الصورة تحدد حجم ضربة الفرشاة
+The file is corrupt!,Ce fichier est endommagé.,Die Datei ist beschädigt!,الملف فاسد!
+The first row of the image,La première ligne de l’image,Die erste Zeile des Bildes,الصف الأول من الصورة
+The height for each table cell.  Can be a number or a percent.,,,ارتفاع كل خلية في الجدول. يمكن أن يكون رقمًا أو نسبة مئوية.
+"The higher the number of iterations, the more details will be calculated","Plus le nombre d’itérations est élevé, plus de détails seront calculés.",,كلما كان عدد السحوبات أكبر، كلما تم احتساب تفاصيل أكثر
+The hue of the region determines the direction of the stroke,La teinte de la région détermine la direction du tracé,Die Richtung des Pinselstrichs wird durch den Farbton der Region festgelegt,تدرج المنطقة يحدد اتجاه ضربة الفرشاة
+The hue of the region determines the size of the stroke,La teinte de la région détermine la taille du tracé,Die Pinselstrichgröße wird durch den Farbton der Region bestimmt,تدرج المنطقة يحدد حجم ضربة الفرشاة
+The image '%s' is in an unknown color space.,,,الصورة '%s' تملك ملف ألوان مطمور:
+"The image which you are trying to save as an XBM contains more than two colors.
+
+Please convert it to a black and white (1-bit) indexed image and try again.",,,"الصورة التي تحاول حفظها كـ XBM تحتوي أكثر من لونين.
+
+رجاءً حولها إلى صورة مفهرسة أسود وأبيض (بت واحد) ثم أعد المحاولة."
+The image you are trying to save as a GIF contains layers which extend beyond the actual borders of the image.,,,الصورة التي تحاول حفظها كـ GIF تحوي طبقات تمتد أكثر من الحدود الحالية للصورة.
+The largest brush to create,La plus grosse brosse à créer,"Der größte Pinsel, der erstellt wird",أكبر فرشاة سيتم إنشاؤها
+The most widely useful method for sharpening an image,,,الطريقة الأكثر فائدة لزيادة حدة صورة
+The name '%s' is used already!,Le nom « %s » est déjà utilisé !,Der Name »%s« wird bereits verwendet!,الاسم '%s' مأخوذ مسبقًا!
+The number of directions (i.e. brushes) to use,Le nombre de brosses à utiliser,Die Anzahl der verwendeten Richtungen (z.B. Pinsel),عدد الاتجاهات (للفرشاة مثلًا) التي ينبغي استخدامها
+The number of pixels in the table border.,Le nombre de pixels dans la bordure du tableau.,Die Anzahl der Pixel des Tabellenrandes.,عدد البكسلات في حدود الجدول.
+The number of sizes of brushes to use,Le nombre de tailles de brosses à utiliser,Die Anzahl der verwendeten Pinselgrößen,عدد أحجام الفرشاة التي ينبغي استخدامها
+The operating system denied access to the specified file.,Le système d’exploitation a refusé l’accès au fichier indiqué.,Das Betriebssystem verweigerte den Zugriff auf die angegebene Datei.,حفظ الإعدادات الحالية إلى الملف المحدد
+The relative density of the brush strokes,La densité relative des tracés de la brosse,Die relative Dichte der Pinselstriche,الكثافة النسبية لضربات الفرشاة
+The smallest brush to create,La plus petite brosse à créer,"Der kleinste Pinsel, der erstellt wird",أصغر فرشاة سيتم إنشاؤها
+"The smvector-field. Left-click to move selected smvector, Right-click to point it towards mouse, Middle-click to add a new smvector.","Le champ de vecteurs paramétrant les tracés de brosse :
+* <Bouton gauche> pour bouger le vecteur sélectionné
+* <bouton droit> pour le pointer vers la souris
+* <bouton du milieu> pour ajouter un nouveau vecteur","Das SMVektor-Feld. Klicken Sie links, um den ausgewählten SMVektor zu bewegen, rechts klicken, um den Vektor zum Mauszeiger zeigen zu lassen, und mittig klicken, um einen neuen SMVektor hinzuzufügen.",حقل متجهات sm. انقر بالزر الأيسر لتحريك متجه sm، وبالزر الأيمن لتوجيهه نحو الفأرة، وبالزر الأوسط لإضافة متجه sm جديد.
+The specified DLL was not found.,La DLL indiquée n’a pas été trouvée.,Das angegebene DLL wurde nicht gefunden.,النافذة المحددة غير موجودة
+The specified file was not found.,Le fichier indiqué n’a pas été trouvé.,Die angegebene Datei wurde nicht gefunden.,لا وجود للملف المحدّد.
+The specified path was not found.,Le chemin indiqué n’a pas été trouvé.,Der angegebene Pfad wurde nicht gefunden.,لا وجود للمسار المحدّد.
+The starting angle of the first brush to create,L’angle de départ de la première brosse à créer,Der Startwinkel des ersten erstellten Pinsels,زاوية البداية لأول فرشاة سيتم إنشاؤها
+The strokes are evenly distributed across the image,Les tracés sont distribués uniformément sur l’image,Die Pinselstriche werden gleichmäßig im Bild verteilt,ضربات الفرشاة متوزعة زوجيًا عبر الصورة
+"The strokes follow a ""flowing"" pattern",Les tracés forment un motif évoquant le flot d’une rivière,Die Pinselstriche sind in einem »fließenden« Muster angeordnet,"ضربات الفرشاة تتبع نموذج ""الجريان"""
+The text for the table caption.,Le texte pour la légende de la table.,Der Text für den Tabellenkopf.,نص عنوان الجدول.
+The text to go into each cell.,Le texte à placer dans chaque cellule.,"Der Text, der in jede Zelle eingefügt wird.",النص الذي يوضع في كل خلية.
+The type of this SUN-rasterfile is not supported,Le type de ce fichier SUN-Raster n’est pas pris en charge,Der Typ dieser SUN-Raster-Datei wird nicht unterstützt,نوع ملف SUN التسامتي هذا غير مدعوم
+"The unit's abbreviation (e.g. ""cm"" for centimeters).",L’abréviation de l’unité (par ex. « cm » pour les centimètres).,Die Abkürzung der Einheit (z.B. »cm« für Zentimeter).,"اختصار الوحدة (نحو: ""سم"" للسنتيمترات)."
+The unit's plural form.,La forme au pluriel de l’unité.,,الوحدة في صيغة الجمع.
+The unit's singular form.,La forme au singulier de l’unité.,,الوحدة في صيغة الإفراد.
+"The unit's symbol if it has one (e.g. "" for inches). The unit's abbreviation is used if doesn't have a symbol.","Le symbole de l’unité s’il en a un (par ex. « ’ » pour les pouces). L’abréviation de l’unité est utilisée, si elle n’a pas de symbole.","Das Symbol der Einheit, wenn sie eines hat (z.B. »""« für Zoll). Wenn kein Symbol existiert, wird die Einheitenabkürzung verwendet.","رمز الوحدة إن كان هناك واحد (نحو: "" للبوصة). سيُستخدم اختصار الوحدة إن لم يكن لها رمز."
+"The vector-field. Left-click to move selected vector, Right-click to point it towards mouse, Middle-click to add a new vector.","Le champ de vecteurs :
+* <bouton gauche> pour bouger le vecteur sélectionné
+* <bouton droit> pour le diriger vers la souris
+* <bouton du milieu> pour ajouter un nouveau vecteur","Das Vektorfeld. Klicken Sie links, um den ausgewählten Vektor zu bewegen, rechts, um den Vektor zum Mauszeiger zeigen zu lassen, und die Mitteltaste, um einen neuen Vektor hinzuzufügen.",حقل المتجه. انقر بالزر الأيسر لتحريك المتجه المحدد، انقر بالزر الأيمن لتوجيهه نحو الفأرة، انقر بالزر الأوسط لإضافة متجه جديد.
+The width for each table cell.  Can be a number or a percent.,,,عرض كل خلية في الجدول. يمكن أن يكون رقمًا أو نسبة مئوية.
+There are not enough layers to align.,Il n’y a pas assez de calques à aligner.,Es gibt nicht ausreichend Ebenen zum Ausrichten.,لا يوجد طبقات كافية لمحاذاتها.
+There was not enough memory to complete the operation.,Mémoire insuffisante pour terminer l’opération.,Es war nicht ausreichend Speicher zum Beenden des Vorgangs vorhanden.,لا يوجد طبقات كافية لمحاذاتها.
+"This field is a hint for numerical input fields. It specifies how many decimal digits the input field should provide to get approximately the same accuracy as an ""inch"" input field with two decimal digits.",Ce champ est une aide pour les champs d’entrées numériques. Il indique combien de décimales sont nécessaires pour obtenir approximativement la même précision qu’avec un champ d’entrée en « pouce » avec deux décimales.,"Dieses Feld ist ein Hinweis für numerische Eingabefelder. Es legt fest, wie viele Dezimalstellen das Eingabefeld bereitstellen sollte, um ungefähr der gleiche Genauigkeit wie ein Zoll-Eingabefeld mit zwei Dezimalstellen zu entsprechen.","هذا الحقل هو تلميح لحقول الإدخالات الرقمية. إنه يحدد عدد الأرقام العشرية التي ينبغي لحقل الإدخال تزويدها للحصول على دقة مقاربة لدقة حقل إدخال ""البوصة"" ذي رقمين عشريين."
+This image depth is not supported,Cette résolution d’image n’est pas prise en charge,Diese Farbtiefe wird nicht unterstützt,عمق هذه الصورة غير مدعوم
+This is not a GIF file,Ce n’est pas un fichier GIF.,,هذا ليس ملف GIF
+This string will be used to identify a unit in GIMP's configuration files.,Cette chaîne sera utilisée pour identifier l’unité dans les fichiers de configuration de GIMP.,,هذا النص سيُستخدم لمطابقة وحدة في ملفات إعدادات جمب.
+This tool has no options,Cet outil n’a pas d’options,Dieses Werkzeug besitzt keine Eigenschaften,هذه الأداة ﻻ تملك خيارات
+Tile,Raccorder,Kacheln,تبليط
+Tile image into smaller versions of the original,Refait une image avec des versions plus petites de l’original,Das Originalbild in eine kleinere Version kacheln,تبليط الصورة إلى أجزاء أصغر من الأصلية
+Tile source image,Carreler avec l’image source,Quellbild wiederholen,مصدر صورة التبليط
+Tile source image: useful for infinite planes,Répète l’image source sur une grille rectangulaire (utile pour les plans infinis),,تبليط الصورة المصدر: مفيد للمسطحات اللانهائية
+Tile to New Size,Raccorde avec une nouvelle taille,Auf neue Größe kacheln,تبليط إلى حجم جديد
+Tileable,Raccordable,Kachelbar,قابلة للتبليط
+Tiling,Raccordement en cours,Kacheln werden erzeugt,التبليط
+Tiny,Minuscule,Winzig,ضئيل
+Title,Titre,Titel,العنوان:
+To:,,,إلى:
+Too many channels in file: %d,Trop de canaux dans le fichier : %d,Zu viele Kanäle in der Datei: %d,قنوات كثيرة جدا في الملف: %d
+Too many channels in layer: %d,Trop de canaux dans le calque : %d,Zu viele Ebenenkanäle: %d,قنوات كثيرة جدا في الطبقة: %d
+Tool Options,Options d’outil,Werkzeugeigenschaften,خيارات الأدوات
+Top edge,Bord haut,Oberer Rand,الحافة العليا
+Top left,En haut à gauche,Oben links,أعلى اليسار
+Top:,Dessus :,,الأعلى:
+Transparency:,Transparence :,,الشفافية:
+Transferring data from scanner/camera,Transfert des données depuis le scanneur ou l’appareil photo,Daten werden vom Scanner/von Kamera übertragen,نقل البيانات من الماسحة الضوئية/الكاميرا
+Transferring webpage image for '%s',Transfert de l’image de page web pour « %s »,Webseiten-Bild für »%s« wird übertragen,يحول صفحة الوب إلى صورة ’%s‘
+Transform image with the Mandelbrot Fractal,,,تحويل الصورة باستخدام كسوريات ماندلبروت
+Transformation %s,Transformation %s,Transformation %s,تحويل %s
+Transformations,Transformations,Transformationen,تحويلات
+Transparent,Transparent,Transparent,شفاف
+Transparent background,Arrière-plan transparent,,خلفية شفافة
+Tree View,Affichage en arborescence,Baumansicht,عرض مشجر
+Try Bounding Box,Essayer la BoundingBox,,تجربة مربع الإحاطة
+Turbulence:,Turbulence :,Turbulenz:,صخب:
+Turn bright spots into starry sparkles,Transforme les taches lumineuses en pointes étoilées,Helle Punkte in funkelnde Sterne umwandeln,إبدال البقع اللامعة بانبثاقات نجمية
+Twist or smear image in many different ways,Tourbillonne ou salit l’image de différentes façons,Das Bild auf verschiedene Arten verdrehen oder verschmieren,ثني أو تبقيع الصورة بطرق متعددة
+Type,Type,Typ,النوع
+Type of colormap not supported,Type de palette de couleurs non pris en charge,Palettentyp ist nicht unterstützt,نوع خريطة الألوان غير مدعوم
+Type of light source to apply,Type de la source de lumière à appliquer,,نوع مصدر الضوء الذي ينبغي تطبيقه
+Type of object to map to,Type de l’objet sur lequel plaquer l’image,,نوع الكائن الذي سيتم تحويل الخريطة إليه
+Type:,Type :,Typ:,النوع:
+URL,URL,Adresse,محدد موقع المعلومات (URL)
+URL: %s,URL : %s,Adresse: %s,محدد موقع المعلومات (URL): %s
+Units,Unités,Einheiten,وحدات القياس
+Use disposal entered above for all frames,Utiliser l’arrangement saisi ci-dessus pour toutes les images,,استخدم الموضع المحدد أعلاه لجميع المشاهد
+"Unable to recompose, source layer not found",,,لم يمكن إعادة التشكيل، لم يتم إيجاد الطبقة المصدر
+Unable to save '%s'.  The GIF file format does not support images that are more than %d pixels wide or tall.,,,لا يمكن حفظ '%s'. تنسيق ملف الجي.آي.إف  لا يدعم الصور أكثر من %d بكسل عرض أو طول.
+"Unable to save '%s'.  The PSD file format does not support images that are more than 30,000 pixels wide or tall.",,,"تعذّر حفظ '%s'. تنسيق ملف PSD لا يدعم الصور أكثر من 30,000 بكسل عرضا أو طولا."
+"Unable to save '%s'.  The PSD file format does not support images with layers that are more than 30,000 pixels wide or tall.",,,"تعذّر حفظ '%s'. تنسيق ملف PSD لا يدعم الصور ذات الطبقات أكثر من 30,000 بكسل عرضا أو طولا."
+"Unable to save layer with mode '%s'.  Either the PSD file format or the save plug-in does not support that, using normal mode instead.",,,تعذّر حفظ الطبقة بالنمط '%s'. إما أن صيغة ملف PSD أو الملحقة لا تدعم هذا، مستخدمًا النمط العادي عوضًا عن ذلك.
+Undo,Annuler,Rückgängig,تراجع
+Undo last zoom change,Annule le dernier zoom,Die letzte Änderung an der Vergrößerung rückgängig machen,تراجع عن آخر تغيير للتحجيم
+Unexpected end of file,Fin de fichier prématurée,Unerwartetes Dateiende,نهاية ملف غير متوقّعة
+Uniform,Identique,Gleichmäßig,متماثل
+Unit,Unité,,الوحدة
+Unit Editor,Éditeur d’unité,Einheiten bearbeiten,محرر الوحدات
+Unknown Microsoft Windows error.,Erreur Microsoft Windows inconnue.,Unbekannter Microsoft Windows-Fehler.,أيقونة مايكروسوفت ويندوز
+Unknown color model in PNG file '%s'.,Modèle de couleur inconnu dans le fichier PNG « %s ».,Unbekanntes Farbmodell in PNG-Datei »%s«.,نمط ألوان مجهول في '%s' ملف ال PNG.
+Unknown error,,,خطأ مجهول
+Unknown reason,Raison inconnue,Unbekannte Ursache,سبب مجهول
+Unnamed,Sans nom,Unbenannt,بدون اسم
+Unoptimizing animation,Désoptimisation de l’animation,Animation wird deoptimiert,إلغاء تحسين الصور المتحركة
+Unrecognized or invalid BMP compression format.,Format de compression BMP inconnu ou non valide.,Unbekanntes oder ungültiges BMP-Komprimierungsformat.,صيغة ضغط BMP غير صالحة أو غير معروفة.
+Unselect,Désélectionner,Keine Auswahl,إزالة التحديد
+Unselect All,Tout désélectionner,Alle Auswahlen aufheben,إلغاء اختيار الكل
+Unsharp Mask,,,إزالة حدة القناع
+Unsupported bit depth (%d)!,Profondeur de bit non prise en charge (%d) !,Farbtiefe wird nicht unterstützt (%d)!,عمق البتات غير مدعوم (%d)!
+Unsupported bit depth: %d,Profondeur de bit non prise en charge : %d,Farbtiefe wird nicht unterstützt: %d,عمق البت غير مدعوم: %d
+Unsupported brush format,,,صيغة الفرشاة غير مدعومة
+Unsupported color mode: %s,Mode couleur non pris en charge : %s,Farbmodus wird nicht unterstützt: %s,نمط اللون غير مدعوم: %s
+Unsupported compression (%lu) in BMP file from '%s',,,نمط الضغط غير مدعوم: %d
+Unsupported compression mode: %d,Mode de compression non pris en charge : %d,Nicht unterstützte Komprimierung: %d,نمط الضغط غير مدعوم: %d
+Unsupported drawable type,Type d’objet graphique non pris en charge.,Nicht unterstützter Zeichenflächentyp,عمق البتات غير مدعوم أو غير صالح.
+Unsupported file format version: %d,Version de format de fichier non pris en charge : %d,Nicht unterstützte Dateiformatversion: %d,إصدار نسق الملف غير مدعوم: %d
+Unsupported maximum value.,Valeur maximale non valide.,Maximalwert wird nicht unterstützt.,القيمة العليا غير مدعومة.
+Unsupported or invalid bitdepth.,Profondeur de bit non valide ou non prise en charge.,Nicht unterstützte oder ungültige Farbtiefe.,عمق البتات غير مدعوم أو غير صالح.
+Unsupported or invalid channel size,Taille de canal non valide ou non prise en charge,Nicht unterstützte oder ungültige Kanalgröße,حجم القناة غير مدعوم أو غير صحيح
+Unsupported or invalid image height: %d,La hauteur de l’image est non valide ou non prise en charge : %d,Nicht unterstützte oder ungültige Bildhöhe: %d,ارتفاع الصورة غير مدعوم أو غير صالح: %d
+Unsupported or invalid image size: %dx%d,La taille de l’image est non valide ou non prise en charge : %dx%d,Nicht unterstützte oder ungültige Bildgröße: %dx%d,حجم الصورة غير مدعوم أو غير صحيح: %d×%d
+Unsupported or invalid image width: %d,La largeur de l’image est non valide ou non prise en charge : %d,Nicht unterstützte oder ungültige Bildbreite: %d,عرض الصورة غير مدعوم أو غير صالح: %d
+Unsupported or invalid layer height: %d,Hauteur de calque non valide ou non prise en charge : %d,Nicht unterstützte oder ungültige Ebenenhöhe: %d,ارتفاع الطبقة غير مدعوم أو غير صحيح: %d
+Unsupported or invalid layer mask height: %d,Hauteur de masque de calque non valide ou non prise en charge : %d,Nicht unterstützte oder ungültige Höhe der Ebenenmaske: %d,ارتفاع قناع الطبقة غير مدعوم أو غير صحيح: %d
+Unsupported or invalid layer mask size: %dx%d,Taille de masque de calque non valide ou non prise en charge : %dx%d,Nicht unterstützte oder ungültige Größe der Ebenenmaske: %dx%d,حجم قناع الطبقة غير مدعوم أو غير صحيح: %d×%d
+Unsupported or invalid layer mask width: %d,Largeur de masque de calque non valide ou non prise en charge : %d,Nicht unterstützte oder ungültige Breite der Ebenenmaske: %d,عرض قناع الطبقة غير مدعوم أو غير صحيح: %d
+Unsupported or invalid layer size: %dx%d,Taille de calque non valide ou non prise en charge : %dx%d,Nicht unterstützte oder ungültige Ebenengröße: %dx%d,حجم الطبقة غير مدعوم أو غير صحيح: %d×%d
+Unsupported or invalid layer width: %d,Largeur de calque non valide ou non prise en charge : %d,Nicht unterstützte oder ungültige Ebenenbreite: %d,عرض الطبقة غير مدعوم أو غير صحيح: %d
+Unsupported scale factor.,Facteur d’échelle non pris en charge.,Skalierungsfaktor wird nicht unterstützt.,صيغة الفرشاة غير مدعومة
+Untitled,Sans titre,Unbenannt,بلا عنوان
+"Unusual PCX flavour, giving up","Semble PCX inhabituel, abandon","Ungewöhnliche PCX-Variante, abgebrochen",نكهة PCX غير مألوفة، تم الاستسلام
+Update preview live,Mise à jour en direct de l’aperçu,Vorschau stets aktualisieren,إعادة حساب معاينة الصورة
+Upper left,Supérieur gauche,Oben links,اليسار العلوي
+Upper left x:,Haut gauche x :,Oben links x:,اليسار العلوي x:
+Upper left y:,Haut gauche y :,Oben links y:,اليسار العلوي y:
+Upper right,Supérieur droit,Oben rechts,اليمين العلوي
+Use macros instead of struct,Utiliser des macros à la place des struct,,استخدم الماكرو عوضًا عن التركيبة
+Use GIMP Guides...,Utiliser les Guides GIMP…,GIMP-Hilfslinien verwenden …,استخدم أدلة جمب...
+Use Gimp Guides,Utiliser les guides GIMP,GIMP-Hilfslinien verwenden,استخدام أدلة جمب
+Use 1 byte Run-Length-Encoding,Utiliser l’encodage Run-Length 1 octet,,استخدم ترميز-طول-التشغيل 1 بايت
+Use Anti-aliasing,Utiliser le lissage,Kantenglättung verwenden,استخدم التنعيم
+Use restart markers,,,استخدم وسوم إعادة التشغيل
+Use a transparent background; Only the strokes painted will be visible,Utilise un arrière-plan transparent ; seuls les tracés peints seront visibles,Einen transparenten Hintergrund verwenden; nur die Pinselstriche sind sichtbar,استخدام خلفية شفافة؛ فقط ضربات الفرشاة التي أضيفت ستظهر
+Use average value,Utiliser la valeur moyenne,Mittelwert verwenden,استخدم القيمة المتوسطة
+Use cosine-function for this color component,Utilise la fonction cosinus pour cette composante couleur.,,استخدام دالة ظل الجيب لمكون اللون هذا
+Use cyclic range,Utiliser un intervalle cyclique,Zyklische Reichweite verwenden,استخدم المجال الدائري
+Use exponent map:,,,أسي:
+Use linear mapping instead of any trigonometrical function for this color channel,Utilise une fonction linéaire (et non pas trigonométrique) pour ce canal de couleur.,,استخدام التعين الخطي بدلًا من أي دالة رياضية دائرية لقناة اللون هذه
+"Use log log smoothing to eliminate ""banding"" in the result",Utilise un lissage en log log pour éviter les bandes dans le résultat.,"loglog-Glättung verwenden, um Streifenbildung im Ergebnis zu verhindern","استخدام صقل السجل لإزالة ""التحزيم"" من الناتج"
+Use loglog smoothing,Utiliser le lissage loglog,,استخدم صقل loglog
+Use mask-size map:,,,استخدام خريطة العظم
+Use magnitude map,Utiliser la carte de force,Betragskarte verwenden,استخدام خريطة العظم
+Use reverse value,Utiliser la valeur inverse,Umgekehrten Wert verwenden,استخدم القيمة المعكوسة
+Use sine-function for this color component,Utilise la fonction sinus pour cette composante couleur.,,استخدام دالة الجيب لمكون اللون هذا
+Use subcolors,,,استخدم الألوان الفرعية
+Use the background color,Utilise la couleur d’arrière-plan,,استخدم لون الخلفية
+Use the color of the image,Utilise la couleur de l’image,,استخدم لون الصورة
+Use the foreground color,Utilise la couleur de premier plan,,استخدم لون الأرضية
+Value,,,القيمة
+Value,Valeur,Wert,القيمة
+Value Variations,,,تغيرات القيمة
+Van Gogh (LIC),Van Gogh (LIC),Van Gogh (LIC),فان جوخ (LIC)
+Vector angle:,Angle du vecteur :,,زاوية المتجه:
+Vector length:,Longueur du vecteur :,,طول المتجه:
+Vector mag:,Facteur du vecteur :,,عظم المتجه:
+Vectors,Vecteurs,Vektoren,المتجهات
+Vertical base:,Base verticale :,,الأساس العمودي:
+"Vertical
+Lines","Lignes
+verticales","Vertikale
+Linien","خطوط
+رأسية"
+Vertical Color,Couleur des verticales,Vertikale Farbe,اللون العمودي
+Vertical gradient,Dégradé vertical,Vertikaler Verlauf,تدرّج عمودي
+Vertically,Verticalement,Vertikal,عمودي
+Very dark,Très sombre,Sehr Dunkel,غامق جدًا
+View Source,Voir la source,Quelle zeigen,عرض الشيفرة المصدرية
+Visit the GIMP documentation website,Visiter le site web de la documentation GIMP,Besuchen Sie die GIMP-Dokumentations-Internet-Seite,قم بزيارة موقع توثيق جمب
+Voronoi-mode makes only the smvector closest to the given point have any influence,Le mode Voronoï fait que seul le vecteur le plus proche d’un point donné a une influence,"Voronoi-Modus: Nur der SMVektor, der einem Punkt am nächsten ist, hat Einfluss",نمط فورونوي يجعل متجه sm الأقرب إلى النقطة المعطاة فقط يتأثر
+Voronoi-mode makes only the vector closest to the given point have any influence,Le mode Voronoï fait que seul le vecteur le plus proche d’un point donné a une influence,"Voronoi-Modus: Nur der Vektor, der einem Punkt am nächsten ist, hat Einfluss",نمط فورنوي يجعل المتجه الأقرب إلى النقطة المعطاة فقط يتأثر
+Vortex,Vortex,Vortex,دوامة
+Vortex2,Vortex2,Vortex2,دوامة2
+Vortex3,Vortex3,Vortex3,دوامة3
+WAIS,WAIS,WAIS,WAIS
+"WMF file does not
+specify a size!","Le fichier WMF ne
+spécifie pas de taille !",,"ملف الـ WMF لا
+يملك حجمًا محددًا!"
+With source image,Avec l’image source,,مع الصورة المصدر
+Write extra mask file,Écrire le fichier optionnel de masque,,كتابة ملف قناع إضافي
+Warning,Avertissement,Warnung,تحذير
+Warning: '%s' is a parameter file for a newer version of CML Explorer.,Attention : « %s » est un fichier de paramètres pour une version de CMLExplorer plus récente.,Warnung: »%s« ist eine Parameterdatei für einen neuere CML-Explorer-Version.,تحذير: '%s' هو ملف وسيط لنسخة أحدث من مستكشف CML.
+Warning: '%s' is an old format file.,Attention : « %s » est un vieux format de fichier.,Warnung: »%s« ist eine Datei im alten Format.,تحذير: '%s' هي صيغة ملف قديمة.
+Warning: the source and the destination are the same channel.,Attention : les canaux source et destination sont identiques.,Warnung: Quell- und Zielkanal sind identisch.,تحذير: المصدر والهدف هما عبارة عن نفس القناة.
+Warp,Décaler,Verformen,فتل
+Wave Type,,,نوع الموجة
+Waves,Vagues,Wellen,الموجات
+Weak,Faible,Schwach,ضعيف
+WebP image,Image WebP,WebP-Bild,صورة PNG
+Webpage,Page web,Webseite,صفحة وب
+"When toggled, the resulting image will be scaled to fit into the given size without changing the aspect ratio.","Si cette option est activée, l’image résultante sera étirée pour remplir la taille donnée sans changer les proportions.","Skaliert das Bild auf die gewählte Papiergröße, ohne das Seitenverhältnis zu ändern.",عند التبديل، سيتم تحجيم الصورة الناتجة لتناسب الحجم المعطى من دون تعديل في المظهر.
+White,Blanc,Weiß,أبيض
+Width (pixels):,Largeur (pixels) :,,العرض (بالبكسل):
+Width:,Largeur :,Breite:,العرض:
+Windows,,,النوافذ
+Windows BMP image,Image Windows BMP,Windows-BMP-Bild,صورة ويندوز BMP
+Windows Icon,Icône Windows,,أيقونة ويندوز
+"With gradient power (0,1)",Avec un exposant en dégradé [0 ; 1],"Mit steigendem Exponenten (0,1)",مع قوة متدرجة (1،0)
+"With p and random (0,1)",Avec p et un nombre aléatoire [0 ; 1],"Mit p und Zufallszahl (0,1)",مع p وعشوائي (1،0)
+"With random power (0,1)",Avec un exposant aléatoire [0 ; 1],"Mit zufälligem Exponenten (0,1)",مع قوة عشوائية (1،0)
+"With random power (0,10)",Avec un exposant aléatoire [0 ; 10],"Mit zufälligem Exponenten (0,10)",ذو قوة عشوائية (0،10)
+Wood,Bois,Holz,خشب
+Work on copy,Travailler sur une copie,Mit Kopie arbeiten,العمل على نسخة
+Wrap,Enrouler,Umfalten,التفاف
+Write error occurred,Une erreur d’écriture est survenue,Ein Schreibfehler ist aufgetreten,حصل خطأ أثناء الكتابة
+Writing to file '%s' failed: %s,Impossible d’écrire dans le fichier « %s » : %s,Fehler beim Schreiben der Datei »%s«: %s,فشلت كتابة الملف ’%s‘:‏ %s
+X BitMap image,Image bitmap X,X-BitMap-Bild,صورة X BitMap
+X PixMap image,Image pixmap X,X-PixMap-Bild,صورة X PixMap
+X scale (size),Échelle en X (taille),,تحجيم X (الحجم)
+X window dump,Dump X window,X-Window-Speicher,نتوءات نافذة X
+X11 Mouse Cursor,Curseur de souris X11,X11-Mauszeiger,مؤشر فأرة X11
+X:,X :,X:,X:
+XBM,,XBM,XBM
+XBM Options,,,خيارات XBM
+XMC Options,,,خيارات XMC
+XMP,XMP,XMP,XBM
+XPM,,XPM,XPM
+XPM file invalid,Fichier XPM non valide,Die XPM-Datei ist ungültig,ملف الـ XBM غير سليم
+"XWD-file %s has format %d, depth %d and bits per pixel %d. Currently this is not supported.","Le fichier XWD %s est de format %d, profondeur %d et bits par pixel %d. De tels fichiers ne sont pas pris en charge.","XWD-Datei %s hat Format %d, Tiefe %d mit %d Bit pro Pixel. Diese Kombination wird derzeit nicht unterstützt.",ملف-XWD %s له الصيغة %d، العمق %d و %d بت في البكسل الواحد. حاليًا، هذا غير مدعوم.
+XWD-file %s is corrupt.,Le fichier XWD %s est endommagé.,XWD-Datei %s ist beschädigt.,الملف فاسد!
+XY position:,Position XY :,XY-Position:,موقع XY:
+X1:,,,X1:
+X2:,,,X2:
+Y scale (size),Échelle en Y (taille),,تحجيم Y (الحجم)
+Y:,Y :,Y:,Y:
+Y1:,,,Y1:
+Y2:,,,Y2:
+Yellow,Jaune,Gelb,الأصفر
+Yellow:,,,أصفر
+YellowK,,,الأصفر-k
+"You are about to create a huge
+HTML file which will most likely
+crash your browser.","Vous êtes sur le point de créer
+un énorme fichier HTML qui, selon
+toute probabilité, mettra en
+difficulté votre navigateur.","Sie versuchen gerade, eine riesige
+HTML-Datei zu erzeugen, die womöglich
+Ihren Browser zum Absturz bringen wird.","أنت على وشك إنشاء ملف HTML ضخم
+مما سيؤدي على الأرجح إلى انهيار متصفحك."
+You can only run 'Recompose' if the active image was originally produced by 'Decompose'.,Vous ne pouvez utiliser « Recomposer » que si l’image active a été originellement produite par « Décomposer »,"Sie können »Wieder zusammenfügen« nur ausführen, wenn das aktuelle Bild ursprünglich von »Zerlegen« erzeugt wurde.",يمكنك تشغيل 'إعادة تشكيل' فقط إن كانت الصورة النشطة منتجة أصلًا من قبل الأمر 'تجزئة'.
+"You cannot save a cursor mask for an image
+which has no alpha channel.","Vous ne pouvez pas enregistrer un masque de curseur
+pour une image qui n’a pas de canal alpha.","Sie können keine Cursor-Maske speichern, 
+wenn das Bild keinen Alphakanal hat.","لا يمكنك حفظ قناع مؤشر لصورة
+لا تملك قناة ألفا."
+You must select a file to save!,,,يجب أن تختار ملفا لحفظه
+Z scale (size),Échelle en Z (taille),,تحجيم Z (الحجم)
+ZSoft PCX image,Image ZSoft PCX,ZSoft-PCX-Bild,صورة ZSoft PCX
+Zealous cropping,Découpage futé,Fanatisches Zuschneiden,جاري الاقتطاع الحماسي
+Zoom,Zoom,Vergrößerung,التحجيم
+Zoom in,Zoom avant,Vergrößern,تكبير
+Zoom out,Zoom arrière,Verkleinern,تصغير
+Zoom scale:,Facteur de zoom :,Zoomfaktor:,مقياس التحجيم:
+Abbreviation:,Abréviation :,Abkürzung:,الاختصار:
+Adaptive,Adaptatif,,تكيفي
+Advanced,Avancé,Erweitert,متقدم
+Advanced Options,,,خيارات متقدمة
+Alpha threshold:,,,عتبة ألفا:
+Alpha trimmed mean,Médiane réduite par alpha,,وسط ألفا الهندسي
+Alpha:,Alpha :,Alpha:,ألفا:
+Amount:,,,مقدار:
+Angle:,,,الزاوية:
+Antialiasing,Lissage,Kantenglättung,إزالة التسنين
+Automatically convert,Conversion automatique,Automatische Umwandlung,تحويل آلي
+Azimuth:,,,قوس القبة السماوية:
+Background color,Couleur d’arrière-plan,,لون الخلفية
+Base URL:,URL de base :,Basisadresse:,محدد موقع المعلومات (URL) الأساس:
+Bevel width:,Largeur du biseau :,,عرض الانحراف:
+Black,Noir,,أسود
+Black level:,Niveau de noir :,,مستوى الأسود:
+Black:,Noir :,Schwarz (Key):,أسود:
+Blacken,Noircir,,تسويد
+Blank,,,فارغ
+Blinds...,Fenêtre avec stores…,Jalousie …,ستائر...
+Blue,,Blau,أزرق
+Blue:,Bleu :,Blau:,أزرق:
+Blueness cb470:,Chrominance bleue cb470 :,Bläue cb470:,زرقة cb470:
+Blueness cb709:,Chrominance bleue cb709 :,Bläue cb709:,زرقة cb709:
+Blur,,,غشاوة
+Border Average...,Moyenne du bord…,Randmittelwert …,متوسط الحدود
+Border:,Bordure :,,الحدود:
+Bottom:,Bas :,Unten:,الأسفل
+Box,Boîte,Quader,صندوق
+Bright:,Luminosité :,,اللمعان:
+Brightness,Luminosité,Helligkeit,السطوع
+Brightness:,Luminosité :,,سطوع:
+Brush,Brosse,Pinsel,فرشاة
+Bucket size:,Taille des pots de peinture :,,حجم الباقة:
+Bump Map,Repoussage d’après une carte,Bump-Map,خريطة النتوءات
+Bumpmap,,,خريطة النتوءات
+Checkerboard...,,,لوحة الشطرنج...
+Clear,Effacer,,مسح
+Color Enhance,,,زيادة الألوان
+Contents,Contenus,,المحتويات
+Copy,Copier,Kopieren,نسخة
+Copyright:,Copyright :,,حقوق النشر:
+Create,,,أنشئ
+Create multipage PDF...,Créer un PDF multipage…,Mehrseitiges PDF erstellen …,أنشئ PDF متعدد الصفحات...
+Curve Bend...,Courber…,Verbiegen …,انعطاف المنحنيات...
+Cyan:,Cyan :,Cyan:,أزرق:
+DCT method:,,,طريقة DCT:
+Decompose to layers,Décomposer en calques,In Ebenen zerlegen,تقسيم إلى طبقات
+Decompose...,Décomposer…,Zerlegen …,تجزئة...
+Deflate,,,انكماش
+Delay between frames where unspecified:,Délai entre les images là où ce n’est pas spécifié :,,قيمة التأخير بين المشاهد حيث يكون غير محدد:
+Delay:,,,التأخير:
+Depth Merge...,Superposer selon profondeur…,Tiefenkombination …,مزج العمق...
+Depth:,Profondeur :,,العمق:
+Derivative,Dérivée,,مشتقة
+Description:,Description :,Beschreibung:,الوصف:
+Difference of Gaussians...,,,فرق الغوسيات...
+Digits:,Chiffres :,Stellen:,الأرقام:
+Displacement:,Déplacement :,,تموضع:
+Draw Crop Marks,Tracer des repères de coupe,Schneidemarkierungen einzeichnen,ارسم علامات القطع
+Edge enhancement,Amélioration des bords,,زيادة الحواف
+Edit,Édition,Bearbeiten,تحرير
+Effect image:,Image d’effet :,,صورة التأثير:
+Emboss,,,تجسيم
+Emboss...,,,تجسيم...
+Encapsulated PostScript,PostScript encapsulé,,بوست سكربت مغلف
+Entire image,,,كامل الصورة
+Environment Map,Carte d’environnement,Environment-Map,خريطة البيئة
+Explicit tile,Carreau explicite,Eindeutige Kachel,بلاط واضح
+Exponent:,,,أسي:
+Factor:,Facteur :,Faktor:,العامل:
+Factory Defaults,,,افتراضيات الكسور
+File,Fichier,,ملف
+Filename:,Nom du fichier :,,اسم الملف:
+Filmstrip...,Film…,Filmstreifen …,شريط متحرك...
+Filter Pack...,,,حزمة التصفية...
+Filter length:,Longueur du filtre :,,طول المصفي:
+Find Backdrop,Chercher le fond,Hintergrund finden,ايجاد الإسقاط الخلفي
+Fit height to images,Ajuster la hauteur aux images,,ملاءمة الارتفاع للصور
+Flame...,Flammes…,Flammen …,لهب
+Font:,Police :,,الخط:
+Foreground as registration color,Arrière-plan comme couleur de recalage,Vordergrund als Registerfarbe,لون الواجهة الأمامية كلون التسجيل
+Foreground color,Couleur du premier plan,,لون الأرضية
+Format:,Format :,,الصيغة:
+Fractal Explorer...,Explorateur de fractales…,Fraktal-Explorer …,مستكشف الكسوريات...
+Fractal Trace...,,,رسم الجزيئية...
+Fractals,Fractales,Fraktale,الكسوريات
+Frame disposal where unspecified:,,,موضع المشهد حيث لا يتم تحديد ذلك:
+Free,Libre,,حر
+From:,De :,,من:
+Ftp Site,Site FTP,,موقع FTP
+GIF comment:,,,تعليق GIF:
+GIMPressionist...,GIMPressionniste…,GIMPressionist …,GIMPressionist...
+Gamma:,Gamma :,,غاما
+General,Général,Allgemein,عام
+Generate full HTML document,Générer un document HTML complet,Vollständiges HTML-Dokument erstellen,توليد مستند HTML كامل
+Gfig...,Figures géométriques (GFig)…,Gfig …,Gfig...
+Glow radius:,,,نصف قطر التوهج:
+Glowing:,Rayonnement :,,التوهج:
+Gopher,Gopher,Gopher,غوفر
+Gradient,Dégradé,,التدرج
+Gradient Flare...,Éblouissement graduel…,Verlaufsaufhellung …,وهج التدرج...
+Gradient Map,Application de dégradé,Auf Farbverlauf,خريطة التدرج
+Green,,Grün,أخضر
+Green:,Vert :,Grün:,أخضر:
+Grey,,,رمادي
+Grid,Grille,Raster,شبكة
+Grid size:,Taille de grille :,,حجم الشبكة:
+Grid...,,,شبكة...
+Guillotine,,,مقصلة
+H,H,H,التدرج
+Height,Hauteur,Höhe,الارتفاع
+Height (pixels):,Hauteur (pixels) :,,الارتفاع (بكسل):
+Height:,Hauteur :,Höhe:,ارتفاع:
+Help,Aide,Hilfe,مساعدة
+Hidden,Caché,Versteckt,مخفية
+Hold the maximal channels,,,مسك القنوات القصوى
+Hole offset:,Décalage des trous :,,إزالة الثقوب:
+Horizontal,Horizontal,Horizontal,أفقي
+Horizontal style:,Style horizontal :,,المظهر الأفقي:
+Horizontal:,Horizontal :,,أفقي:
+Horz. spacing:,Espacement hor. :,Horizontaler Abstand:,التباعد الأفقي:
+Hot...,Ôter les « pixels chauds »…,Heiß …,ساخن...
+Hue,Teinte,Farbton,التدرج
+Hue rotation:,Rotation de la teinte :,,دوران التدرج:
+Hue:,Teinte :,Farbton:,التدرج:
+ID:,Identificateur :,,المعرف:
+IFS Fractal...,Fractale IFS…,IFS-Fraktal …,جزيئية IFS...
+Identifier prefix:,Préfixe d’identification :,,بادئة المعرف:
+Ignore the bottom layer even if visible,Ignorer le calque du bas même s’il est visible,,تجاهل الطبقة السفلى إن كانت مرئية
+Image Map...,Image cliquable web…,Imagemap …,خريطة صورة...
+Import,Importer,Importieren,استورد
+Inch,Pouce,,بوصة
+Input SPI:,,,إدخال SPI:
+Insert,Insérer,Einfügen,إدراج
+Intensity:,Intensité :,,الشدة:
+Interlacing (Adam7),,Interlacing (Adam7),تشبيك داخلي (آدم7)
+Invert,Inverser,Invertieren,اعكس
+JPEG,,,JPEG
+JavaScript,JavaScript,JavaScript,جافا سكربت
+Jigsaw...,Puzzle…,Puzzle …,تقطيع إلى ألغاز...
+Keep NCSA circles true,Rendre fidèlement les cercles NCSA,NCSA-Kreise beibehalten,إبقاء دوائر NCSA صحيحة
+Keep aspect ratio,Proportions fixes,Seitenverhältnis beibehalten,إبقاء نسبة المظهر
+Kill,Supprimer,Entfernen,قتل
+Left start at:,Départ gauche à :,Linker Start bei:,اليسار يبدأ من:
+Left:,Gauche :,Links:,يسار:
+Level:,Niveau :,,المستوى:
+License:,Licence :,,الرخصة:
+Light,Lumière,Licht,الإضاءة
+Lighting Effects...,Effets d’éclairage…,Lichteffekte …,تأثيرات الأضواء...
+Lightness:,Lumière :,Helligkeit:,السطوع:
+Lines,Lignes,Linien,الخطوط
+Link,Lien,Verknüpfung,رابط
+Load Defaults,Charger défauts,Standardwerte laden,تحميل القيم الافتراضية
+Lock channels,,,قفل القنوات
+Loop forever,,,تكرار لا نهائي
+Lower,Descendre,,سفلي
+Luma y470:,Luminance y470 :,Leuchtstärke y470:,إضاءة y470:
+Luma y709:,Luminance y709 :,Leuchtstärke y709:,إضاءة y709:
+Magenta:,Magenta :,Magenta:,أرجواني:
+Mapping,Cartographie,,تعيين
+Mask file extension:,Extension du fichier de masque :,,امتداد ملف القناع:
+Mask radius:,,,نصف قطر القناع:
+Mask size:,,,حجم القناع:
+Material,Matériau,Material,المادة
+Max depth:,Profondeur max :,,العمق الأقصى:
+Metallic,Métallique,,معدني
+Midtones,,,التبريد المتوسط
+Millimeter,Millimètre,,ميليمتر
+Minimum value:,Valeur minimum :,,القيمة الدنيا:
+Mirror,Miroir,Spiegeln,عكس
+Misc Ops.,,,خيارات متفرقة
+NL Filter...,Filtre NL…,NL-Filter …,مصفي NL...
+Natural color,Couleur naturelle,,لون طبيعي
+Neon...,,,نيون...
+Next,Suivant,Abwärts,التالي
+No. across:,Nb. d’un côté à l’autre :,Anz. horizontal:,الرقم عبر:
+Noise magnitude:,Importance du bruit :,,مغناطيسية الضجيج:
+None,Aucune,,لا شيء
+Normal,Normal,Normal,عادي
+Normalize,,,ضبط
+Number height:,Hauteur du numéro :,,ارتفاع الأرقام:
+Number of segments:,Nombre de segments :,,عدد القطاعات:
+Opacity:,Opacité :,,التعتيم:
+Open...,Ouvrir…,,فتح...
+Optimize,,,حسّن
+Optimize (Difference),Optimiser (différence),Optimieren (Differenz),استمثال (فرق)
+Other:,Autre :,,أخرى:
+Pack Bits,,,بتات التحزيم
+Pagecurl...,Coin de page…,Einrollen …,لف الصفحة...
+Palette Map,Application de palette,Auf Palette,خريطة لوحة الألوان
+Palette Type:,Type de palette :,,نوع اللوحة:
+Parameters,Paramètres,Parameter,الوسائط
+Percent black:,,,نسبة الأسود المئوية:
+Period:,,,المدة:
+Photocopy...,,,آلة النسخ...
+Playback...,,Animation abspielen …,إعادة التشغيل...
+Plug-In Browser,Navigateur de greffons,Plugin-Browser,مستعرض الملحقات
+Plural:,Pluriel :,,الجمع:
+Polished:,Poli :,,مصقول:
+Polygon,Polygone,Polygon,مضلع
+PostScript level 2,PostScript niveau 2,,مستوى بوست سكربت 2
+Prefixed name:,Nom prefixé :,,اسم المثبت مسبقًا:
+Preserve luminosity,Préserver la luminosité,,المحافظة على الإضاءة
+Presets,Préréglages,Voreinstellungen,الضبط المسبق
+Preview,Aperçu,Vorschau,معاينة
+Preview Once,Lancer l’aperçu,Einmalige Vorschau,معاينة مرة واحدة
+Preview!,Prévisualisation !,Vorschau!,معاينة!
+Previous,Précédent,Vorige,السابق
+Print...,Imprimer…,Drucken …,طباعة...
+Progressive,,Progressiv,تقدمي
+Prompt for area info,Demander immédiatement pour les informations sur la zone,Bereichsinformationen erfragen,موجه معلومات المساحة
+Psychobilly,Boursouflure,Psychobilly,روك
+Qbist...,Qbiste…,Qbist …,Qbist...
+Quality:,,,الجودة:
+RGB,,,RGB
+RLE compression,Compression RLE,,ضغط RLE
+Radius 1:,,,نصف القطر 1:
+Radius:,Rayon :,Radius:,نصف القطر:
+Random hue:,Teinte aléatoire :,,تدرج عشوائي:
+Randomize,Aléa,Zufall,إعطاء قيم عشوائية
+Rays,Rayons,Strahlen,الأشعة
+Rectangle,Rectangle,Rechteck,مستطيل
+Red:,Rouge :,Rot:,أحمر:
+Redness cr470:,Chrominance rouge cr470 :,Röte cr470:,حمرة cr470:
+Redness cr709:,Chrominance rouge cr709 :,Röte cr709:,حمرة cr709:
+Redo %s,Rétablir %s,%s wiederholen,إلغاء التراجع عن %s
+Reload,Recharger,Neu Laden,أعِد التحميل
+Remove,Enlever,Entfernen,إزالة
+Remove Backdrop,Supprimer le fond,Hintergrund entfernen,إزالة الإسقاط الخلفي
+Rendering,Rendu,Rendern,تصيير...
+Require default URL,Demander un URL par défaut,Standardadresse erforderlich,يحتاج الـ URL الافتراضي
+Resolution:,Résolution :,,الاستبانة:
+Retain tilability,,,الإبقاء على التبليط
+Right border,Bordure droite,Rechter Rand,الحد الأيمن
+Right:,Droite :,Rechts:,يمين:
+Ripple...,,,تموج...
+Run-Length Encoded,Encodé en Run-Length,,طول التشغيل مرمز
+Sample Colorize...,Colorier à partir d’un échantillon…,Kolorieren …,تلوين الأنموذج...
+Saturation,Saturation,,الإشباع
+Saturation:,Saturation :,Sättigung:,الإشباع:
+Save comment to file,Enregistrer le commentaire dans le fichier,,حفظ التعليق إلى ملف
+Save...,Enregistrer…,,حفظ...
+Scale:,Échelle :,,تدرج:
+Scanner/Camera...,Scanneur/Appareil photo…,Scanner/Kamera …,ماسحة ضوئية/كاميرا...
+Screen Shot...,,,لقطة شاشة...
+Screenshot...,Capture d’écran…,Bildschirmfoto …,لقطة شاشة...
+Search depth:,Profondeur de recherche :,,عمق البحث:
+Second Flares,Reflets secondaires,Sekundärlichtreflexe,الوهج الثاني:
+Send,Envoyer,,إرسال
+Settings,Paramètres,Einstellungen,الإعدادات
+Shade under curl,Ombre sous le coin,,تظليل تحت اللف
+Sharpen...,,,زيادة الحدة...
+Sharpness:,,,الحدة:
+Shiny:,Brillant :,,لامع:
+Size,Taille,Größe,الحجم
+Size:,Taille :,Größe:,الحجم:
+Small Tiles...,Petits raccords…,Kleine Kacheln …,بلاطات صغيرة...
+Smear,,,بقعي
+Snap-to grid enabled,Accrochage à la grille activé,Einrasten aktiviert,الالتقاط إلى شبكة مفعل
+Softglow...,,,توهج ناعم...
+Sparkle...,Étinceler…,Glitzern …,انبثاق...
+Speed:,Vitesse :,Geschwindigkeit:,السرعة:
+Spike length:,Longueur des pointes :,,طول المسمار:
+Spot function:,,,دالة البقع:
+Square,Carré,,مربع
+Step,,Schritt,خطوة
+Stop,Arrêter,Stopp,أوقف
+Strength:,Force :,Stärke:,القوة:
+Stroke,Tracer,Nachziehen,ضربة فرشاة
+Swap Colors,Échanger des couleurs,Farben tauschen,إبدال الألوان
+Symbol:,Symbole :,Symbol:,الرمز:
+Target frame name/ID: (optional - used for FRAMES only),Nom/ID du cadre de destination : (optionnel - uniquement utilisé pour les cadres),Name/ID des Ziel-Frames: (optional - nur für FRAMES benutzt),اسم/معرف المشهد الهدف: (ختياري - يُستخدم للمشاهد فقط)
+Thickness:,Épaisseur :,,السماكة
+Threshold,Seuil,Schwellwert,العتبة:
+Threshold:,Seuil :,Schwellwert:,العتبة:
+Tile...,Raccorder…,Kacheln …,تبليط...
+Title:,Titre :,Titel:,العنوان:
+To:,À :,,إلى:
+Tools,Outils,,أدوات
+Top start at:,Départ haut à :,Oberer Start bei:,الأعلى يبدأ من:
+Top:,Dessus :,Oben:,الأعلى:
+Transparent,Transparent,Transparent,شفاف
+URL to activate when this area is clicked: (required),URL à activer lorsque cette zone est cliquée : (nécessaire),"Zu öffnende Adresse, wenn in diese Fläche geklickt wird: (benötigt)",محدد موقع المعلومات (URL) الذي ينبغي تنشيطه حين يُنقر على هذه المساحة: (مطلوب)
+Undo,Annuler,Rückgängig,تراجع
+Undo %s,Annuler %s,%s rückgängig,تراجع عن %s
+Unoptimize,Désoptimiser,Deoptimieren,إزال الاستمثال
+Unsharp Mask...,,,إزالة حدة القناع...
+Update,Mettre à jour,Aktualisieren,تحديث
+Upper,Supérieure,,علوي
+Upper border,Bordure supérieure,Oberer Rand,الحد الأعلى
+Use GLib types (guint8*),Utiliser les types GLib (guint8*),,استخدم أنواع (*GLib (guint8
+Use cellspan,Utiliser cellspan,Cellspan verwenden,استخدم توسيع الخلايا
+Use delay entered above for all frames,Utiliser le délai saisi ci-dessus pour toutes les images,Obige Pause für alle Einzelbilder verwenden,استخدم التأخير المحدد أعلاه لجميع المشاهد
+Use double-sized grab handles,Utiliser des poignées de taille double,Griffe haben doppelte Größe,استخدم مقابض التقاط مضاعفة الحجم
+Use intensity algorithm,,,استخدم الشدة
+Use quality settings from original image,,Qualitätseinstellungen des Originalbildes verwenden,استخدم إعدادات الجودة من الصورة الأصلية
+Use the (invisible) bottom layer as the base,Utiliser le calque le plus bas (invisible) comme base,Die unterste (unsichtbare) Ebene als Basis verwenden,استخدام الطبقة السفلى (غير المرئية) كأساس
+Value,Valeur,Wert,القيمة
+Value:,Valeur :,Wert:,القيمة:
+Van Gogh (LIC)...,Van Gogh (LIC)…,Van Gogh (LIC) …,فان جوخ (LIC)...
+Variation:,Variation :,Variation:,التغير:
+Vert. spacing:,Espacement vert. :,Vertikaler Abstand:,التباعد الرأسي:
+Vertical,Vertical,Vertikal,عمودي
+Vertical style:,Style vertical :,,المظهر العمودي:
+Vertical:,Vertical :,,عمودي:
+View,Affichage,,عرض
+Voronoi,Voronoï,Voronoi,فورنوي
+Warp...,Décaler…,Verformen …,فتل...
+Web Site,Site web,Internet-Seite,موقع الوب
+White,Blanc,,أبيض
+White level:,Niveau de blanc :,,مستوى الأبيض:
+Width,Largeur,Breite,العرض
+Width (pixels):,Largeur (pixels) :,,العرض (بكسل):
+Width:,Largeur :,Breite:,العرض:
+With white noise,Avec du bruit blanc,,مع ضجيج أبيض
+Wrap,,,التفاف
+Write hot spot values,Écrire les valeurs du point actif,,كتابة قيم البقع الساخنة
+X offset:,Décalage X :,,إزاحة X:
+X ratio:,Ratio X :,,نسبة X
+X resolution:,Résolution X :,X-Auflösung:,استبانة X:
+X10 format bitmap,Format bitmap X10,X10-Format-Bitmap,صيغة الخريطة النقطية X10
+Y offset:,Décalage Y :,,إزاحة Y:
+Y ratio:,Ratio Y :,,نسبة Y
+Y resolution:,Résolution Y :,Y-Auflösung:,استبانة Y:
+Yellow,,,أصفر
+Yellow:,Jaune :,Gelb (Yellow):,أصفر:
+Zealous Crop,Découpage futé,Fanatisch zuschneiden,الاقتطاع الحماسي
+Zoom,Zoom,Zoom,تحجيم
+Zoom To,Zoomer vers,,تحجيم إلى
+Zoom:,Zoom :,,تحجيم
+after,,,بعد
+alpha,alpha,Alpha,ألفا
+black,noir,Schwarz,أسود
+blue,bleu,Blau,أزرق
+blueness-cb470,chrominance bleue-cb470,Bläue-cb470,زرقة-cb470
+blueness-cb709,chrominance bleue-cb709,Bläue-cb709,زرقة-cb709
+bzip archive,archive bzip,bzip-Archiv,أرشيف bzip
+cyan,cyan,Cyan,أزرق
+cyan-k,,,أزرق-k
+e-mail,Messagerie,E-Mail,بريد إلكتروني
+green,vert,Grün,أخضر
+gzip archive,archive gzip,gzip-Archiv,أرشيف gzip
+hue,teinte,Farbton,تدرج
+invalid formatted GFlare file: %s,Fichier d’éblouissement graduel mal formaté : %s,Ungültiges Format in GFlare-Datei: %s,صيغة ملف GFlare غير صالحة: %s
+is not a CEL image file,n’est pas un fichier d’image CEL,ist keine CEL-Bilddatei,'%s' ليس ملف PCX
+k(1-x^p),k(1-x^p),k(1-x^p),k(1-x^p)
+k(1-x^p) stepped,k(1-x^p) échelonné,k(1-x^p) schrittweise,خطوة (k(1-x^p
+kx^p,kx^p,kx^p,kx^p
+kx^p stepped,kx^p échelonné,kx^p schrittweise,خطوة kx^p
+k{x(1-x)}^p,k{x(1-x)}^p,k{x(1-x)}^p,k{x(1-x)}^p
+k{x(1-x)}^p stepped,k{x(1-x)}^p échelonné,k{x(1-x)}^p schrittweise,خطوة k{x(1-x)}^p
+lightness,lumière,Helligkeit,سطوع
+luma-y470,luminance-y470,Leuchtstärke-y470,إضاءة-y470
+luma-y709,luminance-y709,Leuchtstärke-y709,إضاءة-y709
+magenta,magenta,Magenta,أرجواني
+magenta-k,,,أرجواني-k
+milliseconds,millisecondes,Millisekunden,ميلي ثانية
+not found %s in gflareslist,%s non trouvé dans la gflareslist,%s konnte nicht in gflareslist gefunden werden,لم يتم إيجاد %s في gflareslist
+pixels,pixels,Pixel,بكسلات
+pixels from top,pixels en haut,Pixel von oben,البكسلات من الأعلى
+pixels from left,pixels à gauche,Pixel von links,البكسلات من اليسار
+pixels/%a,pixels/%a,Pixel/%a,بكسل/%a
+red,rouge,Rot,أحمر
+redness-cr470,chrominance rouge-cr470,Röte-cr470,حمرة-cr470
+redness-cr709,chrominance rouge-cr709,Röte-cr709,حمرة-cr709
+saturation,saturation,Sättigung,إشباع
+save Exif data,,,احفظ بيانات EXIF
+save IPTC data,,,حفظ بيانات XMP
+save XMP data,,,حفظ بيانات XMP
+save thumbnail,,,احفظ صورة مصغّرة
+seconds,secondes,,ثانية
+"sin^p, stepped","sin^p, échelonné",sin^p schrittweise,"sin^p, خطوة"
+sin^p-based function,Fonction fondée sur sin^p,sin^p-basierte Funktion,الدالة المرتكزة على sin^p
+some sort of error with the file extension or lack thereof,erreur due à l’extension du fichier ou son absence,ein Fehler mit der Dateinamenserweiterung (oder das Fehlen derselben),هناك خطأ ما في امتداد الملف أو عدم وجوده
+value,valeur,Wert,قيمة
+x (pixels),x (pixels),x (Pixel),x (بكسلات)
+xz archive,archive xz,xz-Archiv,أرشيف gzip
+y (pixels),y (pixels),y (Pixel),y (بكسلات)
+yellow,jaune,Gelb,أصفر
+yellow-k,,,أصفر-k

@@ -1,0 +1,176 @@
+
+"'%s' is a directory.
+Remove recusively?",,,%s دليل
+(Empty),(vide),(Leer),(فارغ)
+Drawing Style,,,مظهر البرنامج:
+Edit Menu,,,خط المحرر:
+Font,,,الصيغة
+Loading,,,جاري التحميل...
+Misc,,,فأرات
+Saving,,,المشاركة
+Toolbar Appearance,,,المظهر
+Whitespace,,,مساحات العمل
+"Some files have been modified.
+Which ones would you like to save?",,,"رجاء أدخل كلمة سر الجذر"
+"Compare",,,"اختبار..."
+"Display",,,"اختبار..."
+"Editor",,,"اختبار..."
+"Encoding",,,"اختبار..."
+"File Filters",,,"اختبار..."
+"Text Filters",,,"اختبار..."
+Active,Actif,Aktiv,نشط
+Add Binary,,,أظهر الملفات الثنائية
+Add binary to VC,,,أضف
+Add to VC,,,أضف
+Automatically supply missing newline at end of file,,,نزّل و افتح الملفات آلياً
+Cannot compare a mixture of files and directories.,,,اسمح بملفات وأدلّة قابلة للكتابة من المجموعة.
+Case,,,كاسبر
+Choose Files,,,اختر ملف
+Choose a name for buffer %i.,,,أدخل اسم لهذا الحاجز
+Commit,Commiter,Einspielen,أرسِل
+Commit Files,Fichiers à commiter,Dateien einspielen,تحرير ملف
+Compare Options,,,خيارات أخرى
+Compare and merge your files.,,,انشيء واحذف الملفات
+Compare selected,,,%d صفحة مختارة
+Copy To Left,,,أعلى اليسار
+Copy To Right,,,حقوق النسخ
+Copy the selection,,,%d صفحة مختارة
+Copy to Clipboard,Copier vers le presse-papiers,In die Zwischenablage kopieren,انسخ العنوان إلى الحافظة
+Copyright (C) 2002-2006 Stephen Kennedy,,,حقوق النسخ © 2002-2005 Bastien Nocera
+Could not read from '%s',,,تعذّر إعادة تسمية '%s': %s
+Create Patch,,,أنشيء مطلق
+Create a patch,,,أنشيء مطلق
+Custom command,,,الأمر المخصّص:
+Date,,,التّاريخ:
+Delete locally,,,احذف الكل
+Delete selected,Effacer la sélection,Markierte löschen,احذف المفاتيح المنتقاة
+Directory,,,دليل
+Display,Affichage,Darstellung,العرض
+Edit,,,المحرر
+Edit files,,,حرّر الملفات النصية
+Edit files with:,,,حرّر الملفات النصية
+Edit selected,,,النسق المنتقى:
+Edit the selected file,,,النسق المنتقى:
+Editor,Éditeur,Editor,المحرر
+Encoding,,,التشفيرة
+Error converting pattern '%s' to regular expression,,,"خطأ عند تجميع التعبير النظامي ""%s""."
+"Error copying '%s' to '%s'
+
+%s.",,,خطأ أثناء الكتابة في '%s': %s
+"Error removing %s
+
+%s.",,,خطأ أثناء إزالة القائمة
+"Error writing to %s
+
+%s.",,,خطأ في الكتابة إلى %s: %s
+File Filters,Filtres de fichiers,Dateifilter,مرشحات البريد
+Find,Rechercher,Suchen,ابحث
+Flatten directories,,,أنشيء دلائل
+Gnome Default,,,بدون (افتراضي)
+Gnome default editor,,,محرر التاريخ لجنوم
+Go to the next difference,,,تفضيلات اشتراك الملفات
+Hide %s,,,إخفاء
+Hide selected,,,النسق المنتقى:
+Hide...,,,شريحة...
+I tried encodings %s.,,,ترميزات أخرى
+Icons Only,,,أيقونات فقط
+Ignore case of entries,,,تجاهل الحالة
+Ignore symbolic links,Ignorer les liens symboliques,Symbolische Verknüpfungen ignorieren,تتبع الوصلات الرمزية
+Ignored,Ignorés,Ignoriert,تجاهل
+Ignored for compatibility,Ignorée pour compatibilité,Aus Kompatibilitätsgründen ignoriert,التوافقية مع ويندوز
+Internal editor,,,خطأ داخلي
+Left,,,يسار
+Line Wrapping,,,نمط لف السطر
+"Ln %i, Col %i",,,السطر %d، العمود %d
+Location,Emplacement,Ort,الموقع
+Log Message,Message du journal,Änderungsmitteilung,رسالة التسجيل في VPN
+Mailing List,,,قائمة بريدية
+Match entire word only,,,طابِق كامل الكلمة فقط
+Meld,Meld,Meld,لحن
+Meld Diff Viewer,,,عارض الصوت
+Mine,,,ماين
+Modified,Modifiés,Geändert,عُدّل:
+Name,Nom,Name,الإسم
+New,Nouveaux,Neu,جديد
+No differences found.,,,لم يُعثر على أجهزة
+Options,,,خيارات
+Original,,,هامشي
+Other,,,أخرى
+Paste the clipboard,,,انسخ العنوان إلى الحافظة
+Pattern,Motif,Muster,نمط:
+Preferences : Meld,,,قائمة التفضيلات
+Previous Logs,,,سابقا
+Refresh the view,,,أنعِش:
+Regex,,,ريجي
+Regular expression,Expression régulière,Regulärer Ausdruck,عبارة منتظمة
+"Regular expression error
+'%s'",,,بحث عن تعابير نمطيّة
+Reload,,,أعد التحميل
+Reload the comparison,,,معلومات الملف
+Remove from VC,,,أزل من القائمة
+Report Bug,,,التقارير
+Rev,,,احذف
+Right,,,يمين
+Same,Identiques,Identisch,سايم
+Save in UTF-8 encoding,,,احفظ في حلقة المفاتيح
+Save modified files?,,,تاريخ التّعديل أقل من
+Save patch as...,,,احفظ كـ...
+Script comment	0	#.*,,,جُمل المخطوط
+Search for text,,,ابحث عن:
+Search for:,,,ابحث عن:
+Select some files first.,,,انتقي ملف صوت...
+Set label to use instead of file name,Définir l’étiquette à utiliser au lieu du nom de fichier,Zu verwendende Bezeichnung anstelle Dateinamen angeben,الأمر الخاص الذي سيستعمل عوض الصدفة
+Show identical,,,أظهر الإشارة
+Show ignored files,,,اظهر الملفات المخفية
+Show line numbers,Afficher les numéros de ligne,Zeilennummern anzeigen,اظهار أرقام السطور
+Show modified,,,مفتاح التعديل Shift
+Show new,,,أظهر ملاحظة
+Show normal,,,أظهر الإشارة
+Show unversioned files,,,اظهر الملفات المخفية
+Simple: Lines only,,,ملفات صور فقط
+Status,État,Zustand,الحالة
+Tab width,,,عرض اللسان:
+Tag,,,وسم:
+Text Beside Icons,,,نص بجانب الأيقونة
+Text Filters,Filtres textuels,Textfilter,ملف نصي
+Text Only,,,نص فقط
+Text Under Icons,,,نص و أيقونة
+The error was:,,,خطأ HTML في %s:
+The regular expression '%s' was not found.,,,لا يمكن العثور على العنوان '%s'
+The text '%s' was not found.,,,حساب المستخدم '%s' غير موجود
+Three way directory,,,اختر دليل
+Three way file,,,ملف البكسمب
+Two way directory,,,ليس دليلا
+Two way file,,,حمِّل ملف
+Update,,,حدّث
+Use GNOME monospace font,,,خط ثابت العرض
+Use custom font,,,إستعمال خطوط مخصّصة
+Use syntax highlighting,,,عطّل إبراز التراكيب
+VC Log,,,لغ
+Version control view,,,تحكم النُسخ
+[%s] Done,,,%s بدون اسم
+[%s] Fetching differences,,,تفضيلات اشتراك الملفات
+[%s] Opening files,,,يجري فتح المجلّد %s
+[%s] Reading files,,,جاري حذف الملفات
+[%s] Scanning %s,,,يجري مسح %s
+[None],[Aucun],[Nichts],[لاشيء]
+Add,Ajouter,Hinzufügen,أضف
+Commit,,,أرسِل
+Compare,Comparer,Vergleichen,كولمار
+Contents,,,المحتويات
+Directory Comparison,,,لوح الدليل
+Edit,,,تحرير/
+File Comparison,,,معلومات الملف
+Flatten,,,تسطيح الصورة
+Logo,,,الشعارات
+Match case,Respecter la casse,Groß-/Kleinschreibung beachten,طابِق الحالة
+Modified,,,عُدّل:
+New...,,,جديد...
+Normal,,,عادي
+Remove,Supprimer,Löschen,احذف
+Update,,,حدّث
+Version Control Browser,,,تحكم النُسخ
+Wrap around,,,لف حول
+label,étiquette,Bezeichnung,شارة
+pattern,motif,Muster,نمط:
+untitled,sans titre,unbenannt,(بدون عنوان)

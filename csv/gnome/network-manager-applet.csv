@@ -1,0 +1,490 @@
+
+%s (%s roaming),%s (itinérance %s),%s (%s-Roaming),‏%s (تجوال %s)
+%s (roaming),%s (itinérance),%s (Roaming),‏%s (تجوال)
+%s connection,Connexion à %s,Verbindung mit %s,إتّصالات VPN
+%u (%u MHz),%u (%u MHz),%u (%u MHz),%u (%u م.هرتز)
+%u Mb/s,%u Mb/s,%u Mb/s,%u م.بايت\ث
+(none),(aucun),(keine),(لا شيء)
+1 Gb/s,1 Gb/s,1 Gbit/s,1 ج.بايت/ث
+10 Gb/s,10 Gb/s,10 Gbit/s,10 ج.بايت/ث
+10 Mb/s,10 Mb/s,10 Mbit/s,10 م.بايت\ث
+100 Mb/s,100 Mb/s,100 Mbit/s,100 م.بايت\ث
+2,2,2,2
+3,3,3,3
+4,4,4,4
+802.11 Wi-Fi (%s),Wi-Fi 802.11 (%s),802.11 Wi-Fi (%s),802.11 واي فاي (%s)
+802.1X Security,Sécurité 802.1X,802.1X-Sicherheit,أمن 802.1X
+802.1X authentication,Authentification 802.1X,802.1X-Legitimierung,استيثاق 802.1X سلكي
+Peers,Pairs,Gegenstellen,العناوين
+A (5 GHz),A (5 GHz),A (5 GHz),‏A ‏(5 ج.هرتز)
+A file named “%s” already exists.,Un fichier nommé « %s » existe déjà.,Eine Datei mit dem Namen »%s« existiert bereits.,"يوجد ملف بالاسم ""%s"" مسبقاً"
+A password is required to connect to “%s”.,Un mot de passe est requis pour se connecter à « %s ».,"Es wird ein Passwort benötigt, um sich mit »%s« zu verbinden.",كلمة سر مطلوبة للاتصال بشبكة الهاتف المحمول '%s'.
+ARP,ARP,ARP,EAP
+Ad-hoc,Ad hoc,Ad-hoc,لا مركزية
+Advanced…,Avancé…,Erweitert …,متقدم
+Add a new connection,Ajouter une nouvelle connexion,Eine neue Verbindung hinzufügen,اتّصالات VPN
+Additional DNS servers,Serveurs DNS supplémentaires,Zusätzliche DNS-Server,خواديم DNS:
+Additional search domains,Domaines de recherche supplémentaires,Zusätzliche Suchdomänen,نطاقات البحث:
+Additional static addresses,Adresse statique supplémentaire,Zusätzliche statische Adressen,تلقائي، عناوين فقط
+Address,Adresse,Adresse,العنوان
+Addresses,Adresses,Adressen,العناوين
+Advanced,Avancé,Erweitert,متقدم
+Advanced Network Configuration,Configuration réseau avancée,Erweiterte Netzwerkkonfiguration,خطأ إعداد VPN
+All users may connect to this network,Tous les utilisateurs peuvent se connecter à ce réseau,Alle Benutzer dürfen dieses Netzwerk verwenden,أنت متصل الآن بالشبكة السلكية.
+Allowed Authentication Methods,Méthodes d’authentification autorisées,Zulässige Legitimierungsmethoden,طرق الاستيثاق المسموحة
+Allowed IPs,IP autorisés,Zulässige IP-Addressen,الطرق المسموحة:
+Allowed IPs,IPs Autorisés,Zulässige IP-Adressen,الطرق المسموحة:
+Allowed methods,Méthodes autorisées,Zulässige Methoden,الطرق المسموحة:
+Are you sure you wish to delete the connection %s?,Voulez-vous vraiment supprimer la connexion %s ?,"Sind Sie sicher, dass Sie die Verbindung %s löschen möchten?",هل أنت متأكد من حذف هذا الاتصال %s؟
+Authenticate to delete the selected connection,S’authentifier pour supprimer la connexion sélectionnée,"Legitimieren, um die ausgewählte Verbindung zu löschen",استوثق لحذف الاتصال المحدد
+Authenticate to edit the selected connection,S’authentifier pour modifier la connexion sélectionnée,"Legitimieren, um die ausgewählte Verbindung zu bearbeiten",استوثق لتحرير الاتصال المحدد
+Authenticate to save this connection for all users of this machine.,S’authentifier pour enregistrer cette connexion pour tous les utilisateurs de cet ordinateur.,"Legitimieren, um diese Verbindung für alle Benutzer dieses Rechners zu speichern.",استوثق لحفظ هذا الاتصال لكل المستخدمين على هذا الجهاز .
+Authentication,Authentification,Legitimierung,الاستيثاق
+Auto Ethernet,Ethernet automatique,Auto-Ethernet,إيثرنت تلقائي
+Automatic,Automatique,Automatisch,تلقائي
+Automatic (DHCP),Automatique (DHCP),Automatisch (DHCP),تلقائي (DHCP)
+Automatic (DHCP) addresses only,Adresses automatiques uniquement (DHCP),"Automatisch (DHCP), nur Adressen",عناوين (DHCP) تلقائية فقط
+Automatic (PPPoE),Automatique (PPPoE),Automatisch (PPPoE),تلقائي (PPPoE)
+Automatic (PPPoE) addresses only,Adresses automatiques uniquement (PPPoE),"Automatisch (PPPoE), nur Adressen",عناوين (PPPoE) تلقائية فقط
+Automatic (VPN),Automatique (VPN),Automatisch (VPN),تلقائي (VPN)
+Automatic (VPN) addresses only,Adresses automatiques uniquement (VPN),"Automatisch (VPN), nur Adressen",عناوين (VPN) تلقائية فقط
+Automatic with manual DNS settings,Automatique avec paramétrage manuel du DNS,Automatisch mit manuellen DNS-Einstellungen,تلقائي مع إعدادات DNS يدوية
+"Automatic, DHCP only","Automatique, DHCP uniquement","Automatisch, nur DHCP","تلقائي, (DHCP)فقط"
+"Automatic, addresses only","Automatique, adresses uniquement","Automatisch, nur Adressen",تلقائي، عناوين فقط
+Available,Disponible,Verfügbar,متاح
+Base Connection,Connexion de base,Zugordnete Verbindung,الاتصال:
+Basic,Basique,Grundlegend,أساسي
+Bluetooth connection %d,Connexion Bluetooth %d,Bluetooth-Verbindung %d,الاتصال السلكي %d
+Bond connection %d,Connexion lien %d,Bond-Verbindung %d,الاتصال السلكي %d
+Bonded connections,Connexions liées,Gebündelte Verbindungen,الاتصال:
+Bridge connection %d,Connexion pont %d,Bridge-Verbindung %d,الاتصال السلكي %d
+Bridged connections,Pont entre connexions,Bridge-Verbindungen,الاتصال:
+Broadcast,Broadcast,Broadcast,عنوان البثّ:
+Broadcast Address,Adresse de broadcast,Broadcast-Adresse,عنوان البثّ
+CDMA,CDMA,CDMA,CDMA
+CDMA (%s),CDMA (%s),CDMA (%s),CDMA (%s)
+CHAP,CHAP,CHAP,CHAP
+CHAP,CHAP,CHAP,CHAP
+Claim interface,Réclamer l’interface,Schnittstelle beanspruchen,الواجهة:
+Cloned MAC address,Adresse MAC clonée,Duplizierte MAC-Adresse,عنوان MAC:
+Connect,Se connecter,Verbinden,اتّصل
+Create…,Créer…,Erstellen …,أُنشئ…
+Cannot export VPN connection,Impossible d’exporter la connexion VPN,Die VPN-Verbindung konnte nicht exportiert werden,لا يمكن تصدير اتصال ال VPN
+Change…,Modifier…,Ändern …,غيّر...
+Choose a Connection Type,Sélectionner un type de connexion,Verbindungstyp wählen,اختر نوع اتصال VPN
+Choose a VPN Connection Type,Sélectionner un type de connexion VPN,VPN-Verbindungstyp wählen,اختر نوع اتصال VPN
+Cloned MAC address,Adresse MAC clonée,Duplizierte MAC-Adresse,عنوان MAC:
+Compression,Compression,Komprimierung,الضغط
+Configure Methods…,Configurer les méthodes…,Methoden konfigurieren …,اضبط الطُُرق…
+Configuring Wi-Fi network connection “%s”…,Configuration de la connexion au réseau Wi-Fi « %s »…,Funknetzwerkverbindung »%s« wird konfiguriert …,يعِدّ اتصال الشبكة السلكية '%s'...
+Configuring ethernet network connection “%s”…,Configuration de la connexion au réseau Ethernet « %s »…,Ethernet-Netzverbindung »%s« wird konfiguriert …,يعِدّ اتصال الشبكة السلكية '%s'...
+Configuring mobile broadband connection “%s”…,Configuration de la connexion mobile « %s »…,Mobile Breitbandverbindung »%s« wird konfiguriert …,يعِدّ اتصال شبكة الهاتف المحمول '%s'...
+Connect automatically with priority,Se connecter automatiquement avec priorité,Automatisch mit Priorität verbinden,اتصل تلقائيا
+Connected,Connecté,Verbunden,اتّصل
+Connection Established,Connexion établie,Verbindung hergestellt,تم الاتصال
+Connection Information,Informations sur la connexion,Verbindungsinformationen,معلومات الاتصال
+Connection Information,Informations sur la connexion,Verbindungsinformationen,معلومات الاتصال
+Connection name,Nom de la connexion,Verbindungsname,اسم الاتصال:
+Connection activation failed,L’activation de la connexion a échoué,Aktivierung der Verbindung fehlgeschlagen,فشل اضافة اتصال
+Connection add failed,L’ajout de la connexion a échoué,Hinzufügen der Verbindung fehlgeschlagen,فشل اضافة اتصال
+Connection cannot be deleted,La connexion ne peut pas être supprimée,Verbindung kann nicht gelöscht werden,فشل اضافة اتصال
+Connection cannot be modified,La connexion ne peut pas être modifiée,Verbindung kann nicht bearbeitet werden,فشل اضافة اتصال
+Connection delete failed,La suppression de la connexion a échoué,Löschen der Verbindung fehlgeschlagen,فشلت إزالة الاتصال
+Connection failure,Échec de la connexion,Verbindung fehlgeschlagen,فشل اضافة اتصال
+Connection had no VPN setting,La connexion n’avait pas de réglage VPN,Die Verbindung hat keine VPN-Einstellungen,معلومات الاتصال
+Connection type not specified.,Le type de connexion n’est pas défini.,Verbindungstyp nicht angegeben.,فشل اضافة اتصال
+Could not create connection,Impossible de créer une connexion,Verbindung konnte nicht erstellt werden,تعذّر إنشاء اتصال جديد
+Could not create new connection,Impossible de créer une nouvelle connexion,Neue Verbindung konnte nicht erstellt werden,تعذّر إنشاء اتصال جديد
+Could not edit connection,Impossible de modifier la connexion,Verbindung konnte nicht bearbeitet werden,تعذّر تعديل الاتصال
+Could not find VPN plugin for “%s”.,Impossible de trouver le greffon VPN pour « %s ».,VPN-Plugin für »%s« konnte nicht gefunden werden.,تعذر ايجاد ملحق خدمة VPN ل  '%s'.
+Could not load 802.1X Security user interface.,Impossible de charger l’interface utilisateur de sécurité 802.1X.,Die Benutzeroberfläche für die 802.1X-Sicherheit konnte nicht geladen werden.,تعذر تحميل الواجهة اللاسلكية الأمنية
+Could not load Bluetooth user interface.,Impossible de charger l’interface utilisateur du Bluetooth.,Die Bluetooth-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load DCB user interface.,Impossible de charger l’interface utilisateur DCB.,Die DCB-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load General user interface.,Impossible de charger l’interface utilisateur principale.,Die allgemeine Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load IP tunnel user interface.,Impossible de charger l’interface utilisateur de tunnel IP.,Die IP-Tunnel-Benutzeroberfläche konnte nicht geladen werden.,لم اتمكن من تحميل الاسلكي الامنية
+Could not load IPv4 user interface.,Impossible de charger l’interface utilisateur IPv4.,Die IPv4-Benutzeroberfläche konnte nicht geladen werden.,لم اتمكن من تحميل الاسلكي الامنية
+Could not load IPv6 user interface.,Impossible de charger l’interface utilisateur IPv6.,Die IPv6-Benutzeroberfläche konnte nicht geladen werden.,تعذّر تحميل واجهة المستخدم لـIPv6
+Could not load InfiniBand user interface.,Impossible de charger l’interface utilisateur InfiniBand.,Die InfiniBand-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل الواجهة اللاسلكية
+Could not load MACsec user interface.,Impossible de charger l’interface utilisateur MACsec.,Die MACsec-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load PPP user interface.,Impossible de charger l’interface utilisateur PPP.,Die PPP-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load VPN user interface.,Impossible de charger l’interface utilisateur VPN.,Die VPN-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة VPN
+Could not load Wi-Fi security user interface.,Impossible de charger l’interface utilisateur de sécurité Wi-Fi.,Die Benutzeroberfläche für die Sicherheit des Funknetzwerks konnte nicht geladen werden.,تعذر تحميل الواجهة اللاسلكية الأمنية
+Could not load Wi-Fi security user interface; missing Wi-Fi setting.,Impossible de charger l’interface utilisateur de sécurité Wi-Fi ; paramètre Wi-Fi manquant.,"Die Benutzeroberfläche für die Sicherheit des Funknetzwerks konnte nicht geladen werden, weil Funknetzwerkeinstellungen fehlen.",تعذر تحميل الاواجهة اللاسلكية؛ إعداد الشبكة اللاسلكية مفقود
+Could not load Wi-Fi user interface.,Impossible de charger l’interface utilisateur Wi-Fi.,Die Benutzeroberfläche für Funknetzwerke konnte nicht geladen werden.,تعذر تحميل الواجهة اللاسلكية
+Could not load WireGuard user interface.,Impossible de charger l'interface utilisateur de WireGuard.,Die WireGuard-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load bond user interface.,Impossible de charger l’interface utilisateur du lien.,Die Bond-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load bridge port user interface.,Impossible de charger l’interface utilisateur du port de pont.,Die Bride-Port-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل الواجهة اللاسلكية
+Could not load bridge user interface.,Impossible de charger l’interface utilisateur du pont.,Die Bridge-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل الواجهة اللاسلكية
+Could not load editor VPN plugin for “%s” (%s).,Impossible de charger le greffon d’édition VPN pour « %s » (%s).,Editor-VPN-Plugin für »%s« konnte nicht gefunden werden (%s).,تعذر ايجاد ملحق خدمة VPN ل  '%s'.
+Could not load ethernet user interface.,Impossible de charger l’interface utilisateur Ethernet.,Die Ethernet-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load mobile broadband user interface.,Impossible de charger l’interface utilisateur de la connexion mobile.,Die Benutzeroberfläche für mobile Breitbandverbindungen konnte nicht geladen werden.,تعذّر تحميل واجهة المستخدم لاتصال المحمول.
+Could not load proxy user interface.,Impossible de charger l’interface utilisateur de proxy.,Die Proxy-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load team port user interface.,Impossible de charger l’interface utilisateur du port d’équipe.,Die Team-Port-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load team user interface.,Impossible de charger l’interface utilisateur de connexion en équipe.,Die Team-Benutzeroberfläche konnte nicht geladen werden.,تعذر تحميل واجهة PPP
+Could not load vlan user interface.,Impossible de charger l’interface utilisateur VLAN.,Die VLAN-Benutzeroberfläche konnte nicht geladen werden.,لم اتمكن من تحميل الاسلكي الامنية
+Create New Wi-Fi Network…,Créer un nouveau réseau Wi-Fi…,Neues Funknetzwerk erstellen …,أنشئ شبكة لاسلكيّة جديدة
+DNS servers,Serveurs DNS,DNS-Server,خواديم DNS:
+DSL authentication,Authentification DSL,DSL-Legitimierung,استيثاق DSL
+DSL connection %d,Connexion DSL %d,DSL-Verbindung %d,اتصال DSL‏ %d
+DHCP client ID,ID de client DHCP,DHCP Client-Kennung,معرف عميل DHCP:
+Default,Par défaut,Vorgabe,المبدئي
+Default,Par défaut,Vorgabe,المبدئي
+Default Route,Route par défaut,Vorgaberoute,السبيل الافتراضي
+Delete the selected connection,Supprime la connexion sélectionnée,Die ausgewählte Verbindung löschen,احذف الاتصال المحدد.
+Device disconnect failed,La déconnexion du périphérique a échoué,Trennen des Gerätes schlug fehl,غير متَّصل
+Device name,Nom du périphérique,Gerätename,الخدمة:
+Disconnect,Se déconnecter,Verbindung trennen,اقطع الاتصال
+Disconnect failure,Échec de la déconnexion,Trennen schlug fehl,غير متّصل
+Disconnected,Déconnecté,Verbindung getrennt,غير متّصل
+Do you want to replace %s with the VPN connection you are saving?,Voulez-vous remplacer %s par la connexion VPN que vous êtes en train d’enregistrer ?,"Möchten Sie %s durch die VPN-Verbindung ersetzen, die Sie gerade speichern?",هل تريد استبدال %s مكان اتصال VPN الذي تحفظه
+Domains used when resolving host names. Use commas to separate multiple domains.,Domaines utilisés lors de la résolution des noms d’hôtes. Utilisez des virgules pour séparer plusieurs domaines.,Beim Auflösen von Rechnernamen verwendete Domänen. Mehrere Domänen werden durch Kommata getrennt.,المجالات تستخدم عند حل اسماءالمضيف . استخدم الفواصل لتفريق المجالات المتعددة.
+Don’t know how to create “%s” connections,La méthode pour créer des connexions « %s » est inconnue,"Es ist unbekannt, wie »%s«-Verbindungen erstellt werden können",لا توجد اتصالات نشطة!
+Don’t know how to import “%s” connections,La méthode pour importer des connexions « %s » est inconnue,"Es ist unbekannt, wie die »%s«-Verbindungen importiert werden können",لا توجد اتصالات نشطة!
+Don’t show this message again,Ne plus afficher ce message,Diesen Hinweis nicht mehr anzeigen,لا تظهر هذه الرسالة مرة أخرى
+Driver,Pilote,Treiber,المُشغّل
+Dynamic WEP,WEP dynamique,Dynamisches WEP,Dynamic WEP
+Dynamic WEP (802.1X),WEP dynamique (802.1X),Dynamisches WEP (802.1X),Dynamic WEP (802.1X)
+EAP,EAP,EAP,EAP
+Edit Connections…,Modifier les connexions…,Verbindungen bearbeiten …,حرر الاتصالات...
+Edit JSON configuration,Éditer la configuration JSON,JSON-Konfiguration bearbeiten,خطأ إعداد VPN
+Edit the selected connection,Modifie la connexion sélectionnée,Die ausgewählte Verbindung bearbeiten,حرّر الاتصال المحدد
+Editing %s,Modification de %s,%s bearbeiten,يحرر %s
+Editing un-named connection,Modification de la connexion anonyme,Unbenannte Verbindung bearbeiten,يحرر اتصالا غير مُسمى
+Editor initializing…,Initialisation de l’éditeur…,Editor wird initialisiert …,خطأ في بدء المحرر
+Enable IGMP snooping,Activer le snooping IGMP,IGMP-Schnüffeln aktivieren,فعّل الاتصال الشبكي
+Enable Notifications,Activer les notifications,Benachrichtigungen aktivieren,فعّل التنبيهات
+Enable Mobile Broadband,Activer la connexion mobile,Mobiles Breitband aktivieren,فعّل شبكة الهاتف المحمول
+Enable Networking,Activer le réseau,Netzwerke aktivieren,فعّل الاتصال الشبكي
+Enable Wi-Fi,Activer le réseau Wi-Fi,Funknetzwerk aktivieren,فعّل اللاسلكي
+Error creating connection,Erreur lors de la création de la connexion,Fehler beim Erstellen der Verbindung,خطأ أثناء عرض معلومات الاتصال:
+Error displaying connection information:,Erreur lors de l’affichage des informations de connexion :,Die Verbindungsinformationen konnten nicht angezeigt werden:,خطأ أثناء عرض معلومات الاتصال:
+Error editing connection,Erreur lors de la modification de la connexion,Fehler beim Bearbeiten der Verbindung,خطأ أثناء عرض معلومات الاتصال:
+Error importing connection,Erreur lors de l’importation de la connexion,Fehler beim Importieren der Verbindung,خطأ أثناء عرض معلومات الاتصال:
+Error initializing editor,Erreur lors de l’initialisation de l’éditeur,Fehler beim Initialisieren des Editors,خطأ في بدء المحرر
+Ethernet,Ethernet,Ethernet,إيثرنت تلقائي
+Ethernet (%s),Ethernet (%s),Ethernet (%s),إيثرنت (%s)
+Ethernet Network,Réseau Ethernet,Ethernet-Netz,شبكة سلكية
+Ethernet Network (%s),Réseau Ethernet (%s),Ethernet-Netz (%s),شبكة سلكية (%s)
+Ethernet Networks,Réseaux Ethernet,Ethernet-Netze,شبكات سلكية
+Ethernet Networks (%s),Réseaux Ethernet (%s),Ethernet-Netze (%s),شبكات سلكية (%s)
+Ethernet connection %d,Connexion Ethernet %d,Ethernet-Verbindung %d,الاتصال السلكي %d
+Ethernet device,Périphérique Ethernet,Ethernet-Gerät,إيثرنت (%s)
+Ethernet network connection “%s” active,Connexion au réseau Ethernet « %s » active,Ethernet-Netzverbindung »%s« ist aktiv,الاتصال الشبكي السلكي '%s' يعمل
+Ethernet port state,État du port Ethernet,Status des Ethernet-Ports,شبكات سلكية
+Export VPN connection…,Exporter la connexion VPN…,VPN-Verbindung exportieren …,صدّر اتصال VPN...
+Extensible Authentication Protocol,Extensible Authentication Protocol,Erweiterbares Legitimierungsprotokoll,برتوكول الاستيثاق الممتد
+Failed to activate connection,L’activation de la connexion a échoué,Aktivierung der Verbindung schlug fehl,لا توجد اتصالات نشطة!
+Failed to add new connection,L’ajout de la nouvelle connexion a échoué,Hinzufügen einer neuen Verbindung schlug fehl,تعذّر تعديل الاتصال الجديد
+Failed to add/activate connection,Échec de l’ajout/création de la connexion,Hinzufügen/Aktivierung der Verbindung schlug fehl,لا توجد اتصالات نشطة!
+Failed to write connection to VPN UI: %s (%d),Échec d’écriture de la connexion vers l’interface VPN : %s (%d),Verbindungsmeldung an die VPN Benutzeroberfläche fehlgeschlagen: %s (%d),لا توجد اتصالات نشطة!
+From the team device,Depuis le périphérique en équipe,Vom Team-Gerät,إيثرنت (%s)
+GSM,GSM,GSM,GSM
+GSM (%s),GSM (%s),GSM (%s),GSM (%s)
+Gateway,Passerelle,Gateway,البوّابة
+General,Général,Allgemein,عام
+HW address,Adresse matérielle,Hardware-Adresse,العنوان
+Hardware,Matériel,Hardware,عنوان العتاد:
+Hardware Address,Adresse matérielle,Hardware-Adresse,عنوان العتاد
+Home network,Réseau domestique,Heimnetzwerk,شبكة منزلية
+Home network (%s),Réseau domestique (%s),Heimnetzwerk (%s),شبكة منزلية (%s)
+IP,IP,IP,IPv4
+IP Address,Adresse IP,IP-Adresse,عنوان IP
+IP addresses identify your computer on the network. Click the “Add” button to add an IP address.,Les adresses IP identifient votre ordinateur sur le réseau. Cliquez sur le bouton « Ajouter » pour ajouter une adresse IP.,"IP-Adressen identifizieren Ihren Rechner im Netzwerk. Klicken Sie auf den Knopf »Hinzufügen«, um eine IP-Adresse hinzuzufügen.","تحدّد عناوين IP هويّة حاسوبك على الشبكة .اضغط زر ""إضافة"" لإضافة  عنوان IP."
+IP addresses identify your computer on the network. Click the “Add” button to add static IP address to be configured in addition to the automatic ones.,Les adresses IP identifient votre ordinateur sur le réseau. Cliquez sur le bouton « Ajouter » pour ajouter une adresse IP statique en plus de celle assignée automatiquement.,"IP-Adressen identifizieren Ihren Rechner im Netzwerk. Klicken Sie auf den Knopf »Hinzufügen«, um eine statische IP-Adresse hinzuzufügen, die zusätzlich zu den automatisch vergebenen Adressen eingerichtet wird.","تحدّد عناوين IP هويّة حاسوبك على الشبكة .اضغط زر ""إضافة"" لإضافة  عنوان IP."
+IP addresses of domain name servers used to resolve host names. Use commas to separate multiple domain name server addresses.,Adresses IP des serveurs DNS utilisées pour la résolution des noms d’hôtes. Utilisez des virgules pour séparer plusieurs adresses DNS.,"IP-Adressen von Domänennamen-Servern, die zum Auflösen von Rechnernamen verwendet werden. Verwenden Sie Kommata zum Trennen mehrerer Server-Adressen.",عناوين IP لخوادم أسماء النطاقات التي تستخدم لمعالجة اسماء المضيفات .استخدم فواصل لتفريق أسماء خوادم أسماء النطاقات.
+IP addresses of domain name servers used to resolve host names. Use commas to separate multiple domain name server addresses. Link-local addresses will be automatically scoped to the connecting interface.,Adresses IP des serveurs DNS utilisées pour la résolution des noms d’hôtes. Utilisez des virgules pour séparer plusieurs adresses DNS. Les adresses de lien local seront automatiquement liées à l’interface de connexion.,"IP-Adressen von Domänennamen-Servern, die zum Auflösen von Rechnernamen verwendet werden. Verwenden Sie Kommata zum Trennen mehrerer Server-Adressen. Link-lokal-Adressen werden automatisch zur entsprechenden Schnittstelle weitergeleitet.",عناوين IP لخوادم أسماء النطاقات التي تستخدم لمعالجة اسماء المضيفات .استخدم فواصل لتفريق أسماء خوادم أسماء النطاقات.
+IP tunnel connection %d,Connexion tunnel IP %d,IP-Tunnel-Verbindung %d,الاتصال السلكي %d
+IPv4,IPv4,IPv4,IPv4
+IPv4 Settings,Paramètres IPv4,IPv4-Einstellungen,إعدادات IPv4
+IPv6,IPv6,IPv6,IPv6
+IPv6 Settings,Paramètres IPv6,IPv6-Einstellungen,إعدادات IPv6
+"If enabled, this connection will never be used as the default network connection.","Si activé, cette connexion ne sera jamais utilisée comme connexion réseau par défaut.","Falls aktiviert, wird diese Verbindung niemals als Standard-Netzwerkverbindung verwendet.","اذا ممكّن ,هذا الاتصال لن يتم استخدامة ابدا كاتصال مبدئي."
+Ignore,Ignorer,Ignorieren,متروك
+Import a saved VPN configuration…,Importer une configuration VPN enregistrée…,Gespeicherte VPN-Konfiguration importieren …,صدّر اتصال VPN...
+InfiniBand connection %d,Connexion InfiniBand %d,InfiniBand-Verbindung %d,الاتصال السلكي %d
+Interface,Interface,Schnittstelle,الواجهة
+LACP port key,Clé de port LACP,LACP-Port-Schlüssel,المفتاح السري:
+LEAP,LEAP,LEAP,LEAP
+Last Used,Dernière utilisation,Zuletzt verwendet,آخر استخدام
+Link-Local,Lien-local,Link-Local,ربط-محلي
+MAC address,Adresse MAC,MAC-Adresse,العنوان
+MACSEC connection %d,Connexion MACSEC %d,MACSEC-Verbindung %d,الإتّصال بالـ VPN '%s'
+MSCHAP,MSCHAP,MSCHAP,MSCHAP
+MSCHAP v2,MSCHAP v2,MSCHAP v2,MSCHAP v2
+MSCHAPv2,MSCHAPv2,MSCHAPv2,MSCHAPv2
+MTU,MTU,MTU,MTU:
+Manage and change your network connection settings,Gérer et modifier les paramètres des connexions réseau,Verwaltung von Einstellungen für Netzwerkverbindungen,أدِر وغيّر إعدادات الاتصالات الشبكية
+Manage your network connections,Gérer vos connexions réseau,Verwaltung der Netzwerkverbindungen,إدارة اتصالات الشبكة
+Manual,Manuel,Manuell,يدويا
+Method,Méthode,Methode,الطريقة:
+Missing connection name,Nom de la connexion manquant,Fehlender Verbindungsname,اسم الاتصال:
+Missing resources,Ressources manquantes,Fehlende Ressourcen,موارد ناقصة
+Mobile Broadband,Connexion mobile,Mobiles Breitband,شبكة هاتف محمول
+Mobile Broadband (%s),Connexion mobile (%s),Mobiles Breitband (%s),شبكة هاتف محمول (%s)
+Mobile Broadband network.,Réseau mobile.,Mobiles Breitbandnetzwerk.,كلمة سر شبكة الهاتف المحمول
+Mobile broadband connection “%s” active,Connexion mobile « %s » active,Mobile Breitbandverbindung »%s« ist aktiv,اتصال شبكة الهاتف المحمول '%s' يعمل
+Mobile broadband connection “%s” active: (%d%%%s%s),Connexion mobile « %s » active : (%d %%%s%s),Mobile Breitbandverbindung »%s« ist aktiv: (%d%%%s%s),اتصال شبكة الهاتف المحمول '%s' يعمل: (%d%%%s%s)
+Mobile broadband network password,Mot de passe du réseau mobile,Passwort der mobilen Breitbandverbindung,كلمة سر شبكة الهاتف المحمول
+More addresses,Plus d’adresses,Weitere Adressen,العناوين
+"My provider uses CDMA-based technology (i.e. 1xRTT, EVDO)","Mon fournisseur utilise une technologie de type CDMA (1xRTT, EVOD, etc.)","Mein Dienstanbieter verwendet CDMA-basierte Technologien (z.B. 1xRTT, EVDO)",مقدم الخدمة يستخدم تقنية CDMA (‏1xRTT، EVDO)
+"My provider uses GSM-based technology (i.e. GPRS, EDGE, UMTS, HSDPA)","Mon fournisseur utilise une technologie de type GSM (GPRS, EDGE, UMTS, HSDPA, etc.)","Mein Dienstanbieter verwendet GSM-basierte Technologien (z.B. GPRS, EDGE, UMTS, HSDPA)",مقدم الخدمة يستخدم تقنية GSM‏ (GPRS، EDGE، UMTS، HSDPA)
+Network ID,Identifiant réseau,Netzwerkkennung,معرف الشبكة:
+Name,Nom,Name,الاسم
+Netmask,Masque de réseau,Netzmaske,قناع الشبكة
+Network,Réseau,Netzwerk,شبكة
+Network Connections,Connexions réseau,Netzwerkverbindungen,الاتصالات الشبكية
+Network connection “%s” active,Connexion réseau « %s » active,Netzwerkverbindung »%s« ist aktiv,الاتصال الشبكي '%s' يعمل
+NetworkManager,NetworkManager,NetworkManager,مدير الشبكة
+NetworkManager Applet,Applet NetworkManager,Netzwerk-Manager-Applet,بريمج مدير الشبكة
+NetworkManager Website,Site web de NetworkManager,Netzwerk-Manager-Website,موقع مدير الشبكة
+NetworkManager connection editor,Éditeur de connexion NetworkManager,Netzwerkverwaltung-Verbindungseditor,لا يوجد اتصال شبكي
+NetworkManager is not running…,NetworkManager n’est pas lancé…,Der Netzwerk-Manager läuft zur Zeit nicht …,مدير الشبكة لا يعمل
+Networking disabled,Réseau désactivé,Netzwerke deaktiviert,الشبكات معطلة
+New Mobile Broadband connection…,Nouvelle connexion mobile…,Neue mobile Breitbandverbindung …,اتصال شبكة هاتف محمول جديد...
+New PIN code:,Nouveau code PIN :,Neuer PIN-Code:,رمز PIN جديد:
+New connection…,Nouvelle connexion…,Neue Verbindung …,لا يوجد اتصال شبكي
+No,Non,Nein,بدون
+No network connection,Aucune connexion réseau,Keine Netzwerkverbindung,لا يوجد اتصال شبكي
+No network devices available,Aucun périphérique réseau disponible,Es sind keine Netzwerkgeräte verfügbar,لا تتوفر أي أجهزة شبكة.
+No valid active connections found!,Aucune connexion valide active trouvée !,Keine aktiven Netzwerkverbindungen gefunden!,لا توجد اتصالات نشطة سليمة!
+None,Aucune,Keine,بدون
+Notification area applet for managing your network devices and connections.,Une zone de notification pour gérer vos périphériques réseaux et vos connexions.,"Ein Applet für das Benachrichtigungsfeld, mit dem Sie Ihre Netzwerkgeräte und Netzwerkverbindungen verwalten können.",بريمج منطقة التبليغ لإدارة الأجهزة الشبكية والاتصالات.
+Number,Nombre,Nummer,الرقم:
+PAP,PAP,PAP,PAP
+PIN code is needed for the mobile broadband device,Le code PIN est nécessaire pour la connexion mobile,Für das mobile Breitbandgerät ist ein PIN-Code erforderlich,رمز PIN مطلوب لجهاز شبكة الهاتف المحمول
+PIN code required,Code PIN requis,PIN-Code erforderlich,رمز PIN مطلوب
+PIN code:,Code PIN :,PIN-Code:,رمز PIN:
+PPP Settings,Paramètres PPP,PPP-Einstellungen,إعدادات PPP
+PPP interface,Interface PPP,PPP-Schnittstelle,الواجهة
+PUK code:,Code PUK :,PUK-Code:,رمز PUK:
+Parent interface,Interface parente,Übergeordnete Schnittstelle,الواجهة:
+Parent device,Périphérique parent,Übergeordnetes Gerät,إيثرنت (%s)
+Password,Mot de passe,Passwort,كلمة السر:
+Password Authentication Protocol,Password Authentication Protocol,Passwort-Legitimierungsprotokoll,برتوكول الاستيثاق بكلمة السر
+Password:,Mot de passe :,Passwort:,كلمة السر:
+Port priority,Priorité du port,Port-Priorität,الأمن:
+Preshared key,Clé prépartagée,Gemeinsamer Schlüssel,المفتاح المشروك
+Preparing Wi-Fi network connection “%s”…,Préparation de la connexion réseau Wi-Fi « %s »…,Funknetzwerkverbindung »%s« wird vorbereitet …,يجهز الاتصال الشبكي '%s'...
+Preparing ethernet network connection “%s”…,Préparation de la connexion au réseau Ethernet « %s »…,Ethernet-Netzverbindung »%s« wird vorbereitet …,يجهز اتصال الشبكة السلكية '%s'...
+Preparing mobile broadband connection “%s”…,Préparation de la connexion mobile « %s »…,Mobile Breitbandverbindung »%s« wird vorbereitet …,يجهز اتصال شبكة الهاتف المحمول '%s'...
+Preparing network connection “%s”…,Préparation de la connexion réseau « %s »…,Netzwerkverbindung »%s« wird vorbereitet …,يجهز الاتصال الشبكي '%s'...
+Primary DNS,DNS Principal,Primärer DNS,‏DNS الأوّلي:
+Private key,Cléprivée,Geheimer Schlüssel,المفتاح السري:
+Raw Configuration,Configuration brute,Rohkonfiguration,خطأ إعداد VPN
+Re-enter new PIN code:,Ressaisissez le nouveau code PIN :,Geben Sie den neuen PIN-Code erneut ein:,أعد إدخال رمز PIN الجديد:
+Relabel,Ré-étiqueter,Neu markieren,العنوان
+Requesting a VPN address for “%s”…,Obtention d’une adresse VPN pour « %s »…,Anforderung einer VPN-Adresse für »%s« …,يطلب عنوان شبكي VPN ل‍ '%s'...
+Requesting a Wi-Fi network address for “%s”…,Obtention d’une adresse réseau Wi-Fi pour « %s »…,Funknetzwerkadresse für »%s« wird angefordert …,يطلب عنوان شبكي ل‍ '%s'...
+Requesting a network address for “%s”…,Obtention d’une adresse réseau pour « %s »…,Netzwerkadresse für »%s« wird angefordert …,يطلب عنوان شبكي ل‍ '%s'...
+Requesting an ethernet network address for “%s”…,Obtention d’une adresse de réseau Ethernet pour « %s »…,Netzwerkadresse für Ethernet-Netz »%s« wird angefordert …,يطلب عنوان شبكي سلكي ل‍ '%s'...
+Require IPv4 addressing for this connection to complete,Requiert un adressage IPv4 pour que cette connexion fonctionne,IPv4-Adressierung zur Fertigstellung dieser Verbindung erforderlich,اطلب اتصالاً بعنوان ipv4 لكي يتم هذا الاتصال
+Require IPv6 addressing for this connection to complete,Requiert un adressage IPv6 pour que cette connexion fonctionne,IPv6-Adressierung zur Fertigstellung dieser Verbindung erforderlich,اطلب اتصالاً بعنوان ipv4 لكي يتم هذا الاتصال
+Roaming network,Réseau itinérant,Roaming-Netzwerk,شبكة تجوال
+Roaming network (%s),Réseau itinérant (%s),Roaming-Netzwerk (%s),شبكة تجوال (%s)
+SIM PIN Unlock Required,Déverrouillage SIM PIN requis,Entsperren der SIM-Karte mittels PIN-Code erforderlich,بحاجة لفتح PIN بطاقة الهاتف
+SIM PIN unlock required,Déverrouillage SIM PIN requis,Entsperren der SIM-Karte mittels PIN-Code erforderlich,بحاجة لفتح PIN بطاقة الهاتف
+SIM PUK Unlock Required,Déverrouillage SIM PUK requis,Entsperren der SIM-Karte mittels PUK-Code erforderlich,بحاجة لفتح PUK بطاقة الهاتف
+SIM PUK unlock required,Déverrouillage SIM PUK requis,Entsperren der SIM-Karte mittels PUK-Code erforderlich,بحاجة لفتح PUK بطاقة الهاتف
+Search domains,Domaines de recherche,Suchdomänen,نطاقات البحث:
+Security,Sécurité,Sicherheit,الأمن:
+Save any changes made to this connection.,Enregistrer toute modification apportée à cette connexion.,Alle Änderungen an dieser Verbindung speichern.,احفظ كلّ التغييرات التي تم عملها لهذا الاتصال .
+Secondary DNS,DNS Secondaire,Sekundärer DNS,‏DNS الثّانوي:
+Security,Sécurité,Sicherheit,الأمن:
+Select Mobile Broadband Provider Type,Sélection du type de fournisseur de connexion mobile,Typ des mobilen Breitbandanbieters auswählen,اختر مزود خدمة اتصالات المحمول
+Select a connection to delete,Choisissez une connexion à supprimer,Wählen Sie eine Verbindung zum Löschen,الاتصال السلكي %d
+Select a connection to edit,Choisissez une connexion à modifier,Wählen Sie eine Verbindung zum Bearbeiten,الاتصال السلكي %d
+Select file to import,Sélectionnez le fichier à importer,Datei zum Import auswählen,اختر ملفا لاستيراده
+"Select the technology your mobile broadband provider uses. If you are unsure, ask your provider.","Sélectionnez la technologie utilisée par votre fournisseur de connexion mobile. En cas de doute, interrogez votre fournisseur.",Wählen Sie die von Ihrem mobilen Breitbandanbieter verwendete Technologie. Im Zweifelsfall fragen Sie bei Ihrem Dienstanbieter nach.,"اختر نوع اتصال المحمول الذي يقدمه مزودك. اذا لم تكن متأكدا, اسأل مزود الخدمة.الخدمة."
+"Select the type of VPN you wish to use for the new connection. If the type of VPN connection you wish to create does not appear in the list, you may not have the correct VPN plugin installed.","Sélectionnez le type de VPN que vous souhaitez utiliser pour cette nouvelle connexion. Si le type de connexion VPN n’apparaît pas dans la liste, il est possible que vous n’ayez pas le bon greffon VPN installé.","Wählen Sie den VPN-Typ, den Sie für die neue Verbindung verwenden möchten. Wenn der Typ der VPN-Verbindung, die Sie erstellen möchten, nicht in der Liste erscheint, haben Sie möglicherweise nicht das richtige VPN-Plugin installiert.",اختر نوع اتصال VPN المراد استخدامه للأتصال الجديد.اذا لم يضهر نوع اتصال VPN الذي ترغب في تكوينة في القائمة، فقد يعني هذا أنّ ملحق VPN الذي تحتاجه غير مثبّت.
+"Select the type of connection you wish to create.
+
+If you are creating a VPN, and the VPN connection you wish to create does not appear in the list, you may not have the correct VPN plugin installed.","Sélectionnez le type de connexion que vous souhaitez créer.
+
+Si vous créez un VPN et qu’il n’apparaît pas dans la liste, il se peut que vous n’ayez pas le bon greffon VPN installé.","Wählen Sie den Typ, den Sie für die neue Verbindung verwenden möchten. Falls Sie ein VPN erstellen möchten und die gewünschte VPN-Verbindung nicht in der Liste erscheint, haben Sie möglicherweise nicht das richtige VPN-Plugin installiert.",اختر نوع اتصال VPN المراد استخدامه للأتصال الجديد.اذا لم يضهر نوع اتصال VPN الذي ترغب في تكوينة في القائمة، فقد يعني هذا أنّ ملحق VPN الذي تحتاجه غير مثبّت.
+Send interval,Intervalle d’émission,Sendeintervall,الواجهة:
+Sending unlock code…,Envoi du code de déverrouillage…,Code zum Entsperren wird gesendet …,يرسل رمز الفتح...
+Shared to other computers,Partagé avec d’autres ordinateurs,Gemeinsam mit anderen Rechnern,مشارك مع أجهزة أخرى
+Show password,Afficher le mot de passe,Passwort anzeigen,أظهر كلمة السر
+Show passwords,Afficher les mots de passe,Passwörter anzeigen,أظهر كلمات السر
+Show preshared key,Afficher clé pré-partagée,Gemeinsame Schlüssel anzeigen,أظهر المفتاح
+Show PIN code,Afficher le code PIN,PIN-Code anzeigen,أظهر رمز PIN
+Show PIN/PUK codes,Afficher les codes PIN/PUK,PIN/PUK-Codes anzeigen,أظهر رمز PIN/PUK
+Speed,Vitesse,Geschwindigkeit,السرعة
+Starting VPN connection “%s”…,Démarrage de la connexion VPN « %s »…,VPN-Verbindung »%s« wird gestartet …,يبدأ اتصال VPN‏ '%s'...
+Subnet Mask,Masque de sous-réseau,Subnetz-Maske,قناع الشبكة الفرعية
+TCP,TCP,TCP,GTC
+Team connection %d,Connexion en équipe %d,Team-Verbindung %d,الاتصال السلكي %d
+Tertiary DNS,DNS Tertiaire,Tertiärer DNS,‏DNS الثالثي:
+The NetworkManager Applet could not find some required resources (the .ui file was not found).,L’applet NetworkManager n’a pas pu trouver les ressources requises (le fichier .ui n’a pas été trouvé).,Das Netzwerk-Manager-Applet konnte benötigte Ressourcen nicht finden (Die .ui-Datei wurde nicht gefunden).,لم يستطع بريمج مدير الشبكة إيجاد بعض المصادر المطلوبة (the .ui file was not found).
+The NetworkManager Developers,Les développeurs de NetworkManager,Die NetworkManager-Entwickler,بريمج مدير الشبكة
+"The VPN connection “%s” could not be exported to %s.
+
+Error: %s.","La connexion VPN « %s » ne peut pas être exportée vers %s.
+
+Erreur : %s.","Die VPN-Verbindung »%s« konnte nicht nach %s exportiert werden.
+
+Fehler: %s.",اتصال VPN %s لا يمكن تصديره الى %s. الخطأ:%s.
+The VPN connection “%s” disconnected because the network connection was interrupted.,La connexion VPN « %s » a été déconnectée car la connexion réseau a été interrompue.,"Die VPN-Verbindung »%s« wurde getrennt, weil die Netzwerkverbindung getrennt wurde.",فُصِل اتصال VPN ‏'%s' لأن الاتصال الشبكي قُوطِعَ.
+The VPN connection “%s” failed because of invalid VPN secrets.,La connexion VPN « %s » a échoué en raison de secrets VPN non valides.,"Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil VPN-Geheimnisse ungültig sind.",فشل اتصال VPN ‏'%s' بسبب أسرار VPN غير سليمة.
+The VPN connection “%s” failed because the VPN service did not start in time.,La connexion VPN « %s » a échoué car le service VPN n’a pas démarré à temps.,"Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil der VPN-Dienst nicht in der vorgesehenen Zeit gestartet wurde.",فشل اتصال VPN ‏'%s' لأن خدمة VPN لم تبدأ في الوقت المحدد.
+The VPN connection “%s” failed because the VPN service failed to start.,La connexion VPN « %s » a échoué car le démarrage du service VPN a échoué.,"Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil der Start des VPN-Dienstes fehlgeschlagen ist.",فشل اتصال VPN ‏'%s' لأن خدمة VPN فشلت في البدء.
+"The VPN connection “%s” failed because the VPN service failed to start.
+
+%s","La connexion VPN « %s » a échoué car le démarrage du service VPN a échoué.
+
+%s","Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil das Starten des VPN-Dienstes fehlgeschlagen ist.
+
+%s","فشل اتصال VPN ‏'%s' لأن خدمة VPN فشلت في البدء.
+
+%s"
+The VPN connection “%s” failed because the VPN service returned invalid configuration.,La connexion VPN « %s » a échoué car le service VPN a renvoyé une configuration invalide.,"Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil der VPN-Server keine geeignete Netzwerkkonfiguration lieferte.",فشل اتصال VPN ‏'%s' لأن خدمة أعادت إعدادا غير سليم.
+The VPN connection “%s” failed because the VPN service stopped unexpectedly.,La connexion VPN « %s » a échoué car le service VPN a été arrêté de manière inattendue.,"Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil der VPN-Dienst unerwartet beendet wurde.",فشل اتصال VPN ‏'%s' لأن خدمة VPN توفقت فجأة.
+The VPN connection “%s” failed because the connection attempt timed out.,La connexion VPN « %s » a échoué car le délai de connexion est dépassé.,"Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil die Netzwerkverbindung eine Zeitüberschreitung verursacht hat.",فشل اتصال VPN ‏'%s' لانتهاء مهلة محاولة الاتصال.
+The VPN connection “%s” failed because the network connection was interrupted.,La connexion VPN « %s » a échoué car la connexion réseau a été interrompue.,"Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil die Netzwerkverbindung getrennt wurde.",فشل اتصال VPN ‏'%s' لأن الاتصال الشبكي قُوطِعَ.
+The VPN connection “%s” failed because there were no valid VPN secrets.,La connexion VPN « %s » a échoué car il n’y avait pas de secret VPN valide.,"Die VPN-Verbindung »%s« konnte nicht hergestellt werden, weil keine gültigen VPN-Geheimnisse vorliegen.",فشل اتصال VPN ‏'%s' لعدم وجود أسرار VPN سليمة.
+"The VPN connection “%s” failed to start.
+
+%s","Le démarrage de la connexion VPN « %s » a échoué.
+
+%s","Das Starten der VPN-Verbindung »%s« ist fehlgeschlagen.
+
+%s","فشل اتصال VPN ‏'%s' في البدء.
+
+%s"
+The VPN connection “%s” failed.,La connexion VPN « %s » a échoué.,Die VPN-Verbindung »%s« konnte nicht hergestellt werden.,فشل اتصال VPN ‏'%s'.
+The VPN plugin failed to import the VPN connection correctly:,Le greffon VPN n’a pas réussi à importer correctement la connexion VPN :,Das VPN-Plugin konnte die VPN-Verbindung nicht richtig importieren:,"فشل ملحق اتصال VPN في استيراد اتصال VPN بشكل صحيح
+
+الخطأ:لم يحدد نوع خدمة VPN"
+The connection editor could not find some required resources (the .ui file was not found).,L’éditeur de connexion n’a pas pu trouver les ressources requises (le fichier .ui n’a pas été trouvé).,Der Verbindungseditor konnte benötigte Ressourcen nicht finden (Die .ui-Datei wurde nicht gefunden).,بعض الموارد اللازمة غائبة (ملف glade)!
+The connection editor dialog could not be initialized due to an unknown error.,La fenêtre d’édition de connexion n’a pas pu être initialisée en raison d’une erreur inconnue.,Der Verbindungseditor kann wegen eines unbekannten Fehlers nicht initialisiert werden.,تعذّر تشغيل واجهة محرر الاتصال بسبب خطأ مجهول.
+The mobile broadband device “%s” requires a SIM PIN code before it can be used.,La connexion mobile « %s » a besoin d’un code SIM PIN pour pouvoir être utilisé.,Das mobile Breitband-Gerät »%s« erfordert vor Verwendung eine SIM-PIN-Nummer.,يحتاج جهاز الاتصال بشبكة المحمول '%s' لرمز PIN للشريحة قبل استخدامه.
+The mobile broadband device “%s” requires a SIM PUK code before it can be used.,La connexion mobile « %s » a besoin d’un code SIM PUK pour pouvoir être utilisé.,Das mobile Breitband-Gerät »%s« erfordert vor Verwendung einen SIM-PUK-Code.,يحتاج جهاز الاتصال بشبكة المحمول '%s' لرمز PUK للشريحة قبل استخدامه.
+The network connection has been disconnected.,La connexion réseau a été déconnectée.,Die Netzwerkverbindung wurde getrennt.,انقطع اتصال الشبكة.
+This program is a component of NetworkManager (https://networkmanager.dev).,Ce programme fait partie de NetworkManager (https://networkmanager.dev).,Dieses Programm ist eine Komponente von NetworkManager (https://networkmanager.dev).,هذا البرنامج احد مكونات مدير الشبكة (https://wiki.gnome.org/Projects/NetworkManager/).
+Unknown,Inconnue,Unbekannt,مجهول
+Unknown error,Erreur inconnue,Unbekannter Fehler,مجهول
+Unknown error creating connection editor dialog.,Erreur inconnue lors de la création de la fenêtre d’édition de connexion.,Unbekannter Fehler beim Erstellen des Dialoges zur Bearbeitung der Verbindung.,خطأ عرض معلومات الاتصال:
+Unrecognized connection type,Type de connexion non reconnu,Unerkannter Verbindungstyp,نوع اتصال المحمول غير مدعوم.
+Unsupported mobile broadband connection type.,Type de connexion mobile non pris en charge.,Typ der mobilen Breitbandverbindung wird nicht unterstützt.,نوع اتصال المحمول غير مدعوم.
+Usage:,Utilisation :,Aufruf:,الاستخدام:
+Use the network menu to connect to a Wi-Fi network,Utilisez le menu réseau pour vous connecter à un réseau Wi-Fi,"Verwenden Sie das Netzwerkmenü, um sich mit einem Funknetzwerk zu verbinden",استخدم قائمة الشبكة للاتصال بشبكة لاسلكية
+User authentication required for VPN connection “%s”…,Authentification nécessaire pour la connexion VPN « %s »…,Benutzerlegitimierung für VPN-Verbindung »%s« ist erforderlich …,الاستيثاق من المستخدم مطلوب لاتصال VPN‏ '%s'...
+User authentication required for Wi-Fi network “%s”…,Authentification nécessaire pour le réseau Wi-Fi « %s »…,Benutzerlegitimierung für Funknetzwerk »%s« ist erforderlich …,الاستيثاق من المستخدم مطلوب للاتصال بالشبكة اللاسلكية '%s'...
+User authentication required for ethernet network connection “%s”…,Authentification nécessaire pour la connexion au réseau Ethernet « %s »…,Benutzerlegitimierung für Ethernet-Netzverbindung »%s« ist erforderlich …,الاستيثاق من المستخدم مطلوب للاتصال بالشبكة السلكية '%s'...
+User authentication required for mobile broadband connection “%s”…,Authentification personnelle nécessaire pour la connexion mobile « %s »…,Benutzerlegitimierung für mobile Breitbandverbindung »%s« ist erforderlich …,الاستيثاق من المستخدم مطلوب للاتصال بشبكة الهاتف المحمول '%s'...
+User authentication required for network connection “%s”…,Authentification nécessaire pour la connexion réseau « %s »…,Benutzerlegitimierung für Netzwerkverbindung »%s« ist erforderlich …,الاستيثاق من المستخدم مطلوب للاتصال بالشبكة '%s'...
+VLAN connection %d,Connexion VLAN %d,VLAN-Verbindung %d,اتصال VPN‏ %d
+VLAN interface name,Nom de l’interface VLAN,Name der VLAN-Schnittstelle,الواجهة:
+VPN,VPN,VPN,VPN
+VPN Connection Failed,La connexion VPN a échoué,VPN-Verbindung fehlgeschlagen,فشل اتصال VPN
+VPN Gateway,Passerelle pour le VPN,VPN-Gateway,البوّابة
+VPN Login Message,Message d’identification VPN,VPN-Anmeldemitteilung,رسالة التسجيل في VPN
+VPN Type,Type de VPN,VPN-Typ,النوع:
+VPN Username,Nom d’utilisateur pour le VPN,VPN-Benutzername,اسم المستخدم:
+VPN connection %d,Connexion VPN %d,VPN-Verbindung %d,اتصال VPN‏ %d
+VPN connection active,Connexion VPN active,VPN-Verbindung ist aktiv,الاتصال الشبكي VPN‏ '%s' يعمل
+WEP,WEP,WEP,WEP
+WEP 128-bit Passphrase,WEP 128-bit à phrase secrète,WEP 128-Bit-Passphrase,عبارة سر WEP 128-bit
+WEP 40/128-bit Key (Hex or ASCII),Clé WEP 40/128-bit (Hex ou ASCII),WEP 40/128-Bit-Schlüssel (Hexadezimal oder ASCII),مفتاح WEP 40/128-bit
+WPA/WPA2,WPA/WPA2,WPA/WPA2,WPA/WPA2
+WPA/WPA2 Enterprise,WPA et WPA2 entreprise,WPA/WPA2 Enterprise,‏WPA و WPA2 للشركات
+WPA/WPA2/WPA3,WPA/WPA2,WPA/WPA2/WPA3,WPA/WPA2
+WPA/WPA2/WPA3 Personal,WPA et WPA2 personnel,WPA/WPA2/WPA3 Personal,‏WPA و WPA2 شخصي
+WPA3 Personal,WPA3 personnel,WPA3 Personal,‏WPA و WPA2 شخصي
+Wake on LAN,Wake on LAN,Aufwecken über LAN,كلمة سر المفتاح السري:
+Wi-Fi Network (%s),Réseau Wi-Fi (%s),Funknetzwerk (%s),شبكة سلكية (%s)
+Wi-Fi Networks (%s),Réseaux Wi-Fi (%s),Funknetzwerke (%s),شبكات سلكية (%s)
+Wi-Fi Networks Available,Réseaux Wi-Fi disponibles,Funknetzwerke sind verfügbar,الشبكات اللاسلكية المتاحة
+Wi-Fi Security,Sécurité Wi-Fi,Sicherheit des Funknetzwerks,أمن اللاسلكي
+Wi-Fi connection %d,Connexion Wi-Fi %d,Funknetzwerkverbindung %d,الاتصال السلكي %d
+Wi-Fi device,Périphérique Wi-Fi,WLAN-Gerät,أي جهاز
+Wi-Fi is disabled,le Wi-Fi est désactivé,Funknetzwerk ist deaktiviert,شبكة WiMAX معطلة
+Wi-Fi is disabled by hardware switch,le Wi-Fi est désactivé par un commutateur matériel,Funknetzwerk wurde durch Schalter deaktiviert,شبكة WiMAX مغلقة بمفتاح في العتاد
+Wi-Fi network connection “%s” active,Connexion au réseau Wi-Fi « %s » active,Funknetzwerkverbindung »%s« ist aktiv,الاتصال الشبكي السلكي '%s' يعمل
+Wi-Fi network connection “%s” active: %s (%d%%),Connexion au réseau Wi-Fi « %s » active : %s (%d %%),Funknetzwerkverbindung mit »%s« ist aktiv: %s (%d%%),الاتصال الشبكي اللاسلكي '%s' يعمل: %s‏ (%d%%)
+WireGuard,WireGuard,WireGuard,سلكي
+WireGuard connection %d,Connexion WireGuard %d,WireGuard-Verbindung %d,الاتصال اللاسلكي %d
+Wrong PIN code; please contact your provider.,Code PIN erroné ; contactez votre fournisseur.,Falscher PIN-Code. Bitte kontaktieren Sie Ihren Dienstanbieter.,رمز PIN خطأ، راجع مزود الخدمة.
+Wrong PUK code; please contact your provider.,Code PUK erroné ; contactez votre fournisseur.,Falscher PUK-Code. Bitte kontaktieren Sie Ihren Dienstanbieter.,رمز PUK خطأ، راجع مزود الخدمة.
+You are now connected to the Mobile Broadband network.,Vous êtes maintenant connecté au réseau mobile.,Sie sind nun mit dem mobilen Breitbandnetzwerk verbunden.,أنت متصل الآن بشبكة الهاتف المحمول.
+You are now connected to the Wi-Fi network “%s”.,Vous êtes maintenant connecté au réseau Wi-Fi « %s ».,Sie sind nun mit dem Funknetzwerk »%s« verbunden.,أنت متصل الآن بالشبكة اللاسلكية '%s'.
+You are now connected to the ethernet network.,Vous êtes maintenant connecté au réseau Ethernet.,Sie sind nun mit dem Ethernet-Netzwerk verbunden.,أنت متصل الآن بالشبكة السلكية.
+You are now connected to the mobile broadband network.,Vous êtes maintenant connecté au réseau mobile.,Sie sind nun mit dem mobilen Breitbandnetzwerk verbunden.,أنت متصل الآن بشبكة الهاتف المحمول.
+You are now connected to “%s”.,Vous êtes maintenant connecté à « %s ».,Sie sind nun mit »%s« verbunden.,أنت متصل الآن ب‍ '%s'.
+You are now registered on a roaming network.,Vous êtes maintenant enregistré sur un réseau itinérant.,Sie sind nun in einem Roaming-Netzwerk angemeldet.,أنت الآن مسجل بشبكة التجوال.
+You are now registered on the home network.,Vous êtes maintenant enregistré sur le réseau domestique.,Sie sind nun im Heimnetzwerk angemeldet.,أنت الآن مسجل بشبكة الوطن.
+APN,APN,APN (Zugangspunkt),APN:
+About,À propos,Info,عن
+Add a VPN connection…,Ajouter une connexion VPN…,Eine VPN-Verbindung hinzufügen …,اتّصالات VPN
+Apply,Appliquer,Übernehmen,طبّق
+Available networks,Réseaux disponibles,Verfügbare Netzwerke,متاح لكل المستخدمين
+Broadcast,Broadcast,Broadcast,عنوان البثّ:
+Configure VPN…,Configurer le VPN…,VPN konfigurieren …,اضبط VPN...
+Connect to Hidden Wi-Fi Network…,Se connecter à un réseau Wi-Fi invisible…,Mit einem verborgenen Funknetzwerk verbinden …,اتصل بشبكة لاسلكية مخفية
+Delete,Supprimer,Löschen,احذف
+Device,Périphérique,Gerät,الخدمة:
+Device name,Nom du périphérique,Gerätename,الخدمة:
+Dial-Up Network,Réseau par ligne commutée,Einwahlverbindung,شبكة لاسلكية
+EAP,EAP,EAP,EAP
+Edit,Modifier,Bearbeiten,حرّر
+Export…,Exporter…,Exportieren …,صدّر
+Hardware Address,Adresse matérielle,Hardware-Adresse,عنوان العتاد:
+Hardware address policy,Règle d’adresse matérielle,Richtlinie der Hardware-Adresse,عنوان العتاد:
+Ignore,Ignorer,Ignorieren,متروك
+Interface name,Nom de l’interface,Name der Schnittstelle,الواجهة:
+LACP port priority,Priorité de port LACP,LACP-Port-Priorität,الأمن:
+MSCHAP,MSCHAP,MSCHAP,MSCHAP
+Metered connection,Connexions limitées,Kostenpflichtige Verbindung,الاتصال:
+Method,Méthode,Methode,الطريقة:
+Network name,Nom du réseau,Netzwerkname,اسم الشبكة:
+New Connection,Nouvelle connexion,Neue Verbindung,اتّصالات VPN
+PAP,PAP,PAP,PAP
+Parent device,Périphérique parent,Übergeordnetes Gerät,إيثرنت (%s)
+Parent interface,Interface parente,Übergeordnete Schnittstelle,الواجهة:
+Password,Mot de passe,Passwort,كلمة السر:
+Personal Area Network,Réseau de zone personnel,Privates Netzwerk,الولوج إلى الشبكة
+Port,Port,Port,المنفذ:
+Port priority,Priorité du port,Port-Priorität,الأمن:
+Primary,Principal,Primär,‏DNS الأوّلي:
+Priority,Priorité,Priorität,الأمن:
+Relabel,Ré-étiqueter,Neu markieren,العنوان
+Replace,Remplacer,Ersetzen,استبدل
+Require 128-bit encryption,Nécessite un chiffrement 128 bits,128-Bit-Verschlüsselung anfordern,تطلب تعمية 128-بتة
+Routes…,Routes…,Routen …,الطُرق…
+SCI port,Port SCI,SCI-Port,استورد
+Save,Enregistrer,Speichern,احفظ
+Service,Service,Dienst,الخدمة:
+Show private key,Montrer clé privée,Geheimen Schlüssel zeigen,المفتاح السري:
+Speed,Vitesse,Geschwindigkeit,السرعة:
+System priority,Priorité du système,Systempriorität,الأمن:
+Teamed connections,Connexions en équipe,Team-Verbindungen,الاتصال:
+Unlock,Déverrouiller,Entsperren,افتح
+Use point-to-point encryption (MPPE),Utiliser le chiffrement Point-to-Point (MPPE),Punkt-zu-Punkt-Verschlüsselung (MPPE) verwenden,استخدم تعمية النقطة إلى النقطة (MPPE)
+Use this connection only for resources on its network,Utiliser cette connexion uniquement pour les ressources de son réseau,Diese Verbindung nur für Ressourcen dieses Netzwerks verwenden,احفظ هذا الاتصال لكل المستخدمين على هذا الجهاز.
+Username,Nom d’utilisateur,Benutzername,اسم المستخدم:
+VPN Connections,Connexions VPN,VPN-Verbindungen,اتّصالات VPN
+Wake on LAN password,Mot de passe Wake on LAN,Passwort für Aufwecken über LAN,كلمة سر المفتاح السري:
+ad-hoc,ad-hoc,Ad-hoc,لا مركزية
+automatic,automatique,Automatisch,تلقائي
+bytes,octets,Bytes,بايتات
+cloned MAC,Adresse MAC clonée,Geklonte MAC-Adresse,عنوان MAC:
+default,par défaut,Vorgabe,المبدئي
+device,périphérique,Gerät,أي جهاز
+device not managed,périphérique non géré,Gerät wird nicht verwaltet,الجهاز ليس مُدارا
+device not ready,périphérique non prêt,Gerät ist nicht betriebsbereit,الجهاز ليس جاهزا
+device not ready (firmware missing),périphérique non prêt (micrologiciel manquant),Gerät ist nicht betriebsbereit (Firmware fehlt),الجهاز ليس جاهزا (البرمجية المضمنة مفقودة)
+disconnected,déconnecté,nicht verbunden,غير متَّصل
+ignored,ignoré,Ignoriert,متروك
+invalid Bluetooth device (%s),périphérique Bluetooth invalide (%s),Ungültiges Bluetooth-Gerät (%s),لم يتم العثور على جهاز بلوتوث
+invalid hardware address,adresse matérielle non valide,ungültige Hardware-Adresse,عنوان العتاد:
+missing parent interface,interface parente manquante,Übergeordnete Schnittstelle fehlt,الواجهة:
+never,jamais,nie,أبدًا
+none,aucune,keine,لا شيء
+not enabled,non activé,nicht aktiviert,غير مُفعّل
+not registered,non enregistré,nicht angemeldet,غير مُسجّل
+now,maintenant,jetzt,الآن
+primary,principal,Primär,‏DNS الأوّلي:
+registration denied,enregistrement refusé,Registrierung abgelehnt,منع التسجيل
+roaming,itinérance,Roaming,تجوال
+searching,recherche,Suche läuft,يبحث
+unknown failure,échec inconnu,"Fehlgeschlagen, Grund unbekannt",فشل اضافة اتصال

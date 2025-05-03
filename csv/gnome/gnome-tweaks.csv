@@ -1,0 +1,187 @@
+
+%s (default),,,%s (مبدئيّ)
+%s theme installed successfully,Le thème %s a été installé avec succès,Thema %s wurde erfolgreich installiert,تم تثبيت السِمة %s بنجاح
+%s theme updated successfully,Le thème %s a été mis à jour avec succès,Thema %s wurde erfolgreich aktualisiert,تم تحديث السِمة %s بنجاح
+(%s mode),(mode %s),,(وضع %s)
+Default,,Vorgabe,مبدئيّ
+<primary>f,,<primary>f,<primary>f
+Acceleration Profile,,,إعدادات التسريع
+Activities Overview Hot Corner,,,الزاوية النشطة لمعاينة الأنشطة
+Add a new application to be run at startup,,,أضف تطبيقًا جديدًا لبدء التشغيل
+Additional Layout Options,Options supplémentaires d’agencement,Zusätzliche Belegungsoptionen,خيارات التخطيط الإضافية
+Additional displays are treated as independent workspaces.,,,الشاشات الإضافية ستعتبر مساحات عمل مستقلة.
+Adjust GDK window scaling factor for HiDPI,,,اضبط مقياس GDK للشاشات عالية الميز
+Adjustment,Ajustement,Ausrichtung,الضبط
+Allows entering additional characters.,,,اسمح بإدخال حروف إضافية.
+"Allows raising the volume above 100%. This can result in a loss of audio quality; it is better to increase application volume settings, if possible.",,,يسمح برفع الصوت فوق ١٠٠٪. قد يؤدي هذا إلى فقد في جودة الصوت؛ من الأفضل رفع شدة الصوت في التطبيق إن أمكن.
+Animations,,,التحريك
+Antialiasing,Anticrénelage,Kantenglättung,التنعيم
+Appearance,Apparence,Erscheinungsbild,المظهر
+Application Menu,,,قائمة التطبيقات
+Applications,,,التطبيقات
+Area,,Bereich,منطقة
+Attach Modal Dialogs,Joindre les dialogues modaux,Modale Dialoge anhängen,ألحق صناديق الحوار السائدة
+Background,Arrière-plan,Hintergrund,الخلفية
+Battery Percentage,,,نسبة البطارية
+Browse in Software,,,تصفح في مدير البرمجيات
+Calendar,,,التقويم
+Caps Lock,,,قفل الأحرف الكبيرة
+Center New Windows,Centrer les nouvelles fenêtres,Neue Fenster zentrieren,وسّط النوافذ الجديدة
+Click the bottom right of the touchpad for right-click and the bottom middle for middle-click.,,"Für einen Rechtsklick rechts unten in das Tastfeld tippen, für einen Mittelklick unten mittig.",انقر على أسفل يمين لوحة اللمس للنقر الأيمن، و أسفل الوسط للنقر الأوسط.
+Click the touchpad with two fingers for right-click and three fingers for middle-click.,,"Für einen Rechtsklick mit zwei Fingern auf das Tastfeld tippen, für einen Mittelklick mit drei Fingern tippen.",انقر على لوحة اللمس بأصبعين للنقر الأيمن، وثلاثة أصابع للنقر الأوسط.
+Click to Focus,Cliquer pour mettre le focus,Klicken zum Fokussieren,انقر للوضع في البؤرة
+Clock,,,الساعة
+Compose Key,,,مفتاح التركيب
+Configuration changes require restart,Les modifications de configuration nécessitent un redémarrage,Änderungen der Konfiguration erfordern Neustart,تغييرات الإعدادات تتطلب إعادة التشغيل
+Could not list shell extensions,Impossible de lister les extensions du shell,Shell-Erweiterungen konnten nicht aufgelistet werden,تعذّر عرض قائمة امتدادات الصدفة
+Cursor,Curseurs,Mauszeiger,المؤشر
+Date,,,التاريخ
+Desktop,,,سطح المكتب
+Device,,,الجهاز
+Disable All Shell Extensions,,,عطّل كل امتدادات الصدفة
+Disable While Typing,,Bei Tastatureingabe deaktivieren,عطّل أثناء الكتابة
+Disabled,Désactivé,Deaktiviert,معطّل
+Display Handling,,,التعامل مع الشاشات
+Do you want to keep these HiDPI settings?,,,أتريد الإبقاء على إعدادات الشاشات عالية الميز هذه؟
+Document Text,Texte de document,Text in Dokumenten,نص المستندات
+Don’t use mouse click emulation.,,Mausklick-Emulation nicht verwenden.,لا تستخدم محاكاة نقر الفأرة.
+Double-Click,Double-clic,Doppelklick,النقر المزدوج
+Dynamic Workspaces,,,مساحات العمل الطيعة
+Emacs Input,Saisie Emacs,Emacs-Eingabe,إدخال إيماكس
+Error,,,عُطل
+Error installing theme,Erreur d’installation du thème,Fehler beim Installieren des Themas,خطأ في تثبيت السِمة
+Error loading extension,,,خطأ في تحميل الامتداد
+Error writing setting,Erreur lors de l’écriture des paramètres,Fehler beim Festlegen,خطأ في كتابة الإعداد
+Extension does not support shell version,,,لا يدعم الامتداد إصدارة الصدفة
+Extension downloading,,,تنزيل الامتدادات
+Extensions,,,الامتدادات
+Fingers,,Finger,أصابع
+Focus on Hover,Focus au survol,Fokus beim Überfahren,التركيز عند التمرير
+Fonts,Polices,Schriften,الخطوط
+Full,Complète,Vollständig,كامل
+GNOME Shell,Shell de GNOME,GNOME Shell,صدفة جنوم
+GNOME Shell is not running,Le shell de GNOME n’est pas actif,GNOME Shell wird nicht ausgeführt,صدفة جنوم ليست مشغّلة
+GNOME Tweaks,Ajustements de GNOME,GNOME-Optimierung,تطويعات جنوم
+GNOME Tweaks allows adjusting advanced GNOME options.,Ajustements de GNOME permet d’ajuster les options avancées de GNOME.,GNOME-Optimierung ermöglicht das Anpassen fortgeschrittener GNOME-Einstellungen.,تطويعات جنوم تتيح ضبط خيارات جنوم المتقدمة.
+GTK+,,,جتك+
+General,,,عام
+HiDPI,,,الشاشات عالية الميز
+Hinting,Optimisation,Hinting,التلميح
+Home,,,المنزل
+Homepage,,,الموقع
+Icons,Icônes,Symbole,الأيقونات
+Icons on Desktop,,,الأيقونات على سطح المكتب
+Image,,Bild,الصورة
+Increases the choice of input sources in the Settings application.,Augmente le choix des sources de saisie dans les paramètres de l’application.,Vergrößert die Anzahl der Eingabequellen in den Einstellungen.,زود اختيارات مصادر الإدخال في تطبيق الإعدادات.
+Install custom or user themes for gnome-shell,,Eigene oder Benutzerthemen in der Gnome Shell installieren,ثبت سمة مخصصة لصدفة جنوم
+Interface Text,Texte d’interface,Text der Benutzeroberfläche,نص الواجهة
+Invalid theme,Thème non valide,Ungültiges Thema,سِمة غير صالحة
+"It can install and manage themes and extensions, change power settings, manage startup applications, and enable desktop icons among other settings.",,,يمكنها تثبيت و إدارة السمات و الامتدادات، و تغيير إعدادات الطاقة، و إدارة تطبيقات بدأ التشغيل، و تفعيل أيقونات سطح المكتب، و إعدادات أخرى غيرها.
+Keep Changes,,,أبق على التغييرات
+Keyboard,Clavier,Tastatur,لوحة المفاتيح
+Keyboard & Mouse,,,الفأرة و لوحة المفاتيح
+Left,Gauche,Links,يسار
+Left Ctrl,,,التحكم الأيسر
+Left Super,Super gauche,Super links,الفائق الأيسر
+Legacy Window Titles,,Klassische Fenstertitel,عناوين النوافذ القديمة
+Maximize,Maximiser,Maximieren,التكبير
+Medium,Moyenne,Mittel,متوسط
+Menu,,,القائمة
+Middle Click Paste,Coller avec le clic du milieu,Einfügen durch Klicken mit mittlerer Maustaste,اللصق بالنقر الأوسط
+Middle-Click,Clic du milieu,Mittelklick,النقر الأوسط
+Minimize,Minimiser,Minimieren,التصغير
+Miscellaneous,Divers,Verschiedenes,متفرقات
+Monospace Text,Texte à chasse fixe,Dicktengleicher Text,نص ثابت العرض
+Mounted Volumes,,,الأجزاء الموصولة
+Mouse,Souris,Maus,الفأرة
+Mouse Click Emulation,,Mausklick-Emulation,محاكاة نقر الفأرة
+Network Servers,,,خواديم الشبكة
+New startup application,,,تطبيق بدء تشغيل جديد
+No Extensions Installed,,,لم تنصّب أية امتدادات
+None,Sans,Nichts,لا شيء
+Number of Workspaces,,,عدد مساحات العمل
+Number of workspaces is fixed.,,,عدد مساحات العمل ثابت
+Over-Amplification,,,التكبير الزائد
+Overrides shortcuts to use keybindings from the Emacs editor.,Outrepasse les raccourcis au profit des touches clavier de l’éditeur Emacs.,"Tastenkürzel ausschalten, um Tastenbelegungen des Emacs-Editors zu verwenden.",استبدل الاختصارات بارتباطات مفاتيح إيماكس.
+Overview Shortcut,Raccourci d’aperçu,Tastenkürzel für Übersicht,اختصار المعاينة
+Placement,Emplacement,Platzierung,التموضع
+Pointer Location,,,مكان المؤشر
+Press the Ctrl key to highlight the pointer.,,,اضغط زر التحكم لإظهار مكان المؤشر.
+PrtScn,,,طبع الشاشة
+Raise Windows When Focused,Soulever les fenêtres ayant le focus,"Fenster anheben, wenn fokussiert",ارفع النوافذ عندما تكون في البؤرة
+Remove,Supprimer,Entfernen,أزِل
+Reset all tweak settings to the original default state?,,,أأعيد كل إعدادات التطويع إلى قيمها المبدئية؟
+Reset to Defaults,Réinitialiser aux valeurs par défaut,Auf Voreinstellungen zurücksetzen,استعد المبدئيات
+Resize with Secondary-Click,Redimensionner avec le clic secondaire,Größenänderung mittels Kontextklick,غيّر الحجم مع النقر الثانوي
+Restart Session,Redémarrer la session,Sitzung neu starten,أعِد تشغيل الجلسة
+Revert Settings,,,تراجع عن الإعدادات
+Right,Droite,Rechts,يمين
+Right Alt,,,التبديل الأيمن
+Right Ctrl,,,التحكم الأيمن
+Right Super,Super droit,Super rechts,الفائق الأيمن
+Scaling Factor,Facteur de mise à l’échelle,Skalierungsfaktor,نسبة التكبير
+Scroll Lock,,,قفل اللف
+Search Applications…,Rechercher des applications…,Anwendungen suchen …,ابحث في التطبيقات…
+Search Tweaks…,Recherche d’ajustements…,Einstellungen suchen …,ابحث في التطويعات…
+Secondary-Click,Clic secondaire,Kontextklick,النقر الثانوي
+Seconds,,,الثواني
+Select a theme,Sélectionner un thème,Thema wählen,اختر سِمة
+Settings;Advanced;Preferences;Extensions;Fonts;Theme;XKB;Keyboard;Typing;,,,إعدادات;متقدم;تفضيلات;امتدادات;خطوط;سمة;لوحة مفاتيح;كتابة;
+Shell,Shell,Shell,الصدفة
+Shell not running,Le shell n’est pas lancé,Shell wird nicht ausgeführt,الصدفة ليست مشتغلة
+Shell user-theme extension incorrectly installed,,Benutzerthema-Erweiterung wurde nicht korrekt installiert,ثبتت سمة الصدفة بشكل غير صحيح
+Shell user-theme extension not enabled,L’extension shell du thème personnalisé n’est pas activée,Benutzerthema-Erweiterung ist nicht aktiviert,لم تفعل ثمة الصدفة
+Show Extended Input Sources,Afficher les sources de saisie étendues,Erweiterte Eingabequellen anzeigen,أظهر مصادر الإدخال الممتدة
+Show Icons,,,أظهر الأيقونات
+Slight,Légère,Gering,خفيف
+Sound,Son,Audio,الصوت
+Standard (grayscale),Standard (niveau de gris),Standard (Graustufen),قياسي (تدرج رمادي)
+Startup Applications,Applications au démarrage,Startprogramme,تطبيقات بدء التشغيل
+Startup applications are automatically started when you log in.,Les applications au démarrage se lancent automatiquement lorsque vous vous connectez.,"Startanwendungen werden automatisch gestartet, wenn Sie sich anmelden.",ستبدأ تطبيقات بدأ التشغيل تلقائيا عند ولوجك.
+Static Workspaces,,,مساحات العمل الثابتة
+Subpixel (for LCD screens),Sous-pixel,Subpixel (für LCD-Bildschirme),تحت بكسلي (لشاشات LCD)
+Suspend when laptop lid is closed,,,علّق عندما يكون غطاء الحاسوب المحمول مغلقا
+The GNOME Project,Le projet GNOME,Das GNOME-Projekt,مشروع جنوم
+"The compose key allows a wide variety of characters to be entered. To use it, press the compose key and then a sequence of characters.
+
+Many unusual characters can be entered by combining standard ones. For example, compose key followed by C and o will enter ©, a followed by ' will enter á.",,,"يتيح مفتاح التركيب إدخال طيف واسع من الحروف. لاستخدامه اضغط على مفتاح التركيب ثم تتابع من الحروف.
+
+الكثير من الحروف غير الشائعة يمكن إدخالها بدمج عدد من الحروف الشائعة. مثلا، مفتاح التركيب ثم C ثم o سيُدخل ©، و a ثم ' سيُدخل á."
+The current workspace includes additional displays.,,,مساحة العمل الحالية تشمل الشاشات الإضافية.
+Themes,,,السِّمات
+Titlebar Actions,Actions de la barre de titre,Aktionen der Titelleiste,إجراءات شريط العنوان
+Titlebar Buttons,Boutons de la barre de titre,Knöpfe der Titelleiste,أزرار شريط العنوان
+Top Bar,,,الشريط العلوي
+Touchpad,Pavé tactile,Tastfeld,لوحة اللمس
+Trash,,,المهملات
+Tweak advanced GNOME 3 settings,,,طوّع إعدادات جنوم 3 المتقدمة
+Tweaks,Ajustements,Optimierungen,التطويعات
+Typing,Saisie,Eingabe,الكتابة
+Unknown error,Erreur inconnue,Unbekannter Fehler,خطأ مجهول
+Unknown extension error,,,خطأ امتداد غير معروف
+Update,,,حدِّث
+Updating,,,يُحدّث
+Wacom,,,واكم
+Week Numbers,,,أرقام الأسابيع
+Weekday,,,يوم الأسبوع
+"When on, modal dialog windows are attached to their parent windows, and cannot be moved.","Si activé, les fenêtres de dialogue modal sont jointes à leur fenêtre mère et ne peuvent être déplacées.","Wenn aktiviert, werden modale Dialogfenster an deren Elternfenster angehängt und können nicht separat verschoben werden.",عند تفعيله ستلحق صناديق الحوار السائدة بالنافذة الأم و لن يمكن نقلهم.
+Window Action Key,Touches clavier agissant sur les fenêtres,Fenster-Aktionstaste,زر إجراء النوافذ
+Window Focus,Focus de fenêtre,Fensterfokus,بؤرة النوافذ
+Window Titlebars,,,عناوين النوافذ
+Window is focused when hovered with the pointer. Hovering the desktop removes focus from the previous window.,Le focus est mis sur la fenêtre quand on la survole avec le pointeur. Survoler le bureau enlève le focus de la fenêtre précédente.,"Ein Fenster wird fokussiert, wenn es mit dem Mauszeiger überfahren wird. Das Fenster verliert den Fokus, wenn der Zeiger über die Arbeitsfläche fährt.",توضع النافذة في البؤرة عند تمرير المؤشر فوقها، و تخرج من البؤرة عند تمرير المؤشر فوق سطح المكتب.
+Window is focused when hovered with the pointer. Windows remain focused when the desktop is hovered.,Le focus est mis sur la fenêtre quand on la survole avec le pointeur et reste ainsi lorsque le bureau est survolé.,"Ein Fenster wird fokussiert, wenn es mit dem Mauszeiger überfahren wird. Das Fenster bleibt fokussiert, wenn der Zeiger über die Arbeitsfläche fährt.",توضع النافذة في البؤرة عند تمرير المؤشر فوقها، و تظل في البؤرة عند تمرير المؤشر فوق سطح المكتب.
+Window scaling,,,مقياس النوافذ
+Windows,Fenêtres,Fenster,النوافذ
+Windows are focused when they are clicked.,Les fenêtres cliquées sont mises en focus.,"Fenster werden fokussiert, wenn sie angeklickt werden.",توضع النوافذ في البؤرة عند النقر عليها.
+Workspaces,,,مساحات العمل
+"Workspaces can be created on demand, and are automatically removed when empty.",,,يمكن إنشاء مساحات العمل حسب الحاجة، ثم إزالتهم عند خلوهم.
+Workspaces on primary display only,,,مساحات العمل على الشاشة الرئيسية فقط
+Workspaces span displays,,,مساحات العمل عبر الشاشات
+Your session needs to be restarted for settings to take effect,Votre session doit être redémarrée pour que les paramètres prennent effet,"Die Sitzung muss neu gestartet werden, damit die Änderungen wirksam werden",يجب إعادة تشغيل الجلسة لتطبيق الإعدادات
+About,,,عن
+Add,Ajouter,Hinzufügen,أضف
+Close,Fermer,Schließen,أغلق
+Quit,,,أنهِ
+Reset to Defaults,Réinitialiser aux valeurs par défaut,Auf Voreinstellungen zurücksetzen,استعد المبدئيات
+org.gnome.tweaks,,,org.gnome.tweaks
+running,lancé,läuft,يعمل

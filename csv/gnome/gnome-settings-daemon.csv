@@ -1,0 +1,327 @@
+
+"""%s"" on %s",,,"‏""%s""في %s"
+%i %s %i %s,%i %s %i %s,%i %s %i %s,%i %s %i %s
+%s of UPS backup power remaining,Il reste %s d’autonomie à l’onduleur,%s der USV-Ladung verbleibend,‏%s باقي من طاقة مزود الطاقة اللامنقطعة
+A previous update was unfinished.,,,لم يكتمل التحديث السابق.
+A transaction that cannot be interrupted is running,,,يجري تبادل لا يمكن مقاطعته
+Accessibility Keyboard,,,إتاحة لوحة المفاتيح
+Accessibility keyboard plugin,,,ملحق إتاحة لوحة المفاتيح
+Accessibility settings,,,إعدادات الإتاحة
+Accessibility settings plugin,,,ملحقة إعدادات الإتاحة
+Activation of this plugin,,,فعِّل هذه الملحقة
+Additional firmware is required to make hardware in this computer function correctly.,,,تحتاج إلى برمجيات مضمنة إضافية ليعمل عتاد هذا الحاسوب كما ينبغي.
+Additional firmware required,,,مطلوب برمجيات مضمنة إضافية
+Additional software was installed,,,ثُبِّتت برمجيات إضافية
+An important OS update failed to be installed.,,,فشل تثبيت تحديث مهم لنظام التشغيل.
+An offline update was requested but no packages required updating.,,,طُلب تحديث دون اتصال لكن لم تحتج أي حزم للتحديث.
+An update failed to install correctly.,,,فشل تثبيت التحديث كما يجب.
+An update was not signed in the correct way.,,,أحد التحديثات لم يكن مُوقّعا كما ينبغي.
+Antialiasing,Lissage,Kantenglättung,التنعيم
+Approximately %s of remaining UPS backup power (%.0f%%),,,تقريبًا %s متبقية من شحنة طاقة مزود الطاقة اللامنفطعة (%.0f%%)
+Approximately %s of remaining UPS power (%.0f%%). Restore AC power to your computer to avoid losing data.,,,لديك تقريبًا %s متبقية من شحنة UPS‏ (%.0f%%). أرجع التيار للحاسوب لتتجنب ضياع البيانات.
+Approximately %s remaining (%.0f%%),,,لديك تقريبًا %s متبقية (%.0f%%)
+Attached computer battery low,Batterie de l’ordinateur connecté faible,Akku des angeschlossenen Rechners ist fast leer,طاقة بطارية الحاسوب المُوصّل منخفضة
+Attached computer is low in power (%.0f%%),,,طاقة الحاسوب المُوصَّل منخفضة (%.1f%%)
+Attached computer is very low in power (%.0f%%). The device will soon shutdown if not charged.,,,طاقة الحاسوب الموصول ضعيفة جدا (%.0f%%). سيتوقف بعد قليل إن لم يُشحن.
+Authentication is required to modify the OLED image for a Wacom tablet,Une authentification est nécessaire pour modifier les images des voyants d’une tablette Wacom,"Legitimierung wird benötigt, um das OLED-Bild des Wacom-Tabletts zu ändern",الاستيثاق مطلوب لتغيير سطوع الحاسوب
+Authentication is required to modify the laptop brightness,Authentification nécessaire pour modifier la luminosité de l’ordinateur portable,"Legitimierung wird benötigt, um die Helligkeit des Laptop-Bildschirms zu ändern",الاستيثاق مطلوب لتغيير سطوع الحاسوب
+Automatic hibernation,,,إسبات تلقائي
+Automatic logout,,,خروج تلقائي
+Automatic suspend,,,تعليق تلقائي
+"Automatically prunes thumbnail caches and other transient files, and warns about low disk space",,,ينظف خبيئة المصغّرات و الملفات المؤقتة الأخرى تلقائيا، و يحذّر من انخفاض المساحة الخالية على القرص.
+Automatically update timezone and display notifications,,,حدّث المنطقة الزمنية تلقائيا و اعرض التنبيهات
+Battery Status,,,حالة البطارية
+Battery critically low,,,طاقة البطارية منخفضة جدًا
+Battery is critically low,La batterie est très faible,Kritischer Ladezustand des Akkus,طاقة البطارية منخفضة جدًا
+Battery is low,Batterie faible,Ladezustand des Akkus ist niedrig,طاقة البطارية منخفضة
+Battery low,,,طاقة البطارية منخفضة
+Binding,Raccourci,Kürzel,الارتباط
+Binding for the custom binding,Raccourci pour le raccourci personnalisé,Tastenkürzel des benutzerdefinierten Tastenkürzels,ارتباط الارتباط المخصص
+Binding for the magnifier to zoom in,Raccourci du zoom pour agrandir l’image,Tastenkürzel zum Verkleinern mit der Bildschirmlupe,ارتباط عرض مكبّرة الشاشة
+Binding for the magnifier to zoom out,Raccourci du zoom pour diminuer l’image,Tastenkürzel zum Vergrößern mit der Bildschirmlupe,ارتباط عرض مكبّرة الشاشة
+Binding to copy a screenshot of a window to clipboard.,,,ارتباط نسخ لقطة نافذة إلى الحافظة.
+Binding to copy a screenshot of an area to clipboard.,,,ارتباط نسخ لقطة منطقة محددة إلى الحافظة.
+Binding to copy a screenshot to clipboard.,,,ارتباط نسخ اللقطة إلى الحافظة.
+Binding to decrease the text size,Raccourci pour diminuer la taille du texte,Tastenkürzel zur Verringerung der Schriftgröße,ارتباط تصغير النص
+Binding to eject an optical disc.,Raccourci pour éjecter un disque optique.,"Tastenkürzel, um ein optisches Medium auszuwerfen.",ارتباط إخراج قرص ضوئي.
+Binding to increase the text size,Raccourci pour augmenter la taille du texte,Tastenkürzel zur Erhöhung der Schriftgröße,ارتباط تكبير النص
+Binding to launch the calculator.,Raccourci pour lancer la calculatrice.,"Tastenkürzel, um den Taschenrechner zu öffnen.",ارتباط إطلاق الحاسبة.
+Binding to launch the email client.,Raccourci pour lancer le logiciel de messagerie.,"Tastenkürzel, um das E-Mail-Programm zu öffnen.",ارتباط إطلاق عميل البريد الإكتروني.
+Binding to launch the help browser.,Raccourci pour lancer le navigateur d’aide.,"Tastenkürzel, um den Hilfe-Browser zu öffnen.",ارتباط إطلاق متصفّح المساعدة.
+Binding to launch the media player.,Raccourci pour lancer le lecteur multimédia.,"Tastenkürzel, um die Medienwiedergabe zu öffnen.",ارتباط إطلاق مشغل الوسائط.
+Binding to launch the search tool.,Raccourci pour lancer l’outil de recherche.,"Tastenkürzel, um die Suche zu öffnen.",ارتباط إطلاق أداة البحث.
+Binding to launch the web browser.,Raccourci pour lancer le navigateur web.,"Tastenkürzel, um den Web-Browser zu öffnen.",ارتباط إطلاق متصفّح الوِب.
+Binding to lock the screen.,Raccourci pour verrouiller l’écran.,"Tastenkürzel, um den Bildschirm zu sperren.",ارتباط إقفال الشاشة.
+Binding to log out.,Raccourci pour se déconnecter.,"Tastenkürzel, um sich abzumelden.",ارتباط الخروج.
+Binding to lower the system volume.,,,ارتباط خفض صوت النظام.
+Binding to mute the system volume.,,,ارتباط إسكات صوت النظام.
+Binding to open the Home folder.,Raccourci pour ouvrir le dossier personnel.,"Tastenkürzel, um den persönlichen Ordner zu öffnen.",ارتباط فتح مجلد المنزل.
+Binding to pause playback.,Raccourci pour mettre en pause la lecture.,"Tastenkürzel, um die Wiedergabe zu pausieren.",ارتباط إلباث التشغيل.
+Binding to raise the system volume.,,,ارتباط رفع صوت النظام.
+Binding to show the on-screen keyboard,Raccourci pour afficher le clavier visuel,Tastenkürzel zum Anzeigen der Bildschirmtastatur,ارتباط عرض لوحة مفاتيح على الشاشة
+Binding to show the screen magnifier,Raccourci pour afficher la loupe,Tastenkürzel zum Anzeigen der Bildschirmlupe,ارتباط عرض مكبّرة الشاشة
+Binding to skip to next track.,Raccourci pour passer à la piste suivante.,"Tastenkürzel, um zum nächsten Titel zu springen.",ارتباط التخطّي إلى المقطوعة التّالية.
+Binding to skip to previous track.,Raccourci pour revenir à la piste précédente.,"Tastenkürzel, um zum vorherigen Titel zu springen.",ارتباط التخطّي إلى المقطوعة السّابقة.
+Binding to start playback (or toggle play/pause).,Raccourci pour démarrer ou suspendre la lecture.,"Tastenkürzel, um die Wiedergabe zu starten (oder zwischen Wiedergabe und Pause umzuschalten).",ارتباط بدء التشغيل (أو تبديل شغّل/ألبث).
+Binding to start the screen reader,Raccourci pour activer le lecteur d’écran,Tastenkürzel zum Starten des Bildschirmlesers,ارتباط بدء قارئ الشاشة
+Binding to stop playback.,Raccourci pour arrêter la lecture.,"Tastenkürzel, um die Wiedergabe anzuhalten.",ارتباط إيقاف التشغيل.
+Binding to take a screenshot of a window.,,,ارتباط التقاط صورة لنافذة.
+Binding to take a screenshot of an area.,,,ارتباط التقاط صورة لمنطقة محددة.
+Binding to take a screenshot.,,,ارتباط التقاط صورة للشاشة.
+Binding to toggle the interface contrast,Raccourci pour modifier le contraste de l’interface,Tastenkürzel zum Ein- und Ausschalten des Kontrasts der Benutzeroberfläche,ارتباط إطلاق عميل البريد الإكتروني.
+Brightness Down,,,أخفض الإضاءة
+Brightness Up,,,ارفع الإضاءة
+Calibrate,,,أعِد المعايرة الآن
+Calibration needed,,,أضيف جهاز معايرة ألوان
+Cell phone battery low,Batterie de téléphone portable faible,Mobiltelefon-Akku fast leer,طاقة بطارية الهاتف المحمول منخفضة
+Cell phone is low in power (%.0f%%),,,الهاتف المحمول الموصول بهذا الحاسوب طاقته منخفضة (%.0f%%)
+Cell phone is very low in power (%.0f%%). This device will soon stop functioning if not charged.,,,الهاتف المحمول الموصول بهذا الحاسوب طاقته ضعيفة (%.0f%%). سيتوقف بعد قليل إن لم يُشحن.
+Clipboard,,,الحافظة
+Clipboard plugin,,,ملحق الحافظة
+Color,Couleur,Farbe,الألوان
+Color calibration device added,Appareil d’étalonnage des couleurs ajouté,Farbkalibrierungsgerät wurde hinzugefügt,أضيف جهاز معايرة ألوان
+Color calibration device removed,Appareil d’étalonnage des couleurs enlevé,Farbkalibrierungsgerät wurde entfernt,أزيل جهاز معايرة الألوان
+Color plugin,,,ملحق الألوان
+Command,Commande,Befehl,الأمر
+Command to run when the binding is invoked,Commande à lancer lorsque le raccourci est invoqué,"Auszuführender Befehl, wenn das Tastenkürzel aufgerufen wird",الأمر الذي سيُشغل عند استخدام الارتباط
+Computer will hibernate very soon unless it is plugged in.,,,سيُسبت هذا الحاسوب خلال ثوان ما لم يوصّل بالتيار.
+Computer will shutdown very soon unless it is plugged in.,,,سيُطفأ هذا الحاسوب خلال ثوان ما لم يوصّل بالتيار.
+Computer will suspend very soon because of inactivity.,,,سيُعلّق هذا الحاسوب بعد قليل لعدم النشاط.
+Configuring new printer,Configuration d’une nouvelle imprimante,Neuer Drucker wird konfiguriert,تُضبط الطابعة الجديدة
+Copy a screenshot of a window to clipboard,,,انسخ لقطة نافذة إلى الحافظة
+Copy a screenshot of an area to clipboard,,,انسخ لقطة منطقة محددة إلى الحافظة
+Copy a screenshot to clipboard,,,انسخ اللقطة إلى الحافظة
+Could not refresh the screen information: %s,,,تعذّر تحديث معلومات الشاشة: %s
+Cover open,Capot ouvert,Abdeckung offen,الغطاء مفتوح
+Cursor,,,مؤشّر
+Custom keybindings,Raccourcis clavier personnalisés,Benutzerdefinierte Tastenkürzel,ارتباطات مفاتيح مخصصة
+Date & Time Settings,Paramètres de date et heure,Datums- und Uhrzeiteinstellungen,إعدادات الوقت و التّاريخ
+Date and Time,,,التاريخ و الوقت
+Decrease text size,Diminuer la taille du texte,Schrift verkleinern,صغّر النص
+Detailed errors from the package manager follow:,,,فيما يلي الأعطال التفصيلية من مدير الحزم:
+Disable touchpad while typing,Désactivation du pavé tactile lors de la frappe,Tastfeld während des Tippens deaktivieren,عطّل لوحة اللمس أثناء الكتابة
+Disabled,,,معطّل
+Disk space,,,مساحة القرص
+Distance before a drag is started.,Distance avant qu’un glisser-déposer soit initié.,"Distanz, bevor das Ziehen einsetzt.",المسافة قبل بدأ النقل.
+Distribution upgrades available,,,تتوفر ترقية للتوزيعة
+Don't show any warnings again,,,لا تظهر أي تحذيرات مجددًا
+Don't show any warnings again for this file system,,,لا تظهر أي تحذيرات مجددًا لنظام الملفات هذا
+Done,,,تمّ
+Door open,Porte ouverte,Klappe offen,الباب مفتوح
+Double click time,Durée d’un double-clic,Doppelklick-Zeit,وقت النقر الثنائي
+Drag threshold,Seuil de déplacement,Ziehschwellwert,عتبة السحب
+Dummy,,,لا شيء
+Dummy plugin,,,ملحق لا شيء
+Eject,Éjecter,Auswerfen,أخرِج
+Empty Trash,Vider la corbeille,Papierkorb leeren,أفرغ المهملات
+Enable debugging code,,,فعّل كود تتبع الأخطاء
+Enable horizontal scrolling,Activer le défilement horizontal,Horizontales Rollen aktivieren,فعّل اللف الأفقي
+Enable mouse clicks with touchpad,Activer les clics de souris avec le pavé tactile,Mausklicks mit dem Tastfeld aktivieren,فعّل نقرات الفأرة في لوحة اللمس
+Enable touchpad,Activer le pavé tactile,Tastfeld aktivieren,فعّل لوحة اللمس
+Examine,Examiner,Untersuchen,افحص
+Examine…,,,افحص…
+Exit after a time (for debugging),,,اخرج بعد مدة (للتنقيح)
+Failed To Update,,,فشل التحديث
+GNOME Settings Daemon,,,عفريت إعدادات جنوم
+GNOME Settings Daemon Color Plugin,Greffon de couleur du service Paramètres de GNOME,Farbverwaltungs-Erweiterung für GNOME-Einstellungsdienst,ملحقة ألوان عفريت إعدادات جنوم
+Hibernate,,,أسِبت
+Highlights the current location of the pointer when the Control key is pressed and released.,,,يبرز الموقع الحالي للمؤشر عند ضغط و ترك مفتاح التحكم.
+Hinting,Optimisation,Hinting,التلميحات
+Home folder,Dossier personnel,Persönlicher Ordner,مجلّد المنزل
+Housekeeping,,,التنظيف
+Ignore,Ignorer,Ignorieren,تجاهل
+Ignore devices,,,تجاهل الأجهزة
+Increase text size,Augmenter la taille du texte,Schrift vergrößern,كبّر النص
+Install firmware,,,ثبت البرمجيات المضمنة
+Install updates,,,ثبّت التحديثات
+Keyboard,,,لوحة مفاتيح
+Keyboard Brightness Down,,,طاقة بطارية لوحة المفاتيح منخفضة
+Keyboard Brightness Toggle,,,لوحة المفاتيح مشحونة
+Keyboard Brightness Up,,,لوحة المفاتيح فارغة
+Keyboard battery low,Batterie du clavier faible,Tastaturakku ist fast leer,طاقة بطارية لوحة المفاتيح منخفضة
+Keyboard plugin,,,ملحق لوحة المفاتيح
+Laptop battery critically low,,,طاقة بطارية الحاسوب المحمول منخفضة جدًا
+Laptop battery low,,,طاقة بطارية الحاسوب المحمول منخفضة
+Launch calculator,Lancer la calculatrice,Taschenrechner öffnen,ابدأ الحاسبة
+Launch email client,Lancer le logiciel de messagerie,E-Mail-Programm öffnen,ابدأ عميل البريد الإلكتروني
+Launch help browser,Lancer le navigateur d’aide,Hilfe-Browser starten,ابدأ متصفّح المساعدة
+Launch media player,Lancer le lecteur multimédia,Medienwiedergabe öffnen,ابدأ مشغل الوسائط
+Launch web browser,Lancer le navigateur web,Webbrowser starten,ابدأ متصفّح الوِب
+Leave Off,,,اتركه معطّلا
+Leave On,,,اتركه مفعّلا
+Lid has been closed,Fermeture de l’écran de l’ordinateur,Klappe wurde geschlossen,أُغلق الغطاء
+Lid has been opened,Ouverture de l’écran de l’ordinateur,Klappe wurde geöffnet,فُتِح الغطاء
+List of custom keybindings,Liste des raccourcis clavier personnalisés,Liste der benutzerdefinierten Tastenkürzel,قائمة بارتباطات المفاتيح المخصصة
+Lock Screen,,,أوصد الشاشة
+Lock screen,Verrouiller l’écran,Bildschirm sperren,أقفل الشاشة
+Log out,Déconnecter,Abmelden,اخرج
+Low Disk Space,Espace disque faible,Wenig Speicherplatz,المساحة المتوفرة قليلة
+"Low Disk Space on ""%s""",,,"المساحة المتوفرة على ""%s"" قليلة"
+Manage X Settings,,,أدِر إعدادات X
+Marker supply low,Niveau d’encre bas dans une cartouche,Farbpatrone fast leer,إمداد حبر الأقلام منخفض
+Media keys,,,مفاتيح الوسائط
+Media keys plugin,,,ملحق مفاتيح الوسائط
+Media player battery low,Batterie de lecteur multimédia faible,Akku des tragbaren Abspielgeräts ist fast leer,طاقة بطارية مشغل الوسائط منخفضة
+Media player is low in power (%.0f%%),,,مشغل الوسائط الموصول بهذا الحاسوب طاقته منخفضة (%.0f%%)
+Media player is very low in power (%.0f%%). This device will soon stop functioning if not charged.,,,مشغل الوسائط الموصول بهذا الحاسوب طاقته ضعيفة (%.0f%%). سيتوقف بعد قليل إن لم يُشحن.
+Microphone Mute,,,صوت الميكروفون
+Missing printer driver,Pilote d’imprimante manquant,Fehlender Druckertreiber,مشغّل الطابعة مفقود
+Modify the laptop brightness,Modifier la luminosité de l’ordinateur portable,Laptop-Bildschirmhelligkeit einstellen,غيّر سطوع الحاسوب
+More information,,,مزيد من المعلومات
+Mouse,,,فأرة
+Mouse battery low,Batterie de souris faible,Mausakku ist fast leer,طاقة بطارية الفأرة منخفضة
+Mouse plugin,,,ملحق الفأرة
+Name,Nom,Name,الاسم
+Name of the custom binding,Nom du raccourci personnalisé,Name des benutzerdefinierten Tastenkürzels,اسم الارتباط المخصص
+Network access was required but not available.,,,كان الاتصال الشبكي مطلوبا إلا أنه لم يكن متاحا.
+Next track,Piste suivante,Nächster Titel,المقطوعة التالية
+No driver for this printer.,Aucun pilote pour cette imprimante.,Kein Treiber für diesen Drucker vorhanden.,لا مُشغّل لهذه الطابعة
+No printer driver for %s.,Aucun pilote d’impression pour %s.,Kein Druckertreiber für %s vorhanden.,لا مشغّل للطابعة %s.
+No space was left on the drive.,,,لم تتبق أي مساحة على القرص.
+Not Now,,,ليس الآن
+Not connected?,Non connectée ?,Nicht angeschlossen?,غير متصلة؟
+OK,,,حسنا
+Orientation,,,تنبيهات الطباعة
+Orientation plugin,,,ملحقة تنبيهات الطباعة
+Out of a marker supply,Encre épuisée dans une cartouche,Farbpatrone leer,نفد إمداد حبر الأقلام
+Out of paper,Plus de papier,Kein Papier,نفد الورق
+PDA battery low,Batterie d’assistant personnel faible,PDA-Akku ist fast leer,طاقة بطارية المساعد الرقمي منخفضة
+PDA is low in power (%.0f%%),,,المساعد الرقمي الموصول بهذا الحاسوب طاقته منخفضة (%.0f%%)
+PDA is very low in power (%.0f%%). This device will soon stop functioning if not charged.,,,المساعد الرقمي الموصول بهذا الحاسوب طاقته ضعيفة (%.0f%%). سيتوقف بعد قليل إن لم يُشحن.
+Paper low,Papier presque épuisé,Wenig Papier,الورق قليل
+Pause playback,Mettre en pause la lecture,Wiedergabe pausieren,ألبِث التشغيل
+Play (or play/pause),Lecture (ou Lecture/Pause),Wiedergabe (bzw. Wiedergabe/Unterbrechen),شغّل (أو شغّل/ألبِث)
+Please wait...,,,انتظر من فضلك...
+Power,Énergie,Energie,الطاقة
+Power Off,,,أطفئ
+Power plugin,,,ملحق الطاقة
+Previous track,Piste précédente,Vorheriger Titel,المقطوعة السّابقة
+Print-notifications,,,تنبيهات الطباعة
+Print-notifications plugin,,,ملحقة تنبيهات الطباعة
+Printer '%s' has no toner left.,,,نفد الحبر من الطابعة '%s'.
+Printer '%s' is currently off-line.,,,الطابعة '%s' غير متصلة حاليا.
+Printer '%s' is low on a marker supply.,,,نقص حبر أقلام الطابعة '%s'.
+Printer '%s' is low on paper.,,,ورق الطابعة '%s' قليل.
+Printer '%s' is low on toner.,,,حبر الطابعة '%s' منخفض.
+Printer '%s' is out of a marker supply.,,,نفد حبر أقلام الطابعة '%s'.
+Printer '%s' is out of paper.,,,نفد الورق من الطابعة '%s'.
+Printer '%s' may not be connected.,,,قد تكون الطابعة '%s' غير متصلة.
+Printer '%s': '%s'.,,,الطابعة '%s': ‏'%s'.
+Printer added,Imprimante ajoutée,Drucker wurde hinzugefügt,أُضيفت الطابعة
+Printer configuration error,Erreur de configuration de l’imprimante,Fehler in der Druckerkonfiguration,عُطل في إعداد الطابعة
+Printer error,Erreur d’imprimante,Druckerfehler,عُطل في الطبعة
+Printer off-line,Imprimante hors ligne,Drucker ist ausgeschaltet,الطابعة غير متصلة
+Printer removed,,,حُذِفت الطابعة
+Printer report,Rapport de l’imprimante,Druckerbericht,تقرير من الطابعة
+Printer warning,Alerte de l’imprimante,Druckerwarnung,تحذير من الطابعة
+Printers,Imprimantes,Drucker,الطابعات
+Printing,Impression,Druckvorgang läuft,تُطبَع
+Printing aborted,Impression interrompue,Drucken wurde abgebrochen,أُجهِضت الطباعة
+Printing canceled,,,أُلغِيت الطباعة
+Printing completed,Impression terminée,Drucken wurde abgeschlossen,تمت الطباعة
+Printing stopped,L’impression a été arrêtée,Drucken wurde angehalten,أُوقِفت الطباعة
+Quiet Volume Down,,,اخفض الصوت
+Quiet Volume Mute,,,أسكِت الصوت
+Quiet Volume Up,,,ارفع الصوت
+RGBA order,Ordre RVBA,RGBA-Abfolge,ترتيب RGBA
+Recalibrate now,Étalonner maintenant,Jetzt neu kalibrieren,أعِد المعايرة الآن
+Recalibration required,Un étalonnage est nécessaire,Neukalibrierung ist erforderlich,إعادة المعايرة مطلوبة
+Restart & Install,,,أعد التشغيل ثم ثبّت
+Review,,,راجِع
+Rfkill plugin,,,ملحق الألوان
+Screenshot from %s,,,لقطة شاشة من %s
+Screenshot taken,,,أُخِذت لقطة الشاشة
+Search,Rechercher,Suchen,ابحث
+Send Keystroke,,,أرسل ضغطة الزر
+Set up screen size and rotation settings,,,اختر إعدادات حجم الشاشة والدوران
+Settings,Paramètres,Einstellungen,الإعدادات
+Show On-Screen Help,,,أظهر مساعدة على الشاشة
+Show details,,,اعرض التفاصيل
+Show/hide cursor on tablet devices,,,أظهر\أخف المؤشر على الأجهزة اللوحية
+Sleep,,,أنِم
+Slow Keys Turned Off,,,المفاتيح البطيئة غير مفعّلة
+Slow Keys Turned On,,,المفاتيح البطيئة مفعّلة
+Smartcard,,,مشغل البطاقة الذكية
+Smartcard plugin,,,ملحق الخلفية
+Software Updates,,,تحديثات البرمجيات
+Software Updates Failed,,,فشلت تحديثات البرمجيات
+Sticky Keys Turned Off,,,المفاتيح اللاصقة غير مفعّلة
+Sticky Keys Turned On,,,المفاتيح اللاصقة مفعّلة
+Stop playback,Arrêter la lecture,Wiedergabe anhalten,أوقف التشغيل
+Suspend,,,علّق
+Switch Monitor,,,بدّل الشاشة
+System Sounds,,,أصوات النظام
+Tablet %s needs to be calibrated.,,,الطابعة '%s' تحتاج لإعادة المعايرة في أقرب وقت.
+Tablet battery low,Batterie de tablette faible,Tablett-Akku fast leer,بطارية اللوحي منخفضة
+Tablet is low in power (%.0f%%),,,طاقة بطارية الجاهز اللوحي منخفضة (%.0f%%)
+Tablet is very low in power (%.0f%%). This device will soon stop functioning if not charged.,,,طاقة الجهاز اللوحي ضعيفة جدا (%.0f%%). سيتوقف بعد قليل إن لم يُشحن.
+Take a screenshot,,,التقط صورة للشاشة
+Take a screenshot of a window,,,التقط صورة لنافذة
+Take a screenshot of an area,,,التقط صورة لمنطقة محددة
+The battery is below the critical level and this computer is about to hibernate.,,,البطارية دون المستوى الحرج وهذا الحاسوب على وشك الإسبات.
+The battery is below the critical level and this computer is about to shutdown.,,,البطارية دون المستوى الحرج وهذا الحاسوب على وشك الإغلاق.
+The cover is open on printer '%s'.,,,غطاء الطابعة '%s' مفتوح.
+The display '%s' should be recalibrated soon.,,,العرض '%s' يحتاج لإعادة المعايرة في أقرب وقت.
+The door is open on printer '%s'.,,,باب الطابعة '%s' مفتوح.
+The offline update failed in an unexpected way.,,,فشل التحديث دون اتصال بصورة غير مُتوقّعة.
+"The order of subpixel elements on an LCD screen; only used when antialiasing is set to ""rgba"". Possible values are: ""rgb"" for red on left (most common), ""bgr"" for blue on left, ""vrgb"" for red on top, ""vbgr"" for red on bottom.",,,"ترتيب عناصر أجزاء البكسل على شاشة LCD؛ يُستخدم فقط عند ضبط تنعيم إلى ""rgba"". القيم الممكنة هي : ""rgb"" أحمر على اليسار (الأكثر انتشارا)، ""bgr"" أزرق على اليسار، ""vrgb"" أحمر على الأعلى، ""vbgr"" أحمر على الأسفل."
+The printer '%s' should be recalibrated soon.,,,الطابعة '%s' تحتاج لإعادة المعايرة في أقرب وقت.
+"The type of antialiasing to use when rendering fonts. Possible values are: ""none"" for no antialiasing, ""grayscale"" for standard grayscale antialiasing, and ""rgba"" for subpixel antialiasing (LCD screens only).",,,"نوع التنعيم للاستخدام عند تصيير الخطوط. القيم الممكنة هي : ""none"" بدون تنعيم، ""grayscale"" تنعيم متدرج رمادي، و ""rgba"" لإزالة التسنن على مستوى جزء البكسل (فقط لشاشات LCD )."
+"The type of hinting to use when rendering fonts. Possible values are: ""none"" for no hinting, ""slight"" for basic, ""medium"" for moderate, and ""full"" for maximum hinting (may cause distortion of letter forms).",,,"نوع التلميحات المستعمل عند تصيير الخطوط. القيم الممكنة هي : ""none"" بدون ه، ""slight"" بدائي، ""medium"" قليل، و ""full"" أقصى ه (يمكن أن يؤدي إلى اعوجاج شكل الحروف)."
+The update could not be completed.,,,تعذّر إكمال التحديث.
+The update was cancelled.,,,أُلغِيَ التحديث.
+"The volume ""%s"" has only %s disk space remaining.",,,"يحتوي الجزء ""%s"" على %s فقط من المساحة الخالية."
+"The volume ""%s"" has only %s disk space remaining.  You may free up some space by emptying the trash.",,,"يحتوي الجزء ""%s"" على %s فقط من المساحة الخالية. قد تُخلي بعض المساحة بإفراغ المهملات."
+There is a missing print filter for printer '%s'.,,,هناك مرشِّح ناقص للطابعة '%s'.
+There is a problem on printer '%s'.,,,هناك مشكلة في الطابعة '%s'.
+This computer has only %s disk space remaining.,Cet ordinateur n’a plus que %s d’espace disque disponible.,Auf diesem Rechner ist nur noch %s Speicherplatz verfügbar.,يحتوي الحاسوب على %s فقط من المساحة الخالية.
+This computer has only %s disk space remaining.  You may free up some space by emptying the trash.,Cet ordinateur n’a plus que %s d’espace disque disponible. Vous pouvez libérer de l’espace en vidant la corbeille.,"Auf diesem Rechner ist nur noch %s Speicherplatz verfügbar. Sie können Speicherplatz freigeben, indem Sie den Papierkorb leeren.",يحتوي الحاسوب على %s فقط من المساحة الخالية. قد تُخلي بعض المساحة بإفراغ المهملات.
+Time Zone Updated to %s (%s),Fuseau horaire réglée à %s (%s),Zeitzone aktualisiert zu %s (%s),حُدّثت المنطقة الزمنية إلى %s ‏(%s)
+Toggle contrast,Modifier le contraste,Kontrast ein-/ausschalten,بدّل قارئ الشاشة
+Toggle magnifier,Activer ou désactiver la loupe,Bildschirmlupe ein- oder ausschalten,بدّل المكبرة
+Toggle on-screen keyboard,Activer ou désactiver le clavier visuel,Bildschirmtastatur ein- oder ausschalten,بدّل لوحة المفاتيح الموجودة على الشاشة
+Toggle screen reader,Activer ou désactiver le lecteur d’écran,Bildschirmleser ein- oder ausschalten,بدّل قارئ الشاشة
+Toner empty,Le toner est vide,Toner leer,نفد الحبر
+Toner low,Toner presque vide,Wenig Toner,الحبر منخفض
+Touchpad Off,,,لوحة اللمس معطّّلة
+Touchpad On,,,لوحة اللمس مفعّلة
+Touchpad toggle,,,بدّل لوحة اللمس
+Try again,,,أعِد المحاولة
+Turn Off,,,عطّل
+Turn On,,,فعّل
+UPS Discharging,Onduleur en décharge,USV wird entladen,مزود الطاقة اللامنقطعة يُستخدم
+UPS critically low,,,طاقة مزود الطاقة اللامنقطعة منخفضة جدًا
+UPS is below the critical level and this computer is about to hibernate.,,,مزود الطاقة اللامنقطعة دون المستوى الحرج وهذا الحاسوب على وشك الإسبات.
+UPS is below the critical level and this computer is about to shutdown.,,,مزود الطاقة اللامنقطعة دون المستوى الحرج وهذا الحاسوب على وشك الإطفاء.
+UPS low,,,طاقة مزود الطاقة اللامنقطعة منخفضة
+UTC%:::z,UTC%:::z,UTC%:::z,جرينتش%:::z
+Unable to access software updates,,,تعذّر الوصول إلى تحديثات البرمجيات
+Unable to capture a screenshot,,,ارتباط التقاط صورة للشاشة.
+Universal Access,,,الإتاحة
+Unknown amount of UPS backup power remaining,Autonomie restante de l’onduleur inconnue,"Es ist nicht bekannt, wie viel Leistung der USV noch vorhanden ist",باقي قدر غير معلوم من طاقة مزود الطاقة اللامنقطعة
+Unknown time,Temps inconnu,Unbekannte Zeit,وقت غير معروف
+Updates,,,تحديثات
+Updates plugin,,,ملحق التحديثات
+View,,,اعرض
+Volume down,Baisser le volume,Leiser,اخفض الصوت
+Volume mute,,,أسكِت الصوت
+Volume up,Augmenter le volume,Lauter,ارفع الصوت
+Wacom Settings,,,إعدادات X
+Wacom plugin,,,ملحق الخلفية
+Wireless keyboard is low in power (%.0f%%),,,لوحة المفاتيح اللاسلكية الموصولة بهذا الحاسوب طاقتها منخفضة (%.0f%%)
+Wireless keyboard is very low in power (%.0f%%). This device will soon stop functioning if not charged.,,,لوحة المفاتيح اللاسلكية الموصولة بهذا الحاسوب طاقتها ضعيفة (%.0f%%). ستتوقف بعد قليل إن لم تُشحن.
+Wireless mouse is low in power (%.0f%%),,,الفأرة اللاسلكية الموصولة بهذا الحاسوب طاقتها منخفضة (%.0f%%)
+Wireless mouse is very low in power (%.0f%%). This device will soon stop functioning if not charged.,,,الفأرة اللاسلكية الموصولة بهذا الحاسوب طاقتها ضعيفة (%.0f%%). ستتوقف بعد قليل إن لم تُشحن.
+X Settings,,,إعدادات X
+XRandR,,,XRandR
+"You can free up disk space by emptying the Trash, removing unused programs or files, or moving files to an external disk.",,,يمكنك إخلاء بعض المساحة بإفراغ المهملات، أو حذف البرامج أو الملفات غير المُستخدمة أو نقل الملفات إلى قرص خارجي.
+"You can free up disk space by emptying the Trash, removing unused programs or files, or moving files to another disk or partition.",,,يمكنك إخلاء بعض المساحة بإفراغ المهملات، أو حذف البرامج أو الملفات غير المُستخدمة أو نقل الملفات إلى قرص أو قسم آخر.
+"You can free up disk space by removing unused programs or files, or by moving files to an external disk.",,,يمكنك إخلاء بعض المساحة بحذف البرامج أو الملفات غير المُستخدمة أو نقل الملفات إلى قرص خارجي.
+"You can free up disk space by removing unused programs or files, or by moving files to another disk or partition.",,,يمكنك إخلاء بعض المساحة بحذف البرامج أو الملفات غير المُستخدمة أو نقل الملفات إلى قرص أو قسم آخر.
+"You just held down the Shift key for 8 seconds.  This is the shortcut for the Slow Keys feature, which affects the way your keyboard works.",,,لقد ضغطت مفتاح Shift لثمان ثوان. إنّ هذا إختصار ميزة المفاتيح البطيئة المؤثّر على طريقة عمل لوحة مفاتيحك.
+"You just pressed the Shift key 5 times in a row.  This is the shortcut for the Sticky Keys feature, which affects the way your keyboard works.",,,لقد نقرت مفتاح Shift خمس مرات متتالية. هذا اختصار ميزة المفاتيح اللاصقة المؤثّر على طريقة عمل لوحة مفاتيحك.
+"You just pressed two keys at once, or pressed the Shift key 5 times in a row.  This turns off the Sticky Keys feature, which affects the way your keyboard works.",,,لقد ضغطت على مفتاحان في آن واحد أو نقرت مفتاح Shift خمس مرّات متتالية. يعطّل هذا ميزة المفاتيح اللاصقة المؤثّر على طريقة عمل لوحة مفاتيحك.
+You will need to remove and then reinsert the hardware before it will work correctly.,,,ستحتاج إلى فصل العتاد ثم إعادة تركيبه ليعمل كما ينبغيو
+You will need to restart this computer before the hardware will work correctly.,,,ستحتاج لإعادة تشغيل الحاسوب ليعمل العتاد كما ينبغي.
+You will soon log out because of inactivity.,,,ستُخرج من الجلسة بعد قليل لعدم النشاط.
+Your hardware has been set up and is now ready to use.,,,تم إعداد عتادك ويمكنك الآن استخدامه.

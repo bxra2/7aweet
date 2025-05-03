@@ -1,0 +1,100 @@
+
+%s (on %s),%s (sur %s),%s (auf %s),%s (على %s)
+Activate the window menu,Activer le menu fenêtre,Das Fenstermenü aktivieren,فعّل قائمة النافذة
+Another compositing manager is already running on screen %i on display “%s”.,Un autre gestionnaire de composition est déjà lancé sur l’écran %i de l’affichage « %s ».,Ein weiterer Compositing-Verwalter läuft bereits auf Bildschirm %i der Anzeige »%s«.,يعمل مدير مزج آخر على الشاشة %i و العرض ”%s“.
+Application is not responding.,,,لا يستجيب التطبيق
+Attach modal dialogs,Attacher les boîtes de dialogue modale,Modale Dialoge anhängen,صندوق حوار سائد
+Bell event,Évènement sonore,Klangereignis,حدث جرس
+Built-in display,Affichage intégré,Eingebaute Anzeige,شاشة مدمجة
+Close window,Fermer la fenêtre,Fenster schließen,أغلق النّافذة
+Disable connection to session manager,Désactiver la connexion au gestionnaire de sessions,Verbindung zur Sitzungsverwaltung deaktivieren,عطّل الاتصال بمدير الجلسة
+Display “%s” already has a window manager; try using the --replace option to replace the current window manager.,L’affichage « %s » a déjà un gestionnaire de fenêtres ; essayez d’utiliser l’option --replace pour remplacer le gestionnaire de fenêtres actuel.,"Bildschirm »%s« hat bereits einen Fensterverwalter. Versuchen Sie die Option »--replace«, um den aktuellen Fensterverwalter zu ersetzen.",الشاشة ”%s“ لها مدير نوافذ بالفعل، حاول استعمال خيار التبديل --replace لتحُلّ محلّ مدير النوافذ الحالي.
+Failed to open X Window System display “%s”,Impossible d’ouvrir l’affichage « %s » du système X Window,X-Window-Systemanzeige »%s« konnte nicht geöffnet werden,فشل فتح عرض نظام نوافذ إكس ”%s“
+Hide all normal windows,Masquer toutes les fenêtres normales,Alle normalen Fenster verbergen,أخفِ كل النوافذ العادية
+Hide window,Masquer la fenêtre,Fenster verbergen,أخفِ النّافذة
+Initialize session from savefile,Initialiser la session depuis le fichier de sauvegarde,Sitzung anhand gespeicherter Datei starten,ابدأ الجلسة من ملف محفوظ
+Lower window below other windows,Mettre la fenêtre sous les autres fenêtres,Fenster hinter die anderen Fenster absenken,اخفض النافذة تحت النوافذ الأخرى
+Make X calls synchronous,Rendre synchrones les appels à X,X-Aufrufe abgleichen,اجعل نداءات س متزامنة
+Maximize window,Maximiser la fenêtre,Fenster maximieren,كبّر النّافذة
+Maximize window horizontally,Maximiser la fenêtre horizontalement,Fenster horizontal maximieren,كبّر النافذة أفقيا
+Maximize window vertically,Maximiser la fenêtre verticalement,Fenster vertikal maximieren,كبّر النافذة رأسيا
+Mode Switch (Group %d),Changement de mode (groupe %d),Moduswechsel (Gruppe %d),تغيير الأوضاع (مجموعة %d)
+Modifier to use for extended window management operations,Touche à utiliser pour les opérations étendues de gestion des fenêtres,Zusatztaste für erweiterte Aktionen der Fensterverwaltung,المغير الذي سيُستعمل لتمديد عمليات إدارة النوافذ
+Move to workspace above,,,انقل لمساحة العمل أعلى
+Move to workspace below,,,انقل لمساحة العمل أسفل
+Move window,Déplacer la fenêtre,Fenster verschieben,انقل النّافذة
+Move window one monitor down,Déplacer la fenêtre d’un écran vers le bas,Fenster einen Bildschirm nach unten verschieben,انقل النافذة شاشة واحدة إلى الأسفل
+Move window one monitor to the left,Déplacer la fenêtre d’un écran vers la gauche,Fenster einen Bildschirm nach links verschieben,انقل النافذة شاشة واحدة إلى اليسار
+Move window one monitor to the right,Déplacer la fenêtre d’un écran vers la droite,Fenster einen Bildschirm nach rechts verschieben,انقل النافذة شاشة واحدة إلى اليمين
+Move window one monitor up,Déplacer la fenêtre d’un écran vers le haut,Fenster einen Bildschirm nach oben verschieben,انقل النافذة شاشة واحدة إلى الأعلى
+Move window one workspace down,Déplacer la fenêtre d’un espace de travail vers le bas,Fenster eine Arbeitsfläche nach unten verschieben,انقل النافذة مساحة عمل واحدة إلى الأسفل
+Move window one workspace up,Déplacer la fenêtre d’un espace de travail vers le haut,Fenster eine Arbeitsfläche nach oben verschieben,انقل النافذة مساحة عمل واحدة إلى الأعلى
+Move window to last workspace,Déplacer la fenêtre vers le dernier espace de travail,Fenster auf letzte Arbeitsfläche verschieben,انقل النافذة إلى مساحة العمل الأخيرة
+Move window to workspace 1,Déplacer la fenêtre vers l’espace de travail 1,Fenster auf Arbeitsfläche 1 verschieben,انقل النافذة إلى مساحة العمل 1
+Move window to workspace 2,Déplacer la fenêtre vers l’espace de travail 2,Fenster auf Arbeitsfläche 2 verschieben,انقل النافذة إلى مساحة العمل 2
+Move window to workspace 3,Déplacer la fenêtre vers l’espace de travail 3,Fenster auf Arbeitsfläche 3 verschieben,انقل النافذة إلى مساحة العمل 3
+Move window to workspace 4,Déplacer la fenêtre vers l’espace de travail 4,Fenster auf Arbeitsfläche 4 verschieben,انقل النافذة إلى مساحة العمل 4
+Mutter,,,مَتَر
+Mutter plugin to use,Greffon de Mutter à utiliser,Zu benutzendes Mutter-Plugin,ملحق مَتَر الذي سيُستخدم
+Mutter was compiled without support for verbose mode,Mutter a été compilé sans la prise en charge du mode bavard,Mutter wurde ohne Unterstützung für den ausführlichen Modus kompiliert,جُمِّع مَتَر دون دعم للنمط المطنب
+Navigation,Navigation,Navigation,الإبحار
+Print version,Afficher la version,Version ausgeben,اطبع الإصدارة
+Raise window above other windows,Mettre la fenêtre au premier plan,Fenster vor die anderen Fenster anheben,ارفع النافذة فوق النوافذ الأخرى
+"Raise window if covered, otherwise lower it","Mettre la fenêtre au premier plan si elle est cachée, sinon à l’arrière-plan","Fenster anheben, falls es verdeckt ist, andernfalls absenken",ارفع النافذة إذا كانت أخرى تغطيها، أو أخفضها في ما عدا ذلك
+Replace the running window manager,Remplacer le gestionnaire de fenêtres en cours de fonctionnement,Den aktuellen Fensterverwalter ersetzen,استبدل بمدير النوافذ الذي يعمل
+Resize window,Redimensionner la fenêtre,Fenstergröße ändern,حجّم النّافذة
+Restore the keyboard shortcuts,Restaurer les raccourcis clavier,Die Tastenkombinationen wiederherstellen,استعد اختصارات لوحة المفاتيح
+Restore window,Restaurer la fenêtre,Fenstergröße wiederherstellen,استعد النّافذة
+Screen %d on display “%s” is invalid,L’écran %d sur l’affichage « %s » n’est pas valide,Bildschirm %d auf Anzeige »%s« ist ungültig,الشاشة %d على العرض ”%s“ غير صحيحة
+Show on-screen help,Afficher l’aide à l’écran,Bildschirmhilfe anzeigen,اعرض المساعدة على الشاشة
+Show the activities overview,,,أظهر نظرة عامة على الأنشطة
+Show the run command prompt,Afficher la fenêtre pour lancer une commande,Den »Befehl ausführen«-Dialog anzeigen,أظهر محث تشغيل أمر
+Specify session management ID,Indiquer l’ID de gestion de sessions,Kennung der Sitzungsverwaltung angeben,حدّد رقم هويّة إدارة الجلسة
+Switch applications,Changer d’application,Anwendungen wechseln,تنقل بين التطبيقات
+Switch directly to previous system control,Passer directement au contrôle système précédent,Direkt zur vorherigen Systemsteuerungen wechseln,انتقل مباشرة إلى تحكم النظام السابق
+Switch directly to previous window,Passer directement à la fenêtre précédente,Direkt zum vorherigen Fenster wechseln,انتقل مباشرة إلى النافذة السابقة
+Switch directly to previous window of an app,Passer directement à la fenêtre précédente d’une application,Direkt zum vorherigen Fenster einer Anwendung wechseln,انتقل مباشرة إلى نافذة التطبيق السابقة
+Switch monitor,Changer de moniteur,Bildschirm wechseln,غيّر الشاشة
+Switch monitor configurations,Changer de configuration de moniteur,Bildschirmkonfigurationen wechseln,غيّر الشاشة
+Switch system controls,Changer les contrôles système,Systemsteuerungen umschalten,تنقل بين تحكمات النظام
+Switch system controls directly,Changer les contrôles système directement,Systemsteuerungen sofort umschalten,تنقل مباشرة بين تحكمات النظام
+Switch to VT 1,Passer à l’émulateur de terminal 1,Zum virtuellen Terminal 1 wechseln,انتقل إلى مساحة العمل 1
+Switch to VT 10,Passer à l’émulateur de terminal 10,Zum virtuellen Terminal 10 wechseln,انتقل إلى مساحة العمل 10
+Switch to VT 11,Passer à l’émulateur de terminal 11,Zum virtuellen Terminal 11 wechseln,انتقل إلى مساحة العمل 11
+Switch to VT 12,Passer à l’émulateur de terminal 12,Zum virtuellen Terminal 12 wechseln,انتقل إلى مساحة العمل 12
+Switch to VT 2,Passer à l’émulateur de terminal 2,Zum virtuellen Terminal 2 wechseln,انتقل إلى مساحة العمل 2
+Switch to VT 3,Passer à l’émulateur de terminal 3,Zum virtuellen Terminal 3 wechseln,انتقل إلى مساحة العمل 3
+Switch to VT 4,Passer à l’émulateur de terminal 4,Zum virtuellen Terminal 4 wechseln,انتقل إلى مساحة العمل 4
+Switch to VT 5,Passer à l’émulateur de terminal 5,Zum virtuellen Terminal 5 wechseln,انتقل إلى مساحة العمل 5
+Switch to VT 6,Passer à l’émulateur de terminal 6,Zum virtuellen Terminal 6 wechseln,انتقل إلى مساحة العمل 6
+Switch to VT 7,Passer à l’émulateur de terminal 7,Zum virtuellen Terminal 7 wechseln,انتقل إلى مساحة العمل 7
+Switch to VT 8,Passer à l’émulateur de terminal 8,Zum virtuellen Terminal 8 wechseln,انتقل إلى مساحة العمل 8
+Switch to VT 9,Passer à l’émulateur de terminal 9,Zum virtuellen Terminal 9 wechseln,انتقل إلى مساحة العمل 9
+Switch to last workspace,Passer au dernier espace de travail,Zur letzten Arbeitsfläche wechseln,انتقل إلى مساحة العمل الأخيرة
+Switch to previous application,Passer à l’application précédente,Zur vorherigen Anwendung wechseln,انتقل إلى التطبيق السابق
+Switch to previous system control,Passer au contrôle système précédent,Zur vorherigen Systemsteuerungen wechseln,انتقل إلى تحكم النظام السابق
+Switch to previous window,Passer à la fenêtre précédente,Zum vorherigen Fenster wechseln,انتقل إلى النافذة السابقة
+Switch to previous window of an application,Passer à la fenêtre précédente d’une application,Zum vorherigen Fenster einer Anwendung wechseln,انتقل إلى نافذة التطبيق السابقة
+Switch to workspace 1,Passer à l’espace de travail 1,Zur Arbeitsfläche 1 wechseln,انتقل إلى مساحة العمل 1
+Switch to workspace 2,Passer à l’espace de travail 2,Zur Arbeitsfläche 2 wechseln,انتقل إلى مساحة العمل 2
+Switch to workspace 3,Passer à l’espace de travail 3,Zur Arbeitsfläche 3 wechseln,انتقل إلى مساحة العمل 3
+Switch to workspace 4,Passer à l’espace de travail 4,Zur Arbeitsfläche 4 wechseln,انتقل إلى مساحة العمل 4
+Switch windows,Changer de fenêtre,Fenster wechseln,تنقل بين النوافذ
+Switch windows directly,Changer de fenêtre directement,Fenster sofort wechseln,تنقل مباشرة بين النوافذ
+Switch windows of an app directly,Changer de fenêtre d’une application directement,Sofort zwischen den Fenstern einer Anwendung wechseln,تنقل مباشرة بين نوافذ التطبيق
+Switch windows of an application,Changer de fenêtre d’une application,Zwischen den Fenstern einer Anwendung wechseln,تنقل بين نوافذ التطبيق
+System,Système,System,النظام
+These windows do not support “save current setup” and will have to be restarted manually next time you log in.,,,هذه النوافذ لا تدعم ” الضبط الحالي&quot; إعادة تشغيلها يدويا عند الولوج المرة القادمة.
+Toggle fullscreen mode,Basculer le mode plein écran,Vollbildmodus ein-/ausschalten,بدّل نمط ملء الشاشة
+Toggle maximization state,Basculer l’état d’agrandissement,Maximierungszustand ein-/ausschalten,بدّل حالة التكبير
+Toggle window on all workspaces or one,"Placer la fenêtre sur tous les espaces de travail, ou sur un seul","Festlegen, ob das Fenster auf allen Arbeitsflächen sichtbar ist oder nur auf einer",بدّل حالة ظهور النافذة على جميع مساحات العمل أو واحدة منها
+Unknown,Inconnu,Unbekannt,غير معروفة
+Unknown Display,Affichage inconnu,Unbekannte Anzeige,شاشة غير معروفة
+View split on left,Vue divisée sur la gauche,Ansicht links teilen,المنظور مقسوم على اليمين
+View split on right,Vue divisée sur la droite,Ansicht rechts teilen,المنظور مقسوم على اليسار
+Windows,Fenêtres,Fenster,النوافذ
+Workspace %d,Espace de travail %d,Arbeitsfläche %d,مساحة العمل %d
+X Display to use,Affichage X à utiliser,Zu verwendende X-Anzeige,معراض س الذي سيستعمل
+You may choose to wait a short while for it to continue or force the application to quit entirely.,,,ربما ترغب في الانتظار قليلا ليُكمِل أو إجبار التطبيق على الإنهاء كُلّية.
+Force Quit,,,أجبر الإنهاء
+Wait,,,انتظر

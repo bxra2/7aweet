@@ -1,0 +1,100 @@
+
+A GtkIconTheme object to get icons from,,,كائن GtkIconTheme الذي ستؤخذ منه الأيقونات
+A GtkSettings object to get settings from,,,كائن GtkSettings الذي ستؤخذ منه الإعدادات
+A YelpUri with the current location,,,مسار يِلب مع المكان الحالي
+A size adjustment to add to font sizes,,,ضبط الحجم لإضافته إلى أحجام الخط
+Add Bookmark,Ajouter un signet,Lesezeichen hinzufügen,أضف علامة
+All Help,Aide générale,Alle Hilfedokumente,كل المساعدة
+All Help Documents,Tous les documents d’aide,Alle Hilfedokumente,كل وثائق المساعدة
+An unknown error occurred.,Une erreur inconnue est survenue.,Es ist ein unbekannter Fehler aufgetreten.,حدث عطل غير معروف.
+Application,,,تطبيق
+Back,Précédent,Zurück,للخلف
+Bookmarks,Signets,Lesezeichen,العلامات
+Copy Code Block,Copier le bloc de code,Code-Block kopieren,انسخ وحدة الكود
+Cannot Read,Lecture impossible,Nicht lesbar,تعذّر القراءة
+Could not load a document,Impossible de charger un document,Ein Dokument konnte nicht geladen werden,لا يمكن تحميل مستند
+Could not load a document for ‘%s’,Impossible de charger un document pour « %s »,Ein Dokument für »%s« konnte nicht geladen werden,لا يمكن تحميل مستند ل ‘%s’
+Database filename,,,اسم ملف قاعدة البيانات
+Document Not Found,Document non trouvé,Dokument wurde nicht gefunden,المستند غير موجود
+Document URI,,,مسار المستند
+Editor Mode,,,نمط المُحرّر
+Enable features useful to editors,,,تمكين الميزات المفيدة للمُحرّرين
+Find…,Rechercher…,Suchen …,ابحث…
+Font Adjustment,,,ضبط الخط
+Forward,Suivant,Vor,للأمام
+Get help with GNOME,Obtenir de l’aide avec GNOME,Hilfe zu GNOME erhalten,احصل على المساعدة في جُنوم
+Help,Aide,Hilfe,مساعدة
+Indexed,,,مُفهرَس
+Install <string/>,Installer <string/>,<string/> installieren,ثبّت <string/>
+Invalid compressed data,Données compressées non valides,Ungültige gepackte Daten,بيانات مضغوطة غير سليمة
+Larger Text,Agrandir le texte,Größerer Text,نص أكبر
+Loading State,,,حالة التحميل
+Menu,Menu,Menü,القائمة
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+Next Page,Page suivante,Nächste Seite,الصفحة التالية
+No bookmarks,Aucun signet,Keine Lesezeichen,لا علامات
+No href attribute found on yelp:document,Aucun attribut href trouvé dans yelp:document,Kein href-Attribut im yelp:-Dokument gefunden,لم يوجد إسناد href عند yelp:document
+No matching help pages found in “%s”.,Aucune page d’aide correspondante trouvée dans « %s ».,,لم يُعثَر على صفحات مساعدة في “%s”.
+No matching help pages found.,Aucune page d’aide correspondante trouvée.,Es wurden keine passenden Hilfeseiten gefunden.,لم يُعثَر على صفحات مساعدة.
+Not enough memory,Mémoire insuffisante,Nicht genug Speicher,الذاكرة غير كافية
+Open Link in New Window,Ouvrir le lien dans une nouvelle fenêtre,Verweis in neuem Fenster öffnen,افتح الوصلة في نافذة جديدة
+Out of memory,Mémoire insuffisante,Speichermangel,الذاكرة غير كافية
+Page Description,,,وصف الصفحة
+Page ID,,,معرِّف الصفحة
+Page Icon,,,أيقونة الصفحة
+Page Not Found,Page non trouvée,Seite wurde nicht gefunden,الصفحة غير موجودة
+Page Title,,,عنوان الصفحة
+Previous Page,Page précédente,Vorherige Seite,الصفحة السابقة
+Print…,Imprimer…,Drucken …,اطبع…
+Remove Bookmark,Supprimer le signet,Lesezeichen entfernen,احذف العلامة
+Root Title,,,عنوان الجذر
+Send Image To…,Envoyer l’image à…,Bild senden an …,أرسل الصورة إلى…
+Send Video To…,Envoyer la vidéo à…,Video senden an …,أرسل الفديو إلى…
+Save Code,Enregistrer le code,Code speichern,احفظ الكود
+Save Code Block As…,Enregistrer le bloc de code sous…,Code-Block speichern unter …,احفظ وحدة الكود باسم…
+Save Image,Enregistrer l’image,Bild speichern,احفظ الصورة
+Search (Ctrl+S),Rechercher (Ctrl+S),Suchen (Strg+S),ابحث (Ctrl+S)
+Search for packages containing this document.,Recherche de paquets contenant ce document.,"Nach Paketen suchen, die dieses Dokument enthalten.",ابحث عن الحزم التي تحتوي هذا المستند.
+Search for “%s”,Recherche de « %s »,Nach »%s« suchen,"ابحث عن ""%s"""
+Search results for “%s”,Résultats de la recherche pour « %s »,Suchergebnisse für »%s«,نتائج البحث عن “%s”
+Send email to %s,Envoyer un courriel à %s,E-Mail senden an %s,أرسل البريد إلى %s
+Show Text Cursor,,,اعرض مؤشر النص
+Show the text cursor or caret for accessible navigation,,,عرض مؤشر النص لتسهيل التنقّل
+Smaller Text,Réduire le texte,Kleinerer Text,نص أصغر
+The ID of the root page of the page being viewed,,,معرِّف جذر الصفحة للصفحة التي تعرض
+The URI does not point to a valid page.,L’URI ne se réfère pas à une page valide.,Die Adresse verweist nicht auf eine gültige Seite.,المسار لا يصل إلى صفحة سليمة.
+The URI which identifies the document,,,المسار الذي يُميّز المستند
+The URI ‘%s’ could not be parsed.,Impossible d’analyser l’URI « %s ».,Die Adresse »%s« konnte nicht verarbeitet werden.,تعذر تحليل المسار ‘%s’.
+The URI ‘%s’ does not point to a valid page.,L’URI « %s » ne se réfère pas à une page valide.,Die Adresse »%s« verweist nicht auf eine gültige Seite.,المسار ‘%s’ لا يصل إلى صفحة سليمة.
+The XSLT stylesheet ‘%s’ is either missing or not valid.,La feuille de style « %s » est manquante ou n’est pas valide.,"Entweder existiert die XSLT-Stilvorlage »%s« nicht, oder es ist keine gültige XSLT-Stilvorlage.",ملف نسق XSLT‏ ’%s‘ غير موجود أو غير سليم.
+The description of the page being viewed,,,وصف الصفحة التي تعرض
+The directory ‘%s’ does not exist.,Le répertoire « %s » n’existe pas.,Der Ordner »%s« existiert nicht.,الدليل ‘%s’ غير موجود.
+The file does not exist.,Le fichier n’existe pas.,Die Datei existiert nicht.,الملف غير موجود.
+The file ‘%s’ could not be parsed because it is not a well-formed XML document.,"Le fichier « %s » n’a pas pu être analysé, car ce n’est pas un document XML correctement formé.","Die Datei »%s« konnte nicht analysiert werden, da der Inhalt kein gültiges XML-Dokument ist.",تعذّر فهم الملف ‘%s’. لأنه ملف XML غير سليم.
+The file ‘%s’ could not be parsed because it is not a well-formed info page.,"Le fichier « %s » n’a pas pu être analysé, car ce n’est pas une page info correctement formée.","Die Datei »%s« konnte nicht analysiert werden, da sie keine gültige Texinfo-Seite ist.",تعذّر فهم الملف ‘%s’ لأنه ملف info غير سليم.
+The file ‘%s’ could not be parsed because one or more of its included files is not a well-formed XML document.,"Le fichier « %s » n’a pas pu être analysé, car un ou plus de ses fichiers inclus n’est pas un document XML correctement formé.","Die Datei »%s« konnte nicht analysiert werden, da eine oder mehrere der enthaltenen Dateien keine gültigen XML-Dokumente sind.",تعذّر فهم الملف ‘%s’. لأنه بعض الملفات التي يُضمّنها غير سليمة.
+The file ‘%s’ does not exist.,Le fichier « %s » n’existe pas.,Die Datei »%s« existiert nicht.,الملف ‘%s’ غير موجود.
+The filename of the sqlite database,,,اسم ملف قاعدة بيانات sqlite
+The icon of the page being viewed,,,أيقونة الصفحة التي تعرض
+The loading state of the view,,,حالة التحميل للمنظور
+The location of the XSLT stylesheet,,,مكان ورق أنماط XSLT
+The page ‘%s’ was not found in the document ‘%s’.,La page « %s » n’a pas été trouvée dans le document « %s ».,Die Seite »%s« konnte im Dokument »%s« nicht gefunden werden.,تعذّر إيجاد الصفحة ’%s‘ في المستند ’%s‘.
+The requested page was not found in the document ‘%s’.,La page demandée n’a pas été trouvée dans le document « %s ».,Die angeforderte Seite konnte nicht im Dokument »%s« gefunden werden.,تعذّر إيجاد الصفحة المطلوبة في المستند ’%s‘
+The title of the page being viewed,,,عنوان الصفحة التي تعرض
+The title of the root page of the page being viewed,,,عنوان جذر الصفحة للصفحة التي تعرض
+Turn on editor mode,Basculer en mode édition,In den Editor-Modus wechseln,شغّل نمط المُحرّر
+Unknown,Inconnu,Unbekannt,مجهول
+Unknown Error,Erreur inconnue,Unbekannter Fehler,خطأ مجهول
+Unknown Error.,Erreur inconnue.,Unbekannter Fehler.,خطأ مجهول.
+View,,,عرض
+Whether the document content has been indexed,,,ما إذا كان محتوى المستند مفهرسا أم لا
+XSLT Stylesheet,,,ورقة أنماط XSLT
+Yelp URI,,,مسار يِلب
+You do not have PackageKit. Package install links require PackageKit.,PackageKit n’est pas installé. Les liens d’installation de paquets nécessitent PackageKit.,PackageKit ist nicht installiert. Die Verweise der Paketinstallation verlangen PackageKit.,ليس لديك PackageKit. وصلات تثبيت الحزمة تتطلب PackageKit.
+Copy Link Location,Copier l’emplacement du lien,Ort kopieren,انسخ مكان الوصلة
+Copy Text,Copier le texte,Text kopieren,انسخ النص
+Install Packages,Installer les paquets,Pakete installieren,ثبّت الحزم
+Open Link,Ouvrir le lien,Verweis öffnen,افتح الوصلة
+Save Image As…,Enregistrer l’image sous…,Bild speichern unter …,احفظ الصورة باسم…
+Save Video As…,Enregistrer la vidéo sous…,Video speichern unter …,احفظ الفديو باسم…
+documentation;information;manual;,,,توثيق;معلومات;كتيب;
