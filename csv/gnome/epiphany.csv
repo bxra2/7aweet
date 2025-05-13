@@ -9,9 +9,9 @@
 75%,,,75%
 Something went wrong while displaying this page.Please reload or visit a different page to continue.,,,حدث عُطل ما أثناء عرض هذه الصفحة.من فضلك أعِد تحميل الصفحة أو اذهب إلى صفحة أخرى لمواصلة تصفُّحِك.
 The precise error was: %s,,,رسالة الخطأ كانت تحديدًا: %s
-"The site at <strong>%s</strong> may have caused Web to close unexpectedly.If this happens again, please report the problem to the <strong>%s</strong>  developers.",,,كن يكون الموقع <strong>%s</strong> تسبب في إغلاق المتصفح فجأة.إذا تكرر هذا فأبلغ مطوري <strong>%s</strong> عن هذه المشكلة.
-The site at <strong>%s</strong> seems to be unavailable.It may be temporarily inaccessible or moved to a new address. You may wish to verify that your internet connection is working correctly.,,,يبدو أنّ الموقع <strong>%s</strong> غير متاح. رسالة العطل تحديدا كانت:قد يكون الموقع أُغلق مؤقتًا أو انتقل إلى عنوان جديد. قد ترغب في التأكد من أنّ اتصال الإنترنت يعمل جيدا.
-"This does not look like the real <strong>%s</strong>. Attackers might be trying to steal or alter information going to or from this site (for example, private messages, credit card information, or passwords).",,,لا يبدو أن هذا هو <strong>%s</strong> الحقيقي. قد يكون المخترقون يحاولون سرقة أو تغيير المعلومات التي تأتي من هذا الموقع أو تذهب إليه (مثلا، الرسائل الخاصة، أو معلومات بطاقة الائتمان، أو كلمات السر).
+"The site at %s may have caused Web to close unexpectedly.If this happens again, please report the problem to the %s  developers.",,,كن يكون الموقع %s تسبب في إغلاق المتصفح فجأة.إذا تكرر هذا فأبلغ مطوري %s عن هذه المشكلة.
+The site at %s seems to be unavailable.It may be temporarily inaccessible or moved to a new address. You may wish to verify that your internet connection is working correctly.,,,يبدو أنّ الموقع %s غير متاح. رسالة العطل تحديدا كانت:قد يكون الموقع أُغلق مؤقتًا أو انتقل إلى عنوان جديد. قد ترغب في التأكد من أنّ اتصال الإنترنت يعمل جيدا.
+"This does not look like the real %s. Attackers might be trying to steal or alter information going to or from this site (for example, private messages, credit card information, or passwords).",,,لا يبدو أن هذا هو %s الحقيقي. قد يكون المخترقون يحاولون سرقة أو تغيير المعلومات التي تأتي من هذا الموقع أو تذهب إليه (مثلا، الرسائل الخاصة، أو معلومات بطاقة الائتمان، أو كلمات السر).
 "For example, not from advertisers on these sites",,,مثلا، ليس من المعلنين على هذه المواقع
 A file with this name already exists and you don't have permission to overwrite it.,,,هناك ملف موجود مسبقا بنفس الاسم، لا تملك التصاريح اللازمة للكتابة فوقه.
 "A simple, clean, beautiful view of the web","Une vue simple, propre et belle du Web","Ein einfacher, klarer, wunderschöner Blick auf das Web",نظرة بسيطة ورائقة وجميلة على الوب
@@ -468,7 +468,7 @@ Yes,,,نعم
 Yesterday %I:%M %p,,,الأمس %OI:%OM %p
 You are about to clear personal data that is stored about the web pages you have visited. Check the types of information that you want to remove:,,,أنت على وشك محو بيانات شخصية حول الصفحات التي زرتها. تحقق من أنواع المعلومات التي تريد حذفها:
 You are connected to %s,,,أنت متصل مع %s
-You are currently browsing <em>incognito</em>. Pages viewed in this mode will not show up in your browsing history and all stored information will be cleared when you close the window. Files you download will be kept.,,,تتصفح الآن <em>خفية</em>. الصفحات التي تشاهدها لن تظهر في تأريخ التصفح و كل البيانات المحفوظة ستُمحى عندما تُغلق النافذة. الملفات التي تنزلها ستبقى.
+You are currently browsing incognito. Pages viewed in this mode will not show up in your browsing history and all stored information will be cleared when you close the window. Files you download will be kept.,,,تتصفح الآن خفية. الصفحات التي تشاهدها لن تظهر في تأريخ التصفح و كل البيانات المحفوظة ستُمحى عندما تُغلق النافذة. الملفات التي تنزلها ستبقى.
 You can clear stored personal data.,,,يمكنك محو البي الشخصية المخزنة.
 You cannot undo this action. The data you are choosing to clear will be removed forever.,Vous ne pourrez pas annuler cette action. Les données que vous choisissez d’effacer le seront définitivement.,"Sie können diesen Schritt nicht rückgängig machen. Daten, die Sie zum Löschen auswählen, werden unwiderruflich gelöscht.",لا يمكن الاسترجاع بعد هذه العملية. ستمحى البيانات التي تختارها نهائيا.
 You do not have permission to create files in this directory.,,,لا تملك التصاريح الكافية لإنشاء ملفات في هذا الدليل.

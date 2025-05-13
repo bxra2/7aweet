@@ -51,11 +51,11 @@ Zoom quality,,,قائمة المكبّر
 Zoom,,,التذييلات
 Folder,,,مجلّد الموسيقى
 Recent folders:,,,المجلّد الهدف
-<small>Note: # (enumerator).</small>,,,<small>لا شيء</small>
-<small>Note: %d (current date).</small>,,,<small>لا شيء</small>
-"<small>Note: Drag the image to move it in the page.
-Click on an image to rotate it.</small>",,,<small>ملاحظة: الألوان التالية متاحة لتطيبقات الطرفيّة. </small>
-<small>Note: click to customize.</small>,,,<small>لا شيء</small>
+Note: # (enumerator).,,,لا شيء
+Note: %d (current date).,,,لا شيء
+"Note: Drag the image to move it in the page.
+Click on an image to rotate it.",,,ملاحظة: الألوان التالية متاحة لتطيبقات الطرفيّة. 
+Note: click to customize.,,,لا شيء
 A4,,,A4
 Adjust timezone:,,,إضبط البياض
 Available applications:,,,التطبيق المتوفر:

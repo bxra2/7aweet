@@ -50,8 +50,8 @@ Window and Tab Titles,Titres des fenêtres et onglets,Fenster- und Reitertitel,�
 Bookmarks,Marque-pages,Lesezeichen,الإشارات المرجعية
 Location,Emplacement,Ort,الموقع
 Name,Nom,Name,الاسم
-<big>Error autorunning software</big>,<big>Erreur durant le lancement automatique du logiciel</big>,<big>Fehler beim automatischen Starten</big>,<big>خطأ في تشغيل البرامج تلقائياً</big>
-<big>This medium contains software intended to be automatically started. Would you like to run it?</big>,<big>Ce support contient un logiciel conçu pour être lancé automatiquement. Souhaitez-vous le lancer ?</big>,"<big>Dieser Datenträger enthält Programme, die automatisch gestartet werden sollen. Sollen sie gestartet werden?</big>",<big> يحتوي هذا الوسيط على برنامج يهدف إلى البدء تلقائياً. هل ترغب في تشغيله؟</big>
+Error autorunning software,Erreur durant le lancement automatique du logiciel,Fehler beim automatischen Starten,خطأ في تشغيل البرامج تلقائياً
+This medium contains software intended to be automatically started. Would you like to run it?,Ce support contient un logiciel conçu pour être lancé automatiquement. Souhaitez-vous le lancer ?,"Dieser Datenträger enthält Programme, die automatisch gestartet werden sollen. Sollen sie gestartet werden?", يحتوي هذا الوسيط على برنامج يهدف إلى البدء تلقائياً. هل ترغب في تشغيله؟
 "By default, a folder tooltip shows the item count, and files display their size.
     Select additional information to display in the tooltip:","Par défault l'infobulle d'un dossier montre le nombre d'éléments et celle d'un fichier montre sa taille.
     Sélectionnez les informations complémentaires à afficher dans l'infobulle :","Als Vorgabe, wird eine Ordnerkurzinfo die Elementeanzahl anzeigen und Dateien deren Größe.

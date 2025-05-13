@@ -89,7 +89,7 @@ Error,Erreur,Fehler,خطأ
 Estimating…,,,يَحسِب…
 Evolution Calendar,,,تقويم إيفُليوشِن
 Execution of “%s” failed:,Exécution de « %s » impossible :,Ausführung von »%s« ist gescheitert:,فشل تنفيذ ”%s“:‏
-"Extensions can be installed through Software or <a href=""https://extensions.gnome.org"">extensions.gnome.org</a>.",,,"يمكن تثبيت الامتدادات من تطبيق «البرمجيات» أو من <a href=""https://extensions.gnome.org"">extensions.gnome.org</a>"
+"Extensions can be installed through Software or extensions.gnome.org.",,,"يمكن تثبيت الامتدادات من تطبيق «البرمجيات» أو من extensions.gnome.org"
 External Only,Externe seulement,Nur extern,الخارجية فقط
 External drive connected,Disque externe connecté,Externes Laufwerk verbunden,وُصّل قرص خارجي
 External drive disconnected,Disque externe déconnecté,Externes Laufwerk getrennt,فُصل القرص الخارجي
