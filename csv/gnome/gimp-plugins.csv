@@ -190,7 +190,7 @@ Autocrop unused space from edges and middle,Découpage automatique des espaces i
 Automatic,Automatique,Automatisch,آلي
 Automatic preview,Aperçu automatique,Automatische Vorschau,معاينة تلقائية
 Available images:,Images disponibles :,Verfügbare Bilder:,الصور المتاحة:
-B&W 1 bit,N&B 1 bit,Schwarz-weiß 1-Bit,16 بت
+BW 1 bit,NB 1 bit,Schwarz-weiß 1-Bit,16 بت
 "B, G, R, X (BMP style)","B, V, R, X (style BMP)","B, G, R, X (BMP-Stil)","B, G, R, X (مظهر BMP)"
 B/W,N/B,S-W,أسود/أبيض
 Black pullout (%):,,,إزالة الأسود (%):
@@ -826,7 +826,7 @@ Interlace,,,تشبيك داخلي
 Isolate,Isoler,,عزل
 Icon #%i,Icône n°%i,,أيقونة #%i
 Icon Details,Détails de l’icône,Symbolinformationen,تفاصيل الأيقونة
-"If checked GTM will output a full HTML document with <HTML>, <BODY>, etc. tags instead of just the table html.",,,إذا تم التأشير عليه، سيعطي GTM مستند HTML مليئًا بوسوم <HTML> و <BODY> وغيرها بدلًا من جدول html فقط.
+"If checked GTM will output a full HTML document with , , etc. tags instead of just the table html.",,,إذا تم التأشير عليه، سيعطي GTM مستند HTML مليئًا بوسوم  و  وغيرها بدلًا من جدول html فقط.
 If checked GTM will replace any rectangular sections of identically colored blocks with one large cell with ROWSPAN and COLSPAN values.,,,إذا تم التأشير عليه، سيستبدل GTM أية أقسام مستطيلة من الكتلات المتشابهة الألوان بخلية واحدة كبيرة ذات قيم ROWSPAN و COLSPAN.
 If enabled the preview will be redrawn automatically,"Si cette option est active, l’aperçu sera redessiné automatiquement.","Falls aktiviert, wird die Vorschau automatisch aktualisiert",سيتم إعادة رسم المعاينة آليًا إن كان مفعلًا
 If you enable this option higher color values will be swapped with lower ones and vice versa,"Si vous cochez cette option, les valeurs de couleurs élevées seront remplacées par des valeurs faibles, et vice-versa.",,إذا فعلت هذا الخيار، قيم الألوان الكبيرة سوف تُستبدل بالصغيرة وبالعكس

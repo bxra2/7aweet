@@ -1,0 +1,89 @@
+English,French,German,Arabic
+Preparing the query failed with the following error: %1 Do you want to continue without preparing the query?, La préparation de la requête a échoué avec l'erreur suivante : %1 Voulez-vous continuer sans préparer la requête ? ,, فشل إعداد الاستعلام مع الخطأ التالي: %1 هل تريد المتابعة دون إعداد الاستعلام؟  
+Add Connection...,Ajouter une connexion...,Verbindung hinzufügen ...,أضف اتّصالًا...
+All files,Tous les fichiers,Alle Dateien,كلّ الملفّات
+BLOB,BLOB,BLOB,القيم الثّنائيّة
+Background Color,Couleur de fond,Hintergrundfarbe,لون الخلفيّة
+Bool,Booléen,Bool,القيم المنطقيّة
+Character:,Caractère :,Zeichen:,المحرف:
+Clear,Effacer,Zurücksetzen,امح
+Clipboard,Presse-papier,Zwischenablage,الحافظة
+Comma Separated Values,Valeurs séparées par des virgules,Durch Komma getrennte Werte,قيم مفصولة بفواصل
+Connection,Connexion,Verbindung,الاتّصال
+Connection Name,Nom de la connexion,Verbindungsname,اسم الاتّصال
+Connection Parameters,Paramètres de connexion,Verbindungsparameter,معاملات الاتّصال
+Connection Wizard,Assistant de connexion,Verbindungsassistent,مُرشد الاتّصالات
+Connection name:,Nom de la connexion :,Verbindungsname:,اسم الاتّصال:
+Connection options:,Options de connexion :,Verbindungseinstellungen:,خيارات الاتّصال:
+Context,Contexte,Kontext,السّياق
+Copy,Copier,Kopieren,انسخ
+Current document,Document actuel,Aktuelles Dokument,المستند الحاليّ
+Database Driver,Pilote de base de données,Datenbanktreiber,محرّك قاعدة البيانات
+Database driver:,Pilote de base de données :,Datenbanktreiber:,محرّك قاعدة البيانات:
+Database files,Fichiers de base de données,Datenbankdateien,ملفّات قواعد البيانات
+Database name:,Nom de base de données :,Datenbankname:,اسم قاعدة البيانات:
+Database schema,Schéma de base de données,Datenbankschema,مخطّط قاعدة البيانات
+Date & Time,Date et heure,Datum & Zeit,التّاريخ والوقت
+Default,Par défaut,Standard,الافتراضيّ
+Delimiters,Délimiteurs,Trennzeichen,الفواصل
+Edit Connection...,Modifier une connexion...,Verbindung bearbeiten ...,حرّر الاتّصال...
+Enter a unique connection name,Saisissez un nom unique de connexion,Geben Sie einen eindeutigen Verbindungsnamen ein,أدخل اسم اتّصال فريد
+Export Wizard,Assistant d'exportation,Export-Assistent,مُرشد التّصدير
+Export column names,Exporter les noms de colonnes,Spaltennamen exportieren,صدّر أسماء الأعمدة
+Export line numbers,Exporter les numéros de lignes,Zeilennummern exportieren,صدّر أرقام الأسطر
+Export...,Exporter...,Exportieren ...,صدّر...
+Field delimiter:,Délimiteur de champ :,Feldtrennzeichen:,فاصل الحقول:
+Fields Format,Format des champs,Feldformat,نسق الحقول
+File,Fichier,Datei,ملفّ
+Generate,Générer,Erzeugen,ولّد
+Headers,En-têtes,Kopfzeilen,التّرويسات
+Hostname:,Nom d'hôte :,Rechnername:,اسم المضيف:
+NULL,Nul,NULL,العدم
+Number,Nombre,Nummer,الأرقام
+Output Customization,Personnalisation de la sortie,Anpassungen der Ausgabe,تخصيص الخرج
+Output Target,Cible de la sortie,Ausgabeziel,هدف الخرج
+Password:,Mot de passe :,Passwort:,كلمة المرور:
+Path:,Emplacement :,Pfad:,المسار:
+Please enter connection parameters,Veuillez saisir les paramètres de connexion,Geben Sie bitte die Verbindungsparameter ein,فضلًا أدخل معاملات الاتّصال
+"Please enter the SQLite database file path.
+If the file does not exist, a new database will be created.","Veuillez saisir l'emplacement du fichier de base de données SQLite.
+Si le fichier n'existe pas, une nouvelle base de données va être créée.","Bitte geben Sie den Pfad zur Datei der SQLite-Datenbank ein.
+Sollte die Datei nicht vorhanden sein, wird eine neue Datenbank erstellt.","فضلًا أدخل مسار ملفّ قاعدة بيانات SQLite.
+إن لم يكن الملفّ موجودًا، ستُنشأ قاعدة بيانات جديدة."
+Port:,Port :,Port:,المنفذ:
+Prepare Statement Failure,Échec de la préparation du relevé,,إعداد بيان الفشل
+Query completed successfully,Requête terminée avec succès,Die Anfrage wurde erfolgreich ausgeführt,انتهى الاستعلام بنجاح
+Quote numbers,Mettre les nombres entre guillemets,Zahlen mit Anführungszeichen umgeben,ضع الأرقام بين علامتيّ اقتباس
+Quote strings,Mettre les chaînes entre guillemets,Zeichenfolgen mit Anführungszeichen umgeben,ضع السّلاسل بين علامتيّ اقتباس
+Quotes,Guillemets,Anführungszeichen,علامات الاقتباس
+Reconnect,Reconnecter,Neu verbinden,أعد الاتّصال
+Refresh,Rafraîchir,Aktualisieren,أنعش
+Remove Connection,Supprimer une connexion,Verbindung entfernen,أزل الاتّصال
+Resize columns to contents,Redimensionner les colonnes selon leurs contenus,Spaltengröße an Inhalte anpassen,غيّر حجم الأعمدة لتناسب المحتوى
+Resize rows to contents,Redimensionner les lignes selon leurs contenus,Zeilengröße an Inhalte anpassen,غيّر حجم الصّفوف لتناسب المحتوى
+Run Query,Lancer une requête,Abfrage ausführen,نفّذ الاستعلام
+SQL ConfigPage Settings,Paramètres dans la page de configuration de SQL,SQL-Modul-Einstellungen,إعدادات صفحة ضبط SQL
+SQL Connections Toolbar,Barre d'outils pour connexions SQL,Werkzeugleiste für SQL-Verbindungen,شريط أدوات اتّصالات SQL
+SQL Data Output,Sortie de données SQL,SQL-Datenausgabe,خرج بيانات SQL
+SQL Schema,Schéma « SQL »,SQL-Schema,مخطّط SQL
+SQL Text Output,Sortie de texte SQL,SQL-Textausgabe,خرج نصّ SQL
+SQL Toolbar,Barre d'outils SQL,SQL-Werkzeugleiste,شريط أدوات SQL
+Save and restore connections in Kate session,Enregistrer et restaurer des connexions dans une session Kate,Verbindungen in Kate-Sitzungen speichern und wiederherstellen,احفظ الاتّصالات في جلسة «كيت» واستعدها
+Select Data,Sélectionner des données,Daten auswählen,حدد البيانات
+"Select fields format.
+Click on ""Finish"" button to export data.","Sélectionnez le format des champs.
+Cliquez sur le bouton « Terminer » pour exporter des données.","Feldformat auswählen.
+Klicken Sie „Fertigstellen“, um die Daten zu exportieren.","اختر نسق الحقول.انقر زر ""أنهِ"" لتصدير البيانات."
+Select the database driver,Sélectionnez le pilote de base de données,Wählen Sie den Datenbanktreiber,اختر محرّك قاعدة البيانات
+Select the output target.,Sélectionnez la cible de la sortie.,Wählen Sie das Ausgabeziel aus.,اختر هدف الخرج.
+System Tables,Tables système,System-Tabellen,جداول النّظام
+Tables,Tables,Tabellen,الجداول
+Text,Texte,Text,النّصّوص
+Text Color,Couleur du texte,Textfarbe,لون النّصّ
+UPDATE,UPDATE,UPDATE,UPDATE
+Unable to connect to database.,Impossible de se connecter à la base de données.,Die Verbindung zur Datenbank kann nicht hergestellt werden.,تعذّر الاتّصال بقاعدة البيانات.
+Unable to connect to database.<message>%1</message>,Impossible de se connecter à la base de données.<message>%1</message>,Die Verbindung zur Datenbank kann nicht hergestellt werden.<message>%1</message>,تعذّر الاتّصال بقاعدة البيانات.<message>%1</message>
+Unable to open file %1,Impossible d'ouvrir le fichier %1,Die Datei %1 kann nicht geöffnet werden,تعذّر فتح الملفّ %1
+Use system locale,Utiliser les paramètres de localisation,Regionaleinstellungen des Systems verwenden,استخدم محليّة النّظام
+Username:,Nom d'utilisateur :,Benutzername:,اسم المستخدم:
+Views,Vues,Ansichten,العروض

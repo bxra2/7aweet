@@ -1,0 +1,91 @@
+English,French,German,Arabic
+%1 crashed,%1 s'est planté,%1 ist abgestürzt,%1 تحطمت
+%1 finished with exit code %2,%1 terminé avec le code de sortie %2,%1 wurde mit dem Rückgabewert %2 beendet,%1 انتهى مع رمز الخروج %2
+Add,Ajouter,Hinzufügen,أضف
+Edit...,Modifier...,Bearbeiten ...,حرّر...
+Input:,Entrée :,Eingabe:,الدّخل:
+Remove,Supprimer,Entfernen,أزل
+Tools,Outils,Extras,أدوات
+"A semicolon-separated list of mime types for which this tool should be available. If empty, the tool is always available.","Liste séparée par des points-virgules de types MIME pour lesquels cet outil devrait être disponible. Si la liste est vide, l'outil est toujours disponible.","Eine durch Semikola getrennte Liste der MIME-Typen, die diesem Programm zugeordnet sind. Bei einer leeren Eingabe ist dieses Programm immer verfügbar.",قائمة مفصولة بفاصلة منقوطة لأنواع mime التي يجب أن تكون هذه الأداة متاحة لها. إذا كانت فارغة، فستكون الأداة متاحة دائمًا.
+Add Category,Ajouter une catégorie,Kategorie hinzufügen,أضف صنفاً
+Add Tool from Defaults,Ajouter un outil parmi les outils par défaut,Programm aus Voreinstellungen hinzufügen,أضف أداة من المبدئيات
+Add Tool...,Ajouter un outil...,Programm hinzufügen ...,أضف أداة...
+After Save,Après enregistrement,Nach dem Speichern,بعد الحفظ
+All Documents,Tous les documents,Alle Dokumente,كل المستندات
+Append to Current Document,Ajouter à la fin du document actuel,An aktuelles Dokument anhängen,ألحق بالمستند الحاليّ
+Application or interpreter,Application ou interpréteur,Programm oder Interpreter,التطبيق أو المترجم
+Arguments:,Arguments :,Argumente:,المعاملات:
+Before Save,Avant enregistrement,Vor dem Speichern,قبل الحفظ
+Clang Format Full File,Formater le fichier avec Clang,Ganze Datei mit Clang formatieren,تنسيق clang ملف كامل
+Clang Format Selected Text,Formater le texte sélectionné avec Clang,Ausgewählten Text mit Clang formatieren,تنسيق clang النص المحدد
+Command line arguments,Arguments en ligne de commande,Befehlszeilenargumente,معاملات سطر الأوامر
+Compile and Run cpp,Compiler et lancer cpp,cpp-Quelltext kompilieren und ausführen,تصريف وتشغيل cpp
+Configure...,Configurer...,Einrichten ...,اضبط...
+Copy to Clipboard,Copier dans le presse-papiers,In die Zwischenablage kopieren,انسخ إلى الحافظة
+Current Document,Document actuel,Aktuelles Dokument,المستند الحاليّ
+Data written to stderr:,Données écrites sur stderr :,Daten auf stderr geschrieben:,البيانات المكتوبة إلى Stderr:
+Display in Pane,Afficher dans le panneau,In Seitenleiste anzeigen,عرض في الجزء
+Displays output from the external tool,Affiche la sortie de l'outil externe,Zeigt die Ausgabe des externen Programms,يعرض الإخراج من الأداة الخارجية
+Edit External Tool,Modifier l'outil externe,Externe Programme bearbeiten,حرر الأداة الخارجية
+Edit Tool,Modifier l'outil,Programm bearbeiten,حرر الأداة
+Editor command:,Commande de l'éditeur :,Editorbefehl:,أمر المحرّر:
+Executable:,Exécutable :,Programmdatei:,التنفيذي:
+External Tool,Outil externe,Externe Programme,أداة خارجية
+External Tools,Outils externes,Externe Programme,الأدوات الخارجية
+"Failed to find executable '%1'. Please make sure the executable file exists and that variable names, if used, are correct","Impossible de trouver l'exécutable « %1 ». Veuillez-vous assurer que le fichier exécutable existe bien et que les noms de variables, si utilisées, sont corrects.",,فشل العثور على الملف القابل للتنفيذ '%1'. يرجى التأكد من وجود الملف القابل للتنفيذ ومن صحة أسماء المتغيرات، إذا تم استخدامها
+Git,Git,Git,غت
+Go,Aller,Go,غو
+Go Fmt Full File,Fichier totalement « Go Fmt »,Ganze Datei mit Go formatieren,تنسيق ملف كامل لغو
+GoImports Full File,Fichier totalement « GoImports »,Ganze Datei mit goimports aktualisieren,GoImports ملف كامل
+Google Selected Text,Recherche Google du texte sélectionné,Ausgewählten Text mit Google suchen,غوغل النص المحدد
+"If you specify a name here, you can invoke the command from the view command line with the_name_you_specified_here. Please do not use spaces or tabs in the name.","Si vous renseignez un nom ici, vous pouvez invoquer la commande depuis la ligne de commande de la vue avec le-nom-que-vous-avez-renseigné. N'utilisez pas d'espaces ou de tabulations dans ce nom.","Wenn Sie hier einen Namen angeben, können Sie den Befehl aus der Befehlszeilenansicht mit hier_vergebener_name ausführen. Verwenden Sie bitte keine Leerzeichen oder Tabs im Namen.",إذا حددت اسم هنا ، فيمكنك استدعاء الأمر من سطر أوامر العرض مع the_name_you_specified_here. يرجى عدم استخدام المسافة أو تبويبات في الاسم.
+Ignore,Ignorer,Ignorieren,تجاهل
+Insert UUID,Insérer le paramètre « UUID »,UUID einfügen,أدخل UUID
+Insert at Cursor Position,Insérer à l'emplacement du curseur,An Cursor-Position einfügen,أدرج عند موضع المؤشر
+Insert in New Document,Insérer dans un nouveau document,In neues Dokument einfügen,أدرِج في مستند جديد
+JSON Format Full File,Formater le fichier JSON,Ganze Datei mit JSON formatieren,تنسيق JSON ملف كامل
+Launch external helper applications,Lancer les applications d'aide externes,Externe Hilfsanwendung ausführen,إطلاق تطبيقات المساعد الخارجي
+Main Toolbar,Barre principale d'outils,Haupt-Werkzeugleiste,شريط الأدوات الرئيسي
+Mime types:,Types MIME :,MIME-Typen:,أنواع MIME:
+Name:,Nom :,Name:,الاسم:
+New Category,Nouvelle catégorie,Neue Kategorie,صنف جديد
+New Category %1,Nouvelle catégorie %1,Neue Kategorie %1,صنف جديد %1
+None,Aucun,Nein,لا شيء
+Output:,Sortie :,Ausgabe:,الخرج:
+Opens a dialog that helps in creating a list of mimetypes.,Ouvre une boîte de dialogue qui permet de créer une liste de types MIME.,Öffnet einen Dialog zur Erstellung einer Liste von MIME-Typen.,يفتح مربع حوار يساعد في إنشاء قائمة من أنواع MIME.
+Optional standard input,Entrée standard facultative,Optionale Standardeingabe,الإدخال القياسي الاختياري
+Optional view command line name,Nom facultatif pour la ligne de commande de la vue,Optionale Anzeige des Befehlszeilennamens,اسم سطر أوامر العرض الاختياري
+"Optionally save the current or all modified documents prior to running the command. This is helpful if you want to pass URLs to an application like, for example, an FTP client.","Optionnel, permet d'enregistrer le document actuel ou tous les documents modifiés avant de lancer la commande. Utile si vous souhaitez passer l'URL à une application, par exemple un client FTP.","Speichern Sie optional das aktuelle oder alle geänderten Dokumente, bevor Sie den Befehl ausführen. Dies ist nützlich, wenn Sie URLs an eine Anwendung wie z. B. einen FTP-Client weitergeben möchten.",يمكنك اختياريًا حفظ المستندات الحالية أو جميع المستندات المعدلة قبل تشغيل الأمر. وهذا مفيد إذا كنت تريد تمرير عناوين URL إلى تطبيق مثل، على سبيل المثال، عميل FTP.
+Output,Sortie,Ausgabe,الخرج
+Prettier Format Current File,Fichier courant dans un plus joli format,Aktuelle Datei mit Prettier formatieren,تنسيق أجمل للملف الحالي
+Qt,Qt,Qt,كيوت
+Qt Quick 2 Preview (qmlscene),Aperçu Qt Quick 2 (qmlscene),„Qt Quick 2“-Vorschau (qmlscene),معاينة Qt Quick 2 (qmlscene)
+Reload current document after execution,Recharger le document après exécution,Aktuelles Dokument nach der Ausführung neu laden,أعد تحميل المستند الحاليّ بعد التنفيذ
+Replace Current Document,Remplacer le document actuel,Aktuelles Dokument ersetzen,استبدل المستند الحاليّ
+Replace Selected Text,Remplacer le texte sélectionné,Ausgewählten Text ersetzen,استبدل النص المحدد
+Revert tool to default settings,Revenir à la configuration par défaut de l'outil,Programm auf Voreinstellungen zurücksetzen,أعد ضبط الأداة إلى الإعدادات المبدئية
+Run Shell Script,Lancer le script shell,Shell-Skript ausführen,تشغيل البرنامج النصي شل
+Running %1: %2 %3,Exécution de %1 : %2 %3,Läuft %1: %2 %3,تشغيل %1: %2 %3
+Running %1: %2 %3 with input %4,Exécution de %1 : %2 %3 avec l'entrée %4,Läuft %1: %2 %3 mit Eingabe %4,تشغيل %1: %2 %3 مع الإدخال %4
+Rust Fmt Full File,Fichier totalement « Rust Fmt »,Ganze Datei mit Rust formatieren,تنسيق رست لملف كامل
+Save:,Enregistrer :,Speichern:,الحفظ:
+Search KDE API,Rechercher un API de KDE,KDE-API durchsuchen,بحث كيدي API
+Search Qt API,Rechercher un API pour Qt,Qt-API durchsuchen,بحث QT API
+Select Mime Types,Sélectionner les types MIME,MIME-Typen auswählen,اختر أنواع Mime
+Select the MimeTypes for which to enable this tool.,Sélectionner les types MIME pour lesquels activer cet outil.,"Wählen Sie die MIME-Typen, für die dieses Programm aktiviert wird.",حدد أنواع MIME التي تريد تمكين هذه الأداة لها.
+Short name of the tool,Nom abrégé de l'outil,Kurzname des Programms,الاسم القصير للأداة
+Show tool only for given mime types,Afficher l'outil uniquement pour les types MIME renseignés,Programm nur für die angegebenen MIME-Typen anzeigen,أداة العرض فقط لأنواع mime المعطاة
+Starts the external tool '%1',Lance l'outil externe « %1 »,Startet das externe Programm „%1“,يبدأ الأداة الخارجية '%1'
+The name will be displayed in the 'Tools->External Tools' menu.,Ce nom sera affiché dans le menu « Outils / Outils externes ».,Der Name wird im Menü Extras->Externe Programme angezeigt.,"سيعرض الاسم في قائمة ""الأدوات-> الأدوات الخارجية""."
+"This list shows all the configured tools, represented by their menu text.","Cette liste énumère tous les outils configurés, représentés par leur texte dans le menu.",In dieser Liste sehen Sie die Menütexte aller eingerichteten Programme.,تعرض هذه القائمة جميع الأدوات التي المضبوطة ، ممثلة بنص القائمة الخاص بهم.
+Tools,Outils,Programme,أدوات
+Trigger,Déclenchement,Auslösen,المُطلق
+Uncategorized,Sans catégorie,Ohne Kategorie,غير مصنف
+Uses current document path if empty,Utilise l'emplacement du document actuel si non renseigné,"Aktuellen Dokumentpfad verwenden, wenn leer",يستخدم مسار المستند الحالي إذا كان فارغًا
+"With 'Trigger' enabled, at least one mimetype needs to be specified.","Lorsque l'option « Déclenchement » est activée, au moins un type « MIME » doit être spécifié.",,"مع تمكين ""المطلق"" ، يجب تحديد نوع واحد على الأقل."
+Working directory:,Dossier de travail :,Arbeitsordner:,دليل العمل:
+XML Format Full File,Formater le fichier XML,Ganze Datei mit XML formatieren,تنسيق XML ملف كامل
+You must specify at least a name and an executable,Vous devez spécifier au moins un nom et un exécutable,Sie müssen mindestens einen Namen und eine ausführbare Datei angeben,يجب عليك تحديد اسم على الأقل وقابل للتنفيذ
+git blame,git blame,git blame,غت بلام
+git-cola,git-cola,git-cola,جيت-كولا
+gitk,gitk,gitk,جيتك

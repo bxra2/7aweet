@@ -1,0 +1,227 @@
+English,French,German,Arabic
+"""%1"" may be available on the web. Software acquired from the web has not been reviewed by your distributor for functionality or stability. Use with caution.",Il est possible que « %1 » soit disponible sur Internet. Un logiciel trouvé sur Internet n'a pas été revu par les personnes en charge de votre distribution concernant ses fonctionnalités et sa stabilité. Veuillez l'utiliser avec précaution.,„%1” könnte im Internet verfügbar sein. So bezogene Software wurde von Ihrer Distribution nicht im Hinblick auf Funktionalität oder Stabilität geprüft. Verwenden Sie sie mit Vorsicht.,"يمكن أن يكون ""%1"" متوفرا على الويب. التطبيقات التي تجلب من الويب قد لا تكون مراجعة من قبل توزيعتك للاستقرارية والوظائف. استخدمها بحذر."
+"""%1"" was not found in the ""%2"" category",Il est impossible de trouver « %1 » dans la catégorie « %2 »,„%1“ kann in der Kategorie „%2” nicht gefunden werden,"عثر على ""%1"" في التصنيف ""%2"""
+"""%1"" was not found in the available sources",Il est impossible de trouver « %1 » dans les ressources disponibles.,„%1“ kann in den verfügbaren Paketquellen nicht gefunden werden,"لم يعثر على ""%1"" في المصادر المتوفرة"
+%1 (%2),%1 (%2),%1 (%2),‏%1 (‏%2)
+%1 - %2,%1 - %2,%1 - %2,‏%1 -‏ %2
+%1 - %2: %3,%1 - %2 : %3,%1 - %2: %3,%1 - %2: %3
+"%1 - %2: %3, %4 remaining","%1 - %2 : %3, %4 restant","%1 - %2: %3, %4 verbleibend",%1 - %2: %3، %4 بقي
+%1 does not indicate under which license it is distributed. Contact the application's author if you want to use it for anything other than private personal use.,%1 n'indique pas sous quelle licence il est distribué. Veuillez contacter la personne responsable de l'application si vous souhaitez l'utiliser pour autre chose qu'un usage personnel privé.,"%1 gibt nicht an unter welcher Lizenz die Verteilung erfolgt. Der Autor der Anwendung sollte kontaktiert werden, wenn es nicht nur im privaten Bereich oder persönlich verwendet werden soll.",لا يشير %1 إلى الترخيص الذي وزع بموجبه. اتصل بمؤلف التطبيق إذا كنت ترغب في استخدامه لأي غرض آخر غير الاستخدام الشخصي الخاص.
+%1 does not indicate under which license it is distributed. You may be able to determine this on the application's website. Find it there or contact the author if you want to use this application for anything other than private personal use.,%1 n'indique pas sous quelle licence il est distribué. Vous pourriez peut-être le déterminer sur le site Internet de l'application. Veuillez le chercher là ou contacter le responsable si vous souhaitez utiliser cette application pour autre chose qu'un usage personnel privé.,"%1 gibt nicht an unter welcher Lizenz die Verteilung erfolgt. Möglicherweise kann dies über die Internetseite der Anwendung ermittelt werden. Sofern dies nicht möglich ist, sollte der Autor kontaktiert werden, wenn es nicht nur im privaten Bereich oder persönlich verwendet werden soll.",لا يشير %1 إلى الترخيص الذي وزع بموجبه. قد تتمكن من تحديد ذلك على موقع الويب الخاص بالتطبيق. يمكنك العثور عليه هناك أو الاتصال بالمؤلف إذا كنت ترغب في استخدام هذا التطبيق لأي غرض آخر غير الاستخدام الشخصي الخاص.
+%1 is not configured for installing apps through Discover—only app add-ons,%1 n'est pas configuré pour l'installation d'applications grâce à Discover— Uniquement des modules additionnels pour applications,%1 ist nicht für das Installieren von Anwendung über Discover eingestellt — nur Zusatzmodule für Anwendungen,التوزيعة %1 غير مضبوطة لتثبيت التطبيقات بواسطة المستكشف - فقط ملحقات التطبيقات
+%1 reviews,%1 avis,%1 Bewertungen,%1 مراجعة
+"%1 uses one or more licenses not certified as “Free Software” by either the Free Software Foundation or the Open Source Initiative. This means your freedom to use, study, modify, and share it may be restricted in some ways.Make sure to read the license text and understand any restrictions before using the software.If the license does not even grant access to read the source code, make sure you fully trust the authors, as no one else can verify the trustworthiness and security of its code to ensure that it is not acting against you in hidden ways. More information may be available on the application's website.Learn more at %5.","%1 utilise une ou plusieurs licences non certifiées « Logiciel libre » soit par la Free Software Foundation ou la Open Source Initiative. Cela signifie que votre liberté d'utiliser, d'étudier, de modifier et de partager le code source peut être restreinte de certaines façons. Veuillez vous assurer de bien lire le texte de licence et de comprendre les éventuelles restrictions avant d'utiliser le logiciel. Si la licence ne vous donne même pas le droit de lire le code source, veuillez vous assurer de faire entièrement confiance aux auteurs, car aucune autre personne ne peut vérifier la fiabilité et la sécurité de ce code et s'assurer qu'il ne peut agir contre vous de manière cachée. Des informations plus détaillées pourrait être disponibles sur le site Internet de l'application.Pour en savoir plus, veuillez consulter la page %5.","%1 verwendet eine oder mehrere Lizenzen, die nicht als „Freie Software“ durch die Free Software Foundation oder Open Source Initiative zertifiziert sind. Das bedeutet, dass die Freiheit zum Verwenden, Untersuchen, Ändern und Teilen auf mehrere Weisen eingeschränkt sein kann.Lesen Sie die Lizenz und stellen Sie sicher, dass Sie diese auch verstehen, bevor Sie die Software verwenden.Sofern die Lizenz die Möglichkeit zur Einsichtnahme des Quelltextes verweigert, sollte sichergestellt sein, dass den Autoren vollständig vertraut werden kann, da niemand sonst die Vertrauenswürdigkeit und Sicherheit überprüfen kann, sodass sichergestellt ist, dass niemand gegen Sie auf versteckte Weisen agiert. Weitere Informationen können auf der Internetseite der Anwendung enthalten sein.Sie können mehr über das Thema unter %5 erfahren.","يستخدم %1 ترخيصًا واحدًا أو أكثر غير معتمد باعتباره ""برنامجًا حرًا"" من قبل مؤسسة البرمجيات الحرة أو مبادرة المصدر المفتوح. وهذا يعني أن حريتك في استخدامه ودراسته وتعديله ومشاركته قد تكون مقيدة ببعض الطرق.تأكد من قراءة نص الترخيص وفهم أي قيود قبل استخدام البرنامج.إذا لم يمنح الترخيص حق الوصول لقراءة الكود المصدر، فتأكد من أنك تثق تمامًا في المؤلفين، حيث لا يمكن لأي شخص آخر التحقق من موثوقية وأمان الكود الخاص به لضمان عدم تصرفه ضدك بطرق خفية. قد تتوفر المزيد من المعلومات على موقع الويب الخاص بالتطبيق.تعرف على المزيد على %5."
+"%1 uses one or more licenses not certified as “Free Software” by either the Free Software Foundation or the Open Source Initiative. This means your freedom to use, study, modify, and share it may be restricted in some ways.Make sure to read the license text and understand any restrictions before using the software.If the license does not even grant access to read the source code, make sure you fully trust the authors, as no one else can verify the trustworthiness and security of its code to ensure that it is not acting against you in hidden ways.Learn more at %4.","%1 utilise une ou plusieurs licences non certifiées « Logiciel libre » soit par la Free Software Foundation ou la Open Source Initiative. Cela signifie que votre liberté d'utiliser, d'étudier, de modifier et de partager le code source peut être restreinte de certaines façons. Veuillez vous assurer de bien lire le texte de licence et de comprendre les éventuelles restrictions avant d'utiliser le logiciel. Si la licence ne vous donne même pas le droit de lire le code source, veuillez vous assurer de faire entièrement confiance aux auteurs, car aucune autre personne ne peut vérifier la fiabilité et la sécurité de ce code et s'assurer qu'il ne peut agir contre vous de manière cachée. Pour en savoir plus, veuillez consulter la page %4.","%1 verwendet eine oder mehrere Lizenzen, die nicht als „Freie Software“ durch die Free Software Foundation oder Open Source Initiative zertifiziert sind. Das bedeutet, dass die Freiheit zum Verwenden, Untersuchen, Ändern und Teilen auf mehrere Weisen eingeschränkt sein kann.Lesen Sie die Lizenz und stellen Sie sicher, dass Sie diese auch verstehen, bevor Sie die Software verwenden.Sofern die Lizenz die Möglichkeit zur Einsichtnahme des Quelltextes verweigert, sollte sichergestellt sein, dass den Autoren vollständig vertraut werden kann, da niemand sonst die Vertrauenswürdigkeit und Sicherheit überprüfen kann, sodass sichergestellt ist, dass niemand gegen Sie auf versteckte Weisen agiert.Sie können mehr über das Thema unter %4 erfahren.","يستخدم %1 ترخيصًا واحدًا أو أكثر غير معتمد باعتباره ""برنامجًا حرًا"" من قبل مؤسسة البرمجيات الحرة أو مبادرة المصدر المفتوح. وهذا يعني أن حريتك في استخدامه ودراسته وتعديله ومشاركته قد تكون مقيدة ببعض الطرق.تأكد من قراءة نص الترخيص وفهم أي قيود قبل استخدام البرنامج.إذا لم يمنح الترخيص حتى حق الوصول لقراءة الكود المصدر، فتأكد من أنك تثق تمامًا في المؤلفين، حيث لا يمكن لأي شخص آخر التحقق من موثوقية وأمان الكود الخاص به لضمان عدم تصرفه ضدك بطرق خفية.تعرف على المزيد على %4."
+%1+,%1 +,%1+,%1+
+About,À propos,Über,عن
+Home,Accueil,Startseite,الصفحة الأولى
+Installed,Installé(s),Installiert,المثبّت
+Search,Rechercher,Suchen,ابحث
+Updates (%1),Mise à jour (%1),Aktualisieren (%1),التحديثات (%1)
+Updates (Fetching…),Mises à jour (Recherche en cours...),Aktualisierungen (werden geholt …),التحديثات (يجلب…)
+",",",",",",،
+%1 by %2,%1 par %2,%1 von %2,‏‏%1 كتبه %2
+Add,Ajouter,Hinzufügen,أضف
+Add New %1 Repository,Ajouter un nouveau dépôt %1,Neue Paketquelle %1 hinzufügen,أضف مستودع %1 جديد
+Add Source…,Ajouter une source…,Paketquelle hinzufügen ...,أضف مصدرًا...
+Add-ons,Modules complémentaires,Erweiterungen,الإضافات
+Addons for %1,Modules complémentaires pour %1,Erweiterungen für %1,إضافات %1
+Ages:,Âges :,Alter:,العمر:
+Aleix Pol Gonzalez,Aleix Pol Gonzalez,Aleix Pol Gonzalez,Aleix Pol Gonzalez
+All Licenses,Toutes les licences,Alle Lizenzen,جميع الرخص
+An application explorer,Un explorateur d'applications,"Ein Programm, um Anwendungen zu finden",متصفّح للتّطبيقات
+Apply Changes,Appliquer les changements,Änderungen anwenden,طبّق التّغييرات
+Available backends:,Moteurs disponibles :,Verfügbare Backends:,الأسناد المتوفّرة:
+Available modes:,Modes disponibles :,Verfügbare Modi:,الأوضاع المتوفّرة:
+Cancel,Annuler,Abbrechen,ألغِ
+Cannot interact with flatpak resources without the flatpak backend %1. Please install it first.,Impossible d'interagir avec les ressources flatpak sans le moteur flatpak %1. Veuillez l'installer.,Die Bearbeitung von Flatpack-Ressourcen ist ohne das Flatpak-Backend %1 nicht möglich. Installieren Sie es zuerst.,لا يمكن التفاعل مع موارد فلاتباك بدون الواجهة الخلفية لـ فلاتباك %1.الرجاء تثبيتها أولاً.
+Check out the %1 app!,Découvrez l'application %1 !,Probieren Sie die Anwendung %1 aus!,ألق نظرة على تطبيق %1!
+Close,Fermer,Schließen,أغلق
+Comment by %1,Commentaire par %1,Kommentar von %1,تعليق بواسطة %1
+Configure,Configurer,Einrichten,اضبط
+Configure Feedback…,Configurer le retour d'utilisateur…,Feedback einrichten …,اضبط مشاركة المعلومات…
+Configure Updates…,Configurer les mises à jour…,Aktualisierungen einrichten ...,اضبط التحديثات...
+Content Rating,Notation des contenus,Inhaltsbewertungen,تقييم المحتوى
+Contribute…,Contribuer…,Mitmachen …,ساهم...
+Copy Text,Copier du texte,Text kopieren,انسخ النص
+Copy to Clipboard,Copier dans le presse-papier,In die Zwischenablage kopieren,انسخ إلى الحافظة
+Could not find category '%1',Impossible de trouver la catégorie « %1 »,Die Kategorie „%1“ wurde nicht gefunden,تعذّر العثور على الفئة ’%1‘
+Could not open %1,Impossible d'ouvrir « %1 »,„%1“ kann nicht geöffnet werden,تعذّر فتح %1
+Could not open %1 because it was not found in any available software repositories.,Impossible d'ouvrir %1 car ce dernier n'a été trouvé dans aucun dépôt disponible de logiciels.,"%1 kann nicht geöffnet werden, da es in keiner verfügbaren Paketquelle gefunden wurde.",لا يمكن فتح %1 بسبب عدم العثور عليه في أي مستودع تطبيقات.
+Dan Leinir Turthra Jensen,Dan Leinir Turthra Jensen,Dan Leinir Turthra Jensen,Dan Leinir Turthra Jensen
+Decrease priority,Réduire la priorité,Priorität verringern,قلِّل الأولوية
+Default Source,Source par défaut,Standard-Paketquelle,المصدر المبدئي
+Directly open the specified application by its appstream:// URI.,Ouvre directement l'application spécifiée par son lien « appstream:// URI ».,Öffnet die angegebene Anwendung direkt über die appstream://-URI.,افتح التّطبيق المحدّد مباشرة بappstream:// URI.
+Discover,Discover,Discover,استكشف
+"Discover was closed before certain tasks were done, waiting for it to finish.",Discover a été fermé avant que certaines tâches ne soient terminées. En attende que ces dernières se terminent.,"Discover wurde geschlossen, bevor einige Aufgaben abgeschlossen wurden. Es wird gewartet, bis der Vorgang beendet ist.",أُغلق المستكشف قبل الانتهاء من مهام معينة، في انتظار الانتهاء.
+Display a list of entries with a category.,Affiche une liste des éléments comportant une catégorie.,Zeigt eine Liste von Einträgen mit einer Kategorie.,اعرض قائمة من المدخلات حسب الفئة.
+Donate to the project,Faire un don au projet,Für das Projekt spenden,تبرّع للمشروع
+Editor's Choice,Sélection de l'éditeur,Empfehlungen,اختيار المحررين
+Enter a rating,Saisissez une note,Geben Sie eine Bewertung ein,أدخل تقييم
+Error,Erreur,Fehler,خطأ
+Error %1 of %2,Erreur %1 parmi %2,Fehler %1 von %2,الخطأ %1 من %2
+"Error message copied. Remember to report it to %1, not KDE!",Copie du message d'erreur effectuée. Veuillez ne pas oublier de le signaler à %1 et non à la communauté KDE !,"Die Fehlernachricht ist kopiert. Bitte beachten Sie, den Fehler an %1 zu berichten (und bitte nicht an KDE).",رسالة الخطأ نسخت. تذكر أن تبلغ %1 ، وليس كيدي.
+Everyone,Tout le monde,Alle,الكلّ
+External Links,Liens externes,Externe Verknüpfungen,الروابط الخارجية
+Failed to decrease '%1' preference,Impossible de diminuer la préférence « %1 »,Präferenz für „%1“ kann nicht verringert werden,فشل في إنقاص تفضيل '%1'
+Failed to increase '%1' preference,Impossible d'augmenter la préférence « %1 »,Präferenz für „%1“ kann nicht erhöht werden,فشل في زيادة تفضيل '%1'
+Fetching updates…,Recherche de mises à jour en cours...,Aktualisierungen werden geholt …,يجلب التّحديثات...
+From %1,De %1,Von %1,من %1
+Highest Ratings,Les meilleures notes,Am besten bewertet,الأعلى تقييماً
+Highest-Rated Developer Tools,Outils de développement les mieux cotés,Am besten bewertete Entwicklungswerkzeuge,أدوات المطوّر الأعلى تقييماً
+Highest-Rated Games,Jeux les mieux cotés,Am besten bewertete Spiele,الألعاب الأعلى تقييماً
+Home,Page d'accueil,Startseite,الصفحة الأولى
+"If %1 isn't launching, consider reporting this its developers at %2 instead, as it may be an easily fixable packaging issue rather than a flaw in the app itself.","Si l'application %1 ne se lance pas, veuillez plutôt le signaler à l'équipe de développement à l'adresse %2, car il peut s'agir d'un problème de mise en paquet facilement corrigeable plutôt que d'une faille dans l'application elle-même.","Wenn %1 nicht ausführbar ist, sollten Sie dies stattdessen den Entwicklern über %2 berichten, da es sich möglicherweise um ein einfach behebbares Paketierungsproblem anstelle eines Mangels der Anwendung selbst handelt.",إذا لم يتم تشغيل %1، ففكر في الإبلاغ عن هذا الأمر إلى مطوريه على %2 بدلاً من ذلك، حيث قد تكون هذه مشكلة في الحزمة يمكن إصلاحها بسهولة وليس خللًا في التطبيق نفسه.
+"If %1 isn't launching, consider reporting this to its packagers in %2 at %3 instead, as it may be an easily fixable packaging issue rather than a flaw in the app itself.","Si l'application %1 ne se lance pas, veuillez plutôt le signaler à l'équipe de mise en paquet dans %2 à l'adresse %3, car il peut s'agir d'un problème de mise en paquet facilement corrigeable plutôt que d'une faille dans l'application elle-même.","Wenn %1 nicht ausführbar ist, sollten Sie dies stattdessen den Paketerstellern von %2 über %3 berichten, da es sich möglicherweise um ein einfach behebbares Paketierungsproblem anstelle eines Mangels der Anwendung selbst handelt.",ذا لم يتم تشغيل %1، ففكر في الإبلاغ عن هذا إلى حزمه في %2 على %3 بدلاً من ذلك، حيث قد تكون مشكلة حزمة قابلة للإصلاح بسهولة بدلاً من خلل في التطبيق نفسه.
+"If the app is crashing a lot, consider reporting this to the developers at %1 instead.","Si l'application plante beaucoup, veuillez plutôt le signaler à l'équipe de développement à l'adresse %1.","Wenn die Anwendung öfters abstürzt, sollten Sie dies stattdessen den Entwicklern über %1 berichten.",إذا كان التطبيق يتعطل كثيرًا، ففكر في الإبلاغ عن هذا الأمر للمطورين على %1 بدلاً من ذلك.
+"If the error indicated above looks like a real issue and not a temporary network error, please report it to %1, not KDE.","Si l'erreur indiquée ci-dessus semble liée à un réel problème et non une erreur temporaire de réseau, veuillez la signaler à %1 et non à la communauté KDE.",Der oben festgestellte Fehler scheint schwerwiegender und nicht nur ein Netzwerkfehler zu sein. Bitte berichten Sie ihn an %1 (und bitte nicht an KDE).,إذا كان الخطأ المشار إليه أعلاه يبدو وكأنه مشكلة حقيقية وليس خطأ شبكة مؤقتة، يرجى إبلاغ %1، وليس كيدي.
+"If you love %1, tell people what's great about it! Focus on functionality, usability, and appearance. If the app didn't meet your needs, explain why.","Si vous aimez l'application %1, dites à tout le monde ce qui est génial à son sujet ! Veuillez vous concentrer sur les fonctionnalités, l'ergonomie et l'apparence. Si l'application ne répondait pas à vos besoins, merci de nous expliquer pourquoi.","Wenn Sie %1 lieben, teilen Sie den Leuten mit, was großartig daran ist. Konzentrieren Sie sich auf Funktionalität, Benutzerfreundlichkeit und Erscheinungsbild. Wenn die Anwendung Ihre Bedürfnisse nicht erfüllt hat, sollten Sie auch das erläutern.",إذا كنت تحب %1، فأخبر الأشخاص بما يميزه! ركز على الوظائف وسهولة الاستخدام والمظهر. إذا لم يلب التطبيق احتياجاتك، اشرح السبب.
+"If you're having a problem with the app, consider reporting it to the developers at %1 instead, or else describe the problem here in greater detail.","Si vous rencontrez un problème avec l'application, veuillez plutôt le signaler à l'équipe de développement à l'adresse %1 ou décrire le problème plus en détails ici.","Wenn Sie Probleme mit der Anwendung haben, sollten Sie dies stattdessen den Entwicklern über %1 berichten oder das Problem hier genauer beschreiben.",إذا كنت تواجه مشكلة مع التطبيق، ففكر في الإبلاغ عنها إلى المطورين على %1 بدلاً من ذلك، أو قم بوصف المشكلة هنا بمزيد من التفصيل.
+Ignore,Ignorer,Ignorieren,تجاهل
+Increase priority,Augmenter la priorité,Priorität erhöhen,زِد الأولوية
+Insert a name,Insérer un nom,Namen eingeben,أدرِج اسمًا
+Install,Installer,Installieren,ثبّت
+Install from %1,Installer à partir de %1,Von %1 installieren,ثبّت من مستودع %1
+Install this app to write a review,Installez cette appli et donnez votre avis,"Installieren Sie diese Anwendung, um eine Bewertung zu schreiben",ثبت هذا التطبيق لتكتب مراجعة
+Install to Write a Review,Installez-le pour donner votre avis,"Installieren, um eine Bewertung zu schreiben",ثبت لتكتب مراجعة
+Installed,Installé(s),Installiert,المثبّت
+Installing,Installation en cours,-Installation,يثبّت
+KNewStuff,KNewStuff,KNewStuff,KNewStuff
+Keep writing…,Continuez à écrire…,Schreiben Sie mehr ...,واصل الكتابة...
+License Information,Informations de licence,Lizenz-Informationen,معلومات الرخصة
+List all the available backends.,Liste toutes les moteurs disponibles.,Zeigt alle verfügbaren Backends.,اسرد كل الأسناد المتوفّرة.
+List all the available modes.,Liste tous les modes disponibles.,Alle verfügbaren Modi anzeigen.,اسرد كلّ الأوضاع المتوفّرة.
+Lists the available options for user feedback,Liste les options disponibles pour les retours des utilisateurs,Zeigt die verfügbaren Einstellungen zum Benutzer-Feedback an,يسرد الخيارات المتاحة لمشاركة بياناتك
+Loading reviews for %1,Chargement des avis pour %1,Bewertungen für %1 laden,تحميل مراجعات %1
+Loading…,Chargement en cours…,Wird geladen …,يحمّل...
+Local package file to install,Fichier de paquet local à installer,Zu installierende lokale Paketdatei,ملفّ الحزمة المحليّة لتثبيتها
+Make Default,Définir comme configuration par défaut,Als Standard setzen,اجعله المبدئيّ
+Missing Backends,Moteurs manquants,Fehlende Backends,الخلفيات الناقصة
+More Information…,Plus d'informations…,Weitere Informationen …,المزيد من المعلومات…
+More…,Plus…,Mehr …,المزيد…
+Most Popular,Les plus populaires,Beliebteste,الأكثر شعبيّة
+Most Recent,Le plus récent,Neueste,الأحدث
+Most Relevant,Le plus pertinent,Relevanteste,الأكثر صلة
+Name,Nom,Name,الاسم
+Name:,Nom :,Name:,الاسم:
+Nate Graham,Nate Graham,Nate Graham,Nate Graham
+Newly Published & Recently Updated,Nouvellement publié et récemment mis à jour,Neu herausgegeben & kürzlich aktualisiert,المنشور حديثا و المحدث قريبا
+Next Screenshot,Copie d'écran suivante,Nächstes Bildschirmfoto,لقطة شاشة التالية
+No,Non,Nein,لا
+No ratings yet,Pas encore de note,Noch keine Bewertungen,لم يقيم بعد
+Nothing found,Rien n'a été trouvé,Nichts gefunden,لم يعثر على شيء
+"On completion, automatically:","À la fin, automatiquement :",Nach Abschluss automatisch:,عند الانتهاء، قم آليا بـ:
+"Only install %1 if you fully trust its authors because it is proprietary: Your freedom to use, modify, and redistribute this application is restricted, and its source code is partially or entirely closed to public inspection and improvement. This means third parties and users like you cannot verify its operation, security, and trustworthiness.The application may be perfectly safe to use, or it may be acting against you in various ways — such as harvesting your personal information, tracking your location, or transmitting the contents of your data to someone else. Only use it if you fully trust its authors. Learn more at %2.","N'installez cette application %1 que si vous faites entièrement confiance à ses auteurs car elle est à code fermé : votre liberté d'utiliser, de modifier et de re-distribuer cette application est restreinte. Son code source est partiellement ou entièrement fermé à la consultation publique et à des améliorations. Cela signifie que des parties tierces et des utilisateurs comme vous ne peuvent pas vérifier son fonctionnement, sa sécurité et sa fiabilité ou la modifier.  L'application peut être parfaitement sûre à utiliser ou peut agir contre vous de multiples façons - comme — comme collecter vos informations personnelles, suivre votre position ou transmettre le contenu de vos fichiers à une autre personne. Ne l'utiliser que si vous faites totalement confiance à ses auteurs. Vous pouvez en apprendre plus sur la page %2.","%1 sollte nur installiert werden, wenn die Autoren vollständig vertrauenswürdig sind, da es proprietär ist: Die Freiheit zum Verwenden, Ändern und Weitergeben dieser Anwendung ist eingeschränkt und der Quelltext ist teilweise oder vollständig gegenüber öffentlicher Einsichtnahme und Verbesserung geschlossen. Das bedeutet, dass Dritte oder Benutzer wie Sie weder die Funktionsweise, Sicherheit oder Vertrauenswürdigkeit prüfen können.Die Anwendung kann möglicherweise absolut sicher genutzt werden oder auch auf verschiedenste Weisen angreifen — Denkbar wäre beispielsweise das Sammeln persönlicher Informationen, die Verfolgung des Standorts oder das Übertragen von Inhalten Ihrer Dateien an Dritte. Die Anwendung sollte nur genutzt werden, wenn den Autoren vollständig vertraut wird. Sie können mehr über das Thema unter %2 erfahren.",لا تقم بتثبيت %1 إلا إذا كنت تثق تمامًا في مؤلفيه لأنه ملكي: حريتك في استخدام هذا التطبيق وتعديله وإعادة توزيعه مقيدة، كما أن كود المصدر الخاص به مغلق جزئيًا أو كليًا أمام التفتيش العام والتحسين. وهذا يعني أن الأطراف الثالثة والمستخدمين مثلك لا يمكنهم التحقق من تشغيله وأمانه وموثوقيته.قد يكون التطبيق آمنًا تمامًا للاستخدام، أو قد يعمل ضدك بطرق مختلفة — مثل جمع معلوماتك الشخصية، أو تتبع موقعك، أو نقل محتويات بياناتك إلى شخص آخر.لا تستخدمه إلا إذا كنت تثق تمامًا في مؤلفيه. تعرف على المزيد على %2.
+"Only install %1 if you fully trust its authors because it is proprietary: Your freedom to use, modify, and redistribute this application is restricted, and its source code is partially or entirely closed to public inspection and improvement. This means third parties and users like you cannot verify its operation, security, and trustworthiness.The application may be perfectly safe to use, or it may be acting against you in various ways — such as harvesting your personal information, tracking your location, or transmitting the contents of your data to someone else. Only use it if you fully trust its authors. More information may be available on the application's website.Learn more at %3.","N'installez cette application %1 que si vous faites entièrement confiance à ses auteurs car elle est à code fermé : votre liberté d'utiliser, de modifier et de re-distribuer cette application est restreinte. Son code source est partiellement ou entièrement fermé à la consultation publique et à des améliorations. Cela signifie que des parties tierces et des utilisateurs comme vous ne peuvent pas vérifier son fonctionnement, sa sécurité et sa fiabilité ou la modifier. L'application peut être parfaitement sûre à utiliser ou peut agir contre vous de multiples façons — comme collecter vos informations personnelles, suivre votre position ou transmettre le contenu de vos données à une autre personne. Ne l'utiliser que si vous faites totalement confiance à ses auteurs. Des informations plus détaillées pourraient être disponibles sur le site Internet de l'application.Vous pouvez en apprendre plus sur la page %3.","%1 sollte nur installiert werden, wenn die Autoren vollständig vertrauenswürdig sind, da es proprietär ist: Die Freiheit zum Verwenden, Ändern und Weitergeben dieser Anwendung ist eingeschränkt und der Quelltext ist teilweise oder vollständig gegenüber öffentlicher Einsichtnahme und Verbesserung geschlossen. Das bedeutet, dass Dritte oder Benutzer wie Sie weder die Funktionsweise, Sicherheit oder Vertrauenswürdigkeit prüfen können.Die Anwendung kann möglicherweise absolut sicher genutzt werden oder auch auf verschiedenste Weisen angreifen — Denkbar wäre beispielsweise das Sammeln persönlicher Informationen, die Verfolgung des Standorts oder das Übertragen von Inhalten Ihrer Dateien an Dritte. Die Anwendung sollte nur genutzt werden, wenn den Autoren vollständig vertraut wird. Weitere Informationen können auf der Internetseite der Anwendung enthalten sein.Sie können mehr über das Thema unter %3 erfahren.",لا تقم بتثبيت %1 إلا إذا كنت تثق تمامًا في مؤلفيه لأنه ملكي: حريتك في استخدام هذا التطبيق وتعديله وإعادة توزيعه مقيدة، كما أن كود المصدر الخاص به مغلق جزئيًا أو كليًا أمام التفتيش العام والتحسين. وهذا يعني أن الأطراف الثالثة والمستخدمين مثلك لا يمكنهم التحقق من تشغيله وأمانه وموثوقيته.قد يكون التطبيق آمنًا تمامًا للاستخدام، أو قد يعمل ضدك بطرق مختلفة — مثل جمع معلوماتك الشخصية، أو تتبع موقعك، أو نقل محتويات بياناتك إلى شخص آخر.استخدمه فقط إذا كنت تثق تمامًا في مؤلفيه. قد تتوفر المزيد من المعلوماتعلى موقع الويب الخاص بالتطبيق.تعرف على المزيد على %3.
+Open Discover in a said mode. Modes correspond to the toolbar buttons.,Ouvre Discover dans le mode indiqué. Les modes correspondent aux boutons des barres d'outils.,Öffnet Discover im genannten Modus. die Modi entsprechen den Knöpfen in der Werkzeugleiste.,افتح المستكشف بالوضع المُعطى. تقابل الأوضاع أزرار شريط الأدوات.
+Open with a search for programs that can deal with the given mimetype.,Ouvre en recherchant des programmes pouvant correspondre avec le type « MIME » donné.,"Mit einer Suche nach Programmen öffnen, die den angegebenen MIME-Typ verarbeiten können.",افتح بالبحث عن البرامج التي يمكنها التعامل مع نوع الوسيط MIME المعين.
+Participate…,Participer…,Mitmachen …,شارك...
+Pause,Mettre en pause,Pause,ألبث
+Play,Lire,Wiedergeben,شغّل
+Please make sure Snap support is installed,Veuillez vous assurer que la prise en charge de « Snap » est réalisée correctement.,"Bitten stellen Sie sicher, dass Unterstützung für Snaps installiert ist",يرجى التأكد من تثبيت دعم سناب
+Please report this issue to the packagers of your distribution.,Veuillez signaler ce problème aux personnes en charge des paquets de votre distribution.,Berichten Sie bitte diesen Fehler an Ihre Distribution.,الرجاء الإبلاغ عن هذه المشكلة لمحزمي التطبيقات في توزيعتك.
+Previous Screenshot,Copie d'écran précédente,Vorheriges Bildschirmfoto,لقطة شاشة السابقة
+Proceed,Continuer,Fortfahren,تابِع
+"Quality Assurance, Design and Usability","Assurance qualité, conception et ergonomie","Qualitätssicherung, Design, Benutzerfreundlichkeit",ضمان الجودة و التصميم والاستخدامية
+Rating,Note,Bewertung,التّقييم
+Rating:,Note :,Bewertung:,التّقييم:
+Read the documentation,Lire la documentation,Die Dokumentation lesen,اقرأ التوثيق الرسمي للمشروع
+Release date,Date de publication,Freigabedatum,تاريخ الإصدار
+Relevance,Pertinence,Relevanz,الصلة
+Remove,Supprimer,Entfernen,أزل
+Remove repository,Supprimer un dépôt,Paketquelle löschen,أزل المستودع
+Report Issue to %1,Signaler ce problème à %1,Problem an %1 berichten,أبلغ عن هذه المشكلة إلى %1
+Report This Issue,Signaler ce problème,Dieses Problem berichten,أبلغ عن هذه المشكلة
+Report This Issue to %1,Signaler ce problème à %1,Dieses Problem an %1 berichten,أبلغ عن هذه المشكلة إلى %1
+Report a bug,Signaler un bogue,Probleme oder Wünsche berichten,أبلغ عن علّة
+Report this issue,Signaler un problème,Dieses Problem berichten,أبلغ عن هذه المشكلة
+Reset,Ré-initialiser,Zurücksetzen,صفّر
+Resources for '%1',Ressources pour « %1 »,Ressourcen für „%1“,موارد ’%1‘
+Restart,Re-démarrer,Neu starten,أعد التّشغيل
+Restart and Install Updates,Re-démarrer pour installer les mises à jour maintenant,Jetzt neu starten zum Installieren der Aktualisierungen,أعد التشغيل لتثبت التحديثات الآن
+Reviewing %1,Évaluation %1,%1 bewerten,تقييم %1
+Reviews,Avis,Bewertungen,المراجعات
+Reviews for %1,Avis pour %1,Bewertungen für %1,مراجعات %1
+Reviews for %1 are temporarily unavailable,Les avis pour %1 sont temporairement indisponibles.,Die Bewertungen für %1 sind zurzeit nicht verfügbar,مراجعات %1 غير متوفرة مؤقتاً.
+Running as root is discouraged and unnecessary.,L'exécution avec les privilèges d'administrateur est inutile et déconseillée.,Die Ausführung als Systemverwalter (root) ist unnötig und es wird davon abgeraten.,التّشغيل بمستخدم الجذر غير مستحسن ولا حاجة له.
+Settings,Configuration,Einstellungen,إعدادات
+Screenshots not available for %1,Copies d'écran non disponibles pour %1,Für %1 ist kein Bildschirmfoto vorhanden,لقطات الشاشة غير متوفرة لـ %1
+Search,Rechercher,Suchen,ابحث
+Search in '%1'…,Rechercher dans « %1 »…,Suchen in „%1“ …,ابحث في '‏%1'…
+Search in All Categories,Rechercher dans toutes les catégories,In allen Kategorien suchen,ابحث في جميع التصنيفات
+Search string.,Critères de recherche.,Suchmuster.,جملة البحث.
+"Search the Web for ""%1""",Rechercher « %1 » sur Internet,Im Internet nach „%1“ suchen,"ابحث في الويب عن ""%1"""
+Search: %1,Chercher : %1,Suche : %1,‏ابحث عن ‏%1
+Search…,Rechercher…,Suchen …,ابحث...
+See More,Voir plus d'informations,Mehr,المزيد
+See Technical Details,Veuillez consulter les détails techniques,Technische Details ansehen,أظهر التفاصيل التقنية
+See details,Afficher les détails,Details ansehen,أظهر التفاصيل
+Select All,Tout sélectionner,Alle auswählen,حدّد الكلّ
+Select None,Ne rien sélectionner,Auswahl aufheben,لا تحدد شيء
+Select an action,Sélectionner une action,Aktion auswählen,اختر إجراء
+Sends anonymized usage information to KDE so we can better understand our users. For more information see https://kde.org/privacypolicy-apps.php.,Envoie des informations d'utilisation anonymes à KDE afin que nous puissions mieux comprendre nos utilisateurs. Consultez https://kde.org/privacypolicy-apps.php pour davantage d'informations.,"Anonymisierte Nutzungsstatistiken an KDE senden, damit wir unsere Nutzer besser verstehen. Besuchen Sie https://kde.org/privacypolicy-apps.php für mehr Details.",يرسل معلومات استخدام مجهولة المصدر إلى كِيدِي حتى نتمكن من فهم مستخدمينا بشكل أفضل. لمزيد من المعلومات ، راجع https://kde.org/privacypolicy-apps.php.
+Settings,Configuration,Einstellungen,إعدادات
+Share,Partager,Teilen,شارك
+Share Link to Application,Partager un lien grâce à l'application,Verknüpfung zu Programm teilen,شارك رابط إلى التطبيق
+Should check for updates,Vous devriez vérifier les mises à jour,Soll auf Aktualisierungen prüfen,يجب التماس التّحديثات
+Show All Reviews,Afficher tous les avis,Alle Bewertungen anzeigen,أظهر كل المراجعات
+Show Next,Afficher le suivant,Nächsten anzeigen,اعرض التالي
+Show Previous,Afficher le précédent,Vorherigen anzeigen,اعرض السابق
+Show contents,Afficher le contenu,Inhalt anzeigen,أظهر المحتويات
+Shut down,Éteindre,Herunterfahren,أطفئ
+Size,Taille,Größe,الحجم
+Size:,Taille :,Größe:,الحجم:
+Sort: %1,Tri : %1,Sortieren nach: %1,افرز: ‏%1
+Start contributing,Commencer à contribuer,Jetzt mitmachen,ابدأ المساهمة
+"Starts an update automatically, headless",Démarre une mise à jour automatiquement,,يبدأ التحديث تلقائيًا، دون واجهة رسومية
+Still looking…,Recherche toujours en cours…,Suchen …,ما زلنا نبحث...
+Submit Usage Information,Envoyer les informations d'utilisation,Nutzungsstatistiken übermitteln,أرسل معلومات الاستخدام
+Submit review,Envoyer mon avis,Bewertung absenden,أودِع المراجعة
+Submitting usage information…,Envoi en cours des informations d'utilisation…,Nutzungsstatistiken werden übermittelt ...,يرسل معلومات الاستخدام…
+"Support for managing packages from %1 is incomplete; you may experience any number of problems. Do not report bugs to KDE. It is highly recommended to uninstall the packagekit-qt6 package and use Discover only to manage Flatpaks, Snaps, and Add-Ons.%1 maintainers recommended instead using the pacman command-line tool to manage packages.",La prise en charge de la gestion des paquets à partir de %1 est incomplète. Vous pourriez rencontrer un certain nombre de problèmes. Veuillez ne pas signaler de bogues à KDE. Il est fortement recommandé de désinstaller le paquet packagekit-qt6 et d'utiliser Discover uniquement pour gérer les éléments « Flatpak » / « Snap » et les modules complémentaires. L'équipe de maintenant de %1 recommande d'utiliser l'outil de ligne de commandes pacman pour gérer les paquets. ,"Die Unterstützung der Pakete von %1 ist unvollständig. Es können viele Probleme auftreten, die nicht an KDE zu berichten sind. Das Deinstallieren des packagekit-qt6-Pakets ist dringendst empfohlen. Discover sollte nur für Flatpaks, Snaps und Erweiterungen verwendet werden.Die Betreuer von %1 empfehlen stattdessen das pacman-Befehlszeilenprogramm zur Verwaltung der Pakete.",دعم إدارة الحزم من %1 غير مكتمل؛ قد تواجه عدة مشاكل. لا تبلغ عن الأخطاء إلى كيدي. يوصى بشدة بإلغاء تثبيت الحزمة packagekit-qt6 واستخدام المستكشف فقط لإدارة Flatpaks وSnaps والوظائف الإضافية.أوصى مشرفو %1 بدلاً من ذلك باستخدام أداة سطر الأوامر pacman لإدارة الحزم.
+Supports appstream: url scheme,Prend en charge les URL « AppStream » :,Unterstützt Appstream: Adressschema,يدعم مخطّط مسارات appstream:‎
+Switch to Full Screen,Basculer en mode « Plein écran »,Zum Vollbildmodus wechseln,حوّل إلى ملء الشاشة
+Switch to Overlay,Basculer en superposition,Zum Fenstermodus wechseln,بدل إلى التراكب
+Tasks,Tâches,Aufgaben,المهامّ
+Tasks (%1%),Tâches (%1 %),Aufgaben (%1 %),المهام (%1٪)
+Technical details,Détails techniques,Technische Details,التفاصيل التقنية
+There was an issue during the update or installation process. Please try again later.,Il y a eu un problème durant le processus de mise à jour ou d'installation. Veuillez essayer à nouveau plus tard.,Beim Aktualisieren oder Installieren ist ein Problem aufgetreten. Bitte versuchen Sie es später erneut.,حدثت مشكلة أثناء تثبيت هذا التحديث أو في عملية التثبيت. الرجاء معاودة المحاولة في وقت لاحق.
+There was an issue installing this update. Please try again later.,Il y a eu un problème durant l'installation de cette mise à jour. Veuillez essayer à nouveau plus tard.,Bei der Installation dieser Aktualisierung ist ein Problem aufgetreten. Bitte versuchen Sie es später erneut.,حدثت مشكلة أثناء تثبيت هذا التحديث. الرجاء معاودة المحاولة في وقت لاحق.
+Time of last update unknown,Date inconnue de la dernière mise à jour,Zeit der letzten Aktualisierung unbekannt,وقت أخر تحديث مجهول
+Title:,Titre :,Titel:,العنوان:
+"To use Discover for apps, install Flatpak using the pacman package manager. Review %1's packaging for Discover","Pour utiliser Discover pour les applications, veuillez installer Flatpak en utilisant le gestionnaire de paquets pacman.Veuillez relire le document de mise en paquet de %1 pour Discover","Damit Discover für Anwendungen verwendet werden kann, muss zuerst Flatpak mit der pacman-Paketverwaltung installiert werden.Beachten Sie auch die Informationen des Discover-Paketes von %1.",لتستخدم المستكشف للتطبيقات؛ ثبت Flatpak باستخدام مدير الحزم pacman. راجع حزم %1 للمستكشف 
+"To use Discover for apps, install your preferred module on the Settings page, under Missing Backends.","Pour utiliser Discover pour les applications, veuillez installer votre module préféré dans la page de Configuration, en dessous de Moteurs absents.","Damit Discover für Anwendungen verwendet werden kann, muss das bevorzugte Modul in der Einstellungen-Seite unter Fehlende Backends installiert werden.",لتستخدم المستكشف ، ثبت وحدتك المفضلة من صفحةالإعدادات تحت الخلفيات الناقصة.
+Too long!,Trop long !,Zu lang.,طويل جدا!
+Total size: %1,Taille totale : %1,Gesamtgröße: %1,الحجم الكليّ: %1
+Trying to open inexisting file '%1',Tentative d'ouverture du fichier non existant « %1 »,"Es wird versucht, die nicht vorhandene Datei „%1“ zu öffnen",يحاول فتح ملف غير موجود '%1'
+Unable to find resource: %1,Impossible de trouver la ressource : %1,Ressource %1 wurde nicht gefunden,تعذّر العثور على المورد:‏ %1
+Unable to load applications,Impossible de charger des applications,Anwendungen können nicht geladen werden,لم يتمكن من تحميل التطبيقات
+Unknown,Inconnu,Unbekannt,مجهولة
+Unknown author,Auteur inconnu,Unbekannter Autor,مؤلف مجهول
+Unknown reviewer,Relecteur inconnu,Unbekannter Rezensent,مقيّم مجهول
+Up to date,À jour,Aktuell,مُحدث
+Update All,Tout mettre à jour,Alle aktualisieren,حدّث الكلّ
+Update Issue,Problème de mises à jour,Aktualisierungs-Problem,حدث المشكلة
+Update Selected,Mise à jour sélectionnée,Ausgewählte aktualisieren,حدّث المحدّد
+Update from:,Mettre à jour à partir de :,Aktualisieren von:,حدّث من:
+Updates,Mises à jour,Aktualisierungen,التّحديثات
+Updates will be installed after the system is restarted,Ces mises à jour seront installés après un redémarrage du système.,Die Aktualisierungen werden beim nächsten Systemneustart installiert,ستثبت التحديثات في المرة القادمة التي يعاد فيها تشغيل الجهاز
+Version:,Version :,Version:,الإصدارة:
+Version: %1,Version : %1,Version: %1,الإصدارة: %1
+Version: unknown,Version : inconnue,Version: unbekannt,الإصدارة: مجهولة
+Visit the project's website,Visiter le site Internet du projet,Die Webseite des Projekts besuchen,زر موقع المشروع
+Votes: %1 out of %2,Votes : %1 sur %2,Stimmen: %1 von %2,الأصوات: %1 من %2
+Was this review useful?,Cet avis a-t-il été utile ?,War diese Bewertung hilfreich?,أكانت هذه المراجعة مفيدة؟
+We are looking for your feedback!,Nous attendons vos retours d'expérience avec impatience !,Wir freuen uns auf Ihr Feedback!,نحن نتطلع لمشاركتك!
+What does this mean?,Qu'est-ce que cela signifie ?,Was bedeutet dies?,ماذا يعني هذا؟
+What's New,Changements récents,Was ist neu?,ما الجديد
+Write a Review,Donnez votre avis,Schreiben Sie eine Bewertung,اكتب مراجعة
+Write a Review…,Écrire un avis…,Schreiben Sie eine Bewertung ...,اكتب مراجعة…
+Write the review,Donnez votre avis,Bewertung schreiben,اكتب مراجعة
+Write the title,Saisissez le titre,Titel eingeben,اكتب عنوان
+Yes,Oui,Ja,نعم
+You can help us improving this application by sharing statistics and participate in surveys.,Vous pouvez nous aider à améliorer cette application en partageant des statistiques et en participant à des enquêtes.,"Sie können dabei helfen, diese Anwendung zu verbessern, indem Sie statistische Daten teilen und an Umfragen teilnehmen.",يمكنك مساعدتنا في تحسين هذا التطبيق من خلال مشاركة الإحصاءات والمشاركة في الاستطلاعات.
+"crash,segfault","plantage, segfault","Absturz,Abbruch","crash,segfault"
+"doesn't work,dumb,stupid,crap,junk,suck,terrible,hate","ne fonctionne pas, idiot, stupide, zut, poubelle, rageant, terrible, haine","funktioniert nicht,blöd,dumm,Mist,Müll,Schrott,schrecklich,hasse,nervt","doesn't work,dumb,stupid,crap,junk,suck,terrible,hate"
+"launch,run,start","lancement, exécution, démarrage","ausführen,starten,aufrufen","launch,run,start"
+unknown reviewer,évaluateur inconnu,Unbekannter Rezensent,مقيّم مجهول

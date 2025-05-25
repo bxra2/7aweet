@@ -1,0 +1,108 @@
+English,French,German,Arabic
+Build,Construire,Erstellen,ابنِ
+Dir: %1,Dossier : %1,Ordner: %1,الدليل: %1
+T: %1,C: %1,Z: %1,الهدف: %1
+"File not found: %1Search paths:%2Try adding a search path to the ""Working Directory""",Impossible de trouver le fichier :  %1Emplacements de recherche :%2 Veuillez essayer d'ajouter un emplacement de recherche au « dossier de travail »,Datei kann nicht geöffnet werden:%1 Fügen Sie einen Suchpfad zum Arbeitsordner in den Ziel-Einstellungen hinzu,"لم يعثر على الملف: %1مسارات البحث:%2حاول إضافة مسار بحث إلى ""دليل العمل"""
+Build Finished:%1,Compilation terminée :%1,Make-Ergebnis:%1,انتهى البناء:%1
+Add errors and warnings to Diagnostics,Ajouter des erreurs et des alarmes aux diagnostics,,أضف الأخطاء والتحذيرات إلى التشخيص
+Add new target,Ajouter une nouvelle cible,Neues Ziel hinzufügen,أضف هدفًا جديدًا
+Allowed && Blocked Commands,Commandes autorisées et bloquées,,الأوامر المسموح بها والمحظورة
+Already building...,La construction est déjà en cours...,Wird bereits erstellt ...,يبني بالفعل...
+Automatically switch to output pane on executing the selected target,Basculer automatiquement vers le panneau de sortie lors de l'exécution de la cible sélectionnée,,التبديل تلقائيًا إلى جزء الإخراج عند تنفيذ الهدف المحدد
+Build,Construire,Erstellen,ابنِ
+Build & Run,Compiler et exécuter,Erneut erstellen,ابنِ و شغّل
+Build & Run Settings,Compiler et exécuter les paramètres,Ausgewähltes Ziel erstellen und ausführen,إعدادات ابنِ و شغّل
+"Build %1 canceled. %2 error(s), %3 warning(s), %4 note(s)","Compilation %1 annulée. %2 erreur(s), %3 alarme(s), %4 note(s)","Erstellen von %1 abgebrochen. %2 Fehler, %3 Warnung(en), %4 Hinweis(e)",ألغي بناء %1. الأخطاء:%2 ، التحذيرات:%3 ، الملاحظات: %4
+"Build %1 completed. %2 error(s), %3 warning(s), %4 note(s)","Compilation %1 terminée. %2 erreur(s), %3 alarme(s), %4 note(s)","Erstellen von %1 abgeschlossen. %2 Fehler, %3 Warnung(en), %4 Hinweis(e)",اكتمل بناء %1 الأخطاء:%2 ، التحذيرات:%3 ، الملاحظات: %4
+Build Again,Compiler à nouveau,Erneut erstellen,ابنِ مرة أخرى
+Build Command,Commande de compilation,Befehl ausführen,أمر البناء
+Build Command / Working Directory,Commande de compilation / Dossier de travail,,أمر البناء / دليل العمل
+Build Information,Construire les informations,Kompilierungs-Informationen,معلومات البناء
+Build Selected Target,Compiler la cible sélectionnée,Ausgewähltes Ziel erstellen,ابنِ الهدف المحدّد
+Build and Run Selected Target,Compiler et exécuter la cible sélectionnée,Ausgewähltes Ziel erstellen und ausführen,ابنِ وشغّل الهدف المحدّد
+Build and run selected target,Compiler et exécuter la cible sélectionnée,Ausgewähltes Ziel erstellen und ausführen,ابنِ وشغّل الهدف المحدّد
+Build completed without problems.,Compilation réalisée sans problème.,Erstellen ohne Probleme abgeschlossen.,اكتمل البناء بلا مشاكل.
+Build failed.,La compilation a échoué.,Erstellen fehlgeschlagen.,فشل البناء.
+Build plugin wants to execute program,Le module externe de compilation veut exécuter le programme,,يريد ملحق البناء تشغيل برنامج
+Build selected target,Construire la cible sélectionnée,Ausgewähltes Ziel erstellen,ابنِ الهدف المحدّد
+Building %1 cancelled,Construction de %1 annulée,Das Erstellen von %1 wurde abgebrochen,أُلغي بناء %1
+Building target %1 ...,Construction de la cible %1...,Ziel %1 wird erstellt ...,يبني الهدف %1...
+Cancel,Annuler,Abbrechen,ألغِ
+Cannot execute: %1 No working directory set.,Impossible d'exécuter %1 : aucun dossier de travail défini.,Kann nicht ausgeführt werden: %1 Kein Arbeitsordner gesetzt.,يتعذر التنفيذ: %1 لم يحدد دليل عمل.
+"Cannot load targets, the file %1 does not contain a proper CMAKE_COMMAND entry !",Impossible de charger les cibles. Le fichier %1 ne contient aucune entrée « CMAKE_COMMAND » correcte !,,لا يمكن تحميل الأهداف، الملف %1 لا يحتوي على إدخال CMAKE_COMMAND صحيح!
+Cannot make substitution. No open file or the current file is untitled!,Impossible d'effectuer la substitution. Aucun fichier ouvert ou le fichier courant ne possède aucun titre !,,لا يمكن إجراء الاستبدال. لا يوجد ملف مفتوح أو الملف الحالي ليس له عنوان!
+Cannot save build targets in: %1,Impossible d'enregistrer les cibles compilées dans : %1,,لا يستطيع حفظ أهداف البناء في: %1
+Clone command or target set,Copier la commande ou l'ensemble des cibles,Befehl oder Zielgruppe kopieren,استنسخ الأمر أو مجموعة الأهداف
+Command/Target-set Name,Nom de la commande / Ensemble de cibles,Name von Befehl/Zielgruppe,اسم الأمر/مجموعة الأهداف
+Compile Current File,Compiler le fichier courant,,صرّف الملفّ الحاليّ
+Configure,Configurer,Einstellungen,اضبط
+Copy,Copier,Kopieren,انسخ
+Could not run CMake (%2) for build directory %1 !,Impossible d'exécuter CMake (%2) pour le dossier de compilation %1 !,,تعذر تشغيل CMake (%2) لدليل البناء %1!
+Could not write CMake File API query files for build directory %1 !,Impossible d'écrire les fichiers de requêtes « API » du fichier de CMake pour le dossier de compilation %1 !,,تعذر كتابة ملفات استعلام API لملف CMake لدليل البناء %1!
+Create directory,Créer un dossier,,أنشئ دليلًا جديدًا
+Create new set of targets,Créer un nouvel ensemble de cibles,Neue Zielgruppe erstellen,أنشئ مجموعة أهداف جديدة
+Cut,Couper,,قصّ
+Delete all entries,Supprimer toutes les entrées,,احذف كل المدخلات
+Delete current target or current set of targets,Supprimer la cible actuelle ou l'ensemble actuel de cibles,Aktuelles Ziel oder aktuelle Zielgruppe löschen,احذف الهدف الحالي أو مجموعة الأهداف الحالية
+Delete selected entries,Supprimer les entrées sélectionnées,Ausgewähltes Ziel erstellen,احذف المدخلات المحددة
+"Did not find a compile command for file ""%1"" in ""%2"".",Impossible de trouver une commande de compilation pour le fichier « %1 » dans « %2 ».,,"لم يعثر على أمر التصريف للملف ""%1"" في ""%2""."
+"Did not find a compile_commands.json for file ""%1"".",Impossible de trouver un programme « compile_commands.json » pour le fichier « %1 ».,,"لم يعثر على ملف compile_commands.json للملف ""%1""."
+Failed to create the directory %1,Impossible de créer le dossier %1,,فشل إنشاء الدليل %1
+"Failed to run ""%1"". exitStatus = %2",Impossible de lancer « %1 ». Code de sortie = %2,„%1“ kann nicht ausgeführt werden. exitStatus = %2,"فشل تنفيذ ""%1"". حالة الخروج = %2"
+"Filter targets, use arrow keys to select, Enter to execute","Pour le filtrage des cibles, veuillez utiliser les touches de flèches et appuyer sur « Entrée » pour lancer l'exécution","Ziele filtern, mit Pfeiltasten auswählen und mit Enter ausführen",تصفية الأهداف، استخدم مفاتيح الأسهم للتحديد، مفتاح الإدخال للتشغيل
+Focus Next Tab to the Left,Se focaliser sur le prochain onglet sur la gauche,Nächstes Unterfenster links aktivieren,التركيز على اللسان التالي على اليسار
+Focus Next Tab to the Right,Se focaliser sur le prochain onglet sur la droite,Nächstes Unterfenster rechts aktivieren,التركيز على اللسان التّالي على اليمين
+General Settings,Configuration générale,Ziel-Einstellungen,إعدادات عامة
+Generating CMake File API reply files for build directory %1 failed (using %2) !,Échec de la génération des fichiers de réponses « API » du fichier de CMake pour le dossier de compilation %1 (En utilisant %2) !,,فشل إنشاء ملفات الرد الخاصة بـ CMake File API لدليل البناء %1 (باستخدام %2)!
+"If the output lines start with [ # / ## ] or [ ## % ], display the latest as a message.","Si les lignes de sortie commencent par [ # / ## ] ou [ ## % ], affichez le dernier en tant que message.",,إذا بدأت أسطر الإخراج بـ [ # / ## ] أو [ ## % ]، فاعرض الأحدث كرسالة.
+Insert path,Insérer l'emplacement,Pfad einfügen,أدرج مسارًا
+"Leave empty to use the directory of the current document.
+Add search directories by adding paths separated by ';'","Laissez vide pour utiliser le dossier du document actuel. 
+Ajoutez des dossiers de recherche par ajout d'emplacements séparés par des « ; »","Wenn Sie dieses Feld leer lassen, wird der Ordner des aktuellen Dokuments verwendet.
+Fügen Sie weitere Suchordner hinzu, indem Sie Pfade getrennt durch „;“ anfügen.","اتركه فارغًا لاستخدام دليل المستند الحالي.
+أضف أدلة البحث عن طريق إضافة مسارات مفصولة بعلامة "";"""
+Load targets from CMake Build Dir,Charger les cibles à partir du dossier de compilation de CMake,,حمّل الأهداف من CMake Build Dir
+Move selected target down,Déplacer la cible sélectionnée vers le bas,Ausgewähltes Ziel nach unten verschieben,انقل الهدف المحدّد للأسفل
+Move selected target up,Déplacer la cible sélectionnée vers le haut,Ausgewähltes Ziel nach oben verschieben,انقل الهدف المحدّد لأعلى
+No target available for building.,Aucune cible disponible pour la construction.,Kein Ziel für die Erstellung verfügbar.,لا هدف متوفّر للبناء.
+Output,Sortie,Ausgabe,الخرج
+Paste after,Coller après,,لصق بعد
+Projects,Projets,,المشاريع
+Run Command,Exécuter une commande,Befehl ausführen,شغّل أمرًا
+Select Target...,Sélectionnez la cible...,Ziel auswählen ...,اختر الهدف...
+Select directory to insert,Sélectionnez le dossier à insérer,Ordner zum Einfügen wählen,اختر الدّليل لإدراجه
+Session,Session,,الجلسة
+Show build progress as a message when the output pane is hidden,Afficher la progression de la compilation comme un message lorsque le panneau de sortie est masqué,,إظهار تقدم البناء كرسالة عندما تكون لوحة الإخراج مخفية
+Stop,Arrêter,Anhalten,أوقف
+Target Set,Ensemble de cibles,Zielgruppe,مجموعة الأهداف
+Target Settings,Configuration des cibles,Ziel-Einstellungen,إعدادات الهدف
+The Kate build plugin needs to execute an external command to read the targets from the build tree.The full command line is:%1Proceed and allow to run this command ?The choice can be altered via the config page of the plugin.,Le module externe de compilation de Kate doit exécuter une commande externe pour lire les cibles de l'arborescence de compilation.La ligne de commandes complète est &nbsp; : %1Continuer et autoriser l'exécution de cette commande ?Le choix peut être modifié grâce à la page de configuration du module externe.,,يحتاج ملحق بناء كيت إلى تنفيذ أمر خارجي لقراءة الأهداف من شجرة البناء.سطر الأوامر الكامل هو:%1المتابعة والسماح بتشغيل هذا الأمر؟يمكن تغيير الاختيار عبر صفحة ضبط الملحق.
+The configured working directory %1 for the targetset %2 does not exist.Create the directory?,Le dossier de travail %1 de la configuration pour l'ensemble cible %2 n'existe pas.Voulez-vous créer le dossier ?,,دليل العمل المُهيأ %1 لمجموعة الأهداف %2 غير موجود.هل تريد إنشاء الدليل؟
+"The file ""%1"" is not a local file. Non-local files cannot be compiled.",Le fichier « %1 » n'est pas un fichier local. Les fichiers non locaux ne peuvent être compilés.,Die Datei „%1“ ist keine lokale Datei. Nichtlokale Dateien können nicht kompiliert werden.,"الملفّ ""%1"" ليس ملفًّا محليًّا. لا يمكن تصريف الملفّات غير المحليّة."
+There is no file or directory specified for building.,Aucun fichier ou dossier à compiler n'a été indiqué.,Es ist keine Datei oder Ordner zum Erstellen angegeben.,لا ملفّ أو دليل محدّد للبناء.
+There is no local file or directory specified for building.,Aucun fichier ou dossier local à compiler n'a été indiqué.,Es ist keine lokale Datei oder kein lokaler Ordner zum Erstellen angegeben.,لا ملفّ أو دليل محليّ محدّد للبناء.
+Try to compile the current file by searching a compile_commands.json,Veuillez essayer de compiler le fichier courant en recherchant un programme « compile_commands.json »,,حاول تصريف الملف الحالي عن طريق البحث في ملف compile_commands.json
+"Use:
+""%B"" for project base directory
+""%b"" for name of project base directory","Utilisation : 
+« %B » pour le dossier racine du projet 
+« %b » pour le nom du dossier racine du projet",,"استخدم:
+""%B"" لدليل قاعدة المشروع
+""%b"" لاسم دليل قاعدة المشروع"
+"Use:
+""%f"" for current file
+""%d"" for directory of current file
+""%n"" for current file name without suffix","Utilisation :
+« %f » pour le fichier actuel
+« %d » pour le dossier du fichier actuel
+« %n » pour le nom du fichier actuel sans suffixe","Benutzen Sie:
+„%f“ für die aktuelle Datei
+„%d“ für den Ordner der aktuellen Datei
+""%n"" für den aktuellen Dateinamen ohne Erweiterung","استخدم:
+‏""‎%f"" للملفّ الحاليّ
+‏""‎%d"" لدليل الملفّ الحاليّ
+‏""‎%n"" للملفّ الحاليّ بدون لاحقته"
+error,erreur,Fehler,خطأ
+note|info,note | info,Hinweis,ملاحظة|معلومة
+undefined reference,référence indéfinie,Undefinierter Verweis,مرجع غير معرّف
+warning,avertissement,Warnung,تحذير

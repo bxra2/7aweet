@@ -1,0 +1,26 @@
+English,French,German,Arabic
+Open Current File in Compiler Explorer,Ouvrir le fichier courant dans l'explorateur de compilateurs,,افتح الملف الحالي في مستكشف المُصرّف
+'%1' compiler flags were found. Output may not be useful.,Les étiquettes « %1 » de compilateur ont été trouvés. La sortie pourrait ne pas être utile.,,عثر على علامات المُصرّف '%1'. قد لا يكون الناتج مفيدًا.
+Change URL…,Modifier l'URL...,,غيّر المسار…
+Compile,Compiler,,صرّف
+Compiler Explorer,Explorateur de compilateurs,,مستعرض المُصرّف
+Compiler options…,Options de compilateur...,,خيارات المُصرّف…
+Compiler returned: %1,Le compilateur a renvoyé : %1,,أرجع المُصرّف: %1
+CompilerExplorer,CompilerExplorer,,مستعرض المُصرّف
+Compilers,Compilateurs,,المصرفات
+Copy,Copier,,انسخ
+Demangle Identifiers,Décoder les identifiants,,فك رموز المعرفات
+Do you really want to close %1?,Voulez-vous vraiment fermer %1 ?,,هل تريد حقًا إغلاق %1؟
+Enter URL,Saisir une URL,,أدخل مسار
+"Enter URL for the CompilerExplorer instance, e.g. “http://localhost:10240”","Saisir l'URL de l'instance de CompilerExplorer, par exemple « http ://localhost :10240 »",,أدخل عنوان لمستعرض المُصرّف. على سبيل المثال، “http://localhost:10240”
+Filter Comments,Filtrer les commentaires,,رشح التعليقات
+Filter Library Functions,Filtrer les fonctions de bibliothèques,,رشّح وظائف مكتبة
+Filter Unused Labels,Filtrer les étiquettes inutilisées,,رشّح اللصائق غير المستخدمة
+Intel Syntax,Syntaxe Intel,,بناء جملة إنتل
+Jump to label,Se positionner à l'étiquette,,اقفز إلى اللصاقة
+Languages,Langues,,اللغات
+No file open,Aucun fichier ouvert,,لا يوجد ملف لفتحه
+Options,Options,,خيارات
+Reveal linked code,Révéler le code lié,,اكشف الرمز المرتبط
+Scroll to source,Faire défiler jusqu'à la source,,مرّر نحوه المصدر
+Select All,Tout sélectionner,,حدّد الكلّ

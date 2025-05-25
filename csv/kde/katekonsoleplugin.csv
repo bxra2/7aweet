@@ -1,0 +1,49 @@
+English,French,German,Arabic
+Automatically create a terminal tab for the directory of the current document and switch to it,Créer automatiquement un onglet de terminal avec le dossier du document courant et s'y positionner,Terminal-Ordner automatisch mit aktuellem Dokument abgleichen (sofern möglich),أنشئ تلقائيًا لسان طرفية لدليل المستند الحالي وانتقل إليه
+Automatically synchronize the current terminal tab with the current document when possible,Synchroniser automatiquement l'onglet courant de terminal avec le document courant dans la mesure du possible,Terminal-Ordner automatisch mit aktuellem Dokument abgleichen (sofern möglich),زامن لسان الطّرفيّة الحالي آليًّا مع المستند الحاليّ إن كان ممكنًا
+Don't synchronize terminal tab with current document,Ne pas synchroniser l'onglet de terminal avec le document courant,Terminal mit aktuellem Dokument abgleichen,لا تزامن لسان الطرفية مع المستند الحالي
+Focus Terminal Panel,Placer le focus sur le terminal,Terminalleiste aktivieren,ركّز على الطّرفيّة
+Hide Terminal Panel,Masquer le panneau de terminal,Terminalleiste ausblenden,اخف لوحة الطّرفيّة
+New Terminal Tab,Nouvel onglet de terminal,Terminalleiste anzeigen,لسان طرفية جديد
+Pipe to Terminal,Rediriger vers le terminal,An Terminal weitergeben,مرّر إلى الطّرفيّة
+Remove extension,Supprimer l'extension,Erweiterung entfernen,أزل الامتداد
+Show warning next time,Afficher un avertissement la prochaine fois,Warnung beim nächsten Mal wieder anzeigen,أظهر تحذير في المرة القادمة
+Split Terminal Horizontally,Scinder le terminal horizontalement,,اقسم الطرفية أفقيًا
+Split Terminal Vertically,Scinder le terminal verticalement,Terminalleiste ausblenden,اقسم  الطرفية رأسيًا
+Tools,Outils,Extras,أدوات
+Defocus Terminal Panel,Enlever le focus du panneau de terminal,Terminalleiste deaktivieren,أزِل التّركيز عن لوحة الطّرفيّة
+"Do you really want to Run the document ?
+This will execute the following command,
+with your user rights, in the terminal:
+'%1'","Voulez-vous vraiment exécuter le document ?
+Cette action exécutera les commandes suivantes
+dans un terminal avec vos droits d'utilisateur :
+« %1 »","Möchten Sie dieses Dokument wirklich starten?
+Dann wird folgender Befehl mit Ihren Benutzerrechten
+in der Konsole ausgeführt:
+„%1“","أمتأكّد أنك تريد تشغيل المستند؟
+سينفّذ هذا أيّة أوامر التالية في الطرفية
+بصلاحيّات حسابك:
+'%1'"
+Do you really want to pipe the text to the console? This will execute any contained commands with your user rights.,Voulez-vous vraiment rediriger le texte vers Konsole ? Cette action exécutera toutes les commandes contenues avec vos droits utilisateur.,Möchten Sie diesen Text wirklich an die Konsole weitergeben? Enthaltene Befehle werden mit Ihren Benutzerrechten ausgeführt.,أمتأكّد من تمرير النّصّ إلى الطّرفيّة؟ سينفّذ هذا أيّة أوامر بصلاحيّات حسابك.
+Focus Terminal Panel,Donner le focus sur le panneau de terminal,Terminalleiste aktivieren,ركّز على لوحة الطّرفيّة
+Hide Konsole on pressing 'Esc',Masquer Konsole par un appui sur « Échap »,Konsole durch Tastendruck Esc ausblenden,أخفِ كونسول عند الضغط على زر 'Esc'
+Important: The document has to be closed to make the console application continue,Important : le document doit être fermé pour que l'application console puisse continuer,"Wichtig: Das Dokument muss geschlossen werden, um die Konsole wieder freizugeben.",هامّ: يجب إغلاق المستند ليتابع تطبيق الطّرفيّة
+Konsole not installed. Please install konsole to be able to use the terminal.,Konsole n'est pas installé. Veuillez le faire pour être capable d'utiliser le terminal.,,كونسول غير مثبت. فضلا ثبته لتتمكن من استعمال الطرفية.
+Not a local file: '%1',Il ne s'agit pas d'un fichier local : « %1 »,„%1“ ist keine lokale Datei,ليس ملفّاً محليّاً: '%1'
+Pipe to Terminal,Rediriger vers le terminal,An Terminal weitergeben,مرّر إلى الطّرفيّة
+Pipe to Terminal?,Rediriger vers le terminal ?,An Terminal weitergeben?,أأمرّر إلى الطّرفيّة؟
+Prefix:,Préfixe :,Präfix:,البادئة:
+Run,Exécuter,Ausführen,شغّل
+Run Current Document,Exécuter le document actuel,Aktuelles Dokument ausführen,شغل المستند الحالي
+Run in Terminal?,Exécuter dans un terminal ?,In Terminal ausführen?,نفّذ في طرفيّة؟
+Run in terminal,Exécuter dans un terminal,In Terminal ausführen,شغّل في الطّرفيّة
+Show Terminal Panel,Afficher le panneau de terminal,Terminalleiste anzeigen,اعرض لوحة الطرفيّة
+Synchronize Terminal with Current Document,Synchroniser le terminal avec le document actuel,Terminal mit aktuellem Dokument abgleichen,زامن الطّرفيّة مع المستند الحاليّ
+Set EDITOR environment variable to 'kate -b',Associer la variable d'environnement « EDITOR » à « kate -b »,Die EDITOR-Umgebungsvariable auf „kate -b“ einstellen,اضبط متغيّر البيئة EDITOR إلى 'kate -b'
+Terminal,Terminal,Terminal,الطّرفيّة
+Terminal Settings,Configuration du terminal,Terminal-Einstellungen,إعدادات الطّرفيّة
+Terminal Synchronization Mode,Mode de synchronisation du terminal,,وضع مزامنة الطرفية
+"The next time '%1' is executed, make sure a warning window will pop up, displaying the command to be sent to terminal, for review.","La prochaine fois que « %1 » est exécuté, assurez-vous qu'une fenêtre d'avertissement contenant la commande à envoyer au terminal s'affiche pour relecture.","Bei der nächsten Ausführung von „%1“ wird zur Kontrolle ein Warnhinweis angezeigt, welcher Befehl ans Terminal weitergegeben wird.",في المرة التالية التي يتم فيها تنفيذ '%1'، تأكد من ظهور نافذة تحذير، تعرض الأمر الذي سيتم إرساله إلى الطرفية للمراجعة.
+"This may cause issues with terminal apps that use Esc key, for e.g., vim. Add these apps in the input below (Comma separated list)","Ceci peut créer des problèmes avec les applications de terminal utilisant la touche « Échap », tel que vim. Ajoutez ces applications dans l'entrée ci-dessous (Liste séparée par des virgules)","Dies kann bei Terminalprogrammen, die wie z. B. „vim“ die Taste Esc verwenden, zu Problemen führen. Tragen Sie diese Programme als durch Kommata getrennte Liste in das Eingabefeld unten ein.",قد يتسبب هذا في حدوث مشكلات مع التطبيقات الطرفية التي تستخدم مفتاح Esc ، على سبيل المثال vim. أضف هذه التطبيقات في الإدخال أدناه (قائمة مفصولة بفواصل)
+You do not have enough karma to access a shell or terminal emulation,Vous n'avez pas assez de karma pour accéder à un interpréteur ou à un émulateur de terminal,"Sie besitzen nicht die nötigen Rechte, um auf eine Shell oder einen Terminal-Emulator zuzugreifen",ليس لديك صلاحيّات كافية للنّفاذ إلى صدفة أو محاكي طرفيّة

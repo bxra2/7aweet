@@ -1,0 +1,24 @@
+English,French,German,Arabic
+Add,Ajouter,Hinzufügen,أضف
+Remove,Supprimer,Entfernen,أزل
+"Insert the source folders here. As example for KDE development you have to add the Qt and Frameworks source folders:","Insérez ici les dossiers source. Par exemple  pour le développement de KDE vous devez ajouter les dossiers source de Qt et Frameworks :","Geben Sie hier die Quellenordner ein. Zum Beispiel müssen Sie für die KDE-Entwicklung die Quellen für Qt und Frameworks hinzufügen:",أضف المجلّدات المصدريّة هنا. كمثال، للتّطوير في كِيدِي عليك إضافة مجلّدات كيوت والإطار المصدريّة:
+Backtrace,Pile d'appels,Backtrace,التّتبّع الخلفيّ
+Backtrace Browser Settings,Configuration de l'explorateur de piles d'appels,Einstellungen für Backtrace-Browser,إعدادات متصفّح التّتبّع الخلفيّ
+Backtrace Settings,Configuration de la pile d'appels,Einstellungen für Backtrace,إعدادات التّتبّع الخلفيّ
+Configure Paths...,Configurer les emplacements...,Pfade einrichten ...,اضبط المسارات...
+File,Fichier,Datei,الملفّ
+File not found: %1,Fichier introuvable : %1,Datei nicht gefunden: %1,لم يوجد الملفّ: %1
+File types:,Types de fichiers :,Dateitypen:,أنواع الملفّات:
+Function,Fonction,Funktion,الدّالّة
+Indexing files...,Indexation des fichiers...,Dateien werden indiziert ...,يفهرس الملفّات...
+Line,Ligne,Zeile,السّطر
+"List of file extensions. Example: *.cpp, *.h, *.c, etc...","Liste des extensions de fichiers. Exemple : *.cpp, *.h, *.c, etc.","Liste der Dateierweiterungen. Beispiel: *.cpp, *.h, *.c usw.",قائمة امتدادات. مثال: ‎*.cpp،‏ ‎*.h،‏ ‎*.c وغيرها...
+Load Backtrace,Charger une pile d'appels,Backtrace laden,حمّل تتبّعًا خلفيًّا
+Load File...,Charger le fichier...,Datei laden ...,حمّل ملفًّا...
+Loading backtrace failed,Le chargement de la pile d'appels a échoué,Backtrace kann nicht geladen werden,فشل تحميل التّتبّع الخلفيّ
+Loading backtrace succeeded,Le chargement de la pile d'appels a réussi,Backtrace erfolgreich geladen,نجح تحميل التّتبّع الخلفيّ
+No debugging information available,Pas d'informations de débogage disponibles,Keine Debugging-Informationen verfügbar,لا معلومات تنقيح متوفّرة
+Opened file: %1,Fichier ouvert : %1,Geöffnete Datei: %1,فُتح الملفّ: %1
+Please add the source folders in which to search for the files in the backtrace:,Veuillez ajouter les dossiers source contenant les fichiers à rechercher dans la pile d'appels :,"Bitte fügen Sie den Ordner mit den Quelltexten hinzu, in dem nach den Dateien aus dem Backtrace gesucht werden soll",فضلًا أضف مجلّدات مصدريّة ليُبحث فيها عن الملفّات في التّتبّع الخلفيّ:
+Search Folders,Rechercher des dossiers,Ordner durchsuchen,مجلّدات البحث
+Use Clipboard,Utiliser le presse-papiers,Zwischenablage verwenden,استخدم الحافظة

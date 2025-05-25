@@ -1,0 +1,8 @@
+English,French,German,Arabic
+Tools,Outils,Werkzeuge,أدوات
+Git,Git,Git,غت
+Git Blame,Git blame,Git Blame,غت بلام
+"Git blame, show commit failed.",Git blame : afficher l'échec de la validation.,"„Git Blame, Show Commit“ ist fehlgeschlagen.",غت بلام، فشل إظهار الإيداع.
+Not Committed Yet,Pas encore validé,Bisher noch kein Commit,لم تودع بعد
+Show Git Blame Details,Afficher les détails du « git blame »,„Git Blame“-Details anzeigen,أظهر تفاصيل غت بلام
+Toggle Git Blame Details,Afficher ou non les détails du « git blame »,„Git Blame“-Details umschalten,بدّل حالة تفاصيل غيت بلام

@@ -1,0 +1,70 @@
+English,French,German,Arabic
+Go,Se déplacer,Gehe zu,اذهب
+Modified documents' shade:,Assombrissement des documents modifiés :,Einfärbung für bearbeitete Dokumente:,ظلّ المستندات المعدّلة:
+Show Active Document,Afficher le document actif,Aktives Dokument anzeigen,أظهر المستند النّشط
+Show Full Path,Afficher l'emplacement complet,Vollständigen Pfad anzeigen,أظهر كامل المسار
+Sort by:,Trier par :,Sortieren nach:,افرز ب‍:
+View Mode:,Mode d'affichage :,Ansichtsmodus:,وضع المنظور:
+Viewed documents' shade:,Assombrissement des documents affichés :,Einfärbung für angesehene Dokumente:,ظلّ المستندات المعروضة:
+ %1 The document has been modified by another application., %1 Le document a été modifié par une autre application., %1 Das Dokument ist von einer anderen Anwendung bearbeitet worden., %1 عدّل تطبيق آخر المستند.
+Background Shading,Assombrissement de l'arrière-plan,Hintergrundeinfärbung,ظلّ في الخلفيّة
+Clear History,Vider l'historique,Verlauf leeren,امح التّأريخ
+Clear edit/view history.,Vider l'historique d'affichage et d'édition.,Löscht bzw. bearbeitet den Verlauf.,امح تأريخ التّحرير/العرض.
+Close,Fermer,Schließen,أغلق
+Close Other,Fermer les autres,Andere schließen,أغلق البقيّة
+Close and delete selected file from storage.,Fermer le fichier sélectionné et le supprimer de l'espace de stockage.,Schließt und löscht die ausgewählte Datei aus dem Speicher.,أغلق الملفّ المحدّد واحذفه من التّخزين.
+Close other documents in this folder.,Ferme les autres documents de ce dossier.,Schließt andere Dokumente in diesem Ordner.,أغلق المستندات الأخرى في هذا المجلّد.
+Close the current document.,Ferme le document actuel.,Schließt das aktuelle Dokument.,أغلق المستند الحاليّ.
+Collapse Recursively,Replier récursivement,Rekursiv einklappen,اطوِ تكراريًّا
+Collapse the file list sub tree recursively.,Replier le sous-arbre de la liste des fichiers récursivement.,Klappt die Unterordner der Dateiliste rekursiv ein.,اطوِ شجرة قائمة الملفّات الفرعيّة تكراريًّا.
+Configure Documents,Configuration des documents,Dokumente einrichten,اضبط المستندات
+Copy Location,Copier un emplacement,Ort kopieren,انسخ المكان
+Copy path and filename to the clipboard.,Copier l'emplacement et le nom du fichier dans le presse-papiers.,Kopiert den Pfad und Namen der Datei in die Zwischenablage.,انسخ اسم الملفّ ومساره للحافظة
+Custom Sorting,Tri personnalisé,Benutzerdefinierte Sortierung,فرز مخصّص
+Delete,Supprimer,Löschen,احذف
+Document Name,Nom de document,Dokumentname,اسم المستند
+Document Path,Emplacement du document,Dokumentpfad,مسار المستند
+Documents,Documents,Dokumente,المستندات
+Expand Recursively,Déplier récursivement,Rekursiv ausklappen,وسّع تكراريًّا
+Expand the file list sub tree recursively.,Déplier le sous-arbre de la liste des fichiers récursivement.,Klappt die Unterordner der Dateiliste rekursiv aus.,وسّع شجرة قائمة الملفّات الفرعيّة تكراريًّا.
+Filter…,Filtrer...,Weitere ...,رشّح…
+List Mode,Mode en liste,Listenansicht,وضع القائمة
+List View,Vue en liste,Listenansicht,وضع القائمة
+Middle Click To Close Documents,Effectuer un clic central pour fermer les documents,,النقر الأوسط يُغلق اللسان
+Next Document,Document suivant,Nächstes Dokument,المستند التّالي
+Open Containing Folder,Ouvrir le dossier contenant,Ordner mit diesem Inhalt öffnen,افتح المجلد الحاوي
+Open File,Ouvrir un fichier,Öffnen mit,افتح ملفًّا
+Open Widgets,Ouvrir des composants graphiques,Geöffnete Steuerelemente,البريمجات المفتوحة
+Open With,Ouvrir avec,Öffnen mit,افتح ب‍
+Open the folder this file is located in.,Ouvrir le dossiers contenant ce fichier,"Öffnet den Ordner, in dem sich die Datei befindet.",افتح المجلد الحاوي لهذا المستند
+Open...,Ouvrir...,,افتح...
+Opening Order,Ordre d'ouverture,Reihenfolge beim Öffnen,ترتيب الفتح
+Previous Document,Document précédent,Vorheriges Dokument,المستند السّابق
+Print selected document.,Imprimer le document sélectionné.,Druckt das ausgewählte Dokument.,اطبع المستند المحدّد.
+Reload,Recharger,Erneut laden,أعد التّحميل
+Reload selected document(s) from disk.,Recharger le(s) document(s) sélectionné(s) depuis le disque.,Lädt die ausgewählten Dokumente neu von der Festplatte.,أعد تحميل المستند/المستندات المحدّدة من القرص.
+Rename the selected file.,Renommer le fichier sélectionné.,Benennt die ausgewählte Datei um.,أعد تسمية الملفّ المحدّد.
+Rename...,Renommer...,Umbenennen ...,أعد التسمية...
+Save,Enregistrer,Speichern,احفظ
+Save As,Enregistrer sous,Speichern unter,احفظ باسم
+Save the current document,Enregistrer le document actuel,Das aktuelle Dokument speichern,احفظ المستند الحاليّ
+Save the current document under a new name,Enregistrer le document courant sous un nouveau nom,Das aktuelle Dokument unter einem neuen Namen speichern,احفظ المستند الحاليّ باسم جديد
+Set the color for modified documents. This color is blended into the color for viewed files. The most recently edited documents get most of this color.,Définissez la couleur d'assombrissement des documents modifiés. Cette couleur est mélangée avec celle des fichiers affichés. Les documents les plus récemment modifiés présenteront un fond très proche de cette couleur.,Legen Sie die Farbe für bearbeitete Dokumente fest. Diese Farbe wird mit der Farbe für angesehene Dokumente gemischt. Die zuletzt bearbeiteten Dokumente erhalten die stärkste Einfärbung.,اضبط لون المستندات المعدّلة. هذا اللون يُمزج بلون الملفّات المعروضة. سيكون لأحدث المستندات المعدّلة أغلب اللون.
+Set the color for shading viewed documents.,Définit la couleur de l'assombrissement des documents affichés.,Legen Sie die Farbe für das Einfärben angesehener Dokumente fest.,اضبط لون ظلّ المستندات المعروضة.
+Set view style to List Mode,Associe le style de vue au mode en liste,Ansicht in Listenmodus umschalten,عيّن نمط المنظور إلى وضع القائمة
+Set view style to Tree Mode,Associe le style d'affichage au mode en arborescence,Ansicht in Baummodus umschalten,عيّن نمط المنظور إلى وضع الشّجرة
+Show Toolbar,Afficher la barre d'outils,Werkzeugleiste anzeigen,اعرض شريط الأدوات
+Show Close Button On Hovering,Afficher le bouton de fermeture au survol,„Schließen“-Knopf anzeigen,أظهر رز الإغلاق عند التحويم
+Show Git History,Afficher l'historique de Git,Git-Verlauf der Datei anzeigen,اعرض تاريخ غت
+Show print preview of current document,Afficher un aperçu avant impression du document actuel,Druckvorschau des aktiven Dokuments anzeigen,أظهر معاينة طباعة للمستند الحاليّ
+Sort By,Trier par,Sortieren nach,افرز ب‍
+Sort by Document Name,Trier par nom de document,Nach Dokumentnamen sortieren,افرز باسم المستند
+Sort by Document Path,Trier par emplacement de document,Nach Dokumentpfaden sortieren,افرز بمسار المستند
+Sort by Opening Order,Trier par ordre d'ouverture,Nach Reihenfolge beim Öffnen sortieren,افرز بترتيب الفتح
+Tree Mode,Mode en arborescence,Baumansicht,وضع الشّجرة
+Tree View,Vue en arbre,Baumansicht,وضع الشّجرة
+Url,URL,Adresse (URL),العنوان
+View Mode,Mode d'affichage,Ansichtsmodus,وضع المنظور
+"When background shading is enabled, documents that have been viewed or edited within the current session will have a shaded background. The most recent documents have the strongest shade.","Lorsque l'assombrissement de l'arrière-plan est activé, les documents qui ont été affichés ou modifiés au cours de la session actuelle présenteront un fond ombré. Les documents les plus récents auront le plus fort assombrissement.","Ist das Einfärben des Hintergrunds eingeschaltet, erhalten Dokumente, die während der aktuellen Arbeitssitzung angeschaut oder bearbeitet wurden, einen gefärbten Hintergrund. Dabei erhalten die jüngsten Dokumente die stärkste Einfärbung.",إن كان ظلّ الخلفيّة مفعّلًا، فسيكون للمستندات المعروضة أو المعدّلة في الجلسة الحاليّة خلفيّة بظلّ. سيكون لأحدث المستندات أقوى ظلّ.
+"When enabled, a toolbar with actions like “Save” are displayed above the list of documents.","Quand cette option est activée, une barre d'outils avec des actions comme « Enregistrer » est affichée au dessus de la liste des documents.","Ist dies aktiviert, wird eine Werkzeugleiste mit Aktionen wie „Speichern“ über der Dokumentenliste angezeigt.","عند التمكين ، يتم عرض شريط أدوات بإجراءات مثل ""احفظ"" أعلى قائمة المستندات."
+"When enabled, in tree mode, top level folders will show up with their full path rather than just the last folder name.","Lorsque cette option est cochée, en mode en arborescence, les dossiers de premier niveau afficheront leur emplacement complet plutôt que simplement le dernier nom de dossier.","Ist diese Einstellung aktiv, werden die obersten Ordner in der Baumansicht mit vollem Pfad anstatt nur mit dem letzten Ordnernamen angezeigt.",إن فُعّل، ستظهر المجلّدات (في وضع الشّجرة) الأعلى مستوًى بمسارها الكامل بدل اسم المجلّد الأخير فحسب.

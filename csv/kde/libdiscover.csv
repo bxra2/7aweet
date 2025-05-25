@@ -1,0 +1,494 @@
+English,French,German,Arabic
+%1 %2,%1 %2,%1 %2,%1 %2
+%1 (%2),%1 (%2),%1 (%2),‏%1 (‏%2)
+%1 (can create files),%1 (peut créer des fichiers),%1 (kann Dateien erstellen),‏%1 (يمكنه إنشاء ملفات)
+%1 (read & write),%1 (lecture & écriture),%1 (lesen und schreiben),‏%1 (للقراءة و الكتابة)
+%1 (read-only),%1 (lecture seule),%1 (nur lesen),‏%1 (للقراءة فقط)
+%1 (user),%1 (Utilisateur),%1 (Benutzer),‏%1 (المستخدم)
+%1 - %2,%1 - %2,%1 - %2,‏%1 -‏ %2
+%1 is not installed but it still has data present.,%1 n'est pas installé mais des données associées sont présentes.,"%1 ist nicht installiert, es sind aber noch Daten vorhanden.",التطبيق %1 غير مثبت ولكنه يملك بيانات على النظام.
+%1 is now available.,%1 est maintenant disponible.,%1 ist jetzt verfügbar.,تتوفر %1 الآن.
+%1 → %2%1 → %2%2,%1 → %2%1 → %2%2,%1 → %2%1 → %2%2,‏%1 ← %2%1‏ ←‏ %2‏%2
+%1+,%1+,%1+,%1+
+%1/s,%1 / s,%1/s,%1/ث
+%1: %2,%1 : %2,%1: %2,‏%1:‏ %2
+%1:%2,%1:%2,%1:%2,‏%1:‏%2
+%1Please report this error to your distribution.,%1 Veuillez signaler cette erreur à votre distribution.,%1Berichten Sie bitte diesen Fehler an Ihre Distribution.,‏%1الرجاء الإبلاغ عن هذا الخطأ لتوزيعتك.
+'%1' was changed and suggests to be restarted.,« %1 » a été modifié et suggère d'être redémarré.,„%1“ wurde geändert und empfiehlt den Neustart.,تغيّر '%1' وهو يقترح إعادة تشغيله.
+"'%1' was updated for security reasons, a restart of the session is recommended.","« %1 » a été mis à jour pour des raisons de sécurité, un redémarrage de la session est recommandé.","„%1“ wurde aus Sicherheitsgründen aktualisiert, ein neuer Start der Sitzung wird empfohlen.",حُدّث '%1' لأسباب أمنيّة، لذا إعادة تشغيل الجلسة مستحسن.
+"'%1' was updated for security reasons, a restart of the system is recommended.","« %1 » a été mis à jour pour des raisons de sécurité, un redémarrage du système est recommandé.","„%1“ wurde aus Sicherheitsgründen aktualisiert, ein neuer Start des Systems wird empfohlen.",حُدّث '%1' لأسباب أمنيّة، لذا إعادة تشغيل النّظام مستحسن.
+",",",",",",، و
+3D,3D,3D,ثلاثيّات الأبعاد
+"%1 is now available.
+To be able to upgrade to this new version, first apply all available updates, and then restart the system.","%1 est maintenant disponible. 
+Pour effectuer une mise à jour vers cette nouvelle version, veuillez vous assurer d'avoir appliqué toutes les mises à jour et d'avoir re-démarré votre système.","%1 ist jetzt verfügbar.
+Wenden Sie alle ausstehenden Aktualisierungen an und starten Sie dann das System neu, um auf diese neue Version aktualisieren zu können.","تتوفر %1 الآن.
+لتكون قادرًا للترقية إلى هذا الإصدار الجديد، تأكد من تطبيق جميع التحديثات المتوفرة وإعادة تشغيل نظامك."
+%1Upgrade to new version %2 No release notes provided,%1Mettre à jour vers la nouvelle version %2 Aucune note de publication n'est fournie.,%1Aktualisierung auf neue Version %2 Keine Hinweise zur Veröffentlichung vorhanden,%1سترقى إلى الإصدارة الأحدث %2 لا يوجد ملاحظات للإصدارة
+%1Upgrade to new version %2 Release notes:<blockquote>%3</blockquote>,%1Mettre à jour vers la nouvelle version %2 Note de publication : <blockquote>%3</blockquote>,%1Aktualisierung auf neue Version %2 Hinweise zur Veröffentlichung:<blockquote>%3</blockquote>,%1سترقى إلى الإصدارة الأحدث %2 ملاحظات الإصدارة:<blockquote>%3</blockquote>
+"This application comes from ""%1"" (hosted at %2). Other software in this repository will also be made be available in Discover when the application is installed.",Cette application provient de « %1 » (hébergé sur %2). Les autres logiciels de ce dépôt seront également mis à disposition dans Discover lorsque l'application sera installée.,"Diese Anwendung stammt von „%1“ (bereitgestellt unter %2). Andere Software aus dieser Paketquelle wird ebenfalls in Discover verfügbar, wenn die Anwendung installiert wird.","يأتي هذا التطبيق من ""%1"" (مستضاف في %2 ). سيتم أيضًا توفير برامج أخرى من هذا المستودع في المستكشف عند تثبيت التطبيق."
+<resource>%1</resource> is no longer receiving updates.Replace it with the supported version provided by <resource>%2</resource>?,<resource>%1</resource> ne reçoit plus de mises à jour. Veuillez le remplacer par la version prise en charge fournie par <resource>%2</resource> ?,<resource>%1</resource> erhält keine Aktualisierungen mehr.Möchten Sie es durch die unterstützte Version von <resource>%2</resource> ersetzen?,<resource>%1</resource> لم يعد يتلقى التحديثات.هل تريد تبديله إلى الإصدار المدعوم المقدم من <resource>%2</resource>؟
+<resource>%1</resource> is no longer receiving updates. The reason given is: <message>%2</message> Automatically remove it?,<resource>%1</resource> ne reçoit plus de mises à jour.  La raison fournie est : <message>%2</message> Voulez-vous la supprimer automatiquement ?,<resource>%1</resource> erhält keine Aktualisierungen mehr. Begründung: <message>%2</message> Möchten Sie es automatisch entfernen?,<resource>%1</resource> لم يعد يتلقى التحديثات. السبب الموضح هو: <message>%2</message> هل تريد إزالته تلقائيًا؟
+A change by '%1' suggests your session to be restarted.,Un changement par « %1 » suggère de redémarrer votre session.,Eine Änderung durch „%1“ empfiehlt den neuen Start der Sitzung.,يقترح تغيير لِـ'%1' إعادة تشغيل الجلسة.
+A change by '%1' suggests your system to be restarted.,Un changement par « %1 » suggère de redémarrer le système.,Eine Änderung durch „%1“ empfiehlt den neuen Start des Rechners.,يقترح تغيير لِـ'%1' إعادة تشغيل النّظام.
+A media change is required,Un changement de média est nécessaire,Ein Wechsel des Mediums ist erforderlich,تغيير الوسيط مطلوب
+A more stable version of %1 is available.,Une nouvelle version plus stable de %1 est disponible.,Eine stabilere Version von %1 ist verfügbar.,يتوفّر إصدارة أكثر استقراراً من %1
+Accept EULA,Accepter l'accord de licence,EULA (Endbenutzer-Lizenzvereinbarung) akzeptieren,اقبل اتّفاقيّة المستخدم النّهائي
+Accessibility,Accessibilité,Zugangshilfen,الإتاحة
+Action,Action,Aktion,حركي
+Add Flathub,Ajouter Flathub,Flathub hinzufügen,أضف فلات‌هَب
+Adding remote '%1' in %2 from %3,Ajoute le distant « %1 » dans %2 depuis %3,Paketquelle „%1“ in %2 von %3 wird hinzugefügt,يضيف '%1' البعيد في %2 من %3
+Additional modules:,Modules additionnels :,Zusätzliche Module:,الوحدات الإضافيّة:
+Additional packages:,Paquets additionnels :,Zusätzliche Pakete:,الحزم الإضافيّة:
+Addons,Modules complémentaires,Erweiterungen,الإضافات
+All Applications,Toutes les applications,Alle Anwendungen,كلّ التّطبيقات
+All Files,Tous les fichiers,Alle Dateien,كلّ الملفّات
+All packages already installed,Tous les paquets sont déjà installés,Alle Pakete sind bereits installiert,كلّ الحزم مثبّتة بالفعل
+"Allows access to the GPG cryptography service, generally used for signing and reading signed documents","Permet d'accéder au service de cryptographie « GPG », généralement utilisé pour la signature et la lecture de documents signés","Ermöglicht den Zugriff auf den GPG-Verschlüsselungsdienst, welcher in erster Linie für das Signieren und Lesen signierter Dokumente verwendet wird",يسمح بالوصول إلى خدمة تشفير GPG ، وتستخدم عمومًا لتوقيع المستندات وقراءة الموقع منها.
+Allows running other operating systems as guests in virtual machines,Permet l'exécution d'autres systèmes d'exploitation comme invité dans des machines virtuelles,Erlaubt es anderen Betriebssystemen als Gast in virtuellen Maschinen zu laufen,يسمح بتشغيل أنظمة تشغيل أخرى كضيوف في الآلات الافتراضية
+Alpine APK,Alpine APK,Alpine-APK,حزم ألبية
+Alpine Linux packages,Paquets pour la distribution Alpine Linux,Alpine Linux Pakete,حزم ألبية لينكس
+An internal error occurred. Please file a report at https://bugs.kde.org/enter_bug.cgi?product=Discover,Une erreur interne s'est produite. Veuillez ouvrir un rapport de bogue sur la pagehttps://bugs.kde.org/enter_bug.cgi?product=Discover,Ein interner Fehler ist aufgetreten. Bitte senden Sie einen ausführlichen Problembericht an https://bugs.kde.org/enter_bug.cgi?product=Discover,خطأ داخلي، الرجاء الإبلاغ عنها في  https://bugs.kde.org/enter_bug.cgi?product=Discover
+App Verified on %1 as shipped by its author %2,Application vérifiée le %1 telle que publiée par son auteur %2,Die Übereinstimmung der Anwendung mit der Version des Autors %2 wurde von %1 festgestellt.,تُحُقّق من التطبيق في %1 مثلما شُحن بواسطة مؤلفه %2
+Application Addons,Modules d'applications,Erweiterungen für Anwendungen,إضافات التّطبيقات
+Application Support,Prise en charge d'applications,Programmunterstützung,دعم التطبيق
+Applications,Applications,Anwendungen,التّطبيقات
+Apply Changes,Appliquer les changements,Änderungen anwenden,طبّق التغييرات
+Arcade,Jeux d'arcade,Arcade,الممرّات
+Astronomy,Astronomie,Astronomie,الفلك
+Audio Players,Lecteurs audio,Audiospieler,مشغلات الصوتيات
+Audio and Video Editors,Éditeurs audio et vidéo,Audio- und Video-Editoren,محررات الصوت والفيديو
+Authorization denied,Autorisation refusée,Die Autorisierung wurde abgelehnt,رفض التخويل
+Automatic Removal,Suppression automatique,Automatisches Entfernen,إزالة آلية
+Available,Disponible(s),Verfügbar,متوفّرة
+Backend %1 took too long to initialize,Le moteur %1 prends trop de temps à s'initialiser,Das Backend %1 braucht zu lange zur Initialisierung,أخذت الخلفية %1 وقت طويل للبدء
+Bad GPG signature found,Une mauvaise signature GPG a été trouvée,Ungültige GPG-Signatur gefunden,عُثر على توقيع GPG سيّئ
+Begin Upgrade…,Démarrer la mise à niveau...,Aktualisierung starten …,ابدأ الترقية…
+Biology,Biologie,Biologie,الأحياء
+Blocked,Bloqué,Blockiert,حظر
+Bluetooth Access,Accès au périphérique Bluetooth,Bluetooth-Zugriff,الوصول إلى بلوتوث
+Board Games,Jeux de plateau,Brettspiele,ألعاب الألواح
+Broken,Cassé(s),Defekt,معطوبة
+Bugfix,Correction de bogues,Fehlerkorrektur,إصلاح علل
+CD and DVD,CD et DVD,CD und DVD,سي دي و دي في دي
+Can access everything on the system,Peut accéder à la totalité du système,Kann auf das gesamte System zugreifen,يمكنه الوصول لكامل النظام
+Can access files in the following locations in your home folder without asking permission first: %1,Peut accéder aux fichiers aux emplacements suivants de votre dossier personnel sans demander tout d'abord de permissions :%1,Kann auf Dateien an den folgenden Orten in Ihrem persönlichen Ordner zugreifen ohne zuerst um Berechtigung zu bitten: %1,يمكنه الوصول إلى الملفات في المواقع التالية في مجلد المنزل دون طلب الإذن أولاً: %1
+Can access system files in the following locations without asking permission first: %1,Peut accéder aux fichiers du système aux emplacements suivants sans demander tout d'abord de permissions :%1,Kann auf Systemdateien an den folgenden Orten zugreifen ohne zuerst um Berechtigung zu bitten: %1,يمكنه الوصول إلى ملفات النظام في المواقع التالية دون طلب الإذن أولاً: %1
+Can access the internet,Peut accéder à l'Internet,Hat Zugriff auf das Internet,يمكنه الوصول إلى الشابكة
+Can communicate with all applications and system services using the following communication protocols: %1,Peut communiquer avec toutes les applications et services du système en utilisant les protocoles suivants de communication : %1,Kann mit allen Anwendungen und Systemdiensten über die folgenden Protokolle kommunizieren: %1,يمكنه التواصل مع كل التطبيقات وخدمات النظام باستخدام ميافيق الاتصال التالية: %1
+Can communicate with all other applications and processes on the system,Peut communiquer avec tous les autres applications et processus s'exécutant sur le système,Kann mit allen anderen Anwendungen und Prozessen auf diesem System kommunizieren,يمكنه التواصل مع التطبيقات والعمليات الأخرى في النظام
+Can communicate with all other applications and processes run in this user account,Peut communiquer avec d'autres applications et processus s'exécutant avec ce compte utilisateur,Kann mit allen anderen Anwendungen und laufenden Prozessen in diesem Benutzerkonto kommunizieren,يمكنه التواصل مع كل التطبيقات والعمليات الأخرى التي تعمل في هذا حساب المستخدم هذا
+Can communicate with and control built-in or connected hardware devices,Peut communiquer avec des périphériques matériels connectés ou intégrés et les contrôler,Kann mit eingebauter oder verbundener Hardware kommunizieren und diese steuern,يمكنه التواصل والتحكم بالعتاد الموصل أو المضمن
+Can communicate with other applications and processes in the same desktop session using the following communication protocols: %1,Peut communiquer avec d'autres applications et processus au sein de la même session de bureau en utilisant les protocoles suivants de communication : %1,Kann mit anderen Anwendungen und Prozessen in der selben Arbeitsflächensitzung über die folgenden Protokolle kommunizieren: %1,يمكنه التواصل مع التطبيقات والعمليات الأخرى في نفس جلسة سطح المكتب باستخدام ميافيق الاتصال التالية: %1
+Can initiate remote login requests using the SSH protocol,Peut initialiser des demandes de connexion à distance en utilisant le protocole « SSH »,Kann Anfragen zur Fernanmeldung über das SSH-Protokoll initiieren,يمكنه بدء طلبات الولوج البعيد باستخدام ميفاق SSH
+Can integrate and communicate with Bluetooth devices,Peut intégrer et communiquer avec des périphériques Bluetooth.,Kann Bluetooth-Geräte integrieren und mit ihnen kommunizieren,يمكنه التكامل والتواصل مع أجهزة بلوتوث
+Can integrate and communicate with printers,Peut intégrer et communiquer avec des périphériques d'impression.,Kann Drucker integrieren und mit ihnen kommunizieren,يمكنه التكامل والتواصل مع الطابعات
+Can integrate and communicate with smart cards,Peut intégrer et communiquer avec des cartes de mémoire.,Kann Smartcards integrieren und mit ihnen kommunizieren,يمكنه التكامل والتواصل مع البطاقات الذكية
+Can make low-level system calls (e.g. ptrace),"Pouvoir réaliser des appels de bas niveau au système (Par exemple, ptrace)",Kann Low-Level-System-Aufrufe (wie ptrace) durchführen,يمكنه أن ينادى وظائف النظام الدُنيا (مثل ptrace)
+Can play and record audio,Peut jouer et enregistrer de l'audio,Kann Audio wiedergeben,يمكنه تشغيل الصوت وتسجيله
+Can read and write files in the following locations in your home folder without asking permission first: %1,Peut lire et écrire des fichiers aux emplacements suivants de votre dossier personnel sans demander tout d'abord de permissions :%1,Kann Dateien an den folgenden Orten in Ihrem persönlichen Ordner lesen und schreiben ohne zuerst um Berechtigung zu bitten: %1,يمكنه قراءة الملفات والكتابة فيها في المواقع التالية في مجلد المنزل دون طلب الإذن أولاً: %1
+Can read and write system files in the following locations without asking permission first: %1,Peut lire et écrire des fichiers du système aux emplacements suivants sans demander tout d'abord de permissions :%1,Kann Systemdateien an den folgenden Orten lesen und schreiben ohne zuerst um Berechtigung zu bitten: %1,يمكنه قراءة ملفات النظام والكتابة فيها في المواقع التالية دون طلب الإذن أولاً: %1
+Can read files in the following locations in your home folder without asking permission first: %1,Peut lire des fichiers aux emplacements suivants de votre dossier personnel sans demander tout d'abord de permissions :%1,Kann Dateien an den folgenden Orten in Ihrem persönlichen Ordner lesen ohne zuerst um Berechtigung zu bitten: %1,يمكنه قراءة الملفات في المواقع التالية في مجلد المنزل دون طلب الإذن أولاً: %1
+Can read system files in the following locations without asking permission first: %1,Peut lire des fichiers du système aux emplacements suivants sans demander tout d'abord de permissions :%1,Kann Systemdateien an den folgenden Orten lesen ohne zuerst um Berechtigung zu bitten: %1,يمكنه قراءة ملفات النظام في المواقع التالية دون طلب الإذن أولاً: %1
+"Can read, write, and create files in the following locations in your home folder without asking permission first: %1","Peut lire, écrire et créer des fichiers aux emplacements suivants de votre dossier personnel sans demander tout d'abord de permissions :%1","Kann Dateien an den folgenden Orten in Ihrem persönlichen Ordner lesen, schreiben und erstellen ohne zuerst um Berechtigung zu bitten: %1",يمكنه قراءة الملفات والكتابة فيها وإنشاؤها في المواقع التالية في مجلد المنزل دون طلب الإذن أولاً: %1
+"Can read, write, and create system files in the following locations without asking permission first: %1","Peut lire, écrire et créer des fichiers du système aux emplacements suivants sans demander tout d'abord de permissions :%1","Kann Systemdateien an den folgenden Orten lesen, schreiben und erstellen ohne zuerst um Berechtigung zu bitten: %1",يمكنه قراءة ملفات النظام والكتابة فيها وإنشاؤها في المواقع التالية دون طلب الإذن أولاً: %1
+Canceled,Annulé,Abgebrochen,أُلغي
+Canceled priority,Priorité annulée,Priorität abgebrochen,أُلغيت الأولويّة
+Cancelled,Annulé,Abgebrochen,أُلغيت
+Cancelling rpm-ostree transaction. This may take some time. Please wait.,Annulation de la transaction « rpm-ostree » n cours. Cela pourrait prendre un certain temps. Veuillez patienter.,Die rpm-ostree-Transaktion wird abgebrochen. Dies kann eine Weile dauern. Bitte warten.,إلغاء عملية rpm-ostree. سيأخذ هذا بعض الوقت. الرجاء الانتظار.
+Cannot cancel transaction,Impossible d'annuler la transaction,Abbruch des Vorgangs ist nicht möglich,تعذّر إلغاء العمليّة
+Cannot disable repository,Impossible de désactiver le dépôt,Die Paketquelle kann nicht deaktiviert werden,تعذّر تعطيل المستودع
+Cannot fetch sources,Impossible d'atteindre les sources,Abholen der Paketquellen nicht möglich,تعذّر جلب المصادر
+Cannot find repository,Impossible de trouver le dépôt,Die Paketquelle wurde nicht gefunden,تعذّر العثور على المستودع
+Cannot get file list,Impossible d'obtenir la liste des fichiers,Die Dateiliste kann nicht bezogen werden,تعذّر الحصول على قائمة الملفّات
+Cannot get requires,Impossible d'obtenir les éléments requis,Die Abhängigkeiten können nicht bezogen werden,تعذّر الحصول على المطلوبات
+Cannot install from unsigned repo,Impossible d'installer depuis un dépôt non signé,Die Installation aus einer nicht signierten Paketquelle ist nicht möglich,لا يمكن التّثبيت من مستودع غير موقّع
+Cannot install source package,Impossible d'installer le paquet source,Das Quelltextpaket kann nicht installiert werden.,تعذّر تثبيت الحزمة المصدر
+Cannot launch %1,Impossible de lancer %1,%1 kann nicht gestartet werden,تعذر بدء %1
+Cannot obtain lock,Impossible d'obtenir le verrou,Sperrung nicht möglich,تعذّر الحصول على القفل
+Cannot remove '%1',Impossible de supprimer « %1 »,„%1“ kann nicht entfernt werden,لا يمكن إزالة '%1'
+Cannot remove system package,Impossible de supprimer un paquet système,Systempaket kann nicht entfernt werden,لا يمكن إزالة حزمة نظام
+Cannot update from unsigned repo,Impossible de mettre à jour depuis un dépôt non signé,Die Aktualisierung aus einer nicht signierten Paketquelle ist nicht möglich,لا يمكن التّحديث من مستودع غير موقّع
+Cannot write repo config,Impossible d'écrire la configuration du dépôt,Die Einstellungen für die Paketquelle können nicht geschrieben werden,تعذّرت كتابة ضبط المستودع
+Card Games,Jeux de cartes,Kartenspiele,ألعاب الورق
+Changes to the priority of Flatpak sources must be applied before they will take effect.,Les modifications de priorité pour les sources « Flatpak » doivent être appliquées avant d'être prises en compte.,"Änderungen an der Priorität von Flatpak-Paketquellen müssen angewendet werden, bevor sie aktiv werden.",يجب تطبيق التغييرات على أولوية مصادر فلاتباك قبل أن تصبح سارية المفعول.
+Changing Addons,Changement des modules en cours,Erweiterungen werden geändert,يغيّر الإضافات
+Channel: %1,Canal : %1,Kanal: %1,القناة: %1
+Channels for %1,Canaux pour %1,Kanäle für %1,القنوات لـ%1
+Chat,Discussion,Chat,المحادثة
+Checking for a system update,Vérification d'une mise à jour du système,Auf Systemaktualisierungen prüfen,يلتمس تحديثات للنظام
+Checking signatures…,Vérification des signatures en cours…,Signaturen werden überprüft ...,يفحص التّواقيع…
+Chemistry,Chimie,Chemie,الكيمياء
+Cleaning up…,Nettoyage en cours…,Aufräumen ...,ينظّف…
+Cleanup,Nettoyage,Aufräumen,ينظف
+Clearing settings and user data…,Suppression en cours de la configuration et des données utilisateur...,Einstellungen und Benutzerdaten werden gelöscht ...,يمسح الإعدادات وبيانات المستخدم…
+Collection Available,Collection disponible,Sammlung verfügbar,التجميعة متوفّرة
+Collection Installed,Collection installée,Sammlung installiert,التجميعة مثبّتة
+Committing…,Publication en cours…,Wird eingespielt ...,يودع...
+Computer Science and Robotics,Informatique et robotique,Computer-Wissenschaften und Robotik,علم الحاسوب والرّوبوتات
+Config parsing failed,L'analyse de la configuration a échoué,Das Einlesen der Einstellungen ist fehlgeschlagen,فشل تحليل الضّبط
+Configure permissions…,Configurer les permissions...,Berechtigungen einrichten ...,اضبط الصلاحيات…
+Confirm Changes,Confirmer les modifications,Änderungen bestätigen,أكد التغييرات
+Confirm package removal,Confirmer la suppression des paquets,Entfernen des Pakets bestätigen,أكد إزالة الحزمة
+Copying files…,Copie des fichiers en cours…,Dateien werden kopiert ...,ينسخ الملفّات…
+Corrupt package found,Un paquet corrompu a été trouvé,Es wurde ein fehlerhaftes Paket gefunden,عُثر على حزمة معطوبة
+Could not add the source %1,Impossible d'ajouter la source %1,Die Paketquelle „%1“ kann nicht hinzugefügt werden,تعذّرت إضافة المصدر %1
+Could not enable remote %1: %2,Impossible d'activer le dépôt %1 : %2,Die Paketquelle „%1“ kann nicht aktiviert werden: %2,تعذّر تمكين %1 البعيد: %2
+Could not fetch screenshot for the entry %1 in backend %2,Impossible d'atteindre la capture d'écran pour l'élément %1 depuis le moteur %2,Das Bildschirmfoto für den Eintrag %1 im Backend %2 kann nicht geholt werden,لم يستطع جلب لقطات للمدخلة %1 في خلفية %2
+Could not find %1,Impossible de trouver %1,%1 wurde nicht gefunden,لا يمكن إيجاد %1
+Critical,Critique,Kritisch,حرج
+Currently booted version,Version actuellement démarrée,Aktuell gebootete Version,الإصدار المشغلة حاليا
+Currently booted version (pinned),Version actuellement démarrée (épinglée),Aktuell gebootete Version (angeheftet),الإصدار المشغلة حاليا (مثبتة)
+Currently refreshing the repository cache…,Mise à jour en cours du cache du dépôt…,Der Paketquellen-Zwischenspeicher wird aktualisiert ...,ينعش خبيئة المستودع حاليًّا...
+Debugging,Débogage,Fehlersuche,التّنقيح
+Decompressing,Décompression en cours,Wird entpackt,يفكّ الضّغط
+Delete settings and user data,Supprimer la configuration et les données utilisateur,Einstellungen und Benutzerdaten löschen,احذف الإعدادات وبيانات المستخدم
+Dependencies for package: %1,Dépendances de paquet : %1,Abhängigkeiten für Paket: %1,اعتماديات حزمة: %1
+Dependency resolution failed,La résolution de dépendances a échoué,Auflösung der Abhängigkeit fehlgeschlagen,فشل حلّ الاعتماديّات
+Development,Développement,Entwicklung,تطوير
+Device Access,Accès au périphérique,Geräte-Zugriff,الوصول للجهاز
+"Do you trust the following key?
+
+Url: %1
+User: %2
+Key: %3
+Fingerprint: %4
+Timestamp: %4","Faites-vous confiance à la clé suivante ?
+
+URL : %1
+Utilisateur : %2
+Clé : %3
+Empreinte : %4
+Horodatage : %4","Vertrauen Sie dem folgenden Schlüssel?
+
+Adresse: %1
+Benutzer: %2
+Schlüssel: %3
+Fingerabdruck: %4
+Zeitstempel: %4","أتثق بالمفتاح الآتي؟
+
+المسار: %1
+المستخدم: %2
+المفتاح: %3
+البصمة: %4
+الختم الزّمني: %4"
+Done,Fait,Abgeschlossen,تمّت
+Downgrade,Revenir à une version antérieure,Herabstufen,عد للسابق
+Downgrading,Retour en arrière en cours,Zurückstufen,يعود إلى النسخة السابقة
+Downloading,Téléchargement en cours,Wird heruntergeladen,ينزّل
+Downloading system update. Please be patient as progress is not reported.,Téléchargement de la mise à jour du système. Veuillez patienter car l'état d'avancement n'est pas affiché.,"Die Systemaktualisierung wird heruntergeladen. Bitte warten Sie, da der Fortschritt nicht verfolgt wird.",ينزّل تحديث النظام. يرجى التحلي بالصبر حيث لم يبلغ عن التقدم.
+Downloading…,Téléchargement en cours…,Herunterladen ...,ينزّل…
+Downloads,Téléchargements,Downloads,التنزيلات
+Drawing,Dessin,Zeichnen,الرّسم
+Dummy Category,Catégorie bidon,Dummy-Kategorie,فئة دمية
+Education,Éducation,Lernprogramme,التّعليم
+Electronics,Électronique,Elektronik,الإلكترونيّات
+Emulators,Émulateurs,Emulatoren,المضاهيات
+Engineering,Ingénierie,Ingenieurwesen,الهندسة
+Enhancement,Améliorations,Verbesserung,التحسينات
+"Enter Alpine repository URL, for example: http://dl-cdn.alpinelinux.org/alpine/edge/testing/","Saisissez l'URL du dépôt Alpine, par exemple : http://dl-cdn.alpinelinux.org/alpine/edge/testing/",Bitte geben Sie die Adresse der Alpine-Paketquelle ein (z. B. http://dl-cdn.alpinelinux.org/alpine/edge/testing/),أدخل عنوان لمستودع Alpine، على سبيل المثال: http://dl-cdn.alpinelinux.org/alpine/edge/testing/
+Enter a Flatpak repository URI (*.flatpakrepo):,Saisissez une URI de dépôt Flatpak (*.flatpakrepo) :,Geben Sie die URI eines Flatpak-Repository (*.flatpakrepo) ein:,أدخل عنوان مستودع فلاتباك (*.flatpakrepo)
+Error,Erreur,Fehler,خطأ
+Error while submitting review: %1,Erreur lors de l'envoi de l'avis : %1,Bewertung kann nicht gesendet werden: %1,خطأ أثناء إرسال المراجعة: %1
+Error while submitting usefulness: %1,Erreur lors de l'envoi de l'utilité : %1,Hilfreich-Bewertung kann nicht gesendet werden: %1,خطأ أثناء إرسال مدى الاستفادة:‏ %1
+Error:,Erreur :,Fehler:,خطأ:
+Error: Authorization denied,Erreur : autorisation refusée,Fehler: Die Autorisierung wurde abgelehnt,خطأ: رفض التخويل
+Failed,Échec,Fehlgeschlagen,فشلت
+Failed Offline Update,Mise-à-jour hors ligne impossible,Offline-Aktualisierung fehlgeschlagen,فشل تحديث دون اتصال
+Failed to add source '%1': %2,Impossible d'ajouter la source « %1 » : %2,Paketquelle „%1“ kann nicht hinzugefügt werden: %2,فشل في إضافة مصدر '%1': %2
+Failed to finalize transaction,Échec à la finalisation de la transaction,Vorgang kann nicht abgeschlossen werden,فشل تمهيد العمليّة
+Failed to get a list of packages to upgrade!,Impossible d'obtenir une liste des paquets à mettre à niveau !,Die Liste mit den zu aktualisierenden Paketen ist nicht abrufbar.,فشل في الحصول على قائمة الحزم التي ستحدث!
+"Failed to load ""%1"" source",Impossible de charger la source « %1 ».,Paketquelle „%1“ kann nicht geladen werden,فشل تحميل المصدر '%1'
+Failed to open APK database!,Impossible d'ouvrir la base de données des paquets « APK » !,Die APK-Datenbank kann nicht geöffnet werden.,فشل في فتح قاعدة بيانات APK!
+Failed to remove %1 remote repository: %2,Impossible de supprimer le dépôt à distance %1 : %2,Das Entfernen der Paketquelle „%1“ ist fehlgeschlagen: %2,فشل في إزالة المستودع البعيد %1 : %2
+Failed to start '%1': %2,Impossible de démarrer « %1 » : %2,„%1“ kann nicht gestartet werden: %2,فشل بدء '%1': %2
+Failed while creating a thread,La création du processus a échoué,Fehler beim Erstellen eines Threads,فشل أثناء إنشاء خيط
+Fallback version,Version de repli,Ausweich-Version,الإصدارة الاحتياطيّة
+Fallback version (pinned),Version de secours (épinglée),Ausweich-Version (angeheftet),الإصدارة الاحتياطيّة (مثبتة)
+File Sharing,Partage de fichiers,Dateifreigabe,مشاركة الملفّات
+File conflicts found,Un conflit de fichier a été trouvé,Es ist ein Datei-Konflikt aufgetreten,عُثر على تضارب ملفّات
+File not found,Impossible de trouver le fichier,Datei nicht gefunden,لم يُعثر على الملفّ
+Filter invalid,Filtre non valable,Ungültiger Filter,المرشّح غير صالح
+Finished,Terminé,Abgeschlossen,انتهى
+Firmware Updates,Mises à jour des microprogrammes,Firmware-Aktualisierungen,التّحديثات البرامج الثابتة
+Fonts,Polices,Schriftarten,الخطوط
+"For security, the session will have to be restarted.","Pour raisons de sécurité, la session devra être redémarrée.",Aus Sicherheitsgründen muss die Sitzung neu gestartet werden.,للأمان، يجب أن يُعاد تشغيل الجلسة.
+"For security, the system will have to be restarted.","Pour raisons de sécurité, le système devra être redémarré.",Aus Sicherheitsgründen muss das System neu gestartet werden.,للأمان، يجب أن يُعاد تشغيل النّظام.
+Full Access,Accès total,Voller Zugriff,الوصول كامل
+Future,Futur,Zukunft,المستقبل
+GPG Agent,Agent « GPG »,GPG-Agent,عميل GPG
+GPG failure,Échec GPG,GPG-Fehler,فشل GPG
+GPL and other licenses,Licence « GPL » et autres licenses,GPL und weitere Lizenzen,ترخيص جي بي ال وتراخيص غيرها
+Games,Jeux,Spiele,الألعاب
+Geography,Géographie,Geografie,الجغرافيا
+Geology,Géologie,Geologie,الطّبيعة
+Graphic Interface Design,Conception d'interfaces graphiques,Design grafischer Oberflächen,تصميم الواجهات الرّسوميّة
+Graphics,Graphisme,Grafik,الرّسوميّات
+Home,Accueil,Startseite,المنزل
+Home Folder Access,Accès au dossier personnel,Persönlicher-Ordner-Zugriff,الوصول إلى مجلد المنزل
+IDEs,IDE,Entwicklungsumgebungen,بيئات التّطوير المتكاملة
+Important,Important,Wichtig,مهمّة
+Incompatible architecture,Architecture incompatible,Die Rechner-Architektur ist nicht kompatibel,معماريّة غير متوافقة
+Initialization failure,Erreur d'initialisation,Die Initialisierung ist fehlgeschlagen,خطأ تمهيد
+Install,Installer,Installieren,ثبّت
+Install root is invalid,Racine d'installation non valable,Die Installationsbasis ist ungültig,جذر التّثبيت غير صالح
+Installed,Installé(s),Installiert,مثبّتة
+Installing,Installation en cours,Wird installiert,يثبّت
+Installing…,Installation en cours…,Wird installiert ...,يثبّت…
+Internal error,Erreur interne,Interner Fehler,خطأ داخليّ
+Internal error: %1,Erreur interne : %1,Interner Fehler: %1,خطأ داخليّ: %1
+Internet,Internet,Internet,الشّابكة
+"Invalid %1 backend, contact your distributor.","Moteur %1 incorrect, veuillez contacter votre distributeur.",Ungültiges %1-Backend. Bitte kontaktieren Sie Ihren Distributor.,خلفية %1 غير صالح، راجع توزيعتك.
+Invalid package file,Fichier paquet non valable,Ungültige Paketdatei,ملفّ الحزمة غير صالح
+KDE Store,Boutique KDE,KDE Store,متجر كِيدِي
+Kernel-based Virtual Machine Access,Accès aux machines virtuelles grâce au noyau,KVM-Zugriff,الوصول إلى الآلات الافتراضية المعتمدة على النواة
+Launch,Lancer,Starten,شغّل
+"List all the backends we'll want to have loaded, separated by comma ','.","Lister tous les moteurs que l'on veut charger, séparés par des virgules « , ».","Alle Backends getrennt durch Komma („,“) anzeigen, die geladen werden sollen.","اسرد كلّ الأسناد التي تريد تحميلها، فاصلًا بينها بفاصلة ’,‘."
+"Loading, please wait...","Chargement en cours, veuillez patienter...","Wird geladen, bitte warten …",يحمل، فضلًا انتظر...
+Local bundle,Paquet local,Lokales Paket,حزمة محليّة
+Local install failed,L'installation locale a échoué,Lokale Installation fehlgeschlagen,فشل التّثبيت المحلّيّ
+Local packages:,Paquets locaux :,Lokale Pakete:,الحزم المحلية:
+Localization,Localisation,Lokalisierung,التّوطين
+Lock required,Verrou nécessaire,Sperre erforderlich,القفل مطلوب
+Log in information for %1,Informations de connexion pour %1,Anmeldungsinformationen für %1,معلومات ولوج %1
+Low,Faible,Niedrig,منخفض
+Low-Level System Access,Accès de bas niveau au système,Low-Level-System-Zugriff,الوصول إلى وظائف النظام الدُنيا
+Mail,Courriel,E-Mail,البريد
+Makes it possible to easily install the applications listed in https://flathub.org,Lui permet d'installer facilement les applications listées dans https://flathub.org,"Ermöglicht es, auf einfache Weise Anwendungen von https://flathub.org zu installieren.",يجعل من الممكن بسهولة تثبيت التطبيقات المدرجة في https://flathub.org
+Malformed appstream url '%1',URL « AppStream » malformée « %1 »,Ungültige Appstream Adresse „%1“,مسار appstream ‏’%1‘ مشوّه
+Mathematics,Mathématiques,Mathematik,الرّياضيّات
+"Media Change of type '%1' is requested.
+%2","Un changement de média de type « %1 » est nécessaire.
+%2","Ein Medienwechsel vom Typ „%1“ ist erforderlich.
+%2","تغيير الوسيط من نوع ’%1‘ مطلوب.
+%2"
+Missing remote ref for rebase operation. Please file a bug.,Référence distante manquante pour l'opération de re-localisation. Veuillez signaler un bogue.,Fehlende Paketquelle für den Wechsel der Hauptversion. Bitte senden Sie einen Fehlerbericht.,ينقص إحالة بعيدة إلى عملية إعادة تأسيس النظام. الرجاء أبلغ عنها.
+Missing signature for %1 in %2,Signature manquante pour %1 dans %2,Fehlende Signatur für %1 in %2,توقيع %1 ناقص في %2
+Multimedia,Multimédia,Multimedia,الوسائط المتعدّدة
+Music,Musique,Musik,الموسيقى
+Network Access,Accès au réseau,Netzwerk-Zugriff,نفاذ الشّبكة
+Network error in backend %1: %2,Erreur de réseau dans le moteur %1 : %2,Netzwerkfehler im Backend %1: %2,خطأ شبكيّ في الخلفية %1: %2
+No Cache available,Aucun cache disponible,Kein Zwischenspeicher verfügbar,لا خبيئة متوفّرة
+No GPG signature found,Aucune signature GPG trouvée,Keine GPG-Signatur gefunden,لم يُعثر على توقيع GPG
+No distro upgrade data,Aucune donné de mise à jour de distribution,Es sind keine Daten für eine Distributionsaktualisierung verfügbar,لا بيانات لترقية التّوزيعة
+No license agreement,Aucun accord de licence,Keine Lizenzvereinbarung,لا اتّفاقيّة ترخيص
+No more mirrors available,Aucun autre miroir disponible,Keine weiteren Spiegelserver verfügbar,لا مرايا أكثر متوفّرة
+No network connection available,Aucune connexion réseau disponible,Keine Netzwerkverbindung verfügbar,لا اتّصال شبكة متوفّر
+No packages to update,Aucun paquet à mettre à jour,Keine Pakete für Aktualisierung verfügbar,لا حزم لتحديثها
+No space on device left,Plus d'espace disponible sur le périphérique,Auf dem Gerät ist kein Speicherplatz mehr verfügbar,لم تبقَ مساحة على الجهاز
+Normal,Normal,Normal,عادي
+Not Installed,Non installé,Nicht installiert,غير مثبّت
+Not enough space to perform the update; only %1 of space are available.,Espace insuffisant pour réaliser la mise à jour. Il ne reste que %1 d'espace disponible.,"Nicht genügend Speicher, um die Aktualisierung durchzuführen; nur %1 Speicher verfügbar.",لا يوجد مساحة كافية للتحديث. المتوفر لديك %1.
+Obsolete,Obsolète,Veraltet,بائد
+Obsoletes:,Rend obsolète :,Veraltete Pakete:,البائدة:
+Obsoleting,Mise en obsolescence en cours,Pakete werden veraltet,بائدة
+Office,Bureautique,Büroprogramme,المكتب
+Offline Updates,Mise-à-jour hors ligne,Offline-Aktualisierungen,التّحديثات غير الشّبكيّة
+Open Discover,Ouvrir Discover,Discover öffnen,افتح المستكشف
+Operating System,Système d'exploitation,Betriebssystem,نظام التشغيل
+Operation in progress (started outside of Discover),Opération en cours (Débutée en dehors de Discover),Vorgang wird ausgeführt (außerhalb von Discover gestartet),عملية قيد التنفيذ (بدأت خارج المستكشف)
+Operation not supported,Opération non prise en charge,Operation nicht unterstützt,العمليّة غير مدعومة
+Out of memory,Mémoire insuffisante,Nicht genügend Speicher,نفذت الذّاكرة
+Package conflict found,Conflit de paquet décelé,Es ist ein Paket-Konflikt aufgetreten,عُثر على تضارب حزم
+Package download failed,Le téléchargement du paquet a échoué,Herunterladen des Pakets fehlgeschlagen,فشل تنزيل الحزمة
+Package failed to build,La construction du paquet a échoué,Das Kompilieren des Pakets ist fehlgeschlagen,فشل بناء الحزمة
+Package failed to configure,La configuration du paquet a échoué,Das Konfigurieren des Pakets ist fehlgeschlagen,فشل ضبط الحزمة
+Package failed to install,L'installation du paquet a échoué,Das Installieren des Pakets ist fehlgeschlagen,فشل تثبيت الحزمة
+Package failed to remove,La suppression du paquet a échoué,Das Entfernen des Pakets ist fehlgeschlagen,فشلت إزالة الحزمة
+Package group list invalid,Liste du groupe de paquets non valable,Die Paketgruppenliste ist ungültig,قائمة مجموعة الحزم غير صالحة
+Package group not found,Impossible de trouver le groupe de paquets,Die Paketgruppe wurde nicht gefunden,لم يُعثر على مجموعة الحزم
+Package install blocked,Installation du paquet bloquée,Installation des Pakets blockiert,مُنع تثبيت الحزمة
+Package is already installed,Paquet déjà installé,Das Paket ist bereits installiert,الحزمة مثبّتة بالفعل
+Package management,Gestion des paquets,Paketverwaltung,إدارة الحزم
+Package not found,Impossible de trouver le paquet,Das Paket wurde nicht gefunden,لم يُعثر على الحزمة
+Package not installed,Paquet non installé,Das Paket ist nicht installiert,الحزمة غير مثبّتة
+PackageID invalid,Identifiant de paquet non valable,Die Paket-Kennung ist ungültig,معرّف الحزمة غير صالح
+Painting and Editing,Peinture et retouche,Malen und Bearbeiten,التّلوين والتّحرير
+Permissions,Permissions,Berechtigungen,التّصاريح
+Permissions for %1,Permissions pour %1,Berechtigungen für %1,صلاحيات لـ %1
+Photography,Photographie,Fotografie,التّصوير الفوتوغرافيّ
+Physics,Physique,Physik,الفيزياء
+Plasma Addons,Modules Plasma,Plasma-Erweiterungen,إضافات بلازما
+Plasma Widgets,Composants graphiques Plasma,Plasma-Miniprogramme,ودجات بلازما
+Please make sure that Appstream is properly set up on your system,Veuillez vérifier que AppStream est correctement configuré sur votre système,"Stellen Sie sicher, dass Appstream auf Ihrem System korrekt eingerichtet ist",تحقّق من أنّ Appstream مضبوط كما ينبغي في النّظام
+Please update to the latest version before rebasing to a major version,Veuillez mettre à jour avec la dernière version avant de repasser en version majeure,"Bitte führen Sie eine Aktualisierung auf die letzte Version durch, bevor Sie auf eine neue Hauptversion wechseln",الرجاء التحديث إلى أخر إصدارة قبل إعادة تأسيس النظام إلى إصدارة رئيسة
+Please verify Internet connectivity,Veuillez vérifier votre connexion sur Internet.,Bitte überprüfen Sie Ihre Internet-Verbindung,رجاء تأكد من الاتصال بالإنترنت
+Preparing,Préparation en cours,In Vorbereitung,يحضّر
+Present,Présent,Vorhanden,موجود
+Printer Access,Accès au périphérique d'impression,Drucker-Zugriff,الوصول إلى الطابعة
+Processing…,Traitement en cours…,Verarbeitung läuft ...,يعالج...
+Profiling,Profilage,Profiling,التّحليل البرمجيّ
+Proprietary,Propriétaire,Proprietär,محتكرة
+Public Domain,Domaine public,Gemeinfrei,ملكية عامة
+Publishing,Publication,Veröffentlichen,النّشر
+Puzzles,Puzzles,Puzzle,الأحاجي
+Refresh,Rafraîchir,Auf Aktualisierungen prüfen,أنعش
+Refresh of version %1,Mise à jour vers la version %1.,Aktualisierung von Version %1,تحديث للإصدارة %1
+Refreshing Cache…,Mise à jour du cache en cours…,Zwischenspeicher wird aktualisiert ...,يحدّث الخبيئة...
+Reinstalling,Réinstallation en cours,Neu installieren,يعيد التّثبيت
+Release Notes:,Note de publication :,Hinweise zur Veröffentlichung,ملاحظات الإصدارة:
+Remote Login Access,Accès par connexion distante,Fernanmeldung-Zugriff,الوصول للولوج البعيد
+Remove,Supprimer,Entfernen,أزل
+Removed packages:,Paquets supprimés :,Entfernte Pakete:,الحزم المزالة:
+Remove…,Supprimer…,Entfernen ...,يزيل...
+Removing,Suppression en cours,Wird entfernt,يزيل
+Removing '%1',Suppression de « %1 »,„%1“ wird entfernt,يزيل '%1'
+Repair Failed,Réparation impossible,Reparatur fehlgeschlagen,الإصلاح فشل
+Repair System,Réparer le système,System aktualisieren,إصلاح النّظام
+Repaired Successfully,Réparé avec succès.,Erfolgreich repariert,نجح الإصلاح
+Repairing failed offline update,Réparation suite à l'échec de la mise à jour hors ligne,Fehlgeschlagene Offline-Aktualisierung wird repariert,فشل إصلاح التحديث دون اتصال
+Replaced packages:,Paquets remplacés :,Ersetzte Pakete:,الحزم المستبدلة:
+Replacement Available,Version de remplacement disponible,Ersatz verfügbar,البديل المتوفر
+Repo configuration error,Erreur de configuration du dépôt,Einrichtungsfehler der Paketquelle,خطأ في ضبط المستودع
+Repo not available,Dépôt indisponible,Die Paketquelle ist nicht verfügbar,المستودع غير متوفّر
+Report This Issue to %1,Signaler ce problème à %1,Dieses Problem an %1 berichten,أبلغ عن هذه المشكلة إلى %1
+Repository URL:,URL du dépôt :,Archiv-Adresse:,مسار المستودع:
+Resolving dependencies…,Résolution des dépendances en cours…,Abhängigkeiten werden aufgelöst ...,يحلّ الاعتماديّات…
+Restart:,Redémarrer :,Neustart:,إعادة التّشغيل
+Restricted download detected,Téléchargement restreint détecté,Eingeschränktes Herunterladen wurde erkannt,اكتُشف تقييد التّنزيل
+Retrieving size information,Collecte des informations sur la taille,Größeninformation wird abgeholt,يجلب معلومات الحجم
+Review EULA,Lire les conditions « EULA »,EULA ansehen,راجع رخصة المستخدم النهائي
+Role Playing,Jeux de rôle,Rollenspiele,ألعاب تقمّص الأدوار
+Scanning and OCR,Numérisation et reconnaissance de caractères,Scannen und Texterkennung,المسح الضّوئيّ والتّعرّف على الكتابة
+Science & Math,Science & Mathématiques,Wissenschaft,علوم ورياضيات
+Security,Sécurité,Sicherheit,أمني
+Session Bus Access,Accès au bus de sessions,Session-Bus-Zugriff,الوصول لناقل الجلسة
+Setting up transaction…,Établissement de la transaction en cours…,Einrichten des Vorgangs ...,يعدّ العمليّة...
+Setup…,Installation en cours…,Einrichtung ...,يعد...
+Show Dependencies…,Afficher les dépendances...,Abhängigkeiten anzeigen ...,أظهر الاعتماديّات…
+Simulation,Simulation,Simulation,المحاكيات
+Smart Card Access,Accès à la carte mémoire,Smartcard-Zugriff,الوصول للبطاقة الذكية
+Snap,Snap,Snap,سناب
+Software verified by %1,Logiciel vérifié par %1,Von %1 bestätigte Software,تُحُقّق من البرنامج بواسطة %1
+Sound system access,Accès au système audio,Zugriff auf Soundsystem,الوصول نظام الصوت
+Sports,Sports,Sport,الرياضة
+Stable,stable,Stable,مستقرّ
+Starred Publisher on snapcraft.io,Éditeur vedette sur snapcraft.io,Beliebter Herausgeber bei snapcraft.io,الناشر المميز على snapcraft.io
+Starting,En cours de démarrage,Startvorgang,يبدأ
+SteamOS,SteamOS,SteamOS,ستيم أو إس
+SteamOS: Unable to query atomupd for SteamOS Updates...,SteamOS : impossible d'interroger « atomupd » pour des mises à jour de SteamOS...,SteamOS: atomupd für SteamOS-Aktualisierungen kann nicht abgefragt werden ...,ستيم او اس: لم يتمكن من استعلام atomupd لتحديثات ستيم او اس…
+Strategy,Stratégie,Strategie,الاستراتيجيات
+Switch,Basculer,Wechseln,بدّل
+System,Système,System aktualisieren,النظام
+System Bus Access,Accès au bus du système,System-Bus-Zugriff,الوصول لناقل النظام
+System Folder Access,Accès au dossier du système,Systemordner-Zugriff,الوصول إلى مجلّد النّظام
+System Software,Logiciels du système,System-Software,برمجيّات النظام
+System upgrade,Mise à jour du système,System-Aktualisierung,ترقية النّظام
+Technical error message: %1,Message d'erreur interne : %1,Technische Fehlermeldung: %1,رسالة الخطأ التقنية: %1
+Test committing…,Publication en cours de tests…,Einspielen wird getestet ...,يختبر الإيداع...
+Testing,en test,Testing,اختباريّ
+The PackageKit daemon has crashed,Le démon PackageKit a planté,Der PackageKit-Dienst ist abgestürzt,انهار عفريت عُدّة الحزم PackageKit
+The application will have to be restarted.,L'application devra être redémarrée.,Die Anwendung muss neu gestartet werden.,يجب أن يُعاد تشغيل التّطبيق.
+The background service (PackageKit) stopped unexpectedly. It may have crashed.,Le service en arrière-plan (PackageKit) s'est arrêté de manière inattendue. Il s'est peut-être planté.,Der Hintergrunddienst (PackageKit) stoppte unerwartet. Möglicherweise ist er abgestürzt.,توقفت خدمة الخلفية (PackageKit) بشكل غير متوقع. ربما تحطمت.
+The following packages will be removed by the update:%1 in order to install:%2,"Les paquets suivants seront supprimés par la mise à jour : %1  afin d'installer :
+%2","Die folgenden Pakete werden bei dieser Aktualisierung entfernt:%1 um diese Paket zu installieren:
+%2",سيُزيل التّحديث الحزم الآتية:%1 لتثبيت:%2
+"The package %1 and its vendor %2 require that you accept their license:
+ %3","Le paquet %1 et son fournisseur %2 requièrent que vous acceptiez leur licence:
+ %3","Das Paket %1 und dessen Anbieter %2 verlangen, dass Sie Ihre Lizenz akzeptieren:
+ %3","تطلب الحزمة %1 وبائعها %2 قبول رخصتهم:
+ %3"
+The package database changed,La base de donnés des paquets a changé,Die Paketdatenbank ist geändert worden,تغيّرت قاعدة بيانات الحزم
+The provided type is not supported,Le type fourni n'est pas pris en charge,Der bereitgestellte Typ wird nicht unterstützt,النّوع الموفّر غير مدعوم
+"The remote %1 require that you accept their license:
+ %2","Le dépôt %1 requiert que vous acceptiez sa licence :
+ %2","Die Paketquelle „%1“ verlangt, dass Sie ihre Lizenz akzeptieren:
+%2","تطلب  %1 البعيدة قبول رخصتهم:
+ %2"
+The session will have to be restarted,La session devra être redémarrée,Die Sitzung muss neu gestartet werden,يجب أن يُعاد تشغيل الجلسة.
+The system will have to be restarted.,Le système devra être redémarré.,Das System muss neu gestartet werden.,يجب أن يُعاد تشغيل النّظام.
+The transaction has finished!,La transaction est terminée !,Der Vorgang wurde abgeschlossen.,انتهت العمليّة!
+The transaction is currently checking the signatures of the packages…,La transaction réalise actuellement une vérification de la signature des paquets…,Der Vorgang überprüft zurzeit die Signaturen der Pakete ...,العمليّة تفحص تواقيع الحزم حاليًّا...
+The transaction is currently cleaning up…,La transaction réalise actuellement un nettoyage…,Der Vorgang räumt zurzeit auf ...,العمليّة تنظّف حاليًّا...
+The transaction is currently committing its set of packages…,La transaction réalise actuellement une validation de son ensemble de paquets…,Der Vorgang spielt zurzeit das Einspielen diese Gruppe von Paketen ein ...,العمليّة تودع مجموعة الحزم حاليًّا...
+The transaction is currently copying files…,La transaction réalise actuellement une copie de fichiers…,Der Vorgang kopiert zurzeit Dateien ...,العمليّة تنسخ الملفّات حاليًّا...
+The transaction is currently downloading packages…,La transaction réalise actuellement un téléchargement de paquets…,Der Vorgang lädt zurzeit Pakete herunter ...,العمليّة تنزّل الحزم حاليًّا...
+The transaction is currently removing packages…,La transaction réalise actuellement la suppression de paquets…,Der Vorgang entfernt zurzeit Pakete ...,العمليّة تزيل الحزم حاليًّا...
+The transaction is currently resolving the dependencies of the packages it will install…,La transaction réalise actuellement une résolution des dépendances des paquets à installer…,Der Vorgang löst zurzeit die Abhängigkeiten der zu installierenden Pakete auf ...,العمليّة تحلّ اعتماديّات الحزم التي ستثبّتها حاليًّا...
+The transaction is currently testing the commit of this set of packages…,La transaction réalise actuellement un test de publication pour cet ensemble de paquets…,Der Vorgang testet zurzeit das Einspielen dieser Gruppe von Paketen ...,العمليّة تفحص إيداع مجموعة الحزم حاليًّا...
+The transaction is currently updating packages…,La transaction réalise actuellement une mise à jour de paquets…,Der Vorgang aktualisiert zurzeit Pakete ...,العمليّة تحدّث الحزم حاليًّا...
+The transaction is currently waiting for the lock…,La transaction est actuellement en attente d'un verrou…,Der Vorgang wartet zurzeit auf eine Sperre ...,العمليّة تعمل حاليًّا للقفل...
+The transaction is currently working…,La transaction est en cours…,Der Vorgang läuft gerade ...,العمليّة تعمل حاليًّا...
+The transaction was canceled,La transaction a été annulée,Der Vorgang wurde abgebrochen,أُلغيت العمليّة
+The transactions is currently installing packages…,La transaction réalise actuellement une installation de paquets…,Der Vorgang installiert zurzeit Pakete ...,العمليّات تثبّت الحزم حاليًّا...
+There are no Flatpak sources.,Il n'y a aucune source « Flatpak ».,Es gibt keine Flatpak-Paketquellen.,لا يوجد مصادر للفلات باك
+This Snap application is not compatible with security sandboxing and will have full access to this computer. Install it anyway?,Cette application « Snap » est incompatible avec le bac à sable de sécurité. Elle n'aura pas un accès total à cet ordinateur. Voulez-vous vraiment l'installer ?,Diese Snap-Anwendung ist nicht mit der Sicherheits-Sandbox kompatibel und hat vollen Zugriff auf Ihren Computer. Dennoch installieren?,تطبيق سناب هذا غير متوافق مع وضع الحماية للأمان وسيكون له حق الوصول الكامل إلى هذا الحاسوب. أتثبته على أي حال؟
+"This action cannot be completed as it would remove the following software which is critical to the system's operation:%1If you believe this is an error, please report it as a bug to the packagers of your distribution.","Cette action ne peut être menée à terme car elle conduirait à supprimer les logiciels suivants, critiques pour le bon fonctionnement de votre système :%1Si vous pensez que cela est une erreur, veuillez le signaler comme un bogue vers les personnes en charge de la production des paquets de votre distribution.","Diese Aktion kann nicht abgeschlossen werden, da sonst folgende, für die Funktion des Systems erforderliche, Software entfernt werden würde:%1Wenden Sie sich an Ihre Distribution, wenn Sie der Meinung sind, dass es sich dabei um einen Fehler handelt.",لا يمكن إكمال هذا الإجراء لأنه سيؤدي إلى إزالة البرامج التالية التي تعتبر بالغة الأهمية لتشغيل النظام: ‏%1إذا كنت تعتقد أن هذا خطأ ، فالرجاء الإبلاغ عنه على أنه خطأ إلى محزمي التطبيقات  في توزيعتك.
+This development version of %1 is outdated. Using the stable version is highly recommended.,Cette version de développement de %1 est obsolète. Il est fortement recommandé d'utiliser la version stable.,Diese Entwicklungsversion von %1 ist veraltet. Die Verwendung der stabilen Version wird ausdrücklich empfohlen.,أصبحت هذه الإصدارة التطويرية من %1 قديمة. من المستحسن أن تستعمل الإصدارة المستقرة.
+"This update cannot be completed as it would remove the following software which is critical to the system's operation:%1If you believe this is an error, please report it as a bug to the packagers of your distribution.","Cette mise à jour ne peut être menée à terme car elle conduirait à supprimer les logiciels suivants, critiques pour le bon fonctionnement de votre système :%1Si vous pensez que cela est une erreur, veuillez le signaler comme un bogue vers les personnes en charge de la production des paquets de votre distribution.","Diese Aktualisierung kann nicht abgeschlossen werden, da sonst folgende, für die Funktion des Systems erforderliche, Software entfernt werden würde:%1Wenden Sie sich an Ihre Distribution, wenn Sie der Meinung sind, dass es sich dabei um einen Fehler handelt.",لا يمكن إكمال هذا التحديث لأنه سيؤدي إلى إزالة البرامج التالية التي تعتبر بالغة الأهمية لتشغيل النظام: ‏%1إذا كنت تعتقد أن هذا خطأ ، فالرجاء الإبلاغ عنه على أنه خطأ إلى محزمي التطبيقات  في توزيعتك.
+"To remove this repository, the following applications must be uninstalled:%1","Pour supprimer ce dépôt, vous devez désinstaller les applications suivantes :%1","Um diese Paketquelle zu entfernen, müssen folgende Programme deinstalliert werden:%1",لإزالة هذا المستودع ، يجب إلغاء تثبيت التطبيقات التالية:%1
+Too many requests sent to the server for backend %1. Please try again in a few minutes.,Trop de requêtes envoyées vers le serveur pour le moteur %1. Veuillez essayer à nouveau dans quelques minutes.,Zu viele Anfragen zum Server für Backend %1. Bitte versuchen Sie es in einigen Minuten erneut.,العديد من الطلبات أرسلت إلى الخادم لخلفية %1 . رجاء حاول مجددا بعد بضع دقائق.
+Transaction canceled,Transaction interrompue,Vorgang abgebrochen,أُلغيت العمليّة
+Transaction failure,La transaction a échoué,Fehlerhafter Vorgang,فشلت العمليّة
+Trusted,Fiable,Vertrauenswürdig,موثوق
+"Unable to complete the update of %1. You can try and perform this action through the Get Hot New Stuff dialog, which grants tighter control. The reported error was:
+%2","Impossible de terminer la mise à jour de %1. Vous pouvez essayer et réaliser grâce à la boîte de dialogue « Quoi de neuf », ce qui fournit un contrôle plus strict. L'erreur signalée était : 
+%2","Die Aktualisierung von „%1“ kann nicht abgeschlossen werden. Sie können versuchen, diese Aktion im Dialog „Neue Erweiterungen herunterladen“ auszuführen, welcher eine genauere Kontrolle erlaubt. Der Fehler lautet:
+%2","غير قادر على إكمال تحديث %1. يمكنك محاولة تنفيذ هذا الإجراء من خلال مربع الحوار احصل على أشياء جديدة ، والذي يمنح تحكمًا أكثر إحكامًا. الخطأ الذي تم الإبلاغ عنه هو: 
+%2"
+Unavailable,Indisponible,Nicht verfügbar,غير متوفّر
+Unfinished transaction,La transaction n'est pas terminée,Nicht beendeter Vorgang,عمليّة لم تنته
+Unhandled error in %1 backend. Contact your distributor.,Erreur non gérée dans le moteur %1. Veuillez contacter votre distributeur.,Unbehandelter Fehler im Backend %1. Bitte kontaktieren Sie Ihren Distributor.,خطأ لا يمكن التعامل معه في خلفية %1. راجع توزيعتك.
+Unknown,Inconnu,Unbekannt,مجهول
+Unknown Source,Source inconnue,Unbekannte Quelle,مصدر مجهول
+Unknown Status,État inconnu,Unbekannter Status,حالة مجهولة
+Unknown error %1.,Erreur inconnue %1.,Unbekannter Fehler %1.,الخطأ %1 مجهول.
+Unknown status %1.,État inconnu %1.,Unbekannter Status %1.,الحالة %1 مجهولة.
+Unknown transaction type,Type inconnu de transaction,Unbekannter Transaktionstyp,نوع معاملة مجهول
+Unstable,en évolution,Unstable,غير مستقرّ
+"Unsupported question:
+%1","Question non prise en charge :
+%1","Nicht unterstützte Anfrage:
+%1","سؤال غير مدعوم:
+%1"
+Untrusted,Non fiable,Nicht vertrauenswürdig,غير موثوقة
+Update State:,État de la mise à jour :,Aktualisierungsstatus:,حالة التّحديث:
+Update failed due to running process,La mise à jour a échoué à cause d'un processus en cours d'exécution,Die Aktualisierung ist wegen laufender Prozesse fehlgeschlagen.,فشل التّحديث بسبب عمليّة تعمل
+Update not found,Impossible de trouver la mise à jour,Aktualisierung wurde nicht gefunden,لم يُعثر على التّحديث
+Updates,Mises à jour,Aktualisierungen,التّحديثات
+Updating,Mise à jour en cours,Wird aktualisiert,يحدّث
+Updating the system. Please be patient as progress is not reported.,Téléchargement du système. Veuillez patienter car l'état d'avancement n'est pas affiché.,"Das System wird aktualisiert. Bitte warten Sie, da der Fortschritt nicht verfolgt wird.",يحدث النظام. يرجى التحلي بالصبر حيث لم يبلغ عن التقدم.
+Updating to the next major version. Please be patient as progress is not reported.,Téléchargement de la prochaine version majeure. Veuillez patienter car l'état d'avancement n'est pas affiché.,"Die Aktualisierung auf die nächste Hauptversion läuft. Bitte warten Sie, da der Fortschritt nicht verfolgt wird.",يحدّث إلى الإصدارة الرئيسة التالية. يرجى التحلي بالصبر حيث لم يبلغ عن التقدم.
+Updating…,Mise à jour en cours…,Aktualisierung ...,يحدّث…
+Upgrade Now,Mettre à niveau maintenant,Jetzt aktualisieren,رقي الآن
+Upgradeable,Évolutif(s),Aktualisierbar,قابلة للتّرقية
+Utilities,Utilitaires,Dienstprogramme,أدوات
+Vendor:,Fournisseur :,Hersteller:,البائع:
+Verified Publisher on snapcraft.io,Éditeur vérifié sur snapcraft.io,Verifizierter Herausgeber bei snapcraft.io,ناشر تُحُقّق منه على snapcraft.io
+Version that will be used after reboot,Version qui sera utilisée après le re-démarrage,Nach einem Neustart verwendete Version,الإصدارة التي ستستخدم بعد إعادة بدء التشغيل
+Video Players,Lecteurs vidéo,Videospieler,مشغلات الفيديو
+View Stable Version on %1,Afficher la version stable de %1,Stabile Version auf %1 ansehen,اعرض الإصدارة المستقرّة على %1
+Viewers,Afficheurs,Dateibetrachter,العارضات
+Waiting,En attente,Wartend,ينتظر
+Waiting for authorization…,En attente d'autorisation…,Autorisierung wird erwartet ...,ينتظر الاستيثاق…
+Waiting for lock…,En attente du verrou…,Es wird auf Sperre gewartet ...,ينتظر القفل...
+Waiting for the user to authorize the transaction…,En attente de l'autorisation de l'utilisateur pour la transaction…,"Es wird darauf gewartet, dass der Benutzer den Vorgang autorisiert ...",ينتظر المستخدم لاستيثاق العمليّة...
+Waiting…,En attente…,Warten ...,ينتظر…
+We are waiting for something.,En attente de quelque chose.,Es wird gewartet.,نحن ننتظر شيئًا.
+Web Browsers,Navigateurs web,Webbrowser,متصفّحات الوِبّ
+Web Development,Développement Web,Web-Entwicklung,تطوير الوِبّ
+Wrong KNewStuff URI: %1,Mauvaise URI KNewStuff : %1,Falsche KNewStuff-URI: %1,معرّف «أشياء جديدة» خطأ: %1
+You have no authorization to execute this operation,Vous n'avez pas l'autorisation d'exécuter cette opération,"Sie haben keine Autorisierung, um diesen Vorgang durchzuführen",لا استيثاق لديك لتنفيذ هذه العمليّة
+You have pending updates for the current version. Proceeding anyway.,Vous avez des mises à jour en attente pour la version actuelle. Poursuivre malgré tout.,Es gibt noch ausstehende Aktualisierungen für die aktuelle Version. Es wird trotzdem fortgefahren.,لديك تحديثات معلقة للإصدارة الحالية. سيتابع على أية حالة.
+Your operating system ended support on %1. Consider upgrading to a supported version.,Votre système d'exploitation n'est plus pris en charge depuis %1. Veuillez prendre en compte une mise à jour vers une version prise en charge.,Die Unterstützung durch Ihr Betriebssystem endete am %1. Bitte erwägen Sie die Aktualisierung auf eine unterstützte Version.,انتهى دعم نظام تشغيلك في %1. ضع في اعتبارك الترقية إلى إصدار مدعوم.
+dummy,factice,Dummy,دمية
+dummy 1,factice 1,Dummy 1,دمية 1
+dummy 2.1,factice 2.1,Dummy 2.1,دمية 2٫1
+dummy 3,factice 3,Dummy 3,دمية 3
+dummy 4,factice 4,Dummy 4,دمية 4
+dummy addons,modules factices,Dummy-Erweiterungen,إضافات دمية
+dummy with quite some stuff,factice avec quelques trucs,Dummy mit vielen Sachen,دمية ببعض الأشياء
+dummy with stuff,factice avec des trucs,Dummy mit Sachen,دمية بها أشياء
+ostree remotes,commandes distantes de « ostree »,ostree-Paketquellen,‏ostree البعيدة
+"rpm-ostree transaction failed with:
+%1","Échec de la transaction « rpm-ostree » avec :
+%1","rpm-ostree-Transaktion ist fehlgeschlagen mit:
+%1","فشلت عملية rpm-ostree بالخرج التالي:
+%1"
+rpm-ostree-backend: Error: Can not rebase to an empty ref. Please file a bug.,rpm-ostree : erreur : il a été impossible de faire une reconstruction avec une référence vide. Veuillez rédiger un rapport de bogue.,rpm-ostree-backend: Fehler: Der Neuaufbau auf einer leeren Referenz ist nicht möglich. Bitte senden Sie einen Fehlerbericht.,خلفية rpm-ostree: خطأ: لا يمكن تغيير العنوان إلى مرجع فارغ. الرجاء أبلغ عنها.
+rpm-ostree-backend: Error: Can not start a transaction for resource with an invalid format. Please file a bug.,rpm-ostree : erreur : il a été impossible de démarrer une transaction pour la ressource avec un format non valable. Veuillez remplir un rapport de bogue.,rpm-ostree-backend: Fehler: Das Starten einer Transaktion für eine Ressource mit einem ungültigen Format ist nicht möglich. Bitte senden Sie einen Fehlerbericht.,خلفية rpm-ostree: خطأ: لا يمكن بدء معاملة لمورد بتنسيق غير صالح. الرجاء أبلغ عنها.
+rpm-ostree-backend: Error: No DBus interface provided. Please file a bug.,rpm-ostree : erreur : aucune interface « D-Bus » n'a été fournie. Veuillez rédiger un rapport de bogue.,rpm-ostree-backend: Fehler: Es ist keine DBus-Schnittstelle verfügbar. Bitte senden Sie einen Fehlerbericht.,خلفية rpm-ostree: خطأ: لم يعثر على واجهة دي باص. الرجاء أبلغ عنها.
+rpm-ostree-backend: Error: Unknown operation requested. Please file a bug.,rpm-ostree : une opération inconnue a été demandée. Veuillez rédiger un rapport de bogue.,rpm-ostree-backend: Fehler: Eine unbekannte Operation wird angefragt. Bitte senden Sie einen Fehlerbericht.,خلفية rpm-ostree: خطأ: طلبت عملية غير معروفة. الرجاء أبلغ عنها.
+rpm-ostree-backend: Error: Unknown resource format. Please file a bug.,rpm-ostree : erreur : format inconnu de ressource. Veuillez rédiger un rapport de bogue.,rpm-ostree-backend: Fehler: Das Resourcenformat ist nicht bekannt. Bitte senden Sie einen Fehlerbericht.,خلفية rpm-ostree: خطأ: تنسيق مورد غير معروف. الرجاء أبلغ عنها.
+rpm-ostree: Multiple booted deployments found. Please file a bug.,rpm-ostree : plusieurs configurations de démarrage ont été trouvées. Veuillez rédiger un rapport de bogue.,rpm-ostree: Mehrere gebootete Deployments gefunden. Bitte senden Sie einen Fehlerbericht.,rpm-ostree: عثر على عمليات نشر قابلة للإقلاع متعددة. يرجى تقديم خطأ.
+rpm-ostree: No booted deployment found. Please file a bug.,rpm-ostree : il a été impossible de trouver une configuration de démarrage. Veuillez rédiger un rapport de bogue.,rpm-ostree: Keine gebooteten Deployments gefunden. Bitte senden Sie einen Fehlerbericht.,rpm-ostree: لم يعثر على عملية نشر قابلة للإقلاع. الرجاء أبلغ عنها.

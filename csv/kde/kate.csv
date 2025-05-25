@@ -1,0 +1,541 @@
+English,French,German,Arabic
+%1 [suppressed: %2],%1 [supprimé : %2],,%1 [مقيد: %2]
+%1 cannot open folders,Il est impossible pour %1 d'ouvrir les dossiers,%1 kann Order nicht öffnen,لا يستطيع %1 فتح المجلدات
+%1 doesn't exist in a git repo.,%1 n'existe pas dans un dépôt « Git »,%1 existiert in keinem Git-Repo.,%1 غير موجود في مستودع غت
+All Sessions,Toutes les sessions,Alle Sitzungen,كل الجلسات
+Auto hide tabs,Masquer automatiquement les onglets,Unterfenster automatisch ausblenden,أخفِ الألسنة آليّاً
+Backward button pressed:,Appui sur le bouton de retour en arrière :,Zurück-Knopf gedrückt:,الضغط على زر العودة:
+Behavior,Comportement,Verhalten,السّلوك
+Close Document,Fermer le document,Dokument schließen,أغلق المستند
+Double click opens a new document,Un double-clic ouvre un nouveau document,Doppelklick öffnet ein neues Dokument,النقر المزدوج يفتح مستند جديد
+Edit,Édition,Bearbeiten,تحرير
+Expand tabs,Développer les onglets,Karteireiter erweitern,وسع الألسنة
+File,Fichier,Datei,ملفّ
+Forward button pressed:,Appui sur le bouton d'avancement :,Vorwärts-Knopf gedrückt:,الضغط على زر التقدم:
+Go,Se déplacer,Gehe zu,اذهب
+Help,Aide,Hilfe,مساعدة
+Ignore Changes,Ignorer les modifications,Änderungen ignorieren,تجاهل التّغييرات
+Limit number of tabs:,Limiter le nombre d'onglets :,Anzahl der Unterfenster begrenzen:,حد عدد الألسنة:
+Limit output view history:,Limiter l'historique sur l'affichage en sortie :,Ausgabeverlauf begrenzen:,حد تاريخ منظور الخرج:
+Load last used session,Charger la dernière session utilisée,Zuletzt verwendete Sitzung laden,حمّل آخر جلسة مستخدمة
+Manage Sessions...,Gérer les sessions...,Sitzungen verwalten ...,أدر الجلسات...
+Manually choose a session,Sélectionner manuellement une session,Sitzung manuell auswählen,اختر جلسة يدويًّا
+Middle click closes a document,Un clic central ferme un document,Mittelklick schließt ein Dokument,النقر بالزر الأوسط يغلق مستند
+Mouse,Souris,Maus,الفأرة
+New Session,Nouvelle session,Neue Sitzung,جلسة جديدة
+Next Tab,Onglet suivant,Nächstes Unterfenster,اللسان التّالي
+Open,Ouvrir,Öffnen,افتح
+Open Containing Folder,Ouvrir le dossier contenant,Ordner mit diesem Inhalt öffnen,افتح المجلّد الحاوي
+Other Application...,Autre application,Andere Anwendung ...,برامج أخرى...
+Plugins Handbook,Manuel des modules externes,Handbuch für Module,كتيّب الملحقات
+Previous Tab,Onglet précédent,Vorheriges Unterfenster,اللسان السّابق
+Quick Open,Ouverture rapide,Schnellöffner,فتح سريع
+Recent Sessions,Sessions récentes,Zuletzt geöffnete Sitzungen,الجلسات الأخيرة
+Reload,Recharger,Neu laden,أعد التحميل
+Remove,Supprimer,Entfernen,أزل
+Rename...,Renommer...,Umbenennen ...,أعد التّسمية...
+Reopen Latest Closed Document(s),Ré-ouvrir le ou les documents récemment fermé(s).,Alle offenen Dokumente neu laden.,أعد فتح أحدث المستندات المغلقة
+Save Session,Enregistrer la session,Sitzung speichern,احفظ الجلسة
+Settings,Configuration,Einstellungen,إعدادات
+Show close button,Afficher le bouton de fermeture,„Schließen“-Knopf anzeigen,اعرض زر الغلق
+Sidebars,Barres latérales,Seitenleisten,الأشرطة الجانبية
+Start new session,Démarrer une nouvelle session,Neue Sitzung starten,ابدأ جلسة جديدة
+Status Bar Items,Éléments de barre d'état,Statusleisten-Elemente,عناصر شريط الحالة
+Switch to output view upon message type:,Basculer vers l'affichage de la sortie sur un type de message :,Zur Ausgabeansicht bei diesen Meldungen wechseln:,بدل إلى عرض الخرج بالاعتماد على نوع الرسالة:
+Tabs,Onglets,Unterfenster,ألسنة
+Tools,Outils,Extras,أدوات
+View,Affichage,Ansicht,منظور
+View Difference,Afficher les différences,Unterschiede anzeigen,اعرض الفرق
+Window Color Scheme,Thème de couleurs de fenêtres,Fenster-Farbschema,مخطّط ألوان النافذة
+Windows,Fenêtres,Neues Fenster,النوافذ
+'showtoolview $toolview_name'. Hide a toolview panel. Available panels: %1,« showtoolview $toolview_name ». Masquer un panneau d'affichage des outils. Panneaux disponibles : %1,,'showtoolview $toolview_name'. إخفاء لوحة عرض الأدوات. الألواح المتوفرة: %1
+'showtoolview $toolview_name'. Show a toolview panel. Available panels: %1,« showtoolview $toolview_name ». Afficher un panneau d'affichage des outils. Panneaux disponibles : %1,,'showtoolview $toolview_name'. إظهار لوحة عرض الأدوات. الألواح المتوفرة: %1
+(c) 2000-2024 The Kate Authors,(c) 2000 - 2024 Les auteurs de Kate,"Copyright 2000–2022, die Autoren von Kate",© 2000-2024 مؤلّفو «كيت»
+(never),(jamais),(nie),(أبدًا)
++%1,+%1,+%1,+%1
+"git not found. Git is needed to diff the documents. If git is already installed, make sure it is your PATH variable. See https://git-scm.com/downloads","Impossible de trouver le logiciel git. Il est nécessaire pour faire une différence des documents. S'il est déjà installé, veuillez-vous assurer qu'il est bien pris en compte par votre variable d'environnement « PATH ». Veuillez consulter le site « https://git-scm.com/downloads ».",,غت غير متوفر. يستخدم غت في إظهار الفروقات بين المستندات. إذا كان غت مثبت؛ فتأكد  من مسار PATH المتغيرات في بيئتك. انظر https://git-scm.com/downloads
+" The document '%1' has been modified, but not saved. Do you want to save your changes or discard them?"," Le document « %1 » a été modifié, mais non enregistré. Voulez-vous enregistrer vos changements ou les abandonner ?"," Das Dokument „%1“ wurde geändert, aber bisher nicht gespeichert. Möchten Sie die Änderungen speichern oder verwerfen?", عُدّل المستند '%1' ولم يُحفظ. أتريد حفظ التّعديلات أو رفضها؟
+ You are attempting to open one or more large files:%1 Do you want to proceed? Beware that kate may stop responding for some time when opening large files., Vous essayez d'ouvrir un ou plusieurs fichiers volumineux :%1 Voulez-vous vraiment continuer ? Faites attention au fait que Kate peut arrêter de répondre pendant un certain temps lors de l'ouverture de fichiers volumineux.," Sie sind dabei, eine oder mehrere große Dateien zu öffnen:%1 Möchten Sie fortfahren? Möglicherweise wird Kate einige Zeit nicht mehr reagieren, wenn große Dateien geöffnet werden.", أنت تحاول فتح ملفّ كبير أو أكثر:%1 أتريد المتابعة؟ انتبه إلى أنّ «كيت» قد تتوقّف استجابته لبعض الوقت أثناء فتح الملفّات الكبيرة.
+"The documents listed below have changed on disk. Select one or more at once, and press an action button until the list is empty.",Les documents répertoriés ci-dessous ont été modifiés sur le disque. Choisissez-en un ou plus en seule fois et cliquez sur un bouton d'action jusqu'à ce que la liste soit vide.,Die unten aufgeführten Dokumente wurden auf dem Speichermedium geändert. Wählen Sie ein oder mehrere Dokumente aus und drücken Sie einen der Knöpfe bis die Liste leer ist.,المستندات أدناه تعدّلت على القرص. اختر واحدًا أو أكثر وانقر زرّ إجراء حتّى تفرغ القائمة.
+The following documents have been modified. Do you want to save them before closing?,Les documents suivants ont été modifiés. Voulez-vous les enregistrer avant de quitter ?,Die folgenden Dokumente wurden bearbeitet. Möchten Sie diese vor dem Schließen speichern?,تعدّلت المستندات الآتية. أتريد حفظها قبل الإغلاق؟
+"You are about to hide the sidebars. With hidden sidebars it is not possible to directly access the tool views with the mouse anymore, so if you need to access the sidebars again invoke View gt; Tool Views gt; Show Sidebars in the menu. It is still possible to show/hide the tool views with the assigned shortcuts.","Vous êtes sur le point de cacher les barres latérales. Lorsque les barres latérales sont cachées, il n'est plus possible d'accéder directement aux vues des outils par le biais de la souris. Si vous devez accéder à nouveau aux barres latérales, exécutez Affichage / Vues des outils / Afficher les barres latérales dans le menu. Il est toujours possible d'afficher ou de cacher les vues des outils avec les raccourcis clavier affectés.","Sie möchten den Navigationsbereich ausblenden. Dadurch sind die Werkzeugansichten nicht mehr mit der Maus erreichbar. Wenn der Navigationsbereich wieder angezeigt werden soll, klicken Sie auf Ansicht → Werkzeugansichten → Navigationsbereich anzeigen. Sie können die Werkzeugansichten natürlich immer noch mit den zugewiesenen Kurzbefehlen ein- und ausblenden.",أنت على وشك إخفاء الأشرطة الجانبيّة. إن كانت الأشرطة الجانبيّة مخفيّة لن يعود بإمكانك النّفاذ إلى مناظير الأدوات بالفأرة بعد الآن، لذا إن أردت النّفاذ إلى الأشرطة الجانبيّة مجدّدًا، فأشّر على منظور gt; مناظير الأدوات gt; أظهر الأشرطة الجانبيّة من  القائمة. ما زال بإمكانك إظهار/إخفاء مناظير الأدوات بالاختصارات المُسندة.
+"A high limit can increase the window size, please enable 'Allow tab scrolling' to prevent it. Unlimited tabs are always scrollable.",Une limite haute peut augmenter la taille de la fenêtre. Veuillez activer « Autoriser le défilement des onglets » pour l'empêcher. Les onglets illimités proposent toujours une barre de défilement.,"Eine hohe Grenze kann zur einer Vergrößerung des Fensters führen. Aktivieren Sie „Reiter-Bildlauf erlauben“, um das zu verhindern. Unbegrenzt viele Unterfenster können immer geblättert werden.","يمكن أن يؤدي الحد المرتفع إلى زيادة حجم النافذة، يرجى تمكين ""اسمح بتمرير الألسنة"" لمنع ذلك. الألسنة غير المحدودة قابلة للتمرير دائمًا."
+"A tool view to display context associated with the current cursor position (LSP hints, diagnostics)","Une vue « Outils » pour afficher le contexte associé à la position actuelle du pointeur (Conseils pour LSP, diagnostics)",,عرض أداة لعرض السياق المرتبط بموضع المؤشر الحالي(تلميحات LSP، التشخيصات)
+Add Global Suppression,Ajouter à la suppression globale,Alle Sitzungen,أضف تقييد العام
+Add Local Suppression,Ajouter une suppression locale,,أضف تقييد محلي
+Alexander Neundorf,Alexander Neundorf,Alexander Neundorf,ألكساندر نيوندورف
+All,Tous,Alle,الكل
+All Projects,Tous les projets,Alle Projekte,كلّ المشاريع
+All people who have contributed and I have forgotten to mention,Toutes les personnes qui ont contribué et que j'ai oublié de mentionner,"Sämtliche Leute, die Beiträge geliefert und die wir hier vergessen haben",كلّ مَن ساهم ونسيت ذكره
+"Allow cycling through tabs. If unchecked, the action 'Next Tab'/'Previous Tab' will not go to first/last tab after reaching the end","Permettre de naviguer parmi les onglets. Si cette option n'est pas cochée, l'action « Onglet suivant » / « Onglet précédent » ne passera pas au premier / dernier onglet après avoir atteint la fin.",,"السماح بالتنقل بين الألسنة. إذا لم يحدد هذا المربع، فلن ينتقل الإجراء ""اللسان التالي""/""اللسان السابق"" إلى اللسان الأول/الأخير بعد الوصول إلى النهاية"
+Allow tab scrolling,Autoriser le défilement des onglets,Reiter-Bildlauf erlauben,اسمح بتمرير الألسنة
+Anders Lund,Anders Lund,Anders Lund,أندرس لوند
+Application Startup Behavior,Comportement au démarrage de l'application,Verhalten beim Programmstart,سلوك بدء التّطبيق
+Application Startup/Shutdown Behavior,Comportement de l'application au démarrage / à la fermeture,Verhalten bei Programmstart und -ende,سلوك بدء/إنهاء التّطبيق
+Automatically save and restore:,Enregistrer et restaurer automatiquement :,Automatisch speichern und wiederherstellen:,احفظ واستعد آليا:
+Bad PATH value,Mauvaise valeur de la variable d'environnement « PATH »,,قيمة PATH سيئة
+Behavior,Comportement,Verhalten,السّلوك
+Behavior Options,Options de comportement,Einstellungen zum Verhalten,خيارات السّلوك
+Bottom Sidebar,Barre latérale en bas,Untere Seitenleiste,الشّريط الجانبيّ السفليّ
+Calculates the difference between the editor contents and the disk file for the selected document.,Calcule les différences entre le contenu de l'éditeur et le fichier sur le disque pour le document sélectionné.,Ermittelt die Unterschiede zwischen dem Inhalt des Editors und der Datei auf dem Speichermedium für das ausgewählte Dokument und zeigt die Abweichungen in der dafür eingestellten Anwendung. Diese Funktion benötigt diff(1).,يحسب الفرق بين محتويات المحرّر وملفّ القرص للمستند المحدّد.
+Carsten Niehaus,Carsten Niehaus,Carsten Niehaus,كارستن نيهاوس
+Carsten Pfeiffer,Carsten Pfeiffer,Carsten Pfeiffer,كارستن فايفر
+Change Style,Modifier un style,Stil ändern,غيّر النمط
+Charles Samuels,Charles Samuels,Charles Samuels,تشارلز صامويلز
+Check this if you want all your views and frames restored each time you open the application.,Cochez cette option si vous voulez que toutes vos vues et mises en page soient rétablies à chaque fois que vous lancerez l'application.,"Wenn diese Einstellung aktiv ist, werden alle Ansichten und Rahmen beim Start der Anwendung wiederhergestellt.",أشّر هذا إن أردت استرجاع كلّ المناظير والإطارات كلّما تفتح التطبيق.
+Check this if you want document configuration like for example bookmarks to be saved past editor sessions. The configuration will be restored if the document has not changed when reopened.,"Cochez cette option si vous voulez que la configuration du document, comme par exemple les signets, soit enregistrée dans les sessions passées de l'éditeur. La configuration sera restaurée si le document n'a pas changé lors de sa réouverture.","Wenn diese Einstellung aktiv ist, werden Dokumenteinstellungen (wie z. B. Lesezeichen) über die aktuelle Sitzung hinaus beibehalten. Diese Einstellungen werden wiederhergestellt, falls das Dokument vor dem erneuten Öffnen nicht geändert wurde.",أشّر هذا إن أردت لضبط المستندات (مثل العلامات) أن يُحفظ بين جلسات المحرّر. سيُستعاد الضّبط إن لم يتغيّر المستند قبل إعادة فتحه.
+Chris Ross,Chris Ross,Chris Ross,كريس روس
+Christian Gebauer,Christian Gebauer,Christian Gebauer,كريستيان جيباور
+Christoph Cullmann,Christoph Cullmann,Christoph Cullmann,كريستوف كولمان
+Close Current View,Fermer la vue actuelle,Aktuelle Ansicht schließen,أغلق المنظور الحاليّ
+Clear Diagnostics Filter,Effacer le filtre de diagnostics,Fehlerdiagnosefilter zurücksetzen,امسح مرشح التشخيص
+Clear Recent Files,Effacer les fichiers récents,Liste zuletzt geöffneter Dateien leeren,امسح الملفات الحديثة
+Clear all messages,Nettoyer les messages,Alle Nachrichten löschen,امح كل الرسائل
+Clear diagnostics,Effacer les diagnostics,Fehlerdiagnosefilter zurücksetzen,امسح التشخيص
+Click here to switch to the Quick Open view.,Cliquez ici pour passer à la vue d'ouverture rapide.,"Klicken Sie hier, um zur Schnellöffner-Ansicht zu wechseln.",انقر هنا للتّبديل إلى منظور الفتح السّريع.
+Close All,Tout fermer,Alle schließen,أغلق الكلّ
+Close,Fermer,Schließen,أغلق
+Close All Documents,Fermer tous les documents,Alle Dokumente schließen,أغلق كلّ المستندات.
+Close Window,Fermer la fenêtre,Neues Fenster,أغلق النافذة
+Close All,Tout fermer,Alle schließen,أغلق الكلّ
+Close Document,Fermer le document,Dokument schließen,أغلق المستند
+Close Inactive Views,Fermer les vues inactives,Inaktive Ansichten schließen,أغلق المناظير غير النّشطة
+Close Other,Fermer les autres,Andere schließen,أغلق الأخرى
+Close Orphaned,Fermer les documents orphelins,Verwaiste schließen,أغلق اليتيمة
+Close Other Documents,Fermer les autres documents,Andere Dokumente schließen,أغلق المستندات الأخرى
+Close Others,Fermer les autres,Andere schließen,أغلق البقيّة
+Close Tab,Fermer l'onglet,Unterfenster schließen,أغلق اللسان
+Close all documents beside current one?,Voulez-vous fermer tous les documents sauf le document courant ?,Alle Dokumente außer dem aktuellen schließen,أغلق كلّ المستندات مع الحاليّ؟
+"Close all documents in the file list that could not be reopened, because they are not accessible anymore.","Fermez tous les documents de la liste des fichiers qu'on ne peut rouvrir, parce qu'ils ne sont plus accessibles.","Alle Dokumente in der Dateiliste schließen, die nicht erneut geöffnet werden können, weil sie nicht mehr zugänglich sind.",أغلق كلّ المستندات في قائمة الملفّات والتي لا يمكن إعادة فتحها، لأن النّفاذ إليها لم يعد ممكنًا.
+Close all documents?,Voulez-vous fermer tous les documents ?,Alle Dokumente schließen,هل أغلق كلّ المستندات؟
+Close all open documents.,Ferme tous les documents ouverts.,Alle offenen Dokumente schließen.,أغلق كلّ المستندات المفتوحة.
+Close documents with the window they belong to,Fermer les documents en même temps que la fenêtre à laquelle ils appartiennent,Zum Fenster gehörende Dokumente schließen,أغلق المستندات مع النافذة التي تنتمي إليها
+Close every view but the active one,Fermer chaque vue sauf la vue active,Alle Ansichten bis auf die aktive schließen,أغلق كلّ المناظير عدى النّشط
+Close other open documents.,Ferme les autres documents ouverts.,Andere offene Dokumente schließen.,أغلق المستندات الأخرى.
+Close the application entirely when the last file is closed,Fermer complètement l'application avec la fermeture du dernier fichier,"Anwendung beenden, wenn die letzte Datei geschlossen wird",أغلق التطبيق بالكامل عندما تغلق أخر ملف
+Close the current document.,Ferme le document actuel.,Das aktive Dokument schließen.,أغلق المستند الحاليّ.
+Close the currently active split view,Fermer la vue scindée actuellement active,Aktuelle geteilte Ansicht schließen,أغلق المنظور المقسوم النّشط الحاليّ
+Close this window,Fermer cette fenêtre,Dieses Fenster schließen,أغلق هذه النّافذة
+Closing Aborted,Fermeture abandonnée,Beenden abgebrochen,أُجهض الإغلاق
+Collapse All,Tout réduire,Alle einklappen,اطوِ الكل
+Commit %1,Valider %1,Commit %1,أوْدِعْ %1
+Compare,Comparer,Vergleichen,قارن
+Compare with Active Document,Comparer avec le document actif,Mit aktivem Dokument vergleichen,قارن مع المستند النشط
+Compare with Active Document Using,Comparer avec le document actif en utilisant,Mit aktivem Dokument vergleichen mittels,قارن مع استعمال المستند النشط
+Configure,Configurer,Einrichten,اضبط
+Configure the application's keyboard shortcut assignments.,Configure les affectations de raccourcis clavier de l'application.,Einstellen der Tastatur-Kurzbefehle für die Anwendung.,اضبط إسنادات اختصارات لوحة المفاتيح لهذا التّطبيق.
+Configure various aspects of this application and the editing component.,Configure divers aspects de cette application ainsi que le composant d'édition.,Hier können verschiedene Aspekte der Anwendung und der Editorkomponente eingestellt werden.,اضبط مختلف نواحي هذا التّطبيق ومكوّن المحرّر.
+Configure which items should appear in the toolbar(s).,Décide quels éléments devront apparaître dans la (les) barre(s) d'outils.,"Festlegung der Knöpfe, die in den Werkzeugleisten erscheinen sollen.",اضبط العناصر التي ستظهر في أشرطة الأدوات.
+Configure...,Configurer...,Einrichten ...,اضبط...
+Context,Contexte,Einrichtung,السّياق
+Control view space splitting,Fractionnement de la vue de contrôle,Die Teilung der Ansicht steuern,تحكّم بتقسيم منطقة المنظور
+Copies the file path of the current file to clipboard.,Copie l'emplacement du fichier actuel dans le presse-papier,Kopiert den Pfad der aktuellen Datei in die Zwischenablage.,ينسخ مسار الملف الحالي إلى الحافظة
+Copy Location,Copier un emplacement,Ort kopieren,انسخ المكان
+Copy Commit Hash,Copier le code de hachage du commit,Commit-Hash kopieren,انسخ تلبيدة الإيداع
+Copy Filename,Copier le nom de fichier,Dateinamen kopieren,انسخ اسم الملفّ
+Copy Location,Copier un emplacement,Ort kopieren,انسخ المكان
+Copy all text to clipboard,Copier la totalité du texte dans le presse-papier,Gesamten Text in die Zwischenablage kopieren,انسخ كامل النص إلى الحافظة
+Copy to Clipboard,Copier dans le presse-papier,In die Zwischenablage kopieren,انسخ إلى الحافظة
+Core Developer,Développeur principal,Entwickler,مطوّر اللبّ
+"Could not save the document 
+'%1'","Impossible d'enregistrer le document 
+« %1 »","Das Dokument lässt sich nicht speichern
+„%1“","تعذّر حفظ المستند 
+'%1'"
+Could not start program,Impossible de démarrer le programme,Programm kann nicht gestartet werden,لا يمكن بدء البرنامج
+Create a new document,Créer un nouveau document,Neues Dokument erstellen,أنشئ مستندًا جديدًا
+Create a new window.,Créer une nouvelle fenêtre.,Ein neues Fenster erstellen.,أنشئ نافذة جديدة…
+Created,Créé,Erstellt,أُنشئ
+Cristi Dumitrescu,Cristi Dumitrescu,Cristi Dumitrescu,كريستي دوميتريسكو
+Current Project,Projet courant,Aktuelles Projekt,المشروع الحاليّ
+Detach Document,Détacher un document,Dokument abkoppeln,افصل المستند
+Daniel Naber,Daniel Naber,Daniel Naber,دانييل نابر
+Data you requested to be saved could not be written. Please choose how you want to proceed.,Impossible d'écrire les données que vous avez demandées d'enregistrer. Veuillez choisir la manière dont vous voulez continuer.,Einige zu speichernde Daten lassen sich nicht schreiben. Wie soll damit verfahren werden?,تعذّرت كتابة البيانات التي طلبت حفظها. فضلًا اختر كيفيّة المتابعة.
+Delete,Supprimer,Löschen,احذف
+Delete file,Supprimer le fichier,Datei löschen,احذف ملف
+Delete unused meta-information after:,Supprimer les méta-informations inutilisées après :,Unbenutzte Meta-Informationen löschen nach:,احذف المعلومات الوصفيّة غير المستخدمة بعد:
+Deleted,Supprimé,Gelöscht,حُذف
+Deleted file %1,Supprimer le fichier %1,Gelöschte Datei %1,ملف محذوف %1
+Deletes the file belonging to the current document.,Supprime le fichier correspondant au document actuel.,"Löscht die Datei, die zum aktuellen Dokument gehört.",يحذف الملف الذي ينتمي لهذا المستند
+Description,Description,Beschreibung,الوصف
+Designer of Kate's mascot 'Kate the Cyber Woodpecker',"Le concepteur de la mascotte de Kate, « Kate, le cyber pic-vert ».",Designer des Kate-Maskottchens „Kate the Cyber Woodpecker“,"مصمم تميمة كيت ""Kate the Cyber Woodpecker"""
+Detach Active Document,Détacher un document actif,Dokument abkoppeln,افصل المستند النشط
+Developer,Développeur,Entwickler,مطوّر
+Diagnostics,Diagnostics,Fehlerdiagnose,التشخيص
+Diagnostics View,Vue « Diagnostics »,Fehlerdiagnose,عرض التشخيص
+"Diagnostics limit reached, ignoring further diagnostics. The limit can be configured in settings.","La limite de diagnostic a été atteinte, sans tenir compte des autres diagnostics. La limite peut être configurée dans la configuration.",,وصل إلى حد التشخيص، وتجاهل المزيد من التشخيصات. يمكن ضبط الحد في الإعدادات.
+Diagnostics limit:,Limite des diagnostics :,Fehlerdiagnose,حد التشخيص:
+Diff,Diff,Diff,الفرق
+Diff %1,Diff %1,%1 vergleichen,الفرق %1
+Diff %1 .. %2,Diff %1 ... %2,Diff %1 .. %2,الفرق %1 .. %2
+Diff %1..%2,Diff %1 ... %2,%1..%2 vergleichen,الفرق %1..%2
+Diff Style:,Style pour la différence :,Diff-Stil:,نمط الفرق:
+Disable Suppression,Désactiver une suppression,Sitzungen filtern,عطل التقييد
+Discard Hunk,Annuler un morceau,Block verwerfen,كتلة مُهملة
+"Do you really want to delete file ""%1""?",Voulez-vous vraiment supprimer le fichier « %1 » ?,Möchten Sie die Datei „%1“ wirklich löschen?,"أمتأكّد من حذف الملفّ ""%1""؟"
+Documents,Documents,Dokumente,المستندات
+Documents Modified on Disk,Documents modifiés sur le disque,Durch Fremdprogramm geänderte Dateien,تعدّلت مستندات على القرص
+Documents to open.,Document à ouvrir.,Zu öffnende Dokumente.,المستندات لفتحها.
+Dominik Haumann,Dominik Haumann,Dominik Haumann,دومينيك هاومان
+Don't ask again,Ne pas redemander,Diese Nachfrage nicht mehr anzeigen,لا تسألني ثانيةً
+Downward Split View,Vue scindée en bas,Untere Teilansicht,المنظور المقسوم الأسفل
+Duplicate...,Dupliquer...,Duplizieren ...,كرّر...
+Elide tab text,Ignorer le texte de l'onglet,Reitertext abkürzen,قلص نص اللسان
+Enable,Activer,Aktivieren,فعّل
+Enable Suppression,Activer une suppression,Sitzungen verwalten,مكن التقييد
+Enable tool view,Activer la vue « Outils »,Sortierung aktivieren,فعل منظور الأداة
+Error,Erreur,Fehler,خطأ
+Error Creating Diff,Erreur lors de la création des différences,Fehler beim Feststellen der Unterschiede,خطأ في إنشاء الفرق
+"Error in regular expression: %1
+offset %2: %3","Erreur dans une expression rationnelle : %1
+décalage %2 : %3","Fehler in regulärem Ausdruck: %1
+Versatz %2: %3","خطأ في التعبير النمطي: %1
+الإزاحة %2: %3"
+Errors,Erreurs,Fehler,الأخطاء
+Expand All,Tout développer,Alle aufklappen,وسّع الكل
+Failed to enable %1 plugin,Impossible d'activer le module externe %1,Modul %1 kann nicht aktiviert werden,فشل تفعيل محلقة %1
+Failed to get file history: %1,Impossible d'obtenir l'historique des fichiers : %1,Datei-Historie kann nicht geholt werden: %1,أخفق في الحصول على ملف التاريخ: %1
+Failed to get file history: git executable not found in PATH,Impossible d'obtenir l'historique du fichier : il a été impossible de trouver l'exécutable associé à Git dans la variable d'environnement « PATH »,Datei-Historie kann nicht geholt werden: git wurde nicht in PATH gefunden,أخفق في الحصول على ملف التاريخ: لم يعثر على تنفيذي غت في المسار PATH
+"File ""%1"" could not be deleted.",Impossible de supprimer le fichier « %1 ».,Die Datei „%1“ kann nicht gelöscht werden.,"تعذّر حذف الملفّ ""%1"""
+"File ""%1"" could not be moved to ""%2""",Impossible de déplacer le fichier « %1 » vers « %2 »,Die Datei „%1“ kann nicht nach „%2“ verschoben werden,"تعذّر نقل الملفّ ""%1"" إلى ""%2"""
+File Actions,Actions sur les fichiers,Datei-Aktionen,إجراءات الملف
+File History - %1,Historique des fichiers - %1,Datei-Historie - %1,تاريخ الملف - %1
+Filename,Nom de fichier,Dateiname,اسم الملفّ
+Files,Fichiers,Dateien,الملفات
+Files with unsaved changes,Fichiers ayant des modifications non enregistrées,Dateien mit ungespeicherten Änderungen,الملفات ذات التغيرات غير المحفوظة
+Filter Sessions,Filtrer les sessions,Sitzungen filtern,مرشح الجلسات
+Filter…,Filtrer...,Filter ...,رشّح…
+Focus %1,Faire un focus sur %1,%1 aktivieren,تركيز %1
+Focus Navigation Bar,Se focaliser sur la barre de navigation,Navigationsleiste aktivieren,ركز على شريط التنقل
+Focus Toolview,Faire un focus sur la vue des outils,Werkzeugansicht aktivieren,منظور الأدوات المركز
+Focus the navigation bar,Se focaliser sur la barre de navigation,Die Navigationsleiste aktivieren,ركز على شريط التنقل
+Focus the next tab.,Passer à l'onglet suivant.,Nächstes Unterfenster aktivieren.,ركّز على اللسان التّالي.
+Focus the previous tab.,Passer à l'onglet précédent.,Voriges Unterfenster aktivieren.,ركّز على اللسان السّابق.
+Folders can only be opened when the projects plugin is enabled,Les dossiers ne peuvent être ouverts que lorsque le module externe des projets est activé.,"Ordner können nur geöffnet werden, wenn das Projekt-Modul aktiv ist",لا يمكن فتح المجلدات إلا عند تمكين ملحق المشاريع
+"Force start of a new kate instance (is ignored if start is used and another kate instance already has the given session opened), forced if no parameters and no URLs are given at all.","Forcer le démarrage d'une nouvelle instance de Kate (est ignoré si le démarrage est utilisé et qu'une autre instance de Kate a déjà ouvert la session donnée), forcé si aucun paramètre ni aucune URL n'est indiqué.","Kate in einer neuen Instanz starten. Dies wird ignoriert, wenn „start“ benutzt wird und eine andere Instanz von Kate die angegebene Sitzung bereits geöffnet hat. Wenn keine Parameter oder URLs angegeben sind, wird dieses Verhalten erzwungen.",أجبر بدء سيرورة «كيت» جديدة (يُتجاهل الخيار إن اختير البدء ولسيرورة «كيت» أخرى نفس الجلسة مفتوحة). يُجبر الخيار إن لم تُعط أيّة معاملات أو عناوين.
+Former Core Developer,Ancien développeur principal,Ehemaliger Hauptentwickler,مطوّر اللبّ السّابق
+Fuzzy Filtering,Filtrage flou,Ungenaue Filterung,ترشيح ضبابي
+Gerald Senarclens de Grancy,Gerald Senarclens de Grancy,Gerald Senarclens de Grancy,جيرالد سيناركلينز دي جرانسي
+Get involved,Impliquez-vous,Machen Sie mit,شاركنا
+Git,Git,Git,غت
+Glen Parker,Glen Parker,Glen Parker,غلين باركر
+Go to Next Location,Aller vers l'emplacement suivant,Zur nächsten Position gehen,انتقل إلى الموقع التالي
+Go to Previous Location,Aller vers l'emplacement précédent,Zur vorherigen Position gehen,انتقل إلى الموقع السابق
+Hamburger Menu Toolbar,Barre de menus en hamburger pour les outils,Werkzeugleiste für Hamburger-Menü,شريط القائمة المضغوطة
+Hamish Rodda,Hamish Rodda,Hamish Rodda,هاميش رودا
+Help,Aide,Hilfe,مساعدة
+"Here you can see all available Kate plugins. Those with a check mark are loaded, and will be loaded again the next time Kate is started.",Vous pouvez voir ici tous les modules externes disponibles de Kate. Ceux qui portent une coche sont chargés et seront chargés à nouveau au prochain démarrage de Kate.,Hier werden alle verfügbaren Kate-Module angezeigt. Die angekreuzten Module sind geladen und werden auch beim nächsten Start von Kate aktiviert.,ترى هنا كلّ ملحقات «كيت» المتوفّرة. تلك المؤشّرة قد حُمّلت، وستُحمّل أيضًا عند بدء «كيت» مجدّدًا.
+Hide All Tool Views,Masquer toutes les vues d'outils,Alle Werkzeugansichten ausblenden,أخفِ جميع مناظير الأدوات
+Hide Button,Masquer un bouton,Knopf ausblenden,أخفِ الزر
+Hide Inactive Views,Fermer les vues inactives,Inaktive Ansichten ausblenden,أخفِ المناظير غير النّشطة
+Hide every view but the active one,Fermer chaque vue sauf la vue active,Alle Ansichten bis auf die aktive ausblenden,أخفِ كلّ المناظير عدى النّشط
+Hide menu bar,Cacher la barre de menu,Menüleiste ausblenden,أخفِ شريط القوائم
+Highlighting for Ferite,Coloration syntaxique pour « Ferite »,Autom. Hervorhebungen für Ferite,إبراز Ferite
+Highlighting for ILERPG,Coloration syntaxique pour « ILERPG »,Autom. Hervorhebungen für ILERPG,إبراز ILERPG
+Highlighting for LaTeX,Coloration syntaxique pour « LaTeX »,Autom. Hervorhebungen für LaTeX,إبراز لاتخ
+"Highlighting for Makefiles, Python",Coloration syntaxique pour les « Makefiles » et « Python »,"Autom. Hervorhebungen für Makefiles, Python",إبراز Makefile وبيثون
+Highlighting for Python,Coloration syntaxique pour Python,Autom. Hervorhebungen für Python,إبراز بيثون
+"Highlighting for RPM Spec-Files, Perl, Diff and more","Coloration syntaxique pour les documents « spécifiques pour RPM », « Perl », « Diff » et plus encore","Automatische Hervorhebung für RPM-Spec-Dateien, Perl, Diff und anderes",إبراز ملفّات المواصفات ل‍RPM، وبيرل، وملفّات الفرق وغيرها
+Highlighting for SQL,Coloration syntaxique pour « SQL »,Hervorhebungen für SQL,إبراز SQL
+Highlighting for Scheme,Coloration syntaxique pour un thème,Autom. Hervorhebungen für Scheme,إبراز المخططات
+Highlighting for VHDL,Coloration syntaxique pour « VHDL »,Hervorhebungen für VHDL,إبراز VHDL
+History back,Retour dans l'historique,Verlauf Zurück,تأخر في التاريخ
+History forward,Avancement dans l'historique,Verlauf Vorwärts,تقدم في التاريخ
+Icon size for left and right sidebar buttons:,La taille des icônes pour les boutons des barres latérales gauche et droite :,Symbolgröße von Knöpfen in linker und rechter Seitenleiste,حجم الأيقونات لأزرار الشريط الجانبي الأيسر والأيمن:
+"If disabled, an untitled document will be shown for new windows.","Si cette option est désactivée, un document sans titre sera affiché dans les nouvelles fenêtres.","ist dies deaktiviert, wird ein unbenanntes Dokument in neuen Fenstern angezeigt.",إذا عطل، فستعرض المستندات التي دون عنوان للنوافذ الجديدة.
+"If enabled, a modal dialog will be used to show all of the modified files. If not enabled, you will be individually asked what to do for each modified file only when that file's view receives focus.","Si cette option est sélectionnée, une boîte de dialogue de mode sera utilisée pour l'affichage de tous les fichiers modifiés. Si elle ne l'est pas, vous serez spécifiquement invité à préciser ce que vous voulez faire avec chaque fichier ayant été modifié, uniquement quand l'affichage du fichier obtient le focus.","Ist diese Einstellung aktiv, werden alle geänderten Dateien in einem modalen Dialog angezeigt. Ist diese Einstellung nicht aktiv, werden Sie bei jeder geänderten Datei erst gefragt, wenn die Datei den Fokus erhält.",في حالة التمكين ، سيستخدم مربع حوار مشروط لإظهار جميع الملفات المعدلة.في حالة عدم التمكين  ستسأل بشكل فردي عما يجب القيام به لكل ملف معدل فقط عندما يتم التركيز على عرض هذا الملف.
+"If enabled, each document will be opened in its own window. If not enabled, each document will be opened in a new tab in the current window.","Si cette option est activée, chaque document sera ouvert dans sa propre fenêtre. Si cette option n'est pas activée, chaque document sera ouvert dans un nouvel onglet de la fenêtre actuelle.","Ist dies aktiviert, dann wird jedes Dokument in einem neuen, eigenen Fenster geöffnet. Andernfalls wird jedes Dokument in einem neuen Unterfenster des aktuellen Fensters geöffnet.",إذا فعّلت هذا الخيار، فسيُفتح كل مستند في نافذته الخاصة. إذا لم يفعل فإن  كل مستند سيفتح في لسان جديد في النافذة الحالية.
+"If enabled, the application will shutdown when the last file being edited is closed, otherwise a blank page will open so that you can start a new file.","Si cette option est activée, l'application se fermera lorsque le dernier fichier en édition sera fermé. Sinon, une page vide s'ouvrira pour que vous puissiez commencer un nouveau fichier.","Ist dies aktiviert, dann wird die Anwendung beendet, wenn die letzte Datei im Editor geschlossen wird. Ansonsten wird eine neue leere Seite geöffnet, die als neue Datei verwendet werden kann.",في حالة التمكين، سيغلق التطبيق عند إغلاق آخر ملف يتم تحريره، وإلا سيتم فتح صفحة فارغة حتى تتمكن من بدء ملف جديد.
+If unchecked the new tab will open at the end.,"Si cette option est non sélectionnée, le nouvel onglet s'ouvrira à la fin.",,لم يؤشر سيفتح اللسان الجديد في النهاية
+"If using an already running kate instance, block until it exits, if URLs given to open.","En cas d'utilisation d'une instance de Kate déjà en cours de fonctionnement, bloque jusqu'à ce qu'elle se termine s'il y a des URL indiquées à ouvrir.","Wenn eine bereits laufende Instanz von Kate benutzt wird, wird diese blockiert, solange die angegebene URL geöffnet ist.",إن كانت هناك سيرورة «كيت» عاملة، امنع التّشغيل حتّى تخرج، إن أُعطيت عناوين لفتحها.
+"In order to open folders, the %1 plugin must be enabled. Enable it?","Afin d'ouvrir des dossiers, le module externe %1 doit être activé. Voulez-vous l'activer ?","Um Ordner zu öffnen, muss das Modul %1 aktiviert sein. Jetzt aktivieren?",حتى يمكنك فتح المجلدات؛ يجب أن تفعل المحلقة %1. هل تريد تفعيلها؟
+Include window configuration,Inclure la configuration de la fenêtre,Fenstereinstellungen einbeziehen,ضمّن ضبط النّافذة
+Info,Informations,Information,معلومات
+Information,Informations,Informationen,المعلومات
+Invalid hash,Hachage non valable,Ungültiger Hash,تلبيدة غير صالحة
+Jan Fritz,Jan Fritz,Jan Fritz,جان فريتز
+Jochen Wilhemly,Jochen Wilhemly,Jochen Wilhemly,Jochen Wilhemly
+John Firebaugh,John Firebaugh,John Firebaugh,جون فايربو
+Joseph Wenninger,Joseph Wenninger,Joseph Wenninger,جوزيف وينينجر
+Jump to Next File,Passer au fichier suivant,Zur nächsten Datei springen,اقفز إلى الملف التالي
+Jump to Next Hunk,Passer au morceau suivant,Zum nächsten Block springen,اقفز إلى الكتلة التالية
+Jump to Previous File,Passer au fichier précédent,Zur vorherigen Datei springen,اقفز إلى الملف السابق
+Jump to Previous Hunk,Passer au morceau précédent,Zum vorherigen Block springen,اقفز إلى الكتلة السابقة
+KWrite,KWrite,KWrite,كاتبك
+KWrite - Text Editor,KWrite - Éditeur de texte,KWrite – Texteditor,كاتبك - محرّر نصوص
+KWrite Author,Auteur de KWrite,KWrite-Autor,مؤلّف «كاتبك»
+"KWrite Undo History, Kspell integration","Historique des annulations de KWrite, intégration de KSpell","Rückgängig-Verlauf für KWrite, Integration von Kspell",تأريخ التّراجع في «كاتبك»، التّكامل مع «هجائك»
+KWrite XML Syntax highlighting support,Prise en charge de la coloration syntaxique pour la syntaxe XML de KWrite,Hervorhebung von XML-Syntax,دعم إبراز صياغة XML في «كاتبك»
+KWrite port to KParts,Portage de KWrite vers KParts,Portierung von KWrite auf KParts,نقل «كاتبك» إلى «أجزائك»
+Kate,Kate,Kate,كيت
+Kate - Advanced Text Editor,Kate - Éditeur de texte avancé,Kate – Erweiterter Texteditor,كيت - محرّر نصوص متقدّم
+Keep meta-information past sessions,Conserver les méta-informations des sessions passées,Meta-Informationen über Sitzungen hinaus speichern,أبقِ المعلومات الوصفيّة بين الجلسات
+Kåre Särs,Kåre Särs,Kåre Särs,Kåre Särs
+Last opened,Dernière ouverture,Zuletzt geöffnet,آخر جلسة مفتوحة
+Left Sidebar,Barre latérale gauche,Linke Seitenleiste,الشّريط الجانبيّ الأيمن
+Left Split View,Vue scindée de gauche,Linke Teilansicht,المنظور المقسوم اليسار
+List of %1 seperated directories where Kate will look for programs to run. This list will be prepended to your PATH environment variable. E.g '/home/USER/myapps/bin/:/home/USER/.local/bin',"Liste des %1 dossiers avec séparateur dans lesquels Kate recherchera les programmes à exécuter. Cette liste sera ajoutée à votre variable d'environnement « PATH ». Par exemple, « /home/USER/myapps/bin/ : /home/USER/.local/bin »",,قائمة من الدلائل المنفصلة %1 حيث ستبحث كيت عن البرامج التي سيتم تشغيلها.سيتم إضافة هذه القائمة إلى متغير بيئة PATH الخاص بك. على سبيل المثال'/home/USER/myapps/bin/:/home/USER/.local/bin'
+Location,Emplacement,Adresse,المكان
+Log,Journal,Protokoll,سجل
+Main Toolbar,Barre principale d'outils,Haupt-Werkzeugleiste,شريط الأدوات الرّئيسيّ
+Maintainer,Mainteneur,Betreuer,المصين
+Make the next split view the active one.,Fait de la vue scindée suivante la vue active.,Aktiviert die nächste Teilansicht.,اجعل المنظور المقسوم التّالي هو النّشط.
+Make the previous split view the active one.,Fait de la vue scindée précédente la vue active.,Aktiviert die vorherige Teilansicht.,اجعل المنظور المقسوم السّابق هو النّشط.
+Make the split view intuitively downward the active one.,Compléter la vue scindée de façon intuitive en dessous de la vue active.,"Aktiviert die Teilansicht, die unterhalb der aktiven liegt.",اجعل المنظور المقسوم الذي في الأسفل حدساً هو النّشط.
+Make the split view intuitively on the left the active one.,Compléter la vue scindée de façon intuitive sur la gauche de la vue active.,"Aktiviert die Teilansicht, die links von der aktiven liegt.",اجعل المنظور المقسوم الذي في اليسار حدساً هو النّشط.
+Make the split view intuitively on the right the active one.,Compléter la vue scindée de façon intuitive sur la droite de la vue active.,"Aktiviert die Teilansicht, die rechts von der aktiven liegt.",اجعل المنظور المقسوم الذي في اليمين حدساً هو النّشط.
+Make the split view intuitively upward the active one.,Compléter la vue scindée de façon intuitive en dessus de la vue active.,"Aktiviert die Teilansicht, die oberhalb der aktiven liegt.",اجعل المنظور المقسوم الذي في الأعلى حدساً هو النّشط.
+Manage Sessions,Gérer les sessions,Sitzungen verwalten,أدر الجلسات
+Manage Sessions...,Gérer les sessions...,Sitzungen verwalten ...,أدر الجلسات...
+Matt Newell,Matt Newell,Matt Newell,مات نيويل
+Matteo Merli,Matteo Merli,Matteo Merli,ماتيو ميرلي
+Max number of diagnostics allowed in the Diagnostics toolview.,Nombre maximal de diagnostics autorisés dans la vue de l'outil « Diagnostics ».,,الحد الأقصى لعدد التشخيصات المسموح بها في عرض أدوات التشخيص.
+Maximum number of entries in recent file list:,Nombre maximum d'entrées dans la liste des fichiers récents :,Maximale Anzahl der Einträge in der Liste zuletzt geöffneter Dateien:,أقصى عدد للمدخلات في قائمة الملفّات الحديثة:
+Michael Bartl,Michael Bartl,Michael Bartl,مايكل بارتل
+Michael Koch,Michael Koch,Michael Koch,ميخائيل كوش
+Michael McCallum,Michael McCallum,Michael McCallum,مايكل ماكالوم
+Modified,Modifié,Geändert,معدّل
+Move Document to New Horizontal Split,Déplacer un document vers la nouvelle vue scindée horizontalement,Dokument in neue waagrecht geteilte Ansicht verschieben,انقل المستند إلى قسم أفقي جديد
+Move Document to New Vertical Split,Déplacer un document vers la nouvelle vue scindée verticalement,Dokument in neue senkrecht geteilte Ansicht verschieben,انقل المستند إلى قسم رأسي جديد
+Move Splitter Down,Déplacer le séparateur vers le bas,Unterteilung nach unten verschieben,حرّك القاسِم لأسفل
+Move Splitter Left,Déplacer le séparateur vers la gauche,Unterteilung nach links verschieben,حرّك القاسِم يسارًا
+Move Splitter Right,Déplacer le séparateur vers la droite,Unterteilung nach rechts verschieben,حرّك القاسِم يمينًا
+Move Splitter Up,Déplacer le séparateur vers le haut,Unterteilung nach oben verschieben,حرّك القاسِم لأعلى
+Move To,Déplacer vers,Verschieben nach,انقل إلى
+Move the splitter of the current view down,Déplace le séparateur de la vue actuelle vers le bas,Die Unterteilung der aktuellen Ansicht nach unten verschieben,حرّك قاسم المنظور الحاليّ إلى أسفل
+Move the splitter of the current view to the left,Déplace le séparateur de la vue du document actuel vers la gauche,Die Unterteilung der aktuellen Ansicht nach links verschieben,حرّك قاسم المنظور الحاليّ إلى اليسار
+Move the splitter of the current view to the right,Déplace le séparateur de la vue du document actuel vers la droite,Die Unterteilung der aktuellen Ansicht nach rechts verschieben,حرّك قاسم المنظور الحاليّ إلى اليمين
+Move the splitter of the current view up,Déplace le séparateur de la vue actuelle vers le haut,Die Unterteilung der aktuellen Ansicht nach oben verschieben,حرّك قاسم المنظور الحاليّ إلى أعلى
+Name,Nom,Name,الاسم
+Navigate to this column.,Aller à cette colonne.,Zu dieser Spalte gehen.,تنقّل إلى هذا العمود.
+Navigate to this line.,Aller à cette ligne.,Zu dieser Zeile gehen.,تنقّل إلى هذا السّطر.
+Navigation Bar,Barre de navigation,Navigationsleiste,شريط التنقل
+Never,Jamais,Nie,البتة
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+New File,Nouveau fichier,Neue Datei,ملفّ جديد
+New Session,Nouvelle session,Neue Sitzung,جلسة جديدة
+New file %1,Nouveau fichier %1,Neue Datei %1,ملفّ جديد %1
+New file name,Nouveau nom de fichier,Neuer Dateiname,اسم الملفّ الجديد
+"New file opened while trying to close Kate, closing aborted.","Nouveau fichier ouvert pendant une tentative de fermeture de Kate, interruption de la fermeture.","Es wurde eine neue Datei geöffnet, während Kate beendet wird. Das Beenden wird abgebrochen.",فُتح ملفّ جديد أثناء إغلاق «كيت»، فأُجهض الإغلاق.
+Newly-created unsaved files,Fichiers récemment créés non enregistrés,Neu erstellte nicht gespeicherte Dateien,الملفات غير المحفوظة حديثة الإنشاء
+Next Item,Élément suivant,Nächstes Element,العنصر التالي
+Next Split View,Vue scindée suivante,Nächste Teilansicht,المنظور المقسوم التّالي
+Next tab,Onglet suivant,Nächstes Unterfenster,اللسان التّالي
+Nick Roux,Nick Roux,Nick Roux,نيك رو
+No differences found,Aucune différence trouvée,Es gibt keine Unterschiede,لم يعثر على فروقات
+No recent documents,Aucun document récent,Keine zuletzt geöffneten Dokumente,لا يوجد مستندات حديثة
+No recent documents or projects,Aucun document ou projet récent,Keine zuletzt geöffneten Dokumente oder Projekte,لا يوجد مستندات ومشاريع حديثة
+No saved sessions,Aucune session enregistrée,Keine gespeicherten Sitzungen,لا يوجد جلسات محفوظة
+No toolview found for name: '%1'. Is the plugin for it disabled or the name is misspelled?,Aucune vue d'outil trouvée pour le nom : « %1 ». Le module externe est-il désactivé ou le nom est-il mal orthographié ?,,لم يعثر على عرض أدوات للاسم: '%1'. هل الملحقة معطلة أو أن الاسم مكتوب بشكل خاطئ؟
+One Down,Un vers le bas,Nach unten,واحد للأسفل
+One Left,Un vers la gauche,Nach links,واحد لليسار
+One Right,Un vers la droite,Nach rechts,وأحد لليمين
+One Up,Un vers le haut,Nach oben,واحد للأعلى
+Only try to reuse kate instance with this pid (is ignored if start is used and another kate instance already has the given session opened).,Essayer uniquement de réutiliser une instance de Kate avec ce « pid » (ignoré si le démarrage est utilisé et qu'une autre instance de Kate a déjà la session ouverte).,"Versucht nur die Instanz von Kate mit dieser „pid“ wiederzuverwenden. Dies wird ignoriert, wenn „start“ benutzt wird und eine andere Instanz von Kate die angegebene Sitzung bereits geöffnet hat.",حاول إعادة استخدام سيرورة «كيت» بمعرّف العمليّة هذا فقط (يُتجاهل الخيار إن اختير البدء ولسيرورة «كيت» أخرى نفس الجلسة مفتوحة).
+Open All Files,Ouvrir tous les fichiers,Alle Dateien öffnen,افتح كل الملفّات
+Open File,Ouvrir un fichier,Datei öffnen,افتح ملفًّا
+Open File...,Ouvrir un fichier...,Datei öffnen ...,افتح ملفًّا...
+Open Files Recursively,Ouvrir tous les fichiers de façon récursive,Dateien rekursiv öffnen,فتح الملفّات تكراريًّا
+Open Folder,Ouvrir un dossier,Ordner öffnen,افتح مجلّداً
+Open Folder...,Ouvrir un dossier...,Ordner öffnen ...,افتح مجلّداً...
+Open Selected Files...,Ouvrir les fichiers sélectionnés...,Ausgewählte Dateien öffnen ...,افتح الملفات المحددة...
+Open With,Ouvrir avec,Öffnen mit,افتح ب‍
+Open a form to quick open documents.,Ouvre un formulaire pour ouvrir rapidement des documents.,Zeigt ein Fenster für das schnelle Öffnen von Dokumenten an.,افتح نموذجًا لفتح المستندات بسرعة.
+Open an existing document for editing,Ouvrir un document existant pour le modifier,Existierendes Dokument öffnen,افتح مستندًا موجودًا لتحريره
+Open as Template,Ouvrir comme modèle,Als Vorlage öffnen,افتح كقالب
+Open each document in its own window,Ouvrir chaque document dans sa propre fenêtre,jedes Dokument in eigenem Fenster öffnen,افتح كل مستند في نافذته المستقلة
+Open new tabs to the right of the current tab,Ouvrir de nouveaux onglets à droite de l'onglet actuel.,,افتح اللسان الجديد على يمين اللسان الحالي
+"Open the current document using another application registered for its file type, or an application of your choice.",Ouvre le document actuel à l'aide d'une autre application enregistrée pour son type de fichier ou une application de votre choix.,Das aktive Dokument mit einer anderen für diesen Dateityp registrierten Anwendung bzw. einer Anwendung Ihrer Wahl öffnen.,افتح المستند الحاليّ بتطبيق آخر سُجّل لنفس نوعه، أو تطبيق من اختيارك.
+Opening Large File,Ouverture d'un fichier volumineux,Eine große Datei wird geöffnet,فتح ملفّ كبير
+Opens the active document in a new window and closes it in the current window,Ouvre le document actif dans une nouvelle fenêtre et le ferme dans la fenêtre courante,Das Dokument in einem neuen Fenster öffnen und im aktuellen Fenster schließen,تفتح المستند النشط في نافذة جديدة وتغلقه من النافذة الحالية
+Opens the document in a new window and closes it in the current window,Ouvre le document dans une nouvelle fenêtre et le ferme dans la fenêtre courante,Das Dokument in einem neuen Fenster öffnen und im aktuellen Fenster schließen,تفتح المستند في نافذة جديدة وتغلقها من النافذة الحالية
+Output,Sortie,Ausgabe,الخرج
+Output timestamps with date,Horodatages de sortie avec date,,الطوابع الزمنية للإخراج مع التاريخ
+"Overwrite selected documents, discarding disk changes","Écraser les documents sélectionnés, en annulant les modifications sur disque",Überschreibt die ausgewählten Dokumente und verwirft die Änderungen auf der Festplatte,اكتب على المستندات المحدّدة متجاهلًا تغيّرها على القرص
+Own Section,Votre propre section,Eigener Abschnitt,قسم مستقل
+PATH,PATH,,PATH
+PHP Keyword/Datatype list,Liste des mots clés / des types de données PHP,PHP-Schlüsselwort/Datentypliste,قائمة أنواع البيانات والكلمات المفتاحيّة ل‍PHP
+Pablo Martín,Pablo Martin,Pablo Martín,بابلو مارتين
+Patches and more,Correctifs et bien plus,Fehlerbehebung und vieles andere,الرّقع وغيرها
+Per Wigren,Per Wigren,Per Wigren,بير ويغرين
+Plugin Manager,Gestionnaire de modules externes,Modulverwaltung,إدارة الملحقات
+Plugins,Modules externes,Module,الملحقات
+Previous Item,Élément précédent,Vorheriges Element,العنصر السّابق
+Previous Split View,Vue scindée précédente,Vorherige Teilansicht,المنظور المقسوم السّابق
+Previous tab,Onglet précédent,Vorheriges Unterfenster,اللسان السّابق
+Project: %1,Projet : %1,Alle Projekte,المشروع: %1
+Properties,Propriétés,Eigenschaften,خصائص
+Python Plugin Developer,Développeur du module externe Python,Python-Modul-Entwickler,مطوّر إضافة بيثون
+QA and Scripting,Assurance de qualité et langage de scripts,Qualitätssicherung und Unterstützung für Skripte,ضمان الجودة والسّكربتة
+Quick Fix,Correction rapide,Schnellkorrektur,إصلاح سريع
+Quit the application,Quitter l'application,Andere Anwendung ...,أنهِ تطبيق
+Raw,Brut,Roh,خام
+Read handbook,Lisez le manuel,Handbuch lesen,اقرأ كتيب الاستعمال
+Read the contents of stdin.,Lire le contenu de l'entrée standard.,Inhalt von der Standardeingabe (stdin) einlesen.,اقرأ محتويات stdin.
+Recent Documents,Documents récents,Zuletzt geöffnete Dokumente,المستندات الحديثة
+Recent Documents and Projects,Documents et projets récents,Zuletzt geöffnete Dokumente und Projekte,المستندات والمشاريع الحديثة
+Recent Files,Fichiers récents,Zuletzt geöffnete Dateien,الملفات الحديثة
+Reload All,Tout recharger,Alle neu laden,أعد تحميل الكلّ
+Reload Diff,re-calculer la différence,Diff neu laden,أعد التحميل الفرق
+Reload all open documents.,Recharge tous les documents ouverts.,Alle offenen Dokumente neu laden.,أعد تحميل كلّ المستندات.
+Reload selected documents from disk,Recharger les documents sélectionnés depuis le disque,Lädt die ausgewählten Dokumente neu von der Festplatte,أعد تحميل المستندات المحدّدة من القرص
+Remove Global Suppression,Supprimer la suppression globale,Regulärer Ausdruck,أزل التقييد العام
+Remove Local Suppression,Supprimer la suppression locale,,أزل التقييد المحلي
+Remove modified flag from selected documents,Supprimer des documents sélectionnés le drapeau modifié,Entfernt die Markierung „geändert“ der ausgewählten Dokumente,"أزل راية ""معدّل"" من المستندات المحدّدة"
+Rename file,Renommer le fichier,Datei umbenennen,أعد تسمية الملفّ
+Rename...,Renommer...,Umbenennen ...,أعد التسمية...
+Renames the file belonging to the current document.,Renomme le fichier correspondant au document actuel.,"Benennt die Datei um, die zum aktuellen Dokument gehört.",يعيد تسمية الملف الذي ينتمي لهذا المستند
+Reopen,Ré-ouvrir,Neu öffnen,أعد فتح
+Reopen the document or documents that were most recently closed,Ré-ouvrir le ou les documents récemment fermés,,أعد فتح المستند أو المستندات المغلقة مؤخرًا
+Reopening files from the last session...,Réouverture des fichiers de la session précédente...,Dateien der letzten Sitzung werden geöffnet ...,يعيد فتح الملفّات من الجلسة الأخيرة...
+Restore,Restaurer,Wiederherstellen,استعد
+Right Sidebar,Barre latérale droite,Rechte Seitenleiste,الشّريط الجانبيّ الأيسر
+Right Split View,Vue scindée de droite,Rechte Teilansicht,المنظور المقسوم اليمين
+Rocky Scaletta,Rocky Scaletta,Rocky Scaletta,روكي سكاليتا
+Roland Pabel,Roland Pabel,Roland Pabel,رولاند بابل
+Running this editor with kdesu can cause bugs and expose you to security vulnerabilities. Instead use this editor normally and you will be prompted for elevated privileges when saving documents if needed.,"Lancer l'exécution de cet éditeur avec les privilèges administrateur (kdesu) peut provoquer des bogues et vous exposer à des vulnérabilités de sécurité. Veuillez l'utiliser en mode normal (utilisateur). Lors d'un enregistrement de documents, une demande vous sera faite pour passer à un niveau de privilèges plus élevés, si nécessaire.",,يمكن أن يسبب تشغيل المحرر مع kdesu الأخطاء ويعرضك على ثغرات الأمن. بدلاً من ذلك، استخدم المحرر بشكل طبيعي وسيتطلب امتيازات أرفع عند حفظ المستندات إذا لزم الأمر.
+Running this editor with sudo can cause bugs and expose you to security vulnerabilities. Instead use this editor normally and you will be prompted for elevated privileges when saving documents if needed.,"Lancer l'exécution de cet éditeur avec les privilèges administrateur (sudo) peut provoquer des bogues et vous exposer à des vulnérabilités de sécurité. Veuillez l'utiliser en mode normal (utilisateur). Lors d'un enregistrement de documents, une demande vous sera faite pour passer à un niveau de privilèges plus élevés, si nécessaire.",,يمكن أن يسبب تشغيل المحرر مع sudo الأخطاء ويعرضك على ثغرات الأمن. بدلاً من ذلك، استخدم المحرر بشكل طبيعي وسيتطلب امتيازات أرفع عند حفظ المستندات إذا لزم الأمر.
+Save All,Tout enregistrer,Alle speichern,احفظ الكلّ
+Save As,Enregistrer sous,Speichern unter,احفظ ك‍
+Save As (%1),Enregistrer sous (%1),Speichern unter (%1),احفظ ك‍ (%1)
+Save Documents,Enregistrer les documents,Dokumente speichern,احفظ المستندات
+Save Session As...,Enregistrer la session sous...,Sitzung speichern als ...,احفظ الجلسة ك‍...
+"Save all open, modified documents to disk.","Enregistre sur le disque tous les documents ouverts, modifiés.","Alle geöffneten, geänderten Dokumente speichern.",احفظ كلّ المستندات المفتوحة والمعدّلة إلى القرص.
+Saved Sessions,Sessions enregistrées,Gespeicherte Sitzungen,الجلسات المحفوظة
+Scott Manson,Scott Manson,Scott Manson,سكوت مانسون
+Script error. Expected a toolview name. Available: %1,Erreur de script. Un nom de vue d'outil est attendu. Disponible : %1,,خطأ في البرنامج النصي. من المتوقع وجود اسم لعرض الأدوات. متوفر: %1
+Scripting,Langage de scripts,Qualitätssicherung und Unterstützung für Skripte,البرمجة النصية
+Select All,Tout sélectionner,Alle auswählen,حدّد الكلّ
+Search files in all projects (right click to configure),Rechercher des fichiers dans tous les projets (Faire un clic droit pour configurer),,ابحث عن الملفات في جميع المشاريع (انقر بزر الفأر الأيمن للضبط)
+Search files in current project (right click to configure),Rechercher des fichiers dans le projet courant (Faire un clic droit pour configurer),,ابحث عن الملفات في المشروع الحالي (انقر بزر الفأرة الأيمن للضبط)
+Search...,Rechercher…,Suchen ...,ابحث...
+Selection,Sélection,Auswahl,التحديد
+Sessions,Sessions,Sitzungen,جلسات
+Session,Session,Sitzung,جلسة
+Session '%1' is already opened in another Kate instance. Switch to that or reopen in this instance?,La session « %1 » est déjà ouverte dans une autre instance de Kate. Basculer vers elle ou ré-ouvrir cette instance ?,Die Sitzung „%1“ ist bereits in einer anderen Kate-Instanz geöffnet. Möchten Sie dorthin wechseln oder in dieser Instanz erneut öffnen?,الجلسة '%1' مفتوحة فعلًا في سيرورة أخرى من «كيت»، أأغيّر إلى تلك السيرورة أو إعادة الفتح هذه السيرورة؟
+Session Chooser,Sélection de la session,Sitzungsauswahl,منتقي الجلسات
+Session Elements,Éléments de session,Sitzungselemente,عناصر الجلسة
+Session Management,Gestion des sessions,Sitzungsverwaltung,إدارة الجلسات
+Session Name,Nom de la session,Sitzungsname,اسم الجلسة
+Session Renaming,Renommage de la session,Sitzungsnamen ändern,إعادة تسمية الجلسة
+Session name:,Nom de la session :,Sitzungsname:,اسم الجلسة:
+Session will be deleted on dialog close,La session sera supprimée à la fermeture du dialogue,Sitzung wird nach dem Schließen des Dialogs gelöscht,ستحذف الجلسة عند غلق الحواري
+Set encoding for the file to open.,Définir l'encodage pour le fichier à ouvrir.,Kodierung für die zu öffnende Datei festlegen.,اضبط ترميز الملفّ لفتحه.
+Show Path in Titlebar,Afficher l'emplacement dans la barre de titre,Pfad in der Titelleiste anzeigen,أظهر المسار في شريط العنوان
+Show %1,Afficher %1,%1 anzeigen,أظهر %1
+Show %1 Button,Afficher un bouton %1,%1-Knopf anzeigen,اعرض زر %1
+Show Tabs,Afficher les onglets,Reiter anzeigen,أظهر الألسنة
+Show File Git History,Afficher l'historique des fichiers avec Git,Git-Historie der Datei anzeigen,أظهر تاريخ غت للملف
+Show Full Commit,Afficher le commit global,Vollständigen Commit anzeigen,أظهر كامل الإيداع
+Show Hover Info,Afficher les informations au survol,Commit-Informationen anzeigen/verbergen,أظهر معلومات التحويم
+Show Navigation Bar,Afficher la barre de navigation,Navigationsleiste anzeigen,أظهر شريط التنقل
+Show Sidebars,Afficher les barres latérales,Navigationsbereich anzeigen,أظهر الأشرطة الجانبيّة
+Show current symbol in navigation bar,Afficher le symbole courant sur la barre de navigation,Aktuelles Symbol in Navigationsleiste anzeigen,أظهر الرمز الحالي في شريط التنقل
+"Show diff with full context, not just the changed lines",Afficher les différences avec un contexte global et non seulement les lignes modifiées.,,أظهر الفرق بسياق كامل، ليس مجرد السطور المغيرة
+Show text for left and right sidebar buttons,Afficher du texte pour les boutons des barres latérales gauche et droite,Text in Knöpfen der linken und rechten Seitenleiste anzeigen,اعرض نص لأزرار الشريط الجانبي اليمين واليسار
+Show the complete document path in the window caption,Afficher l'emplacement complet du document dans l'intitulé de la fenêtre,Zeigt den vollständigen Pfad des aktiven Dokuments in der Titelleiste an,أظهر مسار المستند الكامل في عنوان النافذة
+Show the welcome page,Afficher la page de bienvenue,Die Willkommen-Seite anzeigen,أظهر صفحة الترحيب
+Show welcome page for new window,Afficher la page d'accueil pour une nouvelle fenêtre.,Willkommen-Seite in neuen Fenstern anzeigen,أظهر شاشة الترحيب للنوافذ الجديدة
+Show welcome view for new windows,Afficher une disposition de bienvenue pour les nouvelle fenêtre.,Willkommen-Seite in neuen Fenstern anzeigen,أظهر شاشة الترحيب للنوافذ الجديدة
+Show/Hide Commit Info,Afficher / Masquer les informations de commit,Commit-Informationen anzeigen/verbergen,اعرض/ اخفِ معلومات الإيداع
+Shows a hint how to compare documents.,Affiche une indication pour comparer des documents.,Zeigt einen Hinweis für das Vergleichen von Dokumenten.,يظهر تلميحة حول كيفية مقارنة المستندات
+Side By Side,Côte-à-côte,Nebeneinander,جنبًا إلى جنب
+Sidebar Buttons,Boutons de la barre latérale,Seitenleisten-Knöpfe,أزرار الشريط الجانبي
+Simon Hausmann,Simon Hausmann,Simon Hausmann,سيمون هاوسمان
+Specify a name for this session,Spécifiez un nom pour cette session,Geben Sie einen Namen für diese Sitzung ein,حدّد اسمًا لهذه الجلسة
+Specify a new name for session: %1,Spécifiez un nouveau nom pour la session : %1,Geben Sie einen Namen für diese Sitzung ein: %1,حدّد اسمًا جديدًا للجلسة: %1
+Split Horizontal,Scinder horizontalement,Waagerecht teilen,اقسم أفقيًّا
+Split Vertical,Scinder verticalement,Senkrecht teilen,اقسم رأسيًّا
+Split View,Scinder la vue,Geteilte Ansicht,اقسم المنظور
+Split the currently active view horizontally into two views and move the currently active document to view below.,Scinder la vue actuellement active verticalement en deux vues et déplacer le document actuellement actif dans la vue en dessous.,Teilt die aktive Ansicht waagerecht in zwei Ansichten und verschiebt das derzeit aktive Dokument in die untere Ansicht.,اقسم أفقياً المنظور النشط حالياً إلى إثنين، وانقل المستند الحالي النشط إلى القسم الأسفل.
+Split the currently active view horizontally into two views.,Scinde la vue actuellement active horizontalement en deux vues.,Teilt die aktive Ansicht waagerecht in zwei Ansichten.,اقسم أفقيًّا المنظور النشط حاليًّا إلى إثنين.
+Split the currently active view vertically into two views and move the currently active document to right view.,Scinder la vue actuellement active verticalement en deux vues et déplacer le document actuellement actif dans la vue de droite.,Teilt die aktive Ansicht senkrecht in zwei Ansichten und verschiebt das derzeit aktive Dokument in die rechte Ansicht.,اقسم رأسياً المنظور النشط حالياً إلى إثنين، وانقل المستند الحالي النشط إلى القسم اليمين.
+Split the currently active view vertically into two views.,Scinde la vue actuellement active verticalement en deux vues.,Teilt die aktive Ansicht senkrecht in zwei Ansichten.,اقسم رأسيًّا المنظور النشط حاليًّا إلى إثنين.
+Stage Hunk,Référencer un morceau,Block zum Index,كتلة مُعدة
+Start Kate with a given session.,Démarrer Kate avec une session donnée.,Kate mit einer bestimmten Sitzung starten.,ابدأ «كيت» بجلسة مُعطاة.
+"Start Kate with a new anonymous session, implies '-n'.","Démarrer Kate avec une nouvelle session anonyme, implique « -n ».","Kate mit einer neuen, anonymen Sitzung starten. Impliziert „-n“.",ابدأ «كيت» بجلسة مجهولة، يدلّ على '‎-n'.
+Starting Up,Démarrage,Programmstart läuft,يبدأ
+Status on Disk,État sur le disque,Status auf der Festplatte,الحالة على القرص
+Sven Brauch,Sven Brauch,Sven Brauch,سفين بروش
+Switch to Instance,Basculer vers une instance,Zur Instanz wechseln,بدّل إلى السيرورة
+Switch to Tab %1,Basculer vers l'onglet %1,Zur Instanz wechseln,انتقل إلى اللسان %1
+Sync section size with tab positions,Synchroniser la taille de la section avec la position avec les onglets,Abschnittsgröße mit Reiterposition abgleichen,زامن حجم القسم مع مواضع اللسان
+Synchronize Scrolling,Synchroniser les défilement,Neues Fenster,زامِن التمرير
+Synchronize scrolling of this split-view with other synchronized split-views,Synchroniser le défilement de cette vue scindée avec les autres vues scindées synchronisées.,,مزامنة التمرير لهذا العرض المقسم مع العروض المقسمة المتزامنة الأخرى
+"Testing, ...",Tests en cours...,Tests ...,الاختبار، ...
+The Editing Commands,Les commandes d'édition,Die Bearbeitungsbefehle,أوامر التّحرير
+The cool buffersystem,Le superbe système de tampons,Das wunderbare Puffersystem,نظام الصِّوانات الرائع
+The diff command failed. Please make sure that git is installed and in your PATH.,Impossible de lancer la commande « diff ». Veuillez vous assurer que le logiciel « git » est bien référencé dans votre variable d'environnement « PATH ».,"Der Befehl diff ist fehlgeschlagen. Bitte vergewissern Sie sich, dass Git installiert ist und sich in Ihrem PATH befindet.",فشل أمر الفرق. فضلًا تحقّق بأنّ git‎ مثبّت وفي مسارك PATH.
+"The document ""%1"" has been modified. Do you want to save your changes or discard them?",Le document « %1 » a été modifié. Voulez-vous vraiment enregistrer vos changements ou les annuler ?,Das Dokument „%1“ wurde geändert. Möchten Sie die Änderungen speichern oder verwerfen?,عُدّل المستند '%1' ولم يُحفظ. أتريد حفظ التّعديلات أو رفضها؟
+"The file '%1' could not be opened: it is not a normal file, it is a folder.","Impossible d'ouvrir le fichier « %1 » : ce n'est pas un fichier normal, c'est un dossier.","Die Datei „%1“ lässt sich nicht öffnen. Es handelt sich um einen Ordner, nicht um eine normale Datei.",تعذّر فتح الملفّ '%1'، لا يبدو ملفًّا بل مجلّدًا.
+The file '%1' does not exist,Le fichier « %1 » n'existe pas.,,الملفّ '%1 غير موجود
+The files/URLs opened by the application will be deleted after use,Les fichiers et URL ouverts par l'application seront supprimés après utilisation,Die von der Anwendung geöffneten Dateien/URLs werden nach Gebrauch gelöscht.,المستندات والعناوين التي يفتحها التّطبيق ستُحذف بعد استخدامها
+The path '%1' doesn't exist,L'emplacement « %1 » n'existe pas.,,المسار '%1 غير موجود
+The plugin required to open folders was not found,Il a été impossible de trouver le module externe nécessaire à l'ouverture des dossiers,Das zum Öffnen von Ordern erforderliche Modul wurde nicht gefunden,الملحق المطلوب لفتح المجلّدات غير موجود
+The selected program could not be started. Maybe it is not installed.,Il est impossible de démarrer le programme sélectionné. Il n'est peut-être pas installé.,Das ausgewählte Programm kann nicht gestartet werden. Vielleicht ist es nicht installiert.,لا يمكن بدء البرنامج المحدد. ربما لأنه غير مثبت.
+"The session contains the list of open documents, recently opened files list, bookmarks, cursor position etc. When the session is loaded all elements are restored.","La session contient la liste des documents ouverts, des fichiers récents, des signets, la position du curseur, etc. Lorsque la session est ouverte, tous ces éléments sont restaurés.","Die Sitzung enthält die Liste der geöffneten Dokumente und zuletzt geöffneter Dateien, Lesezeichen, Cursor-Position usw. Wird die Sitzung geladen, dann werden alle Elemente wiederhergestellt.",تحوي الجلسة قائمة المستندات المفتوحة، والملفّات المفتوحة حديثًا، والعلامات ومكان المؤشّر وغيرها. عندما تُحمّل جلسة تُستعاد كلّ العناصر.
+"The session could not be renamed to ""%1"". Failed to write to ""%2""",Impossible de renommer la session en « %1 ». Impossible d'écrire dans « %2 ».,Die Sitzung kann nicht in „%1“ umbenannt werden. Fehler beim Schreiben in „%2“,"تعذّرت إعادة تسمية الجلسة إلى ""%1"". فشلت الكتابة إلى ""%2"""
+"There is already an existing session with your chosen name: %1
+Please choose a different one.","Il existe déjà une session portant le nom que vous avez choisi : %1
+Veuillez en choisir un autre.","Es besteht bereits eine Sitzung mit dem von Ihnen gewählten Namen: %1
+Bitte wählen Sie einen anderen Namen.","هناك فعلًا جلسة موجودة بالاسم المختار: %1
+فضلًا اختر اسمًا آخر"
+"This lists files which you have opened recently, and allows you to easily open them again.",Liste les fichiers que vous avez ouverts récemment et vous permet de les ouvrir à nouveau facilement.,"Hier werden Dokumente angezeigt, die Sie zuletzt geöffnet haben. Dadurch können Sie sie leicht erneut öffnen.",يسرد هذا الملفّات التي فتحتها حديثًا، ويسمح لك بفتحها مجدّدًا بسهولة.
+This shows help files for various available plugins.,Cette fonction affiche les fichiers d'aide des divers modules externes disponibles.,Hiermit werden Hilfedateien für die verfügbaren Module angezeigt.,يُظهر هذا مساعدة للملحقات العديدة المتوفّرة.
+This will close all open documents beside the current one. Are you sure you want to continue?,Cette fonction fermera tous les documents ouverts sauf le document actuel. Voulez-vous vraiment continuer ?,Es werden alle geöffneten Dokumente außer dem aktuellen Dokument geschlossen. Möchten Sie wirklich fortfahren?,سيُغلق هذا كلّ المستندات المفتوحة مع الحاليّ. أمتأكّد من المتابعة؟
+This will close all open documents. Are you sure you want to continue?,Cette fonction fermera tous les documents ouverts. Voulez-vous vraiment continuer ?,"Es werden alle geöffneten Dokumente geschlossen. Sind Sie sicher, dass Sie fortfahren möchten?",سيُغلق هذا كلّ المستندات المفتوحة. أمتأكّد من المتابعة؟
+This will hide the menu bar completely. You can show it again by typing %1.,Ceci cachera entièrement la barre de menu. Il est possible de l'afficher de nouveau en saisissant %1.,"Hiermit wird das Menü vollständig ausgeblendet. Geben Sie %1 ein, um es wieder anzuzeigen.",سيُخفي هذا شريط القوائم بالكامل. يمكنك إظهاره مجدّدًا بضغط %1.
+"To save a session, you must specify a name.",Vous devez spécifier un nom pour enregistrer la session.,Zum Speichern einer Sitzung müssen Sie einen Namen eingeben.,لحفظ جلسة عليك تحديد اسم لها.
+Toggle Orientation,Basculer l'orientation,Ausrichtung wechseln,بدّل الاتّجاه
+Toggle Scroll Synchronization,Activer / Désactiver la synchronisation du défilement,Automatischer Abgleich,تبديل مزامنة التمرير
+Toggle scroll synchronization for the current view,Activer / Désactiver la synchronisation du défilement pour l'affichage courant,Wechselt die Ausrichtung der aktuellen geteilten Ansicht,تبديل مزامنة التمرير للعرض الحالي
+Toggles the orientation of the current split view,Bascule l'orientation de la séparation de la vue actuelle,Wechselt die Ausrichtung der aktuellen geteilten Ansicht,يبدّل اتّجاه المنظور المقسوم الحاليّ
+Tool Views,Vues des outils,Werkzeugansichten,مناظير الأدوات
+Toolview Manager,Gestionnaire d'affichage pour les outils,Verwaltung der Werkzeugansicht,مدير أداة العرض
+Top Sidebar,Barre latérale en haut,Obere Seitenleiste,الشّريط الجانبيّ العلويّ
+Tyson Tan,Tyson Tan,Tyson Tan,Tyson Tan
+Unified,Unifié,Vereinigt,موحّد
+Unlimited,Illimité,Unbegrenzt,غير محدود
+Unstage Hunk,Dé-référencer un morceau,Block aus dem Index,كتلة غير مُعدة
+Upward Split View,Vue scindée en haut,Obere Teilansicht,المنظور المقسوم الأعلى
+Use a separate dialog for handling externally modified files,Utiliser une boîte de dialogue spécifique pour gérer les fichiers modifiés de façon externe,Eigenen Dialog für die Bearbeitung extern geänderter Dateien verwenden,استخدم حواري منفصل للتعامل مع الملفات المعدلة خارجيا
+Use the Tabbar context menu to compare two documents,Utiliser le menu contextuel de la barre d'onglets pour comparer deux documents,Mit dem Kontextmenü der Unterfensterleiste können zwei Dokumente verglichen werden,استخدم قائمة السياق لشريط الألسنة للمقارنة بين مستندين
+Use this command to show or hide the tabs for the views,Utilisez cette commande pour afficher ou cacher les onglets de la vue,Mit diesem Befehl können die Reiter für die Ansichten angezeigt oder ausgeblendet werden,استخدم هذا الأمر لإظهار أو إخفاء ألسنة المناظير
+Use this command to show or hide the view's statusbar,Utilisez cette commande pour afficher ou cacher la barre d'état de la vue,Mit diesem Befehl kann die Statusleiste der Ansicht ein- und ausgeblendet werden,استخدم هذا الأمر لإظهار أو إخفاء شريط حالة المنظور
+User Feedback,Retours des utilisateurs,Benutzer-Feedback,مشاركة بياناتك
+Very nice help,Aide très précieuse,Freundliche Unterstützung,مساعدة لطيفة جدًّا
+Visit homepage,Visitez la page d'accueil,Internetseite besuchen,زر الصفحة الرئيسية
+Waldo Bastian,Waldo Bastian,Waldo Bastian,والدو باستيان
+Waqar Ahmed,Waqar Ahmed,Waqar Ahmed,وقار أحمد
+Warning,Avertissement,Warnung,تحذير
+Warnings,Avertissements,Warnungen,التّحذيرات
+Welcome,Bienvenue,Willkommen,مرحباً
+Welcome Page,Page de bienvenue,Willkommen-Seite,صفحة الترحيب
+Welcome to %1,Bienvenue dans %1,Willkommen zu %1,مرحبا بك في %1
+When a window is closed the documents opened only in this window are closed as well.,"Lorsqu'une fenêtre est fermée, les documents ouverts uniquement dans cette fenêtre sont également fermés.","Wenn ein Fenster geschlossen wird, werden die Dokumente, die nur in diesem Fenster geöffnet sind, ebenfalls geschlossen.",عند إغلاق نافذة، تغلق المستندات التي فتحت في هذه النافذة فقط.
+When checked double click opens a new document.,"Lorsque sélectionné, un double-clic ouvre un nouveau document.","Wenn dies aktiviert ist, dann öffnet ein Doppelklick ein neues Dokument.",عندما تفعل النقر المزدوج يفتح مستند جديد.
+When checked each tab will display a close button.,"Quand activé, chaque onglet affichera un bouton de fermeture.","Wenn dies aktiviert ist, dann wird auf jedem Karteireiter ein Knopf zum Schließen des Unterfensters angezeigt.",عندما تفعل سيظهر زر الغلق على كل لسان.
+When checked middle click closes a document.,"Lorsque sélectionné, un clic central ferme un document.","Wenn dies aktiviert ist, dann schließt ein Mittelklick ein Dokument.",عندما تفعل النقر بالزر الأوسط يغلق مستند.
+When checked tab text might be elided if it is too long.,"Quand cette option est sélectionnée, le texte de l'onglet pourrait être ignoré s'il est trop long.","Wenn dies aktiviert ist, dann wird der Text im Reiter abgekürzt, wenn er zu lang ist.",عندما تُحدد سيُقلص طول نص اللسان إذا كان طويلا.
+When checked tabs take as much size as possible.,"Quand activé, les onglets prendront la plus grande taille possible.","Wenn dies aktiviert ist, dann verwenden Karteireiter soviel Platz wie möglich.",عندما تحدد ستأخذ الألسنة أكبر قد ممكن من الحجم
+When checked tabs will be hidden if only one document is open.,"Quand cette option est sélectionnée, les onglets seront masqué si un seul document est ouvert.","Wenn dies aktiviert ist, werden die Karteireiter nicht angezeigt, wenn nur ein Dokument geöffnet ist.",عند التحديد ستخفى الألسنة إذا كان هناك ملف واحد مفتوح فقط.
+When checked this will allow scrolling in tab bar when number of tabs is large.,"Quand cette option est cochée, ceci autorisera le défilement de la barre des onglets lorsque ces derniers sont nombreux.","Wenn dies aktiviert ist, dann kann durch die Karteireiter geblättert werden, wenn ihre Anzahl sehr groß ist.",عند تحديده، سيسمح هذا بالتمرير في شريط الألسنة عندما يكون عدد الألسنة كبيرًا.
+"When enabled the section size will be determined by the position of the tabs.
+This option does not affect the bottom sidebar.","Lorsque cette option est activée, la taille de la section sera déterminée par la position des onglets.
+Cette option n'affecte pas la barre latérale inférieure.","Ist diese Einstellung aktiv, wird die Abschnittsgröße von der Position der Karteireiter bestimmt.
+Diese Option hat keine Auswirkung auf die untere Leiste.","عندما تفعل سيحدد حجم القسم بواسطة موضع الألسنة.
+هذا الخيار لن يؤثر الشريط الجانبي السفلي."
+"When enabled, the output line timestamp headers will be prefixed with date.","Lorsque cette option est activée, les en-têtes d'horodatage des lignes de sortie seront préfixés avec la date.",,عند تمكين ذلك، سيضاف التاريخ إلى ترويسة طابع زمني لسطر الإخراج.
+Wildcard Filtering,Filtrage avec caractères génériques,Platzhalter-Filterung,ترشيح حرف البدل
+You dropped the directory %1 into Kate. Do you want to open all files contained in it?,Vous avez déposé le dossier %1 dans Kate. Voulez-vous ouvrir tous les fichiers qu'il contient ?,Sie haben den Ordner %1 in Kate gezogen. Möchten Sie alle darin enthaltenen Dateien öffnen?,لقد أفلتّ الدّليل %1 في «كيت». أتريد فتح كلّ الملفّات التي فيه؟
+You have unsaved changes. Do you want to apply the changes or discard them?,Certaines modifications ne sont pas enregistrées. Voulez-vous enregistrer vos changements ou les abandonner ?,Es gibt ungespeicherte Änderungen. Möchten Sie diese Änderungen übernehmen oder verwerfen?,لم تحفظ التغييرات. هل تريد تطبيق التغييرات أم تجاهلها؟
+Yury Lebedev,Yury Lebedev,Yury Lebedev,يوري ليبيديف
+[NEW],[Nouveau],[NEU],[الجديد]
+[OLD],[Fin de vie],[ALT],[القديم]
+[read only],[lecture seule],[Nur lesen],[للقراءة فقط]
+[urls...],[URLs…],[Adressen ...],[العناوين...]
+column,colonne,Spalte,العمود
+encoding,encodage,Kodierung,التّرميز
+line,ligne,Zeile,السّطر
+pid,pid,pid,معرّف‌العمليّة
+session,session,Sitzung,الجلسة

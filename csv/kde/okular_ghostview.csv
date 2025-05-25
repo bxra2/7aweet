@@ -1,0 +1,9 @@
+English,French,German,Arabic
+Use platform fonts,Utiliser les polices de la plate-forme,Plattformspezifische Schriftarten verwenden,استعمل خطوط المنصة
+"Determines whether Ghostscript should be allowed to use platform fonts, if false only usage of fonts embedded in the document will be allowed.","Détermine si Ghostscript peut utiliser les polices de la plate-forme. Si cette option est non sélectionnée, l'utilisation des polices embarquées dans le document sera autorisée.","Ist diese Einstellung aktiv, verwendet Ghostscript auch plattformspezifische Schriften. Ansonsten werden nur im Dokument eingebettete Schriften benutzt.",تحدد إذا ما كان يستطيع Ghostscript أن يستخدم خطوط المنصة ، إذا كان لا ؛ فإنه سيستعمل الخطوط المضمنة في المستند.
+Document version,Version du document,Dokumentversion,إصدار المستند
+General Settings,Configuration générale,Allgemeine Einstellungen,الإعدادات العامة
+Ghostscript,Ghostscript,Ghostscript,Ghostscript غوست سكريبت
+Ghostscript Backend Configuration,Configuration du moteur Ghostscript,Einstellungen zum Anzeigemodul Ghostscript,اعدادات منصة غوست سكريبت الخلفية
+Language Level,Niveau du langage,Sprach-Stufe,مستوى اللغة
+Use Platform Fonts,Utiliser les polices de la plate-forme,Plattformspezifische Schriftarten verwenden,استعمل خطوط المنصة

@@ -1,0 +1,940 @@
+English,French,German,Arabic
+%,%,,٪
+%1,%1,%1,%1
+%1 is a folder for SSH entries,%1 est un dossier d'entrées « SSH »,%1 ist ein Ordner für SSH-Einträge,‏%1 هو مجلد لمدخلات SSH
+"%1 is an invalid URL, the output could not be saved.",« %1 » est une adresse URL mal formée. La sortie ne pourra pas être enregistrée.,Ungültige Adresse: %1. Die Ausgabe kann nicht gespeichert werden.,العنوان %1 غير صالح ، لا يمكن حفظ المخرجات.
+%1 on %2,%1 sur %2,%1 auf %2,%1 على %2
+All Tabs in Current Window,Tous les onglets de la fenêtre active,Alle Unterfenster im aktuellen Fenster,جميع الألسنة في النافذة الحالية
+Bookmarks,Signets,Lesezeichen,العلامات
+Cancel,Annuler,Abbrechen,ألغِ
+Clone Tab,Cloner l'onglet,Unterfenster duplizieren,استنسخ اللسان
+Close Session,Fermer la session,Sitzung schließen,أغلق الجلسة
+Configure or Rename Tab...,Configurer ou renommer l'onglet...,Unterfenster einrichten oder umbenennen ...,اضبط أو أعد تسمية لسان...
+Continue Task,Continuer la tâche,Aufgabe fortsetzen,تابع المهمة
+Default character encoding:,Encodage par défaut des caractères :,Standard-Zeichenkodierung:,ترميز المحارف المبدئي:
+Detach Tab,Détacher l'onglet,Unterfenster verselbständigen,افصل اللسان
+Edit...,Modifier...,Bearbeiten ...,حرّر...
+Hangup,Suspendre,Auflegen,افصل
+Interrupt Task,Interrompre la tâche,Aufgabe unterbrechen,قاطع المهمة
+Kill Task,Tuer la tâche,Aufgabe abbrechen,اقتل المهمة
+Left side,Côté gauche,Linke Seite,الجانب الأيسر
+Never,Jamais,Niemals,البتة
+New Tab,Nouvel onglet,Neues Unterfenster,لسان جديد
+New...,Nouveau...,Neu ...,جديد...
+None,Aucun,Keine,لا شيء
+Paste Location,Coller l'emplacement,Speicherort einfügen,ألصق المكان
+Paste everything,Coller tout,Alles einfügen,ألصق كل شيء
+Print Screen...,Imprimer l'écran...,Bildschirm drucken ...,اطبع الشاشة...
+Remove,Supprimer,Entfernen,أزل
+Scale output,Mettre à l'échelle la sortie,Ausgabe skalieren,حجّم المخرجات
+Select All,Tout sélectionner,Alles auswählen,اختر الكل
+Select Tabs...,Sélectionner les onglets...,Unterfenster auswählen ...,اختر الألسنة...
+Set as Default,Définir par défaut,Als Standard festlegen,اجعلها الافتراضية
+Suspend Task,Suspendre la tâche,Aufgabe aussetzen,علّق المهمة
+Tab title format:,Format du titre d'un onglet :,Beschriftungsformat für Unterfenster:,تنسيق عنوان اللسان:
+Terminal bell mode:,Mode de cloche de terminal :,Terminal-Signalton-Modus:,نمط جرس الطرفية:
+Terminate Task,Terminer la tâche,Aufgabe beenden,أنهِ المهمة
+The whole line,L'intégralité de la ligne,Die gesamte Zeile,كامل السطر الحالي
+Unlimited,Illimité,Unbegrenzt,غير محدود
+Window Color Scheme,Thème de couleurs pour fenêtres,Fenster-Farbschema,نسق ألوان جديد
+ZModem Upload...,Chargement de ZModem...,ZModem-Upload ...,رفع ZModem ...
+"(c) 1997-2022, The Konsole Developers","(c) 1997 - 2022, Les développeurs de Konsole",(c) 1997-2022 die Konsole-Entwickler,"(c) 1997-2022, مطوري كونسول"
+(none),(aucun),(keine),(بلا)
+...,...,...,...
+WARNING: This has security implications as it allows malicious URLs to be shown as another URL or hidden. Make sure you understand the implications before turning this on.,Attention : ceci a des implications de sécurité puisqu'il permet à des « URL » malveillants d'être affichées comme un autre « URL » ou masquées. Veuillez vous assurer que vous comprenez bien ces implications avant d'activer cette option.,"Warnung: Dies hat Auswirkungen auf die Sicherheit, da bösartige URLs als andere URLs angezeigt oder versteckt werden können. Stellen Sie sicher, dass Sie die Auswirkungen verstehen, bevor Sie diese Funktion aktivieren.", تحذير : هذا له تداعيات أمنية لأنه يسمح بإظهار عناوين URL الضارة كعنوان URL آخر أو بإخفائها.   تأكد من فهمك للآثار قبل تشغيل هذا.
+" Settings → Configure Konsole → General → Remember window size must be disabled for these entries to work."," Configuration → Configurer Konsole → Général → Mémoriser la taille de la fenêtre doit être désactivé pour que ces options fonctionnent."," Einstellungen → Konsole einrichten → Allgemein → Fenstergröße speichern muss ausgeschaltet sein, damit diese Einstellungen funktionieren."," إعدادات ← ضبط كونسول ← عام ← تذكر حجم النافذة يجب أن تعطل لهذه المدخلات حتى تعمل."
+" Applications that use KonsolePart share profiles. They do not share with Konsole or other applications:default profileshow in menushortcuts Feel free to open a Konsole bug report if you desire a change to how these are handled."," Les applications qui utilisent KonsolePart partagent les profils. Ils ne partagent pas avec Konsole ou d'autres applications :profil par défautafficher dans le menuraccourcis N'hésitez pas à ouvrir un rapport de bogue pour Konsole si vous souhaitez changer la façon dont cela est géré."," Programme, die KonsolePart benutzen, verwenden gemeinsame Profile. Eigene Einstellungen werden verwendet für:StandardprofilAnzeige im MenüKurzbefehle Schreiben Sie einen Fehlerbericht zu Konsole, wenn Sie dieses Verhalten geändert haben möchten.","   التطبيقات التي تستخدم جزء كونسول تتشارك التشكيلات.    لا تتشارك مع كونسول أو تطبيقات أخرى:   التشكيلة المبدئية   إظهار في القائمة   الاختصارات      لا تتردد في فتح كونسول  تقرير الخطأ  إذا كنت ترغب في تغيير كيفية التعامل معها.  "
+ Complex Text Layout, Disposition complexe de texte, Komplexes Text-Layout, تخطيط النصوص المعقدة
+" To use this feature, enableMouse-&gt;Miscellaneous-&gt;Underline files in your profile settings."," Pour utiliser cette fonctionnalité, veuillez activer l'optionSouris / Divers / Souligner les fichiers dans les paramètres de votre profil"," Um diese Funktion zu verwenden, aktivieren SieMaus-&gt;Verschiedenes-&gt;Dateienunterstreichen in Ihren Profileinstellungen"," لتستخدم هذه الميزة، مكنالفأرة-&gt;متنوع-&gt;تسطير الملفات في إعدادات التشكيلة"
+" A ZModem file transfer attempt has been detected, but no suitable ZModem software was found on this system. You may wish to install the 'rzsz' or 'lrzsz' package.", Une tentative de transfert de fichier « ZModem » a été détectée mais aucune application « ZModem » n'a été trouvée sur ce système. Vous devriez installer les paquets « rzsz » ou « lrzsz ».," Der Versuch einer ZModem-Übertragung wurde erkannt, jedoch kann auf Ihrem System keine ZModem-Software gefunden werden. Sie sollten versuchen, die Software „rzsz“ oder „lrzsz“ zu installieren.", اكتشفت محالة لنقل ملف  ZModem ؛ ولكن لا يوجد برنامج ZModem مناسب في النظام. قد ترغب في تثبيت حزمة  'rzsz' أو 'lrzsz' .
+ No suitable ZModem software was found on this system. You may wish to install the 'rzsz' or 'lrzsz' package., Aucune application « ZModem » n'a été trouvée sur ce système. Vous devriez installer les paquets « rzsz » ou « lrzsz ».," Auf Ihrem System kann keine passende ZModem-Software gefunden werden. Versuchen Sie, „rzsz“ oder „lrzsz“ zu installieren.", لا يوجد برنامج ZModem مناسب في النظام. قد ترغب في تثبيت حزمة  'rzsz' أو 'lrzsz' .
+ The current session already has a ZModem file transfer in progress., La session actuelle possède déjà un transfert de fichier « ZModem » en cours., In der aktuellen Sitzung läuft bereits eine ZModem-Übertragung., الجلسة الحالية تحوي على عملية نقل ملف ZModem بالفعل.
+"Output has been suspended by pressing Ctrl+S. Press Ctrl+Q to resume.","La sortie a été suspendue par l'utilisation de « Ctrl+S ». Veuillez appuyer sur « Ctrl+Q » pour reprendre.","Die Ausgabe ist durch Drücken von Strg+S angehalten worden. Drücken Sie Strg+Q, um fortzufahren.","المخرجات علقت بواسطة ضغط  Ctrl+S.  اضغط  Ctrl+Q للاستئنافها."
+A descriptive name for the profile,Un nom décrivant le profil,Ein aussagekräftiger Name für das Profil,اسم وصفي للتشكيلة
+A duplicate item exists,Un élément dupliqué existe.,Ein doppelter Eintrag existiert,كرّر عنصر موجود
+A key bindings scheme cannot be saved with an empty description.,Impossible d'enregistrer le modèle de combinaisons de touches car sa description est vide.,Ein Schema mit Tasten-Zuordnungen ohne Beschreibung kann nicht gespeichert werden.,لا يمكن حفظ تشكيلة روابط المفاتيح مع وصف فارغ.
+A name for this ssh entry,Un nom pour cette entrée « sh ».,Ein Name für diesen SSH-Eintrag,اسم لمدخلة ssh هذه
+"A problem occurred when loading the Layout.
+%1","Un problème est survenu durant le chargement de la disposition.
+%1","Beim Laden des Layouts ist ein Fehler aufgetreten.
+%1","حصلت مشكلة أثناء تحميل التخطيط.
+%1"
+"A problem occurred when saving the Layout.
+%1","Un problème est survenu durant l'enregistrement de la disposition.
+%1","Beim Speichern des Layouts ist ein Fehler aufgetreten.
+%1","حصلت مشكلة أثناء حفظ التخطيط.
+%1"
+"A problem occurred when saving the output.
+%1","Échec de l'enregistrement de la sortie.
+%1","Beim Speichern der Ausgaben ist ein Fehler aufgetreten.
+%1","حصلت مشكلة أثناء حفظ المخرجات.
+%1"
+"A profile with the name ""%1"" already exists.",Un profil avec ce même nom « %1 » existe déjà.,Ein Profil mit dem Namen „%1“ existiert bereits.,"يوجد تشكيلة باسم ""%1"" بالفعل."
+A program in this session would not die.  Are you sure you want to kill it by force?,Un programme de cette session ne veut pas être arrêté. Voulez-vous vraiment forcer l'arrêt ?,"Ein Programm in dieser Sitzung kann nicht beendet werden. Sind Sie sicher, dass Sie das Beenden erzwingen möchten?",يوجد برنامج في هذه الجلسة لن يموت. هل أنت متأكد أنك تريد قتلها بالقوة؟
+A program is currently running in this session.  Are you sure you want to close it?,Un programme est actuellement lancé dans cette session. Voulez-vous vraiment la fermer ?,"In dieser Sitzung läuft gerade ein Programm. Sind Sie sicher, dass sie geschlossen werden soll?",يوجد برنامج يعمل الآن في هذه الجلسة. هل أنت متأكد أنك تريد إغلاقها؟
+A&lways,Tou&jours,Immer,&دائما
+ASCII characters,Caractères « ASCII »,ASCII-Zeichen,محارف أسكي ASCII
+AaZz09...,AaZz09...,AaZz09 ...,AaZz09...
+Above terminal area,Au-dessus de l'affichage du terminal,Oberhalb der Terminalfenster,أعلى منطقة الطرفية
+Activate Menu,Activer le menu,Menü aktivieren,القائمة الفعالة
+Activation:,Activation :,Aktivierung:,التفعيل:
+Active Terminals:,Terminaux actifs :,Inaktive Terminals:,الطرفية النشطة:
+Activity in '%1' (Session '%2'),Activité de « %1 » (Session « %2 »),Aktivität in „%1“ (Sitzung „%2“),نشاط في '%1' (الجلسة '%2')
+Adapt,Ajuster,Anpassen,متكيف
+Add,Ajouter,Hinzufügen,أضف
+Add a new SSH Entry,Ajouter une nouvelle entrée « SSH »,Neuen SSH-Eintrag hinzufügen,أضف مدخلة SSH جديدة
+Add new SSH Configuration,Ajouter une nouvelle configuration « SSH »,Neue SSH-Konfiguration hinzufügen,أضف إعدادات  SSH جديدة
+Adjust Scrollback,Ajuster l'historique,Verlaufsspeicher anpassen,اضبط التمرير للخلف
+Adjust Scrollback...,Ajuster l'historique...,Verlaufsspeicher anpassen ...,اضبط التمرير الخلفي...
+Advanced,Avancé,Erweitert,متقدم
+After current &tab,Après l'onglet ac&tuel,Nach dem akt&uelles Unterfenster,&بعد اللسان الحالي
+Ahmad Samir,Ahmad Samir,Ahmad Samir,Ahmad Samir
+Alexander Neundorf,Alexander Neundorf,Alexander Neundorf,Alexander Neundorf
+Align to center:,Aligner au centre :,Zentriert ausrichten,حاذِ إلى الوسط:
+All dialogs will be shown again,Toutes les boîtes de dialogues seront affichées à nouveau,Alle Dialoge werden wieder angezeigt,سيتم عرض كل الحوارات مرة أخرى
+Allow Ctrl+scrollwheel to zoom text size,Permettre « Ctrl » + molette de la souris pour modifier la taille du texte,Strg + Mausrad zum Ändern der Schriftgröße verwenden,اسمح لعجلة التمرير ومفتاح Ctrl بالتحكم بحجم الخط
+Allow Mouse Tracking,Permettre le suivi de la souris,Mausverfolgung zulassen,مكّن تتبع الفأرة
+Allow blinking text,Autoriser le texte clignotant,Blinkenden Text zulassen,اسمح بالنص الوماض
+Allow escape sequences for links,Autoriser les séquences d'échappement pour les liens,Escape-Sequenzen für Verknüpfungen zulassen,اسمح بسلاسل الهروب للوصلات
+Allow middle-clicking on open tabs to close them,Cliquer avec le bouton central sur un onglet pour le fermer,Klicken mit der mittleren Maustaste auf geöffneten Unterfenstern zum Schließen verwenden,اسمح بالنقر الأوسط على الألسنة المفتوحة لإغلاقها
+Allow terminal applications to handle clicks and drags,Permettre aux applications de terminaux de gérer les clics et les glisser avec la souris,Erlaubt Terminalanwendungen die Verarbeitung von Klicks und Ziehbewegungen,اسمح لتطبيقات الطرفية بتعامل مع النقرات و السحب
+Allow terminal programs to create blinking sections of text,Autoriser les programmes du terminal à créer des portions de texte clignotantes,Terminal-Programme dürfen blinkende Textbereiche ausgeben,اسمح لبرامج الطرفية أن تنشئ تحديد وماض للنص
+Allow the output to be suspended by pressing Ctrl+S,Autoriser la suspension de la sortie par un « Ctrl+S »,"Ermöglicht es, laufende Ausgaben mit Strg+S vorübergehend anzuhalten",اسمح بتعليق المخرجات بواسطة الضغط على Ctrl+S
+Allow users to access top menu through Alt+Key combination,Permettre aux utilisateurs d'accéder au menu principal par la combinaison de touches « Alt » + Touche,Benutzern den Zugriff auf das Hauptmenü durch die Tastenkombinationen Alt+Taste erlauben,اسمح للمستخدمين أن يصِلوا إلى القائمة العلوية باستخدام تركيبة مفتاح Alt
+Allowed link formats:,Formats de liens autorisés :,Zulässige Verknüpfungs-Formate:,اسمح بتنسيقات الروابط:
+Alt,Alt,Alt,Alt
+Alternating background:,Arrière-plan alternatif :,Hintergrund verwischen,خلفية متناوبة:
+Alternating bars:,Barres alternatives :,,أشرطة متناوبة:
+Alwa&ys,&Toujours,&Immer,&دائما
+Always,Toujours,Immer,دائما
+Always invert the colors of selected text,Toujours inverser les couleurs du texte sélectionné,Die Farben des markierten Textes immer invertieren,دائما اعكس ألوان النص المحدد
+"Always paste dropped files and URLs as text without offering move, copy and link actions.","Toujours coller les fichiers et les « URL » déposées comme du texte sans proposer les actions comme déplacer, copier et lier.","Abgelegte Dateien und Adressen immer als Text einfügen, ohne Aktionen zum Verschieben oder Kopieren bzw. verknüpfungsbezogene Aktionen anzubieten.",قم دائمًا بلصق الملفات وعناوين URL التي تم إسقاطها كنص بدون تقديم إجراءات النقل والنسخ والربط.
+An SSH session must have a profile,Une session SSH doit posséder un profil.,Eine SSH-Sitzung muss ein Profil haben,جلسة SSH يجب أن تملك تشكيلة
+Antonio Larrosa,Antonio Larrosa,Antonio Larrosa,Antonio Larrosa
+Any adjustments are only temporary to this session.,L'ajustement n'est que temporaire pour cette session.,Diese Anpassungen sind nur für die Dauer dieser Sitzung gültig.,كل التغييرات مؤقتة لهذه الجلسة.
+Appearance,Apparence,Erscheinungsbild,المظهر
+Arguments passed to command,Arguments passés à la commande,Argumente für Befehl,المعاملات الممررة إلى أمر
+At &the end,À la &fin,&Am Ende,عند ال&نهاية
+At least Username or SSHKey must be set,Au moins un nom d'utilisateur ou une clé SSH doit être défini.,Mindestens ein Benutzername oder ein SSH-Schlüssel ist erforderlich,يجب على الأقل كتابة اسم المستخدم أو مفتاح SSH
+Auto Save Output As...,Enregistrer automatiquement la sortie sous...,Ausgabe speichern &als ...,احفظ المخرجات آليا كـ...
+Automatically copy selected text into clipboard,Copier automatiquement le texte sélectionné dans le presse-papier,Ausgewählten Text automatisch in die Zwischenablage kopieren,نسخ النص تلقائيًّا إلى الحافظة
+"Autosave file has been modified externally, preventing further autosaves.","Le fichier d'enregistrement automatique a été modifié par un logiciel externe, ce qui empêche d'autres enregistrements automatiques.",,عُدل ملف الحفظ التلقائي خارجيًا، مما يمنع عمليات الحفظ التلقائي الإضافية.
+Background,Arrière-plan,Hintergrund,الخلفية
+Background (Faint),Arrière-plan (doux),Hintergrund (blass),الخلفية (باهتة)
+Background (Intense),Arrière-plan (Intense),Hintergrund (kräftig),الخلفية (مكثف)
+Background color transparency:,Transparence de la couleur d'arrière-plan :,Hintergrundfarbe-Transparenz:,شفافية لون الخلفية:
+Background image:,Image d'arrière-plan :,Hintergrundbild:,صورة الخلفية:
+Backspace,Retour arrière,Rücktaste,مسافة للخلف
+Be&low terminal area,Sous &l'affichage du terminal,Unterha&lb der Terminalfenster,أ&سفل منطقة الطرفية
+Behavior,Comportement,Verhalten,السّلوك
+Bell in '%1' (Session '%2'),Avertissement sonore de « %1 » (Session « %2 »),Signalton in „%1“ (Sitzung „%2“),جرس في  '%1' ( الجلسة '%2')
+Bell: will try to emit an audible warning,Cloche : essaie d'émettre un avertissement audible,"Signalton: versucht, eine akustische Warnung abzugeben",الجرس: سيحاول إصدار تحذير صوتي
+Bi-Directional text rendering,Affichage bi-directionnel du texte,Bi-Direktionale Anzeige von Schriften,عرض ثنائي الاتجاه للنص
+Black on Light Yellow,Noir sur jaune clair,Schwarz auf hellem Gelb,أسود على أصفر خفيف
+Black on Random Light,Noir sur couleur claire aléatoire,Schwarz auf hellem Grund,أسود على لون خفيف
+Black on White,Noir sur blanc,Schwarz auf Weiß,أسود على أبيض
+Blinking:,Clignotement :,Blinkend:,الوميض:
+Block,Bloc,Block,كتلة
+Blue on Black,Bleu sur noir,Blau auf Schwarz,أزرق على أسود
+Blur background,Flouter l'arrière-plan,Hintergrund verwischen,خلفية معماة
+Border,Bordure,,الحدود
+Both,Les deux,Beide,كليهما
+Brahmic scripts characters,Caractères « brahmi » de script,Der aktuellen Zeichenfarbe anpassen,محارف الخط البراهمي
+Breeze,Breeze,Breeze,النسيم
+Bug fixes,Correction de bogues,Fehlerbereinigung,إصلاح العلل
+Bug fixes and general improvements,Correction de bogues et améliorations générales,Fehlerbereinigung und allgemeine Verbesserungen,إصلاح علل وتحسينات عامة
+Bug fixes and improved startup performance,Corrections de bogues et augmentation de la vitesse de démarrage,Fehlerbereinigung und Verkürzung der Startzeit,إصلاح علل و تحسين أداء البدء
+Bug fixes and major improvements,Correction de bogues et améliorations majeures,Fehlerbereinigung und wichtige Verbesserungen,إصلاح علل وتحسينات كبيرة
+Built-in,Intégré,,المضمّنة
+Built-in profile is always available,Un profil intégré est toujours disponible.,Eingebautes Profil ist immer verfügbar,التشكيل المضمن دائما متوفر
+"By its very nature, a terminal program requires font characters that are equal width (monospace). Any non monospaced font may cause display issues. This should not be necessary except in rare cases.","De par sa nature, un programme de terminal nécessite une police de caractères à largeur fixe (monospace). Une police non monospace pourra provoquer des problèmes d'affichage. Ceci ne devrait être nécessaire que dans des cas très rares.","Es liegt im Wesen eines Terminalprogramms, dass die Schriftzeichen gleich breit sein müssen (Monospace). Jede Schriftart, die proportional ist, kann zu Anzeigeproblemen führen. Dies sollte außer in seltenen Fällen nicht notwendig sein.",يتطلب البرنامج الطرفي ، بحكم طبيعته ، أحرف خط متساوية العرض (مسافة أحادية). قد يتسبب أي خط غير أحادي المسافة في حدوث مشكلات في العرض.لا ينبغي أن يكون هذا ضروريًا إلا في حالات نادرة.
+Campbell,Campbell,,كامبل
+"Can't issue SSH command outside the shell application (eg, bash, zsh, sh)","Impossible de lancer une commande « SSH » en dehors de l'application shell (ex : bash, zsh, sh).","SSH-Befehl kann nicht außerhalb der Shell-Anwendung (z. B. bash, zsh, sh) ausgeführt werden",لا يمكن إصدار أمرر SSH خارج تطبيق الصدفة (مثل bash و zsh و sh)
+Cancel,Annuler,Abbrechen,ألغِ
+Cancel Add or Edit,"Annuler, ajouter ou modifier",Hinzufügen oder Bearbeiten abbrechen,ألغ الإضافة أو التحرير
+Cannot delete this folder,Impossible de supprimer ce dossier,Löschen von diesem Ordner ist nicht möglich,تعذر حذف هذا المجلد
+Carlos Alves,Carlos Alves,Carlos Alves,Carlos Alves
+Case sensitive,Sensible à la casse,Groß-/Kleinschreibung beachten,حسّاس لحالة الأحرف
+Change &Directory To,Modifier le &dossier vers,Ordner &wechseln zu,غيّر ال&دليل إلى
+Change profile on connect/disconnect,Changer de profil à la connexion / déconnexion,,غير التشكيلة عند الوصل/القطع
+Change the value of a profile property.,Modifier la valeur d'une propriété du profil.,Den Wert einer Profil-Eigenschaft ändern.,غير قيمة خاصية تشكلية.
+"Changes will take effect upon restart. If enabled, sustained memory consumption by Konsole
+exceeding the specified value will cause systemd-oomd to eliminate the tab(s)
+containing the memory-intensive process(es). Note: enabling
+might cause greater slowdowns during high memory consumption and specifying
+excessively low values might still cause Konsole to be killed.","Les modifications prendront effet au redémarrage. Si cette option est activée, la consommation de mémoire prise en
+ compte par Konsole dépassant la valeur spécifiée conduira le module « systemd-oomd » a fermé les onglets
+contenant le ou les processus(s) nécessitant beaucoup de mémoire. Remarque : activation de cette option
+peut provoquer des ralentissements plus importants lors d'une consommation de mémoire élevée et la définition
+ de valeurs excessivement basses pourraient ensuite provoquer la fermeture de Konsole.",,"ستصبح التغييرات سارية المفعول عند إعادة التشغيل. في حالة التمكين، سيؤدي استهلاك الذاكرة
+ المستمر بواسطة كونسول الذي يتجاوز القيمة المحددة إلى قيام systemd-oomd بإزالة اللسان (الألسنة) 
+التي تحتوي على العملية (العمليات) كثيفة الاستهلاك للذاكرة. ملاحظة: قد يؤدي التمكين إلى حدوث تباطؤ
+ أكبر أثناء الاستهلاك العالي للذاكرة، وقد يؤدي تحديد قيم منخفضة للغاية
+ إلى إيقاف تشغيل وحدة التحكم."
+Characters which are considered part of a word when double-clicking to select whole words in the terminal.,Caractères considérés comme faisant partie d'un mot lors d'une sélection par double clic de mots entiers dans le terminal.,Diese Zeichen werden beim Doppelklick (zur Auswahl eines ganzen Wortes) als Teil des Wortes betrachtet.,المحارف التي تعتبر جزء من كلمة عند النقر المزدوج لتحديد كامل الكلمات في الطرفية
+Choose the background image,Sélectionner l'image d'arrière-plan,Das Hintergrundergrundbild auswählen,اختر صورة الخلفية
+Choose the initial directory,Sélectionner le dossier initial,Startordner auswählen,اختر الدليل المبدئي
+Choose...,Choisir...,Auswählen ...,اختر...
+Chris Machemer,Chris Machemer,Chris Machemer,Chris Machemer
+Clear Scrollback,Effacer l'historique,Verlaufsspeicher leeren,امسح التمرير الخلفي
+Clear Scrollback and Reset,Effacer l'historique et le réinitialiser,Verlaufspeicher leeren und zurücksetzen,امح التمرير الخلفي و أعد الضبط
+Click to choose Faint color,Cliquer pour choisir une couleur douce,"Klicken Sie, um eine blasse Farbe auszuwählen",انقر للاختيار لون باهت
+Click to choose color,Cliquer pour choisir la couleur,"Klicken Sie, um eine Farbe auszuwählen",انقر لانتقاء لون
+Click to choose intense color,Cliquer pour choisir une couleur intense,"Klicken Sie, um eine kräftige Farbe auszuwählen",انقر لتختار تركيز اللون
+Close &Window,Fermer la &fenêtre,&Fenster schließen,أغلق ال&نافذة
+Close Current &Tab,Fermer l'ongle&t actuel,A&ktuelles Unterfenster schließen,أ&غلق اللسان الحالي
+Close Program,Fermer un programme,Programm schließen,أغلق البرنامج
+Close Tab,Fermer l'onglet,Unterfenster schließen,أغلق اللسان
+Close Window,Fermer la fenêtre,Fenster schließen,أغلق النافذة
+Close tab on middle-click,Fermer l'onglet lors d'un clic central,Unterfenster bei Klicken mit der mittleren Maustaste schließen,أغلق اللسان بالنقر الأوسط
+Close terminal,Fermer le terminal,Terminal schließen,أغلق الطرفية
+Close the search bar,Fermer la barre de recherche,Suchleiste schließen,أغلق شريط البحث
+Close this tab,Fermer cet onglet,Dieses Unterfenster schließen,أغلق هذا اللسان
+"Code from the kvt project
+General improvements","Code du projet « kvt »
+Améliorations générales","Code aus dem kvt-Projekt, allgemeine Verbesserungen","شفرة من مشروع kvt
+تحسينات عامة"
+Color,Couleur,Farbe,اللون
+Color 1,Couleur 1,Farbe 1,اللون 1
+Color 1 (Faint),Couleur 1 (douce),Farbe 1 (blass),اللون 1 (باهت)
+Color 1 (Intense),Couleur 1 (Intense),Farbe 1 (kräftig),اللون 1 (مكثف)
+Color 2,Couleur 2,Farbe 2,اللون 2
+Color 2 (Faint),Couleur 2 (douce),Farbe 2 (blass),اللون 2 (باهت)
+Color 2 (Intense),Couleur 2 (Intense),Farbe 2 (kräftig),اللون 2 (مكثف)
+Color 3,Couleur 3,Farbe 3,اللون 3
+Color 3 (Faint),Couleur 3 (douce),Farbe 3 (blass),اللون 3 (باهت)
+Color 3 (Intense),Couleur 3 (Intense),Farbe 3 (kräftig),اللون 3 (مكثف)
+Color 4,Couleur 4,Farbe 4,اللون 4
+Color 4 (Faint),Couleur 4 (douce),Farbe 4 (blass),اللون 4 (باهت)
+Color 4 (Intense),Couleur 4 (Intense),Farbe 4 (kräftig),اللون 4 (مكثف)
+Color 5,Couleur 5,Farbe 5,اللون 5
+Color 5 (Faint),Couleur 5 (douce),Farbe 5 (blass),اللون 5 (باهت)
+Color 5 (Intense),Couleur 5 (Intense),Farbe 5 (kräftig),اللون 5 (مكثف)
+Color 6,Couleur 6,Farbe 6,اللون 6
+Color 6 (Faint),Couleur 6 (douce),Farbe 6 (blass),اللون 6 (باهت)
+Color 6 (Intense),Couleur 6 (Intense),Farbe 6 (kräftig),اللون 6 (مكثف)
+Color 7,Couleur 7,Farbe 7,اللون 7
+Color 7 (Faint),Couleur 7 (douce),Farbe 7 (blass),اللون 7 (باهت)
+Color 7 (Intense),Couleur 7 (Intense),Farbe 7 (kräftig),اللون 7 (مكثف)
+Color 8,Couleur 8,Farbe 8,اللون 8
+Color 8 (Faint),Couleur 8 (douce),Farbe 8 (blass),اللون 8 (باهت)
+Color 8 (Intense),Couleur 8 (Intense),Farbe 8 (kräftig),اللون 8 (مكثف)
+Color Preview,Aperçu de couleur,Vorschau:,معاينة اللون
+Color of scrollbar markers:,Couleur des marqueurs de la barre de défilement :,,لون علامات شريط التمرير:
+Color of scrollbar search highlighting lines:,Couleur des lignes de surbrillance de la barre de défilement :,,لون خطوط تمييز البحث في شريط التمرير:
+Color scheme && font,Schéma de couleurs && police,Farbschema && Schrift,مخطط الألوان والخط
+Color:,Couleur :,Farbe:,اللون:
+Command,Commande,Befehl,الأمر:
+Command and arguments: %c,Commande et paramètres : %c,Befehl und Argumente: %c,الأمر و المعاملات: %c
+Command can not be empty,La commande ne peut être vide.,Die Befehlszeile darf nicht leer sein,الأمر لا يمكن أن يكون فارغاً
+"Command to execute. This option will catch all following arguments, so use it as the last option.",Commande à exécuter. Cette option prendra en compte tous les arguments suivants. Veuillez donc l'utiliser comme dernière option.,Auszuführender Befehl. Diese Option übernimmt alle folgenden Argumente. Daher sollte diese Option immer zuletzt angegeben werden.,الأمر للتنفيذ. سيلتقط هذا الخيار كل المعامِلات اللاحقة، لذا استخدمه كخيار أخير.
+Command:,Commande :,Befehl:,الأمر:
+Complex Text Layout,Disposition complexe de texte,Komplexes Text-Layout,تخطيط النصوص المعقدة
+Configure,Configurer,Einrichten,اضبط
+Configure Web Shortcuts...,Configurer les raccourcis Web...,Web-Kurzbefehle festlegen ...,اضبط اختصارات الوِب...
+Confirm Close,Confirmer la fermeture,Schließen bestätigen,أكد الغلق
+Confirm Paste,Confirmer le collage,Einfügen bestätigen,تأكيد اللصق
+Control the position of the tab bar,Contrôler la position de la barre des onglets,Steuert die Position der Unterfensterleiste,تحكّم في موقع شريط الألسنة
+Control the size of the handle between panels,Contrôler la taille des poignées entre les panneaux,Steuert die Größe des Griffes zwischen den Fenstern,تحكم في حجم المقبض بين الألواح
+Control the visibility of 'New Tab' button on the tab bar,Contrôler la visibilité du bouton « Nouvel onglet » de la barre des onglets,Steuert die Anzeige des Knopfs »Neues Unterfenster“ auf der Unterfensterleiste,تحكم برؤية زر 'لسان جديد' على شريط الألسنة
+Control the visibility of 'Search Tabs' button on the tab bar,Contrôler la visibilité du bouton « Rechercher des onglets » de la barre des onglets,Steuert die Anzeige des Knopfs »Neues Unterfenster“ auf der Unterfensterleiste,تحكم برؤية زر 'ابحث في الألسنة' على شريط الألسنة
+Control the visibility of the whole tab bar,Contrôler la visibilité de la totalité de la barre des onglets,Steuert die Anzeige der gesamten Unterfensterleiste,تحكم بعرض شريط الألسنة بأكمله
+Control the visual style of the tab bar,Contrôler l'apparence visuelle de la barre des onglets,Steuert den Anzeigestil der Unterfensterleiste,تحكم بالشكل المرئي لشريط الألسنة
+"Control where the ""Close tab"" button will be displayed",Contrôler la position de l'affichage du bouton « Fermer l'onglet »,Steuert die Anzeige des Knopfs „Unterfenster schließen“ auf der Unterfensterleiste,"تحكم في مكان عرض زر ""إغلاق لسان"""
+Control where to put the new tab,Contrôler où mettre un nouvel onglet,"Legt fest, wo das neue Unterfenster eingefügt wird",تحكم بمكان وضع اللسان الجديد
+Control whether child cgroups are created for individual tabs,Contrôler si des fils « cgroup » sont créés pour les onglets de façon individuelle,,التحكم فيما إذا كان سينشئ مجموعات التحكم الفرعية cgroups لعلامات التبويب الفردية
+Copy,Copier,Kopieren,انسخ
+Copy Email Address,Copier l'adresse de courrier électronique,E-Mail-Adresse kopieren,انسخ عنوان البريد الإلكتروني
+Copy Input,Copier l'entrée,Eingabe kopieren,انسخ الدخْل
+Copy Input To,Copier l'entrée vers,Eingabe kopieren nach,انسخ المدخلات إلى
+Copy Link Address,Copier l'adresse du lien,Verknüpfungsadresse kopieren,انسخ عنوان الوصلة
+Copy Location,Copier l'emplacement,Adresse kopieren,انسخ المكان
+Copy command output,Copier la sortie de la commande,Befehlsausgabe kopieren,انسخ خرج الأمر
+Copy except prompts,Copier sauf les invites,Kopieren ohne Eingabeaufforderungen,انسخ ماعدا المطالبات
+Copy on select,Copier la sélection,Bei Auswahl kopieren,انسخ عند التحديد
+Copy options:,Option de copie :,Kopie-Einstellungen,خيارات النسخ:
+Copy text as HTML,Copier le texte en HTML,Text als HTML kopieren,انسخ النص  كHTML
+"Copy text as HTML (including formatting, font faces, colors... etc)","Copier le texte en HTML (y compris la mise en forme, les polices, couleurs, etc.)","Text als HTML kopieren (inkl. Formatierung, Schriftarten, Farben usw.)",انسخ النص بصيغة HTML (بما في ذلك التنسيق ووجوه الخطوط والألوان ... إلخ)
+Copy user input,Copier l'entrée utilisateur,Benutzereingabe kopieren,انسخ دخْل المستخدم
+"Could not find '%1', starting '%2' instead.  Please check your profile settings.","Impossible de trouver « %1 », démarrage de « %2 » à la place. Veuillez vérifier la configuration de votre profil.","„%1“ kann nicht gefunden werden, stattdessen wird „%2“ gestartet. Prüfen Sie bitte die Einstellungen des Profils.","لا يمكن إيجاد  '%1', سيبدأ بـ '%2' عوضا عن ذلك. رجاءا تأكد من إعدادات التشكيلة."
+Could not find an interactive shell to start.,Impossible de trouver un terminal interactif à exécuter.,Es kann keine interaktive Shell gefunden und gestartet werden.,لا يمكن إيجاد محارة تفاعلية ليبدأ بها.
+Could not find binary:,Impossible de trouver l'exécutable :,Programmdatei kann nicht gefunden werden:,لا يمكن إيجاد الملف التنفيذي:
+"Could not get the process name, assume that we can't request a connection","Impossible d'obtenir le nom du processus, signifiant qu'il est impossible de demander une connexion.","Der Prozessname konnte nicht ermittelt werden, Verbindungsanforderung vermutlich nicht möglich",لا يمكن الحصول على اسم العملية، ربما لم نتمكن من طلب اتصال
+"Could not open file with the text editor specified in the profile settings;
+it will be opened with the system default editor.","Impossible d'ouvrir l'éditeur de texte spécifié dans les paramètres de profil. 
+Il sera ouvert avec l'éditeur par défaut du système.","Die Datei konnte nicht mit dem in den Profileinstellungen angegebenen Texteditor geöffnet werden;
+die Datei wird mit dem Standardeditor des Systems geöffnet.","تعذر فتح الملف باستخدام محرر النصوص المحدد في إعدادات ملف التشكيلة ؛ 
+سيفتح باستخدام محرر النظام المبدئي."
+Could not start program '%1' with arguments '%2'.,Impossible de démarrer le programme « %1 » avec les arguments « %2 ».,Das Programm „%1“ mit den Argumenten „%2“ kann nicht gestartet werden.,لا يمكن بدء البرنامج  '%1' بالمعاملات '%2'.
+Create New Profile,Créer un nouveau profil,Neues Profil erstellen,أنشئ تشكيلة جديدة
+Create New Profile...,Créer un nouveau profil...,Neues Profil erstellen ...,أنشئ تشكيلة جديدة...
+Create a new color scheme based upon the selected scheme,Créer un nouveau modèle de couleurs utilisant le modèle sélectionné,Ein neues Farbschema basierend auf dem ausgewählten erzeugen,أنشئ مخطط لوني جديد بالاعتماد على المخطط المحدد
+Create a new key bindings scheme based upon the selected bindings,Créer un nouveau schéma de combinaisons de touches à partir de celles sélectionnées,"Erstellen eines neuen Schema mit Tasten-Zuordnungen, basierend auf der ausgewählten Zuordnung",أنشئ تشكيلة ربط مفاتيح بالاعتماد على الربط المحدد
+Create a new profile based on the selected profile,Créer un nouveau profil à partir de celui sélectionné,Erzeugt ein neues Profil basierend auf dem ausgewählten Profil,أنشئ تشكيلة بالاعتماد على التشكيلة المحددة
+Create a new tab in an existing window rather than creating a new window ('Run all Konsole windows in a single process' must be enabled),Créer un nouvel onglet dans une fenêtre existante plutôt que créer une nouvelle fenêtre (L'option « Lancer toutes les fenêtres dans un unique processus » doit être activée).,"Ein neues Unterfenster in einem bestehenden Fenster erstellen, anstatt ein neues Fenster zu erstellen („Alle Konsole-Fenster in einem einzigen Prozess laufen lassen“ muss aktiviert sein)",أنشئ لسان جديد في النافذة الموجودة بدلا عن إنشاء نافذة جديدة (يجب تفعيل 'شغّل كل نوافذ كونسول على عملية واحدة')
+Create tabs as specified in given tabs configuration file,Créer des onglets comme défini dans le fichier fourni pour la configuration des onglets,Unterfenster nach den Vorgaben der Einrichtungsdatei für Unterfenster erstellen,أنشئ ألسنة كما هو محدد في ملف ضبط الألسنة المعطى
+Crop,Rogner,Zuschneiden,مقتص
+Ctrl,Ctrl,Strg,Ctrl
+Current Directory (Long): %D,Dossier actuel (long) : %D,Aktueller Ordner (Langform): %D,الدليل الحالي (طويل): %D
+Current Directory (Short): %d,Dossier actuel (court) : %d,Aktueller Ordner (Kurzform): %d,الدليل الحالي (قصير): %d
+Cursor,Curseur,Cursor,المؤشر
+Cursor:,Curseur :,Cursor:,المؤشر:
+Custom cursor color,Couleur personnalisée du curseur,Benutzerdefinierte Cursor-Farbe,لون المخصص للمؤشر
+Custom:,Personnalisé :,Benutzerdefiniert:,مخصص:
+Dale M. Flaven,Dale M. Flaven,Dale M. Flaven,Dale M. Flaven
+Dan Pilone,Dan Pilone,Dan Pilone,Dan Pilone
+Dark Pastels,Pastels foncés,Dunkle Pastelltöne,بستيلات غامقة
+Darken,Assombrir,Abdunkeln,تقتيم
+Darkening strength:,Niveau d'assombrissement :,Abdunkelungsstärke:,شدة التقتيم:
+David Faure,David Faure,David Faure,David Faure
+Default,Par défaut,Standard,المبدئي
+Default (XFree 4),Par défaut (XFree 4),Standard (XFree 4),افتراضي (XFree 4)
+Default Profile,Profil par défaut,Standardprofil,التشكيلة الافتراضية
+Default for file type,Application par défaut pour ce type de fichier,Standardprofil,مبدئي لهذا النوع
+Default profile,Profil par défaut,Standardprofil,التشكيلة الافتراضية
+Default profile for new terminal sessions in %1,Profil par défaut pour les nouvelles sessions de terminal dans %1,Standardprofil für neue Terminalsitzungen in %1,التشكيلة الافتراضية لجلسات الطرفية الجديدة في %1
+Defaults,Par défaut,Voreinstellungen,المبدئيات
+Delete,Supprimer,Löschen,احذف
+Delete Quick Commands Configurations,Supprimer les configurations des commandes rapides,Schnellbefehl-Einrichtungen entfernen,احذف إعدادات الأوامر السريعة
+Delete SSH Configurations,Supprimer les configurations « SSH »,SSH-Konfigurationen entfernen,احذف إعدادات SSH
+Delete folder and all of its contents,Supprimer un dossier et la totalité de son contenu,Ordner und seinen Inhalt löschen,احذف المجلد وجميع محتوياته
+Delete selected SSH entry,Supprimer l'entrée « SSH » sélectionnée,Ausgewählten SSH-Eintrag bearbeiten,احذف مدخلة SSH المحددة
+Delete selected entry,Supprimer l'entrée sélectionnée,Ausgewählten Eintrag löschen,احذف المدخلة المحددة
+Delete the selected color scheme,Supprimer le modèle de couleurs sélectionné,Das ausgewählte Farbschema löschen,احذف المخطط اللوني المحدد
+Delete the selected key bindings scheme,Supprimer le modèle de combinaisons de touches sélectionné,Das ausgewählte Tasten-Zuordnungsschema löschen,احذف تشكيلة ربط المفاتيح المحددة
+Delete the selected profile,Modifier le profil sélectionné,Löscht das ausgewählte Profil,احذف التشكيلة المحددة
+Description:,Description :,Beschreibung:,الوصف:
+Deselect All,Tout dé-sélectionner,Nichts auswählen,ألغ اختيار الكل
+Detach Current &Tab,Détacher l'ongle&t actuel,A&ktuelles Unterfenster verselbständigen,ا&فصل اللسان الحالي
+Detach Current &View,Détacher la vue actuelle,A&ktuelle Ansicht verselbständigen,افصل ال&عرض الحالي
+Determines the memory consumption level above which throttling will start,Détermine le niveau de consommation de mémoire au-dessus duquel la limitation commencera,,يحدد مستوى استهلاك الذاكرة الذي سيبدأ الاختناق بعده
+Device Control Three/XOFF: suspends output,Contrôle de périphérique « Trois / XOFF » : suspend la sortie,Gerätekontrollzeichen 3/XOFF: Ausgabe aussetzen,التحكم بالجهاز الثالثة/XOFF: يعلق الخرج
+Disable drag && drop menu for files && URLs,Désactiver le menu glisser-déposer pour les fichiers et les URLs,Menü beim Ziehen und Ablegen von Adressen und Dateien deaktivieren,عطّل قائمة السحب والإسقاط للملفات والعناوين
+"Disable transparent backgrounds, even if the system supports them.","Désactiver les arrières-plans transparents, même si le système les prend en charge.","Keinen transparenten Hintergrund verwenden, auch wenn dies vom System unterstützt wird.",عطل الخلفية الشفافة ، حتى ولو كان النظام يدعمها.
+Display Vertical line at column:,Afficher une ligne verticale à la colonne :,Vertikale Linie anzeigen in Spalte:,اعرض سطر رأسي عند العمود:
+Display the options menu,Afficher le menu des options,Einstellungsmenü anzeigen,اعرض قائمة الخيارات
+Do not close the initial session automatically when it ends.,Ne pas fermer automatiquement la session initiale lorsqu'elle se termine.,"Die erste Sitzung nicht automatisch schließen, nachdem sie beendet worden ist.",لا تغلق الجلسة الابتدائية آلية عندما تنتهي.
+Do not remember previous output,Ne pas mémoriser la sortie précédente,Verlaufsspeicher deaktivieren,لا تتذكّر المخرجات السابقة
+Don't Change,Ne pas modifier,Nicht ändern,لا تغيير
+Double click to change shortcut,Double cliquer pour modifier le raccourci clavier,"Doppelklicken Sie, um den Kurzbefehl zu ändern",انقر مزدوجًا لتغيير الاختصار
+Double click to change the folder name.,Double cliquez pour modifier le nom du dossier.,"Doppelklicken Sie, um den Ordnernamen zu ändern.",انقر مزدوجًا لتغيير اسم المجلد
+Drag Handle Size:,Taille des poignées de glisser :,Größe des Ziehgriffs:,حجم مقبض السحب:
+Draw intense colors in bold font,Afficher les couleurs intenses en gras,Kräftige Farben in Fettschrift ausgeben,ارسم ألوان مكثفة في الخط العريض
+Edit,Édition,Bearbeiten,حرر
+Edit Color Scheme,Modifier le modèle de couleurs,Farbschema bearbeiten,حرر التشكيلة الألوان
+Edit Current Profile...,Modifier le profil actuel...,Aktuelles Profil bearbeiten ...,حرّر التشكيلة الحالية...
+Edit Environment,Modifier l'environnement,Umgebungsvariablen bearbeiten,حرر البيئة
+Edit Key Binding List,Modifier la liste de correspondance des touches,Tasten-Zuordnungsliste bearbeiten,حرر  قائمة مفاتيح ربط
+Edit Profile,Modifier le profil,Profil bearbeiten,حرر التشكيلة
+"Edit Profile ""%1""",Modifier le profil « %1 »,Profil „%1“ bearbeiten,"حرر التشكيلة ""%1"""
+Edit selected entry,Modifier l'entrée sélectionnée,Den ausgewählten Eintrag bearbeiten,حرر المدخلة المحددة
+Edit the list of environment variables and associated values,Modifier la liste des variables d'environnement et leurs valeurs associées,Bearbeiten Sie die Liste der Umgebungsvariablen und die zugewiesenen Werte,حرر قائمة متغيرات البيئة و القيم المصاحبة لها
+Edit the path of the background image,Modifier l'emplacement de l'image d'arrière-plan,Den Pfad zum Hintergrundbild bearbeiten,حرّر مسار صورة الخلفية
+Edit the selected color scheme,Modifier le modèle de couleurs sélectionné,Das ausgewählte Farbschema bearbeiten,حرر المخطط اللوني المحدد
+Edit the selected key bindings scheme,Modifier le modèle de combinaisons de touches sélectionné,Das ausgewählte Tasten-Zuordnungsschema bearbeiten,حرر تشكيلة ربط المفاتيح المحددة
+Edit the selected profile (this button is disabled for read-only profiles),Modifier le profil sélectionné (Ce bouton est désactivé pour les profils en lecture seule),"Das ausgewählte Profil bearbeiten, dieser Knopf ist für nur lesbare Profile deaktiviert",حرر التشكيلة المحددة (هذا الزر معطل لتشكيلات القراءة فقط)
+Edit...,Modifier...,Bearbeiten ...,حرر...
+Edwin Pujols,Edwin Pujols,Edwin Pujols,Edwin Pujols
+"Embedded Konsole
+General improvements","Konsole intégrée
+Améliorations générales","Einbettungsfähige Konsole, allgemeine Verbesserungen","كونسول المدمج
+تحسينات عامة"
+"Embedded Konsole
+Toolbar and session names","Konsole intégrée
+Barre d'outils et noms de session","Einbettungsfähige Konsole
+Werkzeugleiste und Sitzungsnamen","كونسول المدمج
+أسماء شريط الأدوات و الجلسات"
+Emoji Font:,Police pour émoticônes :,Emoji-Schriftart:,خط صورة تعبيرية:
+Enable Alternate Screen buffer scrolling,Activer le défilement sur le tampon de l'écran alternatif,Bildlauf des alternativen Bildschirmpuffers verwenden,تفعيل التمرير في المخزن المؤقت للشاشة البديلة
+"Enable Bi-Directional display on terminals (valid for Arabic, Farsi or Hebrew only)","Activer l'affichage bi-directionnel sur les terminaux (valable pour l'arabe, le perse et l'hébreu uniquement)","Bi-Direktionale Anzeige in Terminalfenstern aktivieren (nur in Verbindung mit Arabisch, Persisch und Hebräisch möglich)",مكن عرض ثنائي الاتجاه في الطرفية (صالح للعربية أو الفارسية أو العبرية فقط)
+"Enable all ""Don't Ask Again"" messages",Activer tous les messages « Ne plus poser la question »,Alle „Diese Nachfrage nicht mehr anzeigen“-Meldungen aktivieren,"فعِّل كل نوافذ ""لا تسأل مجدّدًا"
+Enable memory monitoring:,Activer la surveillance de la mémoire :,Überwachung der Unterfenster,فعل مراقبة الذاكرة:
+Enable menu accelerators,Activer les accélérateurs de menu,Kurzbefehle im Menü aktivieren,مكّن مسرّعات القوائم
+Enable thumbnails generation,Activer la génération des vignettes,Vorschaubilderstellung aktivieren,مكّن توليد المصغرات
+Enable word mode text rendering,Activer le rendu de texte en mode « Mot »,Bi-Direktionale Anzeige von Schriften,مكّن عرض النص في نمط الكلمة
+Enabled,Activé,Aktiviert,ممكّن
+End Of Text/Interrupt: may exit the current process,Fin de texte / Interruption : peut fermer le processus actuel,,نهاية النص/المقاطعة: قد تخرج من العملية الحالية
+End Of Transmission: may exit the current process,Fin de transmission : peut fermer le processus actuel,,نهاية النقل: قد تخرج من العملية الحالية
+Enlarge Font,Agrandir la police,Schrift vergrößern,كبّر الخط
+Enter a tab name to search for here,Saisissez un nom d'onglet à rechercher ici,Geben Sie hier Suchtext ein,أدخل اسم اللسان لتبحث عنه هنا
+Enter descriptive label,Saisissez un libellé descriptif,Geben Sie einen aussagekräftigen Namen ein,أدخل لصيقة واصفة
+Enter the text to search for here,Saisissez le texte à chercher ici,Geben Sie hier Suchtext ein,أدخل نص لتبحث عنه هنا
+Environment:,Environnement :,Umgebungsvariablen:,البيئة:
+Equal size to all views,Taille identique pour tous les affichages,Gleiche Größe bei allen Ansichten einstellen,حجم متساوي لجميع العروض
+Error issuing SSH Command,Erreur après lancement d'une commande « SSH »,Fehler beim Ausführen des SSH-Befehls,خطأ في إصدار أمر SSH
+Escape: used for manipulating terminal state,Échap : utiliser pour manipuler l'état du terminal,Esc: für die Steuerung des Terminalstatus verwendet,الهروب: يستخدم للتلاعب بالحالة الطرفية
+Expand View,Étendre la vue,Ansicht vergrößern,عرض موسع
+Expand individual tab widths to full window,Augmenter la largeur de chaque tabulation à la largeur de la fenêtre,Breite einzelner Unterfenster auf die volle Fensterbreite erweitern,وسّع عرض اللسان المفرد إلى ملء النافذة
+Expand the tab widths,Agrandir la largeur des onglets,Breite der Unterfenster erweitern,وسع عرض اللسان
+F&ull screen height,Ha&uteur totale de l'écran,Volle Bildschirmhöhe,ارتفاع الشاشة ال&كامل
+Failed to create autosave file at %1.,Impossible de créer un fichier d'enregistrement automatique à %1.,,فشل في إنشاء ملف الحفظ الآلي في  %1.
+Failed to update autosave state on output changes.,Impossible de mettre à jour l'état d'enregistrement automatique pour les modifications de sortie.,,فشل في تحديث حالة الحفظ التلقائي لتغييرات الإخراج.
+Faint color,Couleur douce,Blasse Farbe,لون باهت
+Fi&xed size:,Taille fi&xe :,Feste Größe:,حجم &ثابت:
+File,Fichier,Datei,ملف
+File Separator/Quit: may abort the current process,Séparateur de fichiers / Quitter : peut interrompre le processus actuel,Datei-Trennzeichen/Beenden: kann den aktuellen Prozess abbrechen,فاصل/ إنهاء الملف: قد يحبط العملية الحالية
+Filter...,Filtrer...,Filter ...,رشّح...
+Filter:,Filtrer :,Filter:,المرشح:
+Find the next match for the current search phrase,Trouver la prochaine correspondance pour la phrase actuellement recherchée,Nächstes Vorkommen des Suchtextes finden,أعثر على المتطابقة التالية لعبارة البحث الحالية
+Find the previous match for the current search phrase,Trouver la précédente correspondance pour la phrase actuellement recherchée,Vorheriges Vorkommen des Suchtextes finden,أعثر على المتطابقة السابقة لعبارة البحث الحالية
+Find...,Chercher...,Suchen ...,بحث...
+Finished,Terminé,Beendet,انتهى
+Flow control,Contrôle du flux,Flusskontrolle,مسار التحكم
+Focus Above Terminal,Donner le focus au terminal du haut,Terminal oben aktivieren,ركز أعلى الطرفية
+Focus Below Terminal,Donner le focus au terminal du bas,Terminal unten aktivieren,ركز أسفل الطرفية
+Focus Left Terminal,Donner le focus au terminal de gauche,Linkes Terminal aktivieren,ركز يسار الطرفية
+Focus Right Terminal,Donner le focus au terminal de droite,Rechtes Terminal aktivieren,ركز يمين الطرفية
+Focus terminals when the mouse pointer is moved over them,Donner le focus aux terminaux lors du déplacement du pointeur de souris au-dessus,"Terminals aktivieren, wenn sich der Mauszeiger über ihnen befindet",ركّز على الطّرفيّات عند تحرّك مؤشّر الفأرة فوقها
+Folder,Dossier,Ordner,المجلد
+Font:,Police :,Schriftart:,الخط:
+"For organizational purposes, this entry will be inside of this folder.","Pour des besoins organisationnels, cette entrée sera à l'intérieur de ce dossier.",Aus organisatorischen Gründen wird dieser Eintrag in diesem Ordner abgelegt.,من أجل التنظيم ستكون هذه المدخلة بداخل هذا المجلد.
+"For scrollback files, use specified folder location","Pour les fichiers d'historique, utiliser l'emplacement spécifié",Angegebenen Speicherort für Verlaufsdateien verwenden,بالنسبة لملفات التمرير ، استخدم موقع مجلد مخصص
+"For scrollback files, use system-wide folder location","Pour les fichiers d'historique, utiliser l'emplacement global système",System-Speicherort für Verlaufsdateien verwenden,بالنسبة لملفات التمرير ، استخدم موقع المجلد على مستوى النظام
+"For scrollback files, use this folder","Pour les fichiers d'historique, utiliser ce dossier",Diesen Ordner für Verlaufsdateien verwenden,بالنسبة لملفات التمرير ، استخدم هذا المجلد
+"For scrollback files, use user's specific folder location","Pour les fichiers d'historique, utiliser l'emplacement personnalisé de l'utilisateur",Benutzer-Speicherort für Verlaufsdateien verwenden,بالنسبة لملفات التمرير ، استخدم موقع خاص بالمستخدم
+"Force re-using the existing instance even if it breaks functionality, e. g. --new-tab. Mostly for debugging.","Forcer la réutilisation de l'instance existante même si elle casse la fonctionnalité, par exemple, --new-tab. Principalement pour le débogage.","Wiederverwendung der bestehenden Instanz erzwingen, auch wenn es die Funktionalität beeinträchtigt, z. B. --new-tab. Hauptsächlich zur Fehlersuche.",فرض إعادة استخدام المثيل الحالي حتى إذا ضيعت الوظائف، على سبيل المثال.‏--new-tab. في الغالب من أجل التنقيح.
+Foreground,Premier plan,Vordergrund,الأمامية
+Foreground (Faint),Premier plan (doux),Vordergrund (blass),الأمامية (باهتة)
+Foreground (Intense),Premier plan (Intense),Vordergrund (kräftig),الأمامية (مكثف)
+Form,Formulaire,Formular,استمارة
+Francesco Cecconi,Francesco Cecconi,Francesco Cecconi,Francesco Cecconi
+FreeBSD port,Portage vers FreeBSD,FreeBSD-Portierung,النقل إلى FreeBSD
+From clipboard,À partir du presse-papiers,Aus der Zwischenablage,من الحافظة
+From mouse position to the end of &line,De la position de la souris à la fin de la &ligne,Vom Mauszeiger bis zum Ende der Zeile,من موقع الفأرة إلى نهاية ال&سطر
+From selection,Depuis la sélection,Von der Auswahl,من التحديد
+General,Général,Allgemein,عام
+General Settings,Configuration générale,Allgemeine Einstellungen,إعدادات عامة
+General improvements,Améliorations générales,Allgemeine Verbesserungen,تحسينات عامة
+"General maintainer, bug fixes and general improvements","Mainteneur principal, correction de bogues et améliorations générales","Allgemeiner Betreuer, Fehlerbereinigung und allgemeine Verbesserungen",المشرف العام، إصلاح علل وتحسينات عامة
+Generating Thumbnail,Génération de la vignette,Vorschaubilder werden generiert,يولد مصغرات
+Get New...,En obtenir d'autres...,Neues Schema holen ...,احصل على جديد...
+Green on Black,Vert sur noir,Grün auf Schwarz,أخضر على أسود
+Group,Groupe,Gruppe,المجموعة
+Gustavo Carneiro,Gustavo Carneiro,Gustavo Carneiro,Gustavo Carneiro
+Half screen heigh&t,Demi-hau&teur d'écran,Halbe Bildschirmhöhe,&نصف ارتفاع الشاشة
+Help,Aide,Hilfe,مساعدة
+Hidden,Caché,Ausgeblendet,مخفي
+"Hide the menubar, overriding the default setting",Masquer la barre de menus en écrasant la configuration par défaut,Menüleiste entgegen der Voreinstellung ausblenden,أخفِ شريط القوائم، متجاوزًا الإعداد الافتراضي
+"Hide the tabbar, overriding the default setting",Masquer la barre des onglets en écrasant la configuration par défaut,Unterfensterleiste entgegen der Voreinstellung ausblenden,أخفِ شريط الألسنة، متجاوزًا الإعداد الافتراضي
+Highlight all matches,Mettre en valeur toutes les correspondances,Alle Treffer hervorheben,أبرز كل المتطابقات
+Highlight all search matches,Surligner toutes les correspondances de recherche,Alle gefundenen Treffer hervorheben,أبرز كل متطابقات البحث
+Highlight the lines coming into view,Mettre en valeur les nouvelles lignes de l'affichage,In die Ansicht kommende Linien hervorheben,أبرز السطور الآتية في العرض
+Highlighting:,Mise en évidence :,Hervorhebung:,الإبراز:
+Horizontal,Horizontal,Waagerecht,أفقي
+Horizontal Anchor:,Ancrage horizontal :,Waagerechte Ausrichtung:,التثبيت الأفقي:
+Host: %1,Hôte : %1,Rechner: %1,المضيف: %1
+"Hue and saturation values of default foreground and background colors are randomized by default. Some color schemes might use different randomization settings.
+To see any effect, set colors with saturation value greater than 0.","Les valeurs de teinte et de saturation des couleurs de premier plan et d'arrière-plan par défaut sont randomisées par défaut. Certains schémas de couleurs peuvent utiliser différents paramètres de randomisation.
+Pour voir un effet, définissez des couleurs avec une valeur de saturation supérieure à 0.","Die Farbton- und Sättigungswerte der Standardvorder- und -hintergrundfarben werden standardmäßig zufällig ausgewählt. Einige Farbschemata verwenden möglicherweise andere Zufallseinstellungen.
+Um die Wirkung zu sehen, stellen Sie Farben mit einem Sättigungswert größer als 0 ein.","تختار قيم تدرج اللون والتشبع للألوان الافتراضية للمقدمة والخلفية بشكل عشوائي. قد تستخدم بعض تشكيلات الألوان إعدادات عشوائية. 
+لمشاهدة أي تأثير ، اضبط الألوان بقيمة تشبع أكبر من 0 ."
+I&nitial directory:,Dossier i&nitial :,Startordner:,الدليل ال&مبدئي:
+I-Beam,Barre verticale,I-Balken,عمود قائم
+Identifier,Identifiant,Bezeichner,المعرف
+"If Use Ssh Config is set, do not specify sshkey or username.","Si la configuration indique l'utilisation de « SSH », ne spécifiez pas de clé « SSH » ou de nom d'utilisateur.","Wenn ~/.ssh/config verwenden eingestellt ist, geben Sie weder SSH-Schlüssel noch Benutzername an.",إذا عُيّن استخدام Ssh Config ، فلا تحدد مفتاح ssh أو اسم المستخدم.
+"If enabled, profile settings will be ignored","Si activé, la configuration du profile sera ignorée","Ist diese Einstellung aktiv, werden die Einstellungen des Profils ignoriert.",إذا كان مفعَّلاً، فسيتم تجاهل إعدادات الوَضع
+"If this is set, we don't rely on the SSH key set above, but on the configuration on ~/.ssh/config","Si cette option est activée, la clé « SSH » définie ci-dessus n'est pas prise en compte, celle de la configuration de « ~/.ssh/config ».","Wenn dies gesetzt ist, verlassen wir uns nicht auf den oben gesetzten SSH-Schlüssel, sondern auf die Konfiguration in ~/.ssh/config",إذا مكنت هذه ؛ فلن نعتمد على مفتاح SSH المعين في الأعلى، لكن سنعتمد على الضبط الموجود في ‎~/.ssh/config
+Ignore Bell Events,Ignorer les évènements de la cloche du système,Signalton-Ereignisse ignorieren,تجاهل أحداث الجرس
+"Ignore attribute changes mid-word (otherwise, attribute changes break word when rendering)","Ignorer les modifications d'attributs au milieu du mot (sinon, les changements d'attribut coupent le mot lors du rendu)",,تجاهل تغييرات السمات في منتصف الكلمات (وإلا فإن تغيير السمة سيكسر الكلمة في العرض)
+Ignore wcwidth of problematic characters,Ignorer « wcwidth » des caractères à problème,&Ohne Kontrollzeichen einfügen,تجاهل wcwidth للمحارف المُشكِلة
+Imported SSH Profile   Some settings are read only.,Importé d'un profil « SSH ».  Certains paramètres sont en lecture seule.,,تشكيلة SSH مستورد   بعض الإعدادات للقراءة فقط.
+Inactive Terminals:,Terminaux inactifs :,Inaktive Terminals:,الطرفية الخاملة:
+Indicate whether the window is active by dimming the colors,Indiquer si la fenêtre est active en atténuant les couleurs,"Zeigt durch Abdunkeln der Farben an, ob das Fenster aktiv ist",حدد ما إذا كانت النافذة نشطة عن طريق تعتيم الألوان
+Indicate whether the window is active by drawing a border,Indiquer si la fenêtre est active en dessinant une bordure,"Zeigt durch Abdunkeln der Farben an, ob das Fenster aktiv ist",حدد ما إذا كانت النافذة نشطة عن طريق رسم حدودها
+Initial terminal si&ze:,Taille initiale du termina&l :,Ursprüngliche Terminal-Größe:,&حجم الطرفية المبدئي:
+Input:,Entrée :,Eingabe:,المدخلات:
+Insert,Insérer,Einfügen,أدرج
+Insert remote title format,Insérer le format du titre distant,Beschriftungsformat für Fernzugriff-Unterfenster,تنسيق عناوين الألسنة البعيدة:
+Insert title format,Insérer le format du titre,Beschriftungsformat für Unterfenster,أدخل تنسيق عنوان:
+Insufficient permissions to save settings to: %1.Either change the permissions of that file or set a different name to save the settings to a new profile.,"Permissions insuffisantes pour enregistrer les paramètres dans : %1.Vous pouvez soit modifier les permissions pour ce fichier, soit définir un nom différent pour enregistrer la configuration dans un nouveau profil.","Unzureichende Berechtigungen zum Speichern von Einstellungen in: %1.Ändern Sie entweder die Berechtigungen für diese Datei oder geben Sie einen anderen Namen an, um die Einstellungen in einem neuen Profil zu speichern.",أذونات غير كافية لحفظ الإعدادات إلى: %1.  إما أن تقوم بتغيير أذونات هذا الملف أو تعيين اسم مختلف لحفظ الإعدادات في تشكيلة جديدة.
+Intense color,Couleur intense,Kräftige Farbe,لون غامق
+Invert,Inverser,Umkehren,اعكس
+Jekyll Wu,Jekyll Wu,Jekyll Wu,Jekyll Wu
+Kevin Street,Kevin Street,Kevin Street,Kevin Street
+Key Combination,Combinaison de touches,Tastenkombination,مجموعة مفاتيح
+Key bindings,Combinaisons de touches,Tasten-Zuordnungen,ارتباطات المفاتيح
+Key bindings control how combinations of keystrokes in the terminal window are converted into the stream of characters that is then sent to the current terminal program. For more information on how to customize the key bindings check the Konsole Handbook.,"Les combinaisons de touches contrôlent la façon dont les appuis combinés de touches dans la fenêtre de terminal sont convertis en flux de caractères qui sont envoyés au programme en cours dans le terminal. Pour plus d'informations sur la personnalisation des combinaisons de touches, consultez le Manuel de Konsole.","Mit Tasten-Zuordnungen wird festgelegt, welche Tastendaten beim Druck bestimmter Tastenkombinationen an das aktuelle Terminalprogramm gesendet werden. Weitere Informationen zum Einrichten von Tasten-Zuordnungen finden Sie im Handbuch zu Konsole.",تتحكم روابط المفاتيح في كيفية تحويل مجموعات ضغطات المفاتيح في النافذة الطرفية إلى دفق الأحرف الذي يتم إرساله بعد ذلك إلى برنامج المحطة الطرفية الحالي. لمزيد من المعلومات حول كيفية تخصيص روابط المفاتيح ، راجع دليل كونسول.
+Key combination to show URL hints:,Combinaison de touches pour afficher les suggestions d'URL :,Tastenkombinationen für die Anzeige von URL-Hinweisen,توليفة المفاتيح لعرض تلميحة العنوان:
+Keyboard,Clavier,Tastatur,لوحة المفاتيح
+Kill Program,Tuer un programme,Programm abschießen,اقتل البرنامج
+Konsole,Konsole,Konsole,كونسول
+Konsole View Layout (*.json),Disposition de l'affichage de Konsole (*.json),Konsole-Ansichtslayout (*.json),تخطيط عرض كونسول (*.json)
+Konsole does not have permission to save this profile to %1,Konsole n'a pas le droit d'écrire ce profil dans %1,"Konsole fehlen die Berechtigungen, dieses Profil nach %1 zu speichern",لا يملك كونسول الصلاحيات لحفظ هذه التشكيلة في %1
+Konsole does not know how to open the bookmark:,Konsole ne sait pas comment ouvrir le signet :,Konsole kann das Lesezeichen nicht öffnen:,لا يعرف كونسول كيف يفتح العلامة:
+Konsole was started before desktop effects were enabled. You need to restart Konsole to see transparent background.,Konsole a été démarré avant que les effets de bureau soient actifs. Vous devez redémarrer Konsole pour utiliser l'arrière-plan transparent.,"Konsole wurde gestartet, bevor die Desktop-Effekte aktiviert waren. Sie müssen Konsole neu starten, damit der Hintergrund transparent wird.",بدء كونسول قبل أن تُفعّل تأثيرات سطح المكتب. عليك إعادة تشغيل كونسول لتعيين خلفية شفّافة.
+Kurt Hindenburg,Kurt Hindenburg,Kurt Hindenburg,Kurt Hindenburg
+Large,Grand,Groß,كبير
+Lars Doelle,Lars Doelle,Lars Doelle,Lars Doelle
+Lars Knoll,Lars Knoll,Lars Knoll,Lars Knoll
+Last Used Tabs,Derniers onglets utilisés,Zuletzt verwendete Unterfenster,آخر لسان مستعمل
+Last Used Tabs (Reverse),Derniers onglets utilisés (ordre inverse),Zuletzt verwendete Unterfenster (rückwärts),آخر لسان مستعمل (معكوس)
+Left,Gauche,Links,يسار
+Limit the remembered output to a fixed number of lines,Limiter la sortie enregistrée à un nombre maximal de lignes,Begrenzt den Verlaufsspeicher auf eine feste Anzahl Zeilen.,حد المخرجات المتذكرة بعدد ثابت من الأسطر
+Line Numbers:,Numéros de lignes :,Zeilennummern,أرقام الأسطر:
+Line numbers,Numéros de lignes,Zeilennummern,أرقام الأسطر
+Line spacing:,Espacement des lignes :,Zeilenabstand:,تباعد الأسطر:
+"Lines are always LTR, rather than determined by first strong character","Les lignes sont toujours considérées de gauche à droite (LTR), plutôt que déterminé par un premier caractère en majuscule.","Zeilen sind immer LTR, statt durch das erste starke Zeichen bestimmt",السطور دائمًا من اليسار إلى اليمين، بدلاً من تحديدها بواسطة الحرف الأول القوي
+Linux Colors,Couleurs Linux,Linux-Farben,ألوان لينكس
+Linux console,Console Linux,Linux-Konsole,لوحة تحكم لينكس
+List all the profile properties names and their type (for use with -p),"Lister tous les noms des propriétés du profil, ainsi que leurs types (à utiliser avec « -p »)",Die Namen aller Profil-Eigenschaften inklusive ihres Typs anzeigen (zur Verwendung mit -p),اعرض لائحة بكل أسماء خصائص الأوضاع وأنواعها (لتستخدم مع p-)
+List the available profiles,Lister les profils disponibles,Die verfügbaren Profile anzeigen,قائمة التشكيلات المتوفرة
+Load Tab Layout,Charger une disposition d'onglets,Unterfenster-Layout laden,حمّل تخطيط الألسن
+Load Tab Layout...,Charger une disposition d'onglets...,Unterfenster-Layout laden ...,حمّل تخطيط الألسن…
+Load a new tab with layout 1x2 terminals,Charger un nouvel onglet avec une disposition en 1 x 2 terminaux,Neues Unterfenster mit 1x2 Terminals laden,حمّل لسان جديد بتخطيط طرفيات 1×2
+Load a new tab with layout 2x1 terminals,Charger un nouvel onglet avec une disposition en 2 x 1 terminaux,Neues Unterfenster mit 2x1 Terminals laden,حمّل لسان جديد بتخطيط طرفيات 2×1
+Load a new tab with layout 2x2 terminals,Charger un nouvel onglet avec une disposition en 2 x 2 terminaux,Neues Unterfenster mit 2x2 Terminals laden,حمّل لسان جديد بتخطيط طرفيات 2×2
+Local Host: %h,Hôte local : %h,Lokaler Rechner: %h,المضيف المحلي: %h
+Lotzi Boloni,Lotzi Boloni,Lotzi Boloni,Lotzi Boloni
+MB,Mo,,م.بايت
+Main Toolbar,Barre principale d'outils,Haupt-Werkzeugleiste,شريط الأدوات الرّئيسيّ
+"Major refactoring, bug fixes and major improvements","Remaniement majeur, correction de bogues et améliorations majeures","Umfangreiche Überarbeitungen, Fehlerkorrekturen und wesentliche Verbesserungen",إعادة هيكلة كبرى وإصلاحات أخطاء وتحسينات كبيرة
+Make the cursor blink regularly,Faire clignoter le curseur régulièrement,Lässt den Cursor regelmäßig blinken,اجعل المؤشر يومض بانتظام
+Manage Profiles...,Gérer les profils...,Profile verwalten ...,أدر التشكيلات...
+Manage profile,Gérer un profil,Profil verwalten,أدر التشكيلة
+Margins:,Marges :,Ränder:,الهوامش:
+Mariusz Glebocki,Mariusz Glebocki,Mariusz Glebocki,Mariusz Glebocki
+Marking improvements,Améliorations marquantes,Grundlegende Verbesserungen,تحسينات التأشير
+Martin Jones,Martin Jones,Martin Jones,Martin Jones
+Martin T. H. Sandsmark,Martin T. H. Sandsmark,Martin T. H. Sandsmark,Martin T. H. Sandsmark
+Match current character,Correspondance du caractère actuel,Der aktuellen Zeichenfarbe anpassen,طابق المحرف الحالي
+Match regular expression,Correspond à une expression rationnelle,Regulären Ausdruck verwenden,طابق التعابير النمطية
+Match using regular expressions,Correspondance utilisant les expressions rationnelles,Regulären Ausdruck für Übereinstimmung verwenden,طابق باستخدام التعابير النمطية
+Matthias Ettrich,Matthias Ettrich,Matthias Ettrich,Matthias Ettrich
+Maximize terminal,Maximiser le terminal,Terminal maximieren,كبّر الطرفية
+Medium,Moyen,Mittel,متوسط
+Memory,Mémoire,,الذاكرة
+Memory limit:,Limite de mémoire :,,حدّ الذّاكرة:
+Meta,Méta,Meta,Meta
+Middle-click pastes:,Action du clic du bouton du central :,Dreifachklick fügt ein:,إلصاق بالنّقر بالوسط:
+Miscellaneous,Divers,Verschiedenes,متنوّع
+Miscellaneous:,Divers :,Verschiedenes:,متنوّع:
+Missing Folder,Dossier manquant,Fehlender Ordner,المجلد مفقود
+Missing Hostname,Nom d'hôte manquant,Fehlender Rechnername,اسم المضيف مفقود
+Missing Name,Nom manquant,Fehlender Name,الاسم مفقود
+Monitor for &Activity,Surveiller l'&activité,Auf A&ktivität überwachen,راقب الن&شاط
+Monitor for &Prompt,Surveiller l'apparition du &prompt,Auf A&ktivität überwachen,الشاشة لل&محث
+Monitor for &Silence,&Surveiller l'inactivité,Auf &Inaktivität überwachen,مراقبة الس&كون
+Monitor for Process Finishing,Surveiller la clôture du processus,Auf Prozessende überwachen,راقب لانتهاء العملية
+Mouse,Souris,Maus,الفأرة
+Mouse click in input line moves cursor,Un clic de souris dans la ligne de saisie déplace le curseur,Mausklick in die Eingabezeile bewegt den Cursor,عندما تنقر الفأرة على سطر الإدخال تحرك المؤشر
+Mouse hover plus,Survol avec la souris plus,Mauskontakt und:,تمرير الفأرة زائد
+Mouse scroll wheel will emulate up/down key presses in programs that use the Alternate Screen buffer (e.g. less),La molette de la souris émulera l'utilisation des touches haut et bas dans les programmes utilisant un tampon sur un écran alternatif (par exemple less),"Das Mausrad emuliert die Tastendrücke Pfeil aufwärts/Pfeil abwärts in Programmen wie zum Beispiel „less“, die den alternativen Bildschirmpuffer verwenden",ستحاكي عجلة تمرير الفأرة ضغطات المفاتيح لأعلى / لأسفل في البرامج التي تستخدم المخزن المؤقت للشاشة البديلة (على سبيل المثال less)
+Move tab to the left,Déplacer l'onglet vers la gauche,Unterfenster nach links verschieben,حرك اللسان لليسار
+Move tab to the right,Déplacer l'onglet vers la droite,Unterfenster nach rechts verschieben,حرك اللسان لليمين
+Move terminal to new tab,Déplacer le terminal vers un nouvel onglet,Terminalfenster in neues Unterfenster verschieben,انقل الطرفية للسان جديد
+Name,Nom,Name,الاسم
+Name of profile to use for new Konsole instance,Nom du profil à utiliser pour une nouvelle instance de Konsole,Name des Profils für neue Konsole-Sitzungen,اسم تشكيلة  لتستخدمها نسخة كونسول الجديدة
+Nate Graham,Nate Graham,Nate Graham,Nate Graham
+Never,Jamais,Niemals,البتة
+New &Window,Nouvelle &fenêtre,Neues &Fenster,&نافذة جديدة
+New Color Scheme,Nouveau modèle de couleurs,Neues Farbschema,نسق ألوان جديد
+New Key Binding List,Nouvelle liste de correspondance des touches,Neue Tasten-Zuordnungsliste,قائمة مفاتيح ربط جديدة
+New...,Nouveau...,Neu ...,جديد...
+Next,Suivant,Weiter,التّالي
+Next Profile,Profil suivant,Profil bearbeiten,التّشكيلة التّالية
+Next Tab,Onglet suivant,Nächstes Unterfenster,لسان جديد
+No keyboard translator available.  The information needed to convert key presses into characters to send to the terminal is missing.,Aucune conversion de clavier disponible. Les informations nécessaires pour convertir des appuis de touches en caractères pour envoi au terminal sont manquantes.,"Keine Tastaturübersetzung verfügbar. Es fehlen die Informationen, wie gedrückte Tasten in Buchstaben umgewandelt werden können, die dann an das Terminal gesendet werden.",لا يوجد مترجم لوحة المفاتيح. معلومات تحويل ضغط المفتاح إلى المحرف -ليرسلها إلى الطرفية - مفقودة.
+No plugins available,Aucun module externe disponible,Keine Module verfügbar,لا يوجد ملحقات
+No quick commands found. You can add one on Plugins -> Quick Commands,Aucune commande rapide trouvée. Vous pouvez en ajouter une avec le menu Modules externes / Commandes rapides.,,لم يعثر على أوامر سريعة. يمكنك إضافة واحدة من ملحقات -> أوامر سريعة
+No saved SSH config found. You can add one on Plugins -> SSH Manager,Aucune configuration « SSH » enregistrée n'a été trouvée. Vous pouvez en ajouter une avec le menu Modules externes / Gestionnaire « SSH ».,,لم يعثر على ملف SSH محفوظ. يمكنك أن تضيف واحدة من ملحقات -> مدير SSH
+No wrap,Aucun retour à la ligne,,دون لف
+NoFlip,Aucun basculement,Kein spiegeln,بدون عكس
+NoScaling,Aucun dimensionnement,Kein Skalieren,بدون تكبير
+None,Aucun,Keine,بلا
+Normal tab title format,Format du titre d'un onglet normal,Beschriftungsformat für normale Unterfenster,التنسيق عناوين الألسنة العادية
+Notifications:,Notifications :,Benachrichtigungen:,الإخطارات:
+Number,Numéro,Nummer,الرقم
+"Number URL hints in reverse, starting from the bottom","Numéroter les informations URL en sens inverse, en commençant par le bas",Nummerierung der URL-Hinweise in umgekehrter Reihenfolge wobei von unten begonnen wird,رقّم تلميحات العنوان بالعكس بدءا من الأسفل.
+Number of lines of output to remember,Nombre de lignes de la sortie à mémoriser,"Die Anzahl Zeilen, die der Verlaufsspeicher vorhalten soll.",عدد الأسطر التي سيتم تذكرها من المخرجات
+On &the tab bar,Sur la barre d'ongle&ts,Auf der Unterfens&terleiste,على &شريط الألسنة
+On ea&ch tab,Sur &chaque onglet,&In jedem Unterfenster,&على كل لسان
+One environment variable per line,Une variable d'environnement par ligne,Eine Umgebungsvariable je Zeile,متغير بيئة واحد لكل سطر جديد
+One-Shot Monitors,Surveillances ponctuelles,,شاشات طلقة واحدة
+Open Current Folder With,Ouvrir le dossier courant avec,Aktuellen Ordner öffnen mit,افتح المجلد الحالي بـ
+Open File Manager,Ouvrir le gestionnaire de fichiers,Dateiverwaltung öffnen,افتح مدير الملفات
+Open Link,Ouvrir le lien,Verknüpfung öffnen,افتح الوصلة
+Open a new tab,Ouvrir un nouvel onglet,Neues Unterfenster öffnen,افتح لسانًا جديدًا
+Open files/links by direct click,Ouvrir des fichiers et des liens directement avec un clic,Dateien/Verknüpfungen mit direktem Klick öffnen,افتح الملفات/الروابط بنقرة مباشرة
+Original author,Auteur originel,Ursprünglicher Autor,المؤلّف الأصلي
+Output,Sortie,Ausgabe,المخرجات
+Output Options,Options de sortie,Optionen für die Ausgabe,خيارات الإخراج
+Output:,Sortie :,Ausgabe:,الناتج:
+Override wcwidth,Contourner « wcwidth »,,تجاوز wcwidth
+Part Info,Informations sur le composant,Part-Information,معلومات الجزء
+Paste &without control characters,Coller &sans les caractères de contrôle,&Ohne Kontrollzeichen einfügen,ألصق &بدون أحرف التحكم
+Paste Selection,Coller la sélection,Auswahl einfügen,ألصق المحدد
+Percent,Pourcentage,Prozent,في المائة
+Peter Silva,Peter Silva,Peter Silva,Peter Silva
+Please fix all the warnings before trying to run this script,Veuillez corriger tous les avertissements de tenter de lancer ce script.,"Bitte beheben Sie alle Warnungen, bevor Sie versuchen, das Skript auszuführen",الرجاء إصلاح جميع التحذيرات قبل محاولة تشغيل هذا السكربت
+Plugins,Modules externes,Module,القوابس
+Plugins - Quick Commands,Modules externes - Commandes rapides,Module - Schnellbefehle,ملحقات - الأوامر السريعة
+Plugins - SSH Manager,Modules externes - Gestionnaire « SSH »,Module - SSH-Verwaltung,محلقات - مدير SSH
+Port,Port,Port,المنفذ
+Position:,Position :,Position:,الموقع:
+Pressing Ctrl+scrollwheel will increase/decrease the text size.,Un appui sur « Ctrl » + molette de la souris permettra d'augmenter / diminuer la taille du texte.,Mit der Taste Strg und dem Mausrad kann die Schriftgröße verkleinert und vergrößert werden.,ضغط المفتاح Ctrl مع استخدام عجلة التمرير سيزيد/ينقص حجم الخط.
+Preview Colors on hover,Afficher un aperçu des couleurs au survol,Vorschau der Farben beim Überfahren,عاين الألوان عند الحوم
+Previous,Précédent,Zurück,السابق
+Previous Profile,Profil précédent,Vorheriges Unterfenster,التّشكيلة السّابقة
+Previous Tab,Onglet précédent,Vorheriges Unterfenster,اللسان السابق
+"Previous maintainer, ported to KDE4","Mainteneur précédent, portage vers KDE 4","Vorheriger Betreuer, Portierung auf KDE 4",المدير السابق، نُقِلَت إلى كِيدِي 4.
+Print Shell,Imprimer le terminal,Shell drucken,صَدفة الطباعة
+"Printer &friendly mode (black text, no background)","Mode &compatible de l'impression (texte en noir, pas de fond)",Druck&freundlicher Modus (schwarzer Text ohne Hintergrund),نمط الا&قتصادي (كتابة بالأسود ، لا خلفية )
+Process and window:,Processus et fenêtre :,Prozess und Fenster:,العملية والنافذة:
+Profile,Profil,Profil,التشكيلة
+Profile %1,Profil %1,Profil #%1,التشكيلة %1
+Profile Name was empty; please set a name to be able to save settings.,Le nom du profil était vide. Veuillez définir un nom pour avoir la possibilité d'enregistrer les paramètres.,"Der Name des Profils ist leer. Bitte geben Sie einen Namen ein, damit die Einstellungen gespeichert werden können.",اسم التشكيلة كان فارغًا؛ يرجى تعيين اسم لتتمكن من حفظ الإعدادات.
+Profile name,Nom du profil,Profilname,اسم اللاحة
+Profile name exceeded maximum allowed length (%1).,Le nom du profil a dépassé la longueur maximale autorisée (%1).,,اسم التشكيلة تجاوزت الحد الأقصى المسموح (%1).
+Profiles,Profils,Profile,التّشكيلات
+Program '%1' crashed.,Le programme « %1 » s'est terminée d'une manière inattendue.,Das Programm „%1“ ist abgestürzt.,انهار البرنامج '%1' .
+Program '%1' exited with status %2.,Le programme « %1 » s'est terminé avec l'état « %2 ».,Das Programm „%1“ wurde mit Status %2 beendet.,البرنامج '%1' خرج بالحالة %2.
+Program Name: %n,Nom du programme : %n,Programmname: %n,اسم البرنامج: %n
+Put new tabs:,Mettre les nouveaux onglets :,Neue Unterfenster:,ضع الألسنة الجديدة:
+Quick Commands,Commandes rapides,Schnellbefehle,الأوامر السريعة
+Randomly adjust colors for each session,Ajuster les couleurs de manière aléatoire pour chaque session,Zufällige Farbanpassung für jede Sitzung,اضبط الألوان بشكل عشوائي لكل جلسة
+Read-Only,Lecture seule,Nur lesen,للقراءة فقط
+Red error background:,Arrière-plan rouge d'erreurs :,Hintergrund verwischen,خلفية خطأ حمراء:
+Red error bars:,Barres rouges d'erreurs :,,أشرطة خطأ حمراء:
+Red on Black,Rouge sur noir,Rot auf Schwarz,أحمر على أسود
+Reflow Lines:,Reformater les lignes :,Zeilen neu umbrechen:,إعادة دفق السطور:
+Reflow lines when terminal resizes,Reformater les lignes quand le terminal change de taille,Zeilen bei Größenänderung des Terminals neu umbrechen,إعادة دفق السطور عند تغيير حجم الطرفية
+Remember all output produced by the terminal,Conserver toute la sortie générée par le terminal,Alle Ausgaben des Terminals im Verlaufsspeicher vorhalten,تذكر كل المخرجات الصادرة من الطرفية
+Remember window size,Mémoriser la taille de la fenêtre,Fenstergröße speichern,تذكر حجم النافذة
+Remote Host (Long): %H,Hôte distant (long) : %H,Entfernter Rechner (Langform): %H,المضيف البعيد (طويل): %H
+Remote Host (Short): %h,Hôte distant (court) : %h,Entfernter Rechner (Kurzform): %h,المضيف البعيد (قصير): %h
+Remote tab title format:,Format d'un titre d'onglet distant :,Beschriftungsformat für Fernzugriffs-Unterfenster:,تنسيق عناوين الألسنة البعيدة:
+Remove,Supprimer,Entfernen,أزل
+Remove window titlebar and frame,Enlever la barre de titre et les bordures,Titelleiste und Rahmen des Fensters entfernen,أزل إطار النافذة و شريط العنوان
+Rename,Renommer,Umbenennen,أعد التسمية
+Render words of ASCII characters together,Effectuer un rendu de mots incluant aussi des caractères « ASCII »,,اعرض كلمات محارف أسكي ASCII معا
+Render words of Brahmic scripts characters together,Effectuer un rendu de mots incluant aussi des caractères brahmaniques de script,,اعرض الكلمات النصوص البراهمية معاً
+Require Ctrl key for drag && drop,Utiliser la touche « Ctrl » pour un glisser-déposer,Ziehen und Ablegen (Drag and Drop) nur mit Strg-Taste,تطلب ضغط المفتاح Ctrl للسحب والإفلات
+Reset Font Size,Réinitialiser la taille de la police,Schriftgröße zurücksetzen,صفّر حجم الخط
+Reset the selected color scheme settings to the default values,Revenir aux valeurs par défaut pour les paramètres de couleur.,Das ausgewählte Farbschema auf seine Standardwerte zurücksetzen,أعد تعيين إعدادات تشكيلة الألوان المحددة إلى القيم المبدئية
+Reset the selected key bindings scheme to its default values,Réinitialiser le modèle de combinaisons de touches sélectionné aux valeurs par défaut,Das ausgewählte Tasten-Zuordnungsschema auf seine Standardwerte zurücksetzen,أعد تعيين تشكيلة ربط المفاتيح المحددة إلى قيمه المبدئية
+Restore terminal,Restaurer le terminal,Terminal wiederherstellen,استعد الطّرفيّة
+Reverse URL hint numbering,Inverser la numérotation des informations URL,Umgekehrte Nummerierung der URL-Hinweise,الترقيم العكسي لتلميحة العنوان
+Ri&ght side,Côté &droit,Rechte Seite,الجانب الي&مين
+Robert Knight,Robert Knight,Robert Knight,Robert Knight
+Run,Exécuter,Ausführen,شغّل
+Run all Konsole windows in a single process,Exécuter toutes les fenêtres Konsole dans un processus unique,Alle Konsole-Fenster in einem einzigen Prozess laufen lassen,شغّل كل نوافذ كونسول على عملية واحدة
+Run in a separate process,Exécuter dans un processus distinct,In getrenntem Prozess ausführen,نفِّذ في عملية منفصلة
+S&crollback,&Historique,&Verlauf,&مرر للخلف
+SGI port,Portage SGI,SGI-Portierung,النقل إلى SGI
+SSH Config,Configuration « SSH »,SSH-Konfiguration,ضبط SSH
+SSH Entries,Entrées « SSH »,SSH-Einträge,مدخلات SSH
+SSH Hostname,Nom d'hôte SSH,SSH-Rechnername,اسم مضيف SSH
+SSH Key,Clé SSH,SSH-Schlüssel,مفتاح SSH
+SSH Manager,Gestionnaire de clés SSH,SSH-Verwaltung,مدير SSH
+Save,Enregistrer,Speichern,احفظ
+Save Output &As...,Enregistrer l&a sortie sous...,Ausgabe speichern &als ...,احفظ ال&مخرجات كـ ...
+Save Output From %1,Enregistrer la sortie de %1,Ausgabe von %1 speichern,احفظ مخرجات من %1
+Save Tab Layout,Enregistrer une disposition d'onglets,Unterfenster-Layout speichern,احفظ تخطيط الألسنة
+Save Tab Layout...,Enregistrer une disposition d'onglets...,Unterfenster-Layout speichern ...,احفظ تخطيط الألسنة…
+Save ZModem Download to...,Enregistrer le téléchargement de ZModem à...,ZModem-Download speichern unter ...,احفظ تحميل ZModem إلى ...
+Schema and text selection improvements,Améliorations de la sélection de texte et du modèle,Farbschema- und Verbesserungen bei der Auswahlfunktion,تحسينات في المخططات و إنتقاء النص
+Scheme %1 failed to load.,Impossible de charger le modèle %1.,Das Schema %1 kann nicht geladen werden.,فشل تحميل التشكيلة %1.
+Scroll Page Up/Down:,Monter/descendre d'une page :,Blättern mit den Tasten Bild auf/Bild ab:,مقدار التمرير لأعلى/لأسفل:
+Scroll the page the full height of window,Faire défiler la page d'un hauteur complète de la fenêtre,Seite um eine ganze Fensterhöhe blättern,مرِّر الصفحة بكامل ارتفاع النافذة
+Scroll the page the half height of window,Faire défiler la page d'une demi-hauteur de la fenêtre,Seite um eine halbe Fensterhöhe blättern,مرِّر الصفحة نصف ارتفاع النافذة
+Scrollback file location:,Emplacement des fichiers d'historique :,Speicherort für Verlaufsdatei:,موقع ملف التمرير الخلفي:
+Scrollback:,Historique :,Verlauf:,التمرير الخلفي:
+Scrollbar position:,Position de la barre de défilement :,Bildlaufleisten-Position:,مكان شريط التمرير:
+Scrolling,Barre de défilement,Bildlaufleiste,التمرير
+Search Tabs,Rechercher des onglets,Unterfenster &verselbständigen,ابحث في الألسنة
+Search backwards,Chercher en arrière,Rückwärts suchen,ابحث بالعكس
+Search for '%1' with,Rechercher « %1 » avec,Nach „%1“ suchen mit,ابحث عن '%1' بـ
+Search for the current search phrase from the bottom,Recherchez la phrase actuelle de recherche à partir du bas,Nächstes Vorkommen des Suchtextes von unten finden,ابحث عن عبارة البحث الحالية من الأسفل
+Search for the current search phrase from the top,Recherchez la phrase actuelle de recherche à partir du haut,Nächstes Vorkommen des Suchtextes von oben finden,ابحث عن عبارة البحث الحالية من الأعلى
+Search highlighting line opacity:,Opacité de la ligne de surbrillance de la recherche :,,تعتيم خط تمييز البحث:
+Search is case sensitive,La recherche tient compte de la casse,Suche beachtet Groß-/Kleinschreibung,البحث حساس لحالة الأحرف
+Search stops instead of wrapping,La recherche se termine plutôt que de continuer sur la ligne suivante.,,سيتوقف البحث عوضا عن اللف
+Search...,Rechercher...,Suchen:,ابحث...
+Search:,Chercher :,Suchen:,ابحث:
+Select &Line,Sélectionner la &ligne,Zei&le auswählen,انتقِ &خطًّا
+Select &Mode,Sélectionnez un &mode,Auswahl&modus,&نمط التحديد
+Select All,Tout sélectionner,Alle auswählen,اختر الكل
+Select Files for ZModem Upload,Sélectionner les fichiers pour le chargement de « ZModem »,Wählen Sie Dateien für den ZModem-Upload,اختر ملفات لرفع  ZModem
+Select Initial Directory,Sélectionner le dossier initial,Wählen Sie den Startordner,اختر دليل مبدئي
+Select font,Sélectionner une police,Schriftart auswählen,اختر خط
+Select the color used to draw the border,Sélectionner la couleur utilisée pour dessiner la bordure,Wählen Sie die Farbe für den Cursor,اختر لون الذي سيرسم به الحد
+Select the color used to draw the character underneath the cursor,Sélectionner la couleur utilisée pour dessiner le caractère sous le curseur,Wählen Sie die Farbe für das Zeichen unter dem Cursor,اختر لون الذي سيرسم به المحرف تحت المؤشر
+Select the color used to draw the cursor,Sélectionner la couleur utilisée pour dessiner le curseur,Wählen Sie die Farbe für den Cursor,اختر لون الذي سيرسم به  المؤشر
+Select the icon displayed on tabs using this profile,Sélectionner l'icône affichée dans les onglets utilisant ce profil,Wählen Sie das Unterfenster-Symbol für dieses Profil.,اختر أيقونة لتعرض على الألسنة التي تستعمل هذه التشكيلة
+Select wallpaper image file,Sélectionner l'image du fond d'écran,Wählen Sie ein Hintergrundbild,اختر ملف صورة الخلفية
+Selected text will require control key plus click to drag.,Le texte sélectionné utilisera la touche « Ctrl » plus un clic pour effectuer un glisser.,Zum Ziehen und Ablegen von ausgewähltem Text muss die Taste Strg gedrückt werden.,النص المحدد سيتطلب زر تحكم إضافة إلى نقرة للسحب
+Semantic Integration,Interaction sémantique,Semantische Integration,التكامل الدلالي
+Semantic hints,Astuces sémantiques,Semantische Hinweise,التلميحات الدلالية
+Semantic hints:,Astuces sémantiques :,Semantische Hinweise:,تلميحات الدلالية:
+Send Email To...,Envoyer un courrier électronique à...,E-Mail senden an ...,أرسِل بريد الإلكتروني إلى....
+Send Signal,Envoyer un signal,Signal senden,أرسل إشارة
+Session Number: %#,Numéro de session :  % #,Sitzungsnummer: %#,رقم الجلسة: %#
+Session Toolbar,Barre d'outils de session,Sitzungs-Werkzeugleiste,شريط أدوات الجلسة
+Set &Encoding,Définir l'&encodage,&Kodierung festlegen,عيّن ال&تشفير
+Set interval between autosaves:,Définir l'intervalle entre enregistrements automatiques :,,عيّن الفاصل الزمني بين الحفظ التلقائي:
+Set the cursor to match the color of the character underneath it.,Définit la couleur du curseur pour correspondre au caractère qu'il surligne.,Passt die Cursor-Farbe der des darunterliegenden Zeichens an.,اجعل المؤشر يطابق لون المحرف الذي تحته
+Set the initial working directory of the new tab or window to 'dir',Définir le dossier initial de travail pour un nouvel onglet ou fenêtre à « dossier »,Arbeitsordner der Konsole für das neue Fenster oder Unterfenster zu Ordner „dir“ ändern,ضع دليل عمل مبدئي للسان الجديد أو النافذة إلى 'dir'
+Set the selected profile as the default for new terminal sessions,Définir le profil sélectionné comme profil par défaut des nouvelles sessions de terminal,Das ausgewählte Profil als Voreinstellung für neue Terminalsitzungen festlegen,اضبط التشكيلة المحددة على أنها الافتراضية لجلسات الطرفية الجديدة
+Sets the width of the thumbnail,Définit la largeur de la vignette,Legt die Breite der Vorschau fest,تحدد عرض المصغرة
+Sets whether matching text should be highlighted,Définit si le texte en correspondance doit être mis en évidence,"Legt fest, ob der gefundene Text hervorgehoben werden soll",اختر إذا ما كنت تريد إبراز النص المتطابق
+Sets whether search should start from the bottom,Définit si la recherche doit se faire ou non à partir du bas,"Legt fest, ob die Suche von unten beginnen soll",حدِّد ما إذا كان يجب بدء البحث من الأسفل
+Sets whether search should stop instead of wrapping,Définit si la recherche doit se terminer plutôt que de continuer sur la ligne suivante,"Legt fest, ob die Suche von unten beginnen soll",حدِّد ما إذا كان يجب أن يتوقف البحث بدلاً من الالتفاف
+Sets whether the search is case sensitive,Définit si la recherche doit tenir compte de la casse,"Legt fest, ob die Suche Groß-/Kleinschreibung beachten soll",اختر إذا ما كانت حالة الأحرف حساسة
+Settings,Configuration,Einstellungen,الإعدادات
+Setup semantic integration (bash),Paramétrer l'intégration sémantique (bash),Semantische Integration einrichten (bash),ضبط التكامل الدلالي (باش)
+Shape:,Forme :,Form:,الشكل:
+Shell Errors,Erreurs du shell,Shell-Fehler,أخطاء شل
+Shift,Majuscule,Umschalttaste,Shift
+Shortcut,Raccourci,Kurzbefehl,الاختصار
+Shortcut for peeking the primary screen:,Raccourci pour identifier l'écran primaire :,Kurzbefehl für das Anzeigen des primären Bildschirms:,اختصار لإلقاء نظرة خاطفة على الشاشة الرئيسية:
+Shortcut:,Raccourci :,Kurzbefehl:,الاختصار:
+Show 'New Tab' button,Afficher le bouton « Nouvel onglet »,Knöpfe „Neues Unterfenster“ anzeigen,أظهر زرّا  'لسان جديد'
+Show Close Tab button:,Afficher le bouton « Fermer l'onglet » :,Knopf zum Unterfenster schließen anzeigen,أظهر زر إغلاق اللسان:
+Show Header:,Afficher l'en-tête :,Titelzeile anzeigen:,أظهر التّرويسة:
+Show Quick Access,Afficher un accès rapide,Schnellzugriff anzeigen,أظهر الوصول السريع
+Show Quick Access for SSH Actions,Afficher un accès rapide pour les actions « SSH »,,أظهر الوصول السريع لإجراءات SSH
+Show Quick Commands,Afficher les commandes rapides,Schnellbefehle anzeigen,أظهر الأوامر السريعة
+Show SSH Manager,Afficher le gestionnaire de clés SSH,SSH-Verwaltung anzeigen,أظهر مدير SSH
+Show Search Tabs button:,Afficher le bouton « Rechercher des onglets » :,Knopf zum Unterfenster schließen anzeigen,أظهر زر ابحث في الألسنة:
+Show all fonts,Afficher toutes les polices,Alle Schriftarten anzeigen,اعرض كلّ الخطوط
+Show entries that don't match the filter,Afficher les entrées ne correspondant pas au filtre,"Einträge anzeigen, die nicht mit dem Filter übereinstimmen",أعرض المدخلات التي لا تطابق المرشح
+Show hint for terminal size after resizing,Afficher les conseils de taille de terminal après un redimensionnement,Hinweis zur Größe des Terminals nach einer Größenänderung anzeigen,أظهر تلميح لحجم الطرفية بعد تغيير الحجم
+Show session,Afficher une session,Sitzung anzeigen,اعرض الجلسة
+Show terminal size in columns and lines in the center of window after resizing,Afficher la taille du terminal en lignes et en colonnes au centre de la fenêtre après un redimensionnement,Größe des Terminals in Spalten und Zeilen nach einer Größenänderung mittig im Fenster anzeigen,أظهر حجم الطرفية كأعمدة وصفوف في وسط النافذة بعد تغيير الحجم
+"Show the menubar, overriding the default setting",Afficher la barre de menus en écrasant la configuration par défaut,Menüleiste entgegen der Voreinstellung anzeigen,أظهر شريط القوائم، متجاوزًا الإعداد الافتراضي
+Show the scroll bar on the left side of the terminal window,Afficher la barre de défilement sur le côté gauche de la fenêtre de terminal,Zeigt die Bildlaufleiste auf der linken Seite des Terminalfensters an,اعرض شريط التمرير على يسار نافذة الطرفية
+Show the scroll bar on the right side of the terminal window,Afficher la barre de défilement sur le côté droit de la fenêtre de terminal,Zeigt die Bildlaufleiste auf der rechten Seite des Terminalfensters an,اعرض شريط التمرير على يمين نافذة الطرفية
+"Show the tabbar, overriding the default setting",Afficher la barre des onglets en écrasant la configuration par défaut,Unterfensterleiste entgegen der Voreinstellung anzeigen,أظهر شريط الألسنة، متجاوزًا الإعداد الافتراضي
+Show window title on the titlebar,Afficher le titre de la fenêtre dans la barre de titre,Fenstertitel in der Titelleiste anzeigen,أظهر عنوان النافذة في شريط العنوان
+Show window title set by escape sequence on the titlebar,Afficher le titre de la fenêtre défini par la séquence d'échappement dans la barre de titre,"Fenstertitel, der durch die Escape-Sequenz festgelegt ist, in der Titelleiste anzeigen",أظهر عنوان النافذة الذي تم تعيينه بواسطة تسلسل الهروب على شريط العنوان
+Show:,Afficher :,Anzeigen:,أظهر:
+Shrink Font,Réduire la police,Schrift verkleinern,قلص الخط
+Shrink View,Réduire la vue,Ansicht verkleinern,عرض مقلص
+Silence in '%1' (Session '%2'),Silence de « %1 » (Session « %2 »),Keine Aktivität in „%1“ (Sitzung „%2“),سكوت في '%1' (الجلسة '%2')
+Size of each marker (as a percentage of scrollbar length):,Taille de chaque marqueur (En pourcentage de la longueur de la barre de défilement) :,,حجم كل علامة (كنسبة مئوية من طول شريط التمرير):
+Size:,Taille :,Größe:,الحجم:
+Size: %1 x %2,Taille : %1 x %2,Größe: %1 × %2,القياس: %1 × %2
+Small,Petit,Klein,صغير
+Smooth fonts,Polices lissées,Kantenglättung für Schriftarten,خطوط ناعمة
+Solaris console,Console Solaris,Solaris-Konsole,لوحة تحكم سولاريز
+Solaris support and history,Prise en charge de « Solaris » et historique,Solaris-Unterstützung und Arbeit am Verlaufsspeicher,دعم سولاريس والتاريخ
+Solarized,Solarisé,Solarisiert,شمسي
+Solarized Light,Lumière solarisée,Solarisiert hell,ضوء شمسي
+"Some terminal applications have mouse support, this allows them to get it by default. It can be toggled on/off while running as well.",Certaines applications de terminaux prennent en charge la souris. Elles peuvent ainsi la mettre en œuvre par défaut. Elles peuvent également activer / désactiver la souris pendant l'exécution.,"Einige Terminalanwendungen haben Mausunterstützung, so dass sie diese standardmäßig erhalten können. Sie kann auch während der Ausführung ein- und ausgeschaltet werden.",بعض تطبيقات الطرفية تدعم الفأرة، هذا الخيار سيسمح تمكينها بشكل افتراضي. يمكن تشغيل أو تعطيل هذه الميزة أثناء التشغيل أيضا.
+Split View,Scinder la vue,Ansicht teilen,افصل العرض
+Split View Automatically,Scinder automatiquement la vue,Ansicht automatisch teilen,افصل العرض آلياً
+Split View Automatically from next tab,Scinder automatiquement la vue à partir du prochain onglet,Ansicht automatisch teilen,افصل العرض آلياً من اللسان التالي
+Split View Left-Right,Scinder la vue gauche / droite,Ansicht Links/Rechts teilen,افصل العرض يمين-يسار
+Split View Left/Right,Scinder la vue gauche / droite,Ansicht Links/Rechts teilen,افصل العرض يمين/يسار
+Split View Left/Right from next tab,Scinder la vue gauche / droite à partir du prochain onglet,Ansicht Links/Rechts teilen,افصل العرض يمين/يسار من اللسان التالي
+Split View Top-Bottom,Scinder la vue haut / bas,Ansicht Oben/Unten teilen,افصل العرض فوق-تحت
+Split View Top/Bottom,Scinder la vue haut / bas,Ansicht Oben/Unten teilen,افصل العرض فوق/تحت
+Split View Top/Bottom from next tab,Scinder la vue haut / bas à partir du prochaine onglet,Ansicht Oben/Unten teilen,افصل العرض فوق/تحت من اللسان التالي
+Splits,Séparateurs,Geteilte Ansicht,التّجزئات
+Start Konsole in fullscreen mode,Démarrer Konsole en mode plein écran,Konsole im Vollbildmodus starten,ابدأ كونسول في وضع ملء الشاشة
+Start Konsole in the background and bring to the front when Ctrl+Shift+F12 (by default) is pressed,Démarrer Konsole en arrière-plan et l'afficher lorsque la touche « Ctrl+Maj+F12 » (par défaut) est utilisée,"Konsole im Hintergrund starten und hervorholen, wenn Strg+Umschalt+F12 (Voreinstellung) gedrückt wird",ابدأ كونسول في الخلفية و أحضره إلى الأمام عن ضغط مفتاح Ctrl+Shift+F12 (مبدئيا)
+Start in same directory as current session,Démarrer dans le même dossier que la session actuelle,Im selbem Ordner als aktuelle Sitzung starten,ابدأ بنفس الدليل الموجود في الجلسة الحالية
+Stephan Binner,Stephan Binner,Stephan Binner,Stephan Binner
+Stephan Kulow,Stephan Kulow,Stephan Kulow,Stephan Kulow
+Stop Auto Save,Arrêter l'enregistrement automatique,,أوقف الحفظ تلقائي
+Stopping autosave due to switching of screens.,Arrêt de l'enregistrement automatique en raison du changement d'écrans.,,إيقاف الحفظ التلقائي بسبب تبديل الشاشات.
+Stretch,Étirer,Strecken,ممدد
+Substitute/Suspend: may suspend current process,Substituer /Suspendre : peut suspendre le processus actuel,Ersatz/Aussetzen: kann den laufenden Prozess aussetzen,بديل/ معلق: قد يوقف العملية الحالية
+Supported Images,Images prises en charge,Unterstützte Bilder,الصور المدعومة
+Sven Fischer,Sven Fischer,Sven Fischer,Sven Fischer
+Switch Profile,Changer de profil,&Profil wechseln,بدِّل الوَضع
+Switch to Last Tab,Passer au dernier onglet,Zum letzten Unterfenster wechseln,انتقل إلى آخر لسان
+Switch to Tab %1,Passer à l'onglet %1,Zu Unterfenster „%1“ wechseln,انتقل إلى اللسان %1
+System Bell,Cloche du système,Signalton des Systems,جرس النظام
+System Notifications,Notifications du système,Systembenachrichtigungen,إخطارات النّظام
+System temporary directory (%1),Dossier temporaire du système (%1),Temporärer Ordner des Systems (%1),دليل النظام المؤقت (%1)
+Tab Bar / Splitters,Barre d'onglets / Séparateurs,Unterfensterleiste / Geteilte Ansicht,شريط اللسان / فواصل
+Tab Co&lor:,Cou&leur de l'onglet :,Unterfensterfarbe:,ل&ون اللسان:
+Tab Monitoring,Surveillance des onglets,Überwachung der Unterfenster,مراقبة الألسنة
+Tab Properties,Propriétés de l'onglet,Unterfenster-Eigenschaften,خصائص اللسان
+Tab Titles,Titres des onglets,Unterfenster-Beschriftungen,عناوين الألسنة
+Tab title format used when a remote command (e.g. connection to another computer via SSH) is being executed,"Format du titre d'un onglet sur lequel est exécuté une commande distante (c'est-à-dire, une connexion à une autre machine au travers de SSH)","Beschriftungsformat für Unterfenster, die einen Fernzugriffs-Befehl ausführen (z. B. zur Verbindung mit einem entfernten Rechner via SSH).",تنسيق عنوان اللسان عندما ينفذ أمر بعيد (على سبيل المثال اتصال بحاسوب آخر عن طريق SSH )
+Table characters BiDi mode override,Annulation du mode « BiDi » de caractères de table,,تجاوز وضع أحرف الجدول ثنائي الاتجاه
+Tabs,Onglets,Unterfenster,الألسنة
+Temporary Files,Fichiers temporaires,Temporäre Dateien,الملفّات المؤقّتة
+Terminal contents,Contenus du terminal :,Terminal-Inhalte,محتويات الطرفية
+Terminal emulator,Émulateur de terminal,Terminal-Emulator,محاكي الطرفية
+Test Area,Zone de test,Testbereich,مساحة اختبار
+Text Editor Command:,Commande pour l'éditeur de texte :,Texteditorbefehl:,أمر محرّر نصوص:
+Text Editor Custom Command,Commande pour la personnalisation de l'éditeur de texte,Benutzerdefinierter Texteditorbefehl,أمر محرر النصوص المخصص
+Text editor to use when opening text file URLs at a given line/column.,L'éditeur de texte à utiliser pour l'ouverture des « URL » de fichier de texte à une ligne / colonne donnée.,Texteditor für das Öffnen von URLs von Textdateien an angegebener Zeile/Spalte.,محرر نصوص لاستخدامه عند فتح عناوين URL للملفات النصية في سطر / عمود معين.
+Text interaction,Interaction de texte,Text-Interaktion,تفاعل النص
+Text recognized as a file will be underlined when hovered by the mouse pointer.,Le texte reconnu comme un ficher sera souligné lors d'un survol par le pointeur de la souris.,"Text, der als Datei-Verknüpfung erkannt wird, wird beim darüberfahren mit dem Mauszeiger unterstrichen werden.",النص المكتشف بأنه ملف سيسطر عند تحليق مؤشر الفأرة فوقه.
+"Text recognized as a file, link or an email address can be opened by direct mouse click.","Le texte reconnu comme un fichier, un lien ou une adresse de courrier électronique peut être ouvert directement par un clic de souris.","Text, der als Datei-Verknüpfung, Verknüpfung oder E-Mail-Adresse erkannt wird, kann durch einen direkten Mausklick geöffnet werden.",النص المكتشف بأنه ملف أو رابط أو عنوان بريد إلكتروني يمكن أن يُفتَح بالنقر المباشر بالفأرة.
+Text recognized as a link or an email address will be underlined when hovered by the mouse pointer.,Le texte reconnu comme un lien ou une adresse de courrier électronique sera souligné lors d'un survol par le pointeur de la souris.,"Text, der als Datei-Verknüpfung oder E-Mail-Adresse erkannt wird, wird beim darüberfahren mit dem Mauszeiger unterstrichen werden.",النص المكتشف بأنه رابط أو عنوان بريد إلكتروني سيتم تسطيره عند تحليق مؤشر الفأرة فوقه.
+Text:,Texte :,Text:,نص:
+Thanks to many others.,Remerciements aux nombreux autres contributeurs.,Der Dank geht noch an viele weitere!,والشكر موصول إلى آخرين.
+The .css file to use for the tab bar style,Le fichier .css à utiliser pour le style de la barre des onglets,Die „.css“-Datei für den Stil der Unterfensterleiste,ملف css. الذي سيُستخدَم لشكل شريط الألسنة
+"The D-Bus methods sendText/runCommand were just used.  There are security concerns about allowing these methods to be public.  If desired, these methods can be changed to internal use only by re-compiling Konsole.  This warning will only show once for this Konsole instance.","Les méthodes « sendText / runCommand » de « D-Bus » viennent juste d'être utilisées. Il y a des soucis de sécurité à autoriser ces méthodes à être publiques. Si vous le souhaitez, ces méthodes peuvent être changées pour un usage interne seulement en recompilant Konsole.  Cet avertissement ne sera affiché qu'une seule fois pour cette instance de Konsole.","Die D-Bus-Methoden sendText/runCommand wurden soeben benutzt. Diese Methoden öffentlich nutzen zu können ruft Sicherheitsbedenken hervor. Sie können bei Bedarf auf interne Verwendung beschränkt werden, indem Konsole neu kompiliert wird.  Diese Warnung wird nur einmal in dieser Konsole-Sitzung angezeigt.",استخدمت طريقة D-Bus sendText / runCommand للتو. هناك مخاوف أمنية بشأن السماح بأن تكون هذه الأساليب عامة. إذا رغبت في ذلك ، يمكن تغيير هذه الطرق إلى الاستخدام الداخلي فقط عن طريق إعادة تجميع كونسول.   سيظهر هذا التحذير مرة واحدة فقط لمثيل كونسول هذا. 
+The background transparency setting will not be used because your desktop does not appear to support transparent windows.,Impossible d'utiliser la transparence de l'arrière-plan car votre bureau ne semble pas gérer ce type de fenêtre.,"Die Einstellungen zur Hintergrund-Transparenz werden nicht verwendet, weil Ihre Arbeitsfläche anscheinend keine transparenten Fenster unterstützt.",لن يتم استخدام إعدادات الخلفية الشفافة بسبب أن سطح  مكتبك لا يدعم النوافذ الشفافة فيما يبدو.
+The command to execute when new terminal sessions are created using this profile,Commande à exécuter lorsque que de nouvelles sessions de terminal sont créées avec ce profil,"Der Befehl, der ausgeführt werden soll, wenn neue Terminal-Sitzungen mit diesem Profil erzeugt werden",الأمر مراد تنفيذه عند إنشاء جلسة طرفية جديدة باستخدام هذه التشكيلة
+"The format is e.g. 'editorExec PATH:LINE:COLUMN'
+
+PATH    will be replaced by the path to the text file
+LINE    will be replaced by the line number
+COLUMN  (optional) will be replaced by the column number
+Note: you will need to replace 'PATH:LINE:COLUMN' by the actual
+syntax the editor you want to use supports; e.g.:
+gedit +LINE:COLUMN PATH
+
+If PATH or LINE aren't present in the command, this setting
+will be ignored and the file will be opened by the default text
+editor.","Le format est, par exemple, « editorExec PATH : LINE : COLUMN »
+
+Le paramètre « PATH » sera remplacé par l'emplacement du fichier de texte.
+Le paramètre « LINE » sera remplacé par le numéro de ligne.
+Le paramètre optionnel « COLUMN » sera remplacé par le numéro de colonne.
+Remarque : vous devriez remplacer « PATH : LINE : COLUMN » par la syntaxe
+courante prise en charge par l'éditeur que vous voulez utiliser, par exemple :
+gedit +LINE : COLUMN PATH
+
+Si les paramètres « PATH » ou « LINE » sont absents dans la commande, ce paramétrage
+sera ignoré et le fichier sera ouvert avec l'éditeur de texte
+par défaut.","Das Format ist z.B. 'editorExec PFAD:ZEILE:SPALTE'
+
+PFAD wird durch den Pfad zur Textdatei ersetzt
+ZEILE wird durch die Zeilennummer ersetzt
+SPALTE (optional) wird durch die Spaltennummer ersetzt
+Hinweis: Sie müssen 'PFAD:ZEILE:SPALTE' durch die tatsächliche Syntax
+ersetzen, die der Editor, den Sie verwenden wollen, unterstützt; z. B.:
+gedit +ZEILE:SPALTE PFAD
+
+Wenn PFAD oder ZEILE im Befehl nicht vorhanden sind, wird
+diese Einstellung ignoriert und die Datei wird mit dem Standardtext
+Editor geöffnet.","التنسيق على سبيل المثال 'اسم المحرر المسار:السطر:العمود'
+
+المسار    سيستبدل بالمسار إلى ملف النص
+السطر    سيتبدل برقم السطر
+العمود  (اختياري) سيستبدل برقم العمود
+ملاحظة: ستحتاج إلى استبدال 'المسار:السطر:العمود' بالقواعد
+التي يدعمها المحرر الذي ترغب به؛ على سبيل المثال:
+gedit +السطر:العمود المسار
+
+إذا لم يكن المسار أو السطر موجودا في الأمر ؛ فإن هذه الإعدادات
+ستتجاهل ويفتح الملف بالمحرر النصي
+المبدئي."
+"The formats of possible links, like http://, https:// and file://","Les formats des liens possibles comme « http:// », « https:// » et « file:// ».","Das Format möglicher Verknüpfungen wie zum Beispiel http://, https:// und file://",التنسيقات المحتملة للوصلات، مثل http:// و https:// و file://
+The highlighted characters are invalid in profile names: %1.,Les caractères mis en évidence sont non valables dans les noms de profils : %1.,,المحارف المبرزة غير صالحة في اسم التشكيلات: %1.
+The hostname of the server,Le nom d'hôte du serveur,Der Rechnername des Servers,اسم مضيف للخادم
+The initial working directory for new terminal sessions using this profile,Le dossier initial de travail pour les nouvelles sessions de terminal utilisant ce profil,"Dies ist der Startordner für neue Sitzungen, die mit diesem Profil erzeugt werden.",دليل العمل المبدئي لجلسات الطرفية التي تستخدم هذه التشكيلة
+The name of this entry on the list,Le nom de cette entrée dans la liste.,Der Name dieses Eintrags in der Liste,اسم هذه المدخلة في القائمة
+The number of pixels between two lines,Le nombre de pixels entre deux lignes,Die Anzahl der Pixel zwischen zwei Zeilen,عدد البكلسات بين كل سطرين
+"The port of the server, 22 is the default for ssh connections",Le port du serveur 22 est celui par défaut pour les connexions « ssh ».,"Der Port des Servers, 22 ist der Standard für SSH-Verbindungen",منفذ الخادوم، 22 هو المنفذ المبدئي لاتصالات ssh
+The private key,La clé privée,Der private Schlüssel,المفتاح الخاص
+The private key to be used for this connection,La clé privée à utiliser pour cette connexion.,"Privater Schlüssel, der für diese Verbindung verwendet wird",المفتاح الخاص الذي سيستخدم لهذا الاتصال
+The process '%1' has finished running in session '%2',Le processus « %1 » s'est terminé dans la session « %2 »,Der Prozess „%1“ in der Sitzung „%2“ wurde beendet,انتهت العملية '%1' من العمل في الجلسة '%2'
+The profile to be active when the ssh session starts,Le profil devant être actif quand la session « ssh » démarre.,"Das Profil, das beim Start der SSH-Sitzung aktiv sein soll",التشكيلة التي ستنشط عندما تبدأ جلسة ssh
+The program '%1' in this session would not die.  Are you sure you want to kill it by force?,Le programme « %1 » de cette session ne veut pas être arrêté. Voulez-vous vraiment forcer l'arrêt ?,"Das Programm „%1“ in dieser Sitzung kann nicht beendet werden. Sind Sie sicher, dass Sie das Beenden erzwingen möchten?",لن يتوقف البرنامج '%1' في هذه الجلسة. هل أنت متأكد من أنك تريد إيقافه بالقوة؟
+The program '%1' is currently running in this session.  Are you sure you want to close it?,Le programme « %1 » est actuellement lancé dans cette session. Voulez-vous vraiment la fermer ?,"In dieser Sitzung läuft gerade das Programm „%1“. Sind Sie sicher, dass sie geschlossen werden soll?",البرنامج '%1' يعمل حاليا في هذه الجلسة. أمتأكد أنك تريد إغلاقها؟
+The shell prompt is displayed in session '%1',Le prompt du shell est affiché dans la session « %1 ».,,محث الصدفة معروض في الجلسة '%1'
+"The text you're trying to paste contains hidden control characters, do you want to filter them out?",Le texte que vous essayez de coller contient des caractères de contrôle cachés. Voulez-vous les filtrer ?,"Der Text, den Sie einfügen möchten, enthält ausgeblendete Kontrollzeichen, möchten Sie sie ausfiltern?",يحتوي النص الذي تحاول لصقه على أحرف تحكم مخفية، هل تريد تصفيتها؟
+The threshold for continuous silence to be detected by Konsole,Le seuil exprimé en secondes pour la détection par Konsole d'un silence,"Der Grenzwert für Inaktivität in Sekunden, die Konsole feststellen soll",عتبة السكون المستمر ليكتشفها كونسول
+The username for the connection,Le nom d'utilisateur pour la connexion,Benutzername für die Verbindung,اسم المستخدم للاتصال
+The window size will be saved upon exiting Konsole,La taille de la fenêtre sera enregistrée à la fermeture de Konsole,Speichert die Fenstergröße beim Beenden von Konsole,سيُحفَظ حجم النافذة عند الخروج من كونسول
+There are %1 open terminals in this window. Do you still want to quit?,Cette fenêtre contient %1 terminaux ouverts. Voulez-vous vraiment quitter ?,In diesem Fenster gibt es noch %1 geöffnete Terminals. Möchten Sie dennoch beenden?,يوجد %1 طرفيات مفتوحة ، هل أنت متأكد أنك تريد الخروج؟
+"There are some errors on the script, do you really want to run it?",Il y a plusieurs erreurs dans ce script. Voulez-vous vraiment le lancer ?,"Das Skript weist einige Fehler auf, wollen Sie es wirklich ausführen?",يوجد عدة أخطاء في هذا السكربت، هل ترغب حقاً في تشغيله؟
+This color scheme uses a transparent background which does not appear to be supported on your desktop,Ce modèle de couleurs possède un arrière-plan transparent qui ne semble pas être géré par votre bureau.,"Dieses Farbschema verwendet einen transparenten Hintergrund, der von Ihrem System scheinbar nicht unterstützt wird.",هذا المخطط اللوني يستخدم خلفية شفافة والتي لا يدعمها سطح مكتبك فيما يبدو.
+This terminal is read-only.,Ce terminal est en lecture seule.,Dieses Terminal ist schreibgeschützt.,الطرفية للقراءة فقط
+Thomas Dreibholz,Thomas Dreibholz,Thomas Dreibholz,Thomas Dreibholz
+Thomas Surrel,Thomas Surrel,Thomas Surrel,Thomas Surrel
+Threshold for continuous silence:,Seuil du silence continu :,Grenzwert für anhaltende Inaktivität:,عتبة السكون المستمر:
+Thumbnail Width,Largeur de la vignette,Vorschaubreite,عرض المصغرة
+Thumbnails,Vignettes,Vorschaubilder,المصغّرات
+Tile,Tuile,Kacheln,قطعة
+Title,Titre,Bezeichnung,العنوان
+Title can not be empty or blank,Le titre ne peut être vide ou blanc.,Der Titel darf nicht leer sein,لا يجب أن يكون العنوان فارغًا
+To the &right of terminal area,Vers la d&roite de la zone du terminal,Unterha&lb der Terminalfenster,إلى &يمين منطقة الطرفية
+To the left of terminal area,Vers la gauche de la zone du terminal,Unterha&lb der Terminalfenster,إلى شمال منطقة الطرفية
+Toggle Background Window,Inverser la fenêtre d'arrière-plan,Hintergrundfenster umschalten,بدِّل النافذة الخلفية
+Toggle Between Two Tabs,Basculer entre deux onglets,Umschalten zwischen zwei Unterfenstern,بدّل بين لسانيين
+Toggle line numbers display,Basculer ou non l'affichage des numéros de ligne,Anzeige von Zeilennummern ein-/ausschalten,بدّل بين عرض أرقام الأسطر
+Toggle maximize current view,Maximiser / Réduire la vue actuelle,Maximieren der aktuellen Ansicht umschalten,بدّل تكبير العرض الحالي
+Toggle semantic hints display,Basculer ou non l'affichage de astuces sémantiques,Anzeige von semantischen Hinweise ein-/ausschalten,بدّل بين إظهار التلميحات الدلالية
+Toggle zoom-maximize current view,Basculer ou non la vue courante en taille maximale,Maximieren der aktuellen Ansicht umschalten,بدّل أقصى تكبير للعرض الحالي
+Tomaz Canabrava,Tomaz Canabrava,Tomaz Canabrava,Tomaz Canabrava
+Tooltip,Infobulle,Kurzinfo,التلميحة
+Top,Haut,Oben,أعلى
+Treat table drawing characters as strong LTR.,Traiter les caractères de dessin de la table comme une LTR fort.,,تعامل مع أحرف رسم الجدول على أنها حروف من اليسار إلى اليمين قوية.
+Trim leading spaces,Éliminer les espaces superflus au début,Voranstehende Leerzeichen abschneiden,اقتطع الفراغات السابقة
+"Trim leading spaces in selected text, useful in some instances","Éliminer les espaces superflus au début du texte sélectionné, utile dans certains cas","Entfernt voranstehende Leerzeichen von ausgewähltem Text, das ist manchmal nützlich",اقتطع الفراغات السابقة في النص المحدد، مفيد في بعض الحالات
+Trim trailing spaces,Éliminer les espaces superflus,Anhängende Leerzeichen abschneiden,اقتطع الفراغات اللاحقة
+"Trim trailing spaces in selected text, useful in some instances","Éliminer les espaces superflus dans le texte sélectionné, utile dans certains cas","Entfernt anhängende Leerzeichen von ausgewähltem Text, das ist manchmal nützlich",اقتطع الفراغات اللاحقة في النص المحدد، مفيد في بعض الحالات
+Triple-click selects:,Sélection par triple clic :,Auswahl mit Dreifachklick:,النقر الثلاثي يحدد:
+Un-named Color Scheme,Modèle de couleurs sans nom,Unbenanntes Farbschema,مخطط لوني غير مسمى
+Underline,Souligné,Unterstrichen,تسطير
+Underline files,Souligner les fichiers,Dateien unterstreichen,تسطير الملفات
+Underline links,Souligner les liens,Verknüpfungen unterstreichen,تسطير الوصلات:
+Up/Down Arrows emulation,Émulation des flèches vers le haut et vers le bas,Pfeil nach oben und unten emulieren,محاكاة أسهم أعلى/أسفل
+Update,Mise à jour,Aktualisieren,حدّث
+Use Alt to display a thumbnail,Utiliser la touche « ALT » pour afficher une vignette,"Verwendet die Alt-Taste, um eine Vorschau anzuzeigen",استخدم Alt لعرض المصغرة
+Use Ctrl to display a thumbnail,Utiliser la touche « CTRL » pour afficher une vignette,"Verwendet die Strg-Taste, um eine Vorschau anzuzeigen",استخدم Ctrl لعرض المصغرة
+Use Shift to display a thumbnail,Utiliser la touche « Maj » pour afficher une vignette,"Verwendet die Umschalttaste, um eine Vorschau anzuzeigen",استخدم Shift لعرض المصغرة
+"Use a custom, fixed color for the cursor",Utiliser une couleur définie et personnalisée du curseur,"Verwendet eine feste, benutzerdefinierte Farbe für den Cursor",استخدم لون مؤشر ثابت و مخصص
+Use a user-defined .css file for the tab bar,Utiliser un fichier .css personnalisé pour la barre des onglets,Benutzerdefinierte „.css“-Datei für Unterfensterleiste verwenden,استخدم ملف .css معرّف من قبل المستخدم لشريط علامات التبويب
+Use current window size on next startup,Utiliser la taille de la fenêtre actuelle au prochain démarrage,Aktuelle Fenstergröße beim nächsten Start verwenden,استخدم حجم النافذة الحالية عند بدء التشغيل
+Use line characters contained in font,Utiliser les caractères de lignes contenus dans la police,Zeilenzeichen aus Schrift verwenden,استخدم محارف السطر المضمنة في الخط
+Use the built-in profile instead of the default profile,Utiliser un profil intégré à la place du profil par défaut,Das integrierte Profil anstelle des Standardprofils verwenden,استخدم التشكيلة المضمنة عوضا عن التشكيلة المبدئية
+Use the same attributes for whole word,Utiliser les mêmes attributs que le mot entier,,استعمل نفس السمات لكامل الكلمة
+Use the selected font for line characters instead of the builtin code,Utiliser la police sélectionnée pour les caractères de ligne plutôt que le code intégré,Ausgewählte Schrift anstatt des eingebauten Codes für Zeilenzeichen verwenden,استخدم الخط المحدد محارف السطر بدلاً من الرمز المدمج
+Use the selected font for unicode Braille characters instead of the builtin code,Utiliser la police sélectionnée pour les caractères Braille Unicode plutôt que le code intégré,Ausgewählte Schrift anstatt des eingebauten Codes für Zeilenzeichen verwenden,استخدم الخط المحدد محارف يونيكود برايل بدلاً من الرمز المدمج
+Use unicode Braille characters contained in font,Utiliser les caractères Braille Unicode contenus dans la police,Zeilenzeichen aus Schrift verwenden,استخدم محارف يونكود برايل المضمنة في الخط
+Use user-defined stylesheet:,Utiliser un style personnalisé :,Benutzerdefinierte Stilvorlage verwenden:,استخدم صفحة أسلوب معرفة من قبل المستخدم:
+Use ~/.ssh/config for key,Utilisez « ~/.ssh/config » comme clé,~/.ssh/config für den Schlüssel verwenden,استخدم ~/.ssh/config للمفتاح
+User Name: %u,Nom d'utilisateur : %u,Benutzername: %u,اسم المستخدم: %u
+User Name@ (if given): %U,Nom d'utilisateur@ (si renseigné) : %U,Benutzername@ (sofern angegeben): %U,اسم المستخدم @ (إذا معطى): %U
+User Signal &1,Signal de l'utilisateur &1,Benutzer-Signal &1,إشارة المستخدم &1
+User Signal &2,Signal de l'utilisateur &2,Benutzer-Signal &2,إشارة المستخدم &2
+User cache directory (%1),Dossier du cache de l'utilisateur (%1),Zwischenspeicher-Ordner des Benutzers (%1),استخدم دليل الخبيئة (%1)
+User's Bourne prompt sigil: %B,Sigle d'invite Bourne de l'utilisateur : %B,Benutzerzeichen der Bourne-Eingabeaufforderung: %B,موجة بورن سيجل الخاصة بالمستخدم: %B
+Username,Nom d'utilisateur,Benutzername,اسم المستخدم
+Vertical,Vertical,Senkrecht,رأسي
+Vertical Anchor:,Ancrage vertical :,Senkrechte Ausrichtung:,التثبيت العمودي:
+View,Affichage,Ansicht,اعرض
+Visual Bell,Cloche visuelle,Sichtbares Signal,الجرس المرئي
+Visual effects,Effets visuels,Optische Effekte,تأثيرات مرئية
+Waldo Bastian,Waldo Bastian,Waldo Bastian,Waldo Bastian
+Wallpaper flip:,Basculement du fond d'écran :,Hintergrundbild spiegeln:,عكس الخلفية:
+Wallpaper scaling:,Dimensionnement du fond d'écran :,Hintergrundbild-Skalierung:,حجم الخلفية:
+Wallpaper transparency:,Transparence du fond d'écran :,Hintergrundbild-Transparenz:,شفافية الخلفية:
+Warning:,Avertissement :,Achtung:,تحذير:
+Warnings,Avertissements,Warnungen,التّحذيرات
+Warnings (*),Avertissements (*),Warnungen (*),التّحذيرات (*)
+Warwick Allison,Warwick Allison,Warwick Allison,Warwick Allison
+Web Search,Recherche Web,Web-Suche,بحث الوِب
+When &URL hints show,Lorsque les conseils d'&URL s'affichent,Wenn URL-Hinweise angezeigt werden,عند عرض تلميحة ال&عنوان
+When URL hints show,Lorsque les indications d'URL affichent,Wenn URL-Hinweise angezeigt werden,عند عرض تلميحة العنوان
+When launching Konsole re-use existing process if possible,"En démarrant Konsole, réutiliser le processus existant si possible","Beim Start von Konsole vorhandene Prozesse verwenden, falls möglich",عند بدء تشغيل كونسول ، أعد استخدام العملية الحالية إن أمكن
+When needed,Si nécessaire,Wenn nötig,عند الحاجة
+When positioning the mouse over a hexadecimal color it will be displayed in a frame next to the mouse pointer,"Lors du passage de la souris au-dessus d'une couleur hexadécimale, elle sera affichée dans un cadre à côté du pointeur de souris.","Wenn die Maus über eine hexadezimale Farbe bewegt wird, wird diese in einem Rahmen neben dem Mauszeiger angezeigt",عند وضع الفأرة فوق لون سداسي عشري ، سيتم عرضه في إطار بجوار مؤشر الفأرة
+"When using this option, the scrollback data will be saved to RAM. If you choose a huge value, your system may run out of free RAM and cause serious issues with your system.","En utilisant cette option, les données d'historique seront enregistrées en mémoire vive. Si vous choisissez une valeur gigantesque, votre système pourrait se retrouver à court de mémoire et causer de sérieux problèmes.","Wenn Sie diese Einstellung verwenden, wird der Verlaufsspeicher im RAM abgelegt. Bei einem sehr großen Wert kann Ihrem System der freie Speicher ausgehen, was zu schwerwiegenden Problemen führen kann.",عند استخدام هذا الخيار ، سيتم حفظ بيانات التمرير في ذاكرة الوصول العشوائي. إذا اخترت قيمة كبيرة، فقد ينفد نظامك من ذاكرة الوصول العشوائي المتاحة ويسبب مشكلات خطيرة في نظامك.
+"When using this option, the scrollback data will be written unencrypted to temporary files. Those temporary files will be deleted automatically when Konsole is closed in a normal manner.Use Settings → Configure Konsole → Temporary Files to select the location of the temporary files.","Lorsque vous utilisez cette option, les données de l'historique seront enregistrées de façon non chiffrée dans des fichiers temporaires. Ceux-ci seront supprimés automatiquement lorsque Konsole sera fermé de manière normale.Veuillez utiliser Configuration / Configurer Konsole / Fichiers temporaires pour sélectionner l'emplacement des fichiers temporaires.","Wenn Sie diese Einstellung verwenden, werden die Verlaufsdaten unverschlüsselt in temporären Dateien gespeichert. Diese temporären Dateien werden automatisch beim normalen Beenden von Konsole gelöscht.Verwenden Sie Einstellungen→Konsole einrichten ...→Temporäre Dateien, um den Speicherort der temporären Dateien auszuwählen.",عند استخدام هذا الخيار، ستُحفَظ بيانات التمرير للخلف غير معماة إلى ملفات مؤقتة. ستُحذَف هذه الملفات آليًّا عندما يُغلق كونسول بطريقة اعتيادية.  استخدم  إعدادات ← ضبط كونسول ← الملفات المؤقتة  لتحديد موقع الملفات المؤقتة
+White on Black,Blanc sur noir,Weiß auf Schwarz,أبيض على أسود
+Window Title Set by Shell: %w,Titre de la fenêtre défini par le terminal : %w,Durch Shell gesetzter Fenstertitel: %w,عنوان النافذة الذي تضبطه الصدفة: %w
+Window:,Fenêtre :,Fenster:,النافذة:
+Word characters:,Caractères de mots :,Wortzeichen:,محارف الكلمة:
+Word mode,Mode « Mot »,,نمط الكلمة
+"You are about to delete %1, are you sure?",Vous êtes sur le point de supprimer %1. Voulez-vous vraiment le supprimer ?,"Sie sind dabei, %1 zu löschen, sind Sie sicher?",أنت على وشك حذف  %1، هل أنت متأكّد؟
+"You are about to delete the folder %1,
+ with multiple SSH Configurations, are you sure?","Vous êtes sur le point de supprimer le dossier %1,
+avec plusieurs configurations « SSH ». Voulez-vous vraiment le supprimer ?","Sie sind dabei, den Ordner %1 mit mehreren SSH-Konfigurationen zu löschen, sind Sie sicher?","أنت على وشك حذف المجلد %1 
+يحوي المجلد على ملفات ضبط متعددة لـ SSH،  أما زلت متأكّد؟"
+"You are about to delete the group %1,
+ with multiple configurations, are you sure?","Vous êtes sur le point de supprimer le groupe %1, 
+avec plusieurs configurations. Voulez-vous vraiment le supprimer ?","Sie sind dabei, die Gruppe %1 
+mit mehreren Konfigurationen zu löschen, sind Sie sicher?","أنت على وشك حذف مجموعة %1 
+مع العديد من الإعدادات،  أما زلت متأكّد؟"
+You can't delete an automatically added entry.,Vous ne pouvez supprimer une entrée ajoutée automatiquement.,Sie können einen automatisch hinzugefügten Eintrag nicht löschen.,لا يمكنك حذف مدخلة مضافة آليا.
+Your username,Votre nom d'utilisateur,Ihr Benutzername,اسم المستخدم الخاص بك
+ZModem Progress,Progression de « ZMODEM »,ZModem-Fortschritt,تقدّم ZModem
+[Default],[Par défaut],[Standard],[المبدئيّ]
+[Read-only],[Lecture seule],[Nur lesen],[للقراءة فقط]
+force LTR line direction,Forcer la direction de ligne de gauche à droite (LTR),LTR-Zeilenrichtung erzwingen,أجبر أن يكون السطر من اليسار إلى اليمين
+json layoutfile to be loaded to use for new Konsole instance,Fichier « json » de disposition devant être chargé pour utiliser une nouvelle instance de Konsole,"JSON-Layoutdatei, das für die neue Konsole-Instanz verwendet wird",ملف json layoutfile ليتم تحميله لاستخدامه لنسخة كونسول جديدة
+macOS,macOS,macOS,ماك اوس
+ms,ms,,م‌ث
+px,px,px,بكسل

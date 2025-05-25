@@ -1,0 +1,104 @@
+English,French,German,Arabic
+Edit,Édition,Bearbeiten,تحرير
+ through  occurrences, à  occurrences, bis  Vorkommen,تكرار من  إلى 
+Generating file list: ...%1,Génération de la liste de fichiers : %1,Dateiliste wird generiert ... %1,يولد قائمة الملفّات: ...%1
+ Enable regular expressions. Find help for regex syntax by using the buttons in the search and replace text fields., Activer les expressions rationnelles. Obtenez de l'aide au sujet de la syntaxe des expressions rationnelles en utilisant les boutons des champs de recherche et de remplacement de texte., Reguläre Ausdrücke aktivieren. Hilfe zur Syntax vonerhalten Sie mit den Knöpfen in den Textfeldern Suchen und Ersetzen., تمكين التعبيرات النمطية. ابحث عن مساعدة لبناء التعابير النمطية باستخدام الأزرار في البحث واستبدال حقول النص.
+Add new search tab,Ajouter un nouvel onglet de recherche,Neues Suchen-Unterfenster hinzufügen,أضف لسان بحث جديد
+Add...,Ajouter...,Hinzufügen ...,أضف...
+Any single character (excluding line breaks),N'importe quel caractère (à l'exclusion des sauts de ligne),Alle Zeichen (außer Zeilenumbrüche),أيّ محرف مفرد (عدا كاسر الأسطر)
+Beginning of line,Début de ligne,Zeilenanfang,بداية السّطر
+Clear,Effacer,Leeren,امسح
+Click to filter through results,Cliquez pour filtrer les résultats,"Klicken, um Ergebnisse zu filtern",انقر لترشح النتائج
+"Comma separated list of file types to search in. Example: ""*.cpp,*.h""","Liste séparée par des virgules, des types de fichiers dans lesquels effectuer une recherche. Exemple : « *.cpp,*.h »","Durch Kommata getrennte Liste von Dateiarten, in denen gesucht werden soll. Beispiel: ""*.cpp,*.h""","قائمة بأنواع الملفّات للبحث عنها مفصولة بفواصل. مثال: ‎""*.cpp,*.h"""
+"Comma separated list of files and directories to exclude from the search. Example: ""build*""","Liste séparée par des virgules, des fichiers et des dossiers à exclure de la recherche. Exemple : « build* »","Durch Kommata getrennte Liste von Dateien und Ordnern, die von der Suche ausgeschlossen werden. Beispiel: ""build*""","قائمة ملفّات وأدّلة لاستثنائها من البحث مفصولة بفواصل. مثال: ‎""build*""‎"
+Continuing from first match,Continuer depuis la première correspondance,Bei erstem Treffer fortfahren,يتابع من أوّل مطابقة
+Continuing from last match,Continuer depuis la dernière correspondance,Bei letztem Treffer fortfahren,يتابع من آخر مطابقة
+Copy Matching Lines,Copier les lignes avec correspondance,Passende Zeilen kopieren,انسخ الأسطر المتطابقة
+Copy all,Tout copier,Alle kopieren,انسخ الكلّ
+Copy expanded,Copier de façon élargie,Ausgeklappte kopieren,النسخ موسع
+Cut Matching Lines,Couper les lignes avec correspondance,Passende Zeilen ausschneiden,قص الأسطر المتطابقة
+Digit,Chiffre,Ziffer,رقميّ
+End of line,Fin de ligne,Zeilenende,نهاية السّطر
+Exclude:,Exclure :,Ausschließen:,استثنِ:
+Expand results,Développer les résultats,Ergebnisse erweitern,وسّع النّتائج
+Export Pattern,Exporter le motif,Muster exportieren,صدر النمط
+Export Search Result Matches,Exporter les correspondances résultant de la recherche,Suchergebnistreffer exportieren,صدر نتيجة البحث
+Export matches,Exporter les correspondances,Übereinstimmungen exportieren,صدر المتطابقات
+Filter:,Filtre :,Filter:,رشّح:
+Filter…,Filtrer…,Filter:,المرشّح…
+Find,Chercher,Suchen,اعثر
+Find in Files,Trouver dans les fichiers,In Dateien suchen,ابحث في الملفّات
+Find in Files (in a New Tab),Rechercher dans les fichiers (Dans un nouvel onglet),In Dateien suchen (in neuem Unterfenster),ابحث في الملفّات (في لسان جديد)
+Find in Files Variants,Trouver par les variants de fichiers,Suchaktionen in Dateien,ابحث في تنويعات الملفات
+Folder:,Dossier :,Ordner:,المجلّد:
+Follow symbolic links,Suivre les liens symboliques,Symbolischen Verknüpfungen folgen,اتبع الوصلات الرّمزيّة
+Generate,Générer,Generieren,ولّد
+Generating file list: ...%1,Génération de la liste de fichiers : %1,Dateiliste wird generiert: ... %1,يولد قائمة الملفّات: ...%1
+Go one folder up.,Remonte d'un dossier.,Eine Ordnerebene hoch navigieren.,اصعد مجلّدًا واحدًا لأعلى.
+Go to Next Match,Aller à la correspondance suivante,Zum nächsten Treffer springen,انتقل إلى المطابقة التّالية
+Go to Previous Match,Aller à la correspondance précédente,Zum vorherigen Treffer springen,انتقل إلى المطابقة السّابقة
+"Group, capturing","Groupe, capture","Unterausdruck, einfangend",مجموعة لاقطة
+"Group, non-capturing","Groupe, sans capture","Unterausdruck, nicht-einfangend",مجموعة غير لاقطة
+In All Open Projects,Dans tous les projets ouverts,In allen geöffneten Projekten,في كلّ المشاريع المفتوحة
+In Current File,Dans le fichier en cours,In der aktuellen Datei,في الملفّ الحاليّ
+In Current Project,Dans le projet en cours,Im aktuellen Projekt,في المشروع الحاليّ
+In Folder,Dans un dossier,In Ordner,في المجلّد
+In Open Files,Dans les fichiers ouverts,In geöffneten Dateien,في الملفّات المفتوحة
+Include binary files,Inclure les fichiers binaires,Binärdateien einschließen,ضمّن الملفّات الثّنائيّة
+Include hidden,Inclure les fichiers cachés,Versteckte Dateien einbeziehen,ضمّن المخفيّ
+Line break,Saut de ligne,Zeilenumbruch,كاسر أسطر
+Literal dot,Point littéral,Literaler Punkt (.),نقطة حرفية
+Lookahead,Assertion avant,Vorwärtsreferenz,طالع أمامًا
+Lower-cased capture 0-9,Capture 0-9 en minuscules,Klein geschriebene Gruppierung 0-9,التقط حروف صغيرة 0-9
+Lower-cased capture 0-999,Capture 0-999 en minuscules,Klein geschriebene Gruppierung 0-999,التقط حروف صغيرة 0-999
+MB,Mo,,م.بايت
+Match case,Respecter la casse,Groß-/Kleinschreibung beachten,طابق الحالة
+Negative lookahead,Assertion avant négative,Negative Vorwärtsreferenz,طالع خلفًا
+Negative set of characters,Ensemble négatif de caractères,Negative Zeichengruppe,مجموعة سالبة من المحارف
+Next,Suivant,Weiter,التّالي
+Next from cursor,Suivant à partir du curseur,Nächster Treffer ab Cursor-Position,التالي من المؤشر
+Non-digit,Non-chiffre,Keine Ziffer,غير رقميّ
+Non-whitespace (excluding line breaks),Caractère autre qu'un espace (à l'exclusion des sauts de ligne),Nicht-Leerraum (ohne Zeilenumbrüche),ليست مسافة (عدى كاسر الأسطر)
+Non-word character,Caractère autre qu'un mot,Nichtwort-Zeichen,محرف غير كلميّ
+Not word boundary,Pas de limite de mot,Nichtwort-Grenze,ليست حدود الكلمة
+One or more occurrences,Une occurrence ou plus,Ein oder mehrere Vorkommen,تكرار واحد أو  أكثر
+Open as Editor Tab,Ouvrir comme un onglet d'éditeur,Als Editor-Unterfenster öffnen,افتح كلسان المُحرِر
+Or,Ou,Oder,أو
+Recursive,Récursivement,Rekursiv,تكراريّ
+Regular expression capture 0 (whole match),Capture 0 de l'expression rationnelle (correspondance complète),Regulärer Ausdruck Gruppierung 0 (vollständige Übereinstimmung),تعبير نمطي يلقط 0 (كامل التطابق)
+Regular expression capture 0-999,Capture 0-999 de l'expression rationnelle,Regulärer Ausdruck Gruppierung 0-999,تعبير نمطي يلقط 0-999
+Regular expression capture 1-9,Capture 1-9 de l'expression rationnelle,Regulärer Ausdruck Gruppierung 1-9,تعبير نمطي يلقط 1-9
+Replace,Remplacer,Ersetzen,استبدل
+Replace Checked,Remplacer les éléments cochés,Markierte ersetzen,استبدل المُعلمة
+Result,Résultat,Ergebnis,النتيجة
+Search,Chercher,Suchen,ابحث
+Search & Replace,Chercher et remplacer,Suchen und Ersetzen,ابحث واستبدل
+Search As You Type,Rechercher pendant votre saisie,Während der Eingabe suchen,ابحث وأنت تكتب
+Search Match,Rechercher une correspondance,Such-Übereinstimmung,تطابق البحث
+Search in current tab; press and hold Ctrl to search in a new tab.,Rechercher dans l'onglet courant. Veuillez appuyer sur la touche « CTRL » et la maintenir enfoncée pour rechercher dans un nouvel onglet.,,ابحث في اللسان الحالي؛ اضغط مع الاستمرار على Ctrl للبحث في لسان جديد.
+Search was not started as directory '%1' to search in doesn't exist.,La recherche n'a pas été affichée car le répertoire « %1 » dans lequel  doit s'effectuer la recherche n'existe pas.,,لم يبدأ البحث لأن الدليل '%1' المراد البحث فيه غير موجود.
+Search: %1,Rechercher : %1,Suchen: %1,ابحث: %1
+Searching while you type was interrupted. It would have taken too long.,La recherche instantanée a été interrompue. Elle aurait pris trop de temps.,"Die Suche bei der Eingabe wurde abgebrochen, da sie zu lange dauern würde.",قوطع البحث أثناء الكتابة. كان يمكن أن يستغرق وقتا طويلا.
+Set of characters,Ensemble de caractères,Zeichengruppe,مجموعة محارف
+Show more search options,Afficher plus d'options de recherche,Weitere Sucheinstellungen anzeigen,اعرض المزيد من خيارات البحث
+Size limit,Limite de taille,,حدّ الحجم
+Starting from first match,Continuer à partir de la première correspondance,Bei erstem Treffer beginnen,يبدأ من أوّل مطابقة
+Starting from last match,Démarrage à partir de la première correspondance,Bei letzten Treffer beginnen,يبدأ من أخر مطابقة
+Stop,Arrêter,Anhalten,أوقف
+Tab,Tabulation,Tabulator,محرف جدولة
+This will copy all highlighted search match lines in the current document to the clipboard,Cela copiera toutes les lignes correspondantes de recherche en surbrillance du document actuel vers le presse-papier.,,سيؤدي ذلك إلى نسخ جميع السطور المطابقة للبحث من المستند الحالي إلى الحافظة
+This will cut all highlighted search match lines from the current document to the clipboard,Cela coupera toutes les lignes de recherche en surbrillance du document actuel vers le presse-papier.,,سيؤدي ذلك إلى قص جميع السطور المطابقة للبحث من المستند الحالي إلى الحافظة
+Upper-cased capture 0-9,Capture 0-9 en majuscules,Groß geschriebene Gruppierung 0-9,التقط حروف كبيرة 0-9
+Upper-cased capture 0-999,Capture 0-999 en majuscules,Groß geschriebene Gruppierung 0-999,التقط حروف كبيرة 0-999
+Usage: grep [pattern to search for in folder],Utilisation : grep [motif à chercher dans un dossier],"Befehlsformat: grep [Muster, nach dem im Ordner gesucht werden soll]",الاستخدام: grep [النمط للبحث عنه في المجلّد]
+Usage: newGrep [pattern to search for in folder],Utilisation : newGrep [motif à chercher dans un dossier],"Befehlsformat: newGrep [Muster, nach dem im Ordner gesucht werden soll]",الاستخدام: newGrep [النمط للبحث عنه في المجلّد]
+Usage: newPGrep [pattern to search for in current project],Utilisation : newGrep [motif à chercher dans le projet actuel],"Befehlsformat: newPGrep [Muster, nach dem im aktuellen Projekt gesucht werden soll]",الاستخدام: newPGrep [النّمط للبحث عنه في المشروع الحاليّ]
+Usage: pgrep [pattern to search for in current project],Utilisation : grep [motif à chercher dans le projet actuel],"Befehlsformat: grep [Muster, nach dem im aktuellen Projekt gesucht werden soll]",الاستخدام: pgrep [النّمط للبحث عنه في المشروع الحاليّ]
+Usage: preg [regex pattern to search for in current project],Utilisation : preg [motif d'expression rationnelle à chercher dans le projet actuel],"Befehlsformat: preg [reguläres Muster, nach dem im aktuellen Projekt gesucht werden soll]",الاستخدام: preg [النّمط للبحث عنه في المشروع الحاليّ]
+Usage: search [pattern to search for in open files],Utilisation : search [motif à chercher dans les fichiers ouverts],"Befehlsformat: search [Muster, nach dem in offenen Dateien gesucht werden soll]",الاستخدام: search [النّمط للبحث عنه في الملفّات المفتوحة]
+Use the current document's path.,Utilisez l'emplacement du document actuel.,Aktuellen Dokumentpfad verwenden.,استخدم مسار المستند الحاليّ.
+Whitespace (excluding line breaks),Caractère d'espacement (à l'exclusion des sauts de ligne),Leerraum (ohne Zeilenumbrüche),مسافة (عدى كاسر الأسطر)
+Word boundary,Limite de mot,Wortgrenze,حدود الكلمة
+Word character (alphanumerics plus '_'),Caractère mot (alphanumérique plus « _ »),Wortzeichen (alphanumerisch und „_“),محرف كلميّ (الأبجديّة مع '_')
+Zero or more occurrences,Zéro occurrence ou plus,Kein oder mehrere Vorkommen,لا تكرار أو أكثر
+Zero or one occurrences,Zéro ou une occurrence,Kein oder ein Vorkommen,لا تكرار أو تكرار واحد

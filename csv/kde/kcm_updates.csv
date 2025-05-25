@@ -1,0 +1,15 @@
+English,French,German,Arabic
+After rebooting,Après le re-démarrage,Nach dem Neustart,بعد إعادة التشغيل
+Apply system updates:,Appliquer les mises à jour du système :,Systemaktualisierungen anwenden:,طبق تحديثات النظام:
+Automatically,Ajouter automatiquement,Automatisch,آليا
+Daily,Quotidiennement,Täglich,يوميًّا
+Immediately,Immédiatement,Sofort,فوراٌ
+Manually,Manuellement,Manuell,يدويا
+Monthly,Mensuellement,Monatlich,شهريًّا
+Never,Jamais,Nie,البتة
+Notification frequency:,Fréquence des notifications :,Benachrichtigungsintervall:,تكرار التنبيه:
+Recommended to maximize system stability,Recommandé pour maximiser la stabilité du système,Vorschlag zum Maximieren der Systemstabilität,موصى به لزيادة استقرارية النظام
+"Software updates will be downloaded automatically when they become available. Updates for applications will be installed immediately, while system updates will be installed the next time the computer is restarted.",Les mises à jour de logiciels seront téléchargées automatiquement dès que disponibles. Les mises à jour des applications seront installées immédiatement alors que les mises à jour du système seront installées après un redémarrage de l'ordinateur.,"Software-Aktualisierungen werden automatisch heruntergeladen, wenn sie verfügbar sind. Aktualisierungen für Anwendungen werden sofort installiert, während Aktualisierungen des Systems beim nächsten Neustart des Rechners installiert werden.",ستنزل تحديثات البرامج آليا عندما تصبح متوفرة. وستثبت تحديثات التطبيقات على الفور ، بينما ستثبت تحديثات النظام في المرة التالية التي يعاد فيها تشغيل الحاسوب.
+Update frequency:,Fréquence de mise à jour :,Aktualisierungsintervall:,تكرار التحديث:
+Update software:,Mettre à jour les logiciels :,Software aktualisieren:,حدث التطبيقات:
+Weekly,Hebdomadaire,Wöchentlich,أسبوعيًّا

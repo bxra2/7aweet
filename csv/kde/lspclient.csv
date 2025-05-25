@@ -1,0 +1,115 @@
+English,French,German,Arabic
+LSP Client,Client LSP,LSP-CLient,عميل LSP
+Add imports automatically if needed upon completion,"Ajouter automatiquement des importations, si nécessaire avant terminaison",,أضف الواردات تلقائيًا إذا لزم الأمر عند الانتهاء
+Add parentheses upon function completion,Ajouter des parenthèses pour compléter la fonction,Klammern bei Funktionsabschluss hinzufügen,أضف قوسين عند إكمال الوظيفة
+Allowed && Blocked Servers,Serveurs autorisés et bloqués,,الخوادم المسموح بها والمحظورة
+Automatically Expand Tree,Développer automatiquement l'arborescence,Baum automatisch ausklappen,وسّع الشجرة تلقائيًا
+Automatically expand tree,Développer automatiquement l'arborescence,Baum automatisch ausklappen,وسّع الشجرة آليًا
+Client Settings,Configuration du client,Client-Einstellungen,إعدادات العميل
+Close All Dynamic Reference Tabs,Fermer tous les onglets de référence dynamique,Alle Unterfenster mit dynamischen Referenzen schließen,أغلق جميع الألسنة المرجعية الديناميكية
+Code Action,Action du code,Quelltext-Aktion,إجراء الشفرة
+Collapse All,Tout réduire,Alle einklappen,اطوِ الكل
+Completions:,Achèvements :,Vervollständigungen:,الإكمال:
+Corresponding Header/Source not found,Impossible de trouver l'en-tête / source correspondante,Zugehörigen Header/Quelltext nicht gefunden,لم يعثر على الرأس/المصدر المقابل
+Count declarations when searching for references to a symbol,Compter les déclarations lors de la recherche de références à un symbole,,عدد التصريحات عند البحث عن إشارات إلى رمز
+Declaration: %1,Déclaration : %1,Deklaration: %1,الإعلان: %1
+Default Server Settings,Paramètres serveur par défaut,Standard- Servereinstellungen,إعدادات الخادم المبدئية
+Definition: %1,Définition : %1,Definition: %1,التّعريف: %1
+Delete all entries,Supprimer toutes les entrées,All Einträge löschen,احذف كل المدخلات
+Delete selected entries,Supprimer les entrées sélectionnées,Ausgewählte Einträge löschen,احذف المدخلات المحددة
+Display additional details for symbols,Afficher des détails supplémentaires pour les symboles,Symboldetails anzeigen,اعرض تفاصيل إضافية للرموز
+Do you want the LSP server to be started?  The full command line is:  %1  The choice can be altered via the config page of the plugin.,Voulez-vous que le serveur « LSP » soit lancé ?   La ligne complète de commandes est :  %1  Le choix peut être modifié grâce à la page de configuration du module externe.,,هل تريد بدء تشغيل خادم LSP؟  سطر الأوامر الكامل هو:  %1  يمكن تغيير الاختيار عبر صفحة الضبط الخاصة بالملحق.
+Document outline:,Aperçu du document :,,مخطط الوثيقة:
+Enable inlay hints,Activer les conseils d'incrustation,,تمكين تلميحات البطانة
+Enable semantic highlighting,Activer le surlignement sémantique,Semantische Hervorhebung aktivieren,مكّن الإبراز الدلالي
+Enable signature help with auto completion,Activer l'aide à la signature avec l'auto-complètement,Signaturhilfe mit Autovervollständigung aktivieren,تمكين مساعدة التوقيع في الإكمال الآلي
+Expand All,Tout développer,Alle ausklappen,وسّع الكل
+Expand Macro,Développer une macro,Makro erweitern,وسّع الماكرو
+Expand Selection,Développer une sélection,Auswahl erweitern,توسيع التحديد
+Failed to find server binary: %1,Impossible de trouver un binaire associé au serveur : %1,Der Server kann nicht gestartet werden: %1,فشل في العثور على ملف التنفيذي للخادم: %1
+Failed to parse server configuration '%1': %2,Impossible d'analyser la configuration du serveur « %1 » : %2,Die Einstellung für den Server kann nicht verarbeitet werden: „%1“: %2,فشل في تحليل تكوين الخادم '%1': %2
+Failed to parse server configuration '%1': no JSON object,Impossible d'analyser la configuration du serveur « %1 » : pas d'objet JSON,Die Einstellung für den Server kann nicht verarbeitet werden: „%1“: Kein JSON-Objekt,"فشل في تحليل تكوين الخادم ""%1"": لا كائن JSON"
+Failed to read server configuration: %1,Impossible de lire la configuration du serveur : %1,Die Einstellung für den Server kann nicht gelesen werden: %1,فشل في قراءة ضبط الخادم: %1
+Failed to start server: %1,Impossible de démarrer le serveur : %1,Der Server kann nicht gestartet werden: %1,فشل في بدء تشغيل الخادم: %1
+Filter…,Filtrer...,Filter ...,رشّح…
+Find Implementations,Trouver des implémentations,Implementation suchen,اعثر على  إجراءات التنفيذ
+Find References,Trouver les références,Referenzen suchen,اعثر على المراجع
+Format,Formater,Format,نسّق
+Format on save,Formater durant l'enregistrement,Formatieren beim Speichern,التنسيق عند الحفظ
+Format on typing,Formater lors de la saisie,Formatieren bei der Eingabe,تنسيق عند الكتابة
+Go To,Aller à,Gehe zu,انتقل إلى
+Go to Declaration,Aller à la déclaration,Zur Deklaration gehen,اذهب إلى الإعلان
+Go to Definition,Aller à la définition,Zur Definition gehen,انتقل إلى التّعريف
+Go to Type Definition,Aller à la définition de type,Zur Typ-Definition gehen,انتقل إلى نوع التّعريف
+Highlight,Surlignement,Hervorhebung,إبراز
+Highlight goto location,Mettre en valeur l'emplacement de destination,Zielort hervorheben,إبراز موقع goto
+Highlight target line when hopping to it,Mettre en valeur les lignes cibles quand se positionnant dessus,,إبراز السطر المستهدف عند التنقل إليه
+Highlight: %1,Surlignement : %1,Hervorhebung: %1,إبراز: %1
+Implementation: %1,Implémentation : %1,Implementation: %1,إجراءات التنفيذ: %1
+Include declaration in references,Inclure la déclaration dans les références,Deklaration in Referenzen einschließen,ضمّن إعلان في المراجع
+Incremental document synchronization,Synchronisation incrémentale du document,Inkrementeller Dokument-Abgleich,مزامنة المستندات المتزايدة
+Incrementally synchronize documents with the LSP server,Synchroniser de façon incrémentale les documents avec le serveur « LSP »,,مزامنة المستندات مع خادم LSP
+JSON data is invalid: %1,Les données JSON ne sont pas valables : %1,Die JSON-Daten sind ungültig: %1,بيانات JSON غير صالحة: %1
+JSON data is invalid: no JSON object,Les données JSON ne sont pas valables : aucun objet JSON,Die JSON-Daten sind ungültig: Kein JSON-Objekt,بيانات JSON غير صالحة: لا كائن JSON
+JSON data is valid.,Les données JSON sont valables.,Die JSON-Daten sind gültig,بيانات JSON صالحة.
+LSP,LSP,LSP,LSP
+LSP Client,Client LSP,LSP-CLient,عميل LSP
+LSP Server,Serveur LSP,LSP-Server,خادم LSP
+LSP server does not support symbol outline.,Le serveur « LSP » ne prend pas en charge le contour des symboles.,,لا يدعم خادم LSP مخطط الرمز.
+LSP server start requested,Le serveur « LSP » commence à être sollicité,Start des LSP-Servers erfragt,طلب بدء خادم LSP
+Line: %1:,Ligne : %1 :,Zeile: %1:,السّطر: %1:
+Loading...,Chargement en cours...,Laden ...,يحمّل...
+More Options,Plus d'options,Weitere Einstellungen,خيارات أكثر
+More options,Plus d'options,Weitere Einstellungen,خيارات أخرى
+NOT Restarting,PAS de redémarrage,Kein Neustart,لا إعادة التشغيل
+Navigation:,Navigation :,Navigation:,التّنقّل:
+New name (caution: not all references may be replaced),Nouveau nom (attention : toutes les références ne seront pas forcément remplacées),Neuer Name (Achtung: möglicherweise werden nicht alle Referenzen ersetzt),اسم جديد (تحذير: لا يمكن استبدال جميع المراجع)
+No Actions,Aucune action,Keine Aktionen,لا يوجد إجراءات
+No JSON data to validate.,Aucune donnée JSON à valider.,Keine JSON-Daten zum Überprüfen.,لا توجد بيانات JSON للتحقق منها.
+No LSP server for this document.,Aucun serveur LSP pour ce document.,Es wurde kein LSP-Server für dieses Dokument gefunden.,لا يوجد خادم LSP لهذا المستند.
+No edits,Aucune modification,Keine Bearbeitung,لا يوجد تعديلات
+No results,Aucun résultat,Keine Ergebnisse,لا توجد نتائج
+Not enough results,Pas assez les résultats,Nicht genügend Ergebnisse,لا توجد نتائج كافية
+Please check your PATH for the binary,Veuillez vérifier votre paramètre « PATH » pour vos exécutables,Bitte überprüfen Sie den Pfad zur Programmdatei,يرجى التحقق من المسار إلى الملف التنفيذي
+Present symbols in a hierarchy instead of a flat list,Présenter les symboles dans une hiérarchie au lieu d'une liste à plat,,اعرض الرموز في التسلسل الهرمي بدلاً من قائمة مسطحة
+Question from LSP server,Demande depuis le serveur « LSP »,LSP-Server neu starten,سؤال من خادم LSP
+RangeHighLight,RangeHighLight,Bereich hervorheben,إبراز النطاق
+References: %1,Références : %1,Referenzen: %1,المراجع: %1
+Rename,Renommer,Umbenennen,غيّر الاسم
+Restart All LSP Servers,Redémarrer tous les serveurs « LSP »,Alle LSP-Server neu starten,أعد تشغيل جميع خوادم LSP
+Restart LSP Server,Redémarrer le serveur LSP,LSP-Server neu starten,أعد تشغيل خادم LSP
+Restarting,Redémarrage,Neustart,يعيد التشغيل
+Search and Go to Symbol,Rechercher et aller au symbole,Suchen und zum Symbol gehen,ابحث وانتقل إلى الرمز
+See also %1 for installation or details,Voir aussi %1 pour l'installation ou les détails correspondants.,Siehe auch %1 für Informationen zur Installation und Details,انظر أيضًا %1 للتثبيت أو التفاصيل
+Server Memory Usage,Utilisation de la mémoire pour le serveur,Speicherbelegung des Servers,استخدام ذاكرة الخادم
+Server terminated unexpectedly ... %1 [%2] [homepage: %3],Le serveur s'est interrompue de façon inattendue... %1 [%2] [page d'accueil : %3],Der Server wurde unerwartet beendet ... %1 [%2] [Webseite: %3],أنهي الخادم بشكل غير متوقع ... %1 [%2] [الصفحة الرئيسة: %3]
+Server:,Serveur :,Server:,الخادم:
+Settings File:,Fichiers de paramètres :,Einstellungsdatei:,ملف الإعدادات:
+Show Details,Afficher les détails,Details anzeigen,أظهر التّفاصيل
+Show Diagnostics Notifications,Afficher les notifications de diagnostics,Benachrichtigungen zur Fehlerdiagnose anzeigen,أظهر إخطارات التشخيص
+Show Inlay Hints,Afficher les conseils d'incrustation,,أظهر التلميحات المبطنة
+Show Messages,Afficher les messages,Nachrichten anzeigen,اعرض الرسائل
+Show completions,Afficher les achèvements,Vervollständigungen:,إكمال عرض
+Show function signature when typing a function call,Afficher la signature de la fonction lors de la saisie d'un appel de fonction,,إظهار توقيع الوظيفة عند كتابة مكالمة دالة
+Show hover information,Afficher les informations lors du survol,Information beim Überfahren anzeigen,اعرض معلومات التحويم
+Show information about currently hovered symbol,Afficher les informations concernant le symbole actuellement survolé,,إظهار معلومات حول الرمز الذي تحوم حاليًا
+Show inline docs for selected completion,Afficher les documentations en ligne pour les réalisations sélectionnées,Ausgewählte Dokumentation zur Vervollständigung anzeigen,إظهار مستندات مضمّنة للإنجاز المحدد
+Show lsp completions,Afficher les achèvements « LSP »,Vervollständigungen:,أظهر إكمال LSP
+Show notifications from the LSP server,Afficher les notifications provenant du serveur « LSP »,,عرض الإخطارات من خادم LSP
+Show program diagnostics,Afficher les diagnostics de programmes,Markierungen für Fehlerdiagnose anzeigen,اعرض تشخيص البرنامج
+Show selected completion documentation,Afficher la documentation de complètement sélectionnée,Ausgewählte Dokumentation zur Vervollständigung anzeigen,اعرض توثيق الإكمال المحددة
+Shrink Selection,Réduire une sélection,Auswahl verkleinern,قلّص التّحديد
+Sort Alphabetically,Trier par ordre alphabétique,Alphabetisch sortieren,افرز أبجديًا
+Sort symbols alphabetically,Trier les symboles par ordre alphabétique,Symbole alphabetisch sortieren,افرز الرموز أبجديًا
+Started server %2: %1,Serveur %2 démarré : %1,Server %2 gestartet: %1,بدأ الخادم %2: %1
+Switch Source Header,Basculer l'en-tête de source,Header-Quelltext wechseln,تبديل رأس المصدر
+Symbol Info,Informations sur le symbole,Symbolinformation,معلومات الرمز
+Symbol Outline,Portée du symbole,Funktions-Kurzinfos von Symbolen,مخطط رمز
+Symbols,Symboles,Symbole,الرموز
+Tree Mode,Mode arborescence,Baummodus,وضع الشّجرة
+Type Definition: %1,Définition de type : %1,Typ-Definition: %1,نوع التعريف: %1
+User Server Settings,Utiliser les paramètres du serveur,Server-Einstellungen verwenden,إعدادات الخادم للمستخدم
+"User permanently blocked start of: '%1'.
+Use the config page of the plugin to undo this block.","L'utilisateur a bloqué de façon permanente, le début de : « %1 ». 
+Utilisez la page de configuration du module externe pour annuler ce blocage.",,"قام المستخدم بحظر بداية: '%1' بشكل دائم.
+استخدم صفحة الضبط الخاصة بالملحق للتراجع عن هذا الحظر."

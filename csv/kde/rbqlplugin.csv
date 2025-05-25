@@ -1,0 +1,8 @@
+English,French,German,Arabic
+Add new tab,Ajouter un nouvel onglet,,أضف لسان جديد
+Document is empty,Le document est vide,,المستند فارغ
+Enter RBQL query,Saisir une requête « RBQL »,,أدخل استعلام RBQL
+Execute query,Lancer une requête,,نفّذ استعلام
+Failed to get separator for current document. Not a CSV/TSV doc?,Impossible d'obtenir un séparateur dans le document courant. Est-ce un document CSV/TSV ?,,فشل الحصول على فاصل للمستند الحالي. ليس مستند CSV/TSV؟
+File has header,Le fichier possède une en-tête,,ملف كترويسة
+RBQL,RBQL,RBQL,RBQL

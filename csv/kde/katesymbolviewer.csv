@@ -1,0 +1,47 @@
+English,French,German,Arabic
+Settings,Configuration,Einstellungen,إعدادات
+Always display symbols in tree mode,Toujours afficher les symboles en mode arborescent,Symbole in der Baumansicht immer anzeigen,اعرض الرّموز في وضع الشّجرة دائمًا
+Always sort symbols,Toujours trier les symboles,Symbole immer sortieren,افرز الرّموز دائمًا
+Automatically expand nodes in tree mode,Développer automatiquement les nœuds en mode arborescence,Knoten in der Baumansicht automatisch ausklappen,وسّع العقد آليًّا في وضع الشّجرة
+Classes,Classes,Klassen,الأصناف
+Defines,Définitions,Definitionen,التّعريفات
+Display functions parameters,Afficher les paramètres des fonctions,Funktionsparameter anzeigen,اعرض معاملات الدّالة
+Expand Tree,Ouvrir l'arborescence,Baum ausklappen,وسع الشجرة
+File type: %1,Type de fichier : %1,Dateityp: %1,نوع الملف: %1
+Filter…,Filtrer...,Filter ...,رشّح…
+Functions,Fonctions,Funktionen,الدّوال
+Globals,Globales,Globals,العموميّات
+Macros,Macros,Makros,الماكروهات
+Modules,Modules,Module,الوحدات
+Namespaces,Espaces de noms,Namensräume,نطاقات الأسماء
+Params,Paramètres,Parameter,المعاملات
+Parser Options,Options d'analyse syntaxique,Parser-Einstellungen,خيارات المحلّل
+Position,Position,Position,الموضع
+Pragmas,Pragmas,Pragmas,تعليمات Pragma
+Show Classes,Afficher les classes,Klassen anzeigen,أظهر الأصناف
+Show Functions,Afficher les fonctions,Funktionen anzeigen,أظهر الدّوال
+Show Macros,Afficher les macros,Makros anzeigen,أظهر الماكروهات
+Show Methods,Afficher les méthodes,Methoden anzeigen,أظهر دوال الأصناف
+Show Modules,Afficher les modules,Module anzeigen,أظهر الوحدات
+Show Parameters,Afficher les paramètres,Parameter anzeigen,أظهر المعاملات
+Show Params,Afficher les paramètres,Parameter anzeigen,أظهر المعاملات
+Show Pragmas,Afficher les directives de compilation « pragma »,Pragmas anzeigen,أظهر تعليمات Pragma
+Show Sorted,Afficher trié,Sortiert anzeigen,أظهر المفروزة
+Show Structures,Afficher les structures,Strukturen anzeigen,أظهر البنى
+Show Subroutines,Afficher les sous-programmes,Subroutinen anzeigen,أظهر الرّوتينات الفرعيّة
+Show Tags,Afficher les balises,Tags anzeigen,أظهر الوسوم
+Show Templates,Afficher les modèles,Templates anzeigen,أظهر القوالب
+Show Uses,Afficher les utilisations,Vorkommen anzeigen,أظهر الاستخدامات
+Show Variables,Afficher les variables,Variablen anzeigen,أظهر المتغيّرات
+"Sorry, not supported yet!","Désolé, non pris en charge pour l'instant !",Dies wird derzeit leider--**- nicht unterstützt,آسفون. غير مدعومة بعد
+Structures,Structures,Strukturen,البنى
+Subroutines,Sous-programmes,Subroutinen,الرّوتينات الفرعيّة
+Symbol List,Liste des symboles,Symbolliste,قائمة الرّموز
+Symbol Viewer,Afficheur de symboles,Symbolansicht,عارض الرّموز
+Symbol Viewer Configuration Page,Page de configuration de l'afficheur de symboles,Konfigurationsseite der Symbolansicht,صفحة ضبط عارض الرّموز
+SymbolViewer,Afficheur de symboles,Symbolansicht,عارض الرّموز
+Symbols,Symboles,Symbole,الرّموز
+Templates,Modèles,Templates,القوالب
+Tree Mode,Mode en arborescence,Baummodus,وضع الشّجرة
+Uses,Utilisations,Uses,الاستخدامات
+Variables,Variables,Variablen,المتغيّرات

@@ -1,0 +1,13 @@
+English,French,German,Arabic
+12 digits (#RRRRGGGGBBBB),12 chiffres (#RRRRGGGGBBBB),12 Stellen (#RRRRGGGGBBBB),12 خانة (#RRRRGGGGBBBB)
+3 digits (#RGB),3 chiffres (#RGB),3 Stellen (#RGB),3 خانات (#RGB)
+6 digits (#RRGGBB),6 chiffres (#RRGGBB),6 Stellen (#RRGGBB),6 خانات (#RRGGBB)
+8 digits (#AARRGGBB),8 chiffres (#AARRGGBB),8 Stellen (#AARRGGBB),8 خانات (#AARRGGBB)
+9 digits (#RRRGGGBBB),9 chiffres (#RRRGGGBBB),9 Stellen (#RRRGGGBBB),9 خانات (#RRRGGGBBB)
+Color Picker,Sélecteur de couleurs,Farbauswahl,منتق الألوان
+Color Picker Settings,Paramètres du sélecteur de couleurs,Farbauswahl-Einstellungen,إعدادات منتق الألوان
+Hex color matching,Correspondance de couleur en hexadécimal,Farbübereinstimmung nach Hexadezimal-Werten,مطابقة الألوان الستة عشر
+Place preview after text color,Positionner l'aperçu après la couleur de texte,Vorschau nach der Textfarbe anzeigen,ضع المعاينة بعد لون النص
+Select Color (Hex output),Sélectionner une couleur (Hexadécimal),Farbe auswählen (Hexadezimale Ausgabe),حدد لون (خرج ستة عشر)
+Show preview for known color names,Afficher un aperçu pour les noms de couleurs connues,Vorschau für bekannte Farbnamen anzeigen,أظهر معاينة لأسماء الألوان المعروفة
+View Color [Read only],Afficher une couleur [Lecture seule],Farbe anzeigen (nur lesbar),اعرض لون [قراءة فقط]

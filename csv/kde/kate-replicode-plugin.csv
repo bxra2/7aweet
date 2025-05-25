@@ -1,0 +1,72 @@
+English,French,German,Arabic
+Active Document Not Found,Impossible de trouver le document actif,Aktives Dokument nicht gefunden,لم يوجد مستند نشط
+Base period:,Période de base :,,فترة الأساس:
+Cannot execute an empty document.,Impossible d'exécuter un document vide.,Es kann kein leeres Dokument ausgeführt werden,لا يمكن تنفيذ مستند فارغ.
+Composite inputs,Entrées de composition,Zusammengesetzte Eingaben,المدخلات المركبة
+Composite outputs,Sorties de composition,Zusammengesetzte Ausgaben,المخرجات المركبة
+Could not find an active document to run.,Impossible de trouver un document actif à exécuter.,Es wurde keine aktive Datei zur Ausführung gefunden.,تعذّر إيجاد مستند نشط لتشغيله.
+Debug,Déboguer,Debug,نقّح
+Debug windows:,Fenêtres de débogage :,Debug-Fenster:,نوافذ التّنقيح:
+Debug:,Déboguer :,Debug:,نقّح:
+Decompile models:,Décompiler les modèles :,Modelle dekompilieren:,نماذج فك:
+Decompile objects:,Décompiler les objets :,Objekte dekompilieren:,كائنات فكية:
+Decompile to file:,Décompiler vers un fichier :,In Datei dekompilieren:,فك الارتباط بالملف:
+Dump models to file:,Exporter les modèles dans le fichier :,Modelle in Datei speichern:,تفريغ النماذج للملف:
+Dump objects to file:,Exporter les objets dans le fichier :,Objekte in Datei speichern:,تفريغ الكائنات للملف:
+Empty Document,Document vide,Leeres Dokument,مستند فارغ
+File Not Found,Fichier introuvable,Datei nicht gefunden,لم يوجد الملفّ
+Float tolerance:,Tolérance des flottants :,,تسامح تعويم:
+Goal monitoring,Surveillance de l'objectif,Zielüberwachung,مراقبة الأهداف
+Goal prediction success resilience:,Résilience du succès de la prédiction d'objectif :,,مرونة نجاح التنبؤ بالهدف:
+Ignore named models:,Ignorer les modèles nommés :,Benannte Modelle ignorieren:,تجاهل النماذج المسماة:
+Ignore named objects:,Ignorer les objets nommés :,Benannte Objekte ignorieren:,تجاهل الأشياء المسماة:
+Maximum simulation time horizon:,Horizon maximum de temps de simulation :,Maximaler Zeithorizont der Simulation:,أقصى أفق وقت المحاكاة:
+Minimum simulation time horizon:,Horizon minimum de temps de simulation :,Minimaler Zeithorizont der Simulation:,أفق وقت المحاكاة الأدنى:
+Model inertia count threshold:,Seuil de compte du modèle à inertie :,,عتبة العد الجمود النموذجية:
+Model inertia success rate threshold:,Seuil de fréquence de succès du modèle à inertie :,,عتبة معدل نجاح القصور الذاتي النموذج:
+Model inputs,Entrées du modèle,,مدخلات النموذج
+Model outputs,Sorties du modèle,,مخرجات النموذج
+Model revision,Révision du modèle,,مراجعة النموذج
+Model/composite injections,Injections de modèle / composite,,النموذج/الحقن المركبة
+Notification marker resilience:,Résilience du marqueur de notification :,,مرونة علامة الإخطار:
+Path to replicode executor:,Emplacement de l'exécutable « replicode » :,Pfad zum Programm „replicode“,مسار تنفيذيّ ريبلكود:
+Perf sampling period:,Fréquence d'échantillonnage de la performance :,,فترة أخذ عينات بيرف:
+Prediction monitoring,Surveillance des prédictions,Prognosenüberwachung,مراقبة التنبؤ
+Primary time horizon:,Horizon de temps primaire :,Primärer Zeithorizont:,أفق الوقت الأساسي:
+Probe level:,Niveau de sonde :,,مستوى التحقيق:
+Reduction core count:,Compte du cœur de réduction :,,عدد نوى التخفيض:
+Replicode,Replicode,Replicode,ريبلكود
+Replicode Config,Configuration du programme « replicode »,Replicode-Einstellung,ضبط ريبلكود
+Replicode Executable Not Found,Impossible de trouver l'exécutable replicode,Das ausführbare Programm Replicode wurde nicht gefunden,لم يوجد تنفيذيّ ريبلكود
+Replicode configuration,Configuration de « replicode »,Replicode-Einrichtung,ضبط ريبلكود
+Replicode execution failed: %1,Erreur lors de l'exécution de replicode : %1,Die Ausführung von Replicode ist fehlgeschlagen: %1,فشل تنفيذ ريبلكود: %1
+Replicode execution finished.,Exécution de replicode terminée.,Die Ausführung von Replicode wurde beendet.,انتهى تنفيذ ريبلكود.
+Run,Exécuter,Ausführen,شغّل
+Run (%1),Exécution (%1),Ausführen (%1),شغّل (%1)
+Run replicode,Exécuter le programme « replicode »,Replicode ausführen,شغّل ريبلكود
+Run time (milliseconds):,Temps d'exécution (milli-secondes) :,Laufzeit (Millisekunden),زمن التّشغيل (بالملّي ثانية):
+Secondary time horizon:,Horizon de temps secondaire :,Sekundärer Zeithorizont:,أفق الوقت الثانوي:
+Simulation time horizon:,Horizon de temps de simulation :,Zeithorizont der Simulation:,أفق وقت المحاكاة:
+Stop (%1),Arrêt (%1),Anhalten (%1),أوقف (%1)
+Stop replicode,Arrêter le programme « replicode »,Replicode anhalten,أوقف ريبلكود
+System,Système,System,النّظام
+Targeted pattern extractor delta success rate threshold:,Seuil du delta de taux de succès d'extraction du motif cible :,,عتبة معدل نجاح دلتا المستهدف المستهدف:
+Targeted pattern extractor time horizon:,Horizon de temps d'extraction du motif cible :,,أفق وقت مستخرج النمط المستهدف:
+Test models:,Modèles de test :,Testmodelle:,نماذج الاختبار:
+Test objects:,Objets de test :,Testobjekte:,اختبار الكائنات:
+Time core count:,Compte du cœur de temps :,,عدد نوى الوقت:
+Timer tolerance:,Tolérance du chronomètre :,,تحمّل المؤقّت:
+Traces:,Traces :,Traces:,الآثار:
+"Unable to find replicode executor.
+Please go to settings and set the path to the Replicode executable.","Impossible de trouver l'exécutable replicode.
+Veuillez ouvrir les paramètres et définir l'emplacement de l'exécutable replicode.","Das Ausführungsprogramm Replicode wurde nicht gefunden.
+Öffnen Sie die Einstellungen und korrigieren Sie den Pfad zum Programm Replicode.","تعذّر إيجاد تنفيذيّ ريبلكود.
+فضلًا انتقل إلى الإعدادات واضبط مسار تنفيذيّ ريبلكود."
+"Unable to find user operator library.
+Please go to settings and set the path to the library.","Impossible de trouver la bibliothèque d'opérateurs personnalisés.
+Veuillez ouvrir les paramètres et définir l'emplacement de la bibliothèque.",,"تعذر العثور على مكتبة مشغل المستخدم.
+يرجى الانتقال إلى الإعدادات وتعيين المسار إلى المكتبة."
+Unable to open source file for reading.,Impossible d'ouvrir le fichier source pour le lire.,Die Quelltextdatei kann nicht zum Lesen geöffnet werden.,تعذّر فتح الملفّ المصدر للقراءة.
+User Operator Library Not Found,Impossible de trouver la bibliothèque d'opérateurs personnalisés,,لم يعثر على مكتبة مشغل المستخدم
+User classes file:,Fichier de classes utilisateur :,,ملفّ أصناف المستخدم:
+User operations layout module:,Module de disposition des opérations utilisateur :,,وحدة تخطيط عمليّات المستخدم:

@@ -1,0 +1,76 @@
+English,French,German,Arabic
+Load Signatures,Charger les signatures,Signaturen laden,حمّل التوقيعات
+Allow PGP keys for signatures (Okular extension),Autoriser les clés « PGP » pour les signatures (Extension de Okular),,اسمح بمفاتيح PGP للتوقيعات (امتداد أوكلار)
+Always,Toujours,,دائمًا
+Automatic,Automatique,,آليّ
+Available Certificates,Certificats disponibles,Verfügbare Zertifikate,الشّهادات المتوفرة
+Certificate Database,Base de données de certificats,Zertifikats-Datenbank,قاعدة الشهادات
+Check revocation of digital signatures' certificates using 3rd-party servers,Vérifier la révocation des certificats utilisés pour la signature numérique en utilisant des serveurs « OCSP » tiers.,Widerruf der digitalen Zertifikate mithilfe von Servern von Drittanbietern überprüfen,تحقق من إبطال شهادات التوقيعات الرقمية باستخدام خوادم خارجية
+Custom:,Personnalisé :,Benutzerdefiniert:,مخصص:
+Default scaling mode when printing:,Mode de mise à l'échelle par défaut pour l'impression :,Standard-Skalierungsmodus beim Drucken:,وضع التحجيم المبدئي عند الطباعة:
+Default:,Par défaut :,Standard:,المبدئيّ:
+E-mail,Courriel,E-Mail,البريد الإلكتروني
+Enable PGP Signatures,Activer les signatures « PGP »,Signaturen laden,مكّن توقيعات PGP
+Enable overprint preview:,Activer un aperçu de sur-impression :,Aufdrucksvorschau aktivieren,فعّل معاينة فوق المطبوع:
+Enabling this option will allow Okular to contact 3rd-party OCSP servers to check if the certificates used for digital signing have been revoked since their creation.,L'activation de cette option permettra à Okular de contacter des serveurs « OCSP » tiers pour vérifier si les certificats utilisés pour la signature numérique ont été révoqués depuis leur création.,"Ist diese Einstellung aktiviert, kontaktiert Okular die OCSP-Server von Drittanbietern um zu überprüfen, ob die für die digitale Unterzeichnung verwendeten Zertifikate seit deren Erstellung widerrufen wurden.",سيسمح تمكين هذا الخيار لأوكلار بالاتصال بخوادم OCSP التابعة لجهات خارجية للتحقق مما إذا كانت الشهادات المستخدمة للتوقيع الرقمي قد تم إبطالها منذ إنشائها.
+Encrypted,Chiffré,Verschlüsselt,مشفّرة
+Enhance thin lines:,Épaissir les lignes fines :,Anzeige dünner Linien verbessern:,حَسِّن الخطوط الرفيعة
+Enter Password,Veuillez saisir le mot de passe,Passwort eingeben,أدخل كلمة السر
+Enter password to open %1:,Veuillez saisir le mot de passe pour ouvrir %1 :,Geben Sie das Passwort zum Öffnen von „%1“ ein:,يرجي إدخال كلمة السر لفتح %1:
+Expiration date,Date d'expiration,Ablaufdatum,تاريخ الانتهاء
+Fit to full page,Ajuster à la page entière,Auf ganze Seite anpassen,لائم إلى كامل الصفحة
+Fit to printable area,Ajuster à la zone imprimable,Auf druckbaren Bereich anpassen,لائم المنطقة المطبوعة
+Force rasterization,Forcer la rastérisation (conversion en image),Rasterung erzwingen,أجبر التحويل
+"Forces the rasterization of each page into an image before printing it. This usually gives somewhat worse results, but is useful when printing documents that appear to print incorrectly.","Forcer la rastérisation (conversion en image) de chaque page avant l'impression. Les résultats obtenus sont en général moins bon, mais cela est utile pour imprimer des documents dont l'impression directe semble incorrecte.","Dies erzwingt das Rastern jeder Seite zu einem Bild, bevor sie gedruckt wird. Normalerweise ergeben sich dadurch schlechtere Ergebnisse; wenn ein Dokument jedoch nicht fehlerfrei gedruckt wird, könnte diese Einstellung hilfreich sein.",أجبر تحويل كل صفحة إلى صورة قبل الطباعة. هذا عادة يعطى نتائج أسوا ولكنه مفيد فى طباعة الملفات التى تطبع بشكل خاطئ.
+Format,Format,Format,التنسيق
+Include annotations in the printed document,Insérer les annotations dans le document imprimé,Anmerkungen in das gedruckte Dokument einfügen,ضَمِّن الحواشي في المستند المطبوع
+Includes annotations in the printed document. You can disable this if you want to print the original unannotated document.,Insère les annotations dans le document imprimé. Vous pouvez désactiver ceci si vous souhaitez imprimer le document original sans annotation.,"Fügt Anmerkungen in das gedruckte Dokument ein. Sie können dies deaktivieren, wenn Sie das Originaldokument ohne Anmerkungen drucken möchten.",ضمِّن الحواشي في المستند المطبوع. عطِّل هذا الخيار إذا كنت تريد طباعة المستند الأصلي غير ذي الحواشي.
+Issued to,Émis pour,Ausgestellt für,أصدر لـ
+Never,Jamais,,البتة
+No,Non,Nein,لا
+None; print original size,Aucun ; imprimer en taille originale,In Originalgröße drucken,بلا، اطبع الحجم الأصلي
+Optimized,Optimisé,Optimiert,محسّن
+PDF,PDF,PDF,بي دي اف
+PDF Backend Configuration,Configuration du moteur PDF,Einstellungen zum Anzeigemodul PDF,ضبط خلفية بي دي اف
+PDF Options,Options « PDF »,PDF-Optionen,خيارات بي دي اف
+PDF v. %1.%2,PDF version %1.%2,PDF v. %1.%2,PDF v. %1.%2
+Print annotations,Imprimer les annotations,Anmerkungen drucken,اطبع الحواشي
+Rasterize into an image before printing,Rastériser (convertir en image) avant l'impression,Vor dem Druck in ein Rasterbild umwandeln,حول إلى صورة قبل الطباعة
+Restart needed,Redémarrage nécessaire,Neustart erforderlich,يلزم إعادة التشغيل
+Scale mode:,Mode de mise à l'échelle :,Skalierungsmodus:,وضع الحجم:
+Scaling mode for the printed pages,Mode de mise à l'échelle pour les pages imprimées,Skalierungsmodus für Druckseiten,وضع التحجيم للصفحات المطبوعة
+Security,Sécurité,Sicherheit,الأمن
+Shape,Forme,Form,الشكل
+Signature backend:,Moteur de signature :,Signaturmodul:,توقيع الخلفية:
+"Signed by: %1
+
+Date: %2","Signé par : %1
+
+Date : %2","Signiert von : %1
+
+Datum: %2","وقع بواسطة: %1
+
+التاريخ: %2"
+Solid,Solide,Einfarbig,صلب
+"Some errors were found in the document, Okular might not be able to show the content correctly",Des erreurs ont été trouvées dans le document. Okular pourrait ne pas être en mesure d'afficher le contenu correctement.,"Es wurden einige Fehler im Dokument gefunden, daher kann die Anzeige des Inhalts fehlerhaft sein.",عثر على بعض الأخطاء في المستند ، قد لا تتمكن اوكلار من إظهار المحتوى بشكل صحيح
+These signatures can only be validated by modern Okular users with GnuPG backend activated,Ces signatures ne peuvent être validées que par les utilisateurs de versions récentes de Okular ayant le moteur GnuPG activé,,لا يمكن التحقق من صحة هذه التوقيعات إلا من قبل مستخدمي أوكلار الحديثين الذين نشطوا خلفية GnuPG لديهم
+These signatures only work between modern versions of Okular with the GnuPG based backend activated,Ces signatures ne fonctionnent qu'entre les versions récentes de Okular ayant  le moteur  reposant sur GnuPG activé,,تعمل هذه التوقيعات فقط بين الإصدارات الحديثة من أوكلار مع تنشيط الواجهة الخلفية المستندة إلى GnuPG
+Unencrypted,Non chiffré,Unverschlüsselt,غير مشفّرة
+Using Poppler %1,Utilisation de Poppler %1,Verwendet Poppler %1,يستخدم Poppler %1
+"Using Poppler %1
+
+Built against Poppler %2","Utilisation de Poppler %1
+
+Construit sur Poppler %2","Verwendet Poppler %1
+
+Gebaut mit Poppler %2","يستخدم Poppler %1
+
+بني على Poppler %2"
+Yes,Oui,Ja,نعم
+"You are using a Poppler library built without NSS support.
+Adding Digital Signatures isn't available for that reason","Vous utilisez actuellement la bibliothèque « Poppler » compilée sans la prise en charge de « NSS ».
+L'ajout de signatures numériques est indisponible pour cette raison.","Sie verwenden eine Poppler-Bibliothek ohne Unterstützung für NSS.
+Daher ist es nicht möglich, digitale Signaturen hinzufügen","أنت تستخدم مكتبة Poppler تم إنشاؤها بدون دعم NSS. 
+لا تتوفر إضافة التوقيعات الرقمية لهذا السبب"
+You need to restart Okular after changing the NSS directory settings,Vous devez redémarrer Okular après modification des paramètres de dossier « NSS ».,Okular muss nach Änderungen des NSS-Ordners neu gestartet werden,تحتاج إلى إعادة تشغيل أوكلار بعد تغيير إعدادات دليل NSS
+forever,pour toujours,,للأبد

@@ -1,0 +1,47 @@
+English,French,German,Arabic
+Cancel Macro Recording,Annuler l'enregistrement de macros,Makroaufnahme abbrechen,ألغ تسجيل الماكرو
+Keyboard Macros,Macros de clavier,Tastaturmakros,وحدات ماكرو لوحة المفاتيح
+Load Named Macro...,Charger une macro nommée...,Benanntes Makro laden ...,حمّل الماكرو المسمى...
+Play Macro,Exécuter une macro,Makro wiedergeben,شغل الماكرو
+Play Named Macro...,Exécuter une macro nommée...,Benanntes Makro wiedergeben ...,شغّل الماكرو المسمى...
+Record Macro...,Enregistrer une macro...,Makro aufnehmen ...,سجّل الماكرو...
+Save Current Macro,Enregistrer la macro courante,Aktuelles Makro speichern,احفظ الماكرو الحالي
+Tools,Outils,Extras,أدوات
+Wipe Named Macro...,Supprimer une macro nommée...,Benanntes Makro löschen ...,امسح الماكرو المسمى...
+Keyboard Macros: %1,Macros de clavier :  %1,Tastaturmakros: %1,وحدات ماكرو لوحة المفاتيح: %1
+ Usage: kmload <name> Load saved keyboard macro <name> as current macro.%1, Utilisation : kmload <name> Charger une macro enregistrée de clavier <name> comme macro courante.%1, Aufruf: kmload <name> Gespeichertes Tastaturmakro <name> als aktuelles Makro laden.%1, الاستخدام: kmload <name> تحميل ماكرو لوحة المفاتيح المحفوظ <name> كماكرو حالي.%1
+ Usage: kmplay <name> Play saved keyboard macro <name> without loading it.%1, Utilisation : kmplay <name> Exécuter la macro enregistrée de clavier <name> sans la charger.%1, Aufruf: kmplay <name> Gespeichertes Tastaturmakro <name> ohne es zu laden wiedergeben.%1, الاستخدام: kmplay <name> تشغيل ماكرو لوحة المفاتيح المحفوظ <name> دون تحميله.%1
+ Usage: kmsave <name> Save current keyboard macro as <name>.%1, Utilisation : kmsave <name> Enregistrer la macro courante de clavier comme <name>.%1, Aufruf: kmsave <name> Aktuelles Tastaturmakro als <name> speichern.%1, الاستخدام: kmsave <name> حفظ ماكرو لوحة المفاتيح الحالي باسم <name>.%1
+ Usage: kmwipe <name> Wipe saved keyboard macro <name>.%1, Utilisation : kmwipe <name> Effacer une macro enregistrée de clavier <name>.%1, Aufruf: kmwipe <name> Gespeichertes Tastaturmakro <name> löschen.%1, الاستخدام: kmwipe <name> مسح ماكرو لوحة المفاتيح المحفوظ <name>.%1
+Can't save macro during recording. Please end recoding first,Impossible d'enregistrer la macro pendant l'enregistrement. Veuillez d'abord mettre fin au recodage.,,لا يمكن حفظ الماكرو أثناء التسجيل. يرجى إنهاء إعادة الترميز أولاً
+Cancel ongoing recording (and keep the previous macro as the current one).,Annuler l'enregistrement en cours (et conserver la macro précédente comme celle courante),Eine laufende Aufnahme abbrechen (und das vorherige Makro als das aktuelle beibehalten).,ألغ التسجيل الجاري (واحتفظ بالماكرو السابق باعتباره التسجيل الحالي).
+Cannot save empty keyboard macro.,Impossible d'enregistrer une macro vide de clavier.,Leeres Tastaturmakro kann nicht gespeichert werden.,لا يمكن حفظ ماكرو لوحة المفاتيح الفارغ.
+Could not load '%1': malformed macro; wiping it.,Impossible de charger « %1 » : macro malformée et macro supprimée.,„%1“ kann nicht geladen werden: ungültiges Makro; wird gelöscht.,تعذر تحميل '%1': ماكرو مشوه؛ جاري مسحه.
+Could not open file '%1'.,Impossible d'ouvrir le fichier « %1 ».,Die Datei „%1“ kann nicht geöffnet werden.,تعذّر فتح الملفّ '%1'.
+End Macro Recording,Terminer l'enregistrement de macro,Makroaufnahme beenden,أنهِ تسجيل الماكرو
+Give a name to the current macro and persistently save it.,Donner un nom à la macro courante et l'enregistrer de façon permanente.,Dem aktuellen Makro einen Namen geben und es dauerhaft speichern.,أعط اسماً للماكرو الحالي واحفظه باستمرار.
+Keyboard Macros,Macros de clavier,Tastaturmakros,وحدات ماكرو لوحة المفاتيح
+Load %1,Charger %1,„%1“ geladen,حمّل %1
+Load a named macro as the current one.,Charger une macro nommée comme celle courante.,Ein benanntes Makro laden und zum aktuellen machen.,حمّل ماكرو مسمى على أنه الماكرو الحالي.
+Load the '%1' macro as the current one.,Charger la macro « %1 » comme celle courante.,Das Makro „%1“ als das aktuelle laden.,حمّل الماكرو '%1' باعتباره الماكرو الحالي.
+Loaded '%1',« %1 » chargé,„%1“ geladen,حمّل '%1'
+Malformed JSON file '%1': %2,Fichier « JSON » malformé « %1 » : %2,Ungültige JSON-Datei „%1“: %2,ملف JSON مشوه '%1': %2
+No keyboard macro named '%1' found.,Aucune macro de clavier nommée « %1 » trouvée.,Kein Tastaturmakro mit Namen „%1“ gefunden.,لم يعثر على ماكرو لوحة المفاتيح المسمى '%1'.
+Play %1,Lire %1,,شغّل %1
+Play a named macro without loading it.,Exécuter une macro nommée sans la charger.,Ein benanntes Makro wiedergeben ohne es zu laden.,شغِّل ماكرو مسمى دون تحميله.
+"Play current macro (i.e., execute the last recorded keyboard action sequence).","Exécuter la macro courante (Par exemple, exécuter la dernière séquence enregistrée d'actions clavier).",Aktuelles Makro wiedergeben (also die zuletzt aufgenommene Tastenfolge ausführen),شغّل الماكرو الحالي (أي تنفيذ آخر تسلسل إجراءات لوحة المفاتيح المسجلة).
+Play the '%1' macro without loading it.,Exécuter la macro « %1 » sans la charger.,Das Makro „%1“ wiedergeben ohne es zu laden.,شغل الماكرو '%1' دون تحميله.
+Record and play keyboard macros.,Enregistrer et lire les macros de clavier.,Tastaturmakros aufnehmen und wiedergeben.,تسجيل وحدات ماكرو لوحة المفاتيح وتشغيلها.
+Recording %1,Enregistrement de %1...,%1 wird aufgenommen,يسجّل %1
+Recording…,Enregistrement...,Aufnahme ...,يسجّل…
+Save current macro as?,Enregistrer la macro courante comme cela ?,Aktuelles Makro speichern als?,هل تحفظ الماكرو الحالي كـ؟
+Saved '%1',« %1 » enregistré,„%1“ gespeichert,حفظ '%1'
+"Start/stop recording a macro (i.e., keyboard action sequence).","Démarrer / Arrêter l'enregistrement d'une macro (Par exemple, une séquence d'action du clavier)",Aufnahme eines Makros (also einer Tastenfolge) starten/beenden,بدء/إيقاف تسجيل ماكرو (أي تسلسل إجراءات لوحة المفاتيح).
+Usage: %1 <name>.,Utilisation : %1 <name>.,Aufruf: %1 <Name>.,استخدم: %1 <name>.
+Wipe %1,Balayer %1,„%1“ gelöscht,امسح %1
+Wipe a named macro.,Supprimer une macro nommée.,Ein benanntes Makro löschen.,امسح ماكرو مسمى.
+Wipe the '%1' macro.,Supprimer la macro « %1 ».,Das Makro „%1“ löschen.,امسح الماكرو '%1'.
+Wipe the '%1' macro?,Supprimer la macro « %1 » ?,Das Makro „%1“ löschen?,هل امسح الماكرو '%1'؟
+Wiped '%1',« %1 » supprimé,„%1“ gelöscht,مسح '%1'
+canceled,annulé,abgebrochen,أُلغي
+ended,terminé,beendet,انتهى

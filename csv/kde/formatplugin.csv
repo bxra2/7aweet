@@ -1,0 +1,21 @@
+English,French,German,Arabic
+"%1 is not installed, please install it to be able to format this document!",%1 n'est pas installé. Veuillez l'installer pour pouvoir formater ce document !,,%1 غير مثبت، الرجاء تثبيته لتتمكن من تنسيق هذا المستند!
+%1: Unexpected empty command!,%1 : commande vide inattendue !,,%1: أمر فارغ غير متوقع!
+Default Settings,Configuration par défaut,,الإعدادات الافتراضية
+Disable formatting on save without persisting it in settings,Désactiver le formatage lors de l'enregistrement sans le mettant à jour dans la configuration,,تعطيل التنسيق عند الحفظ دون استمراره في الإعدادات
+Failed to read settings.json. Error: %1,Impossible de lire le fichier « settings.json ». Erreur : %1,,فشل في قراءة settings.json. الخطأ: %1
+Failed to run formatter. Unsupported language %1,Impossible de lancer le formateur. Langue non prise en charge %1,,فشل تشغيل المنسق. لغة غير مدعومة %1
+Failed to run git diff: %1,Impossible de lancer un « git diff : %1,,فشل تشغيل git diff: %1
+Failed to write a temp file,Impossible d'écrire dans un fichier temporaire,,فشل في كتابة ملف مؤقت
+Format,Format,,التنسيق
+Format Document,Formater un document,,تنسيق المستند
+Format on Save,Format de l'enregistrement,,التنسيق عند الحفظ
+Formatting,Formatage,,التنسيق
+Formatting Settings,Configuration du formatage,,إعدادات التنسيق
+Please install node and prettier,Veuillez installer les paquets « node » et « prettier »,,يُرجى تثبيت node و prettier
+PrettierFormat: Failed to create temporary file,Format de » prettier » : impossible de créer un fichier temporaire,,PrettierFormat: فشل إنشاء ملف مؤقت
+PrettierFormat: Failed to start 'node': %1,Format plus élégant : impossible de démarrer « nœud » : %1,,PrettierFormat: فشل بدء تشغيل 'node': %1
+Unknown formatterForJson: %1,Formateur « json » inconnu : %1,,مُنسيق غير معروف لـJson: %1
+Unknown formatterForPython: %1,Formateur pour Python inconnu : %1,,مُنسِّق غير معروف لـPython: %1
+"Unknown formatterForYaml: %1, falling back to yamlfmt",Module « formatterForYaml » inconnu : %1. Retour au module « yamlfmt ».,,تنسيق غير معروف لـYaml: %1، العودة إلى yamlfmt
+User Settings,Configuration utilisateur,,إعدادات المستخدم

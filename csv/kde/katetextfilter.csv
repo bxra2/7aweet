@@ -1,0 +1,25 @@
+English,French,German,Arabic
+Filter Through Command...,Filtrer à l'aide d'une commande...,Filtern durch Befehl ...,رشح عبر أمر...
+Tools,Outils,Extras,أدوات
+ Usage: textfilter COMMAND Replace the selection with the output of the specified shell command., Utilisation : textfilter COMMANDE Remplace la sélection par la sortie de la commande d'interpréteur spécifiée., Anwendung: textfilter BEFEHL Ersetzt die Auswahl mit der Ausgabe des gewählten Shell-Befehls., الاستخدام: textfilter COMMAND استبدل التّحديد بخرج أمر الصّدفة المحدّد.
+"Result of:$ %1
+%2re>","Résultat de :$ %1
+%2re>","Ergebnis von:$ %1
+%2re>","نتيجة:$ %1
+%2re>"
+Access Restrictions,Restrictions d'accès,Zugriffsbeschränkungen,تقييد على النّفاذ
+Copy the result instead of pasting it,Copier le résultat au lieu de le coller,Das Ergebnis kopieren anstatt es einzufügen,انسخ النّتيجة بدل لصقها
+Copy the result to clipboard leaving a document unchanged.,Copier le résultat vers le presse-papier sans modifier un document.,Kopiert das Ergebnis in die Zwischenablage und lässt das Dokument unverändert.,انسخ النّتيجة إلى الحافظة تاركًا المستند غير معدّل.
+Dialog,Dialogue,Dialog,حواريّ
+Enter command to pipe selected text through:,Saisissez la commande à l'aide de laquelle rediriger le texte sélectionné :,"Bitte geben Sie einen Befehl an, mit dem der Text gefiltert werden soll:",أدخل الأمر لتمرير النّصّ المحدّد عبره:
+Failed to start process,Impossible de démarrer le processus,,فشل في بدء العملية
+"If checked, an output from STDOUT and STDERR will be merged and no errors will be reported.
+Otherwise, STDERR will be displayed as a passive message.","Si cette option est activée, les sorties de « stdout » et « stderr » seront fusionnées et aucune erreur ne sera remontée.
+Sinon, la sortie « stderr » sera affichée comme un message passif.","Ist dies aktiviert, werden die Ausgaben von STDOUT und STDERR zusammengeführt und keine Fehler gemeldet.
+Ansonsten wird die Ausgabe auf STDERR in einem passiven Nachrichtenfenster angezeigt.","إن أُشّر، الخرج من STDOUT وSTDERR سيُدمجان ولن تُبلّغ عن أيّة أخطاء.
+وإلّا فسيُعرض STDERR كرسالة سلبيّة."
+Merge STDOUT and STDERR,Fusionner les sorties « stdout » et « stderr »,STDOUT und STDERR zusammenführen,ادمج STDOUT وSTDERR
+Open results in a new document,Ouvrir les résultats dans un nouveau document,Ergebnisse in neuem Dokument öffnen,افتح النتائج في مستند جديد
+Text Filter,Filtre de texte,Textfilter,رشّح النّصّ
+Usage: textfilter COMMAND,Utilisation : « textfilter COMMANDE »,Anwendung: textfilter BEFEHL,الاستخدام: textfilter الأمر
+"You are not allowed to execute arbitrary external applications. If you want to be able to do this, contact your system administrator.","Vous n'êtes pas autorisé à exécuter des applications externes arbitraires. Si vous voulez être en mesure de le faire, contactez votre administrateur système.","Sie dürfen nicht beliebige externe Programme ausführen. Um dieses Programm dennoch auszuführen, kontaktieren Sie bitte Ihren Systemverwalter.",ليس مسموحًا لك تنفيذ تطبيقات خارجيّة اعتباطيّة. إن أردت فعل ذلك فراسل مدير النّظام.

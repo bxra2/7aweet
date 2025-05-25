@@ -1,0 +1,206 @@
+English,French,German,Arabic
+"""%1"" executed successfully: %2",Lancement de « %1 » effectué avec succès :%2,"""%1"" wurde erfolgreich ausgeführt: %2","شُغّل ""%1"" بنجاح: %2"
+CMake,CMake,,سي ميك
+Fossil,Fossil,,مستحاثة
+Git,Git,Git,مستودعات Git
+Mercurial,Mercurial,Mercurial,مستودعات Mercurial
+Open Containing Folder,Ouvrir le dossier contenant,Ordner mit diesem Inhalt öffnen,افتح المجلّد الحاوي
+Projects,Projets,Projekte,مشاريع
+Rename,Renommer,Umbenennen,غيّر الاسم
+Subversion,Subversion,Subversion,مستودعات Subversion
+"'%1' is not installed on your system, %2.  %3. The tool will be run on all project files which match this list of file extensions: %4","Le paquet « %1 » n'est pas installé sur votre système, %2.  %3. Cet outil sera lancé sur tous les fichiers du projet correspondant à cette liste d'extensions : %4","%1  Das Dienstprogramm wird für alle Projektdateien ausgeführt, deren Dateierweiterung auf dieses Muster passt:  %2",لم يثبت '%1' على نظامك، %2.  %3. سيُشغل الأداة على جميع ملفات المشروع التي تتطابق مع قائمة ملحقات الملفات التالية: %4
+<untracked>,<non suivi>,<untracked>,<غير المتعقّب>
+Activate Next Project,Activer le projet suivant,,فعّل المشروع التالي
+Activate Previous Project,Activer le projet précédent,,فعّل المشروع السابق
+Active branch: %1,Branche active : %1,Aktiver Branch: %1,الفرع النشط: %1
+Amend,Amender,Nachbessern,عدّل
+Amend Last Commit,Amender le dernier commit,Letzten Commit ändern,عدّل آخر إيداع
+Amending Commit,Amendement du commit,Letzter Commit wird geändert,يعدل إيداع
+"Analysis failed with exit code %1, Error: %2","Échec de l'analyse avec le code de sortie %1, erreur : %2.",Die Analyse für %1 Datei ist mit dem Fehlercode %2 fehlgeschlagen.,فشل التحليل مع رمز الخروج %1، الخطأ: %2
+Apply Last Stash,Appliquer la dernière provision,,طبّق آخر تخزين مؤقت
+Apply Stash,Appliquer la réserve,Stash anwenden,طبّق التخزين المؤقت
+Are you sure you want to discard all changes?,Voulez-vous vraiment annuler toutes les modifications ?,Möchten Sie alle Änderungen wirklich verwerfen?,هل أنت متيقن أنك تريد إهمال كل التغييرات؟
+Are you sure you want to discard the changes in this file?,Voulez-vous vraiment annuler les modifications dans ce fichier ?,Möchten Sie die Änderungen in dieser Datei wirklich verwerfen?,هل أنت متأكد أنك تريد تجاهل التغييرات في هذا الملف؟
+Are you sure you want to discard the changes?,Voulez-vous vraiment annuler les modifications ?,Möchten Sie die Änderungen wirklich verwerfen?,هل أنت متأكد أنك تريد تجاهل التغييرات؟
+Are you sure you want to remove these files?,Voulez-vous vraiment supprimer ces fichiers ?,Möchten Sie diese Dateien wirklich entfernen?,هل أنت متأكد أنك تريد إزالة هذه الملفات؟
+Are you sure you want to remove these untracked changes?,Voulez-vous vraiment supprimer ces modifications non tracées ?,,هل أنت متأكد أنك تريد إزالة هذه التغييرات غير المتعقبة؟
+Are you sure you want to remove this file?,Voulez-vous vraiment supprimer ce fichier ?,Möchten Sie diese Datei wirklich entfernen?,هل أنت متأكد أنك تريد إزالة هذا الملف؟
+Autoload Repositories  Build Trees,Charger les dépôts automatiquement et les arborescences de compilation,Quelltextarchive automatisch laden,حمّل مستودعات آليًّا وابنِ الأشجار
+Back,Précédent,Zurück,عُد
+Branch,Branche,Zweig,الفرع
+Branch %1 checked out,Branche %1 extraite,Branch %1 ausgelesen,انتقل إلى الفرع %1
+Cancel,Annuler,Abbrechen,ألغِ
+Cancel Operation,Annuler l'opération,Operation abbrechen,ألغِ العمليّة
+Changes committed successfully.,Les modifications ont été correctement validées.,,أودعت التغييرات بنجاح.
+Changes stashed successfully.,Les modifications ont été correctement rangées.,,خزنت التغييرات مؤقتًا بنجاح.
+Checked out to new branch: %1,Extrait d'une nouvelle branche : %1,,انتقل إلى فرع جديد: %1
+Checkout Branch,Extraire une branche,,الخروج إلى فرع
+Checkout Git Branch,Extraire une branche « git »,,الانتقال إلى فرع غت
+Choose a directory,Sélectionnez un dossier,Wählen Sie einen Ordner,اختر مجلدًا
+Close All Projects,Fermer tous les projets,Projekt schließen,أغلق كل المشاريع
+Close Orphaned Projects,Fermer les projets orphelins,Projekt schließen,أغلق المشاريع اليتيمة
+Close Project,Fermer le projet,Projekt schließen,أغلق المشروع
+Close project,Fermer un projet,Projekt schließen,أغلق المشروع
+Code Analysis,Analyse du code,Quelltext-Analyse,تحليل الكود
+Code Analysis - %1,Analyse du code - %1,Quelltext-Analyse,تحليل الشفرة - %1
+Code Index,Index du code,Quelltext-Index,فهرس الكود
+CodeAnalysis,Analyse du code,Quelltext-Analyse,تحليل الشفرة
+Commit,Valider,Einspielen,أوْدِعْ
+Commit Changes,Valider les modifications,Änderungen einspielen,تغييرات الإيداع
+Commit message cannot be empty.,Le message de validation ne peut être vide.,Die Commit-Nachricht darf nicht leer sein.,رسالة الإيداع لا يمكن أن تكون فارغ…
+Compare Branch with...,Comparer une branche avec...,,قارن الفرع مع...
+Confirm project closing: %1,Confirmer la fermeture du projet : %1,Schließen des Projekts bestätigen: %1,تأكيد إغلاق المشروع: %1
+Conflict,Conflit,Konflikt,تعارض
+Copy Location,Copier un emplacement,Keine Aktion,انسخ المكان
+Create New Branch,Créer une nouvelle branche,Neuen Zweig anlegen,أنشئ فرع جديد
+Create New Branch From...,Créer une nouvelle branche à partir de...,Neuen Branch erstellen von ...,أنشئ فرع جديد من...
+Cross-Project Completion,Complètement inter-projets,Vervollständigung über mehrere Projekte,إكمال عابر للمشاريع
+Cross-Project Functionality,Fonctionnalité inter-projets,Funktionen über mehrere Projekte,وظائف مشتركة بين المشاريع
+Cross-Project Goto Symbol,Symbole de destination pour les déplacements inter-projets,„Gehe zu“-Symbol über mehrere Projekte,رمز الانتقال بين المشاريع
+Delete,Supprimer,Löschen,احذف
+Delete Branch,Supprimer une branche,Zweig wählen ...,احذف الفرع
+Delete File,Supprimer un fichier,Datei löschen,احذف الملفّ
+Diff - stash,Diff - stash,,فرق التخزين المؤقت
+Directory for index files,Dossier pour les fichiers d'index,Ordner für Index-Dateien,الدليل لفهرسة الملفات
+Discard,Abandonner,Verwerfen,أهمِل
+Discard All,Tout ignorer,Alle verwerfen,أهمل الكلّ
+Discard Selected Files,Annuler les fichiers sélectionnés,Ausgewählte Dateien verwerfen,أهمل الملفات المحددة
+Do you want to close the project %1 and the related %2 open documents?,Voulez-vous vraiment fermer le projet %1 et les %2 documents correspondants ouverts ?,Möchten Sie das Projekt %1 die zugehörigen %2 geöffneten Dokumente schließen?,هل تريد إغلاق المشروع %1 والمستندات المفتوحة ذات الصلة %2؟
+Do you want to delete the file '%1'?,Voulez-vous vraiment supprimer le fichier « %1 » ?,Möchten Sie die Datei „%1“ löschen?,هل تريد حذف الملف '%1'؟
+Double click action in the git status view,Action sur un double clic dans l'affichage des états de git,Doppelklick-Aktion in der Git-Statusansicht,إجراء النقر المزدوج في عرض حالة غت
+Drop Stash,Abandonner la réserve,Stash verwerfen,اسقط التخزين المؤقت
+Enable indexing,Activer l'indexation,Indizierung aktivieren,مكن الفهرسة
+Enter name:,Saisissez un nom :,Namen eingeben:,أدخل الاسم:
+Enter new branch name. Press 'Esc' to cancel.,Saisissez le nom d'une nouvelle branche. Appuyez sur « Échap » pour annuler.,,أدخل اسم الفرع. اضغط مفتاح الهروب  'Esc' لتلغي ذلك.
+Error,Erreur,Fehler,خطأ
+Execute a command in the active project's terminal.,Exécutez une commande dans le terminal du projet actif.,,تنفيذ أمر في طرفية المشروع النشط.
+Extended commit description...,Description d'une validation étendue...,Commit-Beschreibung ergänzen ...,وصف مطول للإيداع...
+Failed to apply stash. Error:,Impossible d'appliquer le rangement. Erreur :,,فشل في تطبيق التخزين المؤقت. الخطأ:
+"Failed to checkout to branch %1, Error: %2",Impossible d'extraire la branche %1. Erreur : %2,,فشل الانتقال إلى الفرع %1، الخطأ: %2
+Failed to commit: %1,Impossible de valider : %1,Commit fehlgeschlagen: %1,فشل في إيداع: %1
+Failed to compare %1...%2,Impossible de comparer %1... %2,Fehler beim Vergleich %1...%2,فشل في مقارنة %1...%2
+Failed to create dir: %1,Impossible de créer un dossier : %1,Erstellung des Ordners ist fehlgeschlagen: %1,فشل إنشاء الدليل: %1
+"Failed to create file: %1, Error: %2",Impossible de créer un fichier : %1. Erreur : %2,"Datei kann nicht erstellt werden: %1, Fehlermeldung: %2",فشل إنشاء الملف: %1، الخطأ: %2
+"Failed to create new branch. Error ""%1""",Impossible de créer une nouvelle branche. Erreur « %1 ».,,"فشل في إنشاء فرع جديد. الخطأ  ""%1"""
+Failed to discard changes. Error:,Impossible d'annuler les modifications. Erreur :,"Das Verwerfen der Änderungen ist fehlgeschlagen, die Fehlermeldung lautet:",فشل في تجاهل التغييرات. خطأ:
+Failed to drop stash. Error:,Impossible d'abandonner le rangement. Erreur :,,فشل في إسقاط التخزين المؤقت. الخطأ:
+"Failed to find .git directory for '%1', things may not work correctly",Impossible de trouver un dossier « .git » pour « %1 ». Les choses pourraient ne pas fonctionner correctement.,"„.git“-Ordner wurde nicht gefunden, manches wird möglicherweise nicht richtig funktionieren",فشل في العثور على دليل .git لـ '%1'، قد لا تعمل الأشياء بشكل صحيح
+Failed to get Diff of file: %1,Impossible de réaliser une comparaison des fichiers : %1,,فشل في الحصول على فرق الملف: %1
+Failed to get numstat when diffing %1...%2,Impossible d'obtenir « numstat » lors de comparaison %1... %2,,فشل الحصول على numstat عند مقارنة %1...%2
+Failed to get stash list. Error:,Impossible d'obtenir la liste des rangements. Erreur :,,فشل الحصول على قائمة التخزين المؤقت. خطأ:
+Failed to open file at HEAD: %1,Impossible d'ouvrir le fichier en en-tête : %1,Die Datei kann nicht an HEAD geöffnet werden: %1,فشل في فتح الملف عند الرأس: %1
+Failed to pop stash. Error:,Impossible de différer le rangement. Erreur :,,فشل في إخراج عناصر التخزين المؤقت. الخطأ:
+Failed to remove. Error:,Impossible de supprimer. Erreur :,"Das Entfernen ist fehlgeschlagen, die Fehlermeldung lautet:",فشل في الإزالة. خطأ:
+Failed to stage file. Error:,Impossible de classer un fichier. Erreur :,,فشل في إدراج ملف. الخطأ:
+Failed to stash changes %1,Impossible de ranger les modifications %1,,فشل تخزين المؤقت للتغييرات %1
+Failed to unstage file. Error:,Impossible d'extraire un fichier. Erreur :,,فشل في إلغاء ترحيل ملف. الخطأ:
+File,Fichier,Datei,الملفّ
+File name already exists,Le nom du fichier existe déjà.,Der Dateiname existiert bereits,اسم الملف موجود مسبقًا
+Filter…,Filtrer...,Filter ...,رشّح…
+"Full path to current project excluding the file name, with native path separator (backslash on Windows).","L'emplacement complet du projet actuel en excluant le noms du fichier, avec le séparateur natif (Par exemple, contre-oblique sous Windows)","Vollständiger Pfad des aktuellen Projekts ohne den Dateinamen, mit dem nativen Pfadtrennzeichen (umgekehrter Schrägstrich unter Windows).",المسار الكامل للمشروع الحالي باستثناء اسم الملف، مع وجود المسار الأصلي (شرطة مائلة للخلف على نظام ويندوز).
+Full path to current project excluding the file name.,L'emplacement complet du projet actuel en excluant le nom du fichier.,Vollständiger Pfad des aktuellen Projekts ohne den Dateinamen.,المسار الكامل للمشروع الحالي باستثناء اسم الملف.
+Git,Git,Git,غت
+Git Pull,Git pull,Git pull,سحب غت
+Git Push,git push,Git push,دفع غت
+Goto: %1,Aller : %1,Gehe zu: %1,اذهب إلى: %1
+HEAD at commit %1,HEAD à cette validation %1,Commit fehlgeschlagen: %1,الرأس عند الإيداع %1
+HEAD is at this tag %1,HEAD est à cette balise %1,,الرأس عند هذا الوسم %1
+Indexing is not enabled,L'indexation n'est pas activée.,Indizierung ist nicht aktiviert,الفهرسة غير مفعلة
+Kind,Type,Art,النّوع
+Last Commit,Dernière validation,Letzter Commit,آخر إيداع
+Line,Ligne,Zeile,السّطر
+Lookup,Rechercher,Nachschlagen,البحث
+Lookup: %1,Rechercher : %1,Suchen: %1,ابحث عن: %1
+Malformed JSON file '%1': %2,Fichier « JSON » mal formaté « %1 » : %2,,ملف JSON مشوه '%1': %2
+Modified,Modifié,Geändert,عُدل
+Name,Nom,Name,الاسم
+New File,Nouveau fichier,Datei öffnen,ملفّ جديد
+New File…,Nouveau fichier…,Datei öffnen,ملفّ جديد…
+New Folder,Nouveau dossier,Ordner hinzufügen,مجلّد جديد
+New Folder…,Nouveau dossier...,Ordner hinzufügen,مجلّد جديد…
+No Action,Aucune action,Keine Aktion,لا إجراء
+No cmd provided,Aucun commande fournie,,لا يوجد أمر معطى
+No diff for %1...%2,Aucune différence entre %1...%2,Kein Diff für %1...%2,لا يوجد فرق لـ %1...%2
+Notes,Remarques,Notizen,الملاحظات
+Nothing to commit. Please stage your changes first.,Il n'y a rien à valider. Veuillez tout d'abord ranger vos modifications.,,لا يوجد شيء للإيداع. يجب على ترحيل التغييرات أولا.
+Open Folder...,Ouvrir un dossier...,Ordner öffnen ...,افتح مجلّدًا...
+Open .gitignore,Ouvrir « .gitignore »,.gitignore öffnen,افتح .gitignore
+Open Commit...,Ouvrir un Commit...,Ordner öffnen ...,افتح إيداع...
+Open External Terminal Here,Ouvrir un terminal externe ici,Externes Terminal hier öffnen,افتح طرفية خارجية هنا
+Open File,Ouvrir un fichier,Datei öffnen,افتح ملفًّا
+Open Internal Terminal Here,Ouvrir un terminal intégré ici,Internes Terminal hier öffnen,افتح طرفية داخلية هنا
+Open With,Ouvrir avec,Öffnen mit,افتح ب‍
+Open at HEAD,Ouvrir comme « HEAD »,An HEAD öffnen,افتح عند الرأس
+Open file,Ouvrir un fichier,Datei öffnen,افتح ملفًا
+Open projects list,Ouvrir la liste des projets,Aktuelles Projekt,افتح قائمة مشاريع
+Pop Last Stash,Supprimer du cache,,أخرج أخر تخزين مؤقت
+Pop Stash,Supprimer du cache,,أخرج التخزين المؤقت
+Project,Projet,Projekt,مشروع
+Project Command,Commande du projet,Projekt-Vervollständigung,أمر المشروع
+Project Completion,Achèvement du projet,Projekt-Vervollständigung,إكمال المشروع
+Project Index,Index des projets,Projektindex,فهرس المشروع
+Project Manager,Chef de projet,Kate-Projektverwaltung,مدير المشروع
+Project TODOs,Tâches à faire pour le projet.,Projekte,قائمة مهام المشروع
+Project ctags index settings,Réglages de l'index des « CTag » de projet,Projekteinstellungen für CTags-Indizierung,إعدادات فهرس سي تاغ للمشروع
+Project plugin is able to autoload repository working copies and build trees when there is no .kateproject file defined yet.,"Le module externe de projet est capable de charger automatiquement des copies de travail des dépôts et des arborescences de compilation, même si aucun fichier « .kateproject » n'est encore défini.","Das Projektmodul kann Arbeitskopien von Quelltextarchiven automatisch laden, wenn noch keine „.kateproject“-Datei definiert ist",يمكن لملحقة المشاريع تحميل النُّسخ المحليّة من المستودعات آليًّا وبناء الأشجار عندما لا يكون هناك ملف ‎.kateproject بعد.
+Project plugin is able to perform some operations across multiple projects,Le module d'extension projet est capable d'effectuer certaines opérations sur plusieurs projets,Das Projektmodul kann einige Operationen über mehrere Projekte durchführen,يمكن لملحق المشروع من إجراء بعض العمليات عبر مشاريع متعددة
+Projects,Projets,Projekte,المشاريع
+Projects Index,Index des projets,Projektindex,فهرس مشروع
+Projects Properties,Propriétés du projet,Projekteigenschaften,خصائص المشاريع
+Properties,Propriétés,Eigenschaften,الخصائص
+Refresh,Rafraîchir,Aktualisieren,أنعش
+Refresh git status,Rafraîchir l'état « git »,,أنعش حالة غت
+Reload Project,Recharger un projet,Projekt schließen,أعد تحميل المشروع
+Reload project,Recharger un projet,Projekt schließen,أعد تحميل المشروع
+Remove,Supprimer,Entfernen,أزل
+Remove All,Tout supprimer,Alle entfernen,أزل الكل
+Remove Selected Files,Supprimer les fichiers sélectionnés.,Ausgewählte Dateien entfernen,أزل الملفّات المحدّدة
+Restore Open Projects,Restaurer les projets en cours,Aktuelles Projekt,استعادة المشاريع المفتوحة
+Search,Rechercher,Suchen,ابحث
+Select Branch...,Sélectionner une branche...,Zweig wählen ...,اختر الفرع...
+Select branch to checkout from. Press 'Esc' to cancel.,Sélectionnez la branche à partir de laquelle faire l'extraction. Veuillez appuyer sur « Échap » pour annuler.,,اختر فرع لتخرج منه اضغط مفتاح الهروب  'Esc' لتلغي ذلك.
+Select branch to checkout. Press 'Esc' to cancel.,Sélectionnez la branche à extraire. Veuillez appuyer sur « Échap » pour annuler.,,اختر فرع لتنتقل إليه. اضغط مفتاح الهروب  'Esc' لتلغي ذلك.
+Session Behavior,Comportement de session,,سلوك الجلسة
+Session settings for projects,Configuration des sessions pour les projets,,إعدادات الجلسة للمشاريع
+Show Commit,Afficher un Commit,Einspielen,أظهر إيداع
+Show Diff,Afficher les différences,Diff anzeigen,أظهر الفرق
+Show Git History,Afficher l'historique de Git,Git-Verlauf anzeigen,أظهر تاريخ غت
+Show History,Afficher l'historique,Git-Verlauf anzeigen,اعرض التّاريخ
+Show Last Commit,Afficher la dernière validation,Letzter Commit,أظهر آخر إيداع
+Show Stash Content,Afficher le contenu de la réserve,Stash-Inhalt anzeigen,أظهر محتويات التخزين المؤقت
+Show history,Afficher l'historique de Git,Git-Verlauf anzeigen,اعرض التّاريخ
+Show in External Git Diff Tool,Afficher dans un outil externe de comparaison pour git,In externem Diff-Programm anzeigen,أظهر في أداة فرق غت خارجية
+Show stash failed. Error:,Échec de l'affichage du rangement. Erreur :,,فشل في عرض التخزين المؤقت. الخطأ:
+Sign off,Approuver,Freigeben (Sign off),وقّع
+Single click action in the git status view,Une action sur un simple clic dans l'affichage d'états git,Einfachklick-Aktion in der Git-Statusansicht,إجراء النقر المفرد في عرض حالة غت
+Stage / Unstage,Indexer / Désindexer,,مُعد / غير مُعد
+Stage All,Tout ranger,,رحّل الكل
+Stage File,Organiser un fichier,Datei löschen,ملف مُعد
+Stage Selected Files,Organiser les fichiers sélectionnés,,أدرج الملفات المحددة
+Staged,Organisé,,مدرجة
+Start Analysis...,Démarrer une analyse...,Analyse starten ...,ابدأ التّحليل...
+Stash,Mettre de côté,,التخزين المؤقت
+Stash (Include Untracked),Ranger (Inclusion non suivie),,تخزين مؤقت (بما فيه غير المتعقّب)
+Stash (Keep Staged),Ranger (Conserver rangé),,تخزين مؤقت (حافظ على المدرج)
+Stash applied successfully.,La réserve a été appliquée avec succès.,,نجح في تطبيق التخزين المؤقت.
+Stash dropped successfully.,La réserve a été abandonnée avec succès.,,أسقط التخزين المؤقت بنجاح.
+"Stash message (optional). Enter to confirm, Esc to leave.",Ranger le message (optionnel). Appuyez sur « Entrée » pour confirmer et « Échap » pour quitter.,,رسالة التخزين المؤقت (اختيارية). أدخل للتأكيد ، الضغط على زر الهروب Esc للخروج.
+Stash popped successfully.,La réserve a été empilée avec succès.,,أخرج التخزين المؤقت بنجاح.
+Terminal,Terminal,Terminal (Basisordner),الطرفيّة
+Terminal (Base),Terminal (Base),Terminal (Basisordner),طرفيّة (الأساس)
+Terminal (Build),Terminal (Compilation),Terminal (Basisordner),طرفيّة (البناء)
+Terminal (Project),Terminal (Projet),Terminal (.kateproject),طرفية (المشروع)
+The directory already exists,Le dossier existe déjà.,Der Dateiname existiert bereits,الدليل موجود مسبقًا
+The file already exists,Le fichier existe déjà.,Der Dateiname existiert bereits,الملف موجود فعلًا
+The index could not be created. Please install 'ctags'.,Impossible de créer l'index. Veuillez installer « ctags ».,Der Index kann nicht erstellt werden. Installieren Sie bitte „CTags“.,لا يمكن إنشاء الفهرس. فضلًا ثبّت 'ctags'.
+"The system temporary directory is used if not specified, which may overflow for very large repositories","Le dossier temporaire du système est utilisé par défaut, ce qui peut provoquer des dépassements de capacité pour les très grands dépôts","Falls nichts angegeben ist, wird der temporäre Ordner des Systems benutzt. Bei sehr großen Quelltextarchiven kann dieser Ordner vollständig belegt werden",يستخدم الدليل المؤقت للنظام إذا لم يُحدد، مما قد يؤدي إلى تجاوز الحد الأقصى لسعة التخزين في المستودعات الكبيرة جدًا
+"Type to filter, Enter to pop stash, Esc to leave.",Type à filtrer. Saisissez d'empiler la provision et « Échap » pour quitter.,,اكتب للتصفية، اضغط على Enter لإخراج العناصر المخبأة، اضغط على Esc للمغادرة.
+Unable to load %1 based project because either %1 is not installed or it wasn't found in PATH environment variable. Please install %1 or alternatively disable the option 'Autoload Repositories  Build Trees' in project settings.,Impossible de charger le projet reposant sur %1 car soit %1 n'est pas installé ou il a été impossible de le trouver dans la variable d'environnement « PATH ». Veuillez installer %1 ou alternativement désactiver l'option « Auto-chargement des dépôts et des arborescences de compilation » dans la configuration du projet.,,"تعذر تحميل المشروع المستند إلى %1 إما لأن %1 غير مثبت أو لم يعثر عليه في متغير بيئة PATH. يُرجى تثبيت %1 أو تعطيل خيار ""حمّل مستودعات آليًّا وابنِ الأشجار"" في إعدادات المشروع."
+Unstage All,Tout désorganisé,,ألغ كل المدرج
+Unstage File,Désorganiser un fichier,Datei löschen,ملف غير مُعد
+Unstage Selected Files,Sortir les fichiers sélectionnés,,ألغ إدراج الملفّات المحدّدة
+Untracked,Non tracé,,غير المتعقّب
+Using %1 installed at: %2.  %3. The tool will be run on all project files which match this list of file extensions: %4,Utilisation de %1 installé à : %2  %3. Cet outil sera lancé sur tous les fichiers du projet correspondant à la liste d'extensions ci-dessous : %4,"%1  Das Dienstprogramm wird für alle Projektdateien ausgeführt, deren Dateierweiterung auf dieses Muster passt:  %2",استخدام %1 المثبت في: %2.  %3. سيتم تشغيل الأداة على جميع ملفات المشروع التي تتطابق مع قائمة ملحقات الملفات التالية: %4
+Write commit message...,Écrire un message de validation,Commit-Nachricht schreiben ...,اكتب رسالة الإيداع...
+canceled.,annulée,Abgebrochen.,أُلغي.
+error: %1,Erreur : %1,Fehler: %1,خطأ: %1

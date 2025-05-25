@@ -412,7 +412,7 @@ Failed to select the specified APN,Échec de la sélection de l’APN spécifié
 Failed to upload file: ,,,فشل رفع الملف: 
 February,février,Februar,فبراير
 File Sharing,Partage de fichiers,Dateifreigabe,مشاركة الملفات
-"File Sharing allows you to share your Public folder with others on your current network using: <a href=""dav://"">dav://",,,"تتيح لك ”مشاركة الملفات“ مشاركة المجلد العام مع الآخرين على الشبكة الحالية باستخدام: <a href=""dav://"">‪dav://‬"
+"File Sharing allows you to share your Public folder with others on your current network using: dav://",,,"تتيح لك ”مشاركة الملفات“ مشاركة المجلد العام مع الآخرين على الشبكة الحالية باستخدام: ‪dav://‬"
 File System,Système de fichiers,Dateisystem,نظام الملفات
 Fill,,,مملوءة
 Finishing,Finition,Abschließen,الإنهاء
@@ -497,7 +497,7 @@ das Domänen-Passwort hier einzugeben.","تحتاج أن تكون مسجّلا �
 من فضلك اطلب من مدير الشبكة أن يكتب كلمة سر النطاق هنا."
 In use,,,قيد الاستعمال
 Increase text size,Augmenter la taille du texte,Schrift vergrößern,كبّر النص
-"Individual permissions for applications can be reviewed in the <a href=""privacy"">Privacy Settings.",,,"يمكن مراجعة صلاحيات التطبيق كل على حدة في إعدادات <a href=""privacy"">الخصوصية."
+"Individual permissions for applications can be reviewed in the Privacy Settings.",,,"يمكن مراجعة صلاحيات التطبيق كل على حدة في إعدادات الخصوصية."
 Infrastructure,,,مركزية
 Ink Level,Niveau d’encre,Tintenfüllstand,مستوى الحبر
 Inner authentication,,,الاستيثاق الداخلي
@@ -795,7 +795,7 @@ Privacy,,,الخصوصية
 Privacy Policy,,,سياسة الخصوصية
 Private key,,,المفتاح السري
 Problem Reporting,Signalement de problèmes,Problemberichterstattung,الإبلاغ عن المشاكل
-"Problems detected. The profile may not work correctly. <a href="""">Show details.","Il y a un problème. Il se peut que le profil ne fonctionne pas correctement. <a href="""">Afficher les détails","Probleme entdeckt. Das Profil funktioniert eventuell nicht richtig. <a href="""">Details anzeigen.","وجدت مشاكل ولن يعمل ملف الإعداد كما يجب. <a href="""">أظهر التفاصيل."
+"Problems detected. The profile may not work correctly. Show details.","Il y a un problème. Il se peut que le profil ne fonctionne pas correctement. Afficher les détails","Probleme entdeckt. Das Profil funktioniert eventuell nicht richtig. Details anzeigen.","وجدت مشاكل ولن يعمل ملف الإعداد كما يجب. أظهر التفاصيل."
 Processing,Traitement en cours,Verarbeitung läuft,تُعالِج
 Processor,Processeur,Prozessor,المعالج
 Profile %d,Profil %d,Profil %d,إعداد %d
@@ -881,7 +881,7 @@ Screen Sharing,,,مشاركة الشاشة
 Screen Turns Off,Extinction de l’écran,Bildschirm schaltet ab,تطفأ الشاشة
 Screen Keyboard,Clavier visuel,Bildschirmtastatur,لوحة مفاتيح على الشاشة
 Screen Reader,Lecteur d’écran,Bildschirmleser,قارئ الشاشة
-"Screen sharing allows remote users to view or control your screen by connecting to <a href=""vnc://"">vnc://",,,"مشاركة الشاشة تسمح للمستخدمين عن بعد بالتحكم في شاشتك باستخدام: <a href=""vnc://"">‪vnc://‬"
+"Screen sharing allows remote users to view or control your screen by connecting to vnc://",,,"مشاركة الشاشة تسمح للمستخدمين عن بعد بالتحكم في شاشتك باستخدام: ‪vnc://‬"
 Screenshots,,,لقطات الشاشة
 "Scrolling moves the content, not the view.",,,التمرير يحرك المحتوى و ليس المنظور.
 Search,Rechercher,Suchen,ابحث
@@ -1174,7 +1174,7 @@ Use this connection only for resources on its network,N’utiliser cette connexi
 User Icon,,,أيقونة المستخدم
 Username,Nom d’utilisateur,Benutzername,اسم المستخدم
 Users,Utilisateurs,Benutzer,المستخدمين
-Uses Mozilla Location Service: <a href='https://location.services.mozilla.com/privacy'>Privacy Policy,,,يستخدم خدمة تموضع موزيلا: <a href='https://location.services.mozilla.com/privacy'>سياسة الخصوصية
+Uses Mozilla Location Service: Privacy Policy,,,يستخدم خدمة تموضع موزيلا: سياسة الخصوصية
 Utility to configure the GNOME desktop,Utilitaire pour configurer l’environnement GNOME,Dienstprogramme zur Einrichtung der GNOME Arbeitsumgebung,أدوات لضبط سطح مكتب جنوم
 VPN,VPN,VPN,‏VPN
 Vendor supplied factory calibration data,Données d’étalonnage d’usine du fabricant,Vom Hersteller gelieferte Kalibrierungsdaten,بيانات معايرة المصنع من منتج الجهاز
@@ -1214,8 +1214,8 @@ When idle,,,عند عدم الاستخدام
 When on battery power,,,عندما تكون على طاقة البطارية
 When plugged in,,,عند توصيل الكبل
 "When remote login is enabled, remote users can connect using the Secure Shell command:
-<a href=""ssh "">ssh ",,,"عند تفعيل بالولوج عن بعد، يمكن للمستخدمين الولوج عن بعد باستخدام أمر الصدفة الآمنة:
-<a href=""ssh "">ssh "
+ssh ",,,"عند تفعيل بالولوج عن بعد، يمكن للمستخدمين الولوج عن بعد باستخدام أمر الصدفة الآمنة:
+ssh "
 Wi-Fi,Wi-Fi,WLAN,واي فاي
 Wi-Fi Hotspot,,,نقطة بث واي فاي
 Wi-Fi can be turned off to save power.,,,يمكن تعطيل واي فاي لتوفير الطاقة.
@@ -1234,7 +1234,7 @@ You can add images to your  folder and they will show up here,,,يمكنك إض�
 You can remove the calibration device.,Vous pouvez retirer la sonde d’étalonnage.,Sie dürfen das Kalibrierungsgerät entfernen.,يمكنك رفع جهاز المعايرة
 "You can use a color profile on different computers, or even create profiles for different lighting conditions.",,,يمكنك استخدام تشكيلات ألوان مستقلة على الحواسيب المختلفة، أو حتى تشكيلات مستقلة لدرجات الإضاءة المختلفة.
 You cannot delete your own account.,,,لا يمكنك حذف حسابك أنت.
-"You may find these instructions on how to use the profile on <a href=""linux"">GNU/Linux, <a href=""osx"">Apple OS X and <a href=""windows"">Microsoft Windows systems useful.","Ici, vous pouvez consulter d’utiles conseils sur l’utilisation d’un profil <a href=""linux"">GNU/Linux, <a href=""osx"">Apple OS X et <a href=""windows"">Microsoft Windows.","Eventuell sind diese Anweisungen hilfreich, wie ein Profil unter <a href=""linux"">GNU/Linux, <a href=""osx"">Apple OS X und <a href=""windows"">Microsoft Windows eingesetzt wird.","قد ترغب بالاطلاع على تعليمات استخدام إعدادات الألوان على <a href=""linux"">جنوم\لينكس و <a href=""osx"">أبل ماك و <a href=""windows"">ميكروسوفت وندوز."
+"You may find these instructions on how to use the profile on GNU/Linux, Apple OS X and Microsoft Windows systems useful.","Ici, vous pouvez consulter d’utiles conseils sur l’utilisation d’un profil GNU/Linux, Apple OS X et Microsoft Windows.","Eventuell sind diese Anweisungen hilfreich, wie ein Profil unter GNU/Linux, Apple OS X und Microsoft Windows eingesetzt wird.","قد ترغب بالاطلاع على تعليمات استخدام إعدادات الألوان على جنوم\لينكس و أبل ماك و ميكروسوفت وندوز."
 You must be online in order to add enterprise users.,,,يجب أن تكون متصلا لإضافة حسابات ولوج مؤسسات.
 You will not be able to use your computer while calibration takes place.,,,لم تستطيع استخدام حاسوبك أثناء المعايرة.
 Your account,,,حسابك

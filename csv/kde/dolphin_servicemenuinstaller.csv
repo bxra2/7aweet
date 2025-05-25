@@ -1,0 +1,25 @@
+English,French,German,Arabic
+Command is required.,Une commande est nécessaire.,Ein Befehl ist erforderlich.,الأمر مطلوب
+Command to execute: install or uninstall.,Commander à exécuter : install ou uninstall.,Auszuführender Befehl: install oder uninstall.,الأمر للتنفيذه: تثبيت أو إلغاء التثبيت
+Dolphin service menu installation failed,Échec de l'installation du menu de service Dolphin,Installation des Dolphin-Dienstmenüs fehlgeschlagen,فشل في تثبيت قائمة خدمات دولفين
+Failed to copy .desktop file %1 to %2: %3,Impossible de copier le fichier « .desktop » %1 vers %2 : %3,„.desktop“-Datei %1 kann nicht zu %2 kopiert werden: %%3,فشل نسخ ملف  .desktop  %1 إلى %2: %3
+Failed to create directory %1,Impossible de créer le dossier %1,Fehler beim Erstellen des Ordners %1,فشل إنشاء الدّليل %1
+Failed to create path %1,Impossible de créer la référence à l'emplacement %1,Pfad %1 kann nicht erstellt werden,فشل إنشاء مسار %1
+Failed to find an installation script in %1,Impossible de trouver un script d'installation dans %1,Es wurde kein Installations-Skript in %1 gefunden,فشل في العثور على سكربت  التثبيت في %1
+Failed to find an uninstallation script in %1,Impossible de trouver un script de désinstallation dans %1,Es wurde kein Deinstallations-Skript in %1 gefunden,فشل في العثور على سكربت إلغاء التثبيت في %1
+"Failed to install ""%1"", exited with status ""%2""","Impossible d'installer « %1 », le processus s'est terminé dans l'état « %2 »","Die Installation von „%1“ ist fehlgeschlagen, beendet mit Status „%2“","فشل في تثبيت ""%1"" ، خرج بحالة ""%2"""
+Failed to remove .desktop file %1: %2,Impossible de supprimer le fichier « .desktop » %1 : %2,Das Entfernen von  der „.desktop“-Datei %1 ist fehlgeschlagen: %2,فشل إزالة ملف  .desktop  : %1: %2
+Failed to remove directory %1,Impossible de supprimer le dossier %1,Ordner %1  kann nicht entfernt werden,فشل في إزالة دليل  %1
+Failed to run installer script %1,Impossible de lancer le script d'installation %1,Ausführung des Installations-Skripts %1 ist fehlgeschlagen,فشل في تشغيل سكربت تثبيت  %1
+Failed to run uncompressor command for %1,Impossible de lancer la commande de décompression pour %1,Ausführung des Befehls zum Entpacken von %1 ist fehlgeschlagen,فشل في تشغيل أمر فك الضغط لـ%1
+Failed to set permissions on %1: %2,Impossible de définir les permissions sur %1 : %2,Das Einstellen der Zugriffsrechte für %1  ist fehlgeschlagen: %2,فشل في ضبط تصاريح %1: %2
+Failed to uncompress %1,Impossible de décompresser %1,Die Datei %1 lässt sich nicht entpacken,فشل في فك ضغط  %1
+"Failed to uninstall ""%1"", exited with status ""%2""","Impossible de désinstaller « %1 », le processus s'est terminé dans l'état « %2 »","Die Deinstallation von „%1“ ist fehlgeschlagen, beendet mit Status „%2“","فشل في إلغاء تثبيت ""%1"" ، خرج بحالة ""%2"""
+"Installer script %1 failed, tried arguments ""%2"".","Échec du script d'installation %1, arguments fournis : « %2 ».",Installations-Skripts %1 mit dem Argument %2 ist fehlgeschlagen.,"السكربت المثبت لـ %1  فشل و المعاملات المستعملة هي ""%2""."
+Path to archive is required.,L'emplacement de l'archive est nécessaire.,Pfad zum Archiv ist erforderlich.,المسار إلى الأرشيف مطلوب.
+Path to archive.,Emplacement de l'archive.,Pfad zum Archiv.,المسار للأرشيف.
+Process did not finish in reasonable time: %1 %2,Le processus ne s'est pas terminé dans un délai raisonnable : %1 %2,Der Prozess wurde nicht in angemessener Zeit abgeschlossen: %1 %2,لم تتم العملية في وقت معقول: %1 %2
+The file does not exist!,Ce fichier n'existe pas !,Die Datei existiert nicht,الملف ليس موجودا.
+Unknown error when installing package,Erreur inconnue lors de l'installation du paquet,Unbekannter Fehler beim Installieren des Pakets,خطأ مجهول عند تثبيت الحزمة
+Unsupported archive type %1: %2,Type d'archive « %1 » non pris en charge : %2,Nicht unterstützter Archivtyp %1: %2,نوع الأرشيف %1 غير مدعوم: %2
+Unsupported command %1,Commande non prise en charge %1,Nicht unterstützter Befehl %1,%1 أمر غير مدعوم

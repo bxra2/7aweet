@@ -1,0 +1,10 @@
+English,French,German,Arabic
+"'%1' not found, will only check well-formedness.",Impossible de trouver « %1 ». Seule la cohérence du formatage sera vérifiée.,,'%1' غير موجود، سيتحقق فقط من حسن التنسيق.
+Error: Could not create temporary file '%1'.,Erreur : Impossible de créer un fichier temporaire « %1 ».,Fehler:Temporäre Datei „%1“ kann nicht angelegt werden.,خطأ: تعذّر إنشاء الملفّ المؤقّت '%1'.
+Error: Failed to execute xmllint. Please make sure that xmllint is installed. It is part of libxml2.,Erreur : impossible d'exécuter la commande « xmllint ». Veuillez vérifier que xmllint est installé. Le programme fait partie de libxml2.,"Fehler: xmllint kann nicht ausgeführt werden. Stellen Sie bitte sicher, dass xmllint installiert ist. Xmllint ist Teil von libxml2.",خطأ: فشل تنفيذ xmllint. فضلًا تأكّد من أنّ xmllint مثبّت، فهو جزء من libxml2.
+Error: Failed to find xmllint. Please make sure that xmllint is installed. It is part of libxml2.,Erreur : impossible de trouver le logiciel « xmllint ». Veuillez vous assurer qu'il est bien installé. Ce logiciel fait partie de « libxml2 ».,"Fehler: xmllint kann nicht gefunden werden. Stellen Sie bitte sicher, dass xmllint installiert ist. Xmllint ist Teil von libxml2.",خطأ: فشل العثور على xmllint. فضلًا تأكّد من أنّ xmllint مثبّت، فهو جزء من libxml2.
+"No DOCTYPE found, will only check well-formedness.",Aucun libellé « DOCTYPE » trouvé. Seule la cohérence du formatage sera vérifiée.,,لم يُعثر على DOCTYPE، سيتحقق فقط من حسن التنسيق.
+Validate XML,Valider le XML,XML überprüfen,تحقّق من XML
+Validate process crashed,Le processus de validation s'est planté.,Validierungsprozess abgestürzt,انهارت عمليّة التحقق
+XML Check,Vérification « XML »,XML-Überprüfung,فاحص XML
+XMLCheck,Vérification « XML »,XMLCheck,فاحص XML

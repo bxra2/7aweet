@@ -1,0 +1,821 @@
+English,French,German,Arabic
+%1 (%2),%1 (%2),%1 (%2),‏%1 (‏%2)
+%1 at location %2,%1 à l'emplacement %2,%1 unter Adresse %2,%1 في الموقع %2
+%1 copy,%1 copie,%1 Kopie,‏%1 نسخة
+%1 free,%1 libre(s),%1 frei,المتبقي ‏%1
+%1 free out of %2 (%3% used),%1 libre sur %2 (%3 % utilisé),%1 von %2 frei (%3 % belegt),المتبقي %1 من أصل %2 (%3٪ مستخدمة)
+"%1 free out of %2 (%3% used)
+Press to manage disk space usage.","%1 libre sur %2 (%3 % utilisé)
+Veuillez appuyer pour gérer l'utilisation de l'espace disque.","%1 von %2 frei (%3 % belegt)
+Zum Verwalten der Festplattenbelegung bitte drücken.","المتبقي %1 من أصل %2 (%3٪ مستخدمة)
+اضغط لتدير مساحة القرص."
+%1 search results,Résultats de la recherche pour %1,,نتائج بحث %1
+%1 search results in %2,Résultats de la recherche de %1 dans %2,Suchen nach %1 in %2,نتائج بحث %1 في %2
+%1 | (%2),%1 | (%2),%1 | (%2),%1 | (%2)
+%1 × %2,%1 × %2,%1 × %2,%1 × %2
+"%1, %2 (%3)","%1, %2 (%3)","%1, %2 (%3)",‏%1، ‏%2 (‏%3)
+%1: %2,%1 : %2,%1: %2,‏%1: %2
+&&,&&,,و
+Bookmarks,Signets,Lesezeichen,العلامات
+Edit,Édition,Bearbeiten,حرّر
+Edit File Type…,Modifier le type de fichier…,Dateityp bearbeiten ...,حرّر نوع الملف…
+Go,Aller,Gehe zu,انطلق
+Network Folders,Dossiers réseau,Netzwerkordner,مجلّدات الشبكة
+Quit %1,Quitter %1,%1 beenden,أنهِ %1
+View,Affichage,Ansicht,اعرض
+'Copy To' and 'Move To' commands,Commandes « Copier vers » et « Déplacer vers »,Einträge „Kopieren nach“ und „Verschieben nach“,أمري 'انسح إلى' و 'انقل إلى'
+"'Earlier on' MMMM, yyyy","« Plus tôt en » MMMM, yyyy","'Früher im' MMMM, yyyy",'بدايات' MMMM،  yyyy
+"'One Week Ago' (MMMM, yyyy)","« Il y a une semaine » (MMMM, yyyy)","'Vor einer Woche' (MMMM, yyyy)",'قبل أسبوع واحد' (MMMM،  yyyy)
+"'Three Weeks Ago' (MMMM, yyyy)","« Il y a trois semaines » (MMMM, yyyy)","'Vor drei Wochen' (MMMM, yyyy)",'قبل ثلاث أسابيع' (MMMM،  yyyy)
+"'Two Weeks Ago' (MMMM, yyyy)","« Il y a deux semaines » (MMMM, yyyy)","'Vor zwei Wochen' (MMMM, yyyy)",'قبل أسبوعين' (MMMM،  yyyy)
+"'Yesterday' (MMMM, yyyy)","« Hier » (MMMM, yyyy)","'Gestern' (MMMM, yyyy)",'الأمس' (MMMM، yyyy)
+(%1) | %2,(%1) | %2,(%1) | %2,(%1) | %2
+(C) 2006-2025 The Dolphin Developers,"(c) 2006 - 2025, L'équipe de développement de Dolphin","Copyright 2006–2022, die KDE-Entwickler",© 2006-2025 لمطوري دولفين
+", %1",", %1",", %1",، %1
+", %1 %2",", %1 %2",", %1 %2",، %1 %2
+", link to %1 at %2",", établir un lien vers %1 à %2",", Verknüpfung nach %1 an %2",، رابط إلى %1 في %2
+0 - 9,0 - 9,0 - 9,0 - 9
+"0 folders, 0 files","Aucun dossier, aucun fichier","0 Ordner, 0 Dateien",0 مجلدات، 0 ملفات
+1,1,1,1
+1 or more,Une ou plus,1 oder mehr,1 أو أكثر
+2,2,2,2
+2 or more,Deux ou plus,2 oder mehr,2 أو أكثر
+3,3,3,3
+3 or more,Trois ou plus,3 oder mehr,3 أو أكثر
+4,4,4,4
+4 or more,Quatre ou plus,4 oder mehr,4 أو أكثر
+5,5,5,5
+"Dolphin requires %1 to manage system-controlled files, but it is not installed.Press %2 to install %1 or %3 to cancel.","L'application Dolphin nécessite l'application %1 pour la gestion des fichiers contrôlés par le système, mais celle-ci n'est pas installée.Veuillez appuyer sur %2 pour installer %1 ou %3 pour annuler.","Dolphin benötigt %1, um Systemdateien zu verändern, was aber nicht installiert ist.Drücken Sie %2, um %1 zu installieren oder %3 um abzubrechen.",يحتاج دولفين  %1 لإدارة الملفات التي يتحكم فيها النظام، ولكنه غير مثبت.اضغط على %2 لتثبيت %1 أو %3 للإلغاء.
+Filelight installed successfully.,L'application Filelight a été installée avec succès.,Filelight wurde erfolgreich installiert.,نجح تثبيت كاشف الملفات.
+KFind installed successfully.,L'application KFind a été installée avec succès.,Filelight wurde erfolgreich installiert.,نجح تثبيت بحثك KFind.
+ This toggles the information panel at the right side of the window.The panel provides in-depth information about the items your mouse is hovering over or about the selected items. Otherwise it informs you about the currently viewed folder.For single items a preview of their contents is provided.," Ceci permet de basculer le panneau d'information sur le coté droite la fenêtre.Ce panneau fournit des informations très précises sur les éléments que votre souris survole ou sur les éléments sélectionnés. Sinon, il vous informe sur le dossier actuellement affiché.Pour les éléments simples, il vous propose un aperçu de leurs contenus.", Hiermit wird die Informationen-Seitenleiste am rechten Rand des Fensters umgeschaltet.Die Leiste liefert detaillierte Informationen über den Eintrag unter Ihrem Mauszeiger und ausgewählte Einträge. Ansonsten informiert es über den aktuellen Ordner.Bei einzelnen Einträgen wird eine Vorschau deren Inhalts angezeigt., هذا يبدل لوحة  المعلومات  في الجانب الأيمن من النافذة.   توفر اللوحة معلومات متعمقة حول العناصر التي تحوم الفأرة فوقها أو حول العناصر المحددة . وإلا فإنه يعلمك بالمجلد المعروض حاليًا.  بالنسبة للعناصر الفردية ، يتم توفير معاينة لمحتوياتها. 
+"%1 uses a database for searching. The database is created by indexing your files in the background based on how %1 is configured.%1 provides results extremely quickly.Allows searching for file types, dates, tags, etc.Only searches in indexed folders. Configure which folders should be indexed in System Settings.When the searched locations contain links to other files or folders, those will not be searched or show up in search results.Hidden files and folders and their contents might also not be searched depending on how %1 is configured.","L'application %1 utilise une base de données pour la recherche. Cette dernière est créée par une indexation de vos fichiers en arrière-plan selon comment l'application %1 est configurée. L'application %1 fournit des résultats extrêmement rapidement. Permet de rechercher des types de fichiers, des dates, des étiquettes, etc.Recherche uniquement dans les dossiers indexés. Configurer quels dossiers doivent être indexés dans le système dans la Configuration du système. Lorsque les emplacements recherchés contiennent des liens vers d’autres fichiers ou d'autres dossiers, ceux-ci ne seront pas pris en compte dans la recherche ou affichés dans résultats de la recherche. Les fichiers et dossiers masqués et leur contenu pourraient également ne pas être pris en compte selon la configuration de %1. ",,يستخدم %1 قاعدة بيانات للبحث. تُنشأ قاعدة البيانات هذه بفهرسة ملفاتك في الخلفية بناءً على إعدادات %1.يوفر %1 نتائج سريعة للغاية.يسمح بالبحث عن أنواع الملفات والتواريخ والوسوم، إلخ.يبحث فقط في المجلدات المفهرسة. حدّد المجلدات التي يجب فهرستها في إعدادات النظام.عندما تحتوي المواقع التي تم البحث فيها على روابط لملفات أو مجلدات أخرى، فلن يبحث عنها ولن تظهر في نتائج البحث.قد لا يبحث عن الملفات والمجلدات المخفية ومحتوياتها أيضًا، وذلك حسب إعدادات %1.
+"Cut, Copy and Paste work between many applications and are among the most used commands. That's why their keyboard shortcuts are prominently placed right next to each other on the keyboard: Ctrl+X, Ctrl+C and Ctrl+V.","Les commandes les plus souvent utilisées sont Couper, Copier Coller. C'est la raison pour laquelle leurs raccourcis clavier sont placés de façon très visible à droite, proches l'un de l'autre sur le clavier : Ctrl + X, Ctrl + C et Ctrl + V.","Ausschneiden, Kopieren und Einfügen funktionieren über viele Anwendungen hinweg und gehören zu den meistgenutzten Funktionen. Deshalb befinden sich ihre Tastaturkurzbefehle an prominenter Stelle direkt nebeneinander auf der Tastatur: Ctrl+X, Ctrl+C und Ctrl+V.",قص وانسخ و ألصق تعمل بين العديد من التطبيقات وهي من أشهر الأوامر. هذا هو سبب وضع  اختصارات لوحة المفاتيح  في مكان بارز بجوار بعضها البعض على لوحة المفاتيح : Ctrl+Xو Ctrl+C و Ctrl+V.
+Creating previews for remote folders is very intensive in terms of network resource usage.Disable this if navigating remote folders in Dolphin is slow or when accessing storage over metered connections.,La création d'aperçus pour les dossiers distants est très coûteuse en termes de ressources réseau. Veuillez désactiver cette option si la navigation dans les dossiers distants dans Dolphin est lente ou si l'accès au média se fait via des connexions limitées. ,"Das Erzeugen einer Vorschau von entfernten Ordnern ist eine ressourcenintensive Netzwerkoperation.Deaktivieren Sie dies, wenn das Navigieren durch entfernte Ordner in Dolphin langsam ist oder wenn Sie über eine getaktete Netzwerkverbindung darauf zugreifen.",إنشاء معاينات للمجلدات البعيدة يستخدم الكثير من موارد الشبكة.عطّل هذا إذا كان التنقل عبر المجلدات البعيدة في دولفين بطيئًا أو عند الوصول إلى التخزين عبر اتصالات محدودة.
+"For searching in file contents %1 attempts to use third-party search tools if they are available on this system and are expected to lead to better or faster results. ripgrep and ripgrep-all might improve your search experience if they are installed. ripgrep-all in particular enables searches in more file types (e.g. pdf, docx, sqlite, jpg, movie subtitles (mkv, mp4)).The manner in which these search tools are invoked can be configured by editing a script file. Copy it from %2 to %3 before modifying your copy. If any issues arise, delete your copy %3 to revert your changes.","Pour la recherche par le contenu du fichier, l'application %1 tented’utiliser des outils tiers de rech s’ils sont disponibles sur ce système et s'ils peuvent conduire à des résultats meilleurs ou plus rapides. ripgrep et ripgrep-toutes pourraient améliorer votre expérience de recherche si elles installé. Les applications ripgrep et ripgrep-all permet notamment de rechercher dans plus de types de fichiers (Par exemple, pdf, docx, sqlite, jpg, sous-titres de films (mkv, mp4)). La manière dont ces outils de recherche sont appelés peut être configurée en éditant un fichier de script. Veuillez le copier de %2 à %3 avant de modifier votre copie. Si vous rencontrez des problèmes, veuillez supprimer votre copie %3 pour annuler vos modifications. ",,للبحث في محتويات الملفات، يحاول %1 استخدام أدوات بحث خارجية إذا كانت متوفرة على هذا النظام، ومن المتوقع أن تؤدي إلى نتائج أفضل أو أسرع. قد يُحسّن ripgrep وripgrep-all تجربة البحث لديك إذا تم تثبيتهما. يُمكّن ripgrep-all تحديدًا البحث في أنواع ملفات أكثر (مثل pdf، docx، sqlite، jpg، ترجمات الأفلام (mkv، mp4)).يمكن ضبط طريقة استدعاء أدوات البحث هذه بتعديل ملف نصي. انسخه من %2 إلى %3 قبل تعديل نسختك. في حال حدوث أي مشاكل، احذف نسختك %3 للتراجع عن تغييراتك.
+Go to the folder that contains the currently viewed one.All files and folders are organized in a hierarchical file system. At the top of this hierarchy is a directory that contains all data connected to this computer—the root directory.,"Allez sur le dossier actuellement affiché.Tous les fichiers et dossiers sont organisés dans un système de fichiers arborescent. A la racine de l'arborescence, il y a le dossier contenant toutes les données présentes sur l'ordinateur, le dossier du système.","Zu dem Ordner gehen, der den aktuell angezeigten enthält.Alle Dateien und Ordner werden in einem hierarchischen Dateisystem organisiert. Am Kopf dieser Hierarchie befindet sich ein Ordner, der alle Daten Ihres Computers enthält, derBasisordner.", انتقل إلى المجلد الذي يحتوي على الملف المعروض حاليًا.   جميع الملفات والمجلدات مرتبة في نظام ملفات هرمي . يوجد في الجزء العلوي من هذا التسلسل الهرمي دليل يحتوي على جميع البيانات المتصلة بهذا الحاسوب —  الدليل الجذر . 
+Here you can see the folders and files that are at the location described in the Location Bar above. This area is the central part of this application where you navigate to the files you want to use.For an elaborate and general introduction to this application click here. This will open an introductory article from the KDE UserBase Wiki.For brief explanations of all the features of this view click here instead. This will open a page from the Handbook that covers the basics.,"Vous pouvez voir ici les dossiers et les fichiers présents à l'emplacement spécifié dans la barre d'emplacement ci-dessus. Cette zone est la partie centrale de cette application, dans laquelle vous pouvez naviguer vers les fichiers que vous désirez.Pour une introduction générale et complète à cette application, veuillez consulter la page en cliquant ici. Ceci ouvrira un article introductif à partir du site KDE UserBase Wiki.Pour de brèves explications sur toutes les fonctionnalités de cette vue veuillez plutôt cliquer ici. Ceci ouvrira un Manuel couvrant les principes.","Hier sehen Sie die Dateien und Ordner, die sich an dem Ort befinden, der in der Adresszeile  oben drüber angezeigt wird. Dieser Bereich ist der zentrale Teil dieser Anwendung, in dem Sie zu den gewünschten Dateien navigieren.Eine ausführlichere und umfängliche Einführung in diese Anwendungen finden Sie hier. Dies öffnet einen Einführungsartikel im KDE-Userbase-Wiki.Klicken Sie hier für eine kurze Erklärung aller Funktionen dieser Ansicht. Dies öffnet eine Handbuchseite, die die Grundlagen erklärt.", هنا يمكنك مشاهدة  المجلدات  و  الملفات  الموجودة في الموقع الموضح في  شريط الموقع  أعلاه. هذه المنطقة هي الجزء المركزي من هذا التطبيق حيث تنتقل إلى الملفات التي تريد استخدامها.   للحصول على مقدمة مفصلة وعامة لهذا التطبيق   انقر هنا . سيؤدي هذا إلى فتح مقالة تمهيدية من  KDE UserBase Wiki .   للحصول على تفسيرات مختصرة لجميع ميزات عرض  هذا   انقر هنا  بدلاً من ذلك. سيؤدي هذا إلى فتح صفحة من  كتيب دولفين  تغطي الأساسيات. 
+Install additional software to view disk usage statisticsand identify big files and folders.,Veuillez installer un logiciel supplémentaire pour afficher les statistiques d'utilisation du disque et identifier les fichiers et les dossiers les plus gros.,"Installieren Sie zusätzliche Software, um Belegungsstatistikenanzuzeigen und große Dateien und Ordner zu identifizieren.",ثبت برنامج إضافي لعرض إحصائيات استخدام القرصوتحديد الملفات والمجلدات الكبيرة.
+"Make use of your administrator rights in Dolphin:Navigate to the file or folder you want to change.Activate the ""%1"" action either under Open Menu|More|View or Menu Bar|View.Default shortcut: %2After authorization you can manage files as an administrator.","Utilisez vos droits d'administrateur dans Dolphin :Naviguer jusqu'au fichier ou au dossier que vous souhaitez modifier.Activez l'action « %1 » soit avec Ouvrir le menu|Plus|Afficher soit avec Barre de menus |Afficher. Raccourci par défaut : %2Après l'autorisation, vous pouvez gérer les fichiers en tant qu'administrateur.","Nutzen Sie Ihre Systemverwalterberechtigungen in Dolphin:Rufen Sie den Ordner auf, den Sie verändern möchten.Lösen Sie die Aktion „%1“ aus; entweder in Menü öffnen|Weiter|Ansicht oder Menüleiste|Ansicht.Standard-Tastenkürzel: %2Nach der Autorisierung können Sie die Dateien als Systemverwalter bearbeiten."," كيفية استخدم صلاحيات مدير النظام في دولفين:انتقل إلى الملف أو المجلد الذي تريد تغييره.قم بتنشيط الإجراء ""%1"" إما ضمن فتح القائمة|المزيد|عرض أو شريط القائمة|عرض.الاختصار الافتراضي: %2بعد أخذ التصريح يمكنك إدارة الملفات كمدير نظام."
+Searching in %1 using %2 is currently not possible because %2 is configured to never create a search index of that location.,La recherche dans %1 à l'aide de l'application %2 n'est actuellement pas possible car  l'application %2 est configurée pour ne jamais créer d'index de recherche de cet emplacement.,,البحث في %1 باستخدام %2 غير ممكن حاليًا لأن %2 ضُبط لعدم إنشاء فهرس بحث لهذا الموقع أبدًا.
+Searching through file contents using %1 is currently not possible because %1 is configured to never create a search index for file contents.,La recherche dans le contenu du fichier à l'aide de %1 n'est actuellement pas possible car l'application %1 est configurée pour ne jamais créer d'index de recherche pour le contenu du fichier.,,البحث في محتويات الملف باستخدام %1 غير ممكن حاليًا لأن %1 مُهيأ لعدم إنشاء فهرس بحث لمحتويات الملف أبدًا.
+The selected files and folders were added to the Clipboard. Now the Paste action can be used to transfer them from the Clipboard to any other location. They can even be transferred to other applications by using their respective Paste actions.,"Les fichiers et dossiers sélectionnés ont été ajoutés au presse-papier. Maintenant, l'action Coller peut être utilisée pour les transférer à partir du presse-papier à tout autre emplacement. Ils peuvent même être transférés vers d'autres applications en utilisant leurs actions respectives Coller. ","Die ausgewählten Dateien und Ordner wurden der Zwischenablage hinzugefügt. Nun kann die Einfügen-Aktion benutzt werden, um sie aus der Zwischenablage an jeden anderen Ort zu übertragen. Sie können sogar in andere Anwendungen übertragen werden, indem deren Einfügen-Aktion verwendet wird.", أُضيفت الملفات والمجلدات المحددة إلى الحافظة. الآن يمكن استخدام الإجراء  ألصق  لنقلها من الحافظة إلى أي مكان آخر. يمكنك حتى نقلها إلى تطبيقات أخرى باستخدام إجراءات  ألصق  الخاصة بها. 
+"This application only knows which files or folders should be acted on if they are selected first. Press this to toggle a Selection Mode which makes selecting and deselecting as easy as pressing an item once.While in this mode, a quick access bar at the bottom shows available actions for the currently selected items.","Cette application ne reconnaît que les fichiers ou dossiers sur lesquels effectuer un traitement s'ils sont tout d'abord sélectionnés. Veuillez appuyer sur cette touche pour basculer vers un Mode de sélection permettant de sélectionner et de désélectionner, aussi facilement que qu'un appui sur un élément. Dans ce mode, une barre d'accès rapide en bas s'affiche les actions disponibles pour les éléments actuellement sélectionnés. ","Diese Anwendung kann nur dann mit Dateien und Ordnern arbeiten, wenn diese vorher ausgewählt worden sind. Schalten Sie hiermit den Auswahlmodus an und aus. Damit kann ein Eintrag durch einen einfach Klick aus- und wieder abgewählt werden.Während der Modus aktiv ist, wird am unteren Rand eine Leiste mit verfügbaren Aktionen für die ausgewählten Einträge angezeigt.", هذا التطبيق يعرف فقط الملفات أو المجلدات التي يجب التعامل معها إذا حددت أولاً. اضغط على هذا للتبديل إلى  وضع التحديد  مما يجعل التحديد وإلغائه سهلاً مثل الضغط على عنصر مرة واحدة.   أثناء وجودك في هذا الوضع ، يعرض شريط الوصول السريع في الجزء السفلي الإجراءات المتاحة لـ العناصر المحددة حاليًا. 
+This describes the location of the files and folders displayed below.The name of the currently viewed folder can be read at the very right. To the left of it is the name of the folder that contains it. The whole line is called the path to the current location because following these folders from left to right leads here.This interactive path is more powerful than one would expect. To learn more about the basic and advanced features of the location bar click here. This will open the dedicated page in the Handbook.,"Cette ligne décrit l'emplacement des fichiers et des dossiers affichés ci-dessous.Le nom du dossier actuellement affiché peut être lu en partant de la droite. A sa gauche, il y a le nom du dossier qui le contient. La ligne complète est appelé l'emplacement courant car l'enchaînement des dossiers de la gauche vers la droite permet d'arriver ici.   Cet emplacement interactif est plus puissant que vous pourriez vous le penser. Pour en apprendre plus sur les fonctionnalités basiques et avancées de la barre d'emplacement, veuillez cliquer ici. Ceci ouvrira la page dédiée dans le manuel utilisateur.","Dies beschreibt den Ort der Dateien und Ordner, die darunter angezeigt werden.Der Name des momentan angezeigten Ordners steht ganz rechts. Links davon steht der Ordner, der ihn enthält. Die vollständige Zeile heißt Pfad zum aktuellen Ort, weil man durch das Abgehen der Ordner von links nach rechts genau hier her kommt.Der interaktive Pfad kann mehr als ihm anzusehen ist. Um mehr über grundlegende und erweitere Funktionen der Adresszeile herauszufinden, klicken Sie hier. Das öffnet die entsprechende Seite des Handbuchs.", هذا يصف موقع الملفات والمجلدات المعروضة أدناه.   يمكن قراءة اسم المجلد المعروض حاليًا في أقصى اليمين. على يساره يوجد اسم المجلد الذي يحتوي عليه. يُطلق على السطر بالكامل اسم  المسار  إلى الموقع الحالي لأن اتباع هذه المجلدات من اليسار إلى اليمين يؤدي هنا.   هذا المسار التفاعلي أقوى مما يتوقعه المرء. لمعرفة المزيد حول الميزات الأساسية والمتقدمة لشريط الموقع  انقر هنا . سيؤدي هذا إلى فتح الصفحة المخصصة في الكتيب. 
+This helps you find files and folders by opening a search bar. There you can enter search terms and specify settings to find the items you are looking for.,"Ceci vous aide à trouver des fichiers et des dossiers grâce à l'ouverture d'une barre de recherche. Ainsi, vous pouvez saisir les termes de recherche et spécifier les paramètres pour trouver les éléments que vous recherchez.","Sie können nach Dateien und Ordnern suchen, indem Sie die Suchleiste aufrufen. Dort können Sie Suchbegriffe eingeben und weitere Angaben machen, um die Einträge zu finden, nach denen Sie suchen.Verwenden Sie diese Hilfe noch einmal in der Suchleiste, damit sie sichtbar ist während die Einstellungen erklärt werden.", هذا يساعدك في العثور على الملفات والمجلدات عن طريق فتح  شريط البحث . هناك يمكنك إدخال مصطلحات البحث وتحديد الإعدادات للعثور على الكائنات التي تبحث عنها. 
+"This helps you find files and folders.Enter a search term in the input field.Decide where to search by pressing the location buttons below the search field. “Here” refers to the location that was open prior to starting a search, so navigating to a different location first can narrow down the search.Press the “%1” button to further refine the manner of searching or the results.Press the “Save” icon to add the current search configuration to the Places panel.","Cela vous permet de trouver des fichiers et des dossiers. Saisissez un terme de recherche dans le champ de saisie. Décider où effectuer la recherche en appuyant sur les boutons d’emplacement sous le champ de recherche. Le terme « Ici » fait référence à l’emplacement qui était ouvert avant de commencer une recherche. PAr conséquent, la navigation vers un emplacement différent peut d’abord réduire la recherche. Veuillez appuyer sur le bouton « %1 » pour affiner davantage la manière de faire la recherche ou d'obtenir des résultats. Veuillez appuyer sur l’icône « Enregistrer » pour ajouter la configuration de recherche actuelle au panneau « Emplacements ». ",,"يساعدك هذا في العثور على الملفات والمجلدات.أدخل مصطلح بحث في حقل الإدخال.حدد مكان البحث بالضغط على أزرار الموقع أسفل حقل البحث. يشير ""هنا"" إلى الموقع الذي كان مفتوحًا قبل بدء البحث، لذا فإن الانتقال إلى موقع مختلف أولًا يُضيّق نطاق البحث.اضغط على زر ""%1"" لتحسين طريقة البحث أو النتائج بشكل أكبر.اضغط على أيقونة ""حفظ"" لإضافة إعدادات البحث الحالية إلى لوحة الأماكن."
+This is the Menubar. It provides access to commands and configuration options. Left-click on any of the menus on this bar to see its contents.The Menubar can be hidden by unchecking Settings|Show Menubar. Then most of its contents become available through a Menu button on the Toolbar.,"Ceci est la barre de menus. Elle fournit un accès aux options de commandes et de configuration. Faites un clic gauche sur n'importe quel menu présent sur la barre pour voir son contenu.La barre de menus peut être cachée en décochant Paramètres|Affichage de la barre de menus. Alors, la plupart des éléments deviennent disponibles grâce à un bouton Menu sur la barre de menus.","Dies ist die Menüleiste. Hierüber haben Sie Zugriff auf Aktionen und Einstellungen. Klicken Sie mit links auf einen beliebigen Eintrag der Leiste, um seinen Inhalt anzuzeigen.Die Menüleiste kann durch Abwählen der Option Einstellungen|Menüleiste anzeigen ausgeblendet werden. Dadurch wird der größte Teil der Menüleiste über einen Menü-Knopf in der Werkzeugleiste erreichbar.", هذا هو  شريط القائمة . يوفر الوصول إلى الأوامر وخيارات الضبط. انقر بزر الفأرة الأيسر فوق أي من القوائم الموجودة في هذا الشريط لمشاهدة محتوياتها.   يمكن إخفاء قائمة القوائم بإلغاء تحديد  إعدادات | إظهار القوائم . ثم تصبح معظم محتوياته متاحة من خلال زر  القائمة  على شريط الأدوات  . 
+This is the Places panel. It allows you to go to locations you have bookmarked and to access disk or media attached to the computer or to the network. It also contains sections to find recently saved files or files of a certain type.Click on an entry to go there. Click with the right mouse button instead to open any entry in a new tab or new window.New entries can be added by dragging folders onto this panel. Right-click any section or entry to hide it. Right-click an empty space on this panel and select Show Hidden Places to display it again.,"Ceci est le panneau Emplacements. Il vous permet de naviguer vers des emplacements que vous avez marqués et d'accéder au disque ou aux média que vous avez connecté à votre ordinateur ou réseau. Il contient aussi des sections pour trouver les fichiers récemment enregistrés ou des fichiers d'un type donné.Veuillez cliquer sur une entrée pour l'ouvrir. Sinon, cliquez sur le bouton droit de la souris pour ouvrir n'importe quelle entrée dans un nouvel onglet ou dans une nouvelle fenêtre.De nouvelles entrées peuvent être ajoutées en faisant glisser des dossiers sur le panneau. Faites un clic droit sur n'importe quelle section ou entrée pour la masquer. Faites un clic droit sur un espace libre du panneau et sélectionner Afficher les emplacements cachés pour les afficher de nouveau.","Dies ist die Orte-Seitenleiste. Hiermit können Sie zu Orten navigieren, die Sie als Lesezeichen gespeichert haben, sowie zu Speichermedien, die lokal angeschlossen oder über Netzwerk erreichbar sind. Außerdem enthält sie einen Abschnitt zum Auffinden von kürzlich gespeicherten Dateien oder Dateien bestimmter Typen.Klicken Sie auf einen Eintrag, um dort hin zu navigieren. Klicken Sie stattdessen mit der rechten Maustaste, um einen Eintrag in einem neuen Fenster oder Unterfenster zu öffnen.Sie können neue Einträge anlegen, indem Sie Ordner auf die Leiste ziehen. Rechtsklicken Sie auf einen Abschnitt oder Eintrag, um ihn zu verbergen. Rechtsklicken Sie auf einen leeren Bereich der Leiste und wählen Ausgeblendete Orte anzeigen, um sie wieder einzublenden.", هذه هي لوحة  الأماكن . يسمح لك بالذهاب إلى المواقع التي قمت بوضع إشارة مرجعية عليها والوصول إلى القرص أو الوسائط المتصلة بالحاسوب أو بالشبكة. يحتوي أيضًا على أقسام للعثور على الملفات أو الملفات المحفوظة مؤخرًا من نوع معين.   انقر فوق إدخال للذهاب إلى هناك. انقر بزر الفأرة الأيمن بدلاً من ذلك لفتح أي إدخال في علامة تبويب جديدة أو نافذة جديدة.   يمكن إضافة إدخالات جديدة عن طريق سحب المجلدات إلى هذه اللوحة. انقر بزر الفأرة الأيمن فوق أي قسم أو إدخال لإخفائه. انقر بزر الفأرة الأيمن فوق مساحة فارغة في هذه اللوحة وحدد  أظهر الملفات المخفية  لعرضها مرة أخرى. 
+This is the Statusbar. It contains three elements by default (left to right):A text field that displays the size of selected items. If only one item is selected the name and type is shown as well.A zoom slider that allows you to adjust the size of the icons in the view.Space information about the current storage device.,"Ceci est la barre d'état. Elle contient trois éléments par défaut (de gauche à droite) :Un champ de texte affichant la taille des éléments sélectionnés. S'il n'y a qu'un seul élément sélectionné, alors, seuls le nom et le type sont affichés.Un curseur de zoom vous permettant d'ajuster la taille des icônes dans l'affichage.Des informations d'espace concernant le périphérique courant de stockage.","Dies ist die Statusleiste. Standardmäßig enthält sie drei Elemente (von links nach rechts):Ein Textfeld, das die Größe der ausgewählten Einträge anzeigt. Wenn nur ein Eintrag ausgewählt ist, werden zusätzlich Name und Typ angezeigt.Ein Schieberegler, mit dem Sie die Symbolgröße in der Ansicht einstellen können.Speicherplatzinformationen zum aktuellen Speichergerät.", هذا هو  شريط الحالة . يحتوي على ثلاثة عناصر بشكل افتراضي (من اليسار إلى اليمين):    حقل نصي  يعرض حجم العناصر المحددة. إذا تم تحديد عنصر واحد فقط ، فسيتم عرض الاسم والنوع أيضًا.    شريط تمرير التكبير / التصغير  الذي يسمح لك بضبط حجم الرموز في العرض.    معلومات المساحة  حول جهاز التخزين الحالي.   
+This is the Toolbar. It allows quick access to frequently used actions.It is highly customizable. All items you see in the Menu or in the Menubar can be placed on the Toolbar. Just right-click on it and select Configure Toolbars… or find this action within the menu.The location of the bar and the style of its buttons can also be changed in the right-click menu. Right-click a button if you want to show or hide its text.,Ceci est la barre d'outils. Elle vous donne un accès rapide à toutes les actions les plus fréquemment utilisées.Elle est très fortement paramétrable. Tous les éléments que vous voyez dans le Menu ou dans la barre de menus peuvent être placés sur la barre d'outils. Faites simplement un clic droit sur lui et sélectionnez Configurer les barres d'outils… ou trouvez cette action dans le menu.L'emplacement de la barre et le style de ses boutons peuvent aussi être modifiés dans le menu accessible avec le clic droit. Faites un clic droit sur un bouton si vous voulez afficher ou cacher son texte.,"Dies ist die Werkzeugleiste. Hierüber haben Sie Schnellzugriff auf häufig genutzte Aktionen.Die Leiste kann in großem Umfang angepasst werden. Alle Einträge, die Sie im Menü oder in der Menüleiste sehen, können auch in der Werkzeugleiste platziert werden. Klicken Sie mit der rechten Maustaste darauf und wählen Sie Werkzeugleisten einrichten … oder wählen Sie die Aktion aus dem Menü.Der Ort der Leiste und der Stil ihrer Knöpfe kann ebenfalls über das Kontextmenü angepasst werden. Klicken Sie mit rechts auf einen der Knöpfe, um seinen Text ein- oder auszublenden.",هذا هو شريط الأدوات. الذي يسمح بالوصول السريع إلى الإجراءات المستخدمة بشكل متكرر.   وهو قابل للتخصيص بدرجة كبيرة. يمكن وضع جميع العناصر التي تراها في  القائمة أو في شريط القائمة على شريط الأدوات. فقط انقر بزر الفأرة الأيمن فوقه وحدد  اضبط أشرطة الأدوات ...  أو ابحث عن هذا الإجراء في إعدادات القائمة.   يمكن أيضًا تغيير موقع الشريط ونمط أزراره في قائمة بواسطة النقر بزر الفأرة الأيمن. انقر بزر الفأرة الأيمن فوق الزر إذا كنت تريد إظهار أو إخفاء نصه.
+This is the terminal panel. It behaves like a normal terminal but will match the location of the folder view so you can navigate using either.The terminal panel is not needed for basic computer usage but can be useful for advanced tasks. To learn more about terminals use the help features in a standalone terminal application like Konsole.,"Ceci est le panneau de terminal. Il se comporte comme un terminal standard. Mais, l'emplacement dans le terminal correspondra toujours à l'affichage par dossiers. Ainsi, vous pouvez naviguer dans les deux modes.Le panneau de terminal n'est pas nécessaire pour les utilisations basiques de votre ordinateur. Mais, il peut être utile pour des tâches avancées. Pour en savoir plus concernant les terminaux, veuillez utiliser les fonctionnalités d'aide concernant l'application autonome de terminal comme Konsole.","Dies ist die Terminalleiste. Es verhält sich wie ein normales Terminal, aber seine Adresse stimmt stets mit der des aktuell angezeigten Ordners überein, sodass Sie in beiden gleichermaßen navigieren können.Die Terminalleiste wird für grundlegende Aktivitäten nicht benötigt, kann sich bei komplexeren Aufgaben aber als nützlich erweisen. Um mehr über Terminals zu erfahren, nutzen Sie die Hilfe in einer vollwertigen Terminal-Anwendung wie Konsole.", هذه هي لوحة  الطرفية . تتصرف مثل محطة طرفية عادية ولكنها ستطابق موقعها مع موقع المجلد المعروض حتى تتمكن من التنقل باستخدام أيا منهما.   اللوحة الطرفية ليست ضرورية للاستخدام الأساسي للحاسوب ولكنها يمكن أن تكون مفيدة للمهام المتقدمة. لمعرفة المزيد حول المحطات الطرفية ، استخدم المساعدة في تطبيق طرفي مستقل مثل كونسول. 
+"This is the button that invokes the help feature you are using right now! Click it, then click any component of this application to ask ""What's this?"" about it. The mouse cursor will change appearance if no help is available for a spot.There are two other ways to get help: TheDolphin Handbook and the KDE UserBase Wiki.The ""What's this?"" help is missing in most other windows so don't get too used to this.","Ce bouton permet d'appeler la fonctionnalité d'aide, que vous utilisez correctement maintenant. Veuillez cliquer dessus, puis cliquer sur n'importe quel composant de cette application pour demander « Qu'est-ce que c'est » le concernant. Le pointeur de souris changera d'apparence si aucune aide n'est disponible pour ce composant. Il y a deux autres façons pour obtenir de l'aide pour cette application : lemanuel utilisateur de Dolphin et la page de wiki de « KDE UserBase ».L'aide « Qu'est-ce que c'est ? » est manquante dans la plupart des autres fenêtres. Aussi, ne prenez pas trop l'habitude de cette façon de procéder.","Dieser Knopf startet die Hilfefunktion, die Sie in diesem Moment benutzen. Klicken Sie ihn und anschließend das Element an, zu dem Sie die Frage „Was ist das?“ beantwortet haben möchten. Der Mauszeiger ändert seine Form, wenn an einer Stelle keine Hilfe verfügbar ist. Es gibt zwei weitere Arten, Hilfe zu erhalten: dasDolphin-Benutzerhandbuch und das KDE-Userbase-Wiki.Die Kontexthilfe („Was ist das?“ bzw. das „?“ in der Titelleiste) ist in den meisten anderen Fenstern nicht vorhanden, Sie sollten sich deshalb besser nicht daran gewöhnen."," هذا هو الزر الذي يستدعي ميزة المساعدة التي تستخدمها الآن! انقر فوقه  ثم انقر فوق أي مكون من هذا التطبيق لتسأل ""ما هذا؟"" حوله. سيتغير شكل مؤشر الفأرة في حالة عدم توفر مساعدة بشأن المكون.  هناك طريقتان أخريان للحصول على المساعدة:  دليل دولفين  و  ويكي قاعدة مستخدمي كِيدِي .   مساعدة ""ما هذا؟"" مفقودة في معظم النوافذ الأخرى ، لذا لا تعتاد على ذلك. "
+This opens terminal applications for the selected items' locations.To learn more about terminals use the help features in the terminal application.,"Ceci ouvre des applications de terminaux pour les emplacements des éléments sélectionnés.Pour en apprendre plus sur les terminaux, veuillez utiliser les fonctionnalités d'aide pour l'application de terminal.","Dies öffnet Terminal-Anwendungen für die Adresse des ausgewählten Eintrags.Um mehr über Terminals zu erfahren, benutzen Sie die Hilfe in der Terminal-Anwendung.", هذا يفتح تطبيق  الطرفية  لمواقع العناصر المختارة.  لمعرفة المزيد حول الطرفية، استخدم المساعدة في تطبيق الطرفية. 
+This opens a terminal application for the viewed location.To learn more about terminals use the help features in the terminal application.,"Ceci ouvre une application de terminal pour l'emplacement affiché.Pour en apprendre plus sur les terminaux, veuillez utiliser les fonctionnalités d'aide pour l'application de terminal.","Dies öffnet ein Terminal für die angezeigte Adresse.Um mehr über Terminals zu erfahren, benutzen Sie die Hilfe in der Terminal-Anwendung.", هذا يفتح تطبيق  الطرفية  للموقع  المعروض.  لمعرفة المزيد حول الطرفية ، استخدم المساعدة في تطبيق الطرفية. 
+"This opens a web page where you can donate to support the continued work on this application and many other projects by the KDE community.Donating is the easiest and fastest way to efficiently support KDE and its projects. KDE projects are available for free therefore your donation is needed to cover things that require money like servers, contributor meetings, etc.KDE e.V. is the non-profit organization behind the KDE community.","Ceci ouvre une page Internet où vous vous pouvez donner pour soutenir les travaux en cours sur cette application et sur bien d'autres projets par la communautéKDE.Faire un don est la façon la plus facile et rapide pour soutenir efficacement KDE et ses projets. Ceux-ci sont disponibles librement cependant, votre don est nécessaire pour prendre en charge des choses nécessitant de l'argent comme des serveurs, des réunions des contributeurs, etc.KDE e.V. est une association sans but lucratif derrière la communauté KDE.","Dies öffnet eine Webseite, auf der Sie die fortlaufende Arbeit sowohl an dieser Anwendung als auch anderen Projekten der KDE-Gemeinschaft durch eine Spende unterstützen können.Eine Spende ist die einfachste und effizienteste Art, KDE und dessen Projekte zu unterstützen. KDE-Projekte sind kostenlos verfügbar, sodass wir auf Spenden angewiesen sind, um finanzielle Kosten zu decken, wie etwa Server, Konferenzen usw.KDE e.V. ist der gemeinnützige Verein hinter der KDE-Gemeinschaft.", هذا يفتح  صفحة ويب حيث يمكنك التبرع لدعم العمل المستمر على هذا التطبيق والعديد من المشاريع الأخرى بواسطة مجتمع  كِيدِي .   التبرع هو أسهل وأسرع طريقة لدعم كِيدِي ومشاريعها بكفاءة. مشاريع كِيدِي متاحة مجانًا ، لذلك فإن تبرعك ضروري لتغطية الأشياء التي تتطلب أموالًا مثل الخوادم ، واجتماعات المساهمين ، وما إلى ذلك. المجتمع. KDE e.V. هي منظمة غير ربحية تقف خلف مجتمع كِيدِي.
+This opens a preferred search tool for the viewed location.Use More Search Tools menu to configure it.,Ceci ouvre l'outil de recherche préféré pour les emplacements affichés.Utiliser le menu Plus d'outils de recherche pour le configurer.,"Dies öffnet das für die betrachtete Adresse eingestellte Suchwerkzeug.Benutzen Sie das Menü Weitere Suchwerkzeuge, um das zu konfigurieren.", هذا يفتح أداة بحث مفضلة للموقع المعروض.   استخدم قائمة  المزيد من أدوات البحث  لضبطها. 
+This opens a window in which you can change which buttons appear on the Toolbar.All items you see in the Menu can also be placed on the Toolbar.,Ceci ouvre une fenêtre dans laquelle vous pouvez modifier les boutons devant apparaître dans la barre d'outils. Tous les éléments que vous voyez dans le menu peuvent aussi être placés dans la barre d'outils.,"Dies öffnet ein Fenster, in dem Sie auswählen können, welche Knöpfe auf der Werkzeugleiste angezeigt werden.Alle Einträge, die Sie imMenü sehen, können auch in der Werkzeugleiste abgelegt werden.", هذا يفتح نافذة يمكنك من خلالها تغيير الأزرار التي تظهر على  شريط الأدوات .   جميع العناصر التي تراها في القائمة يمكن أن تضعها على شريط الأدوات أيضاً. 
+This opens a window that lists the keyboard shortcuts.There you can set up key combinations to trigger an action when they are pressed simultaneously. All commands in this application can be triggered this way.,Ceci ouvre une fenêtre listant les raccourcis de clavier.Vous pouvez définir ici des combinaisons de touches pour déclencher une action quand elles sont appuyées simultanément. Toutes les commandes de cette application peuvent être déclencher de cette façon.,"Dies öffnet ein Fenster, das alle Tastaturkürzel auflistet.Darin können Sie Tastenkombinationen einrichten, um beim gleichzeitigen Drücken der Tasten Aktionen auszuführen. Alle Aktionen in dieser Anwendung können auf diese Weise ausgelöst werden.", هذا يفتح نافذة تسرد  اختصارات لوحة المفاتيح .  هناك يمكنك إعداد مجموعات المفاتيح لبدء إجراء عند الضغط عليها في نفس الوقت. يمكن تشغيل جميع الأوامر في هذا التطبيق بهذه الطريقة. 
+This opens a window that will guide you through reporting errors or flaws in this application or in other KDE software.High-quality bug reports are much appreciated. To learn how to make your bug report as effective as possible click here.,"Ceci ouvrira une fenêtre qui vous guidera sur comment signaler des erreurs ou des défauts dans cette applications ou dans d'autres logiciels de KDE.Des rapports de bogues de grande qualité sont très appréciés. Pour apprendre comment rédiger un rapport de bogue de la façon la plus utile possible, veuillez cliquer ici.","Hiermit wird ein Fenster geöffnet, welches Sie durch den Meldevorgang von Fehlern oder Mängeln in dieser Anwendung führt. Wir freuen uns über hochqualitative Fehlerberichte. Klicken Sie hier, um zu erfahren, wie man möglichst effektive Fehlerberichte erstellt.", هذا يفتح نافذة ستوجهك خلال الإبلاغ عن الأخطاء أو العيوب في هذا التطبيق أو في برامج كِيدِي الأخرى.   تقارير الأخطاء عالية الجودة محل تقدير كبير. لمعرفة كيفية جعل تقرير الأخطاء الخاص بك فعالاً قدر الإمكان  انقر هنا . 
+This opens the Handbook for this application. It provides explanations for every part of Dolphin.If you want more elaborate introductions to the different features of Dolphin click here. It will open the dedicated page in the KDE UserBase Wiki.,"Ceci permet l'ouverture du manuel pour cette application. Le manuel fournit des explications pour chaque partie de Dolphin. Si vous voulez des introductions plus précises concernant les différentes fonctionnalités de Dolphin, veuillez cliquer ici. Une page dédiée du wiki « KDE UserBase » s'ouvrira.","Dies öffnet das Benutzerhandbuch für diese Anwendung. Es enthält Erläuterungen für alle Bereiche von Dolphin. Wenn Sie eine ausführlichere Einführung in die verschiedenen Funktionen von Dolphin wünschen, klicken Sie hier. Dies öffnet eine neue Seite des KDE-Userbase-Wikis.",سيفتح لك هذا كتيب استعمال هذا التطبيق، سيقدم لك شرح مفصل عن كل جزء من دولفين. إذا كنت تريد مقدمات أكثر تفصيلا للميزات المختلفة لـ  دولفين   انقر هنا . سيفتح الصفحة المخصصة في ويكي قاعدة مستخدمي كِيدِي. 
+This panel provides in-depth information about the items your mouse is hovering over or about the selected items. Otherwise it informs you about the currently viewed folder.For single items a preview of their contents is provided.You can configure which and how details are given here by right-clicking.,"Ce panneau fournit des informations très précises sur les éléments que votre souris survole ou sur les éléments sélectionnés. Sinon, il vous informe sur le dossier actuellement affiché.Pour les éléments simples, il vous propose un aperçu de leurs contenus. Vous pouvez configurer en faisant un clic droit, quels détails sont affichés et comment.","Diese Seitenleiste liefert detailliertere Informationen über Elemente, über die Sie den Mauszeiger bewegen oder über ausgewählte Elemente. Ansonsten informiert sie über den aktuell angezeigten Ordner.Bei einzelnen Einträgen wird eine Vorschau des Inhalts angezeigt.Welche Details hier wie angezeigt werden, können Sie mit einem Rechtsklick einstellen.",توفر هذه اللوحة معلومات متعمقة حول العناصر التي تحوم الفأرة فوقها أو حول العناصر المحددة. وإلا فإنه يعلمك بالمجلد المعروض حاليًا.  بالنسبة للعناصر الفردية ، يتم توفير معاينة لمحتوياتها.   يمكنك تكوين أي التفاصيل وكيفية عرضها هنا بالنقر بزر الفأرة الأيمن. 
+This panel shows the folders of the file system in a tree view.Click a folder to go there. Click the arrow to the left of a folder to see its subfolders. This allows quick switching between any folders.,Ce panneau affiche les dossiers du système de fichiers dans une vue arborescente.Veuillez cliquer un dossier pour l'ouvrir. Cliquez une flèche sur le coté gauche d'un dossier pour voir les sous-dossiers. Ceci permet un basculement rapide entre n'importe quel dossier.,"Diese Seitenleiste zeigt die Ordner des Dateisystems in einer Baumansicht.Klicken Sie einen Ordner an, um dort hin zu gehen. Klicken Sie auf den Pfeil links des Ordners, um dessen Unterordner aufzuzeigen. Hiermit können Sie schnell zwischen verschiedenen Ordnern hin und her wechseln.", هذه اللوحة تظهر مجلدات  نظام الملفات في   عرض شجرة.   انقر فوق مجلد للانتقال إلى هناك. انقر فوق السهم الموجود على يسار المجلد لرؤية مجلداته الفرعية. يسمح هذا بالتبديل السريع بين أي مجلدات. 
+"This presents a second view side-by-side with the current view, so you can see the contents of two folders at once and easily move items between them.The view that is not ""in focus"" will be dimmed. Click this button again to close one of the views.","Cela présente une deuxième vue côte à côte avec la vue actuelle, de sorte que vous pouvez voir le contenu de deux dossiers à la fois et déplacer facilement des éléments entre eux.La vue qui n'a pas le « focus » sera grisée. Veuillez cliquer à nouveau sur ce bouton pour fermer l'une des vues.","Hiermit wird eine zweite Ansicht Seite an Seite mit der aktuellen Ansicht angezeigt. So können Sie den Inhalt zweier verschiedener Ordner gleichzeitig betrachten und Einträge zwischen ihnen bewegen.Die nicht aktive Ansicht wird abgedunkelt dargestellt.Klicken Sie den Knopf erneut an, um die Ansicht wieder zu schließen.","يقدم هذا طريقة عرض ثانية جنبا إلى جنب مع طريقة العرض الحالية ، لذلك يمكن رؤية محتويات مجلدين في وقت واحد ونقل العناصر بسهولة بينهم.سيُعتم العرض الذي ليس ""في التركيز"".  انقر فوق هذا الزر مرة أخرى لإغلاق إحدى طرق العرض."
+"This refreshes the folder view.If the contents of this folder have changed, refreshing will re-scan this folder and show you a newly-updated view of the files and folders contained here.If the view is split, this refreshes the one that is currently in focus.","Ceci actualise la vue du dossier. Si le contenu du dossier est modifié, l'actualisation permet d'analyser à nouveau le dossier et de vous afficher une vue mise à jour du dossier et des fichiers qu'il contient. Si la vue est scindée, ceci actualise celle qui possède actuellement le focus. ","Dies aktualisiert die Ansicht des Ordners.Wenn sich der Inhalt des Ordners geändert hat, sorgt eine Aktualisierung dafür, dass der Ordner neu eingelesen und die Ansicht der darin enthaltenen Dateien und Ordner neu aufgebaut wird.Wenn eine geteilte Ansicht verwendet wird, aktualisiert dies die gerade aktive Ansicht.", يؤدي هذا إلى تحديث عرض المجلد.   إذا تغيرت محتويات هذا المجلد،  فسيعيد التحديث مسح هذا المجلد ويعرض لك طريقة عرض تم تحديثها مؤخرًا للملفات والمجلدات الموجودة هنا.   في حالة تقسيم العرض، يؤدي ذلك إلى تحديث العرض قيد التركيز حاليًا. 
+This switches between having a Menubar and having an %1 button. Both contain mostly the same actions and configuration options.The Menubar takes up more space but allows for fast and organized access to all actions an application has to offer.The %1 button is simpler and small which makes triggering advanced actions more time consuming.,"Cela permet de passer d'une Barre de menus à un bouton %1. Les deux contiennent essentiellement les mêmes actions et options de configuration. La barre de menus prend plus d'espace, mais permet un accès rapide et mieux organisé à toutes les actions qu'une application peut proposer. Le bouton %1 est plus simple et de plus petite taille, ce qui rend le lancement d'actions avancées plus long. ","Dies schaltet zwischen zwei verschiedenen Menümodi um: einr Menüleiste und einem %1-Knopf. Beide beinhalten weitestgehend dieselben Aktionen und Einstellungsmöglichkeiten.Die Menüleiste benötigt mehr Platz, aber bietet einen schnellen und geordneten Zugriff zu allen Aktionen der Anwendung.Der %1-Knopf ist einfacher und klein, wodurch die Auswahl erweiterter Aktionen mehr Zeit benötigt.", هذا التبديل بين وجود شريط القائمة ووجود زر %1. يحتوي كلاهما في الغالب على نفس الإجراءات وخيارات الضبط.   يشغل شريط القائمة مساحة أكبر ولكنه يسمح بالوصول السريع والمنظم إلى جميع الإجراءات التي يجب أن يقدمها التطبيق.   زر %1 أبسط وصغير مما يجعل تشغيل الإجراءات المتقدمة يستغرق وقتًا أطول. 
+This switches to a compact view mode that lists the folders and files in columns with the names beside the icons.This helps to give you an overview in folders with many items.,Ceci bascule vers une vue synthétique énumérant les dossiers et fichiers en colonnes avec les noms à côté des icônes.Cela vous aide à conserver la vue d'ensemble des dossiers contenant de nombreux éléments.,"Dies aktiviert einen kompakten Ansichtsmodus, der Dateien und Ordner in Spalten auflistet und den Namen neben dem Symbol anzeigt.Dies gibt eine Übersicht bei Ordnern mit vielen Einträgen.", هذا يبدل إلى وضع العرض المضغوط الذي يسرد المجلدات والملفات في أعمدة مع الأسماء بجوار الرموز.   هذا يساعد في الحفاظ على النظرة العامة في مجلدات بها العديد من العناصر. 
+This switches to a list view mode that focuses on folder and file details.Click on a detail in the column header to sort the items by it. Click again to sort the other way around. To select which details should be displayed click the header with the right mouse button.You can view the contents of a folder without leaving the current location by clicking the region to the left of it. This way you can view the contents of multiple folders in the same list.,"Ceci bascule vers une vue en liste, se concentrant sur les détails des dossiers et fichiersCliquez sur une information dans l'en-tête de la colonne pour trier les éléments en fonction de celle-ci. Cliquez à nouveau pour trier dans l'autre sens. Pour sélectionner quelles informations doivent être affichées, cliquez sur l'en-tête avec le bouton droit de la souris.Vous pouvez afficher le contenu d'un dossier sans quitter l'emplacement actuel en cliquant sur la zone à gauche de celui-ci. De cette façon, vous pouvez afficher le contenu de plusieurs dossiers dans la même liste.","Dies aktiviert eine Listenansicht, die sich um Details von Ordnern und Dateien kümmert.Klicken Sie auf eine Spalte in der Kopfzeile, um die Liste nach dieser Eigenschaft zu sortieren. Klicken Sie erneut, um die Suchreihenfolge umzudrehen. Um auszuwählen, welche Details angezeigt werden sollen, klicken Sie die Kopfzeile mit der rechten Maustaste an.Sie können sich den Inhalt eines Ordners ansehen ohne den aktuellen Ort zu verlassen, indem Sie in den Bereich links davon klicken. Auf diese Art können Sie den Inhalt mehrerer Ordner gleichzeitig einsehen.", هذا يبدل إلى وضع عرض القائمة الذي يركز على تفاصيل المجلد والملف.   انقر فوق أحد التفاصيل في رأس العمود لفرز العناصر وفقًا لها. انقر مرة أخرى للفرز في الاتجاه المعاكس. لتحديد التفاصيل التي يجب عرضها ، انقر فوق الرأس بزر الفأرة الأيمن.   يمكنك عرض محتويات المجلد دون مغادرة الموقع الحالي بالنقر فوق يساره. بهذه الطريقة يمكنك عرض محتويات مجلدات متعددة في نفس القائمة. 
+This switches to a view mode that focuses on the folder and file icons. This mode makes it easy to distinguish folders from files and to detect items with distinctive file types. This mode is handy to browse through pictures when the Preview option is enabled.,Bascule sur une vue qui met en valeur les icônes des dossiers et fichiers. Ce mode permet de distinguer facilement les dossiers des fichiers et de détecter les éléments avec des types de fichiers distincts. Ce mode est pratique pour parcourir les images quand l'option Aperçu est activée.,"Dies aktiviert einen Ansichtsmodus, der sich auf Symbole für Dateien und Ordner konzentriert. In diesem Modus ist es leicht, Ordner von Dateien zu unterscheiden und auffällige Dateitypen zu erkennen. Der Modus ist außerdem nützlich beim Blättern durch Bilder, wenn die Vorschau-Option aktiviert ist.", هذا يبدل إلى وضع العرض الذي يركز على أيقونات المجلد والملف. يسهل هذا الوضع التمييز بين المجلدات والملفات واكتشاف العناصر ذات أنواع الملفات المميزة  .   هذا الوضع سهل لتصفح الصور عندما تكون  المعاينة  ممكّنة. 
+This toggles the places panel at the left side of the window.It allows you to go to locations you have bookmarked and to access disk or media attached to the computer or to the network. It also contains sections to find recently saved files or files of a certain type.,Ceci bascule le panneau des emplacements sur le coté gauche de la fenêtre.Il vous permet d'aller sur des emplacements que vous avez marqués ainsi que d'accéder à des disques ou des média de stockage connectés à votre ordinateur ou votre réseau. Il contient aussi des sections pour retrouver les fichiers récemment enregistrés ou des fichiers d'un certain type.,"Dies schaltet die Orte-Seitenleiste am linken Rand des Fensters um.Darüber können Sie zu Orten navigieren, die Sie als Lesezeichen gespeichert haben, sowie zu Speichermedien, die lokal angeschlossen oder über Netzwerk erreichbar sind. Außerdem enthält sie einen Abschnitt zum Auffinden von kürzlich gespeicherten Dateien oder Dateien bestimmter Typen.", هذا يبدل لوحة  الأماكن  في الجانب الأيسر من النافذة.   ويسمح لك بالذهاب إلى المواقع التي قمت بوضع إشارة مرجعية عليها والوصول إلى القرص أو الوسائط المتصلة بالحاسوب أو إلى الشبكة. يحتوي أيضًا على أقسام للعثور على الملفات أو الملفات المحفوظة مؤخرًا من نوع معين. 
+This toggles the terminal panel at the bottom of the window.The location in the terminal will always match the folder view so you can navigate using either.The terminal panel is not needed for basic computer usage but can be useful for advanced tasks. To learn more about terminals use the help features in a standalone terminal application like Konsole.,"Ceci bascule le panneau de terminal en bas de la fenêtre.L'emplacement dans le terminal correspondra toujours à l'affichage par dossiers. Ainsi, vous pouvez naviguer dans les deux modes.Le panneau de terminal n'est pas nécessaire pour les utilisations basiques de votre ordinateur. Mais, il peut être utile pour des tâches avancées. Pour en savoir plus concernant les terminaux, veuillez utiliser les fonctionnalités d'aide concernant l'application autonome de terminal comme Konsole.","Hiermit wird die Terminalleiste am unteren Rand des Fensters umgeschaltet.Die Adresse im Terminal stimmt stets mit der des aktuell angezeigten Ordners überein, sodass sie in beiden gleichermaßen navigieren können.Die Terminalleiste wird für grundlegende Aktivitäten nicht benötigt, kann sich bei komplexeren Aufgaben aber als nützlich erweisen. Um mehr über Terminals zu erfahren, nutzen Sie die Hilfe in einer vollwertigen Terminal-Anwendung wie Konsole.",ت هذه تبدل لوحة  الطرفية  في أسفل النافذة. سيتطابق الموقع في الطرفية مع موقع المجلد المعروض حتى تتمكن من التنقل باستخدام أيا منهما.   اللوحة الطرفية ليست ضرورية للاستخدام الأساسي للحاسوب ولكنها يمكن أن تكون مفيدة للمهام المتقدمة. لمعرفة المزيد حول المحطات الطرفية ، استخدم المساعدة في تطبيق طرفي مستقل مثل كونسول. 
+To show or hide panels like this go to Menu|Panels or View|Panels.,"Pour afficher ou masquer comme ceci, veuillez vous rendre sur Menu|Panneaux ou Affichage|Panneaux.","Um Seitenleisten wie diese auszublenden oder anzuzeigen, gehen Sie zu Menü|Seitenleisten anzeigen oder Ansicht|Seitenleisten anzeigen.",لتعرض أو تخفي لوحات مثل هذه ، اذهب إلى القائمة|اللوحات أو العرض|اللوحات.
+"When this is enabled, hidden files and folders are visible. They will be displayed semi-transparent.Hidden items only differ from normal ones in that their name starts with a dot ("".""). Typically, there is no need for users to access them, which is why they are hidden.Items can also be hidden if their names are listed in a text file named "".hidden"". Files with the ""application/x-trash"" MIME type, such as backup files, can also be hidden by enabling that setting in Configure Dolphin > View > General.","Quand cette option est activée, les fichiers et dossiers cachés sont visibles. Ils seront affichés de manière semi-transparente.Les éléments masqués diffèrent des autres uniquement parce que leur nom commence par un caractère « . ». En général, les utilisateurs n'ont pas besoin d'y accéder, c'est pourquoi ils sont masqués. Les éléments peuvent également être masqués si leurs noms sont répertoriés dans un fichier texte nommé « . hidden ». Les fichiers « MIME » de type « application / x-trash », tels que les fichiers d'archives, peuvent également être masqués en activant ce paramètre dans le menu Configurer Dolphin / Affichage / Général.","Ist diese Option aktiviert, werden versteckte Ordner und Dateien angezeigt. Sie erscheinen dann halbtransparent.Versteckte Einträge unterscheiden sich von normalen nur in dem „.“ am Anfang ihres Namens. Üblicherweise gibt es für einen Nutzer keinen Anlass, auf diese Einträge zuzugreifen, weshalb sie versteckt sind.Elemente können außerdem versteckt werden, indem ihre Namen in eine Datei namens „.hidden“ eingetragen werden. Dateien mit dem MIME-Typ „application/x-trash“, wie etwa Sicherungsdateien, können durch die Aktivierung der entsprechenden Option in Dolphin einrichten→Ansicht→Allgemein ebenfalls ausgeblendet werden.","عند تمكين هذا ، الملفات والمجلدات المخفية ستكون مرئية. ستُعرض شبه شفافة.تختلف العناصر المخفية فقط عن العناصر العادية من حيث أن اسمها يبدأ بنقطة ("".""). عادة، ليست هناك حاجة للمستخدمين للوصول إليها، وهذا هو السبب في أنها مخفية.يمكن أيضا إخفاء العناصر إذا كانت أسماؤها مدرجة في ملف نصي باسم "".hidden"". الملفات التي تحتوي على ""التطبيق/ x-trash"" نوع MIME، مثل ملفات النسخ الاحتياطي، يمكن أيضا إخفاؤها عن طريق تمكين هذا الإعداد في تكوين عرض > دولفين > عام."
+You are about to use administrator privileges. While acting as an administrator you can change or replace any file or folder on this system. This includes items which are critical for this system to function.You are able to delete every users' data on this computer and to break this installation beyond repair. Adding just one letter in a folder or file name or its contents can render a system unbootable.There is probably not going to be another warning even if you are about to break this system.You might want to backup files and folders before proceeding.,"Vous êtes sur le point d'utiliser les droits d'administrateur. En tant qu'administrateur, vous pouvez modifier ou remplacer n'importe quel fichier ou dossier sur ce système. Cela inclut les éléments essentiels au fonctionnement de votre système. Vous pouvez supprimer les données de chaque utilisateur sur cet ordinateur et d'endommager votre installation au-delà de toute réparation. L'ajout d'une seule lettre dans un nom de dossier ou de fichier ou son contenu peut rendre un système non amorçable.Il n'y aura probablement aucun autre avertissement même si vous êtes sur le point d'endommager votre système. Vous pourriez vouloir enregistrer les fichiers et dossiers avant de continuer. ","Sie sind dabei, Systemverwalterberechtigungen einzusetzen. Wenn Sie als Systemverwalter (Administrator) agieren, können Sie jede beliebige Datei und jeden Ordner auf dem System bearbeiten. Dies schließt auch Elemente ein, die für eine ordentliche Funktion des Systems unbedingt notwendig sind.Sie sind in der Lage, auf diesem Rechner die Daten eines beliebigen Nutzers zu löschen sowie diese Installation irreparabel zu beschädigen. Schon die Änderung eines Buchstaben im Namen oder Inhalt eines Ordners oder einer Datei kann dazu führen, dass das System nicht mehr startet.Es gibt wahrscheinlich keine weitere Warnung, selbst wenn Sie kurz davor sind, das System zu beschädigen.Es wird empfohlen, Sicherungen von Dateien und Ordnern anzulegen bevor Sie fortfahren.",أنت على وشك استخدام صلاحيات مدير النظام. أثناء العمل بصلاحيات مدير النظام يمكنك تغيير أو استبدال أي ملف أو مجلد على هذا النظام.يتضمن ذلك العناصر المهمة لكي يعمل هذا النظام.يمكنك حذف بيانات كل المستخدمين على هذا الحاسوب وإتلاف هذا النظام بشكل لا يمكن إصلاحه.  كذلك يمكن أن تؤدي إضافة حرف واحد فقط في اسم المجلد أو الملف أو محتوياته إلى جعل النظام غير قابل للإقلاع.ربما لن يكون هناك تحذير آخر حتى لو كنت على وشك كسر هذا النظام.قد ترغب في نسخ الملفات والمجلدات احتياطيًا قبل المتابعة.
+"Selection ModeSelect files or folders to manage or manipulate them.Press on a file or folder to select it.Press on an already selected file or folder to deselect it.Pressing an empty area does not clear the selection.Selection rectangles (created by dragging from an empty area) invert the selection status of items within.Moving with arrow keys does not change the selection.Pressing %1, %2, or %3 toggles the selection.The available action buttons at the bottom change depending on the current selection.","Mode de sélectionSélectionner des fichiers ou des dossiers à gérer ou à manipuler.Appuyez sur un fichier ou un dossier pour le sélectionner. Appuyez sur un fichier ou dossier déjà sélectionné pour le désélectionner. Un appui sur une zone vide ne supprime pas la sélection. Les rectangles de sélection (créés en faisant glisser une zone vide) inversent l'état de sélection des éléments qui y sont contenus.  Le déplacement avec les touches de flèchene modifie pas la sélection. Un appui sur %1, %2 ou %3 active ou désactive la sélection.Les boutons d'action disponibles en bas changent en fonction de la sélection actuelle. ","AuswahlmodusDateien oder Ordner auswählen, um diese zu verwalten oder zu verändern.Auf eine Datei oder einen Ordner drücken, um sie auszuwählen.Auf eine ausgewählte Datei oder einen ausgewählten Ordner drücken um die Auswahl aufzuheben.Auf eine leere Fläche drücken hebt die Auswahl nicht auf.Rechteck-Auswahl (erstellt durch ziehen auf einer leeren Fläche) kehrt den Auswahlstatus der Elemente um.Die Knöpfe der verfügbaren Aktionen am unteren Rand verändern sich und sind von der aktuellen Auswahl abhängig.",وضع التحديدحدد الملفات أو المجلدات لإدارتها أو معالجتها.اضغط على ملف أو مجلد لتحديده.اضغط على ملف أو مجلد محدد بالفعل لإلغاء تحديده.لا يؤدي الضغط على منطقة فارغة إلى مسح التحديد.تعكس مستطيلات التحديد (التي يتم إنشاؤها عن طريق السحب من منطقة فارغة) حالة تحديد العناصر الموجودة داخلها.لا يؤدي التحرك باستخدام مفاتيح الأسهم إلى تغيير التحديد.يؤدي الضغط على %1 أو %2 أو %3 إلى تبديل التحديد.تتغير أزرار الإجراءات المتوفرة في الأسفل وفقًا للتحديد الحالي.
+A subset of Dolphin settings.,Un sous-ensemble des paramètres de Dolphin,Eine Teilmenge der Dolphin-Einstellungen.,مجموعة فرعية من إعدادات دولفين.
+A-Z,A-Z,A-Z,أ-ي
+Aaron J. Seigo,Aaron J. Seigo,Aaron J. Seigo,Aaron J. Seigo
+Absolute (e.g. '%1'),Absolue (Par exemple « %1 »),Absolut (z.B. „%1“),مطلق (مثل '%1')
+Accessed,Accès,Letzter Zugriff,وُصِل إليه
+Act as Administrator,Agir en tant qu'administrateur,Als Systemverwalter agieren,اعمل بصلاحيات مدير النظام
+Act as Administrator Again,Agir à nouveau en tant qu'administrateur,Nochmals als Systemverwalter agieren,اعمل بصلاحيات مدير النظام مرة أخرى
+Acting as Admin,Agissant en tant qu'administrateur,Als Systemverwalter agieren,تعمل بصلاحيات مدير
+Acting as an Administrator — Be careful!,Fonctionnement en tant qu'administrateur – Soyez prudent !,Als Systemverwalter agieren — Seien Sie vorsichtig!,أنت تعمل بصلاحيات مدير النظام — كن حذرًا!
+Action to trigger when double clicking view background,Action à déclencher lors un double-clic sur l'arrière-plan de la vue,Auszuführende Aktion beim Doppelklick auf den Hintergrund der Ansicht,الإجراء الذي سيفعل عند النقر المزدوج على الخلفية
+Actions for %1,Actions pour %1,Aktionen für „%1“,الإجراءات لـ%1
+Actions for Current View,Actions pour l'affichage courant,Aktionen für die aktuelle Ansicht,الإجراءات للعرض الحالي
+Add Network Folder,Ajouter un dossiers réseau,Netzwerkordner hinzufügen,أضف مجلد على الشبكة
+Add to Places,Ajouter aux emplacements,Zu „Orte“ hinzufügen,أضف إلى الأماكن
+"Adding a dot to the beginning of this file's name will hide it from view.
+Do you still want to rename it?","Ajouter un point au début du nom de fichier cachera celui-ci de la vue.
+Voulez-vous vraiment le renommer ?","Mit einem Punkt am Anfang des Dateinamens wird die Datei in der Ansicht ausgeblendet.
+Möchten Sie die Datei wirklich umbenennen?","ستؤدي إضافة نقطة إلى بداية اسم هذا الملف إلى إخفائه عن العرض. 
+هل ما زلت تريد إعادة تسميته؟"
+"Adding a dot to the beginning of this folder's name will hide it from view.
+Do you still want to rename it?","Ajouter un point au début du nom de dossier cachera celui-ci de la vue.
+Voulez-vous vraiment le renommer ?","Mit einem Punkt am Anfang des Ordnernamens wird die Datei in der Ansicht ausgeblendet.
+Möchten Sie die Datei wirklich umbenennen?","ستؤدي إضافة نقطة إلى بداية اسم هذا المجلد إلى إخفائه عن العرض. 
+هل ما زلت تريد إعادة تسميته؟"
+Additional Information,Informations supplémentaires,Zusätzliche Informationen,معلومات إضافية
+Adjust View Display Style…,Ajuster le style d'affichage de la vue…,Anzeigestil anpassen ...,عدل نمط مشاهدة العرض…
+Administrator authorization has expired.,L'autorisation des droits administrateur a expiré.,Die Systemverwalterrechte sind abgelaufen.,انتهت صلاحية تصريح مدير النظام.
+After current tab,Après l'onglet courant,Hinter aktuellem Unterfenster,بعد اللسان الحالي
+Album,Album,Album,الألبوم
+All folders,Tous les dossiers,Alle Ordner,كلّ المجلدات
+"Alphabetical, case insensitive","Alphabétique, insensible à la casse","Alphabetisch, Groß-/Kleinschreibung ignorieren",أبجديّ، غير حسّاس للحالة
+"Alphabetical, case sensitive","Alphabétique, sensible à la casse","Alphabetisch, Groß-/Kleinschreibung beachten",أبجديّ، حسّاس للحالة
+Also hide backup files while hiding hidden files,Masquez également les fichiers de sauvegarde tout en masquant les fichiers masqués,Sicherungsdateien zusammen mit versteckten Dateien ausblenden,أخف ملفات النسخ الاحتياطيّة عند إخفاء الملفات المخفية
+Also hide files with application/x-trash mimetype,Masquer également les fichiers avec le type « MIME » « application / x-trash »,Auch Dateien mit MIME-Typ „application/x-trash“ verstecken,قم أيضًا بإخفاء الملفات باستخدام نوع mimetype للتطبيق/x-trash
+Always ask,Toujours demander,Immer nachfragen,اسأل دائمًا
+Any Date,N'importe quelle date,Jedes Datum,أي تاريخ
+Any Rating,N'importe quelle note,Beliebige Bewertung,أيّ تقييم
+Any Type,N'importe quel type,Jeder Typ,أي نوع
+Applications,Applications,Programme,التطبيقات
+Apply to:,Appliquer à :,Anwenden auf:,طبّق على:
+Applying View Properties,Appliquer les propriétés d'affichage,Ansichtsmodus festlegen,يطبّق خصائص العرض
+Artist,Artiste,Künstler,الفنّان
+Ascending,Croissant,Aufsteigend,تصاعديًا
+Ask for confirmation in Dolphin when:,Demander confirmation dans Dolphin pour :,Um in Dolphin Bestätigung fragen beim:,اطلب التأكيد في دولفين عند:
+Ask for confirmation in all KDE applications when:,Demander confirmations dans toutes les applications KDE lors de :,In allen KDE-Anwendungen um Bestätigung fragen beim:,اطلب التأكيد في كلّ تطبيقات كِيدِي عند:
+Ask for confirmation when closing windows with a program that is still running in the Terminal panel.,Demander confirmation lors de la fermeture des fenêtres dans lesquelles un programme est en cours d'exécution dans le panneau Terminal.,"Um Bestätigung bitten, wenn Fenster mit mit laufenden Programmen im Terminal geschlossen werden.",اطلب التأكيد عند إغلاق نوافذ ما زالت تشغل برنامج في لوحة الطرفية.
+Ask for confirmation when closing windows with multiple tabs.,Demander confirmation lors de la fermeture des fenêtres comportant des onglets multiples.,"Um Bestätigung bitten, wenn Fenster mit mehreren Unterfenstern geschlossen werden.",التأكيد عند إغلاق النوافذ ذات الألسنة المتعددة.
+Ask for confirmation when opening many folders at once.,Demander une confirmation lors de l'ouverture de plusieurs dossiers en une fois.,"Um Bestätigung bitten, wenn viele Ordner auf einmal geöffnet werden",اطلب التأكيد عند فتح العديد من الملفات في وقت واحد.
+Ask for confirmation when opening many terminals at once.,Demander une confirmation lors de l'ouverture de plusieurs fenêtres de terminal en une fois.,"Um Bestätigung bitten, wenn viele Terminals auf einmal geöffnet werden.",اطلب التأكيد عند فتح العديد من الطرفيات في وقت واحد.
+Aspect Ratio,Rapport d'affichage,Seitenverhältnis,النسبة الباعيّة
+At end of tab bar,A la fin de la barre d'onglets,Am Ende der Unterfensterleiste,عند نهاية شريط الألسنة
+Audio,Audio,Audio,صوت
+Author,Auteur,Autor,المؤلف
+Authorization required to enter this folder.,Autorisation requise pour entrer dans ce dossier.,Eine Authentifizierung ist für das Öffnen dieses Ordners erforderlich.,مطلوب إذن لدخول هذا المجلد.
+Auto-Play media files,Lecture automatique des fichiers de média,Mediendateien automatisch abspielen,التشغيل الآلي لملفات الوسائط
+Auto-play media files,Lire automatiquement les fichiers de média,Mediendateien automatisch abspielen,التشغيل الآلي لملفات الوسائط
+Automatic Column Widths,Largeurs de colonnes automatiques,Spaltenbreite automatisch anpassen,عرض الأعمدة آليّ
+Automatic Scrolling,Défilement automatique,Automatischer Bildlauf,التمرير آليًا
+Automatic scrolling,Défilement automatique,Automatischer Bildlauf,التمرير الآلي
+Autostart,Lancement automatique,Autostart,البدء الآلي
+Background:,Arrière-plan :,Hintergrund:,الخلفيّة:
+"Backup files are the files whose mime-type is application/x-trash, patterns: %1",Les fichiers de sauvegarde sont les fichiers dont le type « MIME » « application/x-trash » se présente comme : %1,"Sicherungsdateien sind Dateien mit dem MIME-Typ „application/x-trash“, Muster: %1",ملفات النسخ الاحتياطي هي الملفات التي يكون نوع mime فيها application/x-trash، والأنماط:%1
+Begin in split view mode,Débuter en mode d'affichage scindé,Starten mit geteilter Ansicht,ابدأ في نمط تقسيم العرض
+Behavior,Comportement,Verhalten,السلوك
+Big,Grande,Groß,كبيرة
+Bitrate,Débit,Bitrate,معدل البِتّات
+Browse through archives,Naviguer dans les archives,Archive durchsehen,تصفّح الأرشيف
+Browsing:,Navigation,Durchsuchen:,التصفح:
+By clicking anywhere on the row,Par un clic n'importe où sur la ligne,Durch einen Klick irgendwo in der Zeile,بالنقر أي مكان على الصف
+By clicking on icon or name,Par un clic n'importe sur une icône ou un nom,Durch einen Klick auf Symbol oder Namen,بالنقر على أيقونة أو اسم
+Close Current Tab,Fermer l'onglet actuel,Aktuelles Unterfenster schließen,أغلق اللسان الحالي
+Cancel,Annuler,Abbrechen,ألغ
+Cancel Copying,Annuler la copie,Kopieren abbrechen,ألغ النسخ
+Cancel Cutting,Annuler la coupe,Ausschneiden abbrechen,ألغ القص
+Cancel Duplicating,Annuler la duplication,Duplizieren abbrechen,ألغ التكرار
+Cancel Moving,Annuler le déplacement,Verschieben abbrechen,ألغ النقل
+Cancel Renaming,Annuler le renommage,Umbenennen abbrechen,ألغ إعادة تسمية
+Cannot copy to other view: No files selected.,Impossible de copier vers une autre vue : aucun fichier sélectionné.,Kopieren in andere Ansicht nicht möglich: Keine Dateien ausgewählt,تعذر النسخ للعرض الآخر: لم يُحدّد أي ملف.
+Cannot copy to other view: The other view already contains these items.,Impossible de copier vers une autre vue : l'autre vue contient déjà ces éléments.,Kopieren in andere Ansicht fehlgeschlagen: Die Elemente sind bereits in der anderen Ansicht enthalten.,تعذر النسخ للعرض الآخر: يحوي العرض الآخر على هذه العناصر فعلًا.
+Cannot copy to other view: You do not have permission to write into the destination folder.,Impossible de copier vers une autre vue : vous n'êtes pas autorisé à écrire dans le dossier de destination.,"Kopieren in andere Ansicht fehlgeschlagen: Sie haben keine Berechtigung, in den Zielordner zu schreiben.",تعذر النسخ للعرض الآخر: ليست لديك الصلاحيات للكتابة في المجلد المستهدف.
+Cannot create new file: You do not have permission to create items in this folder.,Impossible de créer un nouveau fichier : vous n'êtes pas autorisé à créer des éléments dans ce dossier.,"Erstellen des neuen Ordners fehlgeschlagen: Sie haben keine Berechtigung, Elemente in diesem Ordner zu erstellen.",لا يمكن إنشاء ملفًا جديدًا: ليست لديك الصلاحيات لإنشاء عناصر في هذا المجلد.
+Cannot create new folder: You do not have permission to create items in this folder.,Impossible de créer un nouveau dossier : vous n'êtes pas autorisé à créer des éléments dans ce dossier.,"Erstellen des neuen Ordners fehlgeschlagen: Sie haben keine Berechtigung, Elemente in diesem Ordner zu erstellen.",لا يمكن إنشاء مجلدًا جديدًا: ليست لديك الصلاحيات لإنشاء عناصر في هذا المجلد.
+Cannot cut: You do not have permission to move items from this folder.,Impossible de couper : vous n'êtes pas autorisé à déplacer des éléments à partir de ce dossier.,"Ausschneiden fehlgeschlagen: Sie haben keine Berechtigung, Elemente aus diesem Ordner zu verschieben.",لا يمكن القص: ليست لديك الصلاحيات لنقل العناصر في هذا المجلد.
+Cannot delete: You do not have permission to remove items from this folder.,Impossible de supprimer : vous n'êtes pas autorisé à supprimer des éléments à partir de ce dossier.,"Löschen fehlgeschlagen: Sie haben keine Berechtigung, Elemente in diesem Ordner zu entfernen.",لا يمكن الحذف: ليست لديك الصلاحيات لحذف العناصر في هذا المجلد.
+Cannot duplicate here: You do not have permission to create items in this folder.,Impossible de dupliquer ici : vous n'êtes pas autorisé à créer des éléments dans ce dossier.,"Duplizieren hier fehlgeschlagen: Sie haben keine Berechtigung, Elemente in diesem Ordner zu erstellen.",لا يمكن التكرار هنا: ليست لديك الصلاحيات لإنشاء عناصر في هذا المجلد.
+Cannot move to other view: No files selected.,Impossible de déplacer vers une autre vue : aucun fichier sélectionné.,Verschieben in andere Ansicht fehlgeschlagen: Keine Dateien ausgewählt.,تعذر النقل للعرض الآخر: لم يُحدّد أي ملف.
+Cannot move to other view: The other view already contains these items.,Impossible de déplacer vers une autre vue : l'autre vue contient déjà ces éléments.,Verschieben in andere Ansicht fehlgeschlagen: Die Elemente sind bereits in der anderen Ansicht enthalten.,تعذر النقل للعرض الآخر: يحوي العرض الآخر على هذه العناصر فعلًا.
+Cannot move to other view: You do not have permission to move items from this folder.,Impossible de basculer vers une autre vue : vous n'êtes pas autorisé à déplacer des éléments à partir de ce dossier.,"Verschieben fehlgeschlagen: Sie haben keine Berechtigung, Elemente aus diesem Ordner zu verschieben.",لا يمكن النقل للعرض الآخر: ليست لديك الصلاحيات لنقل العناصر في هذا المجلد.
+Cannot move to other view: You do not have permission to write into the destination folder.,Impossible de basculer vers une autre vue : vous n'êtes pas autorisé à écrire dans le dossier de destination.,"Verschieben in andere Ansicht fehlgeschlagen: Sie haben keine Berechtigung, in den Zielordner zu schreiben.",تعذر النقل للعرض الآخر: ليست لديك الصلاحيات للكتابة في المجلد المستهدف.
+Cannot paste: The clipboard is empty.,Impossible de coller : le presse-papier est vide.,Einfügen nicht möglich: die Zwischenablage ist leer.,لا يمكن اللصق: الحافظة فارغة.
+Cannot paste: You do not have permission to write into this folder.,Impossible de coller : vous n'êtes pas autorisé à écrire dans ce dossier.,Einfügen nicht möglich: Sie haben kein Schreibrecht in dem Ordner.,لا يمكن اللصق: ليست لديك الصلاحيات للكتابة في هذا المجلد.
+Cannot rename: You do not have permission to rename items in this folder.,Impossible de renommer : vous n'êtes pas autorisé à renommer les éléments dans ce dossier.,"Umbenennen fehlgeschlagen: Sie haben keine Berechtigung, Elemente in diesem Ordner umzubenennen.",لا يمكن إعادة التسمية: ليست لديك الصلاحيات لإعادة تسمية العناصر في هذا المجلد.
+Change View Mode,Modifier le mode d'affichage,Ansichtsmodus,غيّر وضع العرض
+"Choose Natural, Case Sensitive, or Case Insensitive order of sorting the items","Choisissez un ordre naturel, sensible à la casse ou insensible à la casse pour le tri des éléments",Wählen Sie natürliche oder alphabetische Sortierung unter Beachtung oder Nichtbeachtung der Groß-/Kleinschreibung,اختر ترتيب طبيعي أو حساس لحالة الأحرف أو غير متحسس لحالة الأحرف لفرز العناصر
+Choose what to see on each file or folder:,Choisissez ce que vous voulez afficher sur chaque fichier ou dossier :,Wählen Sie die Informationen für alle Dateien oder Ordner zur Anzeige:,اختر ما تريد رؤيته في كل ملف أو مجلد:
+Choose…,Sélectionner…,Auswählen ...,اختر…
+Close,Fermer,Schließen,أغلق
+Close Left View,Fermer la vue de gauche,Linke Ansicht schließen,أغلق العرض الأيسر
+Close Other Tabs,Fermer les autres onglets,Andere Unterfenster schließen,أغلق الألسنة الأخرى
+Close Right View,Fermer la vue de droite,Rechte Ansicht schließen,أغلق العرض الأيمن
+Close Tab,Fermer l'onglet,Unterfenster schließen,أغلق اللسان
+Close left view,Fermer la vue de gauche,Linke Ansicht schließen,أغلق العرض الأيسر
+Close right view,Fermer la vue de droite,Rechte Ansicht schließen,أغلق العرض الأيمن
+Close the view in focus when turning off split view,Fermer la vue ayant le focus lors de la désactivation de la vue partagée,Aktive Ansicht beim Ausschalten der geteilten Ansicht schließen,أغلق الجزء النشط عند إيقاف العرض المقسم
+Closing windows with a program running in the Terminal panel,Fermer les fenêtres dans lesquelles un programme est en cours d'exécution dans le panneau Terminal,Schließen von Fenstern mit einem laufenden Programm im Terminal,عند إغلاق نوافذ تشغل برنامج في لوحة الطرفية
+Closing windows with multiple tabs,La fermeture des fenêtres comportant des onglets multiples,Schließen von Fenstern mit mehreren Unterfenstern,إغلاق نوافذ تحوي ألسنة متعدّدة
+Combined (e.g. 'drwxr-xr-x (755)'),Combiné (Par exemple « drwxr-xr-x (755) »),Kombiniert (z. B. 'drwxr-xr-x (755)'),مجتمعة (مثل 'drwxr-xr-x (755)')
+Command…,Commande…,Befehl …,الأمر…
+Comment,Commentaire,Kommentar,التعليق
+Compact,Synthétique,Kompakt,مُدمج
+Compact view mode,Mode d'affichage compact,Kompakter Anzeigemodus,وضع العرض المُدمج
+Compare Files,Comparer des fichiers,Dateien vergleichen,قارن الملفات
+Condensed Date,Date au format court,Abgekürztes Datum,التاريخ المكثف
+Configure,Configurer,Einrichten,اضبط
+Configure %1…,Configurer %1...,Einrichten ...,اضبط %1…
+Configure Trash…,Configurer la corbeille…,Papierkorb einrichten ...,اضبط المهملات...
+Configure…,Configurer...,Einrichten ...,اضبط…
+Confirmation,Confirmation,Bestätigung,أكّد
+Confirmations,Confirmations,Bestätigungen,التأكيدات
+Content Display,Affichage du contenu,Inhaltsanzeige,عرض المحتوى
+Context Menu,Menu contextuel,Kontextmenü,قائمة السياق
+Copy,Copier,Kopieren,انسخ
+Copy Location,Copier l'emplacement,Adresse kopieren,انسخ المكان
+Copy Location…,Copier l'emplacement...,Adresse kopieren ...,انسخ المكان…
+Copy to Other View,Copier vers une autre vue,In die andere Ansicht kopieren,انسخ إلى العرض الآخر
+Copy to Other View…,Copier vers une autre vue…,In die andere Ansicht kopieren ...,انسخ إلى العرض الآخر…
+Copy…,Copier...,Kopieren ...,انسخ…
+Could not find package %1.,Impossible de trouver le paquet %1.,Das Paket %1 kann nicht gefunden werden.,لم يعثر على الحزمة %1.
+Count of available Network Shares,Nombre de partages disponibles sur le réseau,Anzahl verfügbarer Netzwerkfreigaben,عدد مشاركات الشبكة المتاحة
+Counting folders: %1,Total des dossiers : %1,Ordner werden gezählt: %1,عدد المجلدات: %1
+Create File…,Créer un fichier...,Ordner erstellen ...,أنشئ ملفًا…
+Create Folder…,Créer un dossier…,Ordner erstellen ...,أنشئ مجلدًا…
+Create New,Créer un nouveau,Neu erstellen,أنشئ جديدًا
+Created,Créé,Erstellt,أُنشئ
+Created folder.,Dossier créé.,Ordner erstellt,أُنشئ مجلد.
+Current folder,Dossier actuel,Aktueller Ordner,المجلد الحالي
+Current folder and sub-folders,Dossier actuel et sous-dossiers,Aktuellen Ordner einschließlich Unterordner,المجلد الحالي والمجلدات الفرعية
+"Current location changed, %1 is no longer accessible.",L'emplacement courant a été modifié. %1 n'est plus accessible.,Aktuelle Ansicht aktualisiert. Auf %1 kann nicht mehr zugegriffen werden.,تغير الموقع الحالي، لم يعد %1 قابلا للوصول.
+Custom Action,Action personnalisée,Benutzerdefiniert Aktion,إجراء مخصّص
+Custom Column Widths,Largeurs de colonnes personnalisées,Eigene Spaltenbreite,عرض الأعمدة مخصّص
+Custom Command,Commande personnalisée,Benutzerdefinierter Befehl,أمر مخصّص
+Custom Font,Police personnalisée,Benutzerdefiniert,خط مخصّص
+Cut,Couper,Ausschneiden,قصّ
+Cut…,Couper…,Ausschneiden ...,قصّ…
+Date Photographed,Date de prise de vue,Datum der Aufnahme,تاريخ التصوير
+Date display format,Format d'affichage de la date,Anzeigeformat des Datums,نسق عرض التاريخ
+Date style:,Style de date :,Datumsstil:,نمط التاريخ:
+David Faure,David Faure,David Faure,David Faure
+Default,Par défaut,Standard,الافتراضي
+Default icon size:,Taille d'icône par défaut :,Standard-Symbolgröße:,حجم الأيقونة المبدئي:
+Defocus Places Panel,Enlever le focus du panneau « Emplacements »,Fokus aus Seitenleiste „Orte“ abziehen,ألغ تركيز لوحة الأماكن
+Defocus Terminal Panel,Enlever le focus du panneau « Terminal »,Fokus aus Terminalleiste abziehen,ألغ تركيز لوحة الطرفية
+Delete,Supprimer,Löschen,احذف
+Delete (using shortcut for Trash),Supprimer (à l'aide du raccourci réservé à la Corbeille),Löschen (mit dem Kurzbefehl für den Papierkorb),احذف (باستخدام اختصار للمهملات)
+Delete operation completed.,L'opération de suppression est terminée.,Löschen abgeschlossen,اكتملت عملية الحذف.
+Delete…,Supprimer...,Löschen ...,احذف…
+Deleting files or folders,La suppression de fichiers ou de dossiers,Löschen von Dateien und Ordnern,حذف ملفات أو مجلدات
+Deletion Time,Heure de suppression,Löschzeitpunkt,وقت الحذف
+Descending,Décroissant,Absteigend,تنازليًا
+Detach Tab,Détacher l'onglet,Unterfenster verselbständigen,افصل اللسان
+Details,Détails,Details,تفاصيل
+Details view mode,Mode d'affichage détaillé,Detailansicht,وضع العرض التفصيلي
+Developer,Développeur,Entwickler,مطوّر
+Dimensions,Dimensions,Abmessungen,الأبعاد
+Disabled,Désactivé,,معطّلة
+Disk Usage Statistics - all devices,Statistiques d'utilisation du disque - Tous les périphériques,Statistik über Festplattenbelegung - alle Geräte,اعرض إحصائيّات القرص - جميع الأجهزة
+Disk Usage Statistics - current device,Statistiques d'utilisation du disque - Périphérique courant,Statistik über Festplattenbelegung - aktuelles Gerät,اعرض إحصائيّات القرص - الجهاز الحالي
+Disk Usage Statistics - current folder,Statistiques d'utilisation du disque - Dossier courant,Statistik über Festplattenbelegung - aktueller Ordner,اعرض إحصائيّات القرص - مجلد الحالي
+Dismiss This Reminder,Ignorer ce rappel,Diesen Hinweis ausblenden,أهمِل هذا التّذكير
+Display style:,Style d'affichage :,Anzeigestil:,نمط العرض:
+Do not ask again,Ne plus poser la question,Diese Nachfrage nicht mehr anzeigen,لا تسأل مجدّدًا
+Do not show any directory size,N'afficher aucune taille de dossiers,Keine Ordnergrößen anzeigen,لا تظهر أيّ حجم دليل
+Do not warn me about these risks again,Ne plus m'avertir de ces risques,Nicht wieder vor diesen Risiken warnen,لا تحذرني من هذه المخاطر مرة أخرى
+Document,Document,Dokument,المستند
+Document to open,Document à ouvrir,Zu öffnendes Dokument,المستند لفتحه
+Documentation,Documentation,Dokumentation,التوثيق
+Dolphin,Dolphin,Dolphin,دولفين
+Dolphin Toolbar,Barre d'outils de Dolphin,Dolphin-Werkzeugleiste,شريط أدوات دولفين
+"Dolphin does not support web pages, the web browser has been launched","Dolphin ne prend pas en charge les pages web, le navigateur a été lancé",Dolphin unterstützt keine Webseiten; der Webbrowser wurde gestartet.,لا يدعم دولفين صفحات الوِب، أُطلِق متصفّح الوِب
+Dolphin must be restarted to apply the updated version control system settings.,Dolphin doit être redémarré pour appliquer la configuration mise à jour pour le système de contrôle de version.,"Sie müssen Dolphin neu starten, um die Änderungen an den Einstellungen zu Versionsverwaltungssystemen anzuwenden.",يجب أن يُعاد تشغيل دولفين لتُطبَّق إعدادات أنظمة التحكّم بالإصدارات المُحدَّثة.
+"Dolphin will add file system metadata to folders you change view properties for. If that is not possible, a hidden .directory file is created instead.","Dolphin ajoutera des métadonnées concernant le système de fichiers aux dossiers dont vous avez modifier les propriétés d'affichage. Si cela est impossible, un fichier masqué « .directory » est créé à la place.","Dolphin schreibt Dateisystem-Metainformationen für Ordner, in denen Sie die Ansichtsoptionen ändern. Wenn dies nicht möglich ist, wird stattdessen eine versteckte Datei „.directory“ erstellt.",سيضيف دولفين بيانات نظام الملفات الوصفية إلى المجلدات التي تغيير خصائص عرضها. إذا لم يكن ذلك ممكنًا، فسينشئ ملف .directory مخفي لذلك.
+Dolphin will explicitly open in a new window.,Dolphin s'ouvrira explicitement dans une nouvelle fenêtre.,Dolphin wird in einem neuen Fenster geöffnet.,سيفتح دولفين صراحة في نافذة جديدة
+Dolphin will get started with a split view.,Dolphin va démarrer avec une vue scindée.,Dolphin wird mit geteilter Ansicht gestartet.,سيبدأ دولفين في نمط تقسيم العرض
+Don't Remind Me Again,Ne pas me le rappeler à nouveau,Diesen Hinweis nicht mehr anzeigen,لا تذكّرني مرة أخرى
+Double-click triggers,Déclencheurs sur double-clics,Doppelklick führt aus,سيؤدي النقر المزدوج إلى
+Download New Services…,Télécharger de nouveaux services…,Neue Dienste herunterladen ...,نزّل خدمات جديدة…
+Downloaded From,Téléchargé depuis,Heruntergeladen von,نُزّل من
+Duplicate Here,Dupliquer ici,Hier duplizieren,كرر هنا
+Duplicate Here…,Dupliquer ici...,Hier duplizieren ...,كرر هنا…
+Duration,Durée,Dauer,المدّة
+Earlier this Month,Plus tôt ce mois-ci,Diesen Monat,أولّ هذا الشهر
+Editable Location,Emplacement modifiable,Editierbare Adressleiste,موقع قابل للتحرير
+Elvis Angelaccio,Elvis Angelaccio,Elvis Angelaccio,Elvis Angelaccio
+Emmanuel Pescosta,Emmanuel Pescosta,Emmanuel Pescosta,Emmanuel Pescosta
+Empties Trash to create free space,Vide la corbeille pour retrouver de l'espace libre,"Löscht den Papierkorb, um Speicherplatz freizugeben",تفرغ المهملات حتى تنشئ مساحة فارغة
+Empty Recently Closed Tabs,Vider les onglets récemment fermés,Liste kürzlich geschlossener Unterfenster leeren,امسح الألسنة المُغلقة حديثًا
+Empty Trash,Vider la corbeille,Papierkorb leeren,أفرغ المهملات
+Emptying trash,Suppression des fichiers de la corbeille,Leeren des Papierkorbs,يفرغ المهملات
+Enabled plugins,Modules externes activés,Aktivierte Module,الملحقات ممكّنة
+Enlarge Small Previews,Agrandir les petits aperçus,Kleine Vorschaubilder vergrößern,تكبير المعاينات الصغيرة
+Enter custom command to trigger when double clicking view background,Saisissez une commande personnalisée à déclencher lors d'un double-clic sur l'arrière-plan de la vue,"Geben Sie den Befehl ein, der bei einem Doppelklick auf den Hintergrund ausgeführt werden soll",أدخل أمرًا مخصصًا ليشغل عند النقر المزدوج على الخلفية
+Enter home location path,Saisissez l'emplacement du dossier personnel.,Pfad zum Startordner eingeben,أدخل مسار موقع المنزل
+Enter server URL (e.g. smb://[ip address]),"Saisir l'URL du serveur (Par exemple, smb://[adresse IP])",Serveradresse eingeben (z.B. smb://[IP-Adresse]),أدخل عنوان الخادم (مثل smb://[ip address])
+Everywhere,Partout,Überall,في كل مكان
+"Execute,","Exécution,","Ausführen,",تنفيذ،
+Exit Selection Mode,Quitter un mode de sélection,Auswahlmodus beenden,اخر من وضع التحديد
+Expandable,Expansible,Aufklappbar,قابلة للتوسيع
+Expandable folders,Dossiers expansibles,Aufklappbare Ordner,مجلّدات قابلة للتوسيع
+Felix Ernst,Felix Ernst,Felix Ernst,Felix Ernst
+File Extension,Extension de fichier,Dateierweiterung,امتداد الملفّ
+File Indexing,Indexation des fichiers,,فهرسة الملفات
+File Manager,Gestionnaire de fichiers,Dateiverwaltung,مدير ملفات
+File Type:,Type de fichier :,Typ:,نوع الملف:
+File contents,Contenu de fichier,Dateierweiterung,محتويات ملف
+File names,Nomq de fichier,Dateinamen,أسماء الملفات
+File names and contents,Noms et contenu des fichiers,,أسماء الملفات ومحتوياتها
+Files containing “%1”,Fichiers contenant « %1 »,,الملفات التي تحتوي على ”%1“
+Files containing “%1” in %2,Fichiers contenant « %1 » dans %2,,الملفات التي تحتوي على ”%1“ في %2
+Filter,Filtrer,Filtern,المرشّح
+Filter…,Filtrer...,Filter ...,المرشّح…
+Find File…,Rechercher un fichier…,Dateien suchen ...,اعثر على ملف…
+Finish,Terminer,Fertigstellen,أنهِ
+Finish acting as an administrator,Terminer de fonctionner en tant qu'administrateur,Das Agieren als Systemverwalter fertigstellen,أنه العمل بصلاحيات مدير النظام
+Focus Places Panel,Mettre le focus sur le panneau « Emplacements »,Seitenleiste „Orte“ aktivieren,ركز على لوحة الأماكن
+Focus Terminal Panel,Mettre le focus sur le panneau Terminal,Terminalleiste aktivieren,ركز على لوحة الطرفية
+Folder is empty,Le dossier est vide.,Der Ordner ist leer,المجلد فارغ
+Folder size:,Taille de dossier :,Ordnergröße:,حجم المجلّدات:
+Folders,Dossiers,Ordner,مجلدات
+Folders && Tabs,Dossiers et onglets,Ordner && Unterfenster,المجلدات والألسنة
+Folders First,Les dossiers d'abord,Ordner zuerst,المجلدات أولًا
+"Folders, tabs, and window state from last time","État des dossiers, des onglets et des fenêtres depuis le dernier moment","Ordner, Unterfenster und Fensterzustand vom letzten Start",المجلدات وألسنة وحالة النافذة من المرة السابقة
+Folders:,Dossiers :,Ordner:,المجلّدات:
+Folders: %1,Dossiers : %1,Ordner: %1,المجلدات: %1
+For more advanced searches:,Pour des recherches plus avancées :,,لإجراء عمليات بحث أكثر تقدمًا:
+Forbidden,Interdit,Unzulässig,ممنوع
+Frame Rate,Fréquence d'image,Bildwiederholrate,معدل الإطارات
+Frank Reininghaus,Frank Reininghaus,Frank Reininghaus,Frank Reininghaus
+Free Up Disk Space,Libérer de l'espace disque,Festplattenplatz freigeben,حرر مساحة القرص
+Full width,Pleine largeur,Beschriftungsbreite:,كامل العرض
+General,Général,Allgemein,عامّ
+Genre,Genre,Genre,النوع
+Go back,Revenir en arrière,Zurück,ارجع للخلف
+Go forward,Avancer,Vorwärts,اذهب للأمام
+Go to Last Tab,Aller au dernier onglet,Zum letzten Unterfenster gehen,انتقل إلى  آخر لسان
+Go to Next Tab,Aller à l'onglet suivant,Zum nächsten Unterfenster gehen,انتقل إلى اللسان التالي
+Go to Previous Tab,Aller à l'onglet précédent,Zum vorherigen Unterfenster gehen,انتقل إلى اللسان السابق
+Go to Tab %1,Aller à l'onglet %1,Zu Unterfenster %1 gehen,انتقل إلى اللسان %1
+"Go to your Home folder.Every user account has their own Home that contains their personal files, as well as hidden folders for their applications' data and configuration files.","Allez vers votre emplacement Dossier Personnel.  Chaque compte utilisateur possède leur propre Dossier Personnel, contenant leurs données personnelles, y compris les dossiers masqués pour leurs données des applications et leurs fichiers de configuration.","Zum persönlichen Ordner wechseln.Jedes Benutzerkonto hat seinen eigenen persönlichen Ordner, in dem dessen eigene Dateien liegen. Außerdem befinden sich hier versteckte Ordner, die Daten und Einstellungen von Anwendungen enthalten.",اذهب إلى مجلد المنزل.  لكل حساب مستخدم  منزل  الذي يحتوي على بياناته بما في ذلك المجلدات التي تحتوي على بيانات التطبيق الشخصية.
+Grouped Sorting,Tri par groupe,In Gruppen sortieren,فرز مُجمَّع
+Have the startup settings been modified (internal setting not shown in the UI),Vérifier si les paramètres de démarrage ont été modifiés (réglage interne non affiché dans l'interface graphique),"Sind die Starteinstellungen geändert worden (interne Einstellung, die nicht in der grafischen Oberfläche sichtbar ist)",أعُدِّلت إعدادات البدء (الإعداد الدخلي لا يظهر في الواجهة الرسومية)
+Header column widths,Largeurs des colonnes d'en-têtes,Spaltenbreite der Kopfzeile,عرض عواميد التّرويسة
+Height,Hauteur,Höhe,الارتفاع
+Here,À partir d'ici,Ab hier,هنا
+Hidden Files Last,Fichiers cachés en dernier,Versteckte Dateien zuletzt,الملفّات المخفيّة في الأخير
+Hidden files shown,Fichiers cachés affichés,Versteckte Dateien werden angezeigt,إظهار الملفات المخفية
+Hide Filter Bar,Cacher la barre de filtre,Filterleiste ausblenden,أخفِ شريط المرشّح
+Hide this File?,Cacher ce fichier ?,Diese Datei ausblenden?,أأخفي هذا الملف؟
+Hide this Folder?,Cacher ce dossier ?,Diesen Ordner ausblenden?,أأخفي هذا المجلد؟
+Highest First,Les mieux notés d'abord,Höchste zuerst,الأعلى أولا
+Highlight entire row,Mettre en surbrillance la totalité de la ligne,Gesamte Zeile hervorheben,أبرز كامل الصف
+Holger Freyther,Holger Freyther,Holger Freyther,Holger Freyther
+Home URL,URL du dossier personnel,Startordner,مسار المنزل
+How to Administrate,Comment agir en tant qu'administrateur,Administration,كيف تدير النظام
+How we display the size of directories,Quel affichage pour la taille des dossiers,Wie wir die Größe von Ordnern anzeigen,كيف نعرض حجم الأدلة
+Huge,Énorme,Riesig,ضخم
+I Understand and Accept These Risks,Je comprends et accepte ces risques,Ich verstehe und akzeptiere diese Risiken,أنا أفهم وأقبل هذه المخاطر
+Icon size,Taille des icônes,Symbolgröße,حجم الأيقونة
+Icons,Icônes,Symbole,أيقونات
+Icons view mode,Mode d'affichage en icônes,Symbolansicht,وضع عرض الأيقونات
+"If the view has been split, this will pop the view in focus out into a new window.","Si la vue a été scindée, cela ouvrira la vue ayant le focus dans une nouvelle fenêtre.","Wenn eine geteilte Ansicht verwendet wird, löst dies die aktive Ansicht heraus in ein neues Fenster.",إذا كان عرض المجلدات مقسوما، فسيؤدي ذلك إلى فصل العرض النشط إلى نافذة جديدة.
+Image,Image,Bild,الصورة
+Information,Informations,Informationen,المعلومات
+Information Panel:,Panneau d'informations :,Informationsanzeige:,لوحة المعلومات:
+Install Filelight…,Installer Filelight…,Filelight installieren …,ثبت كاشف الملفات…
+Install KFind…,Installer KFind…,Filelight installieren …,ثبت برنامج بحثك KFind…
+Install Konsole,Installer Konsole,Konsole installieren,ثبت كونسول
+Installation exited without reporting success. (%1),L'installation s'est terminée avec des erreurs. (%1),Das Installieren wurde ohne positive Rückmeldung beendet. (%1),انتهى التثبيت دون نجاح. (%1)
+Installing %1 failed: %2 (%3)Please try installing %1 manually instead.,L'installation de l'application %1 a échoué : %2 (%3)Veuillez essayer d'installer manuellement l'application %1 à la place.,Das Installieren von %1 ist fehlgeschlagen. %2 (%3)Bitte versuchen Sie stattdessen das manuelle Installieren von %1.,فشل تثبيت %1: %2 (%3)يرجى محاولة تثبيت %1 يدويًا بدلاً من ذلك.
+Installing Filelight…,Installation de Filelight en cours…,Filelight wird installiert …,يثبت كاشف الملفات…
+Installing KFind,Installation de KFind en cours,Filelight wird installiert …,يثبت بحثك KFind
+Interface,Interface,Benutzeroberfläche,الواجهة
+"Internal config version of Dolphin, mainly Used to determine whether an updated version of Dolphin is running, so as to migrate config entries that were removed/renamed ...etc","Version interne de Dolphin, utilisée principalement pour déterminer si une version mise à jour de Dolphin s'exécute et s'il est nécessaire de migrer les entrées de configuration ayant été supprimées / renommées, etc.","Interne Konfigurationsversion von Dolphin. Hauptsächlich dazu genutzt um festzustellen, ob eine aktualisierte Version von Dolphin verwendet wird, damit entfernte/verschobene/etc. Konfigurationseinträge migriert werden können.",إصدارة ضبط داخلي من دولفين، تستخدم بشكل أساسي لتحديد ما إذا كان إصدار محدث من دولفين قيد التشغيل أم لا؛ وذلك لترحيل إدخالات الضبط التي أزيلت/ أعيد تسميتها ... إلخ
+Invalid protocol,Protocole non valable,Ungültiges Protokoll,ميفاق غير صالح
+Invalid protocol '%1',Protocole non valable « %1 »,Ungültiges Protokoll „%1“,ميفاق غير صالح '%1'
+Invert Selection,Inverser la sélection,Auswahl umkehren,اعكس التحديد
+KDiskFree,KDiskFree,KDiskFree,KDiskFree
+Keep Filter When Changing Folders,Conserver le filtre en changeant de dossiers,Filter beim Wechsel der Ordner behalten,أبقِ المرشّح عند تغيير المجلدات
+"Keep a single Dolphin window, opening new folders in tabs","Conservez une seule fenêtre de Dolphin, ouvrant de nouveaux dossiers dans les onglets.","Ein einzelnes Dolphin-Fenster beibehalten, neue Ordner werden in Unterfenstern geöffnet",حافظ على نافذة واحدة لدولفين، افتح المجلدات الجديدة في الألسنة.
+Kevin Ottens,Kevin Ottens,Kevin Ottens,Kevin Ottens
+Label font:,Police de l'intitulé :,Schriftart für Beschriftung:,خط اللاصقة:
+Label width:,Largeur de l'intitulé :,Beschriftungsbreite:,عرض اللصيقة:
+Large,Grande,Breit,كبير
+Largest First,Les plus volumineux d'abord,Größte zuerst,الأضخم أوّلًا
+Last Tab,Dernier onglet,Letztes Unterfenster,آخر لسان
+Left side padding,Remplissage sur le côté gauche,Seitlicher Randabstand,الحشو الجانبي الأيسر
+Limit folders panel to home directory if inside home,Limiter le panneau des dossiers au dossier personnel lors qu'on est dans ce dossier,"Ordner-Seitenleiste auf persönlichen Ordner beschränken, wenn ein Ordner innerhalb des persönlichen Ordners geöffnet ist",اقصر لوح المجلدات على الدليل الرئيسي إذا كان بداخل المنزل
+Limit the search to %1 and its subfolders.,Limiter la recherche à %1 et à ses sous-dossiers.,Suche auf „%1„ und dessen Unterordner beschränken,اقصر البحث في %1 ومجلداته الفرعية.
+Limit to Home Directory,Limiter au dossier personnel,Auf persönlichen Ordner beschränken,اقتصر على الدليل المنزل
+Line Count,Nombre de lignes,Zeilenanzahl,عدد الأسطر
+Link Destination,Destination du lien,Verknüpfungsziel,مقصد الرابط
+Loading canceled,Chargement annulé,Ladevorgang abgebrochen,أُلغي التحميل
+Loading folder…,Chargement du dossier…,Ordner wird geladen ...,يحمّل المجلد…
+Loading…,Chargement en cours...,Wird geladen ...,يحمّل…
+Local storage:,Stockage local :,Lokaler Speicherplatz:,التخزين المحلي:
+Location,Emplacement,Adresse,الموقع
+Location Bar,Barre d'emplacement,Adresse,شريط الموقع
+Location View,Affichage des emplacements,Adresse,عرض الموقع
+Location bar:,Barre d'emplacement :,Adressleiste:,شريط الموقع:
+Lock Panels,Verrouiller les panneaux,Seitenleisten sperren,اقفل اللوحات
+Lock the layout of the panels,Verrouiller la disposition des panneaux,Die Anordnung der Seitenleisten sperren,قفل تخطيط اللوحات
+Lowest First,Les moins bien notés d'abord,Niedrigste zuerst,الأدنى أولا
+"MMMM, yyyy","MMMM, yyyy","MMMM, yyyy",MMMM،  yyyy
+Main Toolbar,Barre principale,Haupt-Werkzeugleiste,شريط الأدوات الرئيسية
+Maintainer (2012-2014) and developer,Mainteneur (2012-2014) et développeur,Betreuer (2012-2014) und Entwickler,المصين (2012-2014) ومطوّر
+Maintainer (2014-2018) and developer,Mainteneur (2014-2018) et développeur,Betreuer (2014-2018) und Entwickler,المصين (2014-2018) ومطوّر
+Maintainer (2018-2021) and developer,Mainteneur (2018-2021) et développeur,Betreuer (2018-2021) und Entwickler,المصين (2018-2021) ومطوّر
+Maintainer (since 2021) and developer,Mainteneur (depuis 2021) et développeur,Betreuer (seit 2021) und Entwickler,المصين (منذ 2021) ومطوّر
+Maintainer (since 2021) and developer (since 2019),Mainteneur (depuis 2021) et développeur (depuis 2019),Betreuer (seit 2021) und Entwickler (seit 2019),المصين (منذ2021) ومطوّر (منذ 2019)
+Maintainer and developer (2006-2012),Mainteneur et développeur (2006-2012),Betreuer und Entwickler (2006-2012),المصين ومطوّر (2006-2012)
+Make location bar editable,Rendre la barre d'emplacement éditable,Editierbare Adresszeile anzeigen,اجعل شريط الموقع قابل للتحرير
+Manage Disk Space Usage,Gérer l'utilisation de l'espace disque,,أدر استخدام مساحة القرص
+Max Blazejak,Max Blazejak,Max Blazejak,Max Blazejak
+Maximum lines:,Nombre de lignes maximal :,Maximale Anzahl Zeilen:,أقصى أسطر:
+Maximum text width index (0 means unlimited),Index de largeur de texte maximal (0 signifie illimité),Maximale Textbreite (0 = unbegrenzt),فهرس عرض النصّ الأقصى (0 يعني غير محدود)
+Maximum textlines (0 means unlimited),Nombre de lignes de texte maximal (0 signifie illimité),Maximale Anzahl Textzeilen (0 = unbegrenzt),أسطر النصوص القصوى (0 تعني غير محدود)
+Maximum width:,Largeur maximale :,Maximale Breite:,أقصى عرض:
+Medium,Moyenne,Mittel,متوسّط
+MiB,Mo,MiB,م.بايت
+Michael Austin,Michael Austin,Michael Austin,Michael Austin
+Middle Click,Cliquer avec le bouton central,Mittelklick,النقرة الوسطى
+Miscellaneous:,Divers :,Verschiedenes:,متفرقات:
+Modified,Modifié,Geändert,عُدّل
+Modified since:,Modifié depuis :,Geändert:,عُدّل منذ
+More,Plus,Mehr,المزيد
+Move keyboard focus to and from the Places panel.,Déplacer le focus sur le clavier vers et à partir du tableau de bord « Emplacements ».,Tastaturfokus in und aus der Seitenleiste „Orte“ bewegen.,ينقل تركيز لوحة المفاتيح من وإلى لوحة الأماكن.
+Move keyboard focus to and from the Terminal panel.,Déplacer le focus du clavier vers et depuis le panneau « Terminal ».,Tastaturfokus in und aus der Terminalleiste bewegen.,ينقل تركيز لوحة المفاتيح من وإلى لوحة الطرفية.
+Move left view to a new window,Déplacer la vue de gauche vers une nouvelle fenêtre,Linke Ansicht in ein neues Fenster verschieben,انقل العرض المقسوم الأيسر إلى نافذة جديدة
+Move right view to a new window,Déplacer la vue de droite vers une nouvelle fenêtre,Rechte Ansicht in ein neues Fenster verschieben,انقل العرض المقسوم الأيمن إلى نافذة جديدة
+Move to New Folder…,Déplacer vers le nouveau dossier…,In neuen Ordner verschieben …,انقل إلى مجلد جديد…
+Move to Other View,Déplacer vers une autre vue,In die andere Ansicht verschieben,انقل إلى العرض الآخر
+Move to Other View…,Déplacer vers une autre vue…,In die andere Ansicht verschieben ...,انقل إلى العرض الآخر…
+Move to Trash,Mettre à la corbeille,In den Papierkorb verschieben,انقل إلى المهملات
+Move to Trash…,Déplacer vers la corbeille...,In den Papierkorb verschieben ...,انقل إلى المهملات…
+Moving files or folders to trash,La mise des fichiers ou des dossiers à la corbeille,Verschieben von Dateien und Ordnern in den Papierkorb,نقل ملفات أو مجلدات إلى سلة المهملات
+Méven Car,Méven Car,Méven Car,Méven Car
+Name,Nom,Name,الاسم
+Natural,Naturel,Natürlich,طبيعي
+New Window,Nouvelle fenêtre,Neues Fenster,نافذة جديدة
+New Tab,Nouvel onglet,Neues Unterfenster,لسان جديد
+New tab name:,Nouveau nom de l'onglet :,Neuer Name #,اسم اللسان الجديد:
+New tab will be open after last one,Un nouvel onglet sera ouvert après le précédent,Ein neues Unterfenster wird hinter dem letzten geöffnet,اللسان الجديد سيفتح بعد أخر لسان
+New windows:,Nouvelles fenêtres :,Neue Fenster:,نوافذ جديدة:
+Newest First,Les plus récents d'abord,Neueste zuerst,الأحدث أولاً
+Next Tab,Onglet suivant,Nächstes Unterfenster,اللسان التالي
+No Apple devices found,Aucun périphérique « Apple » trouvé.,Keine Apple-Geräte gefunden,لم يعثر على أجهزة أبل
+No Bluetooth devices found,Aucun périphérique « Bluetooth » trouvé.,Keine Bluetooth-Geräte gefunden,لم يعثر على جهاز بلوتوث
+No MTP-compatible devices found,Impossible de trouver des périphériques compatibles « MTP ».,Kein MTP-kompatibles Gerät gefunden,لم يعثر على جهاز متوافق مع MTP
+"No files tagged with ""%1""",Aucun fichier étiqueté avec « %1 »,Keine Dateien mit „%1“ markiert,"لا توجد ملفات موسومة بـ""%1"""
+No items found.,Aucun élément n'a été trouvé.,Keine Elemente gefunden.,لم يُعثر على عناصر.
+No items matching the filter,Aucun élément correspondant à votre filtrage,Kein passendes Element für den Filter,لا توجد عناصر مطابقة للمرشح
+No items matching the search,Aucun élément correspondant à la recherche,Kein passendes Element für die Suche,لا توجد عناصر مطابقة للبحث
+No recently used items,Aucun élément récemment utilisé,Keine kürzlich benutzten Dateien oder Ordner,لا يوجد عناصر مُستخدَمة مؤخرًا
+No relevant network resources found,Aucune ressource appropriée de réseau trouvée.,Keine passenden Netzwerkressourcen gefunden,لم يعثر على موارد شبكة ذات علاقة
+No shared folders found,Aucun dossier partagé trouvé.,Keine freigegebenen Ordner gefunden,لم يعثر على مجلدات مشاركة
+No tags,Aucune étiquette,Keine Stichwörter,لا وسوم
+None,Aucun,Keiner,لا شيء
+Nothing,Rien,Nichts,لا شيء
+Numeric (Octal) (e.g. '755'),Numérique (Octal) (Par exemple « 755 »),Numerisch (Oktal) (z. B. '755'),رقمي (ثماني عشر) (مثل '755' )
+Oldest First,Les plus anciens d'abord,Älteste zuerst,الأقدم أولاً
+One Week Ago,Il y a une semaine,Vor einer Woche,قبل أسبوع واحد
+Open %1,Ouvrir %1,%1 öffnen,افتح %1
+Open Terminal,Ouvrir un terminal,Terminal öffnen,افتح الطرفية
+Open Path,Ouvrir l'emplacement,Pfad öffnen,افتح المسار
+Open Path in New Tab,Ouvrir l'emplacement dans un nouvel onglet,Pfad in neuem Unterfenster öffnen,افتح المسار في لسان جديد
+Open Path in New Window,Ouvrir l'emplacement dans une nouvelle fenêtre,Pfad in neuem Fenster öffnen,افتح المسار في نافذة جديدة
+Open Preferred Search Tool,Ouvrir l'outil de recherche préféré,Bevorzugtes Suchprogramm öffnen,افتح أداة البحث المفضلة
+Open Terminal,Ouvrir un terminal,Terminal öffnen,افتح الطرفية
+Open Terminal Here,Ouvrir un terminal ici,Terminal hier öffnen,افتح الطرفية هنا
+Open a new Dolphin window,Ouvrir une nouvelle fenêtre Dolphin,Öffnet ein neues Dolphin-Fenster,افتح نافذة دولفين جديدة
+Open archives as folder,Ouvrir les archives en tant que dossier,Archive wie Ordner öffnen,افتح الأرشيفات كمجلدات
+Open files and folders:,Ouvrir des fichiers et des dossiers :,Dateien und Ordner öffnen:,افتح الملفات والمجلدات:
+Open folders during drag operations,Ouvrir les dossiers pendant les opérations de glisser-déposer,Ordner bei Ziehen-Aktionen automatisch öffnen,افتح المجلدات أثناء عمليات السحب
+Open in New Tab,Ouvrir dans un nouvel onglet,In neuem Unterfenster öffnen,افتح في لسان جديد
+Open in New Tabs,Ouvrir dans de nouveaux onglets,In neuen Unterfenstern öffnen,افتح في ألسنة جديدة
+Open in New Window,Ouvrir dans une nouvelle fenêtre,In neuem Fenster öffnen,افتح في نافذة جديدة
+Open in Split View,Ouvrir dans une fenêtre scindée,In geteilter Ansicht öffnen,افتح في عرض منقسم
+Open in application,Ouvrir dans l'application,In Anwendung öffnen,افتح في تطبيق
+Open new tabs:,Ouvrir de nouveaux onglets :,Neue Unterfenster öffnen:,افتح ألسنة جديدة:
+Opening Folders:,Fichiers d'ouverture :,Dateien öffnen:,فتح المجلدات:
+Opening many folders at once,Ouverture de plusieurs dossiers en une fois,Öffnen von vielen Ordnern auf einmal,فتح العديد من الملفات في آن واحد
+Opening many terminals at once,Ouverture de plusieurs fenêtres de terminal en une fois,Öffnen von vielen Terminals auf einmal,فتح العديد من الطرفيات في آن واحد
+Opens the stash virtual directory in a split window,Ouvre le dossier virtuel des éléments mis de côté dans une fenêtre séparée,Öffnet einen virtuellen Zwischenlager-Ordner in einer geteilten Ansicht,يفتح مجلد تخزين افتراضي مؤقت في نافذة منقسمة
+Order in which to sort files,Ordre de tri des fichiers,Sortierreihenfolge für Dateien,قاعدة ترتيب الملفات
+Orientation,Orientation,Ausrichtung,الاتّجاه
+Other,Autre,Weitere,أخرى
+Others,Autres,Weitere,أخرى
+Owner,Propriétaire,Eigentümer,المالك
+Page Count,Compteur de pages,Seitenanzahl,عدد الصفحات
+Panel settings are also available through their context menu. Open it by pressing the right mouse button on a panel.,Les paramètres du panneau sont également disponibles grâce à leur menu contextuel. Veuillez l'ouvrir en appuyant sur le bouton droit de souris positionné sur un panneau.,Leisten-Einstellungen sind außerdem über deren Kontextmenü erreichbar. Öffnen Sie es durch einen Klick mit der rechten Maustaste in der Leiste.,تتوفر إعدادات اللوحة أيضا من خلال قائمة السياق الخاصة بها. افتحها بواسطة الضغط على زر الفأرة الأيمن على اللوحة.
+Panels,Panneaux,Seitenleisten,اللوحات
+Paste,Coller,Einfügen,ألصق
+Paste from Clipboard,Copier à partir du presse-papier,Aus Zwischenablage einfügen,ألصق من الحافظة
+Path,Emplacement,Pfad,المسار
+Permissions,Droits d'accès,Berechtigungen,التصاريح
+Permissions style format,Format de style des droits d'accès,Berechtigungen-Format,تنسيق نمط التصريحات
+Permissions style:,Style des droits d'accès :,Berechtigungen-Stil:,نمط التصريحات:
+Peter Penz,Peter Penz,Peter Penz,Peter Penz
+Place two views side by side,Placer deux vues côte à côte,Zwei Ansichten nebeneinander platzieren,ضَعْ عرضين جنباً إلى جنب
+Places,Emplacements,Orte,الأماكن
+Pop out,Faire apparaître,Herauslösen,افصل
+Pop out Left View,Faire apparaître la vue de gauche,Linke Ansicht herauslösen,انسخ إلى العرض الآخر
+Pop out Right View,Faire apparaître la vue de droite,Rechte Ansicht herauslösen,انسخ إلى العرض الآخر
+Position of columns,Position des colonnes,Position der Spalten,موضع الأعمدة
+Preview,Aperçu,Vorschau,معاينة
+Preview icon size:,Taille d'icône de l'aperçu :,Vorschau-Symbolgröße:,حجم أيقونة المعاينة:
+Preview size,Taille des aperçus,Vorschaugröße,حجم المعاينة
+Previews,Aperçus,Vorschauen,المعاينات
+Previews shown,Aperçus affichés,Vorschauen werden angezeigt,إظهار المعاينات
+Previous Tab,Onglet précédent,Vorheriges Unterfenster,اللسان السابق
+Properties,Propriétés,Eigenschaften,الخصائص
+Properties last changed,Dernières modifications des propriétés,Eigenschaften zuletzt geändert,آخر تغيير للخصائص
+"Protocol not supported by Dolphin, default application has been launched","Protocole non pris en charge par Dolphin, l'application par défaut a été lancée",Das Protokoll wird von Dolphin nicht unterstützt; die zugehörige Standardanwendung wurde gestartet.,لا يدعم دولفين هذا الميفاق، شُغل التطبيق المبدئي
+Publisher,Éditeur,Herausgeber,الناشر
+Quit searching,Quitter la recherche,Suche beenden,أنهِ البحث
+Rafael Fernández López,Rafael Fernández López,Rafael Fernández López,Rafael Fernández López
+Rating,Note,Bewertung,التقييم
+Rating:,Note :,Bewertung:,التّقييم:
+"Read,","Lecture,","Lesen,",قراءة،
+Recently Closed Tabs,Onglets récemment fermés,Kürzlich geschlossene Unterfenster,الألسنة المُغلقة حديثًا
+Recursive directory size limit,Limite de taille des dossiers de façon récursive,Rekursive maximale Ordnergröße,حد حجم الدليل التكراري
+Refresh view,Rafraîchir l'affichage,Ansicht aktualisieren,أنعش العرض
+Relative (e.g. '%1'),Relative (Par exemple « %1 »),Relativ (z.B. „%1“),نسبي (مثل '%1')
+Release Year,Année de publication,Jahr der Veröffentlichung,سنة الإطلاق
+Reload,Recharger,Aktualisieren,أعد التحميل
+Remember display style for each folder,Mémoriser le style d'affichage pour chaque dossier,Anzeigestil für jeden Ordner merken,تذكّر نمط العرض لكلّ مجلد
+Remember open folders and tabs,Se rappeler des dossiers et des onglets ouverts,Geöffnete Ordner und Unterfenster merken,تذكر  المجلدات و الألسنة المفتوحة
+Remote storage:,Stockage distant :,Entfernte Speicher:,التخزين الخارجي:
+Remove Filter,Supprimer un filtre,Filtern,أزل المرشّح
+Rename Tab,Renommer l'onglet,%2 umbenennen,أعد تسمية اللسان
+Rename and Hide,Renommer et cacher,Umbenennen und Ausblenden,أعد تسمية وأخفها
+Rename single items inline,Renommer en ligne des éléments individuels,Einzelne Elemente direkt umbenennen,أعد تسمية العناصر الفردية المضمنة
+Rename…,Renommer…,Umbenennen ...,أعد التسمية…
+Renaming multiple items is always done with a dialog window.,Le renommage d'éléments multiples se fait toujours grâce à une fenêtre de dialogue.,Das Umbenennen mehrerer Elemente findet stets in einem Dialogfenster statt.,تُعاد تسمية عناصر متعددة دائما باستخدام نافذة حوار.
+Replace Location,Substituer un emplacement,Adresse ändern,استبدل الموقع
+Reset Zoom Level,Réinitialise le niveau de zoom,Vergrößerung zurücksetzen,صفر مستوى التكبير
+Restart now?,Re-démarrer maintenant ?,Jetzt neu starten?,أعِد التشغيل الآن؟
+Return to the previously viewed folder.,Revenir au dossier affiché précédemment.,Zum vorherigen Ordner zurück gehen.,يرجع إلى الملف المعروض سابقا
+Right side padding,Remplissage sur le côté droit,Seitlicher Randabstand,الحشو الجانبي الأيمن
+Risks of Acting as an Administrator,Risques d'agir en tant qu'administrateur,Risiken beim Agieren als Systemverwalter,مخاطر العمل بصلاحيات مدير النظام
+Run script,Exécuter un script,Skript ausführen,شغل سكربت
+Running Dolphin with sudo is discouraged. Please run %1 instead.,Le lancement de l'application Dolphin avec la commande sudo est déconseillée. Veuillez lancer %1 à la place.,Das Ausführen von Dolphin mit sudo wird nicht empfohlen. Bitte führen Sie stattdessen %1 aus.,ينصح بتشغيل دولفين باستخدام sudo. يرجى تشغيل %1 بدلاً من ذلك.
+Running Dolphin as root can be dangerous. Please be careful.,Exécuter Dolphin en tant qu'administrateur peut s'avérer dangereux. Soyez prudent.,Die Ausführung von Dolphin als Systemverwalter kann gefährlich sein. Bitte beachten Sie das.,قد يكون تشغيل دولفين كجذر أمرًا خطيرًا. رجاءا كن حذرا.
+Save this search to quickly access it again in the future,Enregistrer cette recherche pour y accéder rapidement à l'avenir,Diese Suche zur späteren Verwendung speichern,احفظ هذا البحث للوصول إليه بسرعة مرة أخرى في المستقبل
+Search,Rechercher,Suche,ابحث
+Search all directories from the root up.,Rechercher dans tous les dossiers à partir de la racine.,,يبحث في كل ملفات النظام
+Search all indexed locations.Configure which locations are indexed in System Settings|Workspace|Search.,Rechercher tous les emplacements indexés.Veuillez configurer quels emplacements sont indexés dans Configuration du système / Espace de travail / Recherche.,,ابحث في جميع المواقع المُفهرسة.اضبط المواقع المُفهرسة في إعدادات النظام|مساحة العمل|بحث.
+Search for files and folders,Rechercher des fichiers et des dossiers,Nach Dateien und Ordnern suchen,ابحث عن الملفات والمجلدات
+Search in file contents…,Rechercher dans le contenu du fichier…,,ابحث في محتويات ملفات…
+Search in:,Rechercher dans :,Suchen:,ابحث في:
+Search items tagged “%1”,Rechercher des éléments étiquetés « %1 »,,ابحث العناصر الموسومة بـ”%1“
+Search items tagged “%1” and “%2”,Rechercher les éléments étiquetés « %1 » et « %2 »,,ابحث العناصر الموسومة بـ”%1“ و ”%2“
+Search items tagged “%1” and “%2” in %3,Rechercher les éléments étiquetés « %1 » et « %2 » dans %3,,ابحث العناصر الموسومة بـ”%1“ و ”%2“ في %3
+Search items tagged “%1” in %2,Rechercher les éléments étiquetés « %1 » dans « %2 »,Suchen nach %1 in %2,ابحث العناصر الموسومة بـ”%1“ في %2
+Search results,Résultats de recherche,Suchen nach,نتائج البحث
+Search results for “%1”,Résultats de recherche pour « %1 »,Suchen nach %1,نتائج البحث عن ”%1“
+Search results for “%1” in %2,Rechercher des résultats pour « %1 » dans %2,Suchen nach %1 in %2,نتائج البحث عن ”%1“ في %2
+Search results in %1,Résultats de la recherche dans %1,Suchen nach %1 in %2,نتائج بحث  في %1
+Search using:,Rechercher en  utilisant :,Suchvorgang ...,البحث باستخدام:
+SearchTool,Outil de recherche,Suchen,أداة البحث
+Searching…,Recherche en cours…,Suchvorgang ...,يبحث…
+Search…,Rechercher...,Suchen ...,ابحث…
+Sebastian Trüg,Sebastian Trüg,Sebastian Trüg,Sebastian Trüg
+Select,Sélectionner,Auswählen,حدّد
+Select Action,Sélectionner une action,Aktion auswählen,اختر إجراء
+Select Files and Folders,Sélectionner des fichiers et des dossiers,Dateien und Ordner auswählen,حدد الملفات والمجلدات
+Select Home Location,Sélectionner un emplacement de dossier personnel,Startordner auswählen,اختر موقع المنزل
+Select Items Matching…,Sélectionner les éléments correspondants…,Passende Elemente auswählen ...,حدّد العناصر المطابقة…
+Select Remote Charset,Sélectionner un jeu de caractères distant,Entfernte Zeichenkodierung wählen,اختر طقم محارف بعيد
+Select all items matching this pattern:,Sélectionnez tous les éléments correspondant à ce motif :,"Elemente auswählen, die auf folgendes Muster passen:",حدّد كلّ العناصر المطابقة لهذا النمط:
+Select one file or folder whose location should be copied.,Sélectionnez un fichier ou dossier dont l'emplacement doit être copié.,"Wählen Sie eine Datei oder einen Ordner, deren Speicherort kopiert wird.",حدد ملف أو مجلد التي سيُنسخ موقعها.
+"Select the file or folder that should be renamed.
+Bulk renaming is possible when multiple items are selected.","Sélectionnez le fichier ou le dossier devant être renommé.
+Le renommage de masse est possible lorsque plusieurs éléments sont sélectionnés.","Die Datei oder den Ordner auswählen, die umzubenennen sind.
+Mehrfachumbenennung ist möglich indem mehrere Elemente ausgewählt werden.","حدد الملف أو المجلد الذي يجب إعادة تسميته. 
+يمكن إعادة تسمية بالجملة عند تحديد عناصر متعددة."
+Select the files and folders that should be copied over.,Sélectionnez les fichiers et les dossiers devant être copiés.,Wählen Sie die rüber zu kopierenden Dateien und Ordner aus.,حدد الملفات والمجلدات التي يجب نسخها للموقع الجديد.
+Select the files and folders that should be copied.,Sélectionnez les fichiers et dossiers devant être copiés.,Wählen Sie die zu kopierenden Dateien und Ordner aus.,حدد الملفات والمجلدات التي ستُنسخ.
+Select the files and folders that should be cut.,Sélectionnez les fichiers et dossiers devant être coupés.,Wählen Sie die auszuschneidenden Dateien und Ordner aus.,حدد الملفات والمجلدات التي ستُقص.
+Select the files and folders that should be duplicated here.,Sélectionnez les fichiers et les dossiers devant être dupliqués ici.,Wählen Sie die zu duplizierenden Dateien und Ordner aus.,حدد الملفات والمجلدات التي ستُكرر هنا.
+Select the files and folders that should be moved over.,Sélectionnez les fichiers et les dossiers devant être déplacés.,Wählen Sie die rüber zu verschiebenden Dateien und Ordner aus.,حدد الملفات والمجلدات التي يجب نقلها للموقع الجديد.
+Select the files and folders that should be moved to the Trash.,Sélectionnez les fichiers et les dossiers devant être déplacés vers la corbeille.,Wählen Sie die in den Papierkorb zu verschiebenden Dateien und Ordner aus.,حدد الملفات والمجلدات التي يجب نقلها لسلة المهملات.
+Select the files and folders that should be permanently deleted.,Sélectionnez les fichiers et les dossiers devant être supprimés définitivement ici.,Wählen Sie die zu löschenden Dateien und Ordner aus.,حدد الملفات والمجلدات التي ستُحذف للأبد.
+Select which data should be shown:,Décidez quelles données doivent être affichées :,"Wählen Sie, welche Informationen angezeigt werden sollen:",اختر أيّ البيانات التي يجب أن تظهر:
+Select which services should be shown in the context menu:,Décidez quels services doivent être affichés dans le menu contextuel :,"Wählen Sie die Dienste, die im Kontextmenü angezeigt werden sollen:",اختر الخدمات التي يجب أن تظهر في قائمة السياق:
+Selection,Sélection,Auswahl,التحديد
+Selection Mode,Mode de sélection,Auswahlmodus,وضع التّحديد
+Selection Mode: Click on files or folders to select or deselect them.,Mode de sélection : cliquez sur les fichiers pour les sélectionner ou dé-sélectionner.,"Auswahlmodus: Auf Dateien oder Ordner klicken, um sie auszuwählen oder die Auswahl aufzuheben.",وضع التحديد: انقر على الملفات أو المجلدات لتحديدها أو إلغاء تحديدها.
+Selection mode disabled,Mode « Sélection » désactivé,Auswahlmodus,وضع التّحديد معطل
+Selection mode enabled,Mode « Sélection » activé,Auswahlmodus,وضع التّحديد ممكن
+Set up Dolphin for administrative tasks.,Configurez Dolphin pour les tâches administratives.,Dolphin für Systemverwaltungsaufgaben einrichten.,إعداد دولفين للمهام الإدارية.
+Sets the size of the file icons.,Définit la taille des icônes de fichiers.,Legt die Größe der Dateisymbole fest.,يعيّن حجم أيقونات الملفات.
+Settings,Configuration,Einstellungen,الإعدادات
+Should an externally called folder open in a new tab in an existing Dolphin instance,Choisir ou non d'ouvrir un dossier référencé de façon externe dans un nouvel onglet d'une instance existante de Dolphin.,Ob ein von außen aufgerufener Ordner in einem neuen Unterfenster in einem bestehenden Dolphinfenster geöffnet werden soll,أيجب فتح مجلد في علامة تبويب جديدة في نسخة دولفين الحالية عندما يستدعى خارجيًا.
+Should the URL be editable for the user,Décider si l'URL devra ou non être modifiable par l'utilisateur,Soll die Adresszeile durch den Benutzer editierbar sein?,أيجب أن يتمكّن المستخدم من تحرير المسار
+Should the filter bar be shown,Décider si la barre de filtre devra ou non être affichée,Soll die Filterleiste angezeigt werden?,أيجب أن يظهر شريط المرشّح
+Should the full path be shown in the title bar,Décider si l'emplacement complet devra ou non être affiché dans la barre de titre,"Legt fest, ob im Fenstertitel der vollständige Pfad angezeigt werden soll.",أيجب أن يُعرض كامل المسار في شريط العنوان
+Should the full path be shown inside the location bar,Décider si l'emplacement complet devra ou non être affiché dans la barre d'emplacement,"Legt fest, ob in der Adressleiste der vollständige Pfad angezeigt werden soll.",أيجب أن يُعرض كامل المسار في شريط الموقع
+Should the view properties be used for all folders,Décider si les propriétés d'affichage devront ou non être utilisées pour tous les dossiers,Für alle Ordner die gleiche Ansicht verwenden?,أيجب استخدام خصائص المنظور لكل المجلّدات
+Show Terminal Panel,Afficher le Panneau Terminal,Terminalleiste anzeigen,اعرض لوحة الطرفيّة
+Show 'Add to Places' in context menu.,Afficher « Ajouter aux emplacements » dans le menu contextuel.,Eintrag „Zu ‚Orte‘ hinzufügen“ im Kontextmenü anzeigen.,اعرض 'أضف إلى الأماكن' في قائمة السياق
+Show 'Copy Location' in context menu.,Afficher « Copier l'emplacement » dans le menu contextuel.,Eintrag „Adresse kopieren“ im Kontextmenü anzeigen.,اعرض 'انسخ الموقع' في قائمة السياق
+Show 'Copy To' and 'Move To' commands in context menu,Afficher les commandes « Copier vers » et « Déplacer vers » dans le menu contextuel,Einträge „Kopieren nach“ und „Verschieben nach“ im Kontextmenü anzeigen,اعرض 'انسخ إلى' و ' انقل إلى' في قائمة السياق
+Show 'Copy to other split view' in context menu.,Afficher « Copier vers une autre vue scindée » dans le menu contextuel.,Eintrag „In die andere Ansicht kopieren“ im Kontextmenü anzeigen.,اعرض 'انسخ إلى العرض الآخر' في قائمة السياق
+Show 'Duplicate Here' in context menu.,Afficher « Dupliquer ici » dans le menu contextuel.,Eintrag „Hier duplizieren“ im Kontextmenü anzeigen.,اعرض 'كرر هنا' في قائمة السياق
+Show 'Move to other split view' in context menu.,Afficher « Déplacer vers une autre vue scindée » dans le menu contextuel.,Eintrag „In die andere Ansicht verschieben“ im Kontextmenü anzeigen.,اعرض 'انقل إلى العرض الآخر' في قائمة السياق
+Show 'Open In Split View' in context menu.,Afficher « Ouvrir dans une fenêtre scindée » dans le menu contextuel.,Eintrag „In geteilter Ansicht öffnen“ im Kontextmenü anzeigen.,اعرض 'افتح في عرض منقسم' في قائمة السياق
+Show 'Open Terminal' in context menu.,Afficher « Ouvrir dans un terminal » dans le menu contextuel.,„Terminal öffnen“ im Kontextmenü anzeigen.,اعرض أمر 'افتح الطرفية' في قائمة السياق
+Show 'Open in New Tab' and 'Open in New Tabs' in context menu.,Afficher « Ouvrir dans un nouvel onglet » et « Ouvrir dans de nouveaux onglets » dans le menu contextuel.,Einträge „In neuem Unterfenster öffnen“ und „In neuen Unterfenstern öffnen“ im Kontextmenü anzeigen.,اعرض 'افتح في لسان جديد' و 'افتح في ألسنة جديد' في قائمة السياق
+Show 'Open in New Window' in context menu.,Afficher « Ouvrir dans une nouvelle fenêtre » dans le menu contextuel.,Eintrag „In neuem Fenster öffnen“ im Kontextmenü anzeigen.,اعرض 'افتح في نافذة جديدة' في قائمة السياق
+Show 'Sort By' in context menu.,Afficher « Trier par » dans le menu contextuel.,Eintrag „Sortieren nach“ im Kontextmenü anzeigen.,اعرض 'افرز حسب' في قائمة السياق
+Show 'View Mode' in context menu.,Afficher « Mode d'affichage » dans le menu contextuel.,Eintrag „Ansichtsmodus“ im Kontextmenü anzeigen.,اعرض 'نمط العرض' في قائمة السياق
+Show Additional Information,Afficher des informations supplémentaires,Zusätzliche Informationen anzeigen,أظهر معلومات إضافية
+Show Filter Bar,Afficher la barre de filtres,Filterleiste anzeigen,أظهر شريط المرشّح
+Show Hidden Files,Afficher les fichiers cachés,Versteckte Dateien anzeigen,أظهر الملفات المخفية
+Show Hidden Places,Afficher les emplacements cachés,Ausgeblendete Orte anzeigen,أظهر الملفات المخفية
+Show Panels,Afficher les panneaux,Seitenleisten anzeigen,أظهر اللوحات
+Show Previews,Afficher les aperçus,Vorschau anzeigen,اعرض المعاينات
+Show Target,Afficher à la cible,Ziel anzeigen,اظهر المقصد
+Show Zoom Slider,Afficher le curseur de zoom,Größenregler anzeigen,أظهر منزلقة التكبير
+Show a bar for easy pasting after a cut or copy was done using the selection mode bottom bar.,Affiche une barre pour faciliter le collage après une coupe ou une copie effectuée grâce à la barre inférieure du mode de sélection.,"Eine Leiste anzeigen, um auf einfache Weise einzufügen nachdem über die untere Leiste im Auswahllmodus eine Kopieren- oder Ausschneiden-Aktion ausgeführt worden ist.",اعرض شريطًا لتسهيل اللصق بعد إجراء القص أو النسخ باستخدام شريط وضع التحديد.
+Show filter bar,Afficher la barre de filtres,Filterleiste anzeigen,أظهر شريط المرشّح
+Show folders first,Afficher les dossiers d'abord,Ordner zuerst anzeigen,أظهر المجلدات أولًا
+Show folders first when sorting files and folders,Afficher d'abord les dossiers lors du tri des fichiers et des dossiers,Ordner beim Sortieren zuerst anzeigen,أظهر المجلدات أولًا عند فرز الملفات والمجلدات
+Show full path in title bar,Afficher l'emplacement complet dans la barre de titre,Vollständige Adresse im Fenstertitel anzeigen,أظهر كامل المسار في شريط العنوان
+Show full path inside location bar,Afficher l'emplacement complet dans la barre d'emplacement,Vollständige Adresse in der Adressleiste anzeigen,أظهر كامل المسار في شريط الموقع
+Show hidden files,Afficher les fichiers cachés,Versteckte Dateien anzeigen,أظهر الملفات المخفية
+Show hidden files and folders last,Afficher les fichiers et dossiers cachés en dernier,Versteckte Dateien und Ordner zuletzt anzeigen,أظهر الملفات والمجلدات المخفية في الأخير
+Show hidden files last,Afficher les fichiers cachés en dernier,Versteckte Dateien zuletzt anzeigen,أظهر الملفات المخفية في الأخير
+Show home location on startup,Afficher l'emplacement du dossier personnel au démarrage,Persönlichen Ordner beim Start anzeigen,أظهر موقع المنزل عند البدء
+Show in Groups,Afficher par groupes,Elemente gruppieren,أظهر في مجموعات
+Show in groups,Afficher par groupes,Elemente gruppieren,أظهر في مجموعات
+Show item information on hover,Afficher les informations des éléments à son survol,Informationen zum Element beim Überfahren anzeigen,أظهر معلومات العنصر عند التحويم
+Show item on hover,Afficher un élément au survol,Element beim Überfahren anzeigen,أظهر العنصر عند التحويم
+Show no size,N'afficher aucune taille,Keine Größe anzeigen,أظهر أيّ حجم
+Show number of items,Afficher le nombre d'éléments,Anzahl der Elemente anzeigen,أظهر عدد العناصر
+Show on startup:,Afficher au démarrage :,Beim Start anzeigen,أظهر عند البدء:
+Show preview,Afficher un aperçu,Vorschau anzeigen,أظهر معاينة
+Show preview of files and folders,Afficher un aperçu des fichiers et des dossiers,Vorschau für Dateien und Ordner anzeigen,أظهر معاينة للملفات والمجلدات
+Show previews,Afficher des aperçus,Vorschauen anzeigen,أظهر معاينة
+Show previews for,Afficher des aperçus pour,Vorschau anzeigen für,أظهر معاينة
+Show previews for folders,Afficher des aperçus pour les dossiers,Vorschau für Ordner anzeigen,أظهر معاينة للمجلدات
+Show previews in the view for:,Afficher les aperçus dans l'afficheur pour :,Vorschau anzeigen für:,أظهر معايناتٍ في العرض لِـ:
+Show selection marker,Afficher l'indicateur de sélection,Auswahl-Umschalter anzeigen,أظهر مؤشّر الاختيار
+Show selection toggle,Afficher la sélection inversée,Auswahl-Umschalter anzeigen,أظهر قلبَ التحديد
+"Show size of contents, up to","Afficher la taille du contenu, jusqu'à","Größe des Inhalts der Elemente, bis zu",أظهر حجم المحتويات، حتى
+Show the content count,Afficher le nombre de contenu,Anzahl des Inhalts anzeigen,أظهر عدد المحتوى
+Show the content size,Afficher la taille du contenu,Größe des Inhalts anzeigen,أظهر حجم المحتوى
+Show zoom slider,Afficher le curseur de zoom,Größenregler anzeigen,أظهر منزلقة التكبير
+Show zoom slider in the statusbar,Afficher le curseur de zoom dans la barre d'état,Größenregler in der Statusleiste anzeigen,أظهر منزلقة التكبير في شريط الحالة
+Side Padding,Remplissage sur le côté,Seitlicher Randabstand,الحشو الجانبي
+Simple search,Recherche simple,Suche ohne Ergebnis,بحث بسيط
+Size,Taille,Größe,الحجم
+"Size of icons in the Places Panel (-1 means ""automatic"")",Taille des icônes dans le panneau « Emplacements » (Une valeur de -1 signifie « Automatique »),Größe der Symbole in der „Orte“-Seitenleiste (-1 bedeutet „automatisch“),"حجم أيقونات لوحة الأماكن (-1 يعني ""آلي"")"
+Small,Petite,Schmal,صغير
+Smallest First,Les moins volumineux d'abord,Kleinste zuerst,الأصغر أوّلًا
+"Some special views like search, recent files, or trash will still use a custom display style.","Certaines vues spéciales comme la recherche, les fichiers récents ou la corbeille utiliseront toujours un style d'affichage personnalisé.","Einige spezielle Ansichten wie die Suche, Zuletzt verwendete Dateien oder der Papierkorb verwenden weiterhin einen eigenen Anzeigestil.",ستظل بعض طرق العرض الخاصة مثل البحث أو الملفات الحديثة أو المهملات تستخدم نمط عرض مخصص.
+Sort By,Trier par,Sortieren nach,افرز حسب
+Sort files by,Trier les fichiers par,Dateien sortieren nach,فرز الملفات حسب
+Sorting mode:,Mode de tri :,Sortiermodus:,نمط الفرز:
+Sorting:,Tri :,Sortierung:,الفرز:
+Sorting…,Tri en cours...,Wird sortiert …,يفرز…
+Split,Scinder,Teilen,اقسم
+Split view,Scinder la vue,Ansicht teilen,اقسم العرض
+Split view:,Scinder la vue :,Geteilte Ansicht:,قسم العرض:
+Start Dolphin Daemon (only required for DBus Interface).,Lancer le démon de Dolphin (uniquement nécessaire pour l'interface « D-Bus »),Dolphin-Dienst starten (nur für die DBus-Schnittstelle erforderlich).,ابدأ خدمة «دولفين» (مطلوب فقط لواجهة DBus).
+Stash,Mettre de côté,Zwischenlager,تخزين مؤقتا
+Status && Location bars,Barres d'état et d'emplacement,Status- && Adressleisten,الحالة وشريط الموقع
+Status Bar:,Barre d'état :,Statusleiste:,شريط الحالة:
+Statusbar,Barre d'état,Statusleiste:,شريط الحالة
+Stop,Arrêter,Stopp,توقّف
+Stop loading,Arrêter le chargement,Ladevorgang abbrechen,أوقف التحميل
+Successfully copied.,La copie a été effectuée avec succès.,Erfolgreich kopiert,نُسِخ بنجاح.
+Successfully linked.,La liaison a été effectuée avec succès.,Erfolgreich verknüpft,رُبِط بنجاح.
+Successfully moved to trash.,La mise à la corbeille a été effectuée avec succès.,Erfolgreich in den Papierkorb geworfen,نُقِل إلى المهملات بنجاح.
+Successfully moved.,Le déplacement a été effectué avec succès.,Erfolgreich verschoben,نُقِل بنجاح.
+Successfully renamed.,Le renommage a été effectuée avec succès.,Erfolgreich umbenannt,أُعيدَت التسمية بنجاح.
+Switch between views with Tab key,Basculer entre les vues avec la touche « Tab »,Mit der Tabulatortaste zwischen Ansichten wechseln,انتقل بين العروض المنقسمة بواسطة مفتاح Tab
+Switching to act as an administrator,Basculer pour agir en tant qu'administrateur,Wechseln in den Systemverwaltermodus,التحول للعمل بصلاحيات مدير النظام
+Symbolic (e.g. 'drwxr-xr-x'),Symbolique (Par exemple « drwxr-xr-x »),Symbolisch (z. B. 'drwxr-xr-x'),رمزي (مثل 'drwxr-xr-x')
+System Font,Police système,Systemschrift,خط النظام
+Tags,Étiquettes,Stichwörter,الوسوم
+Tags:,Étiquettes :,Schlagwörter:,الوسوم:
+Terminal,Terminal,Terminal,الطرفية
+Terminal cannot be shown because Konsole is not installed. Please install it and then reopen the panel.,Impossible d'afficher le terminal car Konsole n'est pas installé. Veuillez l'installer puis rouvrez le panneau.,"Das Terminal kann nicht angezeigt werden, weil das Programm Konsole nicht installiert ist. Bitte installieren Sie das Programm und öffnen Sie die leiste erneut.",لا يمكن إظهار الطرفية لأن كونسول غير مثبت. يرجى تثبيته ثم إعادة فتح اللوحة.
+Text completion mode of the URL Navigator,Mode de complètement de texte du navigateur d'URL,Textvervollständigungsmodus des Adress-Navigators,وضع إكمال النصّ لمتصفّح المسارات
+Text width index,Index de largeur du texte,Text mit Index,فهرس عرض النص
+The Trash was emptied.,La corbeille a été vidée.,Der Papierkorb wurde geleert.,المهملات أُفرغت.
+The date format can be selected in settings.,Le format de date peut être sélectionné dans la configuration.,Das Datumsformat kann in den Einstellungen ausgewählt werden.,يمكن تحديد تنسيق التاريخ في الإعدادات
+The files and folders passed as arguments will be selected.,Les fichiers et dossiers passés comme arguments seront sélectionnés.,Die übergebenen Dateien und Ordner werden ausgewählt.,الملفّات والمجلّدات المُمرّرة كمعطيات ستُحدّد.
+The last time these properties were changed by the user.,La dernière fois que ces propriétés ont été modifiées par l'utilisateur.,"Der Zeitpunkt, an dem diese Eigenschaften zuletzt durch den Benutzer geändert wurden.",آخر مرة غيّر فيها المستخدم الخصائص.
+The location '%1' is invalid.,L'emplacement « %1 » est incorrect.,Die Adresse „%1“ ist ungültig.,الموقع '%1' غير صالح.
+"The location for the home folder is invalid or does not exist, it will not be applied.",L'emplacement du dossier personnel est incorrect ou n'existe pas. Il ne sera pas appliqué.,Die Adresse für den Startordner ist ungültig und wird nicht übernommen.,موقع مجلد المنزل غير صالح أو غير موجود ولن يتم استخدامه.
+The location is empty.,L'emplacement est vide.,Die Adresse ist leer.,الموقع فارغ.
+"The permission format can be changed in settings. Options are Symbolic, Numeric (Octal) or Combined formats","Le format des droits d'accès peut être modifié dans la configuration. Les options de format sont « Symbolique », « Numérique (Octal) » ou « Combiné ».","Das Format der Berechtigungsanzeige kann in den Einstellungen angepasst werden. Möglich ist die symbolische, die numerische (oktale) Darstellung sowie eine Kombination daraus",يمكن تحديد تنسيق التصريحات في الإعدادات. الخيارات المتاحة للتنسيق هي رمزي أو عددي (ثماني عشر) أو مجتمعة
+The program '%1' is still running in the Terminal panel. Are you sure you want to quit?,Le programme « %1 » est actuellement lancé dans le panneau Terminal. Voulez-vous vraiment quitter l'application ?,Das Programm „%1“ wird immer noch im Terminal ausgeführt. Möchten Sie das Terminal wirklich schließen?,لا يزال البرنامج '%1' قيد التشغيل في لوحة الطرفية. هل أنت متأكد من أنك تريد الخروج؟
+The view properties of all folders will be changed. Do you want to continue?,Les propriétés d'affichage de tous les dossiers seront modifiées. Voulez-vous continuer ?,Der Ansichtsmodus wird für alle Ordner geändert. Möchten Sie fortfahren?,ستُغيَّر خصائص عرض كلّ المجلدات. أتريد المتابعة؟
+The view properties of all sub-folders will be changed. Do you want to continue?,Les propriétés d'affichage de tous les sous-dossiers seront modifiées. Voulez-vous continuer ?,Der Ansichtsmodus wird für alle Unterordner geändert. Möchten Sie fortfahren?,ستُغيَّر خصائص عرض كلّ المجلدات الفرعية. أتريد المتابعة؟
+This adds the selected folder to the Places panel.,Ajoute le dossier sélectionné au tableau de bord Emplacements.,Dies fügt den ausgewählten Ordner zur Orte-Leiste hinzu.,يؤدي هذا إلى إضافة المجلد المحدد إلى لوحة الأماكن.
+"This closes the currently viewed tab. If no more tabs are left, this closes the whole window instead.","Ceci ferme l'onglet actuellement affiché. S'il ne reste aucun onglet, la fenêtre sera fermée.","Dies schließt das aktuell betrachtete Unterfenster. Wenn keine weiteren Unterfenster mehr vorhanden sind, wird stattdessen das Fenster vollständig geschlossen.",هذا يغلق اللسان المعروض حاليا. إذا لم يبق أي ألسنة؛ فستغلق هذه النافذة بدلاً من ذلك.
+This closes this window.,Ferme cette fenêtre.,Dies schließt das Fenster.,هذا يغلق هذه النافذة.
+This copies the items from your clipboard to the currently viewed folder.If the items were added to the clipboard by the Cut action they are removed from their old location.,"Ceci copie les éléments de votre presse-papier vers le dossier actuellement affiché. Si les éléments sont ajoutés à partir du presse-papier par l'action Couper, ils sont supprimés de leurs anciens emplacements.","Dies kopiert die Einträge in Ihrer Zwischenablage in den aktuell betrachteten Ordner.Falls die Einträge mittels der Ausschneiden-Aktion in die Zwischenablage gelegt wurden, werden sie von ihrer alten Adresse gelöscht.",هذا ينسخ العناصر من الحافظة إلى المجلد المعروض حاليا.إذا كانت العناصر أضيفت إلى الحافظة بواسطة أمر  قص  فإنها قد أزيلت من موقعها القديم.
+This copies the items in your current selection to the clipboard.Use the Paste action afterwards to copy them from the clipboard to a new location.,Ceci copie les éléments de votre sélection courante vers le presse-papier Veuillez utiliser l'action Coller ensuite pour les copier du presse-papier vers un autre emplacement.,"Dies kopiert die Einträge der aktuellen Auswahl in die Zwischenablage.Verwenden Sie anschließend die Einfügen-Aktion, um sie an einen neuen Ort zu kopieren.",يؤدي هذا إلى نسخ العناصر الموجودة في تحديدك الحالي إلى الحافظة  استخدم إجراء  انسخ  بعد ذلك لنسخها من الحافظة إلى مكان جديد.
+This copies the items in your current selection to the clipboard.Use the Paste action afterwards to copy them from the clipboard to a new location. The items will be removed from their initial location.,Ceci copie les éléments de votre sélection courante vers le presse-papier. Veuillez utiliser l'action Coller ensuite pour les copier du presse-papier vers un autre emplacement. Les éléments seront supprimés de leur emplacement initial.,"Dies kopiert die Einträge der aktuellen Auswahl in die Zwischenablage.Verwenden Sie anschließend die Einfügen-Aktion, um sie an einen neuen Ort zu kopieren. Die Einträge werden dabei vom ursprünglichen Ort gelöscht.",يؤدي هذا إلى نسخ العناصر الموجودة في تحديدك الحالي إلى الحافظة.  استخدم إجراء  ألصق  بعد ذلك لنسخها من الحافظة إلى مكان جديد. ستتم إزالة العناصر من موقعها الأولي.
+This copies the selected items from the view in focus to the other view. (Only available while in Split View mode.),Ceci copie les éléments sélectionnés de la vue ayant le focus vers une autre vue. (Uniquement disponible dans le mode « Vue fractionnée »),Dies kopiert die ausgewählten Einträge der aktiven Seite in die inaktive Seite. (Nur in der geteilten Ansicht verfügbar.),هذا ينسخ العناصر المحددة من العرض النشط إلى العرض المنقسم غير النشط. (متوفر فقط أثناء وجوده في وضع العرض المنقسم.)
+This cycles through all view modes.,Cela navigue parmi tous les modes d'affichage.,,يؤدي هذا إلى التنقل بين كافة أوضاع العرض.
+This cycles through all view modes. The dropdown menu contains various view-related actions.,Cela permet de basculer d'un mode d'affichage à un autre. Le menu à liste déroulante contient diverses actions liées à l'affichage.,,يُتيح هذا التنقل بين جميع أوضاع العرض. تحتوي القائمة المنسدلة على إجراءات مُختلفة مُتعلقة بالعرض.
+This deletes the items in your current selection permanently. They cannot be recovered by normal means.,Ceci supprime complètement les éléments de votre sélection actuelle. Ils ne pourront pas être récupérés par des moyens normaux.,Dies löscht die Einträge Ihrer Auswahl dauerhaft. Sie können nicht auf normale Weise wiederhergestellt werden.,يؤدي هذا إلى حذف العناصر الموجودة في اختيارك الحالي تمامًا. لا يمكن استعادتها بالوسائل العادية.
+"This displays all places in the places panel that have been hidden. They will appear semi-transparent and allow you to uncheck their ""Hide"" property.","Ceci affiche tous les emplacements qui ont été masqués, dans le panneau des emplacements. Ils ré-apparaîtront de façon semi-transparente et vous permettront de décochez leurs propriété « Masquer ».","Dies zeigt alle Orte in der „Orte“-Seitenleiste an, die zuvor ausgeblendet wurden. Diese werden halbtransparent dargestellt und Sie können dann deren „Ausblenden“-Option deaktivieren.","يعرض هذا جميع الأماكن التي أُخفيت في لوحة الأماكن. ستظهر شبه شفافة وتسمح لك بإلغاء تحديد خاصية ""إخفاء"". الخاصة بهم."
+This folder is not writable for you.,Vous n'avez pas de droits en écriture sur ce dossier.,Der Ordner ist für Sie nicht beschreibbar.,لا تستطيع الكتابة في هذا المجلد.
+This groups files and folders by their first letter.,Regroupe les fichiers et dossiers par leur première lettre.,Die gruppiert Dateien und Ordner nach ihrem ersten Buchstaben.-,يقوم هذا بتجميع الملفات والمجلدات حسب الحرف الأول.
+This increases the icon size.,Augmente la taille de l'icône.,Vergrößert die Symbole.,هذا يزيد من حجم الأيقونة
+This moves the items in your current selection to the Trash.The trash is a temporary storage location where items can be deleted later if disk space is needed.,Ceci déplace les éléments de votre sélection actuelle vers la Corbeille. La corbeille est un emplacement temporaire où les éléments peuvent être supprimés si vous avez besoin d'espace disque.,"Dies verschiebt die Einträge Ihrer Auswahl in den Papierkorb.Der Papierkorb ist ein temporärer Speicherort, von dem Einträge später gelöscht werden können, wenn freier Speicherplatz benötigt wird.",يؤدي ذلك إلى نقل العناصر الموجودة في اختيارك الحالي إلى  المهملات . المهملات هي تخزين مؤقت حيث يمكن حذف العناصر من إذا كانت هناك حاجة إلى مساحة على القرص.
+This moves the selected items from the view in focus to the other view. (Only available while in Split View mode.),Ceci déplace les éléments sélectionnés de la vue ayant le focus vers une autre vue. (Uniquement disponible dans le mode « Vue fractionnée »),Dies verschiebt die ausgewählten Einträge der aktiven Seite in die inaktive Seite. (Nur in der geteilten Ansicht verfügbar.),هذا ينقل العناصر المحددة من العرض النشط إلى العرض المنقسم غير النشط. (متوفر فقط أثناء وجوده في وضع العرض المنقسم.)
+This opens a new Tab with the current location.Tabs allow you to quickly switch between multiple locations and views within this window. You can drag and drop items between tabs.,Ceci ouvre un nouvel onglet à l'emplacement courant. Les onglets vous permettent de basculer rapidement entre de multiples emplacements et vues au sein d'une fenêtre. Vous pouvez faire un glisser / déposer des éléments entre les onglets.,"Dies öffnet ein neues Unterfenster mit der aktuellen Adresse.Mittels Unterfenster können Sie schnell zwischen unterschiedlichen Adressen und Ansichten innerhalb eines Fensters wechseln, sowie Einträge zwischen ihnen hin und her ziehen.",يؤدي هذا إلى فتح  لسان  جديد بالموقع الحالي.تتيح لك الألسنة التبديل بسرعة بين مواقع وطرق عرض متعددة داخل هذه النافذة. يمكنك سحب العناصر وإفلاتها بين ألسنة.
+This opens a new window just like this one with the current location.You can drag and drop items between windows.,Ceci ouvre une nouvelle fenêtre identique à celle-ci positionnée sur l'emplacement actuels. Vous pouvez faire glisser et déposer des éléments entre les fenêtres.,Dies öffnet ein neues Fenster identisch zu diesem einschließlich der aktuellen Adresse.Sie können zwischen den Fenstern Einträge hin und her ziehen.,هذا يفتح نافذة جديدة تمامًا مثل هذه النافذة مع الموقع الحالي.يمكنك سحب العناصر وإفلاتها بين النوافذ.
+This opens a window in which all folder view properties can be adjusted.,Ouvre une fenêtre dans laquelle toutes les propriétés d'affichage des dossiers peuvent être ajustées.,"Dies öffnet ein Fenster, in dem die Eigenschaften aller Ansichtsmodi angepasst werden können.",هذا يفتح نافذة يمكن من خلالها تعديل جميع خصائص عرض المجلد.
+"This opens a window that informs you about the version, license, used libraries and maintainers of this application.","Ceci ouvre une fenêtre vous informant de la version, de la licence, des bibliothèques utilisées et des mainteneurs de cette application.","Dies öffnet ein Fenster, das die Version, Lizenz, verwendete Bibliotheken und Betreuer dieser Anwendung anzeigen.",هذا يفتح نافذة تخبرك بالإصدار والترخيص والمكتبات المستخدمة والقائمين على صيانة هذا التطبيق.
+This opens a window where you can change a multitude of settings for this application. For an explanation of the various settings go to the chapter Configuring Dolphin in Help|Dolphin Handbook.,"Ceci ouvre une fenêtre dans laquelle vous pouvez changer un grand nombre de paramètres pour cette application. Pour plus d'informations sur les différents paramètres, veuillez consulter le chapitre Configuration de Dolphin dans Aide|Manuel Utilisateur de Dolphin.","Dies öffnet ein Fenster, in dem Sie vielfältige Einstellungen für diese Anwendung anpassen können. Eine Erklärung zu den einzelnen Optionen finden Sie im KapitelDolphin einrichten unter Hilfe|Handbuch zu Dolphin.",هذا يفتح نافذة حيث يمكنك تغيير العديد من الإعدادات لهذا التطبيق. للحصول على شرح للإعدادات المختلفة ، انتقل إلى الفصل  ضبط دولفين  في  المساعدة | كتيب دولفين .
+This opens a window with information about KDE. The KDE community are the people behind this free software.If you like using this application but don't know about KDE or want to see a cute dragon have a look!,"Ceci ouvrer une fenêtre avec des informations concernant KDE. La communauté KDE regroupe les personnes derrière ces logiciels libres.  Si vous aimez utiliser cette application mais sans rien savoir de KDE ou si vous voulez voir un mignon dragon, prenez le temps de regarder !","Dies öffnet ein Fenster mit Informationen über KDE. Die KDE-Gemeinschaft besteht aus den Menschen, die diese Anwendung geschaffen haben.Schauen Sie hier rein, wenn Sie diese Anwendung gern verwenden, aber KDE noch nicht kennen oder einen niedlichen Drachen sehen wollen.",هذا يفتح نافذة تحتوي على معلومات حول  كِيدِي . مجتمع كِيدِي هم الأشخاص الذين يقفون وراء هذا البرنامج المجاني.  إذا كنت تحب استخدام هذا التطبيق ولكنك لا تعرف عن كِيدِي أو تريد أن ترى تنينًا لطيفًا ، ألق نظرة!
+This opens the Filter Bar at the bottom of the window. There you can enter text to filter the files and folders currently displayed. Only those that contain the text in their name will be kept in view.,"Ceci ouvre la Barre de filtrage en bas de la fenêtre.Vous pouvez ainsi saisir ici, un texte pour filtrer les fichiers et les dossiers actuellement affichés. Seuls ceux contenant ce texte dans leurs noms seront affichés dans la vue.","Dies öffnet die Filterleiste am unteren Rand des Fensters.Dort können Sie Text eingeben, nach dem die aktuell angezeigten Dateien und Ordner gefiltert werden. Nur jene, die den eingegebenen Text enthalten, werden weiterhin in der Ansicht angezeigt.",هذا يفتح  شريط المرشح في الجزء السفلي من النافذة.هناك يمكنك إدخال نص لترشيح الملفات والمجلدات المعروضة حاليًا. لن يتم عرض سوى تلك التي تحتوي على النص في أسمائها.
+"This option controls the style of the view. Currently supported values include icons (0), details (1) and column (2) views.","Cette option contrôle le style de l'affichage. Actuellement, les valeurs prises en charge incluent les vues en icônes (0), en détails (1) et en colonnes (2).","Diese Einstellung legt das optische Erscheinungsbild fest. Derzeit werden folgende Modi unterstützt: Symbole (0), Details (1) und Spalten (2).",يتحكّم هذا الخيار في نوع العرض. القيم المدعومة حاليًا هي عرض أيقونات (0) وتفاصيل (1) وأعمدة (2).
+This option defines the used version of the view properties.,Cette option définit la version utilisée des propriétés d'affichage.,Diese Einstellung legt die zu verwendende Version der Ansichts-Eigenschaften fest.,هذا الخيار يُعرِّف الإصدار المستخدم في خصائص العرض.
+"This option defines which attribute (text, size, date, etc.) sorting is performed on.","Cette option définit l'attribut (texte, taille, date, etc.) d'après lequel le tri est effectué.","Diese Einstellung legt fest, nach welchen Attributen (Text, Größe, Datum usw.) die Sortierung durchgeführt wird.",يُعرِّف هذا الخيار الخاصية (اسم أو حجم أو تاريخ، إلخ...) التي ينبني عليها الفرز.
+This reduces the icon size.,Réduit la taille de l'icône.,Verkleinert die Symbole.,هذا يصغر حجم الأيقونة
+This renames the items in your current selection.Renaming multiple items at once results in their new names differing only in a number.,Ceci renomme les éléments de votre sélection actuelle.Le renommage de plusieurs éléments simultanément conduit à leur fournir de nouveaux noms ne différant que par un nombre.,Dies benennt die Einträge Ihrer aktuellen Auswahl um.Beim Umbenennen mehrerer Einträge auf einmal erhalten alle denselben Namen mit einer fortlaufenden Nummer.,يؤدي هذا إلى إعادة تسمية العناصر الموجودة في تحديدك الحالي.  إعادة تسمية عناصر متعددة مرة واحدة تعني اختلاف أسمائها الجديدة في رقم فقط.
+This resets the icon size to default.,Réinitialise la taille de l'icône à la valeur par défaut.,Setzt die Größe der Symbole auf die Voreinstellung zurück.,هذا يصفر حجم الأيقونة إلى القيمة المبدئية
+This returns you to the previously closed tab.,Ceci vous renvoie vers l'onglet précédemment fermé.,Dies bringt Sie zum zuvor geschlossenen Unterfenster.,هذا يرجعك إلى اللسان المغلق سابقا
+This selects all files and folders in the current location.,Sélectionne tous les fichiers et dossiers dans l'emplacement actuel.,Dies wählt alle Dateien und Ordner in der aktuellen Ansicht aus.,يؤدي هذا إلى تحديد كافة الملفات والمجلدات الموجودة في الموقع الحالي.
+This selects all items that you have currently not selected instead.,"Ceci sélectionne, à la place, tous les éléments que vous n'avez pas actuellement sélectionnés.","Dies wählt alle Einträge aus, die gerade nicht ausgewählt sind.",يؤدي هذا إلى تحديد جميع الكائنات التي لم تقم بتحديدها بدلاً من ذلك.
+This shows a complete list of properties of the currently selected items in a new window.If nothing is selected the window will be about the currently viewed folder instead.You can configure advanced options there like managing read- and write-permissions.,"Affiche une liste complète des propriétés des éléments sélectionnés dans une nouvelle fenêtre. Si rien n'est sélectionné, la fenêtre concernera le dossier actuellement affiché. Vous pouvez y configurer des options avancées, par exemple la gestion des autorisations de lecture et d'écriture.","Dies zeigt eine vollständige Liste von Eigenschaften der aktuell ausgewählten Einträge in einem neuen Fenster an.Wenn nichts ausgewählt ist, werden stattdessen die Eigenschaften des aktuell betrachteten Ordners angezeigt.In dem Fenster können Sie erweiterte Optionen einstellen, etwa Lese- und Schreibrechte verwalten.",يعرض هذا قائمة كاملة بخصائص العناصر المحددة حاليًا في نافذة جديدة.  إذا لم يتم تحديد أي شيء ، فستكون النافذة حول المجلد المعروض حاليًا بدلاً من ذلك.  يمكنك تكوين خيارات متقدمة هناك مثل إدارة القراءة- وأذونات الكتابة.
+This stops the loading of the contents of the current folder.,Interrompt le chargement du contenu du dossier actuel.,Hält das Laden des aktuellen Ordnerinhaltes an.,هذا يوقف تحميل محتويات المجلد الحالي.
+This switches between having panels locked or unlocked.Unlocked panels can be dragged to the other side of the window and have a close button.Locked panels are embedded more cleanly.,Ceci bascule entre soit avoir des panneaux verrouillés ou déverrouillés. Les panneaux déverrouillés peuvent être glissés de l'autre coté de la fenêtre et avoir un bouton de fermeture.  Les panneaux verrouillés sont intégrés d'une façon plus propre.,Dies schaltet den Zustand der Seitenleisten zwischen gesperrt und entsperrt um.Entsperrte Leisten können können zur anderen Seite des Fensters gezogen werden und haben einen Schließen-Knopf.Gesperrte Leisten sind sauberer integriert.,هذا يبدل بين  اللوحات  المقفلة  و  غير المقفلة .  يمكن سحب اللوحات غير المقفلة إلى الجانب الآخر من النافذة وسيكون لها زر إغلاق.  الألواح المقفلة تكون مضمنة وأكثر ترتيبا.
+This switches to editing the location and selects it so you can quickly enter a different location.,"Ceci permet de basculer en modification d'emplacement et de sélectionner ce dernier. Ainsi, vous pouvez saisir rapidement un emplacement différent.","Dies aktiviert den Editiermodus der Adresse und wählt diese aus, damit Sie schnell eine neue Adresse eingeben können.",يتحول هذا إلى تحرير الموقع وتحديده حتى تتمكن من الدخول بسرعة إلى موقع مختلف.
+This toggles the Location Bar to be editable so you can directly enter a location you want to go to.You can also switch to editing by clicking to the right of the location and switch back by confirming the edited location.,"Ceci permet de déterminer si la Barre d'emplacement est modifiable ou non. Ainsi, vous pouvez saisir directement l'emplacement auquel vous souhaitez accéder.  Vous pouvez aussi basculer en modification en faisant un clic droit sur la droite de l'emplacement et en rebasculant pour confirmer l'emplacement modifié.","Dies schaltet die Adresszeile um, sodass sie direkt eine Adresse eingeben können.Sie können auch das Editieren starten, indem Sie rechts von der Adresse hinklicken und gelangen zurück, indem Sie die eingegebene Adresse bestätigen.",يؤدي هذا إلى تبديل شريط العنوان ليكون قابلاً للتعديل حتى تتمكن من إدخال الموقع الذي تريد الانتقال إليه مباشرةً.  يمكنك أيضًا التبديل إلى التحرير عن طريق النقر على يمين الموقع والرجوع مرة أخرى عن طريق تأكيد الموقع المعدل.
+This toggles the folders panel at the left side of the window.It shows the folders of the file system in a tree view.,Ceci bascule le panneau des dossiers sur le coté gauche de la fenêtre. Il affiche le dossier dans le  système de fichiers sous forme d'un affichage en arborescence.,Hiermit wird die Ordner-Seitenleiste am linken Rand des Fensters umgeschaltet.Die Leiste zeigt Ordner des Dateisystemsin einer Baumansicht.,سيؤدي هذا إلى تبديل لوحة المجلدات في الجانب الأيسر من النافذة.  وهي تعرض مجلدات  نظام الملفات  في  عرض شجرة .
+This undoes a Go|Back action.,Annule une action Avancer|Revenir.,Macht eine Zurück-Aktion rückgängig.,هذا يلغي إجراء  ارجع | للخلف .
+"This undoes the last change you made to files or folders.Such changes include creating, renaming and moving them to a different location or to the Trash. Any changes that cannot be undone will ask for your confirmation beforehand.","Ceci annule la dernière modification que vous avez faite sur les fichiers ou les dossiers. De telles modifications concernent la création,le renommage et le déplacement de ceux-ci vers un emplacement différent ou vers la Corbeille.  Une confirmation vous sera demandée pour les modifications ne pouvant être annulées.","Dies nimmt die letzte Änderung zurück, die Sie an Dateien und Ordnern vorgenommen haben.Zu solchen Änderungen gehören deren Erstellen, Umbenennen und Verschieben an eine andere Adresse sowie das Verschieben in den Papierkorb. Bei Änderungen, die nicht wiederhergestellt werden können, werden Sie um Bestätigung gebeten.",يؤدي هذا إلى إلغاء آخر تغيير أجريته على الملفات أو المجلدات.تتضمن هذه التغييراتإنشاء وإعادة تسميةو نقلهاإلى موقع مختلف  أو إلىالمهملات . التغييرات التي لا يمكن التراجع عنها ستطلب منك التأكيد.
+This will copy the path of the first selected item into the clipboard.,Ceci copiera l'emplacement du dernier élément sélectionné dans le presse-papier.,Dies kopiert die Adresse des ersten ausgewählten Eintrags in die Zwischenablage.,سيؤدي هذا إلى نسخ مسار العنصر الأول المحدد في الحافظة.
+Three Weeks Ago,Il y a trois semaines,Vor drei Wochen,قبل ثلاثة أسابيع
+Timestamp since when the view properties are valid,Horodatage dès l'instant où les propriétés d'affichage sont correctes,"Zeitstempel, seit wann die Ansichts-Eigenschaften gültig sind",الختم الزمني التي كانت فيه خصائص العرض صالحة
+Title,Titre,Titel,العنوان
+Today,Aujourd'hui,Heute,اليوم
+Toggle Filter Bar,Afficher ou non la barre de filtrage,Filterleiste ein-/ausschalten,بدل شريط المرشح
+Toggle Search Bar,Afficher ou non la barre de recherche,Suchleiste ein-/ausschalten,بدل شريط البحث
+Tools,Outils,Extras,أدوات
+Track,Piste,Stück,المقطوعة
+Trash,Corbeille,Papierkorb,المهملات
+Trash Emptied,Corbeille vidée,Papierkorb geleert,المهملات مفرغة
+Trash is empty,La corbeille est vide.,Der Papierkorb ist leer,المهملات فارغة
+Trash operation completed.,L'opération de suppression est terminée.,In den Papierkorb verschieben abgeschlossen.,انتهت عمليّة الرّمي.
+Turning off split view closes the view in focus,La désactivation de la vue partagée ferme la vue ayant le focus,Ausschalten der geteilten Ansicht schließt die aktive Ansicht,عند إيقاف العرض المقسم يغلق النشط منها
+Two Weeks Ago,Il y a deux semaines,Vor zwei Wochen,قبل أسبوعين
+Type,Type,Typ,النوع
+Undo close tab,Annuler la fermeture de l'onglet,Unterfenster wiederherstellen,تراجع عن إغلاق اللسان
+Unknown error.,Erreur inconnue.,Unbekannter Fehler.,خطأ مجهول.
+Unlimited,Illimitée,Unbegrenzt,غير محدود
+Unlock Panels,Déverrouiller les panneaux,Seitenleisten entsperren,فكّ قُفْل اللوحات
+Unselect,Désélectionner,Auswahl aufheben,ألغِ التحديد
+Unselect All,Tout désélectionner,Gesamte Auswahl aufheben,ألغِ تحديد الكل
+Unselect Items Matching…,Désélectionner les éléments correspondants…,Auswahl für passende Elemente aufheben ...,ألغِ تحديد العناصر المطابقة…
+Unselect all items matching this pattern:,Désélectionnez tous les éléments correspondant à ce motif :,"Auswahl für Elemente aufheben, die auf folgendes Muster passen:",ألغِ تحديد جميع العناصر المطابقة لهذا النمط:
+Updating version information…,Mise à jour des informations de version…,Versionsinformationen werden aktualisiert ...,يحدّث معلومات الإصدار…
+"Use condensed date, for example '%1'","Utiliser un format condensé de date, comme par exemple, « %1 »","Abgekürztes Datum benutzen, zum Beispiel „%1“",استخدم التاريخ الموجز، على سبيل المثال '%1'
+"Use long date, for example '%1'","Utiliser un format long de date, comme par exemple, « %1 »","Langes Datum benutzen, zum Beispiel „%1“",استخدم التاريخ الطويل، على سبيل المثال '%1'
+Use Current Location,Utiliser l'emplacement actuel,Aktuelle Adresse verwenden,استخدم الموقع الحالي
+Use Default Location,Utiliser l'emplacement par défaut,Standardadresse verwenden,استخدم الموقع الافتراضي
+Use as default view settings,Utiliser comme configuration de l'affichage par défaut,Als Voreinstellung für Ansichten verwenden,استخدم كمبدئي لإعدادات العرض
+Use auto-expanding folders for all view types,Utiliser les dossiers se développant automatiquement pour tous les types d'affichage,Automatisch öffnende Ordner für alle Ansichten verwenden,استخدام المجلدات القابلة للتوسّع لكلّ أنواع العرض
+Use common display style for all folders,Utiliser un style d'affichage commun pour tous les dossiers,Für alle Ordner den gleichen Anzeigestil verwenden,استخدم نمط عرض مشترك لجميع المجلدات
+Use system font,Utiliser la police système,Systemschriftart benutzen,استخدام خط النظام
+Use tab for switching between right and left view,Utiliser « Tab » pour basculer entre les affichages droit et gauche,Tabulatortaste für das Wechseln zwischen linker und rechter Ansicht verwenden,استخدم tab للتّبديل بين قسمي المنظور الأيمن والأيسر
+Use {path} to get the path of the current folder. Example: dolphin {path},Utilisez {path} pour obtenir l'emplacement du dossier courant. Exemple : dolphin {path},"Benutzen Sie {path}, um den Pfad des aktuellen Ordners zu erhalten. Beispiel: dolphin {path}",استخدم {path} للحصول على مسار المجلد الحالي. مثال: dolphin {path}
+User Feedback,Retours des utilisateurs,Benutzer-Feedback,مشاركة بياناتك
+User Group,Groupe d'utilisateurs,Benutzergruppe,مجموعة المستخدمين
+User: %1 | Group: %2 | Others: %3,Utilisateur : %1 | Groupe : %2 | Autres : %3,Benutzer: %1 | Gruppe: %2 | Andere: %3,المستخدم: %1 | المجموعة: %2 | الآخرون: %3
+Version,Version,Version,الإصدار
+Video,Vidéo,Video,فديو
+View,Affichage,Ansicht,العرض
+View Display Style,Style d'affichage de la vue,Anzeigestil,نمط مشاهدة العرض
+View Mode,Type d'affichage,Ansichtsmodus,وضع العرض
+View Settings,Configuration des affichages,Einstellungen,إعدادات المنظور
+View mode:,Type d'affichage :,Ansichtsmodus:,وضع العرض:
+View options:,Options d'affichage :,Ansichtseinstellungen:,خيارات العرض:
+Visible roles,Rôles visibles,Sichtbare Rollen,الأدوار الظّاهرة
+Warning,Avertissement,Achtung,تحذير
+What,Quoi,Was,ماذا
+When opening an executable file:,Lors de l'ouverture d'un fichier exécutable :,Beim Öffnen einer ausführbaren Datei:,عند فتح ملف تنفيذي:
+"When this is enabled, the icons are based on the actual file or folder contents.For example the icons of images become scaled down versions of the images.","Quand cette option est activée, les icônes sont conçues à partir du contenu réel du fichier ou du dossier.","Ist diese Option aktiviert, werden die Symbole auf Basis des tatsächlichen Inhalts des Ordners oder der Datei angezeigt.Beispielsweise wird das Symbol eines Bildes zu einer verkleinerten Version des Bildes.",عند تمكين هذا ، تكون الأيقونات منسوخة من محتويات الملف أو المجلد الفعلي.  على سبيل المثال ، تصبح أيقونات الصور نسخًا مصغرة من الصور.
+"When this option is enabled hidden files, such as those starting with a '.', will be shown in the file view.","Lorsque cette option est cochée, les fichiers cachés tels que ceux dont le nom commencent par un « . » sont affichés dans la vue des fichiers.","Wenn diese Einstellung aktiviert ist, werden versteckte Dateien (z. B. die mit einem „.“ beginnen) in der Dateiansicht angezeigt.",إذا مُكِّن هذا الخيار، ستظهر الملفات المخفية -كالتي تبدأ ب '.'- في عرض الملفات.
+"When this option is enabled, a preview of the file content is shown as an icon.","Lorsque cette option est cochée, un aperçu du contenu du fichier est affiché sous la forme d'une icône.","Wenn diese Einstellung aktiviert ist, wird ein Vorschaubild des Dateiinhalts als Dateisymbol angezeigt.",إذا مُكِّن هذا الخيار، ستظهر معاينة محتوى الملف كأيقونة.
+"When this option is enabled, the sorted items are categorized into groups.","Lorsque cette option est cochée, les éléments triés sont catégorisés en fonction de leur groupe.","Wenn diese Einstellung aktiviert ist, werden die sortierten Elemente in Gruppen zusammengefasst.",إذا مُكِّن هذا الخيار، ستُصنَّف العناصر المُسرَدة إلى مجموعات.
+"When unchecked, the opposite view will be closed. The Close icon always illustrates which view (left or right) will be closed.","Lorsque cette option n'est pas sélectionnée, la vue opposée sera fermée. L'icône « Fermer » indique toujours quelle vue (gauche ou droite) sera fermée.","Wenn nicht gesetzt, wird die gegenüberliegende Ansicht geschlossen. Das Schließen-Symbol zeigt immer an, welche Ansicht (links oder rechts) geschlossen wird.",عند إلغاء تحديده، سيُغلق العرض المعاكس. توضح أيقونة الإغلاق دائما طريقة العرض (يساراً أو يميناً) التي ستُغلق.
+Width,Largeur,Breite,العرض
+Window:,Fenêtre :,Fenster:,النافذة:
+With this you can change the language this application uses.You can even set secondary languages which will be used if texts are not available in your preferred language.,"Avec ceci, vous pouvez modifier la langue utilisée par cette application. Vous pouvez même définir des langues secondaires, pouvant être utilisées si les messages de texte ne sont pas disponibles dans votre langue préférée.","Hiermit können Sie die Sprache einstellen, die die Anwendung verwenden soll.Sie können auch Zweitsprachen einstellen, welche verwendet werden, wenn ein Text nicht in Ihrer bevorzugten Sprache verfügbar ist.",باستخدام هذا يمكنك تغيير اللغة التي يستخدمها هذا التطبيق.  يمكنك حتى تعيين اللغات الثانوية التي سيتم استخدامها إذا كانت النصوص غير متوفرة بلغتك المفضلة.
+Word Count,Nombre de mots,Wortanzahl,عدد الكلمات
+"Write,","Écriture,","Schreiben,",كتابة،
+Yesterday,Hier,Gestern,الأمس
+"You have multiple tabs open in this window, are you sure you want to quit?",Vous avez divers onglets ouverts dans cette fenêtre. Voulez-vous vraiment quitter ?,"Das Fenster enthält mehrere Unterfenster. Sind Sie sicher, dass Sie das Fenster schließen möchten?",لديك عدّة ألسنة في هذه النافذة، أتريد حقًّا الإنهاء؟
+You have unsaved changes. Do you want to apply the changes or discard them?,Certaines modifications ne sont pas enregistrées. Voulez-vous enregistrer vos changements ou les abandonner ?,"Es gibt ungespeicherte Änderungen.
+Möchten Sie diese Änderungen übernehmen oder verwerfen?",لم تحفظ التغييرات. هل تريد تطبيق التغييرات أم تجاهلها؟
+Zoom,Zoom,Zoom,التّكبير
+Zoom To Default,Zoom par défaut,Vergrößerung auf Voreinstellung zurücksetzen,صفّر إلى المبدئي
+Zoom:,Zoom :,Vergrößerung:,التّكبير:
+dddd,dddd,dddd,dddd
+"dddd (MMMM, yyyy)","dddd (MMMM, yyyy)","dddd (MMMM, yyyy)","dddd (MMMM, yyyy)"
+files below,Fichiers ci-dessous,Dateien kleiner als,للملفات التي أقل من
+files of any size,fichier de toute taille,Dateien jeglicher Größe,للملفات من أي حجم
+hidden,masqué,versteckt,مخفي
+"if true we use short relative dates, if not short dates","Si « Vrai », le tri sera réalisé selon les dates relatives et sinon selon les dates abrégées.","wenn gesetzt, wird ein kurzes relatives Datum angezeigt, ansonsten nur ein kurzes",إذا كان هذا صحيحًا ، فإننا نستخدم تواريخ نسبية قصيرة ، إن لم تكن تواريخ قصيرة
+in a grid layout in location %1,dans une disposition en grille à l'emplacement %1,in einer Rasteransicht unter Adresse %1,في تخطيط الشبكة في موقع %1
+in a grid layout in selection mode in location %1,dans une disposition en grille et en mode « Sélection » à l'emplacement %1,in einer Rasteransicht im Auswahlmodus unter Adresse %1,في تخطيط الشبكة في وضح التحديد في موقع %1
+in location %1,à l'emplacement %1,unter Adresse %1,في الموقع %1
+in selection mode in location %1,dans le mode « Sélection » à l'emplacement %1,%1 ausgewähltes Element umbenennen zu:,في وضع التحديد في الموقع %1
+no file,aucun fichier,keine Dateien,للا شيء
+pause,pause,Anhalten,ألبث
+play,lire,Abspielen,شغّل

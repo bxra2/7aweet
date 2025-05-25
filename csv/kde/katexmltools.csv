@@ -1,0 +1,29 @@
+English,French,German,Arabic
+Close Element,Fermer l'élément,Element schließen,أغلق العنصر
+Insert Element...,Insérer un élément...,Element einfügen ...,أدرج عنصرًا...
+XML,XML,XML,XML
+Analyzing meta DTD...,Analyse de la méta-DTD en cours...,Meta-DTD wird analysiert ...,يحلّل DTD الوصفيّة...
+Assign Meta DTD...,Affecter une méta-DTD...,Meta-DTD zuweisen ...,أسند DTD الوصفيّة...
+Assign Meta DTD in XML Format,Affecter une méta-DTD au format XML,Meta-DTD im XML-Format zuweisen,أسند DTD الوصفيّة بنسق XML
+Cancel,Annuler,Abbrechen,ألغِ
+"Enter XML tag name and attributes (""<"", "">"" and closing tag will be supplied):","Saisissez les attributs et le nom de la balise XML (les « < », « > » et la balise de fermeture seront fournis) :","XML-Elementnamen und -Attribute eingeben. („<“, „>“ und das schließende Element werden automatisch gesetzt):","أدخل اسم وسم XML وصفاته (""<""، و"">"" ووسم الإغلاق ستُقدّم):"
+Insert XML Element,Insérer un élément XML,XML-Element einfügen,أدرج عنصر XML
+Loading XML Meta DTD,Chargement d'une méta-DTD XML,XML Meta-DTD wird geladen,يحمّل DTD الوصفيّة ل‍XML
+"The current file has been identified as a document of type ""%1"". The meta DTD for this document type will now be loaded.",Le fichier actuel a été identifié en tant que document de type « %1 ». La méta-DTD pour ce document va maintenant être chargée.,Die aktuelle Datei wurde als Dokument vom Typ „%1“ erkannt. Die Meta-DTD für dieses Dokument wird jetzt geladen.,"عُرّف الملفّ الحاليّ كمستند من النّوع ""%1"". DTD الوصفيّة لنوع المستندات هذا سيُحمّل الآن."
+The file '%1' could not be opened. The server returned an error.,Impossible d'ouvrir le fichier « %1 ». Le serveur a renvoyé une erreur.,Datei „%1“ lässt sich nicht öffnen. Der Server gab eine Fehlermeldung aus.,تعذّر فتح الملفّ '%1'. أرجع الخادوم خطأ.
+The file '%1' could not be parsed. Please check that the file is well-formed XML.,Impossible d'effectuer l'analyse syntaxique du fichier « %1 ». Veuillez vérifier que le fichier est du XML bien formé.,"Die Datei „%1“ kann nicht eingelesen werden. Bitte vergewissern Sie sich, dass die Datei korrekt strukturiertes XML enthält.",تعذّر تحليل الملفّ '%1'. فضلًا افحص بأنّه XML منسّق كما ينبغي.
+"The file '%1' is not in the expected format. Please check that the file is of this type:
+-//Norman Walsh//DTD DTDParse V2.0//EN
+You can produce such files with dtdparse. See the Kate Plugin documentation for more information.","Le fichier « %1 » n'est pas dans le format attendu. Veuillez vérifier que le fichier est bien de ce type :
+-//Norman Walsh//DTD DTDParse V2.0//EN
+Vous pouvez générer de tels fichiers avec « dtdparse ». Veuillez vous reporter à la documentation des modules externes de Kate pour plus d'informations.","Die Datei „%1“ ist nicht im erwarteten Format. Bitte stellen Sie sicher, dass es sich um eine gültige XML-Datei des folgenden Typs handelt:
+-//Norman Walsh//DTD DTDParse V2.0//EN
+Sie können solche Dateien mit Hilfe von „dtdparse“ erstellen. In der Dokumentation zu Kate-Modulen finden Sie weitere Informationen.","الملفّ '%1' ليس بالنّسق المتوقّع. فضلًا تحقّق فيما إذا كان الملفّ من هذا النّوع:
+-//Norman Walsh//DTD DTDParse V2.0//EN
+يمكنك صنع هكذا ملفّات ب‍dtdparse. طالع توثيق ملحقة «كيت» لمعلومات أكثر."
+XML Plugin Error,Problème avec le module externe XML,Fehler des XML-Moduls,خطأ في ملحقة XML
+XML Tools,Outils « XML »,XML-Werkzeuge,أدوات XML
+XML attribute values,Valeur d'attribut XML,XML-Attributwerte,قيم صفات XML
+XML attributes,Attributs XML,XML-Attribute,صفات XML
+XML elements,Éléments XML,XML-Elemente,عناصر XML
+XML entities,Entités XML,XML-Entitäten,كيانات XML

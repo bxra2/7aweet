@@ -272,7 +272,7 @@ Provider,Fournisseur,Anbieter,المزود
 Proxy,Mandataire,Proxy-Konfiguration,الوكيل
 Quit,Quitter,Verlassen,إنهاء
 Refresh Rate,Fréquence de rafraîchissement,Bildwiederholrate,تردد التحديث
-Region & Language,Pays et langue,Region und Sprache,اللغة & المنطقة
+Region  Language,Pays et langue,Region und Sprache,اللغة  المنطقة
 Region and Language,Pays et langue,Region und Sprache,المنطقة واللغة
 Remove Device,Retirer le périphérique,Gerät entfernen,إزالة جهاز
 Remove Layout,Supprimer la disposition,Tastaturbelegung entfernen,إزالة تخطيط
@@ -374,7 +374,7 @@ View details,Afficher les détails,Details anzeigen,عرض التفاصيل
 WEP,WEP,WEP,WEP
 WEP index,Index WEP,WEP-Index,مؤشر WEP
 WPA,WPA,WPA,WPA
-WPA & WPA2 Personal,WPA & WPA2 personnel,WPA- & WPA2-Personal,‏WPA و WPA2 شخصي
+WPA  WPA2 Personal,WPA  WPA2 personnel,WPA-  WPA2-Personal,‏WPA و WPA2 شخصي
 WPA2,WPA2,WPA2,WPA2
 Weak,Faible,Schwach,ضعيفة
 Web Proxy Autodiscovery is used when a Configuration URL is not provided.,« Web Proxy Autodiscovery » est utilisé lorsqu'aucun URL de configuration n'est fourni.,"Automatische Erkennung des Vermittlungsservers (Proxy) wird verwendet, wenn keine Konfigurationsadresse angegeben wird.",يتم استخدام الاكتشاف التلقائي لوكيل ويب عندما لا يتم توفير عنوان الموقع الخاص بالتهيئة.

@@ -5,7 +5,7 @@
 %s (Installing),%s (installation en cours),%s (wird installiert),%s (يجري تنصيبها)
 %s (Removing),%s (suppression en cours),%s (wird entfernt),%s (تجري إزالتها)
 %s file format,Format de fichier %s,%s-Dateiformat,صيغة الملفات %s
-"%s is not <a href=""https://en.wikipedia.org/wiki/Freeandopen-sourcesoftware"">free and open source software, and is provided by “%s”.","%s n’est pas un <a href=""https://fr.wikipedia.org/wiki/Free/LibreOpenSourceSoftware"">logiciel libre et ouvert et est distribué par « %s ».","%s ist nicht <a href=""https://en.wikipedia.org/wiki/Freeandopen-sourcesoftware"">freie und quelloffene Software und wird durch »%s« bereitgestellt.","%s ليست <a href=""https://en.wikipedia.org/wiki/Freeandopen-sourcesoftware"">برمجية حرّة و مفتوحة المصدر، و موفّرها هو ""%s""."
+"%s is not free and open source software, and is provided by “%s”.","%s n’est pas un logiciel libre et ouvert et est distribué par « %s ».","%s ist nicht freie und quelloffene Software und wird durch »%s« bereitgestellt.","%s ليست برمجية حرّة و مفتوحة المصدر، و موفّرها هو ""%s""."
 %s is not available.,%s est indisponible.,%s ist nicht verfügbar.,%s غير متوفّر.
 %s is now installed,,,نُصّب %s
 %s is provided by “%s”.,%s est distribué par « %s ».,%s wird durch »%s« zur Verfügung gestellt.,يأتي %s من ”%s“.

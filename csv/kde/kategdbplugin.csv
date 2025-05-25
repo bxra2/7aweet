@@ -1,0 +1,133 @@
+English,French,German,Arabic
+Debug,Déboguer,Debuggen,نقّح
+(%1) breakpoint,Point d'arrêt (%1),(%1) Haltepunkt,(%1) نقطة التوقف
+(continued) thread %1,(poursuivre) processus %1,,الخيط %1 (مستمر)
+(running),(en cours d'exécution),(Wird ausgeführt),(يعمل)
+connection with server closed , la connexion avec le serveur est fermée ,, اتصال مع الخادم مغلق 
+waiting for user actions , en attente d'actions de l'utilisateur ,, في انتظار إجراءات المستخدم 
+<not evaluated>,<not evaluated>,,<لم تقيم>
+Could not open file:%1 Try adding a search path to Advanced Settings -> Source file search paths,Impossible d'ouvrir le fichier :%1  Veuillez essayer d'ajouter un emplacement de recherche dans les paramètres avancés / Emplacements de recherche pour des fichiers sources,Datei kann nicht geöffnet werden:%1 Fügen Sie einen Suchpfad in Erweiterte Einstellungen ->  Suchpfade für Quelldatei hinzu,لا يمكن فتح الملف:%1 حاول إضافة مسار البحث إلى إعدادات متقدمة -> مسارات البحث عن ملف المصدر
+"A debugging session is on course. Please, use re-run or stop the current session.",Une session de débogage est en cours. Veuillez utiliser relancer ou arrêter la session courante.,,جلسة تصحيح أخطاء جارية. يُرجى إعادة التشغيل أو إيقاف الجلسة الحالية.
+Active thread: %1 (all threads stopped).,Processus actif : %1 (Tous les processus sont arrêtés).,,الخيط النشط: %1 (كل الخيوط متوقفة).
+Active thread: %1.,Processus actif : %1.,,الخيط النشط: %1.
+Add new target,Ajouter une nouvelle cible,Neues Ziel hinzufügen,أضف هدفًا جديدًا
+Arguments:,Arguments :,Argumente:,المعاملات:
+Available commands:,Commandes disponibles :,Verfügbare Befehle:,الأوامر المتاحة:
+Breakpoint,Point d'arrêt,Haltepunkt,نقطة مقاطعة
+Breakpoint(s) reached:,Point(s) d'arrêt atteint(s) :,Haltepunkt(e) erreicht:,وصلت نقطة التّوقّف:
+Clear All Breakpoints,Effacer tous les points d'arrêt,Haltepunkt,امسح جميع نقاط التوقف
+Clear Output,Effacer la sortie,GDB-Ausgabe,امسح الخرج
+Continue,Continuer,Fortsetzen,تابع
+Copy Location,Copier l'emplacement,,انسخ الموقع
+Copy Stack Trace,Copier la trace de la pile,Ziel kopieren,انسخ تتبع المكدس
+Copy Symbol,Copier le symbole,Symbol,انسخ الرّمز
+Copy Value,Copier la valeur,Ziel kopieren,انسخ القيمة
+Copy target,Copier une cible,Ziel kopieren,انسخ الهدف
+Current frame [%3]: %1:%2 (%4),Trame courante [%3] : %1 :%2 (%4),,الإطار الحالي [%3]: %1: %2 (%4)
+Current frame:,Trame courante :,,الإطار الحالي:
+Current thread:,Processus courant :,Aktueller Thread:,الخيط الحالي:
+DAP backend '%1' failed,Échec du moteur « DAP » « %1 »,,فشلت خلفية DAP '%1'
+DAP backend: %1,Moteur « DAP » : %1,,خلفية DAP:  %1
+Debug,Déboguer,Debug,نقّح
+Debug Output,Sortie du débogueur,GDB-Ausgabe,ناتج التنقيح
+Debug Plugin,Module externe de débogage,GDB-Modul,ملحق التنقيح
+Debug View,Vue du débogage,Debug-Ansicht,منظور التّنقيح
+Debugger,Débogueur,Debugger,المنقّح
+Default Debug Adapter Settings,Configuration de l'adaptateur de débogage par défaut,,إعدادات محول التنقيح المبدئيّة
+Delete target,Supprimer une cible,Ziel löschen,احذف الهدف
+Enable Hot Reload on Save,Activer le rechargement à chaud lors de l'enregistrement,,مكّن إعادة التحميل الساخن عند الحفظ
+Executable:,Exécutable :,Programmdatei:,تنفيذيّ:
+Execution point,Point d'exécution,Ausführungspunkt,نقطة التّنفيذ
+Failed to terminate. Forcing shutdown...,Échec de la fin de processus. Forçage de l'extinction...,,فشل في الإنهاء. إجبار على الإغلاق…
+Function,Fonction,,الوظيفة
+Hot Reload,Rechargement à chaud,,إعادة التحميل الساخن
+Hot Restart,Redémarrage à chaud,,إعادة التشغيل الساخن
+IO,E / S,E/A,الدّخل/الخرج
+Insert breakpoint,Insérer un point d'arrêt,Haltepunkt einfügen,أدرج نقطة مقاطعة
+JSON data is invalid: %1,Les données « JSON » ne sont pas valables. : %1,Die JSON-Daten sind ungültig: %1,بيانات JSON غير صالحة: %1
+JSON data is invalid: no JSON object,Configuration de l'adaptateur de débogage utilisateur,Die JSON-Daten sind ungültig: Kein JSON-Objekt,بيانات JSON غير صالحة: لا كائن JSON
+JSON data is valid.,Les données « JSON » sont valables.,Die JSON-Daten sind gültig,بيانات JSON صالحة.
+Kate Debug,Débogueur de Kate,Kate-GDB,منقح كيت
+Keep focus,Maintenir le focus,Aktiviert halten,أبقِ التّركيز
+Keep the focus on the command line,Maintenir le focus sur la ligne de commande,Befehlszeile aktiviert halten,أبقِ التّركيز على سطر الأوامر
+Kill / Stop Debugging,Interrompre / Arrêter le débogage,Debuggen beenden/abbrechen,اقتل / أوقف التّنقيح
+Loading...,Chargement en cours...,,يحمّل...
+Locals and Stack,Symboles locaux et pile d'appels,Lokale Variablen und Aufrufstapel,المحليّات والرّصّة
+Location,Emplacement,Lokale Anwendung,الموقع
+Move PC,Modifier le compteur d'instructions,Programmzähler verschieben,انقل عدّاد البرنامج
+No JSON data to validate.,Aucune donnée « JSON » disponible.,Keine JSON-Daten zum Überprüfen.,لا توجد بيانات JSON للتحقق منها.
+Nr,N°,Nr.,الرّقم
+Open Location,Ouvrir un emplacement,,افتح موقعًا
+Print Value,Afficher une valeur,Wert anzeigen,اطبع القيمة
+Process Id:,Identifiant du processus :,Prozess-ID:,معرّف العملية:
+Redirect IO,Rediriger une E / S,E/A umleiten,أعد توجيه الدّخل/الخرج
+Redirect the debugged programs IO to a separate tab,Re-dirige une E / S des programmes débogués dans un onglet séparé,Die Ein-/Ausgaben zu debuggender Programme in ein separates Unterfenster umleiten,أعد توجيه دخل/خرج البرامج المنقّحة إلى لسان منفصل
+Reload launch.json targets,Recharger les cibles de « launch.json »,,إعادة تحميل أهداف launch.json
+Remove breakpoint,Supprimer un point d'arrêt,Haltepunkt entfernen,أزل نقطة المقاطعة
+Restart Debugging,Redémarrer le débogage,Debuggen neu starten,أعد تشغيل التّنقيح
+Run To Cursor,Exécuter jusqu'au curseur,Bis zum Cursor ausführen,شغّل حتّى المؤشّر
+Select Executable,Sélectionnez un exécutable,Programmdatei:,حدد ملفا قابلا للتنفيذ
+Select Working Directory,Sélectionner un dossier de travail,Arbeitsordner entfernen,حدد دليل العمل
+Session state:,État de la session :,,حالة الجلسة:
+Settings,Configuration,Einstellungen,إعدادات
+Settings File:,Fichier de configuration :,Einstellungsdatei:,ملف الإعدادات:
+Start Debugging,Démarrer le débogage,Debuggen starten,ابدأ التّنقيح
+Start method: %1,Méthode de démarrage : %1,Methode starten: %1,وظيفة البدء: %1
+Step In,Déplacer le débogueur dans la prochaine instruction,Einzelschritt,ادخل
+Step Out,Pas à pas en sortant,Ausführen bis Rücksprung,اخرج
+Step Over,Avancer,Funktionsschritt,تخطّ
+Symbol,Symbole,Symbol,الرّمز
+Target %1,Cible %1,Ziel %1,الهدف %1
+Targets,Cibles,Ziele,الأهداف
+Thread %1,Fil d'exécution %1,Thread %1,الخيط %1
+Toggle Breakpoint / Break,(Dés)Activer le point d'arrêt / Interrompre,Haltepunkt ein-/ausschalten,بدّل نقطة المقاطعة / قاطع
+Type,Type,,النوع
+User Debug Adapter Settings,Configuration de l'adaptateur de débogage utilisateur,,إعدادات محول التنقيح للمستخدم
+Value,Valeur,Wert,القيمة
+Working Directory:,Dossier de travail :,Arbeitsordner:,دليل العمل:
+all threads continued,tous les processus reprennent,alle Threads fortgesetzt,جميع الخيوط مستمرة
+breakpoint cleared,Effacement du point d'arrêt,Haltepunkt gelöscht,مُسحت نقطة التوقف
+breakpoint not found (%1:%2),Impossible de trouver le point d'arrêt (%1 : %2),Haltepunkt wurde nicht gefunden (%1:%2),نقطة التوقف غير موجودة (%1: %2)
+breakpoint set,Définition d'un point d'arrêt,Haltepunkt gesetzt,مجموعة نقطة التوقف
+command not found,Impossible de trouver la commande,Befehl nicht gefunden,الأمر غير موجود
+conditional breakpoints,Points d'arrêt conditionnel,Bedingte Haltepunkte,نقاط التوقف الشرطية
+conditional breakpoints are not supported by the server,Les points d'arrêt conditionnel ne sont pas pris en charge par le serveur.,Bedingte Haltepunkte werden vom Server nicht unterstützt.,لا يدعم الخادم نقاط التوقف الشرطية
+debugging process %1,processus de débogage %1,,عملية التصحيح %1
+debugging process [%1] %2,processus de débogage [%1] %2,,عملية تنقيح [%1] %2
+disconnected,déconnecté,getrennt,منفصل
+error on response: %1,erreur à la réponse : %1,Fehler bei der Antwort: %1,خطأ في الاستجابة: %1
+file not specified: %1,fichier non spécifié : %1,Datei nicht angegeben: %1,ملف غير محدد: %1
+function breakpoints,Points d'arrêt de fonction,Funktionshaltepunkte,نقاط توقف الوظيفة
+goto targets request,aller à la requête des cibles,,طلب أهداف goto
+hit conditional breakpoints,Atteinte des points d'arrêt conditionnel,Bedingte Haltepunkte getroffen,نقاط التوقف الشرطية الاختيارية
+hit conditional breakpoints are not supported by the server,L'atteinte des points d'arrêt conditionnels n'est pas pris en charge par le serveur.,,لا يدعم الخادم نقاط التوقف الشرطية الاختيارية
+important,important,wichtig,مهم
+indexed items,éléments indexés,,العناصر المفهرسة
+initializing,initialisation en cours,wird initialisiert,التهيئة
+invalid line: %1,Ligne non valable : %1,Ungültige Zeile: %1,سطر غير صالح: %1
+invalid thread id: %1,Identifiant de processus non valable : %1,Ungültiger Thread-Nummer: %1,معرف الخيط غير صالح: %1
+line %1 already has a breakpoint,La ligne %1 est toujours marquée par un point d'arrêt.,,السطر %1 لديه نقطة توقف مسبقًا
+log points,points de journalisation,Punkte protokollieren,نقاط السجل
+missing thread id,Identifiant de processus manquant,,معرف الخيط المفقود
+modules request,requête des modules,,طلب الوحدات
+named items,éléments nommés,,العناصر المسماة
+none,aucun,kein,لا شيء
+program exited with code %1,programme terminé avec le code %1,Programm wurde mit Status %1 beendet.,خرج البرنامج برمز %1
+program terminated,programme terminé,,توقف البرنامج
+requesting disconnection,demande de déconnexion,,يطلب الانفصال
+requesting shutdown,demande d'arrêt,,يطلب الإغلاق
+running,en cours d'exécution,läuft,يعمل
+server capabilities,capacités du serveur,Server-Eigenschaften,إمكانيات الخادم
+stopped,arrêté,angehalten,متوقّف
+stopped (%1).,arrêté (%1).,,متوقّف (%1).
+supported,pris en charge,unterstützt,مدعوم
+syntax error: %1,Erreur de syntaxe : %1,Syntaxfehler: %1,خطأ بناء الجملة: %1
+syntax error: expression not found,erreur de syntaxe : impossible de trouver l'expression,,خطأ بناء الجملة: التعبير غير موجود
+telemetry,télémétrie,,القياس عن بعد
+terminate debuggee,arrêter le débogueur,,إنهاء التنقيح
+terminate request,requête de terminaison,Anfrage beenden,إنهاء الطلب
+terminated,terminé,beendet,انتهى
+thread %1,Processus %1,Thread %1,الخيط %1
+thread id not specified: %1,Identifiant du processus non spécifié : %1,Thread nicht angegeben: %1,معرف الخيط غير محدد: %1
+type,type,,النوع
+unsupported,non pris en charge,nicht unterstützt,غير مدعوم

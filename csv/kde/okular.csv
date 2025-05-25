@@ -1,0 +1,1006 @@
+English,French,German,Arabic
+"""Unique instance"" control",Commande de « Session unique »,Nur eine Instanz des Programms verwenden,"تحكم ""بالنسخة الفريدة"""
+%1 (%2 bits),%1 (%2 bits),%1 (%2 Bit),%1 (%2 بت)
+%1 (%2),%1 (%2),%1 (%2),%1 (%2)
+%1 (substituting with %2),%1 (remplacée par %2),%1 (ersetzt durch %2),%1 (استبدل بـ %2)
+%1 Properties,Propriétés de %1,%1-Eigenschaften,خصائص %1
+%1 – Presentation,Présentation - %1,%1 – Präsentation,%1 – عرض تقديميّ
+%v px,%v px,,%v بكسل
+%v%,%v %,%1 %,%v٪
+Add...,Ajouter...,Hinzufügen ...,أضِف
+Align:,Alignement :,Ausrichtung:,حاذِ إلى:
+Annotations,Annotations,Anmerkungen,الشروح
+Appearance,Apparence,Erscheinungsbild,المظهر
+Author:,Auteur :,Autor:,مؤلف:
+Auto Fit,Adapter automatiquement,Automatisch einpassen,ملاءمة تلقائيّة
+Bookmarks,Signets,Lesezeichen,علامات المواقع
+Browse,Parcourir,Blättern,تصفّح
+Color Mode,Mode de couleurs,Farbmodus,نمط الألوان
+Color:,Couleur :,Farbe:,لون:
+Continuous,Continu,Fortlaufend,مستمر
+Copy Path,Copier un emplacement,Pfad kopieren,انسخ المسار
+Default Font:,Police par défaut :,Standardschrift:,الخَط المبدئي:
+Delete,Supprimer,Löschen,احذف
+Edit,Édition,Bearbeiten,حرر
+Edit...,Modifier...,Bearbeiten ...,حرر...
+Embedded Files,Fichiers intégrés,Eingebettete Dateien,ملفات مضمنة
+Extract Font,Extraire une police,Schrift entpacken,استخراج الخط
+Facing Pages,Pages en face à face,Gegenüberliegende Seiten,صفحات متقابلة
+File,Fichier,Datei,ملف
+Fonts,Polices,Schriftarten,خطوط
+Forget This Item,Oublier cet élément,Dieses Element vergessen,انس هذا العنصر
+General,Général,Allgemein,عام
+Go,Aller,Gehe zu,اذهب
+Help,Aide,Hilfe,مساعدة
+Import PostScript as PDF...,Importer du format « PostScript » comme du « PDF »...,PostScript als PDF importieren ...,استورد PostScript كـ PDF...
+Invert Colors,Inverser les couleurs,Farben umkehren,أعكس الألوان
+Magnifier,Magnifier,Lupe,المكبر
+Name:,Nom :,Name:,الاسم:
+Normal Colors,Couleurs normales,Normale Farben,ألوان عادية
+Opacity:,Opacité :,Deckkraft:,التعتيم:
+Open Containing Folder,Ouvrir le dossier contenant,Ordner mit diesem Inhalt öffnen,افتح المجلد الحاوي
+Open Pop-up Note,Ouvrir une note épinglée,Notiz öffnen,افتح ملاحظة منبثقة
+Orientation,Orientation,Ausrichtung,الاتجاه
+Overview,Aperçu,Übersicht,نظرة عامة
+Page Sizes,Tailles de page,Seitengröße,أحجام الصفحة
+Page:,Page :,Seite:,صفحة:
+Pen Width:,Largeur du pinceau :,Stiftbreite:,عرض القلم:
+Properties,Propriétés,Eigenschaften,خصائص
+Remove,Supprimer,Entfernen,أزِل
+Save '%1'...,Enregistrer « %1 »...,Speichern „%1“ ...,احفظ '%1'...
+Save As...,Enregistrer sous...,Speichern unter ...,احفظ ك...
+Settings,Configuration,Einstellungen,إعدادات
+Sign...,Signer...,Signieren ...,وقّع...
+Single Page,Page unique,Einzelne Seite,صفحة مفردة
+Text Selection,Sélection de texte,Textauswahl,تحديد النص
+Tools,Outils,Extras,أدوات
+Trim Margins,Réduire les marges,Ränder stutzen,اقتصّ الهوامش
+Trim View,Rogner l'affichage,Ansicht stutzen,اقتصّ العرض
+Type:,Type :,Typ:,النوع:
+View,Affichage,Ansicht,اعرض
+View Mode,Mode d'affichage,Anzeigemodus,نمط العرض
+View...,Affichage...,Ansicht ...,اعرض...
+Width:,Largeur :,Breite:,العرض:
+Zoom,Zoom,Zoom,كبر
+Click to open a file or Click and hold to select a recent file,Cliquer pour ouvrir un fichier ou Cliquer et maintenir pour sélectionner un fichier récent,"Klicken Sie, um eine Datei zu öffnen, oder klicken und halten Sie gedrückt, um eine kürzlich geöffnete Datei zu öffnen.",انقر لفتح ملف انقر وأمسك لتحديد ملف حديث
+"Note: the information here is used only for annotations. The information is saved in annotated documents, and so will be transmitted together with the document.",Remarque : ces informations ne sont utilisées que pour les annotations. Les informations sont enregistrées dans les documents annotés. Elles seront par conséquent transmises avec le document.,Hinweis: Diese Informationen werden nur für Anmerkungen verwendet. Die Informationen werden in Dokumenten mit Anmerkungen gespeichert und mit dem Dokument übertragen.,:لاحظ المعلومات هنا تستخدم فقط للشروح. تحفظ المعلومات في المستندات المشروحة، وبالتالي سترسل مع المستند.
+Warning: these options can badly affect drawing speed.,Attention : Ces options peuvent affecter défavorablement les performances d'affichage.,Warnung: Diese Einstellungen können einen stark negativen Einfluss auf die Darstellungsgeschwindigkeit haben.,تحذير: هذه الخيارات قد تضر بشدة بسرعة الرسم.
+No annotationsTo create new annotations press F6 or select Tools -gt; Annotations from the menu.,"Aucune annotationPour créer de nouvelles annotations, veuillez appuyer sur « F6 » ou sélectionnez Outils  Annotations à partir du menu.","Keine AnmerkungenUm neue Anmerkungen einzufügen, drücken Sie F6 oder wählen Sie Anmerkungen aus dem Menü Extras.",لا شروحلإنشاء شرح جديد اضغط F6 أو حدد أدوات -gt; الشروح من القائمة.
+Drawing Tools,Outils de dessin,Zeichenwerkzeug,أدوات الرسم
+Quick Annotation Tools,Outils rapides d'annotations,Schnell-Anmerkungen,أدوات الشرح السريع
+File Error! Could not create temporary file %1.,Erreur de fichier ! Impossible de créer le fichier temporaire %1.,Dateifehler! Die temporäre Datei %1 kann nicht angelegt werden.,خطأ ملف! تعذّر إنشاء ملف مؤقّت %1.
+File Error! Could not open the file %1 for uncompression. The file will not be loaded.,Erreur de fichier ! Impossible d'ouvrir le fichier %1 pour décompression. Le fichier ne sera pas chargé.,Dateifehler! Die temporäre Datei %1 kann nicht zum Dekomprimieren geöffnet werden. Die Datei wird nicht geladen.,خطأ ملف! تعذّر فتح الملف %1 لفك الضغط. لن يتم تحميل الملف.
+File Error! Could not uncompress the file %1. The file will not be loaded.,Erreur de fichier ! Impossible de décompresser le fichier %1. Le fichier ne sera pas chargé.,Dateifehler! Die Datei %1 kann nicht dekomprimiert werden. Sie wird nicht geladen.,خطأ ملف! تعذّر فك ضغط الملف %1. لن يتم تحميل الملف.
+More than one backend found for the MIME type:%1 (%2).Please select which one to use:,Plusieurs moteurs de rendu ont été trouvés pour le type « MIME » :%1 (%2).Veuillez choisir celui devant être utilisé :,"Mehr als ein Anzeigemodul für diesen MIME-Typ gefunden:%1 (%2).Bitte wählen Sie aus, welches Modul benutzt werden soll:",أكثر من نهاية خلفية وجدت لنوع التنسيق :%1 (%2).أختر أيها سيستعمل:
+"This error typically occurs if the file is corrupt. If you want to be sure, try to decompress the file manually using command-line tools.","Cette erreur arrive habituellement si le fichier est corrompu. Si vous voulez le décompresser malgré tout, essayez de le faire manuellement avec des outils en ligne de commandes.","Typischerweise tritt dieses Problem auf, wenn die Datei beschädigt ist. Wenn Sie sicher sein möchten, versuchen Sie, die Datei mit Hilfe von Befehlszeilen-Werkzeugen selbst zu dekomprimieren.",يحدث هذا الخطأ عادة إذا كان الملف معطوباً. إذا أردت أن تتأكد ،ا فحاول فك ضغط الملف يدياً باستخدام أدوات سطر الأوام.
+"This error typically occurs if you do not have enough permissions to read the file. You can check ownership and permissions if you right-click on the file in the Dolphin file manager, then choose the 'Properties' option, and select 'Permissions' tab in the opened window.","Cette erreur arrive habituellement si vous n'avez pas les droits d'accès en lecture sur le fichier. Vous pouvez vérifier le propriétaire, le groupe et les droits d'accès en faisant un clic droit sur le fichier dans le gestionnaire de fichiers Dolphin et ensuite en sélectionnant l'option « Propriétés » puis l'onglet « Permissions » dans la fenêtre alors ouverte. ","Typischerweise tritt dieses Problem auf, wenn Ihre Rechte nicht zum Lesen der Datei ausreichen. Sie können Besitzer und Berechtigungen überprüfen, indem Sie in der Dateiverwaltung Dolphin mit der rechten Maustaste auf die Datei klicken und dann „Eigenschaften“ im Kontextmenü aufrufen und zur Karteikarte „Berechtigungen“ im Dialog gehen.",يحدث هذا الخطأ إذا لم يكن لديك الصلاحيّات الكافية لقراءة الملف. يمكنك فحص الملكية والصلاحيات إذا ضغطت بالزر الأيمن على الملف في مدير الملفات دولفين ثم قمت باختيار لسان `التصاريح`
+"A good compromise between memory usage and speed gain. Preload next page and boost searches. (For systems with 2GB of memory, typically.)",Un bon compromis entre l'utilisation de la mémoire et le gain de rapidité. Précharge la prochaine page et accélère les recherches (pour les systèmes possédant généralement 2 Go de mémoire).,Ein Kompromiss zwischen Arbeitsspeicherbelegung und Geschwindigkeit. Die nächste Seite wird im Voraus geladen und die Suche geht schneller. (Typischerweise für Systeme mit 2 GB Arbeitsspeicher.),جمع جيد بين استعمال الذاكرة و السرعة. تحميل مسبق للصفحة التالية و تسريع البحث. (للأنظمة ذات ذاكرة 2 غ.بايت عادة.)
+A problem occurred during the execution of the 'dvipng' command.,Un problème est survenu durant l'exécution de la commande « dvipng ».,Bei der Ausführung des „dvipng“-Befehls ist ein Problem aufgetreten.,حدثت مشكلة أثناء تنفيذ الأمر 'dvipng'.
+A problem occurred during the execution of the 'latex' command.,Un problème est survenu durant l'exécution de la commande « latex ».,Bei der Ausführung des „latex“-Befehls ist ein Problem aufgetreten.,حدثت مشكلة أثناء تنفيذ الأمر 'latex'
+"A signature of this size may be too small to read. If you would like to create a potentially more readable signature, press Start over and draw a bigger rectangle.","Une signature de cette taille pourrait être trop petite pour la lecture. Si vous vouliez créer une signature potentiellement plus lisible, appuyez Recommencer et dessiner un rectangle plus grand.","Eine Signatur in dieser Größe ist möglicherweise zu klein, um sie lesen zu können. Wenn Sie eine besser lesbare Signatur erstellen möchten, klicken Sie auf Neu beginnen und zeichnen dann ein größeres Rechteck.",قد يكون توقيع بهذا الحجم صغيرًا جدًا بحيث لا يمكن قراءته. إذا كنت ترغب في إنشاء توقيع يحتمل أن يكون أكثر قابلية للقراءة ، فاضغط على  ابدأ من جديد  وارسم مستطيلاً أكبر.
+Abort Closing,Annuler la fermeture,Schließen abbrechen,أحبط الغلق
+Abort Reloading,Interrompre le rechargement,Neu Laden abbrechen,أحبط إعادة التحميل
+About Backend,À propos des moteurs de rendu...,Über Anzeigemodul,حول المنتهى الخلفي
+Accessibility,Accessibilité,Zugangshilfen,تسهيل الوصول
+Accessibility Reading Aids,"Accessibilité, aides à la lecture",Zugangshilfen für das Lesen,إتاحة مساعدة القراءة
+Add Bookmark,Ajouter un signet,Lesezeichen hinzufügen,أضف علامة
+Add favorite annotation,Ajouter une annotation favorite,Bevorzugte Anmerkung hinzufügen,أضف شرح مفضل
+Add the current annotation to the quick annotations menu,Ajouter l'annotation courante au menu rapide des annotations,Fügt die aktuelle Anmerkung zu den Schnell-Anmerkungen hinzu,أضف الشرح الحالي إلى قائمة الشروح السريعة
+Add the current annotation to the quick annotations menu (No annotation selected),Ajouter l'annotation courante au menu rapide des annotations (Aucune annotation sélectionnée),Fügt die aktuelle Anmerkung zu den Schnell-Anmerkungen hinzu (Keine Anmerkung ausgewählt),أضف الشرح الحالي إلى قائمة الشروح السريعة (لم يحدد أي شرح)
+Add to Quick Annotations,Ajouter une annotation rapide,Zu Schnell-Anmerkungen hinzufügen,أضف إلى أدوات الشرح السريعة
+Additional Information,Informations supplémentaires,Zusätzliche Informationen,معلومات إضافية
+Adobe PKCS7,Adobe PKCS7,,Adobe PKCS7
+Adobe PKCS7 Sha1,Adobe PKCS7 Sha1,,Adobe PKCS7 Sha1
+Advance automatically:,Avancer automatiquement :,Automatisch weiter:,التقدم آلي:
+Advance to the Next Page,Avance à la page suivante,Weiter zur nächsten Seite,انتقل إلى الصفحة التالية
+Advanced settings for the current annotation tool,Paramètres avancés pour l'outil courant d'annotation,Erweiterte Einstellungen für die aktuelle Anmerkung,إعدادات متقدمة لأداة الشرح الحالية
+Advanced settings for the current annotation tool (No annotation selected),Paramètres avancés pour l'outil courant d'annotation (Aucune annotation sélectionnée),Erweiterte Einstellungen für die aktuelle Anmerkung (Keine Anmerkung ausgewählt),إعدادات متقدمة لأداة الشرح الحالية (لم يحدد أي شرح)
+"After saving, the current document format requires the file to be reloaded. Your undo/redo history will be lost.Do you want to continue?","Après l'enregistrement, le format de document nécessite que le fichier soit rechargé. Votre historique d'annulation sera perdu.  Voulez-vous continuer ?",Nach dem Speichern muss die Datei wegen des aktuellen Dokumentformats neu geladen werden. Der Verlauf von Zurücknehmen/Wiederherstellen geht verloren.Möchten Sie fortfahren?,بعد الحفظ ، يتطلب تنسيق المستند الحالي إعادة تحميل الملف.ستفقد سجل التراجع / الإعادة الخاص بك.  هل تريد المتابعة؟
+Aggressive,Agressif,Aggressiv,شديد
+Albert Astals Cid,Albert Astals Cid,Albert Astals Cid,ألبرت أستالس سيد
+All,Tout,Zulassen,الكلّ
+All Files (*),Tous les fichiers (*),Alle Dateien (*),كلّ الملفّات (*)
+All editing and interactive features for this document are disabled. Please save a copy and reopen to edit this document.,Toutes les fonctionnalités interactives et de modification pour ce document sont désactivées. Veuillez enregistrer une copie et rouvrir pour modifier ce document.,"Alle Bearbeitungs- und Interaktionsfunktionen für dieses Dokument sind deaktiviert. Bitte speichern Sie eine Kopie  und öffnen sie neu, um dieses Dokument zu bearbeiten.",عطلت كافة ميزات التحرير والتفاعلية لهذا المستند. لو سمحتاحفظ نسخة وأعد فتحها لتحرير هذا المستند.
+All files (*),Tous les fichiers (*),Alle Dateien (*),كلّ الملفّات (*)
+All supported files (%1),Tous les fichiers pris en charge (%1),Alle unterstützten Dateien (%1),كلّ الملفّات المدعومة (%1)
+All your signing certificates are either not valid yet or are past their validity date.,Tous vos certificats de signature sont soit non valables ou soit ont dépassé leurs dates de validité.,Alle Ihre Signaturzertifikate sind entweder ungültig oder bereits abgelaufen.,جميع شهادات التوقيع الخاصة بك إما غير صالحة بعد أو تجاوزت تاريخ صلاحيتها.
+Always hidden,Toujours masqué,Immer ausgeblendet,دائما مخفية
+Always visible,Toujours visible,Immer sichtbar,ظاهرة دائمًا
+Annotation Options,Options d'annotations,Anmerkungs-Einstellungen,خيارات الشرح
+Annotation Properties,Propriétés d'annotation,Anmerkungs-Eigenschaften,خصائص التعليق
+Annotation Settings,Paramètres d'annotations,Anmerkungs-Einstellungen,خيارات الشرح
+Annotation Toolbar,Barre d'outils d'annotation,Anmerkungswerkzeugleiste,شريط أدوات الشرح
+Annotation border color,Couleur de bordure des annotations,Anmerkungs-Umrandungsfarbe,لون حدود الشرح
+Annotation color,Couleur des annotations,Anmerkungs-Farbe,لون الشرح
+Annotation color (No annotation selected),Couleur des annotations (Aucune annotation sélectionnée),Anmerkungs-Farbe (Keine Anmerkung ausgewählt),لون الشرح (لم يحدد أي شرح)
+Annotation fill color,Couleur du remplissage des annotations,Anmerkungs-Füllfarbe,لون تعبئة الشرح
+Annotation fill color (Current annotation has no fill color),Couleur de remplissage des annotations (L'annotation courante ne possède aucune couleur de remplissage),Anmerkungs-Füllfarbe (Die aktuelle Anmerkung hat keine Füllfarbe),لون تعبئة الشرح (الشرح الحالي ليس له لون تعبئة)
+Annotation fill color (No annotation selected),Couleur du remplissage des annotations (Aucune annotation sélectionnée),Anmerkungs-Füllfarbe (Keine Anmerkung ausgewählt),لون تعبئة للشرح (لم يحدد أي شرح)
+Annotation font,Police des annotations,Anmerkungs-Schriftart,خط الشرح
+Annotation font (Current annotation has no font),Police des annotations (L'annotation courante ne possède aucune police),Anmerkungs-Schriftart (Die aktuelle Anmerkung hat keine Schriftart),خط الشرح (الشرح الحالي لا يملك خط)
+Annotation font (No annotation selected),Police des annotations (Aucune annotation sélectionnée),Anmerkungs-Schriftart (Keine Anmerkung ausgewählt),خط الشرح (لم يحدد أي شرح)
+Annotation improvements,Amélioration des annotations,Verbesserungen der Anmerkungen,تحسينات الشروح
+Annotation line width,Largeur de la ligne d'annotations,Anmerkungs-Linienbreite,عرض خط الشرح
+Annotation line width (Current annotation has no line width),Largeur de la ligne d'annotations (L'annotation courante ne possède aucune largeur de ligne),Anmerkungs-Linienbreite (Die aktuelle Anmerkung hat keine Linienbreite),عرض خط الشرح (الشرح الحالي ليس لديه عرض خط)
+Annotation line width (No annotation selected),Largeur de la ligne d'annotations (Aucune annotation sélectionnée),Anmerkungs-Linienbreite (Keine Anmerkung ausgewählt),عرض خط الشرح (لم يحدد أي شرح)
+Annotation opacity,Opacité des annotations,Anmerkungs-Deckkraft,عتمة الشرح
+Annotation opacity (No annotation selected),Opacité des annotations (Aucune annotation sélectionnée),Anmerkungs-Deckkraft (Keine Anmerkung ausgewählt),عتمة الشرح (لم يحدد أي شرح)
+Annotation text color,Couleur du texte des annotations,Anmerkungs-Textfarbe,لون نص الشرح
+Annotation toolbar:,Barre d'outils d'annotations :,Anmerkungswerkzeugleiste:,شريط أدوات الشرح:
+Annotations,Annotations,Anmerkungen,الشروح
+Annotations artwork,Graphismes pour les annotations,Design für Anmerkungen,الأعمال الفنية للشروح
+Appearance,Apparence,Erscheinungsbild,المظهر
+Appearance:,Apparence :,Erscheinungsbild:,المظهر:
+Approved,Approuvé,Freigegeben,مصادق عليه
+Area Selection,Sélection d'une zone,Bereichsauswahl,تحديد النص
+Arrow,Flèche,Pfeil,سهم
+As Is,Tel quel,Wie vorliegend,كما هو
+Author,Auteur,Autor,المؤلف
+Author name,Nom de l'auteur,Name des Autors,اسم المؤلف
+Author name for the annotation:,Nom de l'auteur pour l'annotation :,Namen des Autors der Anmerkung:,أدخل اسم مؤلف الشرح:
+Author:,Auteur :,Autor:,المؤلّف:
+Author: %1,Auteur : %1,Autor: %1,مؤلف: %1
+Auto Fit,Adapter automatiquement,Automatisch einpassen,لائم آليًّا
+Back,Précédent,Zurück,للخلف
+Backend Selection,Sélection du moteur de rendu,Anzeigemodul-Auswahl,تحديد النهاية الخلفية
+Background color:,Couleur de l'arrière plan :,Hintergrundfarbe:,لون الخلفية:
+Background:,Arrière-plan :,Hintergrund:,الخلفية:
+Beginning of the document,Début du document,Anfang des Dokuments,بداية المستند
+Black,Noir,Schwarz,الأسود
+Blinds horizontal,Masquer horizontalement,Horizontal einfliegen,ستائر أفقي
+Blinds vertical,Masquer verticalement,Vertikal einfliegen,ستائر رأسي
+Blue,Bleu,Blau,الأزرق
+Bookmark,Signet,Lesezeichen,علامة موقع
+Bookmarks,Signets,Lesezeichen,علامات المواقع
+Border width:,Largeur de la bordure :,Rahmenbreite:,عرض الحدّ:
+Box in,Mettre en boîte,Rechtecküberblendung nach innen,مربع للداخل
+Box out,Sortir d'une boîte,Rechtecküberblendung nach außen,مربع للخارج
+Butt,Bout,Stumpfes Ende,قاعدة
+CID TrueType,CID TrueType,CID TrueType,CID تروتايب
+CID TrueType (OT),CID TrueType (OT),CID TrueType (OpenType),CID تروتايب (OT)
+CID Type 0,CID Type 0,CID Typ 0,نوع CID 0
+CID Type 0C,CID Type 0C,CID Typ 0C,نوع CID 0C
+CID Type 0C (OT),CID Type 0C (OT),CID Typ 0C (OpenType),نوع CID 0C (OT)
+CPU usage:,Utilisation du processeur :,CPU-Ausnutzung:,استخدام المعالج:
+Can not find a plugin which is able to handle the document being passed.,Impossible de trouver un module externe capable de traiter le document indiqué.,Es ist kein passendes Anzeigemodul für dieses Dokument verfügbar.,تعذر إيجاد ملحق للتعامل مع المستند المطلوب.
+Cannot find dvipng executable.,Impossible de trouver l'exécutable « dvipng ».,Ausführbare Datei dvipng kann nicht gefunden werden.,تعذر إيجاد البرنامج التنفيذيّ dvipng
+Cannot find latex executable.,Impossible de trouver l'exécutable LaTeX.,Die ausführbare Datei „latex“ wurde nicht gefunden.,تعذر إيجاد برنامج لاتِخ تنفيذيّ.
+Caret,Curseur,Caret,القبعة
+Caret Properties,Propriétés de curseur,Caret-Eigenschaften,خصائص القبعة
+Caret symbol:,Symbole de curseur :,Caret-Symbol:,رمز القبعة:
+Case Sensitive,Sensible à la casse,Groß-/Kleinschreibung beachten,حساس للحالة
+Case sensitive,Sensible à la casse,Groß-/Kleinschreibung beachten,حساس للحالة
+Category,Catégorie,Kategorie,التصنيف
+Center,Centré,Mittig,الوسط
+Certificate Data:,Données du certificat :,Zertifikatsdaten:,بيانات الشّهادة:
+Certificate File (*.cer),Fichier de certificat (*.cer),Zertifikatsdatei (*.cer),ملف شهادة (*.cer)
+Certificate Viewer,Afficheur de certificat,Zertifikatsanzeige,عارض الشهادة
+Certificate has Expired.,Le certificat a expiré.,Das Zertifikat ist abgelaufen.,انتهت الشهادة.
+Certificate has been Revoked.,Le certificat a été révoqué.,Das Zertifikat wurde widerrufen.,الشهادة ألغيت.
+Certificate has not yet been verified.,Le certificat n'a pas encore été vérifié.,Das Zertifikat wurde noch nicht überprüft.,لم يتحقق من الشهادة بعد.
+Certificate is Trusted.,Le certificat est de confiance.,Das Zertifikat ist vertrauenswürdig.,الشهادة موثوقة.
+Certificate issuer is unknown.,L'autorité de certification est inconnue.,Der Aussteller des Zertifikats ist unbekannt.,مانح الشهادة مجهول.
+Certificate issuer isn't Trusted.,L'émetteur du certificat n'est pas de confiance.,Der Aussteller des Zertifikats ist nicht vertrauenswürdig.,مانح الشهادة غير موثوق.
+Certificate validation in progress,Validation du certificat en cours,Zerifikat wird überprüft,يتحقّق من سلامة الشَّهادة
+Certificates,Certificats,Zertifikate,الشّهادات
+Change Dark && Light Colors,Modifier les couleurs sombre et claire,Helle und dunkle Farben ändern,غيّر ألوان العتمة و الضوء
+Change Paper Color,Modifier la couleur du papier,Papierfarbe ändern,غيّر لون الورق
+Change Colors,Modifier les couleurs,Farben ändern,غير الألوان
+Change colors,Modifier les couleurs,Farben ändern,غير الألوان
+Change dark  light colors,Modifier les couleurs sombre et claire,Helle und dunkle Farben ändern,غيّر ألوان العتمة والضوء
+Change paper color,Modifier la couleur du papier,Papierfarbe ändern,غيّر لون الورق
+Choose New Name,Sélectionner un nouveau nom,Neuen Namen auswählen,اختر اسم جديد
+Choose an annotation tool from the quick annotations,Sélectionner un outil d'annotation à partir des annotations rapides,Wählen Sie eine Anmerkung aus den Schnell-Anmerkungen,اختر أداة شرح من الشروح السريعة
+Choose the editor you want to launch when Okular wants to open a source file.,Sélectionner l'éditeur à lancer lors de la tentative d'ouverture d'un fichier source par Okular.,"Legen Sie den Editor fest, mit dem Okular Quelldateien öffnen soll.",اختر المحرر الذي تريد إطلاقه عندما يريد أوكلار فتح ملف مصدر.
+Choose...,Choisissez…,Auswählen ...,اختر...
+Circle,Cercle,Kreis,دائرة
+Click to begin,Cliquer pour commencer,"Klicken Sie, um zu beginnen",انقر للبدء
+"Click to open a file
+Click and hold to open a recent file","Cliquer pour ouvrir un fichier
+Cliquer et maintenir pour ouvrir un fichier récent","Klicken Sie, um eine Datei zu öffnen.
+Klicken und gedrückt halten, um eine kürzlich geöffnete Datei zu öffnen.","انقر لفتح ملف
+انقر و أمسك لفتح ملف أخير"
+Click to see the magnified view.,Cliquez pour voir la vue magnifiée.,"Klicken Sie, um die vergrößerte Ansicht zu sehen.",اضغط هنا لرؤية العرض المُكَبَّر
+Close,Fermer,Schließen,أغلق
+Close Find Bar,Fermer la barre de recherche,Suchleiste schließen,أغلق شريط بحث
+Close Document,Fermer le document,Dokument schließen,أغلق المستند
+Close Tabs,Fermer les onglets,Unterfenster schließen,أغلق الألسنة
+Close this note,Fermer cette note,Diese Notiz schließen,أغلق هذه الملاحظة
+Closed Arrow,Flèche fermée,Geschlossener Pfeil,سهم مغلق
+Collapse all,Tout réduire,Alle einklappen,اطوِ الكلّ
+Collapse all elements,Replier tous les éléments,Alle Elemente einklappen,اطو كل العناصر
+Collapse whole section,Réduire toute la sélection,Gesamten Abschnitt einklappen,اطو كامل القسم
+Color,Couleur,Farbe,اللون
+Color mode:,Mode de couleurs :,Farbmodus:,نمط الألوان:
+Color:,Couleur :,Farbe:,اللون:
+Command:,Commande :,Befehl:,الأمر:
+Comment,Commentaire,Kommentar,تعليق
+Common Name(CN),Nom commun (NC),Allgemeiner Name (CN),الاسم الشائع (CN)
+Confidential,Confidentiel,Vertraulich,سري
+Configure Annotations...,Configurer les annotations...,Anmerkungen einrichten ...,اضبط الشروح...
+Configure Backends,Configurer les moteurs de rendu,Anzeigemodule einrichten,اضبط النهايات الخلفية
+Configure Backends...,Configurer les moteurs de rendu...,Anzeigemodule einrichten ...,اضبط النهايات الخلفية...
+Configure Color Modes...,Configurer les modes de couleurs...,Farbmodus einrichten ...,اضبط أنماط الألوان...
+Configure Okular...,Configurer Okular...,Okular einrichten ...,اضبط أوكلار...
+Configure Viewer,Configurer l'afficheur,Betrachter einrichten,اضبط العارض
+Configure Viewer Backends,Configurer les moteurs de rendu de l'afficheur,Anzeigemodule einrichten,اضبط النهايات الخلفية للعارِض
+Configure Viewer Backends...,Configurer les moteurs d'affichage...,Anzeigemodule einrichten ...,اضبط النهايات الخلفية للعارِض...
+Configure Viewer...,Configurer l'afficheur...,Betrachter einrichten ...,اضبط العارض...
+Configure Web Shortcuts...,Configurer des raccourcis Web...,Web-Kurzbefehle festlegen ...,اضبط اختصارات الوِب...
+Confirm Close,Confirmer la fermeture,Schließen bestätigen,أكد الغلق
+Constrain Ratio and Angle of Annotation Tools,Contraindre le ratio et l'angle des outils d'annotation,Seitenverhältnis und Winkel von Anmerkungen,قيد نسبة وزاوية أدوات الشرح
+Constrain line angle to 15° steps,Contraindre à un angle de ligne à des pas de 15°,Linienwinkel auf 15°-Schritte beschränken,قيد زاوية الخط بـ 15 درجة من الخطوات
+Constrain shape ratio to 1:1,Contraindre le ration de profil à 1:1,Seitenverhältnis auf 1:1 beschränken,قيد نسبة الشكل إلى 1:1
+Constrain shape ratio to 1:1 or line angle to 15° steps (No annotation selected),Contraindre le ration de profil à 1:1 ou l'angle de ligne à des pas de 15° (Aucune annotation sélectionnée),Seitenverhältnis auf  1:1 oder Linienwinkel 15°-Schritte beschränken (Keine Anmerkung ausgewählt),قيد نسبة الشكل إلى 1:1 أو زاوية الخط بـ 15 درجة من الخطوات (لم يحدد أي شرح)
+Constrain shape ratio to 1:1 or line angle to 15° steps (Not supported by current annotation),Contraindre le ration de profil à 1:1 ou l'angle de ligne à des pas de 15° (Non pris en charge par l'annotation courante),Seitenverhältnis auf  1:1 oder Linienwinkel 15°-Schritte beschränken (Von der aktuellen Anmerkung nicht unterstützt),قيد نسبة الشكل إلى 1:1 أو زاوية الخط بـ 15 درجة من الخطوات (الشرح حالي لا يدعمه)
+Contents,Contenus,Inhalt,المحتويات
+Continue,Continuer,Fortsetzen,تابع
+Continue Closing,Continuer la fermeture,Schließen fortsetzen,واصل الغلق
+Continue Reloading,Continuer le rechargement,Neu Laden fortsetzen,واصل إعادة التحميل
+Continue losing changes,Continuer en perdant les modifications,Fortsetzen und alle Änderungen verwerfen,تابع خسارة التغييرات
+Continuing search from beginning,Suite de la recherche à partir du début du fichier,Suche vom Anfang an fortsetzen,تابع البحث من البداية
+Continuing search from bottom,Continuer la recherche à partir du bas du fichier ?,Suche wird vom Ende her fortgesetzt,تابع البحث من الأسفل
+Contrast:,Contraste :,Kontrast:,التّباين:
+Convert to Black && White,Convertir en noir et blanc,In Schwarzweiß umwandeln,حوّل إلى أسود وأبيض
+Convert to black  white,Convertir en noir et blanc,In Schwarzweiß umwandeln,حوّل إلى أسود وأبيض
+Copy Link Address,Copier l'adresse du lien,Verknüpfungsadresse kopieren,انسخ رابط العنوان
+Copy Table Contents to Clipboard,Copier les contenus de la table dans le presse-papier,Tabelleninhalt in die Zwischenablage kopieren,انسخ محتويات الجدول إلى الحافظة
+Copy Text,Copier du texte,Text kopieren,انسخ نص
+Copy Text to Clipboard,Copier le texte dans le presse-papier,Text in die Zwischenablage kopieren,انسخ النص إلى الحافظة
+Copy forbidden by DRM,Copie interdite par « DRM »,Kopieren durch digitale Rechteverwaltung (DRM) verboten,مُنع النسخ من قبل DRM
+Copy to Clipboard,Copier dans le presse-papier,In die Zwischenablage kopieren,نسخ إلى الحافظة
+Copyright,Droit d'auteur,Copyright,حقوق النسخ
+Could not export the certificate,Impossible d'exporter le certificat,Das Zertifikat kann nicht exportiert werden,لا يمكن تصدير الشهادة
+Could not find a suitable binary for printing. Make sure CUPS lpr binary is available,Impossible de trouver un exécutable adapté à l'impression. Veuillez vérifier que le binaire CUPS « lpr » est disponible,"Es kann keine passende Programmdatei für das Drucken gefunden werden. Stellen Sie bitte sicher, dass die CUPS-Programmdatei „lpr“ verfügbar ist.",لم يعثر على برنامج مناسب للطباعة. تأكد أن CUPS lpr موجود.
+Could not load print preview part,Impossible de charger le composant d'aperçu avant impression,Die Druckvorschau-Komponente kann nicht geladen werden.,تعذر تحميل جزء معاينة الطباعة
+Could not load the file %1,Impossible de charger le fichier %1,Die Datei %1 kann nicht geladen werden,لا يمكن تحميل الملف %1
+"Could not open ""%1"" for writing. File was not saved.",Impossible d'ouvrir « %1 » en écriture. Le fichier n'a pas été enregistré.,„%1“ kann nicht zum Schreiben geöffnet werden. Die Datei wurde nicht gespeichert.,"تعذر فتح ""%1"" للكتابة. الملف لم يحفظ."
+Could not open %1. %2,Impossible d'ouvrir « %1 ». %2,„%1“ kann nicht geöffnet werden (%2),تعذّر فتح %1. %2
+Could not open %1. Reason: %2,Impossible d'ouvrir « %1 ». Raison : %2,%1 kann nicht geöffnet werden. Der Grund lautet: %2,تعذر فتح %1. السبب: %2
+Could not open '%1' (%2),Impossible d'ouvrir « %1 » (%2),„%1“ kann nicht geöffnet werden (%2),تعذّر فتح '%1' (%2)
+Could not open '%1'. File does not exist,Impossible d'ouvrir « %1 ». Le fichier n'existe pas.,„%1“ kann nicht geöffnet werden. Die Datei existiert nicht.,تعذر فتح '%1'. الملف غير موجود
+Could not open a temporary file,Impossible d'ouvrir un fichier temporaire,Die temporäre Datei kann nicht geöffnet werden.,تعذر فتح الملف المؤقت
+Could not open the temporary file for saving.,Impossible d'ouvrir le fichier temporaire pour enregistrement.,Die temporäre Datei kann nicht zum Speichern geöffnet werden.,تعذر فتح الملف المؤقت للحفظ.
+Could not overwrite %1 because that file is read-only. Try saving to another location or changing that file's permissions.,Il est impossible d'écraser le fichier %1 car il est en lecture seule. Veuillez essayer de l'enregistrer dans un autre emplacement ou de modifier ses permissions.,"Datei %1 kann nicht gespeichert werden, weil sie nur gelesen werden darf. Versuchen Sie einen anderen Speicherort oder eine Änderung der Dateiberechtigungen.",تعذر الكتابة فوق %1 بسبب أنه للقراءة فقط. حاول حفظه في مكان أخر أو غير أذونات الملف.
+"Could not print the document. Detailed error is ""%1"". Please report to bugs.kde.org",Impossible d'imprimer le document. L'erreur détaillée est « %1 ». Veuillez rapporter ce bogue à « bugs.kde.org »,Das Dokument kann nicht gedruckt werden. Die genaue Fehlermeldung lautet: „%1“. Bitte melden Sie das Problem unter http://bugs.kde.org,"تعذرت طباعة المستند. الخطأ بالتفصيل هو ""%1"". يُرجى التبليغ إلى bugs.kde.org"
+Could not print the document. Unknown error. Please report to bugs.kde.org,Impossible d'imprimer le document. Erreur inconnue. Veuillez rapporter ce bogue à « bugs.kde.org »,Das Dokument kann aufgrund eines unbekannten Fehlers nicht gedruckt werden. Bitte melden Sie das Problem unter http://bugs.kde.org,تعذرت طباعة المستند. خطأ غير معروف. يُرجى التبليغ عنه إلى bugs.kde.org
+Could not save file %1.,Impossible d'enregistrer le fichier %1.,Die Datei „%1“ lässt sich nicht speichern.,تعذّر حفظ الملفّ %1.
+Could not sign document with location: %1,Impossible de signer le document à l'emplacement : %1,Die Datei %1 kann nicht geladen werden,تعذر توقيع المستند بالموقع: %1
+Could not sign. Invalid certificate password or could not write to '%1',Signature impossible. Mot de passe pour le certificat non valable ou impossible d'écrire dans  %1 »,Signieren ist nicht möglich. Ungültiges Passwort für das Zertifikat oder Schreiben in „%1“ nicht möglich,لا يمكن التوقيع. كلمة مرور الشهادة غير صالحة أو تعذر الكتابة إلى '%1'
+Could not sign. Wrong passphrase,Impossible de faire une signature car phrase de passe incorrecte,,تعذر التوقيع. عبارة المرور خاطئة
+Could not view revision.,Impossible d'afficher la révision.,Die Revision kann nicht angezeigt werden.,تعذر عرض المراجعة.
+"Could not write signed document at %1, please ensure you have selected a folder with write permission",Impossible d'écrire le document signé à l'emplacement %1. Veuillez vous assurer que vous avez sélectionné un dossier pour lequel vous avez les droits en écriture.,"Datei %1 kann nicht gespeichert werden, weil sie nur gelesen werden darf. Versuchen Sie einen anderen Speicherort oder eine Änderung der Dateiberechtigungen.",لم نتمكن من كتابة مستند موقّع في %1، يرجى التأكد من تحديد مجلد به إذن الكتابة
+Create annotation tool,Outil de création d'annotations,Anmerkungswerkzeug erstellen,أنشئ أداة شرح
+Create drawing tool,Créer un outil de dessin,Zeichenwerkzeug erstellen,أنشئ أداة رسم
+Created,Créé,Erstellt am,أُنشئ
+Created Okular from KPDF codebase,A créé Okular à partir du code provenant de KPDF,Hat Okular auf Basis von KPDF aus der Taufe gehoben,أنشئ أوكلار من الكود الأساس ل KPDF
+Created:,Créé :,Erstellt:,أُنشئ في:
+Creator,Créateur,Erstellt von,المُنشئ
+Current Screen,Écran courant,Aktueller Bildschirm,الشّاشة الحاليّة
+Custom,Personnalisé,,مخصّص
+Custom Color...,Couleur personnalisée...,Benutzerdefinierte Farbe ...,لون مخصّص...
+Custom Text Editor,Éditeur de texte personnalisé,Benutzerdefinierter Texteditor,محرر نصوص مخصص
+Custom annotation name:,Nom d'annotation personnalisé :,Benutzerdefinierter Anmerkungsname:,اسم شرح مخصّص:
+Cyan,Cyan,Cyan,سماوي
+DSA,DSA,DSA,DSA
+Dark color:,Couleur sombre :,Dunkle Farbe:,اللون المعتم:
+Decrypt Keys,Déchiffrer les clés,Schlüssel entschlüsseln,مفاتيح فك التشفير
+Default Drawing Tool #%1,Outil de dessin par défaut n°%1,Standard-Zeichenwerkzeug #%1,أداة الرسم المبدئية #%1
+Default Screen,Écran par défaut,Standard-Bildschirm,الشّاشة الافتراضيّة
+Default transition:,Transition par défaut :,Standardübergang:,التنقل المبدئي:
+Default zoom:,Zoom par défaut :,Standardvergrößerung:,الحجم المبدئي:
+Defines how much of the current viewing area will still be visible when pressing the Page Up/Down keys.,Définit quelle proportion de la zone actuelle d'affichage sera encore visible lors d'un appui sur les touches « Page précédente » / « Page suivante ».,"Legt fest, wieviel des aktuell sichtbaren Bereichs noch sichtbar ist, nachdem eine der Tasten „Bild auf/ab“ betätigt wurde.",تحدِّد مقدار مساحة العرض التي ستبقى ظاهرة عند ضغط مفتاح Page Up/Down.
+Defines the default zoom mode for files which were never opened before. For files which were opened before the previous zoom is applied.,"Définit le mode de zoom par défaut pour les fichiers n'ayant jamais été ouverts. Pour les fichiers ayant déjà été ouverts, le dernier niveau de zoom utilisé est appliqué.","Legt die Vergrößerung für Dateien fest, die zum ersten Mal geöffnet werden.
+Alle bereits vorher geöffneten Dateien werden in der letzten benutzen Vergrößerungsstufe angezeigt.",يُحدِّد وضع التقريب المبدئيّ للملفات التي لم تُفتَح قبلاً.للملفات المفتوحة قَبلاً يطبق التقريب السابِق.
+Deny Request,Refuser la demande,Anfrage verweigern,رفض الطلب
+Departmental,Départemental,Abteilungsintern,إداري
+Description,Description,Beschreibung,الوصف
+Description:,Description :,Beschreibung:,الوصف
+Details,Détails,Details,التفاصيل
+Developer,Développeur,Entwickler,المطوّر
+Diamond,Losange,Raute,معين الزوايا
+Digest Mismatch occurred.,Les signatures ne correspondent pas.,Prüfsumme passt nicht,حصل عدم مطابقة للتجميعة.
+Digital Signature,Signature numérique,Digitale Signatur,التوقيع الرقمي
+Digitally Sign...,Signature numérique en cours...,Digital signieren ...,وقع رقمياً...
+Disabled,Désactivé,Deaktiviert,معطّل
+Display document title in titlebar if available,"Afficher le titre du document dans la barre de titre, si disponible","Dokumenttitel in der Titelleiste anzeigen, falls verfügbar",اعرض عنوان المستند في شريط العنوان إن وُجِد
+Display file name only,Afficher uniquement le nom du fichier,Nur Dateinamen anzeigen,اعرض فقط اسم الملف
+Display full file path,Afficher l'emplacement complet du fichier,Vollständigen Dateipfad anzeigen,اعرض المسار الكامل للملف
+Dissolve,Dissoudre,Auflösen,إذابة
+Do not show this message again,Ne plus afficher ce message,Diese Meldung nicht mehr anzeigen,لا تعرض هذه الرّسالة مجدّدًا
+"Do you want to save your changes to ""%1"" or discard them?",Voulez-vous enregistrer vos modifications dans « %1 » ou les annuler ?,Möchten Sie Ihre Änderungen an „%1“ speichern oder verwerfen?,"هل تريد حفظ التغييرات على ""%1"" أم تجاهلها؟"
+Document Modifications:,Modifications du document ;,Änderungen am Dokument:,تعديلات المستند:
+Document Password,Mot de passe du document,Dokument-Passwort,كلمة سر المستند
+Document Revision %1 of %2,Révision de document %1 sur %2,Dokumentversion %1 von %2,مراجعة المستند %1 من %2
+Document Version,Version du document,Dokumentversion,إصدار المستند
+Document can't be saved,Le document ne peut être enregistré.,Dokument kann nicht gespeichert werden,لا يمكن حفظ المستند
+Document shared successfully,Document partagé avec succès,Dokument erfolgreich veröffentlicht,شُورك المستند بنجاح
+Documents to open. Specify '-' to read from stdin.,Documents à ouvrir. Utiliser « - » pour lire depuis l'entrée standard.,Zu öffnende Dokumente. Mit „-“ wird aus der Standardeingabe (stdin) gelesen.,اسم المستند لفتحه. حدد '-' لتقرأ من stdin.
+Draft,Brouillon,Entwurf,مسودة
+Draw a freehand line,Dessiner une ligne à main levée,Eine Freihandlinie zeichnen,ارسم خطًّا حُرًّا
+Draw a polygon (click on the first point to close it),"Dessiner un polygone (pour le fermer, cliquez sur le premier point)",Zeichnet ein Vieleck (Klicken Sie auf den ersten Punkt zum Abschließen),رسم مضلع (انقر على النقطة الأولى لإغلاقه)
+Draw a rectangle,Dessiner un rectangle,Ein Rechteck zeichnen,ارسم مستطيلاً
+Draw a rectangle around the page area you wish to keep visible,Dessiner un rectangle autour de la zone de la page à conserver visible.,"Ziehen Sie mit der Maus ein Rechteck um den Bereich der Seite, der sichtbar bleiben soll..",ارسم مربعا حول مساحة الصفحة التي تريد أن تجعلها مرئية
+"Draw a rectangle around the table, then click near edges to divide up; press Esc to clear.",Dessiner un rectangle autour du tableau puis cliquer près des bords pour le diviser. Appuyez sur « Échap » pour effacer.,"Ziehen Sie mit der Maus ein Rechteck um die Tabelle, klicken Sie dann zur Aufteilung auf die nächsten Kanten, drücken Sie die Taste ESC zum Löschen.",ارسم مستطيلاً حول الجدول، ثم انقر بالفأرة بالقرب من الحافة لتُقَسِّم؛ اضغط Esc للإلغاء.
+Draw a rectangle around the text/graphics to copy.,Dessiner un rectangle autour du texte ou de l'image à copier.,Ziehen Sie mit der Maus ein Rechteck um den zu kopierenden Bereich.,ارسم مربعا حول النص/الصورة المراد نسخه.
+Draw a rectangle to insert the signature field,Dessiner un rectangle pour insérer un champ de signature,"Zeichnen Sie ein Rechteck, um ein Signaturfeld einzufügen.",ارسم مستطيل لإدراج حقل التوقيع
+Draw a straight line,Dessiner une ligne droite,Eine gerade Linie zeichnen,ارسم خطًّا مستقيماً
+Draw an ellipse (drag to select a zone),Dessiner une ellipse (faites la glisser pour sélectionner une zone),"Ellipse zeichnen (Ziehen Sie mit der Maus, um einen Bereich auszuwählen)",ارسم شكل بيضاوي (اسحب لتحديد منطقة)
+Draw border around links,Dessiner des bordures autour des liens,Verknüpfungen umrahmen,ارسم حدودا حول الروابط
+Drawing Tool: %1,Outil de dessin : %1,Zeichenwerkzeug: %1,أداة الرسم: %1
+Duplicated Name,Nom en doublon,Name bereits vergeben,الاسم المكرر
+Export As,Exporter comme,Exportieren als,صدِّر إلى
+EC,EC,EC,الكُهَيرِب
+EMail,Adresse mail,E-Mail,البريد الإلكترونيّ
+ETSI CAdES,ETSI CAdES,,ETSI CAdES
+Edit annotation tool,Outil de modification d'annotations,Anmerkungswerkzeug bearbeiten,حرّر أداة شرح
+Edit drawing tool,Modifier l'outil de dessin,Zeichenwerkzeug bearbeiten,حرّر أداة رسم
+Editor,Éditeur,Editor,المحرر
+Editor Options,Options de l'éditeur,Editor-Einstellungen,خيارات المحرر
+Editor:,Éditeur :,Editor:,المحرر:
+Ellipse,Ellipse,Ellipse,بيضاوي
+Emacs client,Client Emacs,Emacs,عميل إي ماكس
+Embedded (subset),Intégré (sous-ensemble),Eingebettet (teilweise),مضمن (جزئية)
+Embedded Files,Fichiers intégrés,Eingebettete Dateien,ملفات مضمنة
+Embedded: %1,Intégré : %1,Eingebettet: %1,مضمن: %1
+Enable graphics antialias,Activer l'anticrénelage pour les images,Kantenglättung Grafik aktivieren,فعِّل تنعيم حواف الرسوميات
+Enable text antialias,Activer l'anticrénelage pour le texte,Kantenglättung für Text aktivieren,فعِّل تنعيم حواف الخط
+Enable text hinting,Activer le lissage du texte,Hinting für Text aktivieren,فعِّل تنعيم النَّص
+Enable transparency effects,Activer les effets de transparence,Transparenzeffekte aktivieren,مكن مؤثرات الشفافية
+Enabled,Activé,Aktiviert,ممكّن
+Encrypt Keys,Clés de chiffrement,Schlüssel verschlüsseln,مفاتيح التشفير
+Encrypt Only,Chiffrer uniquement,Nur verschlüsseln,التشفير فقط
+End Presentation,Terminer une présentation,Präsentation beenden,أنهِ العرض
+End of the document,Fin du document,Ende des Dokuments,نهاية المستند
+Enrico Ros,Enrico Ros,Enrico Ros,إنريكو روس
+Enter Presentation Mode,Entrer en mode « Présentation »,Präsentationsmodus starten,ادخل وضع العرض التقديمي
+Enter at least 3 letters to filter pages,Saisissez au moins 3 lettres pour filtrer les pages,Geben Sie mindestens drei Buchstaben zum Filtern der Seiten ein,أدخل 3 حروف على الأقل لترشيح الصفحات
+Enter certificate password,Saisissez le mot de passe du certificat,Zertifikat-Passwort eingeben,أدخل كلمة مرور الشهادة
+Enter document password,Saisissez le mot de passe du document,Dokument-Passwort eingeben,أدخل كلمة سر المستند
+Enter password (if any) to unlock certificate: %1,Saisissez un mot de passe (si présent) pour déverrouiller le certificat : %1,"Geben Sie ein Passwort, falls vorhanden, zum Entsperren des Zertifikats ein %1",أدخل كلمة المرور (إن وجدت) لفتح الشهادة: %1
+Enter the new name of the bookmark:,Saisissez le nouveau nom du signet :,Geben Sie den Namen des Lesezeichens ein:,أدخل اسم جديد للعلامة:
+Erase Drawing,Effacer les dessins,Zeichnung löschen,امسح الرسومات
+Eraser,Gomme,Radierer,ممحاة
+Error: Can't open more than one document with the --find switch,Erreur : impossible d'ouvrir plus d'un document avec l'option « --find »,Fehler: Mit der Option „--find“ kann nicht mehr als ein Dokument gleichzeitig geöffnet werden,خطأ: لا يُمكِن فتح أكثر من مستند واحد باستخدام الخيار find--
+Error: Can't open more than one document with the --page switch,Erreur : impossible d'ouvrir plus d'un document avec l'option « --page »,Fehler: Mit der Option „--page kann nicht mehr als ein Dokument gleichzeitig geöffnet werden,خطأ: لا يُمكِن فتح أكثر من مستند واحد باستخدام الخيار page--
+Error: Can't open more than one document with the --presentation switch,Erreur : impossible d'ouvrir plus d'un document avec l'option « --presentation »,Fehler: Mit der Option „--presentation“ kann nicht mehr als ein Dokument gleichzeitig geöffnet werden.,خطأ: لا يُمكِن فتح أكثر من مستند واحد باستخدام الخيار presentation--
+Error: Can't open more than one document with the --print switch,Erreur : impossible d'ouvrir plus d'un document avec l'option « --print »,Fehler: Mit der Option „--print“ kann nicht mehr als ein Dokument gleichzeitig geöffnet werden,خطأ: لا يُمكِن فتح أكثر من مستند واحد باستخدام الخيار print--
+Error: Can't open more than one document with the --unique switch,Erreur : impossible d'ouvrir plus d'un document avec l'option « --unique »,Fehler: Mit der Option „--unique“ kann nicht mehr als ein Dokument gleichzeitig geöffnet werden.,خطأ: لا يُمكِن فتح أكثر من مستند واحد باستخدام الخيار unique--
+Eugene Trounev,Eugene Trounev,Eugene Trounev,يوجين ترونيف
+Execute '%1'...,Exécuter « %1 »...,„%1“ ausführen ...,نفذ '%1'...
+Exit Presentation Mode,Sortir du mode « Présentation »,Präsentationsmodus beenden,اخرج من وضع العرض التقديمي
+Expand all,Tout développer,Alle ausklappen,وسّع الكلّ
+Expand all elements,Déplier toutes les éléments,Alle Elemente ausklappen,وسع كل العناصر
+Expand whole section,Développer toute la sélection,Gesamten Abschnitt ausklappen,وسع كامل القسم
+Experimental,Expérimental,Experimentell,تجريبي
+Expired,Expiré,Abgelaufen,منتهي
+Expires On,Expire le :,Gültig bis,تنتهي يوم:
+Export...,Exporter...,Exportieren ...,صدّر...
+Find:,Trouver :,Suchen,اعثر:
+Fabio D'Urso,Fabio D'Urso,Fabio D'Urso,فابيو دورسو
+Facing Pages (Center First Page),Pages en face-à-face (Centrer la première page),Gegenüberliegende Seiten (erste Seite zentrieren),صفحات متقابلة (وسِط الصفحة الأولى)
+Fade,Fondu,Überblenden,تبهيت
+Field: %1 on page %2,Champ : %1 en page %2,Feld: %1 auf Seite %2,الحقل: %1 على الصفحة %2
+File,Fichier,Datei,ملف
+File Attachment,Pièces jointes,Dateianhang,ملف مرفق
+File Attachment Properties,Propriétés des pièces jointes,Eigenschaften des Dateianhangs,خصائص
+File Changed,Fichier modifié,Datei geändert,عُدل الملفّ
+File Path,Emplacement du fichier,Dateipfad,مسار الملف
+File Size,Taille du fichier,Dateigröße,حجم الملف
+File attachment symbol:,Symbole des pièces jointes :,Symbol für Dateianhang:,رمز ملحق الملف:
+File could not be saved in '%1'. %2,Impossible d'enregistrer le fichier dans « %1 ». %2,Datei kann nicht in „%1“ gespeichert werden. %2,تعذر حفظ الملف في '%1'. %2
+File could not be saved in '%1'. Error: '%2'. Try to save it to another location.,Impossible d'enregistrer le fichier dans « %1 ». Erreur « %2 ». Veuillez essayer de l'enregistrer dans un autre emplacement.,Datei kann nicht in „%1“ gespeichert werden. Fehler „%2“. Versuchen Sie einen anderen Speicherort.,تعذر حفظ الملف في '%1'. الخطأ: '%2'. حاول في مكان آخر.
+File could not be saved in '%1'. Try to save it to another location.,Impossible d'enregistrer le fichier dans « %1 ». Veuillez essayer de l'enregistrer dans un autre emplacement.,Datei kann nicht in „%1“ gespeichert werden. Versuchen Sie einen anderen Speicherort.,تعذر حفظ الملف في '%1'. حاول حفظه في مكان آخر.
+File not saved.,Fichier non enregistré.,Datei nicht gespeichert.,الملف لم يحفظ
+Fill Color,Couleur de remplissage,Füllfarbe,لون التعبئة
+Filled form contents,Contenus de formulaire remplis,Ausgefüllte Inhalte von Formularen,محتوى النموذَج المعبئة
+Filter Options,Options de filtre,Filter-Einstellungen,خيارات المرشح
+Final,Final,Endgültig,نهائي
+Find Next,Trouver le suivant,Weitersuchen,بحث عن التالي
+Find a string on the text,Chercher une chaîne dans le texte,Sucht eine Zeichenfolge im Text,اعثر كلمة في النص
+Find as you type,Rechercher au fur et à mesure de la saisie,Beim Eintippen suchen,اعثر وأنت تكتب
+Find...,Trouver...,Suchen ...,بحث...
+Fingerprints,Empreintes numériques,Fingerabdrücke,البصمات
+Finish Signing,Terminer la signature,Signieren ist abgeschlossen,أنهِ التوقيع
+First Page,Première page,Erste Seite,أول صفحة
+Fit Page,Adapter à la page,Ganze Seite,ملائمة الصفحة
+Fit Width,Adapter à la largeur,Seitenbreite,ملائمة العرض
+Fit Page,Adapter à la page,Ganze Seite,لائم الصفحة
+Fit Window to Page,Adapter la fenêtre à la page,Fenster auf Seite einpassen,لائم النافذة للصفحة
+Fit Width,Adapter à la largeur,Seitenbreite,لائم العرض
+Fit to full page,Ajuster à la page entière,Auf ganze Seite anpassen,لائم إلى كامل الصفحة
+Fit to printable area,Ajuster à la zone imprimable,Auf druckbaren Bereich anpassen,لائم المنطقة المطبوعة
+Follow This Link,Suivre ce lien,Verknüpfungsadresse aufrufen,اتبع هذه الوصلة
+Font,Police,Schriftart,الخط
+Font:,Police :,Schrift:,خط:
+For Comment,Pour commentaires,Zum Kommentar,للتعليق
+For Public Release,Pour version publique,Zur allgemeinen Veröffentlichung,للنشر العام
+"For files without file information, open in continuous mode by default",Ouvrir en mode continu par défaut les fichiers sans informations de propriétés,Im fortlaufenden Modus als Standard öffnen,للملفات التي دون معلومات ملف، افتح في النمط المستمر مبدئيا
+Forget All,Tout oublier,Alles vergessen,انسَ الكلّ
+Forget all images,Oublier toutes les images,Alle Bilder vergessen,انسَ كل الصور
+Forget image,Oublier l'image,Bild vergessen,انسَ صورة
+Former maintainer,Ancien mainteneur,Ehemaliger Betreuer,المشرف السابق
+Forward,Suivant,Vorwärts,للأمام
+Freehand Line,Ligne à main levée,Freihandlinie,خط رسم حُرّ
+Freehand Line Properties,Propriétés de ligne à main levée,Freihandlinien-Eigenschaften,خصائص خط الرسم الحر
+Freehand Line with Comment,Ligne à main levée avec commentaire,Freihandlinie mit Kommentar,خط الرسم الحر مع تعليق
+From current page,À partir de la page actuelle,Von aktueller Seite,من الصفحة الحالية
+Full Annotation Toolbar,Barre d'outils pour annotations complètes,Vollständige Anmerkungswerkzeugleiste,شريط أدوات الشرح الكامل
+Fully embedded,Complètement intégré,Vollständig eingebettet,مضمن كاملا
+General,Général,Allgemein,عام
+General Options,Options générales,Allgemeine Einstellungen,خيارات عامة
+Geometrical shape,Forme géométrique,Geometrische Form,أشكال هندسية
+Geometrical shapes,Formes géométriques,Geometrische Formen,أشكال هندسية
+Geometry,Forme géométrique,Form,هندسي
+Geometry Properties,Propriétés de forme géométrique,Form-Eigenschaften,خصائص الهندسة
+Geometry with Comment,Forme géométrique avec commentaire,Form mit Kommentar,شكل هندسي مع تعليق
+Giving a presentation,Fourniture d'une présentation,Während einer Präsentation,إعطاء عرض تقديمي
+Glitter down,Scintiller en bas,Heruntertröpfeln lassen,لمعان للأسفل
+Glitter right,Scintiller à droite,Nach rechts tröpfeln lassen,لمعان لليمين
+Glitter right-down,Scintiller en bas et à droite,Nach rechts unten tröpfeln lassen,لمعان يمين-أسفل
+Go To Page...,Se déplacer à la page...,Gehe zu Seite ...,اذهب إلى صفحة...
+Go back to the Previous Page,Aller à la page précédente,Zurück zur vorherigen Seite,ارجع للصفحة السابقة
+Go to '%1',Aller à « %1 »,Gehe zu „%1“,اذهب إلى '%1'
+Go to Page,Aller à la page,Gehe zu Seite,اذهب إلى صفحة
+Go to This Bookmark,Aller à ce signet,Zu diesem Lesezeichen gehen,اذهب إلى علامة الموقع هذه
+Go to page %1,Se déplacer à la page %1,Gehe zu Seite %1,اذهب إلى صفحة %1
+Go to the next bookmark,Aller au signet suivant,Zum nächsten Lesezeichen gehen,اذهب إلى العلامة التالية
+Go to the place you were after,Aller à l'emplacement suivant,Geht vor zur nächsten angezeigten Stelle im Dokument,اذهب إلى حيث كنت بعده
+Go to the place you were before,Aller à l'emplacement précédent,Geht zurück zur vorher angezeigten Stelle im Dokument,اذهب إلى حيث كنت
+Go to the previous bookmark,Aller au signet précédent,Zum vorherigen Lesezeichen gehen,اذهب إلى العلامة السابقة
+Graph,Graphique,Grafik,رسمة
+Gray,Gris,Grau,رصاصي
+Greedy,Gourmand,Gierig,جشع
+Green,Vert,Grün,الأخضر
+Green Highlighter,Surligneur en vert,Grüner Textmarker,مضيء أخضر
+Group by Author,Grouper par auteur,Nach Autor gruppieren,اجمع حسب المؤلف
+Group by Page,Grouper par page,Nach Seiten gruppieren,اجمع حسب الصفحة
+HTML,HTML,HTML,HTML
+Help,Aide,Hilfe,مساعدة
+Hidden after delay,Masqué après un délai,Nach Verzögerung ausblenden,مخفي بعد التأخير
+Hide,Cacher,Ausblenden,أخفِ
+Hide welcome screen,Masquer l'écran de bienvenue,Willkommensbildschirm ausblenden,أخف شاشة مرحبا
+Highlight,Surbrillance,Hervorhebung,إبراز
+Highlight text,Mettre du texte en surbrillance,Text hervorheben,أبرِز النَّص
+Highlight with Comment,Surbrillance avec commentaire,Hervorhebung mit Kommentar,إبراز مع تعليق
+Highlighter,Surligneur,Hervorhebung,قلم التحديد
+Icon:,Icône :,Symbol:,الأيقونة:
+Image (%1 × %2 pixels),Image (%1 par %2 pixels),Bild (%1 × %2 Pixel),صورة (%1 × %2 بكسل)
+Image [%1 × %2] copied to clipboard.,Image [%1 x %2] copiée dans le presse-papier.,Bild [%1 × %2] ist in die Zwischenablage kopiert worden.,الصورة [%1 × %2] نسخت إلى الحافظة
+Image [%1 × %2] saved to %3 file.,Image [%1 x %2] copiée dans le fichier %3.,Bild [%1 × %2] ist in %3-Datei gespeichert worden.,الصورة  [%1 × %2] حفظت إلى الملف %3.
+Images (%1),Images (%1),Bilder (%1),صور (%1)
+Images (*.png *.jpeg),Images (*.png *.jpeg),Bilder (*.png *.jpeg),الصور (*.png *.jpeg)
+Importing PS file as PDF (this may take a while)...,Importation de fichier du format « PS » vers « PDF » (ceci peut prendre un certain temps)...,PS-Dateien werden als PDF importiert (kann eine Weile dauern) ...,تستورد ملفات PS ك pdf (قد يأخذ هذا وقتا)...
+Incorrect password. Try again:,"Mot de passe incorrect, veuillez réessayer :","Falsches Passwort, bitte versuchen Sie es erneut:",كلمة سر خاطئة ، الرجاء المحاولة مرة أخرى:
+Information,Informations,Information,معلومات
+Inline Note,Note intégrée,Haftnotiz,ملاحظة مضمنة
+Inline Note Properties,Propriétés de note en ligne,Haftnotiz-Eigenschaften,خصائص الملاحظة المضمنة
+Inline Text Annotation (drag to select a zone),Annotation de texte en ligne (faites le glisser pour sélectionner une zone),"Freitext-Anmerkung (Ziehen Sie mit der Maus, um einen Bereich auszuwählen)",تعليق نصي مضمن (اسحب لتحديد محل)
+Insert,Insérer,Einfügen,أدرج
+Insert Text,Insérer du texte,Text einfügen,أدرج نصاً
+Instant (Never use animations),Instantané (Ne jamais utiliser d'animations),Sofort ohne Animationen,فوري (لا يستخدم المتحركات)
+Internal signing error. Please report a bug with the steps to reproduce it. Error code %1,Erreur de signature interne. Veuillez signaler un bogue avec les étapes pour le reproduire. Le code d'erreur est : %1,,خطأ في التوقيع الداخلي. يُرجى الإبلاغ عن خطأ مع الخطوات اللازمة لإعادة إنتاجه. رمز الخطأ %1
+Invalid file,Fichier non valable,Ungültige Datei,الملف غير صحيح
+Invert Lightness,Inverser la luminosité,Helligkeit invertieren,اعكس الإضاءة
+Invert Luma (sRGB Linear),Inverser la luminance (Linéaire sRGB),Luma invertieren (sRGB-Linear),عكس الضوء (sRGB خطي)
+Invert Luma (Symmetric),Inverser la luminance (Symétrique),Luma invertieren (Symmetrisch),عكس الضوء (متماثل)
+Invert colors,Inverser les couleurs,Farben umkehren,اعكس الألوان
+Invert lightness,Inverser la luminosité,Helligkeit invertieren,اعكس الإضاءة
+Invert luma (sRGB linear),Inverser la luminance (Linéaire « sRGB »),Luma invertieren (sRGB-Linear),عكس الضوء (sRGB خطي)
+Invert luma (symmetric),Inverser la luminance (Symétrique),Luma invertieren (Symmetrisch),عكس الضوء (متماثل)
+Issued By,Émis par,Ausgestellt von,المانح
+Issued On,Émis le :,Ausgestellt am,مُنحت يوم:
+Issued To,Émis pour,Ausgestellt für,مُنحت لصالح
+Issuer,Émetteur,Aussteller,المُصدِر
+JavaScript Script,Script JavaScript,JavaScript-Skript,نص جافا سكربت
+Jiri Baum - NICTA,Jiri Baum - NICTA,Jiri Baum - NICTA,جيري باوم - NICTA
+Jump to next match,Se déplacer à la correspondance suivante,Gehe zur nächsten Fundstelle,اذهب للمطابقة التالية
+Jump to previous match,Se déplacer à la correspondance suivante,Gehe zur vorherigen Fundstelle,انتقل إلى المطابقة السابقة
+KDE,KDE,KDE,كِيدِي
+KDE Certificate Manager (kleopatra) not found,Impossible de trouver le gestionnaire de certificats de KDE,KDE-Zertifikatsverwaltung (kleopatra) nicht gefunden,مدير شهادات كيدي (kleopatra) غير موجود
+KPDF developer,Développeur pour KPDF,Entwickler von KPDF,مطور KPDF
+Kate,Kate,Kate,كيت
+Keep Active,Conserver actif,Aktiviert lassen,أبقه فعال
+Keep the annotation tool active after use,Conserver l'outil d'annotation actif après utilisation,Die Anmerkung ist auch nach Benutzung aktiviert,أبقِ أداة الشرح فعالة بعد الاستعمال
+Keeps everything in memory. Preload next pages. Boost searches. (For systems with more than 4GB of memory.),Conserve tout en mémoire. Précharge les prochaines pages. Accélère les recherches (pour les systèmes possédant plus de 4 Go de mémoire).,Alle Komponenten werden im Arbeitsspeicher gehalten. Nachfolgende Seiten werden im Voraus geladen. Die Suche wird beschleunigt. (Für Systeme mit 4 GB und mehr Arbeitsspeicher.),أبق كل شيء في الذاكرة. تحميل مسبق للصفحات التالية. يسرع البحث. (للأنظمة مع أكثر من 4غ.بايت من الذاكرة.)
+Keeps used memory as low as possible. Do not reuse anything. (For systems with low memory.),Maintient la quantité de mémoire utilisée aussi faible que possible. Ne ré-utilise rien (pour les systèmes ayant peu de mémoire).,Es wird so wenig Arbeitsspeicher wie möglich belegt. Es werden keine Komponenten wiederverwendet. (Für Systeme mit wenig Arbeitsspeicher.),يبقي الذاكرة المستعملة منخفضة قدر الإمكان. لا تعد استعمال أي شيء. (للأنظمة ذات الذاكرة المنخفضة.)
+Key,Clé,Taste,مفتاح
+Key Agreement,Accord de clé,Schlüssel-Übereinkunft,اتفاقية المفتاح
+Key Usage,Utilisation de la clé,Schlüssel-Verwendung,استخدام المفتاح
+Keywords,Mots-clés,Schlüsselwörter,الكلمات المفتاحية
+Kile,Kile,Kile,كايل
+LaTeX rendering failed,Le rendu LaTeX a échoué,Verarbeitung des LaTeX-Codes ist fehlgeschlagen,فشل تصيير لاتِخ
+Landscape %1,Paysage %1,Querformat %1,بالعرض %1
+Last Page,Dernière page,Letzte Seite,أخر صفحة
+Layers,Calques,Ebenen,الطّبقات
+Leader line extensions length:,Longueur des extensions de ligne d'en-tête :,Länge der Führungslinien-Erweiterung:,طول لواحق خط القائد:
+Leader line length:,Longueur de ligne d'en-tête :,Länge der Führungslinie:,طول خط القائد:
+Left,Gauche,Links,يسار
+Light color:,Couleur claire :,Helle Farbe:,اللون الفاتح:
+Line end:,Fin de ligne :,Linienende:,نهاية الخط:
+Line start:,Début de ligne :,Linienanfang:,بداية الخط:
+Line width,Largeur de ligne,Linienbreite,عرض الخطّ
+Link the thumbnails with the page,Lier les vignettes à la page,Vorschaubilder mit der Seite verknüpfen,اربط المصغرات بالصفحة
+"Loads and keeps everything in memory. Preload all pages. (Will use at maximum 50% of your total memory or your free memory, whatever is bigger.)","Charge et conserve tout en mémoire. Précharge toutes les pages (utilisera au maximum 50 % de la quantité totale de mémoire ou la mémoire disponible, selon la valeur la plus élevée).","Alles wird geladen und im Speicher gehalten. Alle Seiten werden im Voraus geladen. (Hierbei wird maximal die Hälfte Ihres Arbeitsspeichers oder Ihres freien Speichers verwendet, je nachdem, welcher Wert größer ist.)",يُحمِّل ويُبقي كل شيء في الذاكرة. تحميل مسبق للصور. (سيستخدم 50% على الأكثر من الذاكرة الكليّة أو الذاكرة الحرّة لديك، أيهما أكبر).
+Location:,Emplacement :,Ort:,المكان:
+Location: %1,Emplacement : %1,Ort: %1,المكان: %1
+Lock Sidebar,Verrouiller la barre latérale,Seitenleiste sperren,اقفل الشريط الجانبي
+Loop after last page,Boucler après la dernière page,Nach der letzten Seite von vorn beginnen,ابدأ من جديد بعد الصفحة الأخيرة
+"Lots of framework work, FictionBook backend and former ODT backend","Beaucoup de travail sur l'environnement de développement, le moteur de rendu pour le format « FictionBook » et le moteur précédent « ODT »",Viel Arbeit am Grundgerüst und den Anzeigemodulen für ODT und FictionBook,الكثير من هياكل العمل ، نهايات خلفية ل ODT السابقة و FictionBook
+Low,Faible,Niedrig,منخفض
+Lyx client,Client LyX,Lyx,عميل lyx
+MD2,MD2,MD2,MD2
+MD5,MD5,MD5,MD5
+MIME Type,Type « MIME »,MIME-Typ,نوع تنسيق الملف
+Magenta,Magenta,Magenta,أرجواني
+Main Toolbar,Barre principale d'outils,Haupt-Werkzeugleiste,شريط الأدوات الرئيسي
+Match All Words,Correspondre à tous les mots,Alle Wörter finden,طابق كل الكلمات
+Match Any Word,Correspondre à l'un des mots,Beliebiges Wort finden,طابق أي كلمة
+Match Phrase,Correspondre à la phrase,Ganzen Text finden,طابق العبارة
+Memory usage:,Utilisation de la mémoire :,Speicherbelegung:,استخدام الذاكرة:
+Modified,Modifié,Geändert am,عُدل
+Modified:,Modifié :,Geändert:,عُدّل في:
+Modified: %1,Modifié : %1,Geändert: %1,معدل: %1
+Modify search behavior,Modifier le comportement de recherche,Suchverhalten ändern,عدل سلوك البحث
+Most pages are %1.,La plupart des pages sont %1.,Die meisten Seiten haben das Format %1.,أغلب الصفحات %1
+Mouse cursor:,Pointeur de la souris :,Mauszeiger:,مؤشر الفأرة:
+Move Down,Déplacer vers le bas,Nach unten,انقل لأسفل
+Move Up,Déplacer vers le haut,Nach oben,حرك لأعلى
+Moves to the beginning of the document,Se déplace au début du document,Geht zum Anfang des Dokuments,ينتقل إلى بداية المستنَد
+Moves to the end of the document,Se déplace à la fin du document,Geht zum Ende des Dokuments,ينتقل إلى نهاية المستنَد
+Moves to the next page of the document,Se déplace sur la page suivante du document,Geht zur nächsten Seite des Dokuments,ينقل إلى الصفحة التالية من المستند
+Moves to the previous page of the document,Se déplace sur la page précédente du document,Geht zur vorherigen Seite des Dokuments,انتقل للصفحة السابقة من المستند
+Movie,Film,Film,الفلم
+Movie Properties,Propriétés de film,Film-Eigenschaften,خصائص الفلم
+N/A,Non applicable,N/V,غ/م
+Name,Nom,Name,الاسم
+Name:,Nom :,Name:,الاسم:
+New Text Note,Nouvelle note de texte,Neue Textnotiz,ملاحظة نصية جديدة
+New paragraph,Nouveau paragraphe,Neuer Absatz,فقرة جديدة
+Next,Suivante,Nächste Seite,التالي
+Next Bookmark,Signet suivant,Nächstes Lesezeichen,العلامة التالية
+Next Page,Page suivante,Nächste Seite,صفحة تالية
+Next Tab,Onglet suivant,Nächstes Unterfenster,اللسان التالي
+No,Non,Nein,لا
+No Bookmarks,Aucun signet,Keine Lesezeichen,لا علامات مواقع
+No Usage Specified,Aucun usage spécifié,Keine Verwendung angegeben,لم يحدد الاستعمال
+No application found for opening file of mimetype %1.,Aucune application trouvée pour ouvrir le fichier de type MIME « %1 ».,Kein Programm zum Öffnen des MIME-Typs %1 gefunden.,لم يجد تطبيق لفتح الملف من نوع التنسيق %1.
+No description available.,Aucune description disponible.,Keine Beschreibung verfügbar.,لا وصف متاح.
+No recent documents,Aucun document courant,Keine zuletzt geöffneten Dokumente,لا يوجد مستندات حديثة
+Non-Repudiation,Non-répudiation,Nachweisbarkeit,عدم التنصل
+None,Aucun,Keines,بدون
+Normal (default),Normal (Par défaut),Normal (Voreinstellung),عادي (المبدئي)
+Not Approved,Non approuvé,Nicht freigegeben,غير مصادق عليه
+Not Available,Non disponible,Nicht verfügbar,غير متوفّر
+Not For Public Release,Non en version publique,Nicht zur allgemeinen Veröffentlichung,ليس للنشر العام
+Not raise window,Ne pas ouvrir la fenêtre,Fenster nicht nach vorn holen,لا ترفع النافذة
+Note,Note,Notiz,ملاحظة
+"Notify about embedded files, forms, or signatures","Signaler les fichiers, formulaires ou signatures intégrés","Benachrichtigung über eingebettete Dateien, Formulare oder Signaturen",أخطر حول الملفات أو النماذج أو التوقيعات المضمنة
+Obey DRM limitations,Se conformer aux limitations « DRM »,DRM-Beschränkungen beachten,أطع تقييدات DRM
+Okular,Okular,Okular,أوكلار
+"Okular cannot copy %1 to the specified location.
+
+The document does not exist anymore.","Il est impossible à Okular de copier %1 à l'emplacement indiqué.
+
+Le document n'existe plus.","Okular kann %1 nicht an das angegebene Ziel kopieren.
+
+Das Dokument ist nicht mehr vorhanden.","لم يتمكن أوكلار من نسخ %1 للموقع المحدد.
+
+المستند لم يعد موجودا."
+"Okular, a universal document viewer","Okular, un afficheur universel de documents","Okular, ein Betrachter für alle Dokumente",أوكلار ، عارض عالمي للمستندات
+Only PGP keys,Uniquement les clés « PGP »,,مفاتيح PGP فقط
+Only QES certificates,Uniquement les certificats « QES »,Zertifikate,شهادات QES فقط
+Opacity,Opacité,Deckkraft,الشّفافيّة
+Open Arrow,Flèche ouverte,Offener Pfeil,سهم مفتوح
+Open Containing Folder,Ouvrir le dossier contenant,Ordner mit diesem Inhalt öffnen,افتح المجلد الحاوي
+Open Document,Ouvrir un document,Dokument öffnen,المستند المفتوح
+Open Document...,Ouvrir un document...,Dokument öffnen ...,افتح مستندًا...
+Open external file,Ouvre un fichier externe,Externe Datei öffnen,افتح ملفا خارجيا
+Open in continuous mode by default,Ouvrir en mode continu par défaut,Im fortlaufenden Modus als Standard öffnen,افتح في النمط المستمر مبدئيا
+Open new files in tabs,Ouvrir les nouveaux fichiers dans des onglets,Neue Dateien in Unterfenstern öffnen,افتح الملفات الجديدة في ألسِنة
+OpenDocument Text,Texte « OpenDocument »,OpenDocument-Text,نص OpenDocument
+Options,Options,Einstellungen,الخيارات
+Options for Presentation Mode,Options pour le mode de présentation,Einstellungen für den Präsentationsmodus,خيارات لوضع العرض التقديمي
+Orange,Orange,Orange,برتقالي
+Organization(O),Organisation(O),Organisation (O),المؤسسة (O)
+Original Orientation,Orientation originale,Ursprüngliche Ausrichtung,الاتجاه الأصلي
+Overview columns:,Colonnes d'aperçus :,Übersichtsspalten:,أعمد العرض العام:
+Presentation,Présentation,Präsentation,عرض تقديمي
+PDF,PDF,PDF,بي دي اف
+PGP,PGP,,PGP
+PGP Signature,Signatures « PGP »,Signaturen,توقيع PGP
+Page,Page,Seite,للصفحة
+Page %1,Page %1,Seite %1,الصفحة %1
+Page %1 (%2),Page %1 (%2),Seite %1 (%2),للصفحة %1 (%2)
+Page Number,Numéro de page,Seitenzahl,رقم الصفحة
+Page Size,Taille de page,Seitengröße,حجم الصفحة
+Page Up/Down overlap:,Chevauchement pour les touches « Page précédente » / « Page suivante » :,Überschneidung für die Tasten „Bild auf/ab“:,تداخُل مفتاح Page Up/Down:
+Page of the document to be shown,Page du document à afficher,Anzuzeigende Seite des Dokuments,الصفحة من المستند لتعرض
+Pages,Pages,Seiten,الصفحات
+Pages: %1,Pages : %1,Seiten: %1,الصفحات: %1
+Paper color:,Couleur du papier :,Papierfarbe:,لون الورق:
+Paperclip,Trombone,Büroklammer,مشبك الورق
+Paragraph,Paragraphe,Absatz,فقرة
+Pause,Pause,Pause,ألبث
+Pause movie,Mettre en pause un film,Film anhalten,أوقف الفلم مؤقتاً
+Pause/Resume Speaking,Mettre en pause / Reprendre le discours,Vorlesen anhalten / fortsetzen,ألبث/استأنف النطق
+Performance,Performances,Leistung,الأداء
+Performance Tuning,Optimisation des performances,Leistungsverbesserung,مضبط الأداء
+Pino Toscano,Pino Toscano,Pino Toscano,بينو توسكانو
+Piotr Szymanski,Piotr Szymanski,Piotr Szymanski,بيوتر شيمانسكي
+Plain Text...,Texte brut...,Einfacher Text ...,نص صرف...
+Play,Lecture,Abspielen,شغّل
+Play movie,Lire un film,Film abspielen,شغِل الفِلم
+Play movie...,Jouer un film...,Film abspielen ...,تشغيل عرض...
+Play sound...,Jouer un son...,Klang abspielen ...,تشغيل صوت...
+Play this Sound,Jouer ce son,Diesen Klang abspielen,شغّل هذا الصوت
+Play/Pause Presentation,Lecture/Pause de la présentation,Präsentation anhalten/wiedergeben,اعرض أو أوقف العرض مؤقتاً
+Please enter the password to read the document:,Veuillez saisir le mot de passe pour ouvrir le document :,Bitte geben Sie das Passwort zum Lesen des Dokuments ein:,يُرجى إدخال كلمة السِر لقراءة المستنَد:
+Polygon,Polygone,Vieleck,مضلّع
+Polygon Properties,Propriétés de polygone,Vieleck-Eigenschaften,خصائص المضلع
+Polygon with Comment,Polygone avec commentaire,Vieleck mit Kommentar,مضلع مع تعليق
+Pop-up Note,Note épinglée,Notiz,ملاحظة منبثقة
+Pop-up Note Properties,Propriétés de la note épinglée,Notiz-Eigenschaften,خصائص الملاحظة المنبثقة
+Popup Note,Note contextuelle,Notiz,ملاحظة منبثقة
+Portrait %1,Portrait %1,Hochformat %1,بالطّول %1
+PostScript files (%1),Fichiers PostScript (%1),PostScript-Dateien (%1),ملفات بوست سكربت (%1)
+Preferred screen:,Écran préféré :,Bevorzugter Bildschirm:,الشاشة المفضلة:
+Presentation,Présentation,Präsentation,عرض تقديمي
+Previous,Précédente,Vorherige Seite,السابق
+Previous Bookmark,Signet précédent,Vorheriges Lesezeichen,العلامة السابقة
+Previous Page,Page précédente,Vorherige Seite,صفحة سابقة
+Previous Tab,Onglet précédent,Vorheriges Unterfenster,اللسان السابق
+Print,Imprimer,Drucken,اطبع
+Print Options,Options d'impression,Druckeinstellungen,خيارات الطباعة
+Print Preview,Aperçu avant impression,Druckvorschau,معاينة الطباعة
+Print conversion failed,La conversion d'impression a échoué,Die Druckumwandlung ist fehlgeschlagen.,فشل تحويل الطباعة
+Printer was in invalid state,L'imprimante était dans un état non valable,Der Drucker war in einem ungültigen Zustand.,الطابعة في حالة غير صالحة
+Printing process could not start,Le processus d'impression n'a pas pu démarrer,Der Druckvorgang lässt sich nicht starten.,لا يمكن بدء عملية الطباعة
+Printing process crashed,Le processus d'impression s'est arrêté brutalement,Der Druckvorgang ist abgestürzt.,انهارت عملية الطباعة
+Printing this document is not allowed.,L'impression de ce document n'est pas autorisée.,"Es ist nicht erlaubt, dieses Dokument zu drucken.",لا يسمح بطباعة هذا المستند.
+Printing to file failed,L'impression dans un fichier a échoué,Das Drucken in eine Datei ist fehlgeschlagen.,فشلت الطباعة لملف
+Producer,Producteur,Ersteller,المُنتج
+Program features:,Fonctionnalités du programme :,Programmfunktionen:,مميزات البرنامج:
+Properties,Propriétés,Eigenschaften,الخصائص
+Property,Propriété,Eigenschaft,الخاصية
+Public Key,Clé publique,Öffentlicher Schlüssel,مفتاح عام
+Push Pin,Épingle,Reißzwecke,دبوس
+Put a pop-up note,Insérer une note épinglée,Fügt eine Notiz ein,ضَع ملاحظة منبثقة
+Put a stamp symbol,Poser un symbole de tampon,Positioniert einen Stempel,ضع رمز ختم
+Qualified,Qualifié,,المؤهل
+Quick Annotation Bar,Barre pour annotations rapides,Schnell-Anmerkungsleiste,شريط الشرح سريعة
+Quick Annotation Toolbar,Barre d'outils pour annotations rapides,Schnell-Anmerkungswerkzeugleiste,شريط أدوات الشرح السريع
+Quick Annotations,Annotations rapides,Schnell-Anmerkungen,أدوات الشرح سريعة
+Quit,Quitter,Beenden,اخرج
+RSA,RSA,RSA,RSA
+Random transition,Transition aléatoire,Zufälliger Übergang,انتقال عشوائي
+Reading font information...,Lecture des informations de police...,Schriftinformationen werden eingelesen ...,قراءة معلومات الخط...
+Reason:,Raison :,Grund:,السبب:
+Reason: %1,Raison : %1,Grund: %1,السّبب: %1
+Recent backgrounds:,Arrières-plans récents :,Zuletzt verwendete Hintergründe:,خلفيات مستخدمة حديثا:
+Recent documents,Documents récents,Zuletzt geöffnete Dokumente,المستندات الحديثة
+Rectangle,Rectangle,Rechteck,مستطيل
+Red,Rouge,Rot,الأحمر
+Regular Expression,Expression rationnelle,Regulärer Ausdruck,تعبير اعتياديّ
+Reload,Recharger,Neu laden,أعد التحميل
+Reload document on file change,Recharger le document en cas de modification du fichier,Geänderte Dokumentdateien neu laden,أعد تحميل المستند عند تغيّر الملف
+Reload the current document from disk.,Recharger le document actuel à partir du disque.,Lädt das aktuelle Dokument erneut vom Datenträger.,أعد تحميل المستند الحالي من القرص.
+Reloading the document...,Rechargement du document...,Dokument wird neu geladen ...,يعيد تحميل المستند...
+Remove Bookmark,Supprimer un signet,Lesezeichen entfernen,حذف علامة موقع
+Remove all Bookmarks for this Document,Supprimer tous les signets pour ce document,Alle Lesezeichen für dieses Dokument entfernen,أزل كل العلامات لهذا المستند
+Remove this Bookmark,Supprimer ce signet,Dieses Lesezeichen entfernen,أزل هذه العلامة
+Rename Bookmark,Renommer un signet,Lesezeichen umbenennen,غير اسم العلامة
+Rename the current bookmark,Renommer le signet actuel,Das aktuelle Lesezeichen umbenennen,أعد تسمية العلامة الحاليّة
+Rename this Bookmark,Renommer ce signet,Diese Lesezeichen umbenennen,أعد تسمية هذه العلامة
+Rendering options:,Options de rendu :,Render-Einstellungen:,خيارات التصيير:
+Replace,Remplacer,Ersetzen,استبدل
+Request to Change Viewing Mode,Demander avant de changer de mode d'affichage,Anfrage zur Änderung des Anzeigemodus,اطلب تغير نمط العرض
+Resume movie,Reprendre un film,Film wieder abspielen,استأنِف الفِلم
+Rev. %1: Signed By %2,Rév. %1: Signé par %2,Rev. %1: Signiert von %2,المراجعة %1: وقعت بواسطة %2
+Revision Preview,Aperçu des révisions,Revisionsvorschau,المراجعة السابقة
+Rich Media,Média riche,Rich Media,وسيط غني
+Right,Droite,Rechts,يمين
+Right Closed Arrow,Flèche ferlée vers la droite,Geschlossener Pfeil nach Rechts,السهم الأيمن المغلق
+Right Open Arrow,Flèche ouverte vers la droite,Offener Pfeil nach Rechts,السهم الأيمن المفتوح
+Right to left reading direction,Sens de lecture de droite à gauche,Leserichtung von rechts nach links,اتجاه القراءة من اليمين إلى اليسار
+Rotate Left,Faire pivoter à gauche,Links drehen,أدر لليسار
+Rotate Right,Faire pivoter à droite,Rechts drehen,أدر لليمين
+Share,Partager,Veröffentlichen,شارك
+SHA-1 Fingerprint,Empreinte SHA-1,SHA-1-Fingerabdruck,بصمة SHA-1
+SHA-256 Fingerprint,Empreinte SHA-256,SHA-256-Fingerabdruck,بصمة SHA-256
+SHA1,SHA1,SHA-1,SHA1
+SHA224,SHA224,SHA-224,SHA224
+SHA256,SHA256,SHA-256,SHA256
+SHA384,SHA384,SHA-384,SHA384
+SHA512,SHA512,SHA-512,SHA512
+Save - Warning,Enregistrer - Avertissement,Speichern - Warnung,تحذير - الحفظ
+Save As,Enregistrer sous,Speichern unter,احفظ كَ‍
+Save Signed File As,Enregistrer le fichier signé sous,Signierte Datei speichern unter,حفظ الملف الموقع باسم
+Save a Copy Elsewhere,Enregistrer une copie quelque part ailleurs,Woanders eine Kopie speichern,احفظ نسخ في مكان آخر
+Save as Okular document archive...,Enregistrer comme archive de document Okular...,Als Okular-Dokumentarchiv speichern ...,احفظ كأرشيف مستند أوكلار...
+Save file,Enregistrer le fichier,Datei speichern,احفظ الملف
+Save to File…,Enregistrer vers un fichier...,In Datei speichern …,احفظ في ملفّ…
+Scale mode:,Mode de mise à l'échelle :,Skalierungsmodus:,وضع الحجم:
+SciTE,SciTE,SciTE,SciTE
+Screen,Écran,Bildschirm,شاشة
+Screen %1,Écran n° %1,Bildschirm %1,الشاشة %1
+Screen %1 (%2 %3 %4),Écran %1 (%2 %3 %4),Bildschirm %1 (%2 %3 %4),الشاشة %1 (%2 %3 %4)
+Screen %1 (disconnected),Écran %1 (déconnecté),Bildschirm %1 (nicht verbunden),الشاشة %1 (مفصولة)
+Scroll Down,Descendre,Nach unten,لف لأسفل
+Scroll Page Down,Faire défiler la page vers le bas,Eine Seite nach unten,التمرير لأسفل
+Scroll Page Up,Faire défiler la page vers le haut,Eine Seite nach oben,التمرير لأعلى
+Scroll Up,Monter,Nach oben,لف لأعلى
+Search Options,Options de recherche,Sucheinstellungen,خيارات البحث
+Search for '%1' in this document,Chercher « %1 » dans ce document,Nach „%1“ im diesem Dokument suchen,ابحث عن '%1' في هذا المستند
+Search for '%1' with,Recherche de « %1 » avec,Nach „%1“ suchen mit,ابحث عن '%1' باستخدام
+Search...,Chercher…,Suchen ...,ابحث...
+Select All Text on Current Page,Sélectionner tout le texte de la page actuelle,Gesamten Text der aktuellen Seite auswählen,حدّد كلّ النّصّ في الصفحة الحالية
+Select a custom stamp symbol from file,Sélectionner un symbole de tampon personnalisé depuis un fichier,Wählen Sie ein benutzerdefiniertes Stempelsymbol aus einer Datei,اختر رمز ختم مخصص من ملف
+Select background image,Sélectionnez l'image d'arrière-plan,Hintergrundbild auswählen,حدد صورة الخلفية
+Select certificate to sign with:,Sélectionner un certificat avec lequel signer :,Zertifikat zum Signieren auswählen:,حدد شهادة للتوقيع بها:
+Select color,Sélectionner une couleur,Farbauswahl,اختر لوناً
+Select custom stamp symbol,Sélectionner un symbole de tampon personnalisé,Benutzerdefiniertes Stempelsymbol auswählen,اختر رمز ختم مخصص
+Select text,Sélectionner du texte,Wählen Sie Text aus,حدد نص
+Select zooming area. Right-click to zoom out.,Sélectionner une zone à redimensionner. Utiliser le clic droit pour réduire.,Wählen Sie den zu vergrößernden Bereich. Ein Rechtsklick verkleinert.,اختر منطقة التكبير. نقرة-يمنى للتصغير.
+Selection Tools,Outils de sélection,Auswahlwerkzeuge,أدوات التحديد
+Serial Number,Numéro de série,Seriennummer,الرّقم التّسلسليّ
+Sets the external editor command,Définit la commande externe de l'éditeur,Legt das Kommando für den externen Editor fest,تعين أمر المحرر الخارجي
+Shape fill:,Remplissage de la forme :,Farbfüllung:,تعبئة الشكل:
+Share,Partager,Veröffentlichen,شارك
+Shift Hue Negative,Décaler la teinte en négatif,Farbton abschwächen,تحويل سلبي لحساسية الضوء
+Shift Hue Positive,Décaler la teinte en positif,Farbton verstärken,تحويل إيجابي لحساسية الضوء
+Shift hue negative,Décaler la teinte en négatif,Farbton abschwächen,تحويل سلبي لحساسية الضوء
+Shift hue positive,Décaler la teinte en positif,Farbton verstärken,تحويل إيجابي لحساسية الضوء
+Show Page Bar,Afficher la barre des pages,Seitendarstellungsleiste anzeigen,أظهر شريط الصفحة
+Show Signatures Panel,Afficher le panneau des Signatures,Signaturbereich anzeigen,اعرض لوحة التواقيع
+Show Forms,Afficher les formulaires,Formulare anzeigen,اعرض الاستمارات
+Show Sidebar,Afficher la barre latérale,Seitenleiste anzeigen,أظهر الشريط الجانبي
+Show annotations for current page only,Afficher les annotations uniquement pour la page actuelle,Nur Anmerkungen für die aktuelle Seite anzeigen,اعرض الشروح للصفحة الحالية فقط
+Show backend selection dialog,Afficher la boîte de dialogue de sélection du moteur de rendu,Auswahldialog für Anzeigemodule anzeigen,اعرض حوار اختيار الخلفية
+Show bookmarked pages only,Afficher uniquement les pages en signet,Nur Lesezeichen-Seiten anzeigen,اعرض الصفحات المعلمة فقط
+Show for all documents,Afficher pour tous les documents,Für alle Dokumente anzeigen,أظهر لكل المستندات
+Show hints and info messages,Afficher les astuces et les messages d'informations,Tipps und Infomeldungen anzeigen,اعرض تلميحات و رسائل المعلومات
+Show more annotation tools,Afficher plus d'outils d'animations,Weitere Anmerkungswerkzeuge anzeigen,أظهر المزيد من أدوات الشرح
+Show progress indicator,Afficher l'indicateur de progression,Fortschrittsanzeige einblenden,اعرض مؤشر التقدم
+Show scrollbars,Afficher les barres de défilement,Bildlaufleisten anzeigen,اعرض أشرطة التمرير
+Show summary page,Afficher la page de sommaire,Zusammenfassung anzeigen,اعرض صفحة الملخص
+Sidebar,Barre latérale,Seitenleiste,الشريط الجانبي
+Sign,Signer,Signieren,وقّع
+Sign CRL,Signer en CRL,CRL signieren,وقع CRL
+Sign Certificate,Certificat de signature,Zertifikat signieren,شهادة التوقيع
+Signature Properties,Propriétés de la signature,Signatur-Eigenschaften,خصائص التوقيع
+Signature Type: %1,Type de signature : %1,Gültigkeit der Signatur:,نوع التوقيع: %1
+Signature Validity:,Validité de la signature :,Gültigkeit der Signatur:,صلاحية التوقيع:
+Signatures,Signatures,Signaturen,التواقيع
+Signed By:,Signé par :,Signiert von:,وقّعها:
+"Signed by: %1
+
+Date: %2","Signé par : %1
+
+Date : %2","Signiert von : %1
+
+Datum: %2","وقع بواسطة: %1
+
+التاريخ: %2"
+Signing Time:,Moment de la signature :,Signatur-Datum:,وقت التوقيع:
+Signing Time: %1,Moment de la signature : %1,Signatur-Datum %1,وقت التوقيع: %1
+Signing cancelled by user,La signature a été annulée par l'utilisateur.,,ألغي التوقيع بواسطة المستخدم
+Signing in progress. You can adjust the position and size of the signature,Signature en cours. Vous pouvez ajuster la position et la taille de la signature,Signieren wird ausgeführt. Die Position und Größe der Signatur kann angepasst werden.,يجري التوقيع، يمكنك تعديل مكان وحجم التوقيع
+Size,Taille,Größe,الحجم
+Slash,Barre oblique,Schrägstrich,شَّرطة
+Sold,Vendu,Verkauft,مباع
+Sound,Son,Klang,الصوت
+Sound Properties,Propriétés de son,Klang-Eigenschaften,خصائص الصوت
+Source: %1,Source : %1,Quelle: %1,المصدر: %1
+Speak,Énoncer vocalement,Vorlesen,انطق
+Speak Current Page,Énoncer vocalement la page actuelle,Aktuelle Seite vorlesen,انطق بالصفحة الحالية
+Speak From Current Page,Énoncer vocalement la page actuelle,Aktuelle Seite vorlesen,انطق بدءًا من الصفحة الحالية
+Speak Text,Énoncer vocalement le texte,Text vorlesen,اقرأ النص
+Speak Whole Document,Énoncer vocalement le document entier,Gesamtes Dokument vorlesen,انطق بالمستند كاملا
+Split horizontal in,Séparer horizontalement de l'intérieur,Horizontal nach innen teilen,انقسام أفقي للداخل
+Split horizontal out,Séparer horizontalement de l'extérieur,Horizontal nach außen teilen,انقسام أفقي للخارج
+Split vertical in,Séparer verticalement de l'intérieur,Vertikal nach innen teilen,انقسام رأسي للداخل
+Split vertical out,Séparer verticalement de l'extérieur,Vertikal nach außen teilen,انقسام رأسي للخارج
+Square,Carré,Quadrat,مربع
+Squiggle,Gribouillis,Schnörkel,خط متعرج
+Squiggle text,Gribouiller du texte,Verschnörkelter Text,نصّ متمايِل
+Squiggle with Comment,Gribouillis avec commentaire,Schnörkel mit Kommentar,نصّ متمايِل مع تعليق
+Stamp,Tampon,Stempel,الختم
+Stamp Properties,Propriétés de tampon,Stempel-Eigenschaften,ختم الخصائص
+Stamp symbol:,Symbole de tampon :,Stempel-Symbol,رمز الختم:
+Stamp with Comment,Tampon avec commentaire,Stempel mit Kommentar,ختم مع تعليق
+Start Over,Recommencer,Neu beginnen,ابدأ من جديد
+Start Presentation,Démarrer une présentation,Präsentation starten,ابدأ العرض
+Start the document in presentation mode,Démarre ce document en mode « Présentation »,Dokumentanzeige im Präsentationsmodus beginnen,ابدأ المستند في نمط العرض التقديمي
+Start with print dialog,Commencer avec la boîte de dialogue d'impression,Startet mit dem Druckdialog,ابدأ بحوار الطباعة
+Start with print dialog and exit after printing,Lancer avec la boîte de dialogue d'impression et quitter après l'impression,Startet mit dem Druckdialog und wird nach dem Drucken beendet,ابدأ بحوار الطباعة ثم اخرج بعد الطباعة
+Stop,Arrêt,Anhalten,أوقف
+Stop Sound,Arrêter le son,Wiedergabe anhalten,أوقف الصوت
+Stop Speaking,Arrêter l'énonciation vocale,Vorlesen anhalten,أوقف النطق
+Stop movie,Arrêter un film,Film anhalten,أوقِف الفِلم
+Straight Line,Ligne droite,Gerade Linie,خط مستقيم
+Straight Line Properties,Propriétés de ligne droite,Linien-Eigenschaften,خصائص الخط المستقيم
+Straight Line with Comment,Ligne droite avec commentaire,Gerade Linie mit Kommentar,خط مستقيم مع ملاحظة
+Straight line,Ligne droite,Gerade Linie,خط مستقيم
+Strike Out,Barré,Durchstreichen,شطب
+Strike Out with Comment,Barré avec commentaire,Durchgestrichener Text mit Kommentar,اشطب النصّ مع تعليق
+Strike out,Barré,Durchgestrichen,شطب خارج
+Strike out text,Barrer du texte,Text durchstreichen,اشطب النصّ
+Subject,Sujet,Inhaber,الموضوع
+Switch Blackscreen Mode,Bascule en mode « Écran noir »,Schwarzschirm-Modus umschalten,بدل نمط الشاشة السوداء
+Switch Screen,Changer d'écran,Bildschirm wechseln,بدل الشاشة
+Switch to existing tab if file is already open,Basculer vers un onglet existant si le fichier est déjà ouvert,"Zum vorhandenen Unterfenster wechseln, wenn die Datei bereits geöffnet ist.",بدّل إلى اللسان الموجود إذا كان الملف مفتوح بالفعل
+Sync Thumbnail with Page,Synchroniser la vignette à la page,Vorschaubilder mit der Seite abgleichen,زامن المصغرات بالصفحة
+Table Selection,Sélection de tableau,Tabellenauswahl,تحديد الجدول
+Table selection tool,Outil de sélection de tableau,Tabellenauswahl,أداة اختيار الجداول
+Tag,Marqueur,Stichwort,وسم
+Tap anywhere to go forward,Tapez n'importe où pour aller en avant,Irgendwo tippen um vorwärts zu gehen,اطرق في أي مكان لتذهب للأمام
+Tap left/right side to go back/forward,Tapez du côté gauche / droit pour aller en arrière / en avant,Links/Rechts tippen um zurück/vorwärts zu gehen,اطرق يمين/يسار لتذهب للأمام/للخلف
+TeX Font Metric,Métrique de police de TeX,TeX Font-Metrik,خط تخ متري
+TeX FreeType-handled,TeX géré comme FreeType,TeX FreeType-bearbeitet,تخ فري تايب
+TeX PK,PK de TeX,TeX PK,TeX PK
+TeX virtual,TeX virtuel,TeX virtuell,تخ افتراضي
+TeXiFy IDEA,TeXiFy IDEA,TeXiFy IDEA,TeXiFy IDEA
+TeXstudio,TeXstudio,TeXstudio,TeXstudio
+Text color:,Couleur du texte :,Textfarbe:,لون النّصّ:
+Text Markup Properties,Propriétés de balise de texte,Textmarkierungs-Eigenschaften,خصائص وسم النَّص
+Text markup,Balise de texte,Textmarkierung,إبراز النَّص
+Text of the new note:,Texte de la nouvelle note :,Text der neuen Notiz:,نص الملاحظة الجديدة:
+Text to search for,Texte à rechercher,Suchtext,النص للبحث عنه
+Text-to-speech engine:,Moteur de synthèse vocale :,Sprachausgabe-Modul,محرك نص-إلى-صوت:
+Text-to-speech voice:,Voix de synthèse vocale :,Stimme der Sprachausgabe:,صوت نص-إلى-كلام:
+"The current document is protected with a password.In order to save, the file needs to be reloaded. You will be asked for the password again and your undo/redo history will be lost.Do you want to continue?","Le document courant est protégé par un mot de passe.  Pour enregistrer, le fichier doit être rechargé. Le mot de passe vous sera demandé et votre historique d'annulation sera perdu.  Voulez-vous continuer.","Das aktuelle Dokument ist durch ein Passwort geschützt.Um es zu speichern, muss die Datei neu geladen werden. Das Passwort wird wieder abgefragt und der Verlauf von Zurücknehmen/Wiederherstellen geht verloren.Möchten Sie fortfahren?",المستند الحالي محمي بكلمة مرور.   من أجل الحفظ ، يجب إعادة تحميل الملف. ستطالب بكلمة المرور مرة أخرى وستفقد سجل التراجع / الإعادة.  هل تريد المتابعة؟
+The document has been modified in a way not permitted by a previous signer.,Le document a été modifié d'une manière non permise par un signataire précédent.,"Das Dokument wurde auf eine Art geändert, die eine vorherige Signatur nicht erlaubt ist.",عدلت الوثيقة بطريقة لا يسمح بها الموقّع السابق.
+The document has not been modified since it was signed.,Le document n'a pas été modifié depuis qu'il a été signé.,Das Dokument wurde seit der Signierung nicht geändert.,لم يعدل المستند منذ توقيعه.
+The document integrity verification could not be completed.,Impossible de mener à bien la vérification d'intégrité.,Die Überprüfung der Integrität des Dokuments kann nicht vollständig durchgeführt werden.,تعذر إكمال التحقق من سلامة المستند.
+"The document is trying to execute an external application and, for your safety, Okular does not allow that.","Le document tente de lancer une application externe. Pour votre sécurité, Okular interdit cela.",Dieses Dokument enthält eine Anforderung zum Ausführen eines externen Programms. Aus Sicherheitsgründen wird diese Anforderung von Okular ignoriert.,المستند يحاول تشغيل تطبيق خارجي ؛ و لأمانك أوكلار لا يسمح بذلك.
+"The file %1 has been modified by another program. If you save now, any changes made in the other program will be lost. Are you sure you want to continue?","Le fichier %1 a été modifié par un autre programme. Si vous faites un enregistrement maintenant, toute modification effectuée dans l'autre programme sera perdue. Voulez-vous vraiment continuer ?",Die Datei %1 wurde durch ein anderes Programm geändert. Durch das Speichern der Datei gehen alle Änderungen aus dem anderen Programm verloren. Möchten Sie wirklich fortfahren?,غُير الملف %1  بواسطة برنامج آخر. إذا حفظت الآن ستفقد كل التغييرات التي جرت في التطبيق الآخر.  هل تريد المتابعة؟
+The file %1 has unsaved changes but has been modified by another program. Closing it will replace the unsaved changes with the changes made in the other program.Do you want to continue closing the file?,Le fichier %1 contient des modifications non enregistrées mais a été modifié par un autre programme. Sa fermeture remplacera les modifications non enregistrées par les changements réalisés dans l'autre programme.   Voulez-vous vraiment fermer le fichier ?,"Die Datei %1 hat ungespeicherte Änderungen, aber wurde durch ein anderes Programm geändert. Durch das Schließen der Datei werden Ihre Änderungen verworfen und durch die Änderungen aus dem anderen Programms ersetzt. Möchten Sie fortfahren und die Datei schließen?",الملف %1 به تغييرات غير محفوظة ولكنها عدلت بواسطة برنامج آخر. سيؤدي إغلاقه إلى استبدال بالتغييرات غير المحفوظة التغييرات التي تم إجراؤها في البرنامج الآخر.  هل تريد متابعة إغلاق الملف؟
+The file %1 has unsaved changes but has been modified by another program. Reloading it will replace the unsaved changes with the changes made in the other program.Do you want to continue reloading the file?,Le fichier %1 contient des modifications non enregistrées mais a été modifié par un autre programme. Son rechargement remplacera les modifications non enregistrées par les changements réalisés dans l'autre programme.   Voulez-vous vraiment recharger le fichier ?,"Die Datei %1 hat ungespeicherte Änderungen, aber wurde durch ein anderes Programm geändert. Durch das Neuladen der Datei werden Ihre Änderungen verworfen und durch die Änderungen aus dem anderen Programms ersetzt. Möchten Sie fortfahren und die Datei neu laden?",الملف %1 به تغييرات غير محفوظة ولكنها عدلت بواسطة برنامج آخر. ستؤدي إعادة تحميله إلى استبدال بالتغييرات غير المحفوظة التغييرات التي تم إجراؤها في البرنامج الآخر.  هل تريد متابعة إعادة تحميل الملف؟
+The loading of %1 has been canceled.,Le chargement de %1 a été annulé.,Das Laden von %1 ist abgebrochen worden.,ألغي تحميل %1.
+The page print size is invalid,La taille de page pour l'impression est incorrecte,Die Druckseitengröße ist ungültig,حجم صفحة الطباعة غير صالح
+"The program ""ps2pdf"" was not found, so Okular can not import PS files using it.","Impossible de trouver le programme « ps2pdf ». Par conséquent, il est impossible pour Okular de l'utiliser pour importer des fichiers « PS ».","Das Programm „ps2pdf“ kann nicht gefunden werden, daher kann Okular keine PS-Dateien importieren.","البرنامج ""ps2pdf"" غير موجود ، لذا لا يمكن لأوكلار استيراد ملفات PS  أو استخدامها."
+The requested signature is not present in the document.,La signature demandée n'est pas présente dans le document.,Die angeforderte Signatur ist nicht in der Datei enthalten.,التوقيع المطلوب غير موجود في المستند.
+"The revision of the document that was covered by this signature has not been modified;
+however there have been subsequent changes to the document.","La révision de ce document couverte par la signature n'a pas été modifiée ;
+cependant, des modifications ont été apportées ultérieurement au document.","Die Revision des Dokuments, das durch diese Signatur abgedeckt war, wurde nicht bearbeitet.
+Es wurden jedoch nachträgliche Änderungen am Dokument vorgenommen.","لم تعدل مراجعة الوثيقة التي يغطيها هذا التوقيع ؛ 
+ومع ذلك كانت هناك تغييرات لاحقة على المستند."
+The signature CMS/PKCS7 structure is malformed.,La structure CMS/PKCS7 de la signature est malformée.,Die Signaturstruktur CMS/PKCS7 ist ungültig.,هيكل توقيع CMS/PKCS7 معطوب.
+The signature could not be verified.,Impossible de vérifier la signature.,Die Signatur kann nicht überprüft werden.,لا يمكن التحقق من التوقيع.
+The signature is cryptographically invalid.,La signature est non valable au niveau du chiffrement.,Die Signatur ist kryptografisch ungültig.,التوقيع غير صالح تشفيرياً.
+The signature is cryptographically valid.,La signature est valable au niveau du chiffrement.,Die Signatur ist kryptografisch gültig.,التوقيع صالح تشفيرياً.
+"There are no available signing certificates. For more information, please see the section about Adding Digital Signatures in the manual.","Il n'y a aucun certificat de signature Pour plus d'informations, veuillez consulter la section concernant l'Ajout de signatures numériques dans le manuel.","Es sind keine Signaturzertifikate vorhanden.  Weitergehende Informationen finden Sie im Handbuch im Abschnitt Digitale Signaturen hinzufügen.","لا توجد شهادات توقيع متاحة.   لمزيد من المعلومات ، يرجى مراجعة القسم حول  إضافة التوقيعات الرقمية  في الدليل."
+"There are two ways of exiting presentation mode, you can press either ESC key or click with the quit button that appears when placing the mouse in the top-right corner. Of course you can cycle windows (Alt+TAB by default)","Il existe deux façons de quitter le mode « Présentation ». Vous pouvez soit appuyer sur la touche « Échap », soit utiliser le bouton de fermeture apparaissant lorsque la souris approche du bord en haut à gauche. Bien sûr, vous êtes toujours en mesure de parcourir les fenêtres ouvertes (par défaut « Alt » + « Tab »).","Es gibt zwei Wege, den Präsentationsmodus zu verlassen. Sie können Esc drücken oder auf das Symbol „Beenden“ drücken, das erscheint, wenn Sie den Mauszeiger an den oberen Bildschirmrand bewegen. Sie können natürlich auch das Fenster wechseln (die Voreinstellung dafür ist Alt+Tabulator).",هناك طريقتان للخروج من نمط العرض التقديمي ، يمكنك ضغط مفتاح ESC أو نقر زر خروج الذي يظهر عند وضع الفأرة على الزاوية العلوية اليسارية. بلا شك يمكنك تدوير النوافذ (Alt+TAB بشكل افتراضي)
+There is already a unique Okular instance running. This instance won't be the unique one.,Une instance de Okular est déjà en cours d'exécution. Cette instance ne sera plus la seule.,"Es läuft bereits eine einzigartig Instanz von Okular, aber das ist nicht diese Instanz.",هناك جلسة أوكلار فريدة مفتوحة بالفعل. لن تكون هذه الجلسة جلسة فريدة.
+There was a problem sharing the document: %1,Un problème est survenu lors du partage du document : %1,Beim Veröffentlichen des Dokuments ist ein Fehler aufgetreten: %1,حدثت مشكلة في مشاركة المستند: %1
+There was no file to print,Il n'y avait aucun fichier à imprimer,Es gibt keine zu druckende Datei.,لا يوجد ملف للطباعة
+There's already a tool with that name. Using a default one,Il existe déjà un outil avec ce nom. Veuillez utiliser un nom différent.,Es gibt bereits ein Werkzeug mit diesem Namen. Es wird ein Standard-Name verwendet.,هناك بالفعل أداة بهذا الاسم. سيستخدم المبدئي
+This Okular is built without audio support,Cette version de Okular a été compilée dans la prise en charge de l'audio,Diese Version von Okular wurde ohne Audio-Unterstützung gebaut.,هذه الإصدارة من أوكلار مبنية دون دعم الصوت
+"This annotation may contain LaTeX code.
+Click here to render.","Cette annotation peut contenir du code LaTeX.
+Cliquer ici pour en effectuer le rendu.","Diese Anmerkung kann LaTeX-Code enthalten.
+Klicken Sie hier, um diesen zu verarbeiten.","يمكن أن يحوي هذا الشرح أكواد لاتِخ. 
+اضغط هنا لتصييرها."
+This document contains annotations or form data that were saved internally by a previous Okular version. Internal storage is no longer supported. Please save to a file in order to move them if you want to continue to edit the document.,Ce document contient des annotations ou des données de formulaire qui ont été enregistrées en interne par une version précédente de Okular. Le stockage interne n'est plus géré.  Veuillez les enregistrer vers un fichier ou les déplacer si vous voulez continuer à éditer ce document.,"Dieses Dokument enthält Anmerkungen und Formulardaten, die von einer früheren Okular-Version intern gespeichert wurde. Die interne Speicherung wird nicht länger unterstützt . Bitte Speichern Sie das Dokument, wenn Sie es weiter bearbeiten möchten.",يحتوي هذا المستند على تعليقات توضيحية أو بيانات نموذج حفظت داخليًا بواسطة إصدار أوكلار سابق. وحدة التخزين الداخلية  لم تعد مدعومة .  يرجى الحفظ في ملف لنقلهم إذا كنت تريد الاستمرار في تحرير المستند.
+"This document has XFA forms, which are currently unsupported.",Ce document utilise des formulaires « XFA » qui ne sont pas encore pris en charge.,"Dies Dokument enthält XFA-Formulare, die zurzeit nicht unterstützt werden.",هذا المستند يحوي نماذج XFA غير مدعومة حاليا.
+"This document has embedded files. Click here to see them or go to File -> Embedded Files.","Ce document contient des fichiers intégrés. Cliquer ici pour les afficher ou sélectionnez « Fichier » / « Fichiers intégrés ».","Dieses Dokument enthält eingebettete Dateien. Klicken Sie hier zur Anzeige oder rufen Sie den Menüeintrag „Eingebettete Dateien“ aus dem Menü „Datei“ auf.","هذا المستند فيه ملفات مضمنة. انقر هنا لرؤيتها أو اذهب إلى ملف -> ملفات مضمنة."
+"This document has forms. Click on the button to interact with them, or use View -> Show Forms.",Ce document contient des formulaires. Cliquer sur le bouton pour interagir avec eux ou utiliser « Affichage » / « Afficher les formulaires ».,"Dieses Dokument enthält Formulare. Klicken Sie auf diesen Knopf, um sie zu verwenden, oder rufen Sie den Menüeintrag „Formulare anzeigen“ aus dem Menü „Ansicht“ auf.",هذا المستند فيه استمارات. انقر على الزر للتعامل معها ، أو استعمل عرض -> اعرض الاستمارات.
+This document has unsigned signature fields.,Ce document possède des champs de signature non signés.,Dieses Dokument enthält unsignierte Signaturfelder.,هذا المستند يحوي أماكن توقيع غير موقعة.
+This document is digitally signed.,Ce document est signé numériquement.,Dieses Dokument ist digital signiert.,هذا المستند موقع رقمياً.
+This document is digitally signed. Some of the signatures could not be validated properly.,Ce document est signé numériquement. Certaines de ses signatures ne peuvent être correctement validées.,Dieses Dokument ist digital signiert. Einige dieser Signaturen können nicht auf Gültigkeit überprüft werden.,هذا المستند موقع رقمياً. لا يمكن التحقق من صحة بعض التواقيع بشكل صحيح.
+This document is digitally signed. There have been changes since last signed.,Ce document est signé numériquement. Il y a eu des modifications depuis la dernière signature.,Dieses Dokument ist digital signiert. Es gibt Änderungen seit dem letzten Signieren.,هذا المستند موقع رقمياً. حصلت تغييرات عليه منذ أخر توقيع.
+"This document wants to be shown full screen.
+Leave normal mode and enter presentation mode?","Ce document souhaite être affiché en plein écran.
+Quitter le mode normal et entrer dans le mode présentation ?","Dieses Dokument möchte im Vollbildmodus angezeigt werden.
+Möchten Sie den normalen Modus verlassen und in den Präsentationsmodus wechseln?","يريد هذا المستند أن يظهر في وضع ملء الشاشة. 
+أتغادر الوضع العادي وتدخل إلى وضع العرض التقديمي؟"
+This link points to a close document action that does not work when using the embedded viewer.,"Ce lien pointe vers une action de fermeture du document, ne fonctionnant pas lors de l'utilisation de l'afficheur intégré.",Diese Verknüpfung fordert das Schließen des Dokuments an. Dies ist unter Verwendung des eingebetteten Betrachters nicht möglich.,هذا الرابط يشير إلى أمر إغلاق المستند والذي لا يعمل عند استخدام العارض المضمن.
+This link points to a quit application action that does not work when using the embedded viewer.,"Ce lien pointe vers une action de fermeture du document, ne fonctionnant pas lors de l'utilisation de l'afficheur intégré.",Diese Verknüpfung fordert das Beenden des Programms an. Dies ist unter Verwendung des eingebetteten Betrachters unmöglich.,هذا الرابط يشير إلى أمر الخروج من التطبيق و لا يعمل عند استخدام العراض المضمن.
+Threshold:,Seuil :,Schwellwert:,العتبة:
+Thumbnails,Vignettes,Vorschaubilder,مصغرات
+Title,Titre,Titel,العنوان
+Title: %1,Titre : %1,Titel: %1,عنوان: %1
+Tobias Koenig,Tobias Koenig,Tobias Koenig,توبياس كونيغ
+Tools,Outils,Extras,أدوات
+Top Secret,Top secret,Streng geheim,سرّي للغاية
+Touch navigation:,Navigation tactile :,Touch-Navigation,ملاحة اللمس:
+Transparent,Transparent,Transparent,الشفّافة
+Trim To Selection,Rogner à la sélection,Auf Auswahl stutzen,اقتصّ إلى التحديد
+TrueType,TrueType,TrueType,تروتايب
+TrueType (OT),TrueType (OT),TrueType (OpenType),تروتايب (OT)
+Type,Type,Typ,النوع
+Type 1,Type 1,Typ 1,النوع 1
+Type 1C,Type 1C,Typ 1C,النوع 1C
+Type 1C (OT),Type 1C (OT),Typ 1C (OpenType),النوع 1C (OT)
+Type 3,Type 3,Typ 3,النوع 3
+Type:,Type :,Typ:,النوع:
+Typewriter,Machine à écrire,Textkommentar,كتابة
+Typewriter Annotation (drag to select a zone),Annotation machine à écrire (faites le glisser pour sélectionner une zone),"Textkommentar-Anmerkung (Ziehen Sie mit der Maus, um einen Bereich auszuwählen)",شرح كتابة (اسحب لتحديد محل)
+Typewriter Properties,Propriétés de la machine à écrire,Textkommentar-Eigenschaften,خصائص الكتابة
+Unable to find file to print,Impossible de trouver le fichier à imprimer,Die zu druckende Datei ist nicht auffindbar.,تعذر العثور على الملف للطباعة
+Unable to find the Okular component.,Impossible de trouver le composant de Okular.,Die Okular-Komponente kann nicht gefunden werden.,عجز عن إيجاد مكون أوكلار.
+Unable to find the Okular component: %1,Impossible de trouver le composant de Okular : %1,Die Okular-Komponente wurde nicht gefunden: %1,عجز عن إيجاد مكون أوكلار: %1
+Underline,Souligné,Unterstrichen,تسطير
+Underline text,Souligner du texte,Text unterstreichen,تسطير نص
+Underline with Comment,Souligné avec commentaire,Unterstrichener Text mit Kommentar,تسطير مع تعليق
+Undo close tab,Annuler la fermeture de l'onglet,Unterfenster wieder herstellen,تراجع عن إغلاق اللسان
+Unknown,Inconnu,Unbekannt,مجهول
+Unknown Algorithm,Algorithme inconnu,Unbekannter Algorithmus,خوارزمية مجهولة
+Unknown File,Fichier inconnu,Unbekannte Datei,ملف غير معروف
+Unknown Type,Type inconnu,Unbekannter Typ,نوع غير معروف
+Unknown font,Police inconnue,Unbekannte Schrift,خط مجهول
+Unknown issue with Certificate or corrupted data.,Erreur inconnue avec ce certificat ou données corrompues.,Unbekanntes Problem mit dem Zertifikat oder ungültige Daten.,مشكلة مجهول في الشهادة أو البيانات معطوبة.
+Unknown signing error,Erreur inconnue lors de la signature,Unbekannte Datei,خطأ توقيع غير معروف
+Unsigned Signature %1,Signature %1 non signée,Unsignierte Signatur %1,توقيع غير موقع %1
+Unsigned Signature Field (Click to Sign),Champ de signature non signé (cliquez pour signer),Unsigniertes Signaturfeld (zum Signieren klicken),مكان توقيع غير موقع (انقر للتوقيع)
+Unsigned signature,Signature non signée,Unsignierte Signatur %1,توقيع غير موقع
+Unsupported extension,Extension non prise en charge,Nicht unterstützte Erweiterung,امتداد غير مدعوم
+Use Right to Left Reading Direction,Utiliser la direction de lecture de droite à gauche,Leserichtung von rechts nach links,اجعل اتجاه القراءة من اليمين إلى اليسار
+Use custom background color:,Utiliser une couleur d'arrière-plan personnalisée :,Benutzerdefinierte Hintergrundfarbe verwenden:,استخدم لون خلفية مخصص:
+Use file information to determine whether to open in continuous mode by default,Utilisez les informations du fichier pour déterminer s'il faut ouvrir en mode continu par défaut,,استخدم معلومات الملف لتحديد ما إذا كان سيفتح في الوضع المستمر مبدئيًّا
+Use smooth scrolling,Utiliser un défilement doux,Weichen Bildlauf verwenden,استخدم التمرير الناعم
+User annotations,Annotations de l'utilisateur,Benutzer-Anmerkungen,شروح المستخدم
+V%1,V%1,V%1,V%1
+Validity,Validité,Gültigkeit,الصّلاحية
+Validity Status,État de validité,Gültigkeitsstatus,حالة الصلاحية
+Value,Valeur,Wert,القيمة
+Version,Version,Version,الإصدارة
+Videos not supported in this Okular,Les vidéos ne sont pas prises en charge dans cette version de Okular.,Diese Version von Okular unterstützt keine Videos,الفيديو غير مدعوم في هذه الإصدارة من أوكلار
+Videos not supported in this okular,Les vidéos ne sont pas prises en charge dans cette version de Okular.,Diese Version von Okular unterstützt keine Videos,الفيديو غير مدعوم في هذه الإصدارة من أوكلار
+View,Affichage,Ansicht,اعرض
+View Certificate...,Voir le certificat...,Zertifikat ansehen ...,اعرض الشهادة...
+View Signed Version...,Voir la version signée...,Signierte Version anzeigen ...,اعرض الإصدارة الموقعة...
+View in Certificate Manager,Afficher dans le gestionnaire de certificats,In Zertifikatsverwaltung anzeigen,اعرض في مدير الشهادات
+Viewer Toolbar,Barre de l'afficheur,Anzeige-Werkzeugleiste,شريط أدوات العارِض
+Warn me when I attempt to close multiple tabs,Me prévenir lorsque je tente de fermer plusieurs onglets,Beim Schließen mehrerer Unterfenster warnen,حذرني عند محاولة غلق عدة ألسنة
+Warning,Avertissement,Warnung,تحذير
+Welcome,Bienvenue,Willkommen,مرحبا
+Welcome to Okular,Bienvenue dans Okular,Willkommen in Okular,أهلا في أوكلار
+When not displaying document title:,Lorsque le titre du document n'est pas affiché :,Wenn kein Dokumenttitel angezeigt wird:,عند عدم عرض عنوان المستند:
+"When using Browse Tool, wrap cursor at screen edges","Lors de l'utilisation de l'outil de navigation, renvoyer le curseur sur les bords de l'écran",Bei Verwendung von „Blättern“ die Cursorbewegung am gegenüberliegenden Bildschirmrand fortsetzen,عند استخدام أداة التصفح، لف المؤشر عند حواف الشاشة
+Where do you want to save %1?,Où voulez-vous enregistrer %1 ?,Wo soll %1 gespeichert werden?,أين تريد حفظ %1؟
+Where do you want to save this certificate?,Où voulez-vous enregistrer ce certificat ?,Wo möchten Sie dieses Zertifikat speichern?,أين تريد حفظ هذه الشهادة؟
+Where do you want to save this revision?,Où voulez-vous enregistrer cette révision ?,Wo möchten Sie diese Revision speichern?,أين تريد حفظ هذه المراجعة؟
+White,Blanc,Weiß,الأبيض
+Widget,Composant graphique,Bedienelement,وِدجَة
+Width %1,Largeur %1,Breite %1,العرض %1
+Wipe down,Balayer vers le bas,Nach unten auswischen,مسح للأسفل
+Wipe left,Balayer vers la gauche,Nach links auswischen,مسح لليسار
+Wipe right,Balayer vers la droite,Nach rechts auswischen,مسح لليمين
+Wipe up,Balayer vers le haut,Nach oben auswischen,مسح للأعلى
+Yellow,Jaune,Gelb,الأصفر
+Yellow Highlighter,Surbrillance jaune,Gelber Textmarker,مضيء أصفر
+Yes,Oui,Ja,نعم
+Yes (subset),Oui (sous-ensemble),Ja (teilweise),نعم (جزئية)
+You are about to close %1 tabs. Are you sure you want to continue?,Vous êtes sur le point de fermer %1 onglets. Voulez-vous vraiment continuer ?,"Sie sind dabei, die %1 Unterfenster zu schließen. Möchten Sie wirklich fortfahren?",أنت على وشك غلق الألسنة %1. أمتأكد من المتابعة؟
+"You are about to save changes, but the current file format does not support saving the following elements. Please use the Okular document archive format to preserve them.","Vous êtes sur le point d'enregistrer des modifications, mais le format courant ne gère pas l'enregistrement des éléments suivants. Veuillez utiliser le format Archive de document Okular pour les conserver.","Sie sind dabei, Änderungen zu speichern, aber die folgenden Elemente können im aktuellen Dateiformat nicht gespeichert werden. Bitte benutzen Sie das Format Okular-Dokumentarchiv, um diese Elemente zu behalten.",أنت على وشك حفظ التغييرات ، لكن تنسيق الملف الحالي لا يدعم حفظ العناصر التالية. الرجاء استخدام تنسيق  أرشيف مستندات أوكلار  للحفاظ عليها.
+"You are about to save changes, but the current file format does not support saving the following elements. Please use the Okular document archive format to preserve them. Click Continue to save the document and discard these elements.","Vous êtes sur le point d'enregistrer des modifications, mais le format courant ne gère pas l'enregistrement des éléments suivants. Veuillez utiliser le format Archive de document Okular pour les conserver. Cliquez sur Continuer pour enregistrer le document et perdre ces éléments.","Sie sind dabei, Änderungen zu speichern, aber die folgenden Elemente können im aktuellen Dateiformat nicht gespeichert werden. Bitte benutzen Sie das Format Okular-Dokumentarchiv, um diese Elemente zu behalten. Klicken Sie auf Fortsetzen, um das Dokument zu speichern und dabei diese Elemente zu verwerfen.",أنت على وشك حفظ التغييرات ، لكن تنسلملف الحالي لا يدعم حفظ العناصر التالية. الرجاء استخدام تنسيق  أرشيف مستندات أوكلار  للحفاظ عليها. انقر تابع لتحفظ المستند وتتجاهل هذه العناصر.
+"You are about to save changes, but the current file format does not support saving the following elements. Please use the Okular document archive format to preserve them. Click Continue to save, but you will lose these elements as well as the undo/redo history.","Vous êtes sur le point d'enregistrer des modifications, mais le format courant ne gère pas l'enregistrement des éléments suivants. Veuillez utiliser le format Archive de document Okular pour les conserver. Cliquez sur Continuer pour enregistrer le document. Vous perdrez ces éléments et votre historique d'annulation.","Sie sind dabei, Änderungen zu speichern, aber die folgenden Elemente können im aktuellen Dateiformat nicht gespeichert werden. Bitte benutzen Sie das Format Okular-Dokumentarchiv, um diese Elemente zu behalten. Klicken Sie auf Fortsetzen, um das Dokument zu speichern, aber Sie werden diese Elemente und den Verlauf von Zurücknehmen/Wiederherstellen verlieren.",أنت على وشك حفظ التغييرات ، لكن تنسيق الملف الحالي لا يدعم حفظ العناصر التالية. الرجاء استخدام تنسيق  أرشيف مستندات أوكلار  للحفاظ عليها. انقر تابع لتحفظ المستند ولكن ستنفقد هذه العناصر بالإضافة إلى سجل الإعادة/التراجع.
+"You can find the shared document at: %1","Vous pouvez trouver le document partagé sur : %1","Sie finden das veröffentlichte Dokument unter: %1","ستجد المستند المشارك به في: %1"
+"You cannot set the editor command in an already running okular instance. Please disable the tabs and try again. Please note, that unique is also not supported when setting the editor command at the commandline.",Vous ne pouvez pas définir la commande pour l'éditeur dans une instance de Okular déjà en cours d'exécution. Veuillez désactiver les onglets et réessayer. Veuillez noter que « Unique » n'est pas non plus pris en charge lors de la configuration de la commande de l'éditeur par la ligne de commandes.,"Sie können den Editorbefehl nicht in einer bereits laufenden Okular-Instanz einstellen. Bitte schließen Sie die Unterfenster und versuchen es erneut. Beachten Sie, dass die Option „unique“ ebenfalls nicht erlaubt ist, wenn der Editorbefehl per Kommandozeile eingestellt wird.",لا يمكنك تعيين أمر المحرر نسخة عاملة من أوكلار.يرجى تعطيل الألسنة وحاول مرة أخرى. الرجاء ملاحظة أن ذاك المتفرد لا  يدعم أيضًا عند تعيين أمر المحرر في سطر الأوامر.
+"You have chosen to save an Okular Archive without the file name ending with the '%1' extension. That is not allowed, do you want to choose a new name?",Vous avez choisi d'enregistrer une archive de Okular sans que le nom du fichier ne se termine par l'extension « %1 ». Cela n'est pas autorisé. Voulez-vous choisir un nouveau nom ?,"Sie möchten ein Okular-Archiv speichern, dessen Name nicht in der Erweiterung „%1” endet. Dies ist nicht zulässig, möchten Sie einen neuen Namen eingeben?",لقد اخترت حفظ أرشيف أوكلار دون أن ينتهي اسم الملف بالملحق '%1'. هذا غير مسموح هل تريد اختيار اسم جديد؟
+"You have just modified the open document, but this kind of document can not be saved.
+Any modification will be lost once Okular is closed.","Vous venez de modifier un document ouvert. Mais, ce genre de document ne peut être enregistré.
+ Toute modification sera perdue une fois Okular fermé.","Sie haben das offene Dokument verändert, aber dieser Dateityp kann nicht gespeichert werden.
+Alle Änderungen gehen verloren wenn Okular geschlossen wird.","لقد قمت للتو بتعديل المستند المفتوح، لكن لا يمكن حفظ هذا النوع من المستندات.
+ستفقد أي تعديل بمجرد إغلاق أوكلار."
+You have unsaved changes. Please save the document before signing it.,Vous avez des modifications non enregistrées. Veuillez enregistrer le document avant de le signer.,Sie haben noch nicht gespeicherte Änderungen. Bitte speichern Sie das Dokument vor dem Signieren.,لديك تغيرات غير محفوظة. رجاء احفظ المستند قبل توقيعه.
+Zoom,Redimensionner,Skalierung,تكبير
+Zoom to 100%,Zoomer à 100 %,Auf 100 % vergrößern,قرّب إلى 100٪
+[n/a],[Non applicable],entfällt,[غ/م]
+add annotation,Ajouter une annotation,Anmerkung hinzufügen,أضف شرحا
+adjust annotation,ajuster l'annotation,Anmerkung anpassen,عدل شرح
+edit annotation contents,Modifier un contenu d'annotation,Inhalte von Anmerkungen bearbeiten,حرّر محتوى شرح
+edit combo form selection,Modifier la sélection de liste déroulante,Auswahl von Kombinationsfeldern bearbeiten,حرر تحديد وسرد النموذج
+edit form button states,Modifier les états de boutons de formulaire,Status von Formularknöpfen bearbeiten,حرِّر حالات زِرّ النموذج
+edit form contents,Modifier un contenu de formulaire,Inhalte von Formularen bearbeiten,حرّر محتوى النموذَج
+edit list form choices,Modifier des choix de liste de formulaire,Auswahl von Listenfelder bearbeiten,حرِّر لائحة خيارات النموذج
+edit text,Modifier du texte,Text bearbeiten,حرِّر النَص
+modify annotation properties,Modifier les propriétés d'annotation,Eigenschaften der Anmerkung bearbeiten,عدِّل خصائص الشرح
+of,sur,von,من
+optional,optionnel,optional,اختياري
+ps2pdf not found,Impossible de trouver le programme « ps2pdf »,ps2pdf nicht gefunden,ps2pdf غير موجود
+remove annotation,Supprimer une annotation,Anmerkung entfernen,أزِل شرحاً
+remove annotations,Supprimer des annotations,Anmerkungen entfernen,أزِل الشروح
+translate annotation,Traduire une annotation,Anmerkung verschieben,ترجِم شرح

@@ -1,0 +1,525 @@
+English,French,German,Arabic
+%1 (Day %2 of %3),%1 (Jour %2 parmi %3),%1 (Tag %2 von %3),%1 (اليوم %2 من %3)
+%1 (Default),%1 (Par défaut),%1 (Standard),%1 (المبدئيّ)
+%1 (Highest priority),%1 (Priorité la plus haute),%1 (Höchste Priorität),%1 (أولوية قصوى)
+%1 (Lowest priority),%1 (Priorité la plus faible),%1 (Niedrigste Priorität),%1 (أولوية دنيا)
+%1 (Medium priority),%1 (Priorité moyenne),%1 (Mittlere Priorität),%1 (أولوية متوسطة)
+%1 (Mid-high priority),%1 (Priorité moyennement haute),%1 (Mittlere bis hohe Priorität),%1 (أولوية مرتفعة-متوسطة)
+%1 (Mid-low priority),%1 (Priorité moyennement faible),%1 (Mittlere bis geringe Priorität),%1 (أولوية متوسطة-منخفضة)
+%1 (Offline),%1 (Déconnecté),%1 (Offline),‏%1 (غير متّصل)
+%1 - %2,%1 - %2,%1 - %2,%1 - %2
+%1 after start of event,%1 après le début de l'évènement,%1 nach dem Start des Termins,%1 بعد بدء الحدث
+%1 before start of event,%1 avant le début de l'évènement,%1 vor dem Beginn des Termins,%1 قبل بدء الحدث
+%1 days,%1 jours,%1 Tage,%1 يوم
+%1 hours,%1 heures,%1 Stunden,%1 ساعة
+%1 incidences were imported successfully.,%1 incidences ont été importées avec succès.,%1 Ereignisse wurden erfolgreich importiert.,نجح استيراد %1 حدوثات.
+%1 minutes,%1 minutes,%1 Minuten,%1 دقيقة
+%1:,%1 :,%1:,%1:
+(c) KDE Community 2021,(c) Communauté KDE 2021,(c) KDE-Gemeinschaft 2021,(c)  مجتمع كِيدِي 2021
+(overdue),(en retard),(überfällig),(تأخّرت)
+1 (Highest Priority),1 (Priorité la plus haute),1 (Höchste Priorität),1 (أولوية قصوى)
+1 (highest priority),1 (Priorité la plus haute),1 (Höchste Priorität),1 (أولوية قصوى)
+1 day,1 jour,1 Tag,يوم واحد
+1 hour,1 heure,1 Stunde,ساعة واحدة
+2 (mid-high priority),2 (Priorité moyennement haute),2 (Mittlere bis hohe Priorität),2 (أولوية مرتفعة-متوسطة)
+3 (mid-high priority),3 (Priorité moyennement haute),3 (Mittlere bis hohe Priorität),3 (أولوية مرتفعة-متوسطة)
+3 Day View,Affichage sur 3 jours,3-Tage-Ansicht,عرض ثلاثة أيام
+3 Days,3 jours,3 Tage,3 الأيام
+4 (mid-high priority),4 (Priorité moyennement haute),4 (Mittlere bis hohe Priorität),4 (أولوية مرتفعة-متوسطة)
+5 (Medium Priority),5 (Priorité moyenne),5 (Mittlere Priorität),5 (أولوية متوسطة)
+5 (medium priority),5 (Priorité moyenne),5 (Mittlere Priorität),5 (أولوية متوسطة)
+6 (mid-low priority),6 (Priorité moyennement faible),6 (Mittlere bis niedrige Priorität),6 (أولوية متوسطة-منخفضة)
+7 (mid-low priority),7 (Priorité moyennement faible),7 (Mittlere bis niedrige Priorität),7 (أولوية متوسطة-منخفضة)
+8 (mid-low priority),8 (Priorité moyennement faible),8 (Mittlere bis niedrige Priorität),8 (أولوية متوسطة-منخفضة)
+9 (Lowest Priority),9 (Priorité la plus faible),9 (Niedrigste Priorität),9 (أولوية دنيا)
+9 (lowest priority),9 (Priorité la plus faible),9 (Niedrigste Priorität),9 (أولوية دنيا)
+%1% Complete,%1 % terminé,%1 % fertiggestellt,%1٪اكتمل
+Calendar:,Calendrier : ,Kalender:,التقويم:
+Completed:,Terminé : ,Abgeschlossen:,اكتملت:
+Date:,Date :,Datum:,التاريخ:
+Description:,Description : ,Beschreibung:,الوصف:
+Duration:,Durée : ,Dauer:,المدّة:
+Google Meet:,Google Meet : ,Google Meet:,غوغل مييت:
+Guests:,Invités :  :,Gäste:,الضيوف:
+Location:,Emplacement : ,Ort:,المكان:
+Organizer:,Organisateur :,Veranstalter:,المنظّم:
+Priority level:,Niveau de priorité : ,Priorität:,مستوى الأولويّة:
+Recurrence:,Récurrence : ,Wiederholung:,التكرار:
+Reminders:,Rappels : ,Erinnerungen:,التذكيرات:
+Tags:,Étiquettes : ,Stichwörter:,الوسوم:
+Time:,Heure :,Zeit:,الوقت:
+Today,Aujourd'hui,Heute,اليوم
+Abbreviated (Mon),Abrégé (Lun),Abgekürzt (Mon),مختصراً (جمع)
+About KDE,À propos de Kalendar,Über Kalendar,عن التقويم
+About Kalendar,À propos de Kalendar,Über Kalendar,عن التقويم
+Accounts,Comptes,Konten,الحسابات
+Add,Ajouter,Hinzufügen,أضف
+Add %1,Ajouter %1,%1 hinzufügen,أضف %1
+Add Account,Ajouter un compte,Konto hinzufügen,أضف حسابًا
+Add Attachment,Ajouter une pièce jointe,Anhang hinzufügen,أضف مرفقًا
+Add Attendee,Ajouter un participant,Teilnehmer hinzufügen,أضف حضور
+Add Contact,Ajouter un contact,Kontakt hinzufügen,أضف مراسلا
+Add New Address Book Source…,Ajouter une nouvelle source de carnets d'adresses...,Neuen Adressbuch-Zugang hinzufügen ...,أضف مصدر دفتر العناوين جديد…
+Add New Calendar Source…,Ajouter une nouvelle source de calendrier...,Neuen Kalender-Zugang hinzufügen ...,أضف مصدر تقويم جديد…
+Add Profile Picture,Ajouter une image de profil,Profilbild hinzufügen,أضف صورة الملف الشخصي
+Add Recurrence Exception,Ajouter une exception à la périodicité,Ausnahme hinzufügen,أضف استثناء للتكرار
+Add Reminder,Ajouter un rappel,Erinnerung hinzufügen,أضف تذكيراً
+Add Sub-Task,Ajouter une sous-tâche,Unteraufgabe hinzufügen,أضف مهمة فرعية
+Add an attachment,Ajouter une pièce jointe,Einen Anhang hinzufügen,أضف مرفقًا
+Add email,Ajouter un courriel,E-Mail-Adresse hinzufügen,أضف بريدًا إلكترونيًّا
+Additional name,Nom supplémentaire,Zusätzlicher Name,أسماء إضافيّة
+Address Book Application,Carnet d'adresses :,Adressbuch:,دفتر العناوين:
+Address Book:,Carnet d'adresses :,Adressbuch:,دفتر العناوين:
+Address book source settings…,Configuration des sources de carnets d'adresses...,Einstellungen zur Adressbuchquelle ...,إعدادات مصدر مصدر العناوين…
+Address book:,Carnet d'adresses :,Adressbuch:,دفتر العناوين:
+After,Après,Nach,بعد
+All Occurrences,Toutes les occurrences,Vorkommen,كل التكرارات
+All Tasks,Toutes les tâches,Alle Aufgaben,كل المهام
+All day,Toute la journée,Ganztägig,طول اليوم
+All day or Multi day,Jour complet ou sur plusieurs jours,Ganz- oder mehrtägig,كامل اليوم أو عدة أيام
+Alphabetically,Par ordre alphabétique,Alphabetisch,أبجديا
+Also Delete Future,Supprimer aussi les éléments futurs,Auch zukünftige löschen,احذف الحدوثات المستقبلية أيضًا
+Also Future Items,Les éléments futurs aussi,Auch zukünftige Elemente,العناصر المستقبليّة أيضًا
+Alternative name,Autre nom,Alternativer Name,اسم بديل
+An error occurred importing incidences: %1,Une erreur s'est produite lors de l'importation des incidences : %1,Beim Importieren von Ereignissen ist ein Fehler aufgetreten: %1,حدث خطأ في استيراد حدوثات: %1
+An error occurred: %1,Une erreur est survenue : %1,Es ist ein Fehler aufgetreten: %1,حدث خطأ: %1
+Anniversary:,Anniversaire :,Jahrestag:,السنويّة:
+Appearance,Apparence,Erscheinungsbild,المظهر
+"Are you sure you want to delete tag ""%1""?",Voulez-vous vraiment supprimer l'étiquette « %1 » ?,Möchten Sie das Stichwort „%1“ wirklich löschen?,"أمتأكّد من حذف الوسم ""%1""؟"
+Ascending order,Tri en ordre croissant,Aufsteigend sortieren,ترتيب تصاعدي
+Assistant's Name,Noms de l'assistant(e),Name des Assistenten,اسم المساعد
+Assistants's name:,Noms des assistants :,Name des Assistenten:,اسم المساعد:
+Attachments:,Pièces jointes :,Anhänge:,المرفقات:
+Attendees:,Participants :,Teilnehmer:,الحضور:
+Backwards,En arrière,Rückwärts,للخلف
+Basic month grid,Grille basique en mois,Einfache Monatsansicht,شبكة الشهر بسيطة
+Basic schedule view,Affichage basique en planning,Einfache Terminplanansicht,عرض الجدولة بسيط
+Basic week view,Affichage basique en semaines,Einfache Wochenansicht,عرض أسبوع بسيط
+Birthday:,Anniversaire :,Geburtstag:,عيد الميلاد:
+Blog Feed,Fil de blog,Blog-Quelle,تغذية المدوّنة
+Blog Feed:,Flux de blogue :,Blog:,تغذية المدوّنة:
+Bob,Bob,Thomas,خزيمة الأنصاري
+Both,Les deux,Beide,كليهما
+Both:,Les deux :,Beide,كليهما:
+Business Information,Informations professionnelles,Geschäftliche Informationen,معلومات العمل
+By Due Date,Par date d'échéance,Nach Fälligkeitsdatum,حسب تاريخ الاستحقاق
+By Priority Level,Par niveau de priorité,Nach Priorität,حسب مستوى الأولوية
+Calendar,Calendrier,Kalender,التّقويم
+Calendar Application,Application de calendrier,Kalender-Anwendung,تطبيق التقويم
+Calendar is not enabled,Le calendrier n'est pas activé,Kalender ist nicht aktiviert,لم يمكّن التقويم
+Calendar source settings…,Paramètres des sources de calendriers...,Einstellungen zur Kalenderquelle ...,إعدادات مصدر التقويم…
+Calendar:,Calendrier :,Kalender:,التقويم:
+Calendars,Calendriers,Kalender,التقاويم
+Call,Appeler,Anrufen,الاتصال
+Cancel,Annuler,Abbrechen,ألغِ
+Car,Voiture,Auto,السيارة
+Carl Schwan,Carl Schwan,Carl Schwan,كارل شوان
+Cell,Cellule,Mobil,خلية
+Center,Centre,Mittig,الوسط
+Change Calendar Color…,Modifier la couleur du calendrier...,Kalenderfarbe ändern ...,غير لون التقويم…
+Change incidence date,Modifier la date d'incidence,Ereignisdatum ändern,غيّر تاريخ الحدوث
+Choose Address Book Color,Sélectionner une couleur de carnet d'adresses,Farbe des Adressbuches auswählen,اختر لون دفتر العناوين
+Choose Calendar Color,Sélectionner une couleur de calendrier,Kalenderfarbe auswählen,اختر لون التقويم
+Choose a Calendar,Sélectionner un agenda,Kalender auswählen,اختر تقويم
+Choose a Task Calendar,Sélectionner un calendrier de tâches,Aufgabenkalender auswählen,اختر تقويم المهام
+Choose an Address Book,Sélectionner un carnet d'adresses,Adressbuch auswählen,اختر دفتر العناوين
+Choose from Contacts,Sélectionnez à partir des contacts,Aus Kontakten auswählen,اختر من المتراسلين
+Circle (shows area of location),Cercle (Affiche les zones d'emplacement),Kreis (zeigt den Ort als Fläche),دائرة (تعرض مساحة الموقع)
+Clau Cambra,Clau Cambra,Clau Cambra,كلاو كامبرا
+Clear day.,Effacer le jour.,Freier Tag.,امسح اليوم
+Click,Clic,Klicken,نقر
+Click to set tags…,Cliquez pour définir des étiquettes...,"Klicken, um Stichwörter festzulegen ...",انقر لتعين وسم…
+Collapse Main Drawer,Réduire la barre principale,Seitenleiste einklappen,اطوِ الدرج الرئيسي
+Completed Tasks,Tâches terminées,Abgeschlossene Aufgaben,المهام المكتملة
+Completed Tasks in %1,Tâches terminées le %1,Abgeschlossene Aufgaben in %1,المهام المكتملة في %1
+Completion:,Achèvement :,Fortschritt:,الاكتمال:
+Complex recurrence rule,Règle complexe de récurrence,Komplexe Wiederholungsregel,قاعدة تكرار معقدة
+Configure,Configurer,Einrichten,اضبط
+Configure %1,Configurer %1,%1 einrichten,اضبط %1
+Configure Free/Busy,Configurer l'état « Libre / Occupé »,%1 einrichten,اضبط %1
+Configure Schedule,Configurer le planning,Terminplan einrichten,اضبط %1
+Configure Schedule…,Configurer le planning...,Terminplan einrichten ...,اضبط %1
+Contact,Contact,Kontakt,المتراسل
+Contact Books,Carnets de contacts,Adressbücher,دفاتر المتراسلون
+Contact does not exist any more,Ce contact ne doit plus exister.,Der Kontakt ist nicht mehr vorhanden.,لم يعد المتراسل موجودًا
+Contact group name,Nom du groupe de contact,Kontaktgruppenname,اسم مجموعة المتراسلين
+Contact information,Informations sur un contact,Kontaktinformation,معلومات المتراسل
+Contact name,Nom de contact,Kontaktname,اسم المتراسل
+Contacts,Contacts,Kontakte,المتراسلون
+Copy,Copier,Kopieren,انسخ
+Could not decrypt the data.,Impossible de déchiffrer les données.,Die Daten können nicht entschlüsselt werden.,تعذّر فكّ تعمية البيانات.
+Could not decrypt the data: no key found for recipients.,Impossible de déchiffrer les données : aucune clé trouvée pour les destinataires.,Die Daten können nicht entschlüsselt werden: Kein Schlüssel für Empfänger gefunden.,تعذر فك تشفير البيانات: لم يعثر على مفتاح للمستلمين.
+Create,Créer,Erstellen,أنشئ
+Create a New Tag…,Créer une nouvelle étiquette...,Neues Stichwort erstellen ...,أنشئ وسمًا جديدًا…
+Create a New Task…,Créer une nouvelle tâche...,Neue Aufgabe erstellen ...,أنشئ مهمة جديدة…
+Create new calendar,Créer un nouvel agenda,Neuen Kalender hinzufügen,أنشئ تقويمًا جديداً
+Creating QR code failed,Il a été impossible de créer un code « QR »,Das Erstellen des QR-Codes ist fehlgeschlagen,فشل إنشاء باركود
+Current changes,Modifications courantes,Aktuelle Änderungen,التّغييرات الحاليّة
+Custom,Personnalisé,Benutzerdefiniert,مخصّص
+Cut,Couper,Ausschneiden,قصّ
+Daily,Quotidiennement,Täglich,يوميّا
+Day,Jour,Tag,اليوم
+Day View,Affichage sur un jour,Tagesansicht,عرض اليوم
+Days,Jours,Tage,الأيام
+Delete,Supprimer,Löschen,احذف
+Delete %1,Supprimer %1,%1 löschen,احذف %1
+Delete All,Tout supprimer,Alle löschen,احذف الكل
+Delete Only This,Supprimer cet élément uniquement,Nur diese löschen,احذف هذه فقط
+Delete Tag,Supprimer une étiquette,Stichwort löschen,احذف الوسم
+Delete address book,Supprimer un carnet d'adresses,Adressbuch löschen,أأحذف دفتر العناوين؟
+Delete address source,Supprimer une source d'adresses,Adressbuchquelle löschen,احذف مصدر العنوان
+Delete calendar,Supprimer un agenda,Kalender löschen,احذف التّقويم
+Delete calendar source,Supprimer une source d'agenda,Kalenderquelle löschen,احذف مصدر التقويم
+Delete contact,Supprimer un contact,Kontakt löschen,احذف المتراسل
+Delete task and its sub-tasks,Supprimer la tâche et ses sous-tâches,Aufgaben und dessen Unteraufgaben löschen,احذف المهمة وتفريعاتها
+Delete task and make sub-tasks independent,Supprimer la tâche et rendre indépendante ses sous-tâches,Aufgabe löschen und Unteraufgaben verselbständigen,احذف المهمة واجعل تفريعاتها مستقلة
+Department,Service,Abteilung,القسم
+Department:,Service :,Abteilung:,القسم:
+Descending Order,Tri en ordre décroissant,Absteigend sortieren,ترتيب تنازلي
+Description:,Description :,Beschreibung:,الوصف:
+Developer,Développeur,Entwickler,مطوّر
+"Do you want to delete calendar: ""%1""?",Voulez-vous vraiment supprimer l'agenda : « %1 » ?,Möchten Sie den Kalender „%1“ löschen?,"أمتأكّد من حذف هذا التّقويم: ""%1""؟"
+"Do you want to delete item: ""%1""?",Voulez-vous vraiment supprimer l'élément : « %1 » ?,Möchten Sie den Eintrag „%1“ löschen?,"هل تريد حذف العنصر: ""%1""؟"
+Don't Mark as Important,Ne pas marquer comme important,Nicht als wichtig markieren,لا تعلّمها مُهمّة
+Done,Terminé,Fertig,تمّ
+Due:,Échéance :,Fällig:,الاستحقاق:
+E-mail,Courriel,E-Mail,البريد الإلكترونيّ
+EMail,Adresse de courriel,E-Mail,البريد الإلكترونيّ
+EMail Client Application,Application de calendrier,Kalender-Anwendung,تطبيق التقويم
+Edit,Modifier,Bearbeiten,حرّر
+Edit %1,Modifier %1,%1 bearbeiten,حرّر %1
+Edit Contact,Modifier un contact,Kontakt bearbeiten,حرّر المتراسل
+Edit address book…,Modifier un carnet d'adresses...,Adressbuch bearbeiten ...,حرر دفتر العناوين…
+Edit calendar…,Modifier un agenda...,Kalender bearbeiten ...,حرر التّقويم…
+Edit contact…,Modifier un contact...,Kontakt bearbeiten ...,حرّر المتراسل...
+Email Free/Busy,Envoyer par courriel l'état « Libre / Occupé »,E-Mail-Adresse,عنوان البريد الإلكترونيّ
+Email:,Courriel :,E-Mail:,البريد الإلكترونيّ:
+Enable,Activé,Aktivieren,مكّن
+Enable maps,Activer les cartes,Karten aktivieren,مكن الخرائط
+End date cannot be before start date.,La date de fin ne peut être antérieure à la date de début.,Das Enddatum kann nicht vor dem Anfangsdatum liegen.,لا يمكن أن يكون تاريخ الانتهاء قبل تاريخ البدء.
+End:,Date de fin :,Ende:,الانتهاء:
+Ends after %1 occurrences,Se termine après %1 occurrences,Endet nach %1 Vorkommnissen,ينتهي بعد %1 تكرار
+Ends at %1,Se termine à %1,Endet um %1,ينتهي في %1
+Ends on %1,Se termine le %1,Endet am %1,تنتهي في %1
+Ends:,Se termine :,Endet:,ينتهي:
+Enter Full Screen,Passer en mode « Plein écran »,Vollbildmodus aktivieren,ادخل ملء الشاشة
+Every:,Chaque :,Alle:,كلّ:
+Except on:,Exceptions :,Außer am:,باستثناء في:
+Exceptions:,Exceptions :,Ausnahmen:,الاستثناءات:
+Exit Full Screen,Sortir du mode « Plein écran »,Vollbildmodus beenden,أنهِ ملء الشاشة
+Expand Main Drawer,Développer la barre principale,Seitenleiste ausklappen,وسع الدرج الرئيسي
+External changes,Modifications externes,Externe Änderungen,التغييرات الخارجية
+Family name:,Nom de famille :,Familienname:,اسم العائلة:
+Fax,Fax,Fax,فاكس
+Felipe Kinoshita,Felipe Kinoshita,Felipe Kinoshita,فيليبي كينوشيتا
+File,Fichier,Datei,ملف
+Fill in Manually,Remplissez manuellement,Manuell eingeben,اكتب الحضور يدويا
+Filtering by tags,Filtrage par étiquette,Nach Stichwörtern filtern,ترشيح بواسطة الوسوم
+First name or chosen name,Prénom ou nom choisi,Erster Name oder Rufname,الاسم الأول أو اسم مختار
+Forwards,En avant,Vorwärts,للأمام
+Free/Busy Retrieval settings,Configuration pour la mise à disposition de l'état « Libre / Occupé »,Allgemeine Einstellungen,إعدادات عامّة
+Full name (Monday),Nom complet (Lundi),Vollständiger Name (Montag),الاسم الكامل (الجمعة)
+General settings,Configuration générale,Allgemeine Einstellungen,إعدادات عامّة
+Given name,Nom fourni,Vorname,الاسم المُعطى
+Go,Aller,Gehe zu,انتقل
+Grid border width (pixels):,Largeur de la bordure de la grille (pixels) :,Gitterlinienbreite (Pixel):,عرض حدود الشبكة (بكسل):
+Help,Aide,Hilfe,مساعدة
+Home,Accueil,Privat,المنزل
+Home:,Maison :,Privat:,المنزل:
+Honorific prefix,Préfixe honorifique,Titel (vor Namen),اللواحق التّشريفيّة
+Honorific suffix,Suffixe honorifique,Titel (nach Namen),اللواحق التّشريفيّة
+II,II,II,الثّاني
+III,III,III,الثّالث
+ISDN,ISDN,ISDN,ISDN
+Image request has been cancelled,La demande d'image a été annulée.,Bildanfrage wurde zurückgezogen,طلب الصورة ألغي
+Images files (*.png *.jpeg *.jpg),Fichiers d'image (*png *.jpeg *.jpg),Bilder (*.png *.jpeg *.jpg),ملفات صور (*.png *.jpeg *.jpg)
+Import Calendar,Importer un agenda,Kalender importieren,استيراد التقويم
+Import Calendar…,Importer un agenda...,Kalender importieren ...,استورِد تقويمًا…
+Import a calendar,Importer un agenda,Einen Kalender importieren,استيراد التقويم
+Import key,Importer une clé,Schlüssel importieren,استورد مفتاحًا
+In a month (%1),Dans un mois (%1),In einem Monat (%1),في شهر (%1)
+In a week (%1),Dans une semaine (%1),In einer Woche (%1),في أسبوع (%1)
+Instant Messaging,Messagerie instantanée,Instant-Messaging,التراسل الفوري
+Instant Messenger,Messagerie instantanée,Instant-Messenger,المراسل الفوري
+Invalid dates provided.,Fourniture de dates non valables.,Ungültige Daten angegeben.,التواريخ المقدمة غير صحيحة.
+"Item ""%1"" has sub-items. Do you want to delete all related items, or just the currently selected item?",L'élément « %1 » possède des sous-éléments. Voulez-vous vraiment supprimer tous les éléments associés ou uniquement l'élément actuellement sélectionné ?,Der Eintrag „%1“ hat Untereinträge. Möchten Sie alle zusammengehörenden Einträge löschen oder nur den ausgewählten?,"يملك العنصر : ""%1"" عناصر فرعية. هل تريد أن تحذف كل العناصر المتعلقة أم العنصر المحدد حاليا؟"
+Jill,Jill,Heike,مجاهد السعيدي
+Jr.,Jr.,Jun.,الابن
+KDE,KDE,KDE,كِيدِي
+Kalendar,Kalendar,Kalendar,التقويم
+Kalendar Handbook,Manuel de Kalendar,Handbuch zu Kalendar,كتيب التقويم
+Kalendar-Team,Kalendar - Équipe,Kalendar-Team,فريق التقويم
+Left,Gauche,Links,اليسار
+Letter only (M),Uniquement en lettre (L),Erster Buchstabe (M),حرف فقط (ج)
+Loading mail...,Chargement d'un courriel...,E-Mail wird geladen ...,يحمل البريد…
+Location marker,Marqueur d'emplacement,Ortsmarkierung,مُعَلِم الموقع
+Location:,Emplacement :,Ort:,المكان:
+Mail,Courriel,E-Mail,البريد
+Mailbox,Boîte aux lettres,Mailbox,صندوق البريد
+Mailbox is empty,La boîte aux lettres est vide.,Postfach ist leer,صندوق البريد فارغ
+Mailboxes,Boîtes aux lettres,Postfächer,صناديق البريد
+Maintainer,Mainteneur,Betreuer,المشرف
+Manage Tags,Gérer les étiquettes,Stichwörter verwalten,أدِر الوسوم
+Manage Tags…,Gérer les étiquettes…,Stichwörter verwalten ...,أدِر الوسوم…
+Manage tags…,Gérer les étiquettes…,Stichwörter verwalten ...,أدِر الوسوم…
+Manager's Name,Nom du responsable,Name des Managers,اسم المدير
+Manager's name:,Nom du responsable :,Name des Managers:,اسم المدير:
+Maps,Cartes,Karten,الخرائط
+Mark Complete,Marquer comme « Terminé »,Als abgeschlossen kennzeichnen,علّمه مكتمل
+Mark Incomplete,Marquer comme « Inachevé »,Als nicht abgeschlossen kennzeichnen,علّمه غير مكتمل
+Mark Task as Complete,Marquer la tâche comme « Terminée »,Aufgabe als vollständig markieren,علّمه المهمة مكتملة
+Mark Task as Incomplete,Marquer la tâche comme « Inachevée »,Aufgabe als unvollständig markieren,علّمه المهمة غير مكتملة
+May cause crashing on some systems.,Pourrait provoquer des plantages sur certains systèmes.,Kann auf manchen Systemen Programmabstürze verursachen.,قد يتسبب في تعطل بعض الأنظمة.
+Members,Membres,Mitglieder,الأعضاء
+Merge with existing calendar,Fusionner avec un agenda existant,Mit bestehendem Kalender zusammenführen,ادمج بالتقويم الموجود
+Messaging,Messagerie,Messaging,إرسال الرّسائل
+Middle name or other name,Deuxième prénom ou autre nom,Mittelname oder sonstiger Name,الاسم الأوسط أو اسم آخر
+Min. Interval:,Intervalle minimal :,Min. Intervall:,الفترة الدنيا:
+Miss,Mademoiselle,Fräulein,الآنسة
+Modem,Modem,Modem,المودم
+Modify,Modifier,Ändern,عدّل
+Modify or delete this account agent.,Modifier ou supprimer cet agent de compte.,Diesen Konto-Agent ändern oder löschen.,عدّل أو احذف وكيل الحساب.
+Month,Mois,Monat,الشهر
+Month View,Affichage par mois,Monatsansicht,عرض الشهر
+Month view mode,Mode d'affichage par mois,Modus der Monatsansicht,نمط عرض الشهر
+Month view settings,Configuration de l'affichage par mois,Einstellungen der Monatsansicht,إعدادات عرض الشهر
+Monthly,Mensuellement,Monatlich,شهريّا
+Months,Mois,Monate,الأشهر
+Move occurrence(s),Déplacer la (les) récurrence(s),Vorkommen verschieben,انقل التكرار(ات)
+Move to trash,Déplacer vers le corbeille,In den Papierkorb verschieben,انقل إلى المهملات
+Mr.,Mr.,Herr,السّيّد
+Mrs.,Mrs.,Frau,السّيّدة
+Ms.,Mme.,Frau,الفاضلة
+Name,Nom,Name,الاسم
+Name:,Nom :,Name:,الاسم:
+Never,Jamais,Niemals,أبدًا
+Never ends,Jamais,Endet niemals,لا تنتهي
+New Contact Group…,Nouveau groupe de contacts...,Neue Kontaktgruppe ...,مجموعة متراسلين جديدة…
+New Contact…,Nouvel contact...,Neuer Kontakt ...,متراسل جديد…
+New Event…,Nouvel évènement...,Neuer Termin ...,حدث جديد...
+New Mail…,Nouveau courriel...,Neue E-Mail ...,رسالة جديدة…
+New Message,Nouveau message,Messaging,إرسال الرّسائل
+New Task…,Nouvelle tâche...,Neue Aufgabe ...,مهمة جديدة…
+New calendar created from imported file successfully.,Création réussie du nouvel agenda à partir du fichier importé.,Ein neuer Kalender wurde von der importierten Datei erfolgreich erstellt.,نحج في إنشاء تقويم من الملف المستورد.
+Next Month,Mois suivant,Nächster Monat,الشهر القادم
+Next Week,Semaine suivante,Nächste Woche,الأسبوع القادم
+Nickname,Pseudonyme,Spitzname,الاسم المستعار
+Nickname:,Pseudonyme :,Spitzname:,الاسم المستعار:
+No Subject,Aucun objet,Kein Betreff,لا موضوع
+No address book selected,Aucun carnet d'adresses sélectionné,Kein Adressbuch ausgewählt,لم يُحدّد دفتر عناوين
+No contacts,Aucun contact,Keine Kontakte,بدون متراسلين
+No key available.,Aucune clé disponible,Kein Schlüssel verfügbar.,لا يوجد مفتاح
+No keys were found in this attachment,Aucune clé n'a été trouvée dans cette pièce jointe.,In diesem Anhang wurden keine Schlüssel gefunden,لا يوجد مفاتيح في المرفقات
+No mailbox selected,Aucune boîte aux lettres sélectionnée,Kein Postfach ausgewählt,لم يُحدّد صندوق بريد
+No results found,Aucun résultat trouvé,Keine Ergebnisse gefunden,لا توجد نتائج
+No set date,Aucune date définie,Kein Fälligkeitsdatum,لم يعين تاريخ
+No set priority,Aucune priorité défini,Keine Priorität festgelegt,لم تعين الأولوية
+No set priority level,Aucun niveau de priorité défini,Keine Priorität festgelegt,لم تعين الأولوية
+No task calendars enabled.,Aucune tâche activée dans le calendrier.,Kein Aufgabenkalender aktiviert.,لم يمكن أي تقويم مهام.
+No tasks completed,Aucune tâche terminée,Keine Aufgaben abgeschlossen,لا توجد مهام مكتملة
+No tasks left to complete,Aucune tâche restant à terminer,Keine Aufgaben mehr zu erledigen,لم يعد هناك مهام
+None,Aucun,Keine,بلا
+Nothing on the books today. %1 to add something.,Rien aujourd'hui dans les calendriers. %1 pour ajouter quelque chose.,"Für heute steht nichts im Kalender, %1 um was hinzuzufügen.",لا يوجد شيئا في الدفاتر اليوم. %1 لتضيف شيء.
+Now,Maintenant,Jetzt,الآن
+Office,Bureau,Büro,المكتب
+Office:,Bureau :,Büro:,المكتب:
+On,Sur,Am,في
+On event start,Au début de l'évènement,Zum Beginn des Termins,عند بدء الحدث
+On:,Sur :,Am:,في:
+Only Delete Current,Ne supprimer que l'élément actuel,Nur diesen Termin löschen,احذف الحالي فقط
+Only This Item,Uniquement pour cet élément,Nur dieses Element,هذا العنصر فقط
+Open Command Bar,Ouvrir la barre de commandes,Befehlsleiste öffnen,افتح شريط الأوامر
+Optional,Optionnel,Optional,اختياري
+Organization,Organisation,Organisation,المنظّمة
+Organization:,Organisation :,Organisation:,المنظّمة:
+Other,Autre,Weitere,أخرى
+Other:,Autre :,Weitere:,أخرى:
+Other…,Autre…,Weitere ...,الآخرين...
+Overdue,En retard,Überfällig,تأخّرت
+PCS,PCS,PCS,PCS
+Pager,Pageur,Pager,المنادي
+Partner's name:,Nom de l'associé :,Name des Partners:,اسم الشّريك:
+Past event transparency,Transparence pour les évènements précédents,Transparenz vergangener Termine,شفافية الأحداث الفائتة
+Paste,Coller,Einfügen,ألصق
+Personal Information,Informations personnelles,Persönliche Informationen,المعلومات الشخصية
+Personal information,Informations personnelles,Persönliche Informationen,المعلومات الشخصية
+Phone,Téléphone,Telefon,الهاتف
+Photo,Photo,Foto,صورة
+Pin (shows exact location),Épingle (indique l'emplacement exact),Stecknadel (zeigt genaue Lage),دبوس (تعرض الموقع بالضبط)
+Previous Month,Mois précédent,Vorheriger Monat,الشهر الماضي
+Previous Week,Semaine précédente,Vorherige Woche,الأسبوع السابق
+Priority %1,Priorité %1,Priorität %1,الأولويّة %1
+Priority:,Priorité :,Priorität:,الأولويّة:
+Prof.,Prof.,Prof.,البروفيسور
+Profession,Profession,Beruf,المهنة
+Profession:,Profession :,Beruf:,المهنة:
+Properties of Address Book %1,Propriétés du carnet d'adresses %1,Eigenschaften des Adressbuches „%1“,خصائص دفتر العناوين %1
+Properties of Calendar %1,Propriétés de l'agenda %1,Eigenschaften des Kalenders „%1“,خصائص تقويم %1
+QR Code,Code « QR »,QR-Code,رمز QR
+Quickly Add a New Tag.,Ajouter rapidement une nouvelle étiquette.,Neues Stichwort schnell erstellen.,أضف وسماً جديداً بسرعة.
+Quickly Add a New Task.,Ajouter rapidement une nouvelle tâche.,Neue Aufgabe schnell erstellen.,أضف مهمة جديدة بسرعة.
+Quit Kalendar,Fermer Kalendar,Kalendar beenden,أنه التقويم
+Redo,Refaire,Wiederholen,كرّر
+Redo Text,Refaire le texte,Wiederholen im Text,أعِد النص
+Redo:,Refaire :,Wiederholen:,كرّر:
+Refresh All,Tout rafraîchir,Alle aktualisieren,أنعش الكل
+Refresh All Address Books,Mettre à jour tous les carnets d'adresses,Alle Adressbücher aktualisieren,أنعش كل دفاتر العناوين
+Refresh All Calendars,Actualiser tous les agendas,Alle Kalender aktualisieren,أنعش كل التقاويم
+Reminders:,Rappels :,Erinnerungen:,التذكيرات:
+Remove,Supprimer,Entfernen,أزل
+Remove %1 tag,Supprimer l'étiquette %1,Stichwort %1 entfernen,أزل الوسم %1
+Remove Tag,Supprimer une étiquette,Stichwort entfernen,أزل الوسم
+Remove email,Supprimer un courriel,E-Mail-Adresse entfernen,أزِل البريد الإلكترونيّ
+Remove filtering tag,Supprimer le filtrage des étiquettes,Stichwort entfernen,أزل ترشيح الوسم
+Repeat:,Répétition :,Wiederholung:,كرّر:
+Request RSVP,Requête « RSVP »,Antwort anfordern,اطلب الرجاء الرد
+Required,Nécessaire,Erforderlich,مطلوب
+Reset,Réinitialiser,Zurücksetzen,صفّر
+Return to Location,Revenir à l'emplacement,Zurück zum Ort springen,ارجع للموقع
+Right,Droite,Rechts,اليمين
+Runs All Day,Se déroule sur toute la journée,Ganztägig,شغال بطول اليوم
+Runs all day,Se déroule toute la journée,Ganztägig,شغال بطول اليوم
+SDE-1,SDE-1,SDE-1,م. نظم-1
+Save,Enregistrer,Speichern,احفظ
+Save attachment,Enregistrer une pièce jointe,Anhang speichern,احفظ المرفق
+Schedule,Planning,Terminplan,الجدولة
+Schedule View,Affichage par planning,Terminplanansicht,عرض الجدولة
+Schedule View settings,Configuration de l'affichage par agenda,Einstellungen der Terminplanansicht,إعدادات عرض الجدول
+Schedule view mode,Mode d'affichage en planning,Modus der Terminplanansicht,نمط عرض الجدولة
+Select All,Tout sélectionner,Alle auswählen,حدّد الكل
+Select Email Address,Sélectionnez une adresse de courriel,E-Mail-Adresse auswählen,اختر عنوان بريد إلكتروني
+Select a file,Sélectionner un fichier,Eine Datei auswählen,اختر ملفًّا
+Select a mailbox from the sidebar.,Sélectionnez un boîte aux lettre à partir de la barre latérale.,Wählen Sie ein Postfach aus der Seitenleiste.,حدد صندوق بريد من الشريط الجانبي
+Select number to call,Sélection un numéro à appeler,Anzurufende Nummer auswählen,اختر رقما للاتصال به
+Select number to send message to,Sélection un numéro pour y envoyer un message,Nummer zum Senden einer Nachricht wählen,اختر رقماً لإرسال الرسالة إليه
+Send,Envoyer,SMS senden,أرسل رسالة نصية قصيرة
+Send SMS,Envoyer un SMS,SMS senden,أرسل رسالة نصية قصيرة
+Send email,Trouver un courriel,E-Mail senden,أرسِل بريدًا إلكترونيًا
+Server information,Informations sur le serveur,Server-Informationen,المعلومات الشخصية
+Set address book colour…,Définir la couleur du carnet d'adresses...,Farbe des Adressbuches ändern ...,عين لون دفتر العناوين…
+Set calendar colour…,Définir la couleur de l'agenda...,Kalenderfarbe ändern ...,عين لون التقويم…
+Set due date...,Définir une date d'échéance...,Fälligkeitsdatum festlegen ...,عيّن تاريخ الاستحقاق...
+Set priority...,Définir une priorité...,Priorität einstellen ...,عين الأولوية…
+Settings,Configuration,Einstellungen,إعدادات
+Show Completed,Afficher les tâches terminées,Abgeschlossene anzeigen,اعرض المكتملة
+Show Completed Tasks,Afficher les tâches terminées,Abgeschlossene Aufgaben anzeigen,اعرض المهامّ المكتملة
+Show Menubar,Afficher la barre de menus,Menüleiste anzeigen,اعرض شريط القوائم
+Show QR Code,Afficher le code « QR »,QR-Code anzeigen,أظهر صورة QR
+Show completed sub-tasks,Afficher les sous-tâches terminées,Abgeschlossene Unteraufgaben anzeigen,اعرض المهامّ الفرعية المكتملة
+Show map,Afficher la carte,Karte anzeigen,أظهر الخريطة
+Show sub-tasks in calendar views,Afficher les sous-tâches dans les affichages d'agenda,Unteraufgaben in Kalenderansichten anzeigen,أظهر المهام الفرعية في عرض التقويم
+Show tasks in calendar views,Afficher les tâches dans les affichages d'agenda,Aufgaben in Kalenderansichten anzeigen,أظهر المهام  في عرض التقويم
+Show week headers,Afficher l'en-tête avec les semaines,Wochenkopfzeilen anzeigen,اعرض ترويسات الأسبوع
+Show week numbers,Afficher les numéros de semaine,Kalenderwoche anzeigen,أظهر أرقام الأسبوع
+Software Developer,Développeur logiciel,Software-Entwickler,مطور برمجيات
+Sort,Trier,Sortieren,افرز
+Sort Tasks,Trier les tâches,Aufgaben sortieren,افرز المهامّ
+Spouse's Name,Nom du conjoint,Name des Ehepartners,اسم الزوج
+Sr.,Sr.,Sen.,الأبّ
+Start:,Date de début :,Start:,البدء:
+Starts at %1,Commence à %1,Beginnt um %1,يبدأ في %1
+Status:,État :,Status:,الحالة:
+Subject:,Sujet :,Kein Betreff,لا موضوع
+Summary:,Résumé :,Zusammenfassung:,الملخّص:
+Super-task,Macro-tâche,Übergeordnete Aufgabe,المهمة العامة
+Surname or last name,Nom de famille,Zu- oder Nachname,اسم العائلة أو أخر اسم
+Swipeable month grid,Grille des mois avec balayage,Wischbare Monatsansicht,شبكة الشهر قابلة للتمرير
+Swipeable month grid requires higher system performance.,La grille des mois avec balayage nécessite de plus grandes performances du système.,Die wischbare Monatsansicht erfordert eine höhere Systemleistung.,تحتاج شبكة الشهر القابلة للتمرير إلى أداء عالي من النظام.
+Swipeable schedule view,Grille de planning avec balayage,Wischbare Terminplanansicht,عرض جدولة قابل للتمرير
+Swipeable schedule view requires higher system performance.,La grille de planning avec balayage nécessite de plus grandes performances du système.,Die wischbare Terminplanansicht erfordert eine höhere Systemleistung.,يحتاج عرض الجدولة القابل للتمرير إلى أداء عالي من النظام.
+Swipeable week view,Grille des semaines avec balayage,Wischbare Wochenansicht,عرض أسبوع قابل للتمرير
+Swipeable week view requires higher system performance.,La grille des semaines avec balayage nécessite de plus grandes performances du système.,Die wischbare Wochenansicht erfordert eine höhere Systemleistung.,يحتاج عرض الأسبوع القابل للتمرير إلى أداء عالي من النظام.
+Tags,Étiquettes,Stichwörter,الوسوم
+Tags:,Étiquettes :,Stichwörter:,الوسوم:
+Tap,Tapotage,Tippen,طَرق
+Tap to set tags…,Tapoter pour définir les étiquettes...,"Tippen, um Stichwörter festzulegen ...",اطرق لتعين وسم…
+Task,Tâche,Aufgabe,المهمّة
+Tasks,Tâches,Aufgaben,المهامّ
+Tasks View,Affichage par tâches,Aufgabenansicht,عرض المهامّ
+Tasks View settings,Configuration de l'affichage des tâches,Einstellungen der Aufgabenansicht,إعدادات عرض المهام
+"Tech Wing, 4th Floor","Aile technique, quatrième étage","Technikflügel, 4. Stockwerk",جناح الأخضر، الطابق الرابع
+The %1 %2 of each month,Le %1 %2 de chaque mois,Der %1 %2 jeden Monats,%2 ال%1 من كل شهر
+The %1 of each month,Le %1 de chaque mois,Der %1 jeden Monats,الـ%1 من كل شهر
+"The calendar item ""%1"" recurs over multiple dates. Do you want to delete the selected occurrence on %2, also future occurrences, or all of its occurrences?","L'élément de calendrier « %1 » se répète sur plusieurs dates. Voulez-vous vraiment supprimer la récurrence sélectionnée sur %2, ainsi que les récurrences futures ou toutes ses récurrences ?","Der Kalendereintrag „%1“ wiederholt sich an mehreren Daten. Möchten Sie nur das ausgewählte Ereignis am %2, auch zukünftige Ereignisse oder sämtliche Ereignisse löschen?","يتكرر عنصر التقويم ""%1"" خلال تواريخ متعددة. هل تريد حذف التكرار المحدد على %2، أم أيضًا التكرارات المستقبلية ، أم كل تكراراته؟"
+"The calendar item ""%1"" recurs over multiple dates. This item also has sub-items.
+
+Do you want to delete the selected occurrence on %2, also future occurrences, or all of its occurrences?
+
+Deleting all will also delete sub-items!","L'élément de calendrier « %1 » se répète sur plusieurs dates. Il possède par ailleurs des sous-éléments.
+
+Voulez-vous vraiment supprimer la récurrence sélectionnée sur %2, ainsi que les récurrences futures ou toutes ses récurrences ? 
+
+La suppression totale supprimera aussi les sous-éléments !","Der Kalendereintrag „%1“ wiederholt sich an mehreren Daten und hat zudem Untereinträge.
+
+Möchten Sie nur das ausgewählte Ereignis am %2, auch zukünftige Ereignisse oder sämtliche Ereignisse löschen?
+
+Bei letzterem werden auch alle Untereinträge gelöscht.","يتكرر عنصر التقويم ""%1"" خلال تواريخ متعددة. يحتوي هذا العنصر أيضًا على عناصر فرعية. 
+ 
+هل تريد حذف التكرار المحدد على %2 ، أم أيضاً التكرارات المستقبلية ، أم كل تكراره؟ 
+ 
+سيؤدي حذف الكل إلى حذف العناصر الفرعية أيضًا!"
+"The item you are trying to change is a recurring item. Should the changes be applied only to this single occurrence, also to future items, or to all items in the recurrence?",L'élément que vous essayez de modifier est un élément récurrent. Les modifications doivent-elles être appliquées uniquement à cet élément unique ou également aux éléments futurs ou à tous les éléments récurrents ?,"Bei dem Eintrag, den Sie ändern möchten, handelt es sich um ein wiederkehrendes Ereignis. Sollen die Änderungen nur für dieses Ereignis, auch für Ereignisse in der Zukunft oder für alle Vorkommen zu diesem Ereignis gelten?",العنصر الذي تحاول تغييره هو عنصر يتكرّر. أيجب أن تُطبّق التغييرات على هذا الحدوث فقط، أو على العناصر المستقبليّة أيضًا، أو على كل العناصر في التكرار؟
+The key details are not available.,Les détails concernant la clé sont indisponibles.,Es sind keine Details für den Schlüssel verfügbar.,تفاصيل المفتاح غير متوفّرة.
+The key has expired.,La clé a expiré.,Der Schlüssel ist abgelaufen.,انتهى المفتاح
+The key was revoked.,La clé a été révoquée.,Der Schlüssel wurde zurückgezogen.,أُبطل المفتاح.
+The member with name %1 is missing an email address,Le membre avec le nom %1 ne possède aucune adresse de courriel.,Dem Mitglied mit dem Namen %1 fehlt die E-Mail-Adresse,الرّقم بالاسم %1 ينقصه عنوان بريد إلكترونيّ
+The signature is invalid.,La signature n'est pas valable.,Die Signatur ist ungültig.,التوقيع غير صالح.
+This event is recurring,Cet évènement est récurrent,Der Termin wiederholt sich,هذا الحدث متكرر
+This mail contains an invitation,Ce courriel contient une invitation,Diese E-Mail enthält eine Einladung,هذا البريد يحوي دعوة
+This message has been signed using the key %1 by %2.,Ce message a été signé avec la clé %1 par %2.,Diese Nachricht wurde mit dem Schlüssel %1 von %2 signiert.,وُقّعت الرّسالة بالمفتاح %1 بواسطة %2.
+This message has been signed using the key %1.,Ce message a été signé avec la clé %1.,Diese Nachricht wurde mit dem Schlüssel %1 signiert.,وُقّعت الرّسالة بالمفتاح %1.
+This message is encrypted but we don't have the key for it.,Ce message est chiffré mais nous ne possédons pas la clé pour le déchiffrer.,"Diese Nachricht ist verschlüsselt, aber es fehlt der Schlüssel.",هذه الرسالة مشفرة لكن ليس لدينا مفتاحها.
+This message is encrypted to the key: %1,Ce message est chiffré avec la clé : %1,Diese Nachricht ist mit folgendem Schlüssel verschlüsselt: %1,هذه الرّسالة معمّاة بالمفتاح: %1
+Timezone:,Fuseau horaire :,Zeitzone:,المنطقة الزمنية:
+Title,Titre,Titel,العنوان
+Title:,Titre :,Titel:,العنوان:
+To Date…,Vers la date...,Datum ...,إلى التاريخ…
+To Today,Vers aujourd'hui,Heute,إلى اليوم
+Today,Aujourd'hui,Heute,اليوم
+Today (%1),Aujourd'hui (%1),Heute (%1),اليوم (%1)
+Tomorrow (%1),Demain (%1),Morgen (%1),الغد (%1)
+Unable to add the exception item to the calendar. No change will be done.,Impossible d'ajouter un élément d'exception au calendrier. Aucun changement ne sera fait.,"Es ist nicht möglich, diese Ausnahme in den Kalender aufzunehmen. Es werden keine Änderungen durchgeführt.",تعذّرت إضافة عنصر الاستثناء إلى التقويم. لن يجري أيّ تغيير.
+Unable to find location.,Impossible de trouver un emplacement.,Ort kann nicht gefunden werden.,تعذر العثور على الموقع.
+Unassigned,Non assigné,Nicht zugewiesen,غير معينة
+Undefined,Indéfini,Nicht definiert,غير معرّف
+Undo,Annuler,Rückgängig,تراجع
+Undo Text,Annuler le texte,Rückgängig im Text,تراجع عن النص
+Undo:,Annuler :,Rückgängig:,تراجع:
+Unknown,Inconnu,Unbekannt,مجهول
+Update Profile Picture,Mettre à jour une image de profil,Profilbild aktualisieren,حدث صورة الملف الشخصي
+Update address book,Mettre à jour un carnet d'adresses,Adressbuch aktualisieren,حدّث دفتر العناوين
+Update address book source,Mettre à jour une source de carnet d'adresses,Adressbuchquelle aktualisieren,حدث مصدر دفتر العناوين
+Update calendar,Mettre à jour un agenda,Kalender aktualisieren,حدّث التّقويم
+Update calendar source,Mettre à jour une source d'agenda,Kalenderquelle aktualisieren,حدث مصدر التقويم
+Use popup to show incidence information,Utiliser une fenêtre contextuelle pour afficher des informations sur l'incidence,Aufklappfenster zum Anzeigen von Ereignisinformationen verwenden,استخدم المنبثقة لإظهار معلومات الحدوث
+Video,Vidéo,Video,فيديو
+View,Affichage,Ansicht,العرض
+View all tasks,Afficher toutes les tâches,Alle Aufgaben anzeigen,اعرض كل المهام
+Voice,Voix,Voice,الصّوت
+Week,Semaine,Woche,الأسبوع
+Week View,Affichage en semaine,Wochenansicht,عرض الأسبوع
+Week view mode,Mode d'affichage en semaines,Modus der Wochenansicht,نمط عرض الأسبوع
+Week view settings,Configuration de l'affichage en semaines,Einstellungen der Wochenansicht,إعدادات عرض الأسبوع
+Weekday label alignment,Alignement des étiquettes des jours de la semaine,Ausrichtung der Wochentagsbeschriftung,محاذاة تسمية يوم الأسبوع
+Weekday label length:,Longueur des étiquettes des jours de la semaine :,Länge der Wochentagsbeschriftung:,طول تسمية يوم الأسبوع:
+Weekly,Hebdomadaire,Wöchentlich,أسبوعيّا
+Window,Fenêtre,Fenster,النافذة
+Work,Travail,Arbeit,العمل
+Work:,Travail :,Beruflich:,العمل:
+"Would you like to merge this calendar file's events and tasks into one of your existing calendars, or would prefer to create a new calendar from this file?",Voulez-vous fusionner les évènements et les tâches de ce fichier d'agenda avec l'un de vos agendas existants ou préférez-vous créer un nouveau agenda à partir de ce fichier ?,Möchten Sie die Termine und Aufgaben dieser Kalenderdatei in einen Ihrer bereits bestehenden Kalender einfügen oder einen neuen Kalender aus dieser Datei erstellen?,هل ترغب في دمج أحداث ومهام ملف التقويم هذا في أحد التقويمات الموجودة لديك، أم تفضل إنشاء تقويم جديد من هذا الملف؟
+Wrong Crypto Plug-In.,Module externe incorrect de cryptographie.,Falsches Kryptografie-Modul.,ملحقة التّعمية خاطئة.
+Wrong passphrase.,Phrase secrète incorrecte.,Falsche Passphrase.,عبارة مرور خاطئة
+Yearly,annuellement,Jährlich,سنويّا
+Years,Années,Jahre,السنوات
+You are trusting this key.,Vous faites confiance à cette clé.,Sie vertrauen diesem Schlüssel.,أنت تثق في بهذا المفتاح.
+You won't be able to revert this action,Vous ne pourrez pas annuler cette action,Diese Aktion kann nicht rückgängig gemacht werden,لن تتمكن من التراجع عن هذا الإجراء
+after start of event,après le début de l'évènement,nach dem Beginn des Termins,بعد بدء الحدث
+at %1,à %1,um %1,عند %1
+before start of event,avant le début de l'évènement,vor dem Beginn des Termins,قبل بدء الحدث
+days,jours,Tage,يوم
+fwd,transférer,Fwd,تمرير
+hours,heures,Stunden,ساعة
+minutes,minutes,Minuten,دقيقة
+protocol:person@example.com,protocol:person@example.com,protocol:person@example.com,protocol:person@example.com
+re,répondre,Re,رد
+sent by %1 on %2,envoyé par %1 grâce à %2,Gesendet von %1 am %2,أرسلها %1 في %2
