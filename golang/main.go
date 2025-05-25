@@ -34,7 +34,7 @@ func main() {
 		log.Fatalf("failed to migrate database: %v", err)
 	}
 
-	// file, err := os.Open("csv/nemo-extensions_cleaned.csv")
+	// file, err := os.Open("csv/sdaia/sdaia.csv")
 	// if err != nil {
 	// 	fmt.Println("Error opening CSV file:", err)
 	// 	return
@@ -48,29 +48,29 @@ func main() {
 	// 	return
 	// }
 
-	// for _, record := range records {
+	// for _, record := range records[1:] {
 	// 	term := models.Term{
 	// 		English:     record[0],
-	// 		Arabic:      record[3],
-	// 		French:      record[1],
-	// 		German:      record[2],
-	// 		URL:         "https://github.com/linuxmint/cinnamon-translations/tree/master/po-export",
-	// 		Description: "",
+	// 		Arabic:      record[1],
+	// 		French:      "",
+	// 		German:      "",
+	// 		URL:         "https://sdaia.gov.sa/en/MediaCenter/KnowledgeCenter/ResearchLibrary/SDAIAPublications15.pdf",
+	// 		Description: record[2],
 	// 	}
 	// 	term.DomainID = 12
-	// 	term.SourceID = 7
+	// 	term.SourceID = 9
 
 	// 	db.Create(&term)
 	// }
 
-	// domain := models.Source{
-	// 	ID:          8,
-	// 	Name:        "KDE",
-	// 	NameAr:      "كيدي",
-	// 	Description: "كِيدِي أو كدي (بالإنجليزية: KDE)‏ هي منظمة برمجيات حرة تختص بتطوير برمجيات حرة مفتوحة المصدر. من أبرز منتجاتها بيئة سطح المكتب بلازما، وأطر عمل كيدي، والعديد من البرمجيات الأخرى مثل كيت، ودجي‌كام، وكريتا. تستخدم منتجات كيدي مكتبة كيوت، وبعض برمجياتها متعددة المنصات وتعمل على أنظمة يونكس، وشبيه يونكس، ومايكروسوفت ويندوز، وأندرويد.شعار كِيدِي هو حرف K فوق عجلة ترس ملونان بالأبيض داخل خلفية زرقاء. وتميمة المشروع هو تنين أخضر يدعى كونكي.",
-	// 	URL:         "https://kde.org/",
+	// source := models.Source{
+	// 	ID:          9,
+	// 	Name:        "الهيئة السعودية للبيانات والذكاء الاصطناعي",
+	// 	NameAr:      "SDAIA",
+	// 	Description: "الهيئة السعودية للبيانات والذكاء الاصطناعي (​سدايا) هي الجهة المختصة في المملكة بالبيانات والذكاء الاصطناعي وتشمل: البيانات الضخمة، وهي المرجع الوطني في كل ما يتعلق بهما من تنظيم وتطوير وتعامل، وهي صاحبة الاختصاص الأصيل في كل ما يتعلق بالتشغيل والأبحاث والابتكار في قطاع البيانات والذكاء الاصطناعي",
+	// 	URL:         "https://sdaia.gov.sa/ar/default.aspx",
 	// }
-	// db.Create(&domain)
+	// db.Create(&source)
 
 	app := fiber.New()
 	app.Static("/", "./public")

@@ -27,6 +27,6 @@
             </div>
         {/each}
     {:else}
-        <p>No posts found.</p>
+            <p>لا توجد مصادر.</p>
     {/if}
 </div>

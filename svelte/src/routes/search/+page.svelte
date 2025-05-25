@@ -96,7 +96,7 @@
                 />
             {/each}
         {:else}
-            <p>No posts found.</p>
+            <p>لا توجد مصطلحات.</p>
         {/if}
         {#if count > 3}
             <Paginator {query} {currentPage} {count} {limit} />
