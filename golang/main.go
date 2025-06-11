@@ -1,6 +1,8 @@
 package main
 
 import (
+	"encoding/csv"
+	"fmt"
 	"log"
 	"os"
 
@@ -34,43 +36,43 @@ func main() {
 		log.Fatalf("failed to migrate database: %v", err)
 	}
 
-	// file, err := os.Open("csv/sdaia/sdaia.csv")
-	// if err != nil {
-	// 	fmt.Println("Error opening CSV file:", err)
-	// 	return
-	// }
-	// defer file.Close()
+	file, err := os.Open("csv/tdra.csv")
+	if err != nil {
+		fmt.Println("Error opening CSV file:", err)
+		return
+	}
+	defer file.Close()
 
-	// reader := csv.NewReader(file)
-	// records, err := reader.ReadAll()
-	// if err != nil {
-	// 	fmt.Println("Error reading CSV file:", err)
-	// 	return
-	// }
+	reader := csv.NewReader(file)
+	records, err := reader.ReadAll()
+	if err != nil {
+		fmt.Println("Error reading CSV file:", err)
+		return
+	}
 
-	// for _, record := range records[1:] {
-	// 	term := models.Term{
-	// 		English:     record[0],
-	// 		Arabic:      record[1],
-	// 		French:      "",
-	// 		German:      "",
-	// 		URL:         "https://sdaia.gov.sa/en/MediaCenter/KnowledgeCenter/ResearchLibrary/SDAIAPublications15.pdf",
-	// 		Description: record[2],
-	// 	}
-	// 	term.DomainID = 12
-	// 	term.SourceID = 9
+	for _, record := range records[1:] {
+		term := models.Term{
+			English:     record[0],
+			Arabic:      record[1],
+			French:      "",
+			German:      "",
+			URL:         "https://tdra.gov.ae/ar/Pages/ict-dictionary#P",
+			Description: record[2],
+		}
+		term.DomainID = 12
+		term.SourceID = 10
 
-	// 	db.Create(&term)
-	// }
+		db.Create(&term)
+	}
 
-	// source := models.Source{
-	// 	ID:          9,
-	// 	Name:        "الهيئة السعودية للبيانات والذكاء الاصطناعي",
-	// 	NameAr:      "SDAIA",
-	// 	Description: "الهيئة السعودية للبيانات والذكاء الاصطناعي (​سدايا) هي الجهة المختصة في المملكة بالبيانات والذكاء الاصطناعي وتشمل: البيانات الضخمة، وهي المرجع الوطني في كل ما يتعلق بهما من تنظيم وتطوير وتعامل، وهي صاحبة الاختصاص الأصيل في كل ما يتعلق بالتشغيل والأبحاث والابتكار في قطاع البيانات والذكاء الاصطناعي",
-	// 	URL:         "https://sdaia.gov.sa/ar/default.aspx",
-	// }
-	// db.Create(&source)
+	source := models.Source{
+		ID:          10,
+	 	Name:        "هيئة تنظيم الاتصالات والحكومة الرقمية",
+	 	NameAr:      "TDRA",
+	 	Description: "يتلخص دور الهيئة التنظيمي في ضمان تأمين خدمات اتصالات متميزة، وتطوير قطاع الاتصالات، ورعاية مصالح الأطراف، وتطبيق أطر السياسات والأنظمة ذات الصلة، وتطوير الموارد البشرية، وتشجيع البحوث والتطوير، بما يضمن للإمارات العربية مكانة إقليمية وعالمية رائدة في قطاع الاتصالات. وفي مجال تمكين التحول الرقمي، تتولى الهيئة مسؤولية الإشراف على الحكومة الرقمية الاتحادية بموجب القانون رقم 3 لسنة 2011. ومنذ ذلك الوقت أصبحت الهيئة مسؤولة عن التحول الرقمي على المستوى الوطني من خلال هدفين استراتيجيين هما: تعزيز أسلوب الحياة الذكي، والريادة في البنية التحتية الرقمية في دولة الإمارات العربية المتحدة. ",
+	 	URL:         "https://tdra.gov.ae/",
+	 }
+	 db.Create(&source)
 
 	app := fiber.New()
 	app.Static("/", "./public")
