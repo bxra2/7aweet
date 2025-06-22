@@ -23,7 +23,7 @@
                     <a href="/suggestions">المقترحات</a>
                 </li>
                 <li>
-                    <a href="/about">نبذه عنه</a>
+                    <a href="/about">عن المعجم</a>
                 </li>
             </ul>
         </nav>
