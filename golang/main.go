@@ -1,8 +1,6 @@
 package main
 
 import (
-	"encoding/csv"
-	"fmt"
 	"log"
 	"os"
 
@@ -36,43 +34,43 @@ func main() {
 		log.Fatalf("failed to migrate database: %v", err)
 	}
 
-	file, err := os.Open("csv/tdra.csv")
-	if err != nil {
-		fmt.Println("Error opening CSV file:", err)
-		return
-	}
-	defer file.Close()
+	// file, err := os.Open("csv/dff-full.csv")
+	// if err != nil {
+	// 	fmt.Println("Error opening CSV file:", err)
+	// 	return
+	// }
+	// defer file.Close()
 
-	reader := csv.NewReader(file)
-	records, err := reader.ReadAll()
-	if err != nil {
-		fmt.Println("Error reading CSV file:", err)
-		return
-	}
+	// reader := csv.NewReader(file)
+	// records, err := reader.ReadAll()
+	// if err != nil {
+	// 	fmt.Println("Error reading CSV file:", err)
+	// 	return
+	// }
 
-	for _, record := range records[1:] {
-		term := models.Term{
-			English:     record[0],
-			Arabic:      record[1],
-			French:      "",
-			German:      "",
-			URL:         "https://tdra.gov.ae/ar/Pages/ict-dictionary#P",
-			Description: record[2],
-		}
-		term.DomainID = 12
-		term.SourceID = 10
+	// for _, record := range records[1:] {
+	// 	term := models.Term{
+	// 		English:     record[0],
+	// 		Arabic:      record[1],
+	// 		French:      "",
+	// 		German:      "",
+	// 		URL:         record[2],
+	// 		Description: record[3],
+	// 	}
+	// 	term.DomainID = 12
+	// 	term.SourceID = 11
 
-		db.Create(&term)
-	}
+	// 	db.Create(&term)
+	// }
 
-	source := models.Source{
-		ID:          10,
-	 	Name:        "هيئة تنظيم الاتصالات والحكومة الرقمية",
-	 	NameAr:      "TDRA",
-	 	Description: "يتلخص دور الهيئة التنظيمي في ضمان تأمين خدمات اتصالات متميزة، وتطوير قطاع الاتصالات، ورعاية مصالح الأطراف، وتطبيق أطر السياسات والأنظمة ذات الصلة، وتطوير الموارد البشرية، وتشجيع البحوث والتطوير، بما يضمن للإمارات العربية مكانة إقليمية وعالمية رائدة في قطاع الاتصالات. وفي مجال تمكين التحول الرقمي، تتولى الهيئة مسؤولية الإشراف على الحكومة الرقمية الاتحادية بموجب القانون رقم 3 لسنة 2011. ومنذ ذلك الوقت أصبحت الهيئة مسؤولة عن التحول الرقمي على المستوى الوطني من خلال هدفين استراتيجيين هما: تعزيز أسلوب الحياة الذكي، والريادة في البنية التحتية الرقمية في دولة الإمارات العربية المتحدة. ",
-	 	URL:         "https://tdra.gov.ae/",
-	 }
-	 db.Create(&source)
+	// source := models.Source{
+	// 	ID:          11,
+	// 	Name:      "Dubai Future Foundation",
+	// 	NameAr:        "مؤسسة دبي للمستقبل",
+	//  	Description: "مؤسسة دبي للمستقبل هي أول مؤسسة وقف بحثي في المنطقة العربية تم تأسيسها في أبريل 2016 بهدف تعزيز مكانة دولة الإمارات ومدينة دبي كمركز عالمي لاستشراف وصناعة المستقبل. وتشرف المؤسسة على تنفيذ أجندة دبي المستقبل والتي تندرج تحتها مجموعة واسعة من المبادرات الهادفة لتعزيز قدرات الأفراد وبناء الثقافة في مجال استشراف المستقبل إضافة إلى زيادة جاهزية المؤسسات للمتغيرات المستقبلية وأخيراً بناء قطاعات مستقبلية ذات تأثير إيجابي على الاقتصاد الوطني. تم إطلاق “مؤسسة دبي للمستقبل” بهدف أداء دور محوري في استشراف المستقبل بإمارة دبي تماشياً مع إطلاق أجندة دبي المستقبل لتكون خارطة طريق تسترشد بها المؤسسة في استشراف مستقبل القطاعات الاستراتيجية على المدى متوسط وطويل الأجل، وذلك بالتعاون مع العديد من الجهات والمؤسسات في القطاعين العام والخاص.",
+	//  	URL:         "https://www.dubaifuture.ae/ar/",
+	//  }
+	//  db.Create(&source)
 
 	app := fiber.New()
 	app.Static("/", "./public")
