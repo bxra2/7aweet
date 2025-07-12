@@ -18,6 +18,7 @@
 |قاموس مصطلحات تكنولوجيا المعلومات والاتصالات| هيئة تنظيم الاتصالات والحكومة الرقمية| [زيارة](https://tdra.gov.ae/ar/pages/ict-terminology-dictionary) |
 |ﻣﻌﺠﻢ ﺑﻴﺎﻧﺎﺕ و ﺍﻟﺬﻛﺎء ﺍﻻﺻﻄﻨﺎﻋﻲ| الهيئة السعودية للبيانات والذكاء الاصطناعي| [زيارة](https://sdaia.gov.sa/en/MediaCenter/KnowledgeCenter/Pages/SDAIAPublications.aspx) |
 |المعجم العربي للذكاء الاصطناعي| مكتب الذكاء الاصطناعي | [زيارة](https://ai.gov.ae/ar/ai-dictionary/) |
+|قاموس المُصطلحات العلميّة| الذكاء الاصطناعي باللغة العربيّة | [زيارة](https://aiinarabic.com/glossary/) |
   
 
 
