@@ -1,0 +1,356 @@
+English,Arabic,URL
+Activation Function,تابع التفعيل,https://aiinarabic.com/glossary/activation-function/
+AdaDelta,خوارزمية ملاءمة معدّل التعلُّم (آدا دلتا),https://aiinarabic.com/glossary/adadelta/
+AdaGrad,خوارزمية التدرج التكيفي (أدا جراد),https://aiinarabic.com/glossary/adagrad/
+Adaptive Learning Rate Algorithms,خوارزميات مُلاءمة معدل التعلُّم,https://aiinarabic.com/glossary/adaptive-learning-rate-algorithms/
+Adaptive Moment Estimation Algorithm (Adam),خُوارِزْميَّةُ توقُّعِ المُلاءمةِ اللَّحظِيَّةِ (آدم),https://aiinarabic.com/glossary/adaptive-moment-estimation-algorithm-adam/
+Adversarial Learning Strategy,استراتيجيَّةُ التَّعَلُّمِ التَّنافُسيِّ  التَّعَلُّمُ عن طريق خِداعِ النَّمُوذَجِ الذي لدينا من خِلالِ نوعيَّةِ بياناتِ الدَّخلِ.,https://aiinarabic.com/glossary/adversarial-learning-strategy/
+Agglomerative Hierarchical,التجميع الهرميّ من الأسفل إلى الأعلى,https://aiinarabic.com/glossary/agglomerative-hierarchical/
+Anchor Boxes,صناديقُ الارتكازِ,https://aiinarabic.com/glossary/anchor-boxes/
+Anomaly Detection,كشفُ الحالاتِ الشَّاذَّةِ,https://aiinarabic.com/glossary/anomaly-detection/
+Artificial Intelligence,الذَّكاءُ الاصطِناعيُّ,https://aiinarabic.com/glossary/artificial-intelligence/
+Attention Mechanism,آليَّةُ الاهتمامِ,https://aiinarabic.com/glossary/attention-mechanism/
+AutoEncoder,المُرمّز التلقائي,https://aiinarabic.com/glossary/autoencoder/
+Autoencoder Transformers,المحوّلات ذات المرمّز التّلقائي,https://aiinarabic.com/glossary/autoencoder-transformers/
+Auxiliar Head,الرّأس المُساعد,https://aiinarabic.com/glossary/auxiliar-head/
+Auxiliary Loss,الخسارةُ المُساعِدةُ  inception) كما هو الحالُ في شَبَكَة (Softmax تَعاني الشَّبَكَاتُ العمِيقةُ مُشكِلةَ خفضِ/ تناقُصِ المُشتقِّ حتى الانعدام. إحدى طُرُقِ حلِّ هذه المُشكِلةِ هي الاستِعانةُ بمُصنَّفاتٍ مُساعِدةٍ تُوضعُ في مُنتصفِ الشَّبَكَة ولها تابعُ تفعيلٍ، يقومُ كلُّ مُصنَّفٍ من هذه المُصنَّفاتِ بتقليلِ الخسارةِ الخاصَّةِ به التي تُسمَّى الخسارةُ المُساعِدةُ. ويكونُ تابِعُ الخسارةِ الكُلِّيِّ للشَّبَكَةِ الأصلِيَّةِ هو مجموعُ الخسارةِ الأصليَّةِ والخساراتِ المُساعِدةِ.,https://aiinarabic.com/glossary/auxiliary-loss/
+Average Pooling,تجميعٌ وفقَ القيمةِ المُتوسِّطةِ,https://aiinarabic.com/glossary/average-polling/
+Backpropagation,الانتشارُ الخلفيُّ,https://aiinarabic.com/glossary/backpropagation/
+Backward Chaining,التَّسلسلُ الخَلفيّ,https://aiinarabic.com/glossary/backward-chaining/
+Bag of Words (BOW),حقيبة الكلمات,https://aiinarabic.com/glossary/bag-of-words-bow-2/
+Bagging,التّجميع,https://aiinarabic.com/glossary/bagging/
+Batch,الدُّفعَةُ,https://aiinarabic.com/glossary/batch/
+Batch Normalization,تقييسُ الدُّفعَةِلا تكونُ قِيَمُ مِيزاتِ البياناتِ المُرادُ استخدامُها في التَّدريبِ - في كثيرٍ من الأحيانِ - ضِمنَ مجالٍ واحدٍ، فمثلًا: قد تمتلِكُ مِيزةُ العُمرِ قِيَمًا ضِمنَ 0-100، وتمتلِكُ مِيزةٌ أُخرى كالرَّاتبِ قِيمًا ضِمنَ مجالٍ بالآلاف. ومن ثَمَّ تُطَبَّقُ عملِيَّةُ تقييسٍ لجميعِ قِيَمِ الدُّفعَةِ الواحدةِ لتكونَ ضِمنَ مجالٍ مُعيَّنٍ، أي حتى تمتلِكَ توزُّعًا واحدًا. وهذا يُحسِّنُ سُرعةَ الشَّبَكَاتِ العُصبُونِيَّةِ وأدائها واستقرارِها.,https://aiinarabic.com/glossary/batch-normalization/
+Bayesian Regression,الانحدار الافتراضي/الانحدار البايزي,https://aiinarabic.com/glossary/bayesian-regression/
+Beam Search,البحث الشّعاعي,https://aiinarabic.com/glossary/beam-search/
+BERT,مُحوّل بيرت,https://aiinarabic.com/glossary/bert/
+Bias,الانحياز,https://aiinarabic.com/glossary/bias/
+Binary Cross-Entropy,الإنتروبيا المُتقاطِعةُ الثُّنائيَّةُ,https://aiinarabic.com/glossary/binary-cross-entropy/
+Bitwise-and,عمليّة الجِّداء المنطقيّ على مُستوى البِت,https://aiinarabic.com/glossary/bitwise-and/
+BLEU,معيار تقييم التطابق ثنائي اللغة,https://aiinarabic.com/glossary/bleu/
+Boosting,تقّوية,https://aiinarabic.com/glossary/boosting/
+Bounding Box,مُرَبَّعُ إحاطةٍ,https://aiinarabic.com/glossary/bounding-box/
+Boxplot,المخطّط الصندوقي,https://aiinarabic.com/glossary/boxplot/
+Caffe,كافيه,https://aiinarabic.com/glossary/caffe/
+Categorical Cross-Entropy,الانتروبيا المتقاطعة الفئويّة,https://aiinarabic.com/glossary/categorical-cross-entropy/
+CBOW,حقيبة الكلمات المستمرّة,https://aiinarabic.com/glossary/cbow/
+Chain-of-Thought (CoT),سلسلة التّفكير,https://aiinarabic.com/glossary/chain-of-thought-cot/
+Chat GPT,شات جي بي تي,https://aiinarabic.com/glossary/chat-gpt/
+Classification,تصنيف,https://aiinarabic.com/glossary/classification/
+Clean Data,البياناتُ المُنقّاةُ/ تنقِيَةُ البياناتِ,https://aiinarabic.com/glossary/clean-data/
+Code,شيفرةٌ برمجيَّةٌ,https://aiinarabic.com/glossary/code/
+Colab,مِنصَّةُ كُولاب,https://aiinarabic.com/glossary/colab/
+Compound Model Scaling,تحجيم النّموذج,https://aiinarabic.com/glossary/compound-model-scaling/
+Confidence,عتبة الدقة,https://aiinarabic.com/glossary/confidence/
+Confusion Matrix,مصفوفة الالتباس,https://aiinarabic.com/glossary/confusion-matrix/
+Contextual Conversation Prompt,التّلقين السّياقي للمحادثات,https://aiinarabic.com/glossary/contextual-conversation-prompt/
+Continuous Quantitative Variable,المتغيّر الكمّي المُستمر,https://aiinarabic.com/glossary/continuous-quantitative-variable/
+Contour Filtering,تصفية الحدود,https://aiinarabic.com/glossary/contour-filtering/
+Convolution,عملِيَّةُ جِداءِ الطَّيِّ  يُعَرَّفُ جِداءُ الطَّيِّ بأنه التَّكاملُ الذي يُعبِّرُ عن كميةِ التَّداخُلِ لتابعٍ ما عندما يُزاحُ عن تابعٍ آخرَ. وعمليَّةُ جِداءِ الطَّيِّ هي عمليَّةٌ تبديليَّةٌhttp://mathworld.wolfram.com/Convolution.html,https://aiinarabic.com/glossary/convolution/
+Convolutional Neural Network (CNN),شَبَكَاتُ الطَّيِّ العُصبُونِيَّةشَبَكَاتُ الطَّيِّ العُصبونِيَّة مأخوذةٌ من عملِيَّةِ الطَّيِّ (راجِع تعريفَ عمليَّةِ جِداءِ الطَّيِّ).,https://aiinarabic.com/glossary/convolutional-neural-network/
+Coreference,الإحالة المشتركة,https://aiinarabic.com/glossary/coreference/
+Coreference Resolution,القرارُ الجَوهريُّ,https://aiinarabic.com/glossary/coreference-resolution/
+Corpus,ديوان نصيّ,https://aiinarabic.com/glossary/corpus/
+Covariance Matrix,مصفوفة التّغايُر,https://aiinarabic.com/glossary/covariance-matrix/
+Cox Regression,انحدار كوكس,https://aiinarabic.com/glossary/cox-regression/
+Cross-Entropy,الإنتروبيا المُتقاطِعةُ  مِقياسٌ مأخوذٌ من عِلمِ نظرِيَّةِ المعلوماتِ لقياسِ الفرقِ بين توَزُّعَينِ احتِمالِيَّينِ لمجموعةٍ من المُتغيِّراتِ أو الأحداثِ، وهو مبنيٌّ على مفهومِ الإنتروبيا (التي تُعرَّفُ بأنها القيمةُ المُتوسِّطةُ لِمقياسِ المعلوماتِ المنقولةِ نتيجةً لإحداثِ حَدثٍ ما من مجموعةٍ محدودة من الأحداثِ المُستقلَّةِ تبادُليًا، تلك الأحداثُ التي لها احتمالاتٌ مُحدَّدةٌ وتُغطِّي كُلَّ فَضاءِ الاحتمالات)، تقيسُ الإنتروبيا المُتقاطِعةُ عُمومًا الإنتروبيا الكُليَّةَ لمجموعةٍ من التوزُّعاتِ الاحتماليَّة.,https://aiinarabic.com/glossary/cross-entropy/
+Cross Validation,التّحقُّق المُتقاطع,https://aiinarabic.com/glossary/cross-validation/
+CUDA,كودا,https://aiinarabic.com/glossary/cuda/
+Data Analysis,تحليل البيانات,https://aiinarabic.com/glossary/data-analysis/
+Data Augmentation,تعزيز البيانات,https://aiinarabic.com/glossary/data-augmentation/
+Data Pipeline,مسارُ تدفُّقِ البياناتِ,https://aiinarabic.com/glossary/data-pipeline/
+Data Visualization,التّمثيل المرئي للبيانات,https://aiinarabic.com/glossary/data-visualization/
+Dataframe in Pandas,إطار البيانات في بانداس,https://aiinarabic.com/glossary/dataframe-in-pandas/
+Date-Related Features,المزايا المُتعلّقة بالتاريخ,https://aiinarabic.com/glossary/date-related-features/
+DBSCAN,Density-Based Spatial Clustering of Applications with Noise خوارزميّة التجميع دي بي سكان,https://aiinarabic.com/glossary/dbscan/
+Decision Rules,قواعد القرار,https://aiinarabic.com/glossary/decision-rules/
+Decision Tree,شجرة القرار,https://aiinarabic.com/glossary/decision-tree/
+Decoder,فاكُّ التّرميز,https://aiinarabic.com/glossary/decoder/
+Deep Learning,التَّعَلُّمُ العمِيقُ,https://aiinarabic.com/glossary/deep-learning/
+Deep Neural Networks,الشَّبَكَات العُصبُونِيَّة العميقة,https://aiinarabic.com/glossary/deep-neural-networks/
+Dense Block,الكتلة الكثيفة,https://aiinarabic.com/glossary/dense-block/
+Dense Layer,الطَّبَقةُ الكثيفةُالطَّبَقةُ ذاتُ الاتِّصالِ الكاملِ,https://aiinarabic.com/glossary/dense-layer/
+Dense Network,الشبكة الكثيفة/الشبكة ذات الاتصال الكامل,https://aiinarabic.com/glossary/dense-network/
+Dense Prediction Transformers (DPT),محوّلات التّنبؤ الكثيف,https://aiinarabic.com/glossary/dense-prediction-transformers-dpt/
+Dependency Parsing,الإعرابُ الاعتماديُّ,https://aiinarabic.com/glossary/dependency-parsing/
+Depthwise Separable Convolution,الطّي بالعمق المنفصل,https://aiinarabic.com/glossary/depthwise-separable-convolution/
+Diffusion Models,نماذج الانتشار,https://aiinarabic.com/glossary/diffusion-models/
+Discrete Quantitative Variable,المتغيّر الكمّي المُنفصل,https://aiinarabic.com/glossary/discrete-quantitative-variable/
+Divisive Clustering,التجميع الهرميّ من الأعلى إلى الأسفل,https://aiinarabic.com/glossary/divisive-clustering/
+Domain Expert,خبيرُ المَجال,https://aiinarabic.com/glossary/domain-expert/
+Domain Shift Problem,مُشكِلةُ تغييرِ المجالِ  تظهرُ هذه المشكلةُ عندما تكونُ قاعدةُ بياناتِ التَّدريبِ وقاعدةُ بياناتِ التَّحقُّقِ من مجالينِ مُختلِفينِ، فمثلًا: نقومُ بالتَّدريبِ على الصُّورِ المأخوذةِ من العالَمِ الافتراضيِّ ثُمَّ نقومُ بالتَّحقُّقِ على (بالتَّحَقُّقِ على أم بالتحقُّقِ من؟) الصُّورِ المأخُوذةِ من مجالِ العالَمِ الحقيقيِّ. عادةً ما يكونُ سببُ هذا الاختلافِ هو اختلافَ معامِلاتِ آلاتِ التَّصويرِ في العالَمَين.,https://aiinarabic.com/glossary/domain-shift-problem/
+Domain-Specific Features,المزايا الخاصة بمجال التطبيق,https://aiinarabic.com/glossary/domain-specific-features/
+Dot Product,الجداء النُّقَطي,https://aiinarabic.com/glossary/dot-product/
+Double Cross-Validation,التّحقق المُتقاطع المُزدوج,https://aiinarabic.com/glossary/double-cross-validation/
+Downsampling,تصغير الأبعاد,https://aiinarabic.com/glossary/downsampling/
+Dropout,تعطيلُ عملِ العُصبُوناتِ,https://aiinarabic.com/glossary/dropout/
+Early Stopping,التّوقُّف المُبكّر,https://aiinarabic.com/glossary/early-stopping/
+Edge Detection Segmentation,خوارزميّة التجزئة المعتمدة على كشف الحواف,https://aiinarabic.com/glossary/edge-detection-segmentation/
+Eigen Face,الوجهُ الخاصُّ/ الوجهُ المُتوسِّطُيُشبِهُ مبدأُ عملهِ مبدأَ عملِ المُتوسِّطِ الحِسابيِّ.,https://aiinarabic.com/glossary/eigen-face/
+EigenValues,القيم الذّاتيّة,https://aiinarabic.com/glossary/eigenvalues/
+EigenVector,المُتّجهات الذّاتيّة,https://aiinarabic.com/glossary/eigenvector/
+Elastic Net Regression,انحدار الشبكة المرنة,https://aiinarabic.com/glossary/elastic-net-regression/
+Embedding Layer,طبقةُ التَّضمينِ,https://aiinarabic.com/glossary/embedding-layer/
+Emotion Detector,كاشِفُ المَشاعِرِ أو العَواطِفِ,https://aiinarabic.com/glossary/emotion-detector/
+Encoder,المُرمّز,https://aiinarabic.com/glossary/encoder/
+Encoder-Decoder Attention Layer,طبقة الاهتمام مُرمّز-فاكّ التّرميز,https://aiinarabic.com/glossary/encoder-decoder-attention-layer/
+Ensemble,مجمُوعةٌ,https://aiinarabic.com/glossary/ensemble/
+Entropy,الانتروبي,https://aiinarabic.com/glossary/entropy/
+Epoch,دورةُ تدريبٍ,https://aiinarabic.com/glossary/epoch/
+Expanding Window Feature,مزايا النافذة الموسّعة,https://aiinarabic.com/glossary/expanding-window-feature/
+Expectation-Maximization (EM) Clustering using Gaussian Mixture Models (GMM),خوارزميّة التجميع بتعظيم القيمة المتوقّعة باستخدام نموذج غاوس المختلط,https://aiinarabic.com/glossary/expectation-maximization-em-clustering-using-gaussian-mixture-models-gmm/
+Expert System,النّظامُ الخبير,https://aiinarabic.com/glossary/expert-system/
+Experta,مَكتبةُ اكسبيرتا,https://aiinarabic.com/glossary/experta/
+Explanation Module,وحدةُ الشّرحِ والتّفسير,https://aiinarabic.com/glossary/explanation-module/
+Extended Efficient Layer Aggregation Network (E-ELAN),شبكة تجميع طبقات فعّالة ممتدّة,https://aiinarabic.com/glossary/extended-efficient-layer-aggregation-network-e-elan/
+Face Landmarks Estimation,تقدير معالم الوجه,https://aiinarabic.com/glossary/face-landmarks-estimation/
+Facts,الحقائق,https://aiinarabic.com/glossary/facts/
+False Negative,قيمة التنبُّؤ السلبي الخاطئ,https://aiinarabic.com/glossary/false-negative/
+False Positive,قيمة التنبُّؤ الإيجابي الخاطئ,https://aiinarabic.com/glossary/false-positive/
+Fast Region-Based Convolutional Neural Network (Fast R-CNN),شَبَكَةُ الطَّيِّ العُصبُونِيَّة المناطِقيَّةِ السَّريعةِ,https://aiinarabic.com/glossary/fast-region-based-convolutional-neural-network-fast-r-cnn/
+Faster Region-Based Convolutional Neural Network (Faster R-CNN),شَبَكَةُ الطَّيِّ العُصبُونِيَّة المناطِقيَّةِ الأسرع,https://aiinarabic.com/glossary/faster-region-based-convolutional-neural-network-faster-r-cnn/
+Feature Engineering,هندسة المزايا,https://aiinarabic.com/glossary/feature-engineering/
+Feature Map,خريطةُ المزايا,https://aiinarabic.com/glossary/feature-map/
+Feature Vector,شُعاع المَزايا,https://aiinarabic.com/glossary/feature-vector/
+Feedforward Network,شبكة تغذية أماميّة,https://aiinarabic.com/glossary/feedforward-network-2/
+Few-Shot Prompting,التّلقين بالقليل من الأمثلة,https://aiinarabic.com/glossary/few-shot-prompting/
+Filter,مُرشِّحُ الطَّيِّ  هو التَّابعُ أو المَصفُوفَةُ التي تُستَخدمُ في عمليَّةِ الطَّيِّ مع مَصفُوفةِ الدَّخل. (تجبُ الإشارةُ هنا إلى أن مُرشِّحَ الطَّيِّ مُختلفٌ عن غيرٍه من المُرشِّحات مثلَ مُرشِّحِ كالمان Kalman Filter.وقد تُرجِمَ هنا بمُرشِّحٍ بدلًا من مَصفوفَةِ الطَّيِّ؛ لأن المَصفوفَةَ هي مفهومٌ تجريدِيٌّ لا يدُلُّ على وُجوبِ تنفيذِ عمليَّةِ الطَّيِّ الَّتي يقومُ بها المُرشِّح).,https://aiinarabic.com/glossary/filter/
+Filter Banks,مصفُوفَةُ المُرشِّحاتِ,https://aiinarabic.com/glossary/filter-banks/
+Fine-tuning,ضَبطٌ دقيقٌ,https://aiinarabic.com/glossary/fine-tuning/
+Fisherface,وجهُ فيشر,https://aiinarabic.com/glossary/fisherface/
+Flat Shaded,مظلّلة بشكل مسطّح,https://aiinarabic.com/glossary/flat-shaded/
+Flatten,تسطيحٌ,https://aiinarabic.com/glossary/flatten/
+Forecasting,التنبُّؤ,https://aiinarabic.com/glossary/forecasting/
+Foreground Segmentation,تجزئة المقدمة,https://aiinarabic.com/glossary/foreground-segmentation/
+Forward Chaining,التَّسلسلُ الأماميّ,https://aiinarabic.com/glossary/forward-chaining/
+Framework,إطارُ عملٍ,https://aiinarabic.com/glossary/framework/
+Fully Connected Layer,الطَّبَقةُ ذاتُ الاتصالِ الكاملِ,https://aiinarabic.com/glossary/fully-connected-layer/
+Fully Convolutional Adaptation Network - FCAN,شَبَكَاتُ المُلاءمة كاملةُ الطَّيِّالأفضل تعبيريَّا: شَبَكَاتُ المُلاءمةِ ذاتُ الطَّيِّ الكامل,https://aiinarabic.com/glossary/fully-convolutional-adaptation-network-fcan/
+Gated Recurrent Unit Network GRU,الشَّبَكَةُ العُصبونِيَّة ذاتُ البوَّاباتِ,https://aiinarabic.com/glossary/gated-recurrent-unit-network-gru/
+Generalization,التّعميم,https://aiinarabic.com/glossary/generalization/
+Generative Pre-trained Transformer,المحوّل التّوليدي المدرّب مسبقًا,https://aiinarabic.com/glossary/generative-pre-trained-transformer/
+Geometric Transformations,التّحويلات الهندسيّة,https://aiinarabic.com/glossary/geometric-transformations/
+GoogLeNet,شَبَكَةُ جوجل انسبشن,https://aiinarabic.com/glossary/googlenet/
+Google's MobileNet,شبكة موبايل-نت من غوغل,https://aiinarabic.com/glossary/googles-mobilenet/
+GPT,مُحوّل جي بي تي,https://aiinarabic.com/glossary/gpt-2/
+GrabCut Algorithm,خوارزمية غرابكات,https://aiinarabic.com/glossary/grabcut-algorithm/
+Grid Search,بحث شَبَكي,https://aiinarabic.com/glossary/grid-search/
+Ground-Truth,الحقائِقُ المَرجِعيَّةُ,https://aiinarabic.com/glossary/ground-truth/
+Grounding,تحديد موقع مكوّنات التّوصيف في الصّورة,https://aiinarabic.com/glossary/grounding/
+Hard Margin,الهامش الصلب,https://aiinarabic.com/glossary/hard-margin/
+Heuristic Knowledge,المَعرٍفَةُ الحَدسيّة,https://aiinarabic.com/glossary/heuristic-knowledge/
+Hidden State,الحالة المخفيّة,https://aiinarabic.com/glossary/hidden-state/
+Hierarchical Attention Network,شَبَكَةُ الاهتِمامِ الهَرميِّ,https://aiinarabic.com/glossary/hierarchical-attention-network/
+Hierarchical Deep Learning,التّعلّم العميق الهرميّ,https://aiinarabic.com/glossary/hierarchical-deep-learning/
+Histogram Of Oriented Gradient,مخطّط/هستوغرام التدرّج الموجّه,https://aiinarabic.com/glossary/histogram-of-oriented-gradient/
+Hyper-Parameter Setting,"ضَبطُ المُعامِلاتِ الأساسيَّةِتُعرَّفُ بأنها المُعامِلاتُ التي تُوضَعُ قِيَمُها قبلَ بدايةِ التَّعَلُّمِ، وهي على عكسِ ""معامِلات الموديل"" model parameter التي تتغيَّرُ أثناءَ عملِيَّةِ التَّعَلُّمِ.",https://aiinarabic.com/glossary/hyper-parameter-setting/
+Hyper-Parameter Tuning,تَعييرُ المُعامِلاتِ الأساسِيَّةِ,https://aiinarabic.com/glossary/hyper-parameter-tuning/
+Hyper-Parameters,المُعامِلاتِ الأساسيَّةِ,https://aiinarabic.com/glossary/hyper-parameters/
+Hyperlane,المستوي الفائق,https://aiinarabic.com/glossary/hyperlane/
+Identity Function,التابع الواحدي,https://aiinarabic.com/glossary/identity-function/
+Image Annotation,تنصيص الصّور,https://aiinarabic.com/glossary/image-annotation/
+Image Captioning,توصيف الصّورة,https://aiinarabic.com/glossary/image-captioning/
+Image Recognition,التّعرُّف على الصّور,https://aiinarabic.com/glossary/image-recognition/
+Image Segmentation,تجزئة الصّورة,https://aiinarabic.com/glossary/image-segmentation/
+Image Segmentation based on Clustering,خوارزمية التجزئة المعتمدة على التجمّعات,https://aiinarabic.com/glossary/image-segmentation-based-on-clustering/
+IMDB,مجموعة بيانات مراجعات الأفلام,https://aiinarabic.com/glossary/imdb/
+Imitation Learning,التَّعَلُّمُ بالمُحاكاةِ,https://aiinarabic.com/glossary/imitation-learning/
+Inception Network,شَبَكَةُ جوجل انسبشن,https://aiinarabic.com/glossary/inception-network/
+Inference Engine,مُحرّك الاستدلال,https://aiinarabic.com/glossary/inference-engine/
+Information Retrieval (IR),استرجاع المعلومات,https://aiinarabic.com/glossary/information-retrieval-ir/
+Inliers,القيم الداخليّة,https://aiinarabic.com/glossary/inliers/
+Instance Segmentation,تجزئة المثيل,https://aiinarabic.com/glossary/instance-segmentation/
+IRIS Dataset,آيريس (قاعدة بيانات لتصنيف شكل ثلاثة أنواع من الزهور),https://aiinarabic.com/glossary/iris-dataset/
+Iterative Algorithms,الخوارزميّات التّكراريّة,https://aiinarabic.com/glossary/iterative-algorithm/
+Jupyter Notebook,ورقةُ جوبيتر,https://aiinarabic.com/glossary/jupyter-notebook/
+K-Distance,المسافة-k,https://aiinarabic.com/glossary/k-distance/
+K-Means Clustering,خوارزميّة التجميع بالمتوسّطات,https://aiinarabic.com/glossary/k-means-clustering/
+Karpathy Splits,تقسيمات كارباثي,https://aiinarabic.com/glossary/karpathy-splits/
+Keras,كيراس,https://aiinarabic.com/glossary/keras/
+Kernel,مصفُوفَةُ الطَّيِّ  هي المَصفُوفَةُ التي تُستَخدَمُ في عمليَّةِ الطَّيِّ.,https://aiinarabic.com/glossary/kernel/
+Kernel Density Plot,مخطّط الكثافة,https://aiinarabic.com/glossary/kernel-density-plot/
+KNN Algorithm,خوارزمية الجوار الأقرب,https://aiinarabic.com/glossary/knn-algorithm/
+Knowledge Acquisition,اكتسابُ المَعرفَة,https://aiinarabic.com/glossary/knowledge-acquisition/
+Knowledge Base,قاعدةُ المَعرِفَة,https://aiinarabic.com/glossary/knowledge-base/
+Knowledge Engineer,مُهندسٌ المَعرفة,https://aiinarabic.com/glossary/knowledge-engineer/
+Knowledge Representation,تَمثيلٌ المَعرِفَة,https://aiinarabic.com/glossary/knowledge-representation/
+Label,عُنوانٌ,https://aiinarabic.com/glossary/label/
+Lag Features,مزايا التأخير,https://aiinarabic.com/glossary/lag-features/
+Large Language Models (LLMs),نماذج اللّغة الكبيرة,https://aiinarabic.com/glossary/large-language-models-llms/
+Lasso Regression,انحدار لاسو,https://aiinarabic.com/glossary/lasso-regression/
+Lead Head,الرّأس القائد,https://aiinarabic.com/glossary/lead-head/
+Learning Rate,معدل التعلُّم,https://aiinarabic.com/glossary/learning-rate/
+Lemmatization,الحُصولُ على أصلِ الكلِمةِ,https://aiinarabic.com/glossary/lemmatization/
+Linear regression,الانحدار الخطّي,https://aiinarabic.com/glossary/linear-regression/
+Lineplot,المخطّط الخطّي,https://aiinarabic.com/glossary/lineplot/
+Local Optima,الحل الأمثل المحلي,https://aiinarabic.com/glossary/local-optima/
+Local Outlier Factor,خوارزميّة اكتشاف القيم المُتطرّفة المحلية,https://aiinarabic.com/glossary/local-outlier-factor/
+Logistic Regression,الانحدار اللوجستي,https://aiinarabic.com/glossary/logistic-regression/
+Long Short Term Memory LSTM,الشَّبَكَةُ العُصبُونِيَّةُ ذاتُ الذَّاكِرةِ الطَّويلةِ قصيرةِ المَدى,https://aiinarabic.com/glossary/long-shot-term-memory-lstm/
+Loss Function,تابعُ الخسارةِ,https://aiinarabic.com/glossary/loss-function/
+Machine Translation,الترجمة الآليّة,https://aiinarabic.com/glossary/machine-translation/
+MagicaVoxel,فوكسل ماجيكا,https://aiinarabic.com/glossary/magicavoxel/
+Markov Decision Process,عمليَّةُ ماركوف لاتَّخاذِ القرارِ,https://aiinarabic.com/glossary/markov-decision-process/
+Mask Approximations,القناع المُقترح,https://aiinarabic.com/glossary/mask-approximations/
+Mask R-CNN,شَبَكَةُ الطَّيِّ العُصبُونِيَّةِ المناطِقيَّةِ ذاتُ القناع,https://aiinarabic.com/glossary/mask-r-cnn/
+Masked Language Model (MLM),النّموذج اللّغويّ المُقنّع,https://aiinarabic.com/glossary/masked-language-model-mlm/
+Matplotlib,مكتبةُ الرَّسمِ الرِّياضيِّ في بايثون (ماتبلوت),https://aiinarabic.com/glossary/matplotlib/
+Matrix Multiplication,الضرب المصفوفي,https://aiinarabic.com/glossary/matrix-multiplication/
+Matrix Product,جداء المصفوفات,https://aiinarabic.com/glossary/matrix-product/
+Max Pooling,تجمِيعٌ وفقَ القيمةِ الكُبرى,https://aiinarabic.com/glossary/max-polling/
+Mean-Shift Algorithm,خوارزميّة التجميع بالمتوسّط المتحوّل,https://aiinarabic.com/glossary/mean-shift-algorithm/
+Meched-Memory Transformers,محوّلات الذّاكرة المتشابكة,https://aiinarabic.com/glossary/meched-memory-transformers/
+Mini-Batch,الدُّفعَةُ المُصغَّرةُ,https://aiinarabic.com/glossary/mini-batch/
+Mini-Batch Size,حجم الدّفعة الأصغري,https://aiinarabic.com/glossary/mini-batch-size/
+MNIST Dataset,مجموعة بيانات إم نيست,https://aiinarabic.com/glossary/mnist-dataset/
+MobileNet,شبكة موبايل-نت,https://aiinarabic.com/glossary/mobilenet/
+Model Architecture,بُنيةُ النَّمُوذجِ,https://aiinarabic.com/glossary/model-architecture/
+Model-based RL,التَّعَلُّمُ بالتَّعزيزِ المُستنِدِ إلى نَمُوذجٍ,https://aiinarabic.com/glossary/model-based-rl/
+Module,وحدةٌ,https://aiinarabic.com/glossary/module/
+Momentum,زخم الحركة,https://aiinarabic.com/glossary/momentum/
+MSCOCO,قاعِدُةُ بياناتِ مايكروسوفت كوكو,https://aiinarabic.com/glossary/mscoco/
+Multi-Headed Attention,الاهتمام مُتعدّد الرؤوس,https://aiinarabic.com/glossary/multi-headed-attention/
+Multi-Resolution Search,البحث مُتعدّد الدّقة,https://aiinarabic.com/glossary/multi-resolution-search/
+MxNet,إم إكس نت,https://aiinarabic.com/glossary/mxnet/
+Named entity recognition (NER),التعرف على الأعلام,https://aiinarabic.com/glossary/named-entity-recognition-ner/
+Natural Language Toolkit (NLTK),مكتبة صندوق أدوات اللغات الطبيعية,https://aiinarabic.com/glossary/natural-language-toolkit-nltk/
+Negative Binomial Regression,الانحدار السلبي ثنائي الحد,https://aiinarabic.com/glossary/negative-binomial-regression/
+Negative Skewed,منحرف بشكل سلبيّ,https://aiinarabic.com/glossary/negative-skewed/
+Neural Network,شَبَكَةٌ عُصبُونِيَّةٌ,https://aiinarabic.com/glossary/neural-network/
+Neural Style Transfer,نقل النمط العصبوني,https://aiinarabic.com/glossary/neural-style-transfer/
+N-gram,n واحدة تعداد لمصطلح,https://aiinarabic.com/glossary/ngram/
+Numpy,مكتبةُ بايثون العدديَّةُ,https://aiinarabic.com/glossary/numpy/
+Object Detection,الكشفُ عن الأغراضِ,https://aiinarabic.com/glossary/object-detection/
+One Hot Encoding,ترميز ون هوت,https://aiinarabic.com/glossary/one-hot-encoding/
+OpenCv,المكتبةُ المفتوحةُ للرُّؤيةِ الحاسُوبيَّةِ,https://aiinarabic.com/glossary/opencv/
+Optimizer,المُحسِّنُهو خُوارِزمِيَّةٌ تعملُ على التَّقارُبِ نحو الحلِّ الأمثلِ. يقومُ في حالةِ الشَّبَكَةِ العُصبونيَّة بتعديلِ الأوزانِ ومُعدَّلِ التَّعَلُّمِ من أجلِ تقليلِ الخسارةِ.,https://aiinarabic.com/glossary/optimizer/
+Ordinal Regression,الانحدار الترتيبي,https://aiinarabic.com/glossary/ordinal-regression/
+Outliers,القيم المُتطرّفة,https://aiinarabic.com/glossary/outliers/
+Overfitting,المُلاءمةُ الزَّائدةُ,https://aiinarabic.com/glossary/overfitting/
+Package,حُزَمٌ,https://aiinarabic.com/glossary/package/
+Padding,الحشوُ  عمليَّةُ إضافةِ قِيمةٍ (غالبًا صِفر) إلى حَوافِّ الصُّورةِ، إمَّا لتعديلِ أبعادِ الصُّورةِ بحيثُ تتلاءمُ معَ أبعادِ دخلِ الشَّبَكَةِ أو للحِفاظِ على أبعادِ الصُّورةِ قبلَ تطبيقِ عملِيَّةِ جِداءِ الطَّيِّ وبعدَهُ؛ لأنَّ تطبيقَ هذه العملِيَّةِ يؤدي إلى خفضِ الأبعادِ.,https://aiinarabic.com/glossary/padding/
+Pandas,مكتبةُ تحليلِ البياناتِ في بايثون (بانداس),https://aiinarabic.com/glossary/pandas/
+Parameter,مُعامِلٌ,https://aiinarabic.com/glossary/parameter/
+Part of Speech,أقسامُ الكلامِ,https://aiinarabic.com/glossary/part-of-speech/
+Partial Least Squares Regression,انحدار المربعات الصغرى الجزئيّة,https://aiinarabic.com/glossary/partial-least-squares-regression/
+Patch Embedding,تضمين الدّفعة,https://aiinarabic.com/glossary/patch-embedding/
+Pattern Recognition,التّعرف على الأنماط,https://aiinarabic.com/glossary/pattern-recognition/
+Pixel,البكسل,https://aiinarabic.com/glossary/pixel/
+Point Cloud,السحابة النقطيّة,https://aiinarabic.com/glossary/point-cloud/
+Poisson Regression,انحدار بواسون,https://aiinarabic.com/glossary/poisson-regression/
+Polynomial Features,مزايا كثيرة الحدود,https://aiinarabic.com/glossary/polynomial-features/
+Polynomial Regression,انحدار متعدد الحدود,https://aiinarabic.com/glossary/polynomial-regression/
+Pooling,التَّجميعُ  لأنَّها تجمعُ مجموعةً من القِيَمِ إلى مثلاً قيمة الأكبرِ بينهم أو قِيمةِ المُتوسِّطِ من بينهم.بدائل التصحيح:لأنَّها تجمعُ مجموعةً من القِيَمِ إلى قيمةِ الأكبرِ بينها مَثلًا أو إلى قيمةِ المُتوسِّطِ بينها.عمليَّةٌ تجمعُ مجموعةً من القِيَمِ إلى قيمةِ العددِ الأكبرِ بينها مَثلًا أو إلى قيمةِ العددِ المُتوسِّطِ بينها.عمليةٌ تجمعُ مجموعةً من القِيَمِ إلى القيمة الكبرى فيها مَثلًا أو إلى القيمةِ المُتوسِّطةِ فيها.,https://aiinarabic.com/glossary/pooling/
+Positional Embedding,التّضمين الموضعيّ,https://aiinarabic.com/glossary/positional-embedding/
+Positional Encoding,التّشفير الموضعي,https://aiinarabic.com/glossary/positional-encoding/
+Positive Skewed,منحرف بشكل إيجابيّ,https://aiinarabic.com/glossary/positive-skewed/
+Post Pruning,التَّقليم اللّاحق,https://aiinarabic.com/glossary/post-pruning/
+Precision,قيمة التنبُّؤ الإيجابي,https://aiinarabic.com/glossary/precision/
+PrePruning,التَّقليم المُسبق,https://aiinarabic.com/glossary/prepruning/
+Principal Component Analysis,تحليل المكونات الرئيسيّة/الأساسيّة,https://aiinarabic.com/glossary/principal-component-analysis/
+Principal Components Regression,انحدار المكونات الرئيّسية,https://aiinarabic.com/glossary/principal-components-regression/
+Projection Layer,طبقةُ الإسقاطِ,https://aiinarabic.com/glossary/projection-layer/
+Prompt Engineering,هندسة التّلقين,https://aiinarabic.com/glossary/prompt-engineering/
+Pruning,التَّقليم,https://aiinarabic.com/glossary/pruning/
+Purity,النَّقاء مجموعة البيانات من صنفٍ واحدٍ فقط أو عدم وجود تباين في البيانات.,https://aiinarabic.com/glossary/purity/
+Pytorch,بايتورش,https://aiinarabic.com/glossary/pytorch/
+Quantile Regression,الانحدار الكمّي,https://aiinarabic.com/glossary/quantile-regression/
+Quantitative Data,البيانات الكمّيّة,https://aiinarabic.com/glossary/quantitative-data/
+Qubicle,كيوبكل,https://aiinarabic.com/glossary/qubicle/
+Random Erasing,المسحُ العشوائيّ,https://aiinarabic.com/glossary/random-erasing/
+Random Forest,الغابة العشوائيّة,https://aiinarabic.com/glossary/random-forest/
+Random Multimodel Deep Learning RMDL,التَّعَلُّمُ العميقُ مُتعدِّدُ النَّماذجِ العشوائيَّةِ,https://aiinarabic.com/glossary/random-multimodel-deep-learning-rmdl/
+Raw Text,النَّصُّ الخامُ,https://aiinarabic.com/glossary/raw-text/
+Re-Parameterization,إعادة ضبط البارامترات,https://aiinarabic.com/glossary/re-parameterization/
+Reachability Distance,مسافة قابليّة الوصول,https://aiinarabic.com/glossary/reachability-distance/
+Recall,حساسية التنبُّؤ,https://aiinarabic.com/glossary/recall/
+Rectified Linear Unit (Relu),وحدةُ التَّصحيحِ الخطِّيِّ,https://aiinarabic.com/glossary/rectified-linear-unit-relu/
+Recurrent Convolutional Neural Networks (RCNN),شَّبَكَات الطَّيّ العُصبُونِيَّة التّكراريّة,https://aiinarabic.com/glossary/recurrent-convolutional-neural-networks-rcnn/
+Recurrent Neural Networks RNN,الشَّبَكَاتُ العُصبُونِيَّةُ الإرجاعِيَّةُ,https://aiinarabic.com/glossary/recurrent-neural-networks-rnn/
+Reduction Blocks,كُتلُ تقليلِ الأبعادِ,https://aiinarabic.com/glossary/reduction-blocks/
+Region-Based Convolutional Neural Network (R-CNN),شَبَكَةُ الطَّيِّ العُصبُونِيَّةِ المناطِقيَّةِ,https://aiinarabic.com/glossary/region-based-convolutional-neural-network-r-cnn/
+Region-based Segmentation,خوارزميّة التّجزئة حسب المنطقة,https://aiinarabic.com/glossary/region-based-segmentation/
+Region of Interest Align (ROIAlign),منطقة الاهتمام,https://aiinarabic.com/glossary/region-of-interest-align-roialign/
+Region Proposal Network (RPN),شبكة اقتراح المناطق المهمة,https://aiinarabic.com/glossary/region-proposal-network-rpn/
+Regression,الانحدار,https://aiinarabic.com/glossary/regression/
+Regularization,تَنظيمراجع مصطلح المُنظّم (Regularizer),https://aiinarabic.com/glossary/regularization/
+Regularizer,مُنَظِّمٌ  سُمِّيَ مُنظِّمًا لأنَّهُ يقومُ بالتَّحكُّمِ بتابعِ الخسارةِ بإضافةِ قِيمةٍ جزائية (جَزائيَّة أم جُزئيَّة؟ فالجزاءُ يعني العقوبة غالبًا) إلى overfitting. تهدِفُ هذه العملِيَّةُ إلى الحدِّ من مُشكِلةِ الخسارةِ.,https://aiinarabic.com/glossary/regularizer/
+Reinforcement Learning,التَّعَلُّمُ المُعَزَّز,https://aiinarabic.com/glossary/reinforcement-learning/
+Reinforcement Learning From Human Feedback (RLHF),التّعلّم المعزّز من التّغذية الرّاجعة البشريّة,https://aiinarabic.com/glossary/reinforcement-learning-from-human-feedback-rlhf/
+Rendering,توليدٌ  يتمُّ توليدُ الصُّورِ من موديل ثُنائيِّ أو ثُلاثيِّ الأبعادِ باستخدامِ برامجِ الحاسبِ.,https://aiinarabic.com/glossary/rendering/
+Representational Bottleneck,"حالة عٌنق الزُجاجة التمثيليةتحدث هذه الحالة في الشبكات العُصبونية عندما تتألف طبقة ما من عدد من العُصبونات أقل بشكل واضح من عُصبونات الطبقة السابقة وبالتالي يحدث خفض كبير في أبعاد الدخل وهذا ما يُسمى بعُنق الزجاجة. في هذه الحالة يتم الحصول على تمثيل للدخل ولكن بأبعاد أقل/مخفضة ومن هنا جاء معنى ""تمثيلية"".",https://aiinarabic.com/glossary/representational-bottleneck/
+Residual Connections,الوصلاتُ المُختصرَةُ,https://aiinarabic.com/glossary/residual-connections/
+Residual Network,شَبَكَةُ الرَّواسِبِ  تقومُ فِكرةُ هذه الشَّبَكَةِ على التَّعَلُّمِ منَ الرَّواسبِ أو البواقي التي تحقَّقتْ بإضافةِ وصلاتٍ تُعَدُّ طُرُقًا سريعةً واصلةً بين الطَّبقاتِ للتَّخلُّصِ من صُعوبةِ تدريبِ الشَّبَكَاتِ العمِيقةِ.,https://aiinarabic.com/glossary/residual-network/
+RetinaNet,ريتنا-نت,https://aiinarabic.com/glossary/retinanet/
+Reward Function,دالَّةُ المُكافَأةِ,https://aiinarabic.com/glossary/reward-function/
+Ridge Regression,انحدار ريدج,https://aiinarabic.com/glossary/ridge-regression/
+RMSPorp,جذر متوسط مربع الإنتشار (آر إم إس بروب),https://aiinarabic.com/glossary/rmsporp/
+RoBERTa,مُحوّل روبيرتا,https://aiinarabic.com/glossary/roberta/
+Rolling Window Feature,مزايا النافذة المنزلقة,https://aiinarabic.com/glossary/rolling-window-feature/
+Rouge,معيار تقييم جودةُ النصوص التوليديّة,https://aiinarabic.com/glossary/rouge/
+Rules,القواعد,https://aiinarabic.com/glossary/rules/
+Scalar Multiplication,الضرب العددي,https://aiinarabic.com/glossary/scalar-multiplication/
+Scatterplot,مخطّط الانتشار,https://aiinarabic.com/glossary/scatterplot/
+SciPy,مكتبةُ الحَوسَبةِ العلميَّةِ,https://aiinarabic.com/glossary/scipy/
+Selective Search,خوارزميّة البحث الانتقائيّ,https://aiinarabic.com/glossary/selective-search/
+Self-Attention Layer,طبقة الاهتمام الذّاتي,https://aiinarabic.com/glossary/self-attention-layer/
+Semantic Reasoning,المنطق الدلاليّ,https://aiinarabic.com/glossary/semantic-reasoning/
+Semantic Segmentation,التجزئةُ الدَّلاليَّةُ,https://aiinarabic.com/glossary/semantic-segmentation/
+Sentiment Analysis,تحليلُ الآراءِ,https://aiinarabic.com/glossary/sentiment-analysis/
+Seq2Seq Model,نموذج سلسلة إلى سلسلة,https://aiinarabic.com/glossary/seq2seq-model/
+Sigmoid,التابع الأسي الجيبي (سيغمويد),https://aiinarabic.com/glossary/sigmoid/
+Single Shot Detector (SSD),كاشفُ الخَطوةِ الواحدةِ,https://aiinarabic.com/glossary/single-shot-detector-ssd/
+Single-Shot Detectors,كواشف المرحلة الواحدة,https://aiinarabic.com/glossary/single-shot-detectors/
+Skip-Connection,وصلة تخطّي,https://aiinarabic.com/glossary/skip-connection/
+Skip-Gram,نموذج تخطي الكلمات,https://aiinarabic.com/glossary/skip-gram/
+SKLearn,مكتبة اس-كي للتعلّم,https://aiinarabic.com/glossary/sklearn/
+Slicing,تشرِيحٌ,https://aiinarabic.com/glossary/slicing/
+Sliding-Window,النافذة المنزلقة,https://aiinarabic.com/glossary/sliding-window/
+Soft Margin,الهامش المرن,https://aiinarabic.com/glossary/soft-margin/
+Softmax,سوفت ماكس,https://aiinarabic.com/glossary/softmax/
+Spectogram,مُخطَّطاتُ التَّمثيلِ الطَّيفيِّ,https://aiinarabic.com/glossary/spectogram/
+Statistical Features,المزايا الإحصائيَّةُ,https://aiinarabic.com/glossary/statistical-features/
+Stemming,تجذيعٌ,https://aiinarabic.com/glossary/stemming/
+Stochastic Gradient Descent (SGD),انحدارُ المُشتقِّ العشوائيِّ,https://aiinarabic.com/glossary/stochastic-gradient-descent-sgd/
+Stride,خُطوةُ تحريكِ مُرشِّحِ الطَّيِّ,https://aiinarabic.com/glossary/stride/
+Style Transfer,نقل النمط,https://aiinarabic.com/glossary/style-transfer/
+Sub-Version,الإصدارُ الجُزئيُّ,https://aiinarabic.com/glossary/sub-version/
+Supervised Learning,التَّعَلُّمُ بالإشرافِ,https://aiinarabic.com/glossary/supervised-learning/
+Support Vector Machine (SVM),آلة المُتَّجه الداعم,https://aiinarabic.com/glossary/support-vector-machine-svm/
+Support Vector Regression,انحدار المتّجه الداعم,https://aiinarabic.com/glossary/support-vector-regression/
+Tanh,التابع الأسي الظلي,https://aiinarabic.com/glossary/tanh/
+Tensor,مصفُوفَةٌ متعددةُ الأبعادِ,https://aiinarabic.com/glossary/tensor/
+TensorFlow,مكتبةُ تنسور فلو للتَّعلُّمِ العميقِ من جوجل,https://aiinarabic.com/glossary/tensorflow/
+Text Analysis,معالجة النصوص,https://aiinarabic.com/glossary/text-analysis/
+Text Mining,تنقيب النصوص,https://aiinarabic.com/glossary/text-mining/
+TF-IDF,تردُّد الكلمة- تردُّد المُستند العكسي,https://aiinarabic.com/glossary/tf-idf/
+tf.keras,حُزمةُ كيراس من مكتبة تنسور فلو للتَّعلُّمِ العميقِ من جوجل,https://aiinarabic.com/glossary/tf-keras/
+Theano,ثيانو,https://aiinarabic.com/glossary/theano/
+Time Series,السلاسل الزمنيّة,https://aiinarabic.com/glossary/time-series/
+Token,وحدةٌ لفظيَّةٌ,https://aiinarabic.com/glossary/token/
+Tokenization,التَّقسيمُ إلى وحداتٍ لُغويَّةٍ,https://aiinarabic.com/glossary/tokenization/
+Topic Modeling,نمذجة المواضيع,https://aiinarabic.com/glossary/topic-modeling/
+Transfer Learning,نقلُ التَّعَلُّمِ,https://aiinarabic.com/glossary/transfer-learning/
+Transformer,المُحَوّل,https://aiinarabic.com/glossary/transformer/
+True Negative,قيمة التنبُّؤ السلبي الصحيح,https://aiinarabic.com/glossary/true-negative/
+True Positive,قيمة التنبُّؤ الإيجابي الصحيح,https://aiinarabic.com/glossary/true-positive/
+Two-Stage Detectors,كواشف ذات مرحلتين,https://aiinarabic.com/glossary/two-stage-detectors/
+U-net,شبكةُ يو-نت,https://aiinarabic.com/glossary/u-net/
+Underfitting,ملاءمة ضعيفة,https://aiinarabic.com/glossary/underfitting/
+Upsampling,تكبيير الأبعاد,https://aiinarabic.com/glossary/upsampling/
+Validation Loss,خسارة التحقّق,https://aiinarabic.com/glossary/validation-loss/
+Vanishing Gradient Problem,مُشكِلةُ تلاشي المُشتقِّ,https://aiinarabic.com/glossary/vanishing-gradient-problem/
+Vector Embedding,مُتّجه التّضّمين,https://aiinarabic.com/glossary/vector-embedding/
+Vector Space Modeling,نمذجة فضاء المتجهات,https://aiinarabic.com/glossary/vector-space-modeling/
+VGG Network,شبكة في جي جي,https://aiinarabic.com/glossary/vgg-network/
+Violinplot,مخطّط الكمان,https://aiinarabic.com/glossary/violinplot/
+Vision Transformer (ViT),محوّل الرّؤية,https://aiinarabic.com/glossary/vision-transformer-vit/
+Visual Geometry Group (VGG),شَبَكَةُ مجموعةِ الهندسةِ البصريَّة,https://aiinarabic.com/glossary/visual-geometry-group-vgg/
+Voxel,فوكسل,https://aiinarabic.com/glossary/voxel/
+Voxelshop,فوكسل شوب,https://aiinarabic.com/glossary/voxelshop/
+Word Embedding,تضمينُ الكلِماتِ,https://aiinarabic.com/glossary/word-embedding/
+Word2Vec,نموذج الكلمة إلى متجه,https://aiinarabic.com/glossary/word2vec/
+WordPieceTokenizer,المُقسّم إلى أجزاء الكلمات,https://aiinarabic.com/glossary/wordpiecetokenizer/
+YOLOv3,يُولو الإصدار 3,https://aiinarabic.com/glossary/yolov3/
+You Only Look Once (YOLO),يُولو,https://aiinarabic.com/glossary/you-only-look-once-yolo/
+Zero-Shot Prompting,التّلقين بدون أمثلةٍ,https://aiinarabic.com/glossary/zero-shot-prompting/
