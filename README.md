@@ -20,6 +20,7 @@
 |المعجم العربي للذكاء الاصطناعي| مكتب الذكاء الاصطناعي | [زيارة](https://ai.gov.ae/ar/ai-dictionary/) |
 |قاموس المُصطلحات العلميّة| الذكاء الاصطناعي باللغة العربيّة | [زيارة](https://aiinarabic.com/glossary/) |
 |قاموس مصطلحات محاسبية| منصة محاسب رقمي | [زيارة](https://www.digitalacct.com/accounting-terms/) |
+|قاموس المصطلحات المالية| اتحاد هيئات الاوراق المالية العربية | [زيارة](https://investoreducation.uasa.ae/ar/Glossary.aspx) |
   
 
 
