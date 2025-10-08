@@ -25,16 +25,8 @@
 
 
 
-
-
-
-
-
-
-
-
 📞 تواصل
 
 - 📧 البريد الإلكتروني: baraaashraf@protonmail.com  
-- 🔗 لينكدإن: [linkedin.com/in/yourname](https://www.linkedin.com/in/baraa-sayed-85513719a/)
+- 🔗 لينكدإن: [linkedin.com/in/baraa-sayed](https://www.linkedin.com/in/baraa-sayed-85513719a/)
 - 🌐 موقع إلكتروني: https://bxra2.github.io
