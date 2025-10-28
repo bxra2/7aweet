@@ -1707,7 +1707,7 @@ Number,Arabic,English
 1706,معاملات رأسمالية,capital transactions
 1707,قلنسة,capping
 1708,حروف كبيرة,caps
-1709,"مفتاح ""قفل الحروف الكبية """,caps lock key
+1709,مفتاح 'قفل الحروف الكبيرة',caps lock key
 1710,[اختبار] CAPTCHA,CAPTCHA
 1711,خدمة هاتفية معنونة,captioned telephone service
 1712,بوابة جذابة,captive portal
@@ -3098,7 +3098,7 @@ Number,Arabic,English
 3097,إعادة ترتيب الزبائن,customer rearrangement
 3098,وحدة خدمة الزبائن,customer service unit
 3099,تعقب الزبون للمكالمة,customer-originated trace
-3100,هاتف للزبون يعمل بالعملة المعدنية,customer-owned coin-operated
+3100,هاتف للزبون يعمل بالعملة المعدنية,customer-owned coin-operated telephone
 3101,يلائم وفق الطلب,customize (v)
 3102,قص ولصق,cut and paste
 3103,قطع,cut through
@@ -3638,7 +3638,7 @@ Number,Arabic,English
 3637,مردود كمومي تفاضلي,differential quantum efficiency
 3638,SCSI تفاضلي,differential SCSI
 3639,تشوير تفاضلي,differential signaling
-3640,تعديل متسق تفاضلي بإزاحة الطور (DCPSK),Differentially Coherent Phase-Shift
+3640,تعديل متسق تفاضلي بإزاحة الطور (DCPSK),Differentially Coherent Phase-Shift Keying- DCPSK
 3641,نطاق قاعدي مرمز تفاضليا,differentially encoded baseband
 3642,خدمات متمايزة (DiffServe),Differentiated Services
 3643,شبكة مفاضلة,differentiating network
@@ -3699,7 +3699,7 @@ Number,Arabic,English
 3698,إطار توزيع رقمي (DDF),Digital Distribution Frame
 3699,إلكترونيات رقمية,digital electronics
 3700,مكتب طريف رقمي (DEO),Digital End Office
-3701,اتصالات السلكية محسنة رقمية (DECT),Digital Enhanced Cordless
+3701,اتصالات السلكية محسنة رقمية (DECT),Digital Enhanced Cordless Telecommunications
 3702,مغلف رقمي,digital envelope
 3703,خطأ رقمي,digital error
 3704,دليل رقمي,digital evidence
@@ -3847,7 +3847,7 @@ Number,Arabic,English
 3846,عنوان بثي موجه,directed broadcast address
 3847,[واجهة] دخل مباشر,DirectInput
 3848,تحديد اتجاه,direction finding
-3849,"مفتاح"" الاتجاه""",direction key
+3849,مفتاح 'الاتجاه',direction key
 3850,خط الاتجاه,direction line
 3851,اتجاه المسح,direction of scanning
 3852,اتجاه وصول الأشارة,direction of signal arrival
@@ -4037,7 +4037,7 @@ Number,Arabic,English
 4036,خطف DNS,DNS hijacking
 4037,حل الأسماء بنظام DNS,DNS name resolution
 4038,حلقة [التكرار] DO,DO loop
-4039,"تعليمة "لا تعمل",do nothing instruction
+4039,تعليمة 'لا تعمل',do nothing instruction
 4040,يحضن,dock (v)
 4041,آلية إحضان,docking mechanism
 4042,محطة إحضان,docking station
@@ -4085,7 +4085,7 @@ Number,Arabic,English
 4084,مفتاح حماية عتادي,dongle
 4085,مانح,donor
 4086,[قاعدة] سجلات منع الاتصال,do-not-call registry
-4087,"تعليمة "لا تعمل",do-nothing instruction
+4087,تعليمة 'لا تعمل',do-nothing instruction
 4088,باب,door
 4089,صفحة مدخل,doorway page
 4090,شائبة,dopant
@@ -4115,7 +4115,7 @@ Number,Arabic,English
 4114,مفتاح مزدوج الطول,double length key
 4115,تعديل مزدوج,double modulation
 4116,[إرسال] بنطاق جانبي مزدوج مع تخميد الحامل,Double Side Band Suppressed Carrier
-4117,إرسال بنطاق جانبي مزدوج الحامل (DSBTC),Double Side Band Transmitted
+4117,إرسال بنطاق جانبي مزدوج الحامل (DSBTC),Double Side Band Transmitted Carrier
 4118,تعديل بنطاق جانبي مزدوج,double sideband modulation
 4119,قرص بوجهين,double sided disk
 4120,وصول مزدوج المرجع,double-dereference
@@ -4178,7 +4178,7 @@ Number,Arabic,English
 4177,حنى ديناميكي,dynamic bend
 4178,إيثاق ديناميكي,dynamic binding
 4179,نظام إدارة ديناميكي لقواعد معطيات,dynamic database management
-4180,بروتوكول تشكيل ديناميكي للمضيف (DHCP),Dynamic Host Configuration
+4180,بروتوكول تشكيل ديناميكي للمضيف (DHCP),Dynamic Host Configuration Protocol
 4181,HTML ديناميكي,Dynamic HTML
 4182,وصلة ديناميكية,dynamic link
 4183,حمل ديناميكي,dynamic load
@@ -4280,8 +4280,8 @@ Number,Arabic,English
 4279,يعمي,encrypt (v)
 4280,تعمية ، تشفي,encryption
 4281,خوارزمية تعمية,encryption algorithm
-4282,"مفتاح ""النهاية """,end key
-4283,"علامة "النهاية",end mark
+4282,'مفتاح 'النهاية,end key
+4283,'علامة 'النهاية,end mark
 4284,نهاية الملف (EOF),End Of File
 4285,محرف نهاية الإرسال (EOT),End Of Transmission character
 4286,مكتب طريف,end office
@@ -4351,7 +4351,7 @@ Number,Arabic,English
 4350,مقاومة مكافئة للضجيج,equivalent noise resistance
 4351,حرارة مكافئة للضجيج,equivalent noise temperature
 4352,تعديل رماز نبضي مكافئ,equivalent pulse code modulation
-4353,حرارة مكافئة لضجيج وصلة ساتل,equivalent satellite link noise
+4353,حرارة مكافئة لضجيج وصلة ساتل,equivalent satellite link noise temperature
 4354,خزن يمحى(قابل للمحو),erasable storage
 4355,يمحو,erase (v)
 4356,رأس المحو,erase head
@@ -4526,7 +4526,7 @@ Number,Arabic,English
 4525,تعديل تفاضلي متناظر مرشح بإزاحة الطور,filtered symmetric differential phase-shift keying
 4526,ترشيح,filtering
 4527,برنامج ترشيح,filtering program
-4528,"مفاتيح "الترشيح",FilterKeys
+4528,'مفاتيح 'الترشيح,FilterKeys
 4529,[معيار] بنيان محتوى الوثيقة بالصيغة النهائية للنص (FFTDCA), Final-Form-Text DCA
 4530,[الواجهة] Finder,Finder
 4531,[النافعة] finger,finger
@@ -4718,7 +4718,7 @@ Number,Arabic,English
 4717,دارة رباعية الأسلاك,four-wire circuit
 4718,مكرر رباعي الأسلاك,four-wire repeater
 4719,مجموعة إنهاء رباعية الأسلاك,four-wire terminating set
-4720,"رسالة "الثعلب",fox message
+4720,'رسالة 'الثعلب,fox message
 4721,كسورية,fractal
 4722,ضغط كسوري,fractal compression
 4723,تحويل كسوري,fractal transform
@@ -4800,11 +4800,11 @@ Number,Arabic,English
 4799,وثب التردد,frequency frogging
 4800,نطاق حماية ترددي,frequency guard band
 4801,قفز التردد,frequency hopping
-4802,طيف منتشر بقفز التردد (FHSS),Frequency Hopping Spread
+4802,طيف منتشر بقفز التردد (FHSS),Frequency Hopping Spread Spectrum
 4803,إقفال التردد,frequency lock
 4804,تعديل التردد,frequency modulation
 4805,ترميز بتعديل التردد,frequency modulation encoding
-4806,تردد الإرسال الأمثل (FOT),Frequency of Optimum
+4806,تردد الإرسال الأمثل (FOT),Frequency of Optimum Transmission
 4807,زيحان التردد,frequency offset
 4808,تنبؤ بالتردد,frequency prediction
 4809,مدى التردد,frequency range
@@ -4884,7 +4884,7 @@ Number,Arabic,English
 4883,وصلة فصومة,fusible link
 4884,اندماج,fusion
 4885,جدل اندماجي,fusion splice
-4886,منظومة الاتصالات العمومية المستقبلية للهواتف,Future Public Land Mobile Telecommunications System
+4886,منظومة الاتصالات العمومية المستقبلية للهواتف (FPLMTS),Future Public Land Mobile Telecommunications System
 4887,حوسبة ترجيحية,fuzzy computing
 4888,منطق ترجيحي,fuzzy logic
 4889,مجموعة ترجيحية,fuzzy set
@@ -5152,8 +5152,8 @@ Number,Arabic,English
 5151,مسح لولبي,helical scan
 5152,مساعدة,help
 5153,فريق مساعدة ، برمجية مساعدة,help desk
-5154,"مفتاح "مساعدة",help key
-5155,"شاشة "مساعدة",help screen
+5154,'مفتاح 'مساعدة,help key
+5155,'شاشة 'مساعدة,help screen
 5156,هنري,henry
 5157,هرتز,hertz
 5158,موجة هرتزية,Hertzian wave
@@ -5551,13 +5551,13 @@ Number,Arabic,English
 5550,متكامل,integrated (adj)
 5551,تجهيزة نفاذ متكاملة (IAD),Integrated Access Device
 5552,دارة متكاملة (IC),Integrated Circuit
-5553,بيئة تطوير متكاملة (IDE),Integrated Development
+5553,بيئة تطوير متكاملة (IDE),Integrated Development Environment
 5554,[واجهة] إلكترون يات تجهيزة متكاملة (IDE),Integrated Device Electronics
 5555,شبكة رقمية متكاملة (IDN),Integrated Digital Network
 5556,تراسل متكامل,integrated messaging
 5557,دارة ضوئية متكاملة (IOC),Integrated Optical Circuit
 5558,بصريات متكاملة,integrated optics
-5559,بيئة متكاملة لدعم المشاريع (IPSE),Integrated Project Support
+5559,بيئة متكاملة لدعم المشاريع (IPSE),Integrated Project Support Environment
 5560,الشبكة الرقمية للخدمات المتكاملة (ISDN),Integrated Services Digital Network
 5561,برمجيات متكاملة,integrated software
 5562,حزمة برمجيات متكاملة,integrated software package
@@ -5579,7 +5579,7 @@ Number,Arabic,English
 5578,قاعدة معطيات ذكية,intelligent database
 5579,مجمع ذكي,intelligent hub
 5580,شبكة ذكية,intelligent network
-5581,بروتوكول تطبيق شبكة ذكية (INAP),Intelligent Network Application
+5581,بروتوكول تطبيق شبكة ذكية (INAP),Intelligent Network Application Protocol
 5582,محيطية ذكية,intelligent peripheral
 5583,مطراف ذكي,intelligent terminal
 5584,منظومة نقل ذكي (ITS),Intelligent Transportation System
@@ -5634,7 +5634,7 @@ Number,Arabic,English
 5633,لغة متوسطة,intermediate language
 5634,شبكة متوسطة,intermediate network
 5635,منظومة متوسطة,intermediate system
-5636,نقطة تشوير للترجمة المتوسطة (ITSP),Intermediate Translation Signaling
+5636,نقطة تشوير للترجمة المتوسطة (ITSP),Intermediate Translation Signaling Point
 5637,متقطع,intermittent
 5638,خطأ متقطع,intermittent error
 5639,خلل غير متقطع,intermittent fault
@@ -5659,7 +5659,7 @@ Number,Arabic,English
 5658,الاتحاد الدولي لمعاجلة المعلومات (IFIP),International Federation of Information Processing
 5659,عبارات دولية,international gateways
 5660,النظام الدولي للوحدات (ISU),International System of Units
-5661,الاتحاد الدولي الاتصالات (ITU),International Telecommunication
+5661,الاتحاد الدولي الاتصالات (ITU),International Telecommunication Union
 5662,تدويل,internationalization
 5663,ملاح الإنترنت (الشابكة),internaut
 5664,الإنترنت (الشابكة),Internet
@@ -5667,7 +5667,7 @@ Number,Arabic,English
 5666,حساب على الإنترنت (الشابكة),Internet account
 5667,جهاز الإنترنت (الشابكة),Internet appliance
 5668,مجلس بنيان الإنترنت (الشابكة) (IAB),Internet Architecture Board
-5669,سلطة إسناد أرقام الإنترنت (الشابكة) (IANA),Internet Assigned Numbers
+5669,سلطة إسناد أرقام الإنترنت (الشابكة) (IANA),Internet Assigned Numbers Authority
 5670,فقار الإنترنت (الشابكة),Internet backbone
 5671,بث عبر الإنترنت (الشابكة),Internet broadcasting
 5672,متصفح الإنترنت (الشابكة),Internet browser
@@ -5919,7 +5919,7 @@ Number,Arabic,English
 5918,وكلاء شبكة عصبونية,neugents
 5919,شبكة عصبونية,neural network
 5920,محايد,neutral (adj)
-5921,منظومة برقيات محايدة ذات تيار مستمر,neutral direct-current telegraph
+5921,منظومة برقيات محايدة ذات تيار مستمر,neutral direct-current telegraph system
 5922,أرض محايدة,neutral ground
 5923,عملية محايدة,neutral operation
 5924,مرحل محايد,neutral relay
@@ -6073,10 +6073,10 @@ Number,Arabic,English
 6072,بدون مودم,null modem (adj)
 6073,مؤشر بقيمة معدومة,null pointer
 6074,متوالية [محارف] خالية,null string
-6075,"مفتاح "قفل الأرقام",Num Lock key
+6075,'مفتاح 'قفل الأرقام,Num Lock key
 6076,معالجة [كميات كبيرة من] الأرقام,number crunching
 6077,حمولية الأرقام,number portability
-6078,مركز إدارة حمولية الأرقام (NPAC),Number Portability Administration
+6078,مركز إدارة حمولية الأرقام (NPAC),Number Portability Administration Center
 6079,إدارة خطة ترقيم,numbering plan administration
 6080,محرف عددي,numeric character
 6081,معالج عددي مساعد,numeric coprocessor
@@ -6093,7 +6093,7 @@ Number,Arabic,English
 6092,رماز غرضي,object code
 6093,حاسوب مستهدف,object computer
 6094,قاعدة معطيات غرضية,object database
-6095,مجموعة إدارة قاعدة معطيات غرضية (ODMG),Object Database Management
+6095,مجموعة إدارة قاعدة معطيات غرضية (ODMG),Object Database Management Group
 6096,لغة تعريف غرضية (ODL),Object Definition Language
 6097,ملف غرضي,object file
 6098,ربط الأغراض وتضمينها (OLE),Object Linking and Embedding
@@ -6117,7 +6117,7 @@ Number,Arabic,English
 6116,واجهة غرضية التوجه (OOI),Object-Oriented Interface
 6117,نظام تشغيل غرضي التوجه (OOOS),Object-Oriented Operating Oystem
 6118,برمجة غرضية التوجه (OOP),Object-Oriented Programming
-6119,هندسة برمجيات غرضية التوجه (OOSE),Object-Oriented Software
+6119,هندسة برمجيات غرضية التوجه (OOSE),Object-Oriented Software Engineering
 6120,اختبار غرضي التوجه (OOT),Object-Oriented Testing
 6121,نظم قواعد معطيات علاقتية غرضية,object-relational database systems
 6122,تقابل غرضي علاقات (ORM),Object-Relational Mapping
@@ -6127,7 +6127,7 @@ Number,Arabic,English
 6126,متروك,obsolete
 6127,إشغال,occupancy
 6128,عرض نطاق مشغول,occupied bandwidth
-6129,محطة استفسار عن معطيات المحيطات,oceanographic data interrogating
+6129,محطة استفسار عن معطيات المحيطات,oceanographic data interrogating station
 6130,محطة معطيات المحيطات,oceanographic data station
 6131,نظام ثماني,octal system
 6132,ثانية,octet
@@ -6206,7 +6206,7 @@ Number,Arabic,English
 6205,تعلم موصول [بالخط],online learning
 6206,خدمة موصولة [بالخط],online service
 6207,ترقية برمجيات موصولة [بالخط],online software upgrade
-6208,"حالة ""وصل بالخط """,online state
+6208,"حالة 'وصل بالخط' ",online state
 6209,خزن موصول [بالخط],online storage
 6210,معاملة مباشرة ، معاملة موصولة [بالخط],online transaction
 6211,موصول بالشبكة,on-net
@@ -6246,7 +6246,7 @@ Number,Arabic,English
 6245,نظام مفتوح,open system
 6246,ترابط منظومات مفتوحة (OSI),Open System Interconnection
 6247,بيئة نظم مفتوحة (OSE),Open Systems Environment
-6248,ترابط منظومات مفتوحة (OSI)-نموذج مرجعي,Open Systems Interconnection-
+6248,ترابط منظومات مفتوحة (OSI)-نموذج مرجعي,Open Systems Interconnection-reference model
 6249,دليل موجة مفتوح,open waveguide
 6250,سلك مكشوف,open wire
 6251,[نظام التشغيل] OpenBSD,OpenBSD
@@ -6391,7 +6391,7 @@ Number,Arabic,English
 6390,سرعة الخدمة من المنشئ إلى المرسل إليه,originator-to-recipient speed of service
 6391,ملف يتيم,orphan file
 6392,متعامد,orthogonal
-6393,تضميم متعامد باقتسام التردد (OFDM),Orthogonal Frequency Division
+6393,تضميم متعامد باقتسام التردد (OFDM),Orthogonal Frequency Division Multiplexing
 6394,محول طاقة بنمط متعامد,orthomode transducer
 6395,صورة فوتوغرافية عمودية,orthophotograph
 6396,[نظام التشغيل] OS/2,OS/2
@@ -6718,8 +6718,8 @@ Number,Arabic,English
 6717,مطراف شخصي,personal terminal
 6718,(تقنية تقييم مشروع ومراجعته) PERT,PERT (Project Evaluation and Review Technique)
 6719,بيتا بايت,(PB) petabyte
-6720,"مفتاح "الصفحة التالية",PgDn Key
-6721,"مفتاح "الصفحة السابقة",PgUp Key
+6720,"'مفتاح 'الصفحة التالية",PgDn Key
+6721,"'مفتاح 'الصفحة السابقة",PgUp Key
 6722,خداع,pharming
 6723,طور,phase
 6724,خط طور بديل (PAL),Phase Alternate Line
@@ -6847,7 +6847,7 @@ Number,Arabic,English
 6846,رأس الطباعة,print head
 6847,نمط الطباعة,print mode
 6848,جودة الطباعة,print quality
-6849,"مفتاح "نسخ الشاشة",Print Screen key
+6849,"مفتاح 'نسخ الشاشة'",Print Screen key
 6850,مخدم الطباعة,print server
 6851,منظر الطباعة,print spooler
 6852,لوحة دارات مطبوعة (PCB),Printed Circuit Board
@@ -6974,7 +6974,7 @@ Number,Arabic,English
 6973,تزويد، تموين,provisioning
 6974,وكيل,proxy
 6975,مخدم وكيل,proxy server
-6976,"مفتاح" نسخ الشاشة",PrtSc key
+6976,"'مفتاح 'نسخ الشاشة",PrtSc key
 6977,مربط PS/2,PS/2 connector
 6978,شبه,pseudo
 6979,معدل أخطاء بتات زائف (PBER),Pseudo Bit-Error Ratio
@@ -7167,7 +7167,7 @@ Number,Arabic,English
 7166,أساس، جذر,radix
 7167,فاصلة أصلية,radix point
 7168,خوارزمية فرز بالأساس,radix sorting algorithm
-7169,"متمم ب "الأساس ناقصا واحدا",radix-minus-one complement
+7169,"متمم ب 'الأساس ناقصا واحدا'",radix-minus-one complement
 7170,(صفيفة مكررة من أقراص مستقلة) RAID,RAID (Redundant Arrays Of Independent Disks)
 7171,(صفيفة مكررة من أقراص رخيصة) RAID,RAID (Redundant Arrays Of Inexpensive Disks)
 7172,[صفيفة] RAID 0,RAID 0
@@ -7675,7 +7675,7 @@ Number,Arabic,English
 7674,بروتوكول بسيط للتحكم في العبارة (SGCP),Simple Gateway Control Protocol
 7675,واجهة بريد بسيطة,simple mail interface
 7676,بروتوكول بسيط لنقل البريد (SMTP),Simple Mail Transfer Protocol
-7677,بروتوكول بسيط لإدارة الشبكات (SNMP),Simple Network Management
+7677,بروتوكول بسيط لإدارة الشبكات (SNMP),Simple Network Management Protocol
 7678,بروتوكول بسيط للنفاذ إلى الأغراض (SOAP),Simple Object Access Protocol
 7679,مسح بسيط,simple scanning
 7680,بروتوكول بسيط لإدارة الشاشة (SSMP),Simple Screen Management Protocol
@@ -7945,7 +7945,7 @@ Number,Arabic,English
 7944,منبع/مفرغ,source/sink
 7945,جسر جنوبي,south bridge
 7946,فراغ,space
-7947,"محرف "فراغ",space character
+7947,"محرف 'فراغ'",space character
 7948,تعقيد الفضاء,space complexity
 7949,تنوع الفضاءات,space diversity
 7950,تضميم باقتسام المكان,space division multiplexing
@@ -7954,14 +7954,14 @@ Number,Arabic,English
 7953,خدمة أبحاث الفضاء,space research service
 7954,قياس فضائي من بعد,space telemetry
 7955,تتبع فضائي,space tracking
-7956,"قضيب" الفراغ",spacebar
+7956,"قضيب 'الفراغ'",spacebar
 7957,تضميم باقتسام املكان,space-division multiplexing
 7958,ابتدال باقتسام المكان,space-division switching
 7959,مباعدة,spacing
 7960,تشوه نهاية المباعدة,spacing end distortion
 7961,نبضة المباعدة,spacing pulse
 7962,إشارة المباعدة,spacing signal
-7963,"رماز "سباغيتي",spaghetti code
+7963,"رماز 'سباغيتي'",spaghetti code
 7964,يغل,spam (v)
 7965,مانع [البريد] الواغل,spam blocker
 7966,[بريد] واغل على التراسل الآني (SPIM),SPam over Instant Messaging
@@ -8312,7 +8312,7 @@ Number,Arabic,English
 8311,تردد عال جدا (VHF),Very High Frequency
 8312,تكامل وسيع النطاق (VLSI),Very Large-Scale Integration
 8313,مطراف ذو فتحة صغية جدا (VSAT),Very Small Aperture Terminal
-8314,خدمة شبكة فقارية (BNS) عالية السرعة جدا,very-high-speed Backbone Network
+8314,خدمة شبكة فقارية (BNS) عالية السرعة جدا,very-high-speed Backbone Network Service
 8315,موائمة VGA,VGA adapter
 8316,قرص متراص فيديوي (VCD),Video CD
 8317,كودك (مرمز/مفكك ترميز) فيديوي,video codec
@@ -8606,7 +8606,7 @@ Number,Arabic,English
 8605,مسؤول وب,Webmaster
 8606,اصطفاف عادل مثقل (WFQ),Weighted Fair Queueing
 8607,اصطفاف دوار مثقل,weighted round robin queuing
-8608,"تقييم" ماذا-لو ","'what-if' evaluation"
+8608,تقييم 'ماذا-لو',"'what-if' evaluation"
 8609,[النافعة] whatis,whatis
 8610,هوائي سوطي,whip antenna
 8611,صندوق أبيض,white box
@@ -8685,7 +8685,7 @@ Number,Arabic,English
 8684,مشغل موسيقا لاسلكي,wireless music player
 8685,شبكة لاسلكية,wireless network
 8686,حمولية رقم لاسلكي (WNP),Wireless Number Portability
-8687,منظومة اتصالات مكتبية لاسلكية (WOTS),Wireless Office Telecommunications
+8687,منظومة اتصالات مكتبية لاسلكية (WOTS),Wireless Office Telecommunications System
 8688,شبكة لاسلكية ذات نطاق شخصي (WPAN),Wireless Personal Area Network
 8689,بوابة لاسلكية,wireless portal
 8690,شبكة لاسلكية ذات نطاق إقليمي,wireless regional area network
@@ -8726,7 +8726,7 @@ Number,Arabic,English
 8725,شبكة باعتماد مجموعات العمل,workgroup-based network
 8726,مترجم ورقات عمل,worksheet compiler
 8727,حيز العمل,workspace
-8728,المنظمة العالمية للملكية الفكرية (WIPO),World Intellectual Property
+8728,المنظمة العالمية للملكية الفكرية (WIPO),World Intellectual Property Organization
 8729,خطة ترقيم عالمية,world numbering plan
 8730,اسم عالمي النطاق (WWN),World Wide Name
 8731,أسوأ ملاءمة,worst fit
@@ -8747,7 +8747,7 @@ Number,Arabic,English
 8746,متوافق مع [المعالج] x86,x86 compatible
 8747,مقلد [المعالج] x86,x86 emulator
 8748,حوسبة باعتماد x86,x86-based computing
-8749,بروتوكول XDR (تمثيل خارجي للمعطيات),XDR (External Data Representation)
+8749,بروتوكول XDR (تمثيل خارجي للمعطيات),XDR (External Data Representation) protocol
 8750,[رقاقة] Xeon,Xeon
 8751,طابعة التصوير الجاف,xerographic printer
 8752,تصوير جاف,xerography
