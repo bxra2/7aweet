@@ -1,4 +1,4 @@
-golang/tmp/*
+/tmp/build-errors.log
+/golang/tmp/build-errors.log
 bin/
-ds1.csv
 main

@@ -1,0 +1,20 @@
+services:
+  backend:
+    build: ./golang
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./golang:/app
+    command: ["go", "run", "./main.go"]
+  frontend:
+    build: ./svelte
+    ports:
+      - "3006:3005"  # expose port 3005
+    volumes:
+      - ./svelte:/app
+    command: ["npm", "run", "dev", "--", "--port", "3005", "--host"]
+    environment:
+      - HOST=0.0.0.0
+    depends_on:
+      - backend
+

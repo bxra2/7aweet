@@ -26,6 +26,7 @@
 | معجم واجهة المستخدم | كيدي KDE  | [زيارة](https://github.com/KDE) |
 | معجم واجهة المستخدم | جنوم Gnome | [زيارة](https://gitlab.gnome.org/GNOME) |
 | معجم المصطلحات السوري | الجمعية العلمية السورية للمعلوماتية| [زيارة](https://scs.org.sy/?q=ar%2Fscs%2Fpublications%2Fictdictionary) |
+| قائمة مصطلحات المعلوماتية | مطبوعات مجمع اللغة العربية بدمشق | [زيارة](https://arabacademy-sy.org//uploads/academy_publication/books/informatic-list.pdf) |
 | معجم ارب ايز | ارب ايز | [زيارة](https://www.arabeyes.org/) |
 | معجم ارب تيرم | ارب تيرم | [زيارة](https://arabterm.org/index.php?id=3&L=3) |
 | قاموس مصطلحات المستقبل | دبي المستقبل| [زيارة](https://arabicglossary.dubaifuture.ae/ar/browse/) |
