@@ -6,5 +6,5 @@ COPY package*.json ./
 RUN npm install
 COPY . .
 
-EXPOSE 3005
-CMD ["npm", "run", "dev", "--", "--port", "3005", "--host"]
+EXPOSE 3000
+CMD ["npm", "run", "dev", "--", "--port", "3000", "--host"]

@@ -9,10 +9,10 @@ services:
   frontend:
     build: ./svelte
     ports:
-      - "3006:3005"  # expose port 3005
+      - "3000:3000"
     volumes:
       - ./svelte:/app
-    command: ["npm", "run", "dev", "--", "--port", "3005", "--host"]
+    command: ["npm", "run", "dev", "--", "--port", "3000", "--host"]
     environment:
       - HOST=0.0.0.0
     depends_on:
