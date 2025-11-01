@@ -1,5 +1,12 @@
 export async function load({ fetch }) {
-    const res = await fetch('http://localhost:5000/api/sources')
+    const API_BASE = import.meta.env.VITE_API_BASE_URL
+
+    if (!API_BASE) {
+        throw new Error('VITE_API_BASE_URL is not defined!')
+    }
+    const res = await fetch(`${API_BASE}/sources`, {
+        agent: false,
+    })
     //  const contentType = res.headers.get('content-type');
     const text = await res.text()
 

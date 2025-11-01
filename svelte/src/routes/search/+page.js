@@ -16,8 +16,15 @@ export async function load({ fetch, url }) {
     searchParams.set('limit', pageSize)
     searchParams.set('page', pageNumber)
 
-    const reqURI = `http://localhost:5000/api/search?${searchParams.toString()}`
-    const res = await fetch(reqURI)
+     const API_BASE = import.meta.env.VITE_API_BASE_URL;
+
+    if (!API_BASE) {
+        throw new Error('VITE_API_BASE_URL is not defined!');
+    }
+    const reqURI = `${API_BASE}/search?${searchParams.toString()}`
+    const res = await fetch(reqURI, {
+        agent: false,
+    })
 
     const info = await res.json()
     if (!res.ok) {

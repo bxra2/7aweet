@@ -1,7 +1,13 @@
 export async function load({ fetch }) {
-    const res = await fetch('http://localhost:5000/api/terms/random')
-    //  const contentType = res.headers.get('content-type');
-    const text = await res.text()
+    const API_BASE = import.meta.env.VITE_API_BASE_URL
+
+    if (!API_BASE) {
+        throw new Error('VITE_API_BASE_URL is not defined!')
+    }
+
+    const res = await fetch(`${API_BASE}/terms/random`, {
+        agent: false,
+    })
 
     if (!res.ok) {
         return {
@@ -11,7 +17,7 @@ export async function load({ fetch }) {
     }
 
     try {
-        const randTerms = JSON.parse(text)
+        const randTerms = await res.json()
         return { randTerms }
     } catch (err) {
         return {
