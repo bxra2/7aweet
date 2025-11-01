@@ -13,6 +13,7 @@ func SetRoutes(app *fiber.App, controller *controllers.App) {
 	app.Get("/api/about", controller.LoadAboutPage)
 
 	app.Get("/api/sources", controller.GetAllSources)
+	app.Get("/api/collections", controller.GetAllCollections)
 	app.Get("/api/terms/random", controller.Find10RandomWords)
 
 	// app.Get("/api/suggestions", func(c *fiber.Ctx) error {
