@@ -1,20 +1,25 @@
 services:
   backend:
     build: ./golang
+    container_name: myproject-backend
     ports:
       - "5000:5000"
-    volumes:
-      - ./golang:/app
+    networks:
+      - mynet
     command: ["go", "run", "./main.go"]
+
   frontend:
     build: ./svelte
+    container_name: myproject-frontend
     ports:
       - "3000:3000"
-    volumes:
-      - ./svelte:/app
-    command: ["npm", "run", "dev", "--", "--port", "3000", "--host"]
-    environment:
-      - HOST=0.0.0.0
+    networks:
+      - mynet
     depends_on:
       - backend
+    environment:
+      - VITE_API_BASE_URL=http://myproject-backend:5000/api
+    command: ["npm", "run", "dev", "--", "--port", "3000", "--host"]
 
+networks:
+  mynet:
