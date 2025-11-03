@@ -27,6 +27,7 @@
 | معجم واجهة المستخدم | جنوم Gnome | [زيارة](https://gitlab.gnome.org/GNOME) |
 | معجم المصطلحات السوري | الجمعية العلمية السورية للمعلوماتية| [زيارة](https://scs.org.sy/?q=ar%2Fscs%2Fpublications%2Fictdictionary) |
 | قائمة مصطلحات المعلوماتية | مطبوعات مجمع اللغة العربية بدمشق | [زيارة](https://arabacademy-sy.org//uploads/academy_publication/books/informatic-list.pdf) |
+| معجم ألفاظ الحضارة | مطبوعات مجمع اللغة العربية بدمشق | [زيارة](https://arabacademy-sy.org/uploads/academy_publication/books/civilization-1.pdf) |
 | معجم ارب ايز | ارب ايز | [زيارة](https://www.arabeyes.org/) |
 | معجم ارب تيرم | ارب تيرم | [زيارة](https://arabterm.org/index.php?id=3&L=3) |
 | قاموس مصطلحات المستقبل | دبي المستقبل| [زيارة](https://arabicglossary.dubaifuture.ae/ar/browse/) |
@@ -36,7 +37,8 @@
 |قاموس المُصطلحات العلميّة| الذكاء الاصطناعي باللغة العربيّة | [زيارة](https://aiinarabic.com/glossary/) |
 |قاموس مصطلحات محاسبية| منصة محاسب رقمي | [زيارة](https://www.digitalacct.com/accounting-terms/) |
 |قاموس المصطلحات المالية| اتحاد هيئات الاوراق المالية العربية | [زيارة](https://investoreducation.uasa.ae/ar/Glossary.aspx) |
-  
+|مشروع المصطلحات الخاصة| المنظمة العربية للترجمة | [زيارة](https://archive.org/details/NAH2012ENFRAR/) |
+
 
 
 
