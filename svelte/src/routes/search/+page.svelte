@@ -20,7 +20,7 @@
     let sources: Array<any>
     let query: string
     let limit: number
-
+    
     $: {
         count = data.count
         terms = data.terms
@@ -92,6 +92,9 @@
                     sourceNameAr={term.Source.NameAr}
                     DomainName={term.Domain.Name}
                     DomainNameAr={term.Domain.NameAr}
+                    collectionName={term.Collection.Name}
+                    collectionNameAr={term.Collection.NameAr}
+                    collectionURL={term.Collection.URL}
                     sourceURL={term.URL}
                 />
             {/each}

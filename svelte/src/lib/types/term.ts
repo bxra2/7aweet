@@ -1,5 +1,6 @@
 import type { Source } from "./source"
 import type { Domain } from "./domain"
+import type { Collection } from "./collection"
 
 export type Term = {
     ID: number
@@ -13,8 +14,10 @@ export type Term = {
     // Foreign Key Fields
     SourceID: Number
     DomainID: Number
+    CollectionID: Number
 
     // Associations
     Source: Source
     Domain: Domain
+    Collection: Collection
 }

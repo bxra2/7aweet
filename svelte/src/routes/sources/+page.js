@@ -4,7 +4,7 @@ export async function load({ fetch }) {
     if (!API_BASE) {
         throw new Error('VITE_API_BASE_URL is not defined!')
     }
-    const res = await fetch(`${API_BASE}/sources`, {
+    const res = await fetch(`${API_BASE}/collections`, {
         agent: false,
     })
     //  const contentType = res.headers.get('content-type');

@@ -7,10 +7,13 @@
         german,
         english,
         desc,
+        collectionNameAr,
+        collectionName,
+        collectionURL,
         sourceName,
         sourceNameAr,
-        DomainNameAr,
         sourceURL,
+        DomainNameAr,
         DomainName
 </script>
 
@@ -29,7 +32,7 @@
             <div class="info__detail">{desc}</div>
         </div>
         <div class="info platform">
-            <span>المصدر:</span>
+            <span>المعجم:</span>
             <span>
                 <a class="term-link" target="_blank" href={sourceURL}>
                     {sourceNameAr}
@@ -38,6 +41,18 @@
             <span>
                 <a class="term-link" target="_blank" href={sourceURL}>
                     {sourceName}
+                </a>
+            </span>
+            <hr />
+            <span>المصدر:</span>
+            <span>
+                <a class="term-link" target="_blank" href={collectionURL}>
+                    {collectionNameAr}
+                </a>
+            </span>
+            <span>
+                <a class="term-link" target="_blank" href={collectionURL}>
+                    {collectionName}
                 </a>
             </span>
             <hr />

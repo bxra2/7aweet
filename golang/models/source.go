@@ -7,11 +7,13 @@ import (
 )
 
 type Source struct {
-	ID          uint   `gorm:"primaryKey"`
-	Name        string `gorm:"column:name"`
-	Description string `gorm:"column:description"`
-	NameAr      string `gorm:"column:name_ar"`
-	URL         string `gorm:"column:url"`
+	ID           uint       `gorm:"primaryKey"`
+	Name         string     `gorm:"column:name"`
+	Description  string     `gorm:"column:description"`
+	NameAr       string     `gorm:"column:name_ar"`
+	URL          string     `gorm:"column:url"`
+	CollectionID uint       `gorm:"column:collection_id;default:0"`
+	Collection   Collection `gorm:"foreignKey:CollectionID;column:collection_id"`
 }
 
 type SourceCount struct {

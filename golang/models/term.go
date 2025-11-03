@@ -17,12 +17,14 @@ type Term struct {
 	URL         string `gorm:"column:url"`
 
 	// Foreign Key Fields
-	SourceID uint `gorm:"not null"`
-	DomainID uint `gorm:"not null"`
+	SourceID     uint `gorm:"not null"`
+	DomainID     uint `gorm:"not null"`
+	CollectionID uint `gorm:"column:collection_id;default:0"`
 
 	// Associations
-	Source Source `gorm:"foreignKey:SourceID;column:source_id"`
-	Domain Domain `gorm:"foreignKey:DomainID;column:domain_id"`
+	Source     Source     `gorm:"foreignKey:SourceID;column:source_id"`
+	Domain     Domain     `gorm:"foreignKey:DomainID;column:domain_id"`
+	Collection Collection `gorm:"foreignKey:CollectionID;column:collection_id"`
 }
 
 func FindTermsByWord(
@@ -51,6 +53,7 @@ func FindTermsByWord(
 	// Base query for terms
 	query := db.Preload("Domain").
 		Preload("Source").
+		Preload("Collection").
 		Where("english LIKE ? OR english LIKE ? OR arabic LIKE ? OR arabic LIKE ?",
 			"% "+word+"%", word+"%", "% "+word+"%", word+"%").
 		Order("LENGTH(english)").

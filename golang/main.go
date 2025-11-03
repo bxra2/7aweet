@@ -20,7 +20,7 @@ func main() {
 	}
 	port := os.Getenv("PORT")
 	if port == "" {
-		port = ":4000"
+		port = ":5000"
 	} else {
 		port = ":" + port
 	}
@@ -29,12 +29,12 @@ func main() {
 	if err != nil {
 		log.Fatalf("failed to Open database: %v", err)
 	}
-	err = db.AutoMigrate(&models.Source{}, &models.Term{}, &models.Domain{})
+	err = db.AutoMigrate(&models.Source{}, &models.Term{}, &models.Domain{}, &models.Collection{})
 	if err != nil {
 		log.Fatalf("failed to migrate database: %v", err)
 	}
 
-	// file, err := os.Open("csv/MMA.csv")
+	// file, err := os.Open("csv/قائمة مصطلحات المعلوماتية.csv")
 	// if err != nil {
 	// 	fmt.Println("Error opening CSV file:", err)
 	// 	return
@@ -50,27 +50,28 @@ func main() {
 
 	// for _, record := range records[1:] {
 	// 	term := models.Term{
-	// 		English:     record[3],
-	// 		Arabic:      record[0],
+	// 		English:     record[2],
+	// 		Arabic:      record[1],
 	// 		French:      "",
 	// 		German:      "",
-	// 		URL:         "https://www.stats.gov.sa/glossary-of-statistical-terms",
-	// 		Description: record[1],
+	// 		URL:         "https://arabacademy-sy.org//uploads/academy_publication/books/informatic-list.pdf",
+	// 		Description: "",
 	// 	}
-	// 	term.DomainID = 43
-	// 	term.SourceID = 13
-
+	// 	term.DomainID = 12
+	// 	term.SourceID = 3
+	// 	term.CollectionID = 4
 	// 	db.Create(&term)
 	// }
 
 	// source := models.Source{
-	// 	ID:          13,
-	// 	Name:      		"General Authority for Statistics",
-	// 	NameAr:        	"الهيئة العامة للإحصاء",
-	//  	Description: "تعــد الإحصاءات أحــد أهــم العناصــر الأساسية لعمليــة التخطيــط ودعــم اتخــاذ القــرارات لكافــة القطاعــات. ومــن هــذا المنطلــق تم العمل على هــذا المعجم الذي يحتوي على قائمة كاملة بجميع المصطلحات والتعريفات الإحصائية المستخدمة في كافة المنهجيات والتقارير والنشرات الإحصائية الصادرة عن الهيئة العامة للإحصاء باللغتين العربية والانجليزية. تأتي أهمية هذا المعجم في كونه يوفر جميع المصطلحات المستخدمة في الهيئة العامة للإحصاء، مما يجعل من السهل توحيد استخدام هذه المصطلحات أينما وردت، إضافة إلى نشره على البوابة الإلكترونية الرسمية للهيئة، لتستفيد منه كافة الجهات والمنظمات ذوات العلاقة واستخدام المصطلحات متى دعت الحاجة إلى ذلك. نأمــل بــأن يســاهم هذا المعجم فــي تعزيــز الشــفافية في العمــل الإحصائي وزيــادة الوعــي الإحصائي لجميــع الفئــات المســتخدمة للبيانـات والمعلومــات والمؤشــرات الإحصائية، وستقوم الهيئة بتطويــره وتحديثــه بشكل مستمر حسب الحاجة والمتغيرات. يتضمن المعجم اكثر من 850 مصطلح إحصائي, وسيتم تحديثه دورياً لمواكبة التطورات والمستجدات في المجال الإحصائي.",
-	//  	URL:         "https://www.stats.gov.sa/glossary-of-statistical-terms",
-	//  }
-	//  db.Create(&source)
+	// 	ID:           3,
+	// 	NameAr:       "قائمة مصطلحات المعلوماتية",
+	// 	Name:         "informatic list",
+	// 	Description:  "",
+	// 	URL:          "https://arabacademy-sy.org/uploads/academy_publication/books/informatic-list.pdf",
+	// 	CollectionID: 4,
+	// }
+	// db.Create(&source)
 
 	// domain := models.Domain{
 	// 	Name:   "Statistics",
@@ -82,7 +83,11 @@ func main() {
 
 	app := fiber.New()
 	app.Static("/", "./public")
-	app.Use(cors.New())
+	app.Use(cors.New(cors.Config{
+		AllowOrigins: "http://localhost:3005, http://localhost:3000",
+		AllowHeaders: "Origin, Content-Type, Accept, Authorization",
+		AllowMethods: "GET,POST,PUT,DELETE,OPTIONS",
+	}))
 	controller := &controllers.App{DB: db}
 	routes.SetRoutes(app, controller)
 
