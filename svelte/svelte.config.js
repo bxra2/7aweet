@@ -1,7 +1,13 @@
-import adapter from '@sveltejs/adapter-node';
+import adapter from '@sveltejs/adapter-static';
 
 export default {
   kit: {
-    adapter: adapter()
+    adapter: adapter({
+      pages: '../golang/public',
+      assets: '../golang/public',
+      fallback: 'index.html',
+      precompress: false,
+      strict: true
+    })
   }
 };

@@ -34,7 +34,7 @@ func main() {
 		log.Fatalf("failed to migrate database: %v", err)
 	}
 
-	// file, err := os.Open("csv/قائمة مصطلحات المعلوماتية.csv")
+	// file, err := os.Open("csv/مصطلحات اللسانيات و المعاجم.csv")
 	// if err != nil {
 	// 	fmt.Println("Error opening CSV file:", err)
 	// 	return
@@ -50,28 +50,37 @@ func main() {
 
 	// for _, record := range records[1:] {
 	// 	term := models.Term{
-	// 		English:     record[2],
+	// 		English:     record[0],
 	// 		Arabic:      record[1],
 	// 		French:      "",
 	// 		German:      "",
-	// 		URL:         "https://arabacademy-sy.org//uploads/academy_publication/books/informatic-list.pdf",
+	// 		URL:         "https://archive.org/details/NAH2012ENFRAR/",
 	// 		Description: "",
 	// 	}
-	// 	term.DomainID = 12
-	// 	term.SourceID = 3
-	// 	term.CollectionID = 4
+	// 	term.DomainID = 16
+	// 	term.SourceID = 23
+	// 	term.CollectionID = 16
 	// 	db.Create(&term)
 	// }
 
 	// source := models.Source{
-	// 	ID:           3,
-	// 	NameAr:       "قائمة مصطلحات المعلوماتية",
-	// 	Name:         "informatic list",
+	// 	ID:           23,
+	// 	NameAr:       "مصطلحات اللسانيات و المعاجم",
+	// 	Name:         "Linguistics and Lexicography Terminology",
 	// 	Description:  "",
-	// 	URL:          "https://arabacademy-sy.org/uploads/academy_publication/books/informatic-list.pdf",
-	// 	CollectionID: 4,
+	// 	URL:          "https://archive.org/details/NAH2012ENFRAR",
+	// 	CollectionID: 16,
 	// }
 	// db.Create(&source)
+
+	// collection := models.Collection{
+	// 	ID:          16,
+	// 	NameAr:      "المنظمة العربية للترجمة",
+	// 	Name:        "Arab Organization for Translation",
+	// 	Description: "المنظمة العربية للترجمة منظمة دولية متخصصة، غير حكومية ، مستقلة ولا تهدف إلى الربح، مقرها بيروت - لبنان. وهي تتمتع 'بكافة المزايا والحصانات اللازمة لأداء مهامها، أسوة بالمنظمات الدولية والإقليمية العاملة في إطار الأمم المتحدة'، اعتماداً على المرسوم رقم 2803 الصادر عن الحكومة اللبنانية بتاريخ 14 أبريل 2000. ",
+	// 	URL:         "http://www.aot-arab.org/",
+	// }
+	// db.Create(&collection)
 
 	// domain := models.Domain{
 	// 	Name:   "Statistics",
@@ -91,7 +100,7 @@ func main() {
 	controller := &controllers.App{DB: db}
 	routes.SetRoutes(app, controller)
 
-	app.Use(routes.NotFoundMiddleware)
+	app.Use(routes.SPAFallback("./public/index.html"))
 
 	log.Fatal(app.Listen(port))
 }

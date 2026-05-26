@@ -1,33 +1,37 @@
 package routes
 
 import (
+	"strings"
+
 	"github.com/bxra2/7aweet/controllers"
 	"github.com/gofiber/fiber/v2"
 )
 
 func SetRoutes(app *fiber.App, controller *controllers.App) {
-	// app.Get("/", func(c *fiber.Ctx) error {
-	// 	return utils.Render(c, views.Home())
-	// })
+	api := app.Group("/api")
+	// set routes for api
 
-	app.Get("/api/about", controller.LoadAboutPage)
+	api.Get("/about", controller.LoadAboutPage)
+	api.Get("/sources", controller.GetAllSources)
+	api.Get("/collections", controller.GetAllCollections)
+	api.Get("/terms/random", controller.Find10RandomWords)
+	api.Get("/search", controller.SearchTerm)
 
-	app.Get("/api/sources", controller.GetAllSources)
-	app.Get("/api/collections", controller.GetAllCollections)
-	app.Get("/api/terms/random", controller.Find10RandomWords)
-
-	// app.Get("/api/suggestions", func(c *fiber.Ctx) error {
-	// 	return utils.Render(c, views.Suggestions())
-	// })
-	app.Get("/api/search", controller.SearchTerm)
-
-	app.Get("/api/health", func(c *fiber.Ctx) error {
+	api.Get("/health", func(c *fiber.Ctx) error {
 		return c.JSON(fiber.Map{"message": "Hello, World!"})
 	})
-
+	// set not found handler
+	api.Use(func(c *fiber.Ctx) error {
+		return c.Status(fiber.StatusNotFound).JSON(fiber.Map{"error": "Not found"})
+	})
 }
 
-func NotFoundMiddleware(c *fiber.Ctx) error {
-	c.Status(fiber.StatusNotFound)
-	return c.JSON(fiber.Map{"error": "Not found"})
+// set single page application fallback
+func SPAFallback(indexPath string) fiber.Handler {
+	return func(c *fiber.Ctx) error {
+		if strings.HasPrefix(c.Path(), "/api/") {
+			return c.Status(fiber.StatusNotFound).JSON(fiber.Map{"error": "Not found"})
+		}
+		return c.SendFile(indexPath)
+	}
 }
