@@ -170,7 +170,9 @@ td {
     text-align: center;
     position: relative;
 }
-
+.darkmodetoggle{
+    margin-left: 40px;
+}
 /* .headerobjectswrapper {
     } */
 
